@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+paginate = 300
+theme = "PaperMod"
+
+[params]
+  [cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false

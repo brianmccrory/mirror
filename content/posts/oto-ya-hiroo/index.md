@@ -1,0 +1,47 @@
++++
+title = "Oto-ya Hiroo"
+author = ["Brian McCrory"]
+publishDate = 2025-04-30
+tags = ["clubs", "premium"]
+draft = false
++++
+
+{{< figure src="L1270548x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025" >}}
+
+A markedly different destination in the collection of interesting jazz spots in Tokyo, Oto-ya Hiroo is an open performance space in the Hiroo Plaza shopping mall. The light-filled atrium on the second floor holds daytime jazz events, where a wide stage and folding chairs are set up right next to the mall’s central escalators.
+
+{{< figure src="IMG_20250119_134557331-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025" >}}
+
+Oto-ya Hiroo’s setup is simple but comfortable, providing a friendly atmosphere to listen to popular local jazz acts. This is a delight for mixed audiences made up of casual shoppers who watch from the wings or are taking a break from shopping, curious tourists who pop in and out, and dedicated jazz fans who come here to catch their favorite musicians.
+
+{{< figure src="IMG_20230416_130318862_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Akiko Suda (vocals), Yuichi Narita (piano), and Miya (flute) at Oto-ya Hiroo in April 2023" >}}
+
+For a completely different setting than the atmosphere of dark and smoky jazz bars, this venue is a great option for a pleasant afternoon of jazz, shopping, and browsing. Another plus: the daytime shows are free. Afternoon shows typically start at around 1:00 pm for two sets of music and don’t require reservations — just walk up and take a seat. There are occasional evening events as well, which may require securing a reservation and purchasing tickets.
+
+{{< figure src="IMG_20230416_133426129x-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Akiko Suda (vocals), Yuichi Narita (piano), and Miya (flute) at Oto-ya Hiroo in April 2023" >}}
+
+{{< figure src="IMG_20181209_135307853-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Hiroco Nagano (vocals), Seiji Endo (piano), and Mark Tourian (bass) at Oto-ya Hiroo in December 2018" >}}
+
+{{< figure src="IMG_20181209_144003096-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Hiroco Nagano (vocals), Seiji Endo (piano), and Mark Tourian (bass) at Oto-ya Hiroo in December 2018" >}}
+
+{{< figure src="L1270549-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Before the show at Oto-ya Hiroo" >}}
+
+{{< figure src="L1270545-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025" >}}
+
+{{< figure src="L1270552-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Naoko Akimoto (vocals) and Daisei Mii (violin) at Oto-ya Hiroo in January 2025" >}}
+
+{{< figure src="L1270551x-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Singer Naoko Akimoto at Oto-ya Hiroo in January 2025" >}}
+
+{{< figure src="L1270553x-1200.jpeg" caption="<span class=\"figure-number\">Figure 11: </span>Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025" >}}
+
+{{< figure src="L1270541-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Entering Hiroo Plaza Galleria" >}}
+
+{{< figure src="L1270554-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Oto-ya Hiroo schedule board for January 2025" >}}
+
+{{< figure src="IMG_20250119_152626777-1200.jpeg" caption="<span class=\"figure-number\">Figure 14: </span>Welcome to Oto-ya Hiroo" >}}
+
+
+## For more information: {#for-more-information}
+
+-   [Oto-ya Hiroo’s website](http://hiroo-plaza.com/event/sound.html)
+-   [Located near Hiroo station in Tokyo, Japan](https://maps.app.goo.gl/aeYabBAquKJoUTtP6)

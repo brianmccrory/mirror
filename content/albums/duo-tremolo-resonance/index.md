@@ -1,0 +1,49 @@
++++
+title = "Duo Tremolo: Resonance"
+author = ["Brian McCrory"]
+publishDate = 2021-03-03
+tags = ["albums"]
+draft = false
+[cover]
+  image = "duo-tremolo-resonance-460.jpeg"
+  relative = true
++++
+
+Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on _Resonance_, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.
+
+The graceful players combine the dimensions of Hori’s precise, finessed notes and Baba’s snazzy, bluesy lines at relaxed mid-tempo jaunts, rapid and fluid modern pieces, Latin grooves, and gentle ballads. The music is joyful and emotive, and the two converse with a comfortable flow built solidly on their years performing in various settings. The duo clearly enjoys playing together and it comes through in their playful, professional music.
+
+Two of the songs also feature guest percussionist Saori Sendo, and add rich rhythms and dynamics on Bob Berg’s “Friday Night at the Cadillac Club” and Baba’s “J.M.”. The final track “Pedra Bonita” adds another successful layer, where the two musicians are joined by singer Aya Kurosawa on the grooving Brazilian celebration with a rousing vocal ending.
+
+{{< figure src="L1220661-1024.jpg" >}}
+
+{{< figure src="L1220662-1024.jpg" >}}
+
+{{< figure src="L1220663-1024.jpg" >}}
+
+{{< figure src="L1220665-1024.jpg" >}}
+
+
+## Resonance by Duo Tremolo {#resonance-by-duo-tremolo}
+
+-   [Hideaki Hori](https://www.hideakihori.com/) - piano, voice and percussion on #11
+-   [Takayoshi Baba](https://babaviolao.wixsite.com/babatakayoshi) - guitar, voice on #11
+-   [Saori Sendo](http://www.c-a-s-net.co.jp/saoli/) - percussion on #3, #8
+-   [Aya Kurosawa](https://ayakurosawa.me/) - voice on #11
+
+Released in 2019 on Orbit Records as ORG-1004.
+
+_Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さおり Sendo Saori 黒沢綾 Kurosawa Aya_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [A live performance of Friday Night at the Cadillac Club:](https://youtu.be/jm3tl3B2AWc)
+
+{{< youtube jm3tl3B2AWc >}}
+
+-   [Jazz Street performance:](https://youtu.be/R6vuPsUzibI)
+
+{{< youtube R6vuPsUzibI >}}
+
+-   Excerpt from track #2: [“Choro de Tremolo”](https://www.jazzofjapan.com/archive/audio/#mix-7)

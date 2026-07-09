@@ -1,0 +1,23 @@
++++
+title = "Alfie"
+author = ["Brian McCrory"]
+publishDate = 2023-05-05
+tags = ["clubs", "premium"]
+draft = false
++++
+
+{{< figure src="P1060603-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>The Harumi Nomoto trio playing at Alfie in 2011." >}}
+
+Alfie is a jazz bar that offers a quality experience in the heart of Roppongi and is a great choice for jazz in Tokyo. The music here is excellent and delivered at a professional level, well-suited to the high level of service and atmospheric setting.
+
+{{< figure src="L1020355-1024.jpeg" >}}
+
+Depending on any particular night you may hear vocal jazz, funk jazz, modern jazz, or straight-ahead jazz performed by experienced musicians on a small stage surrounded by tables and a nearby overhanging balcony area. This spot offers an amazing vibe and location with a long history of being an authentic and popular Tokyo jazz club.
+
+{{< figure src="IMG_20181106_224737529-1024.jpeg" >}}
+
+
+## For more information: {#for-more-information}
+
+-   [Alfie’s website](http://alfie.tokyo/)
+-   [Located near Roppongi station in Tokyo, Japan](https://goo.gl/maps/zRJC3noVBR2VSv1R6)

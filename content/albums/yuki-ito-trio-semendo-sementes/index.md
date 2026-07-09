@@ -1,0 +1,54 @@
++++
+title = "Yuki Ito Trio: Semendo Sementes"
+author = ["Brian McCrory"]
+publishDate = 2026-06-14
+tags = ["albums"]
+draft = false
+[cover]
+  image = "yuki-ito-trio-semendo-sementes-460.jpeg"
+  relative = true
++++
+
+_Semendo Sementes_ is a jazz piano trio album from bassist Yuki Ito released in 2021. While bassist and composer Ito has recorded albums with different forms and combinations of musicians, and even a solo bass album, this is her first physical full-album release where she leads a piano trio. Joining her in the trio is pianist Yuka Yanigahara and drummer Hiro Kimura, regular members who were also on her previous digital mini-album release. As the leader for this group and live recording, for this set Ito plays original compositions that she wrote and arranged. To this set list, Ito includes one cover song, the old jazz standard “Time After Time” that was arranged by drummer Kimura.
+
+The seven songs included on this album are modern sounding with straight-beat and brushed swing feels. Most songs are in the 9- to 12-minute range, and there is plenty of space for the soloists to explore their improvisations and raise the thrill levels (or deepen the mistique, as the case may be) while the trio propels forward as a group. Most of the solos here feature Yanagihara on piano and Ito on bass, but drummer Kimura also gets a few spots where he trades measures with the pianist or plays dynamic drum solos over rhythmic vamps. This trio is well-suited to one another, tightly-locked and exciting, and the energy of performing live is a visceral force present in their playing.
+
+Wrapping up the live set is track #7, Ito’s “Hinageshi” with a beautiful melody that also appears on some of her other albums: [_Retattanni no Mori_](https://www.jazzofjapan.com/archive/yuki-ito-retattanni-no-mori) (for solo bass), and [_Shiro o Matoeba_](https://www.jazzofjapan.com/archive/koto-ha-to-shiro-o-matoeba) (“Koto Ha, To” vocal/piano/bass).
+
+_Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven in Ageo. Included below are videos of the making of this album and the trio’s concerts at Plus Eleven.
+
+{{< figure src="L1260500x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Front cover" >}}
+
+{{< figure src="L1260521x-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Back cover" >}}
+
+{{< figure src="L1260534x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside case" >}}
+
+
+## Semendo Sementes by Yuki Ito Trio {#semendo-sementes-by-yuki-ito-trio}
+
+-   [Yuki Ito](https://yukibass.com/) - bass
+-   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
+-   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums
+
+Released in 2021 on Yuki Ito as YDM-002.
+
+_Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Kimura Hiro_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [Promotional video for _Semendo Sementes_ from Yuki Ito Trio:](https://youtu.be/mI5NDwMKxMo)
+
+{{< youtube mI5NDwMKxMo >}}
+
+-   [“Snow Goose” - track #5:](https://youtu.be/g4Cp8Rj7jLY)
+
+{{< youtube g4Cp8Rj7jLY >}}
+
+-   [“ひなげし (Hinageshi)” - track #7:](https://youtu.be/77TLt62DbIg)
+
+{{< youtube 77TLt62DbIg >}}
+
+-   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mqtI2uWsmirCLUn6NRbiqfkwTDDaSTh9U)
+
+-   Excerpt from track #1: [“Aderante”](https://www.jazzofjapan.com/archive/audio/#mix-15)

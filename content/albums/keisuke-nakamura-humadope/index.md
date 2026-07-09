@@ -1,0 +1,44 @@
++++
+title = "Keisuke Nakamura: Humadope"
+author = ["Brian McCrory"]
+publishDate = 2018-02-12
+tags = ["albums"]
+draft = false
+[cover]
+  image = "keisukenakamura-humadope-460.jpeg"
+  relative = true
++++
+
+Trumpeter Keisuke Nakamura leads a group of contemporary jazz musicians called _Humadope_, a post-bop Jazz Messengers-styled quintet with a trumpet-sax front line and piano-bass-drums rhythm section. The name itself (a mix of human/mad/dope) suggests a dangerous edge on blisteringly fast tunes as the skilled soloists riotously burn through the changes. Yet, the group handily balances this attitude with a warm sensitivity played on soulful ballads and cooler numbers.
+
+This album consists of well-written original compositions with a few covers thrown in (Freddie Hubbard, Herbie Hancock, Quincy Jones). Overall, this is an excellent debut with a variety of moods, tempos, and exciting solos showcasing some premium J Jazz from the current crop of musicians.
+
+{{< figure src="L1180587-1024.jpg" >}}
+
+{{< figure src="L1180583-1024.jpg" >}}
+
+{{< figure src="L1180590-1024.jpg" >}}
+
+
+## Humadope by Keisuke Nakamura {#humadope-by-keisuke-nakamura}
+
+-   [Keisuke Nakamura](https://blackdevil729.wixsite.com/keisuke-nakamura) - trumpet, flugelhorn
+-   [Akihiro Nishiguchi](http://www.akihironishiguchi.com/) - tenor sax, soprano sax
+-   [Akane Matsumoto](http://akanejazz.com) - piano
+-   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
+-   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums
+-   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - Rhodes (tr. #5, 6)
+-   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums (tr. #1)
+
+Released in 2014 on M581 Records as SDR1401.
+
+_Japanese names: 中村恵介 Nakamura Keisuke 西口明宏 Nishiguchi Akihiro 松本茜 Matsumoto Akane 金森もとい Kanamori Motoi 福森康 Fukumori Yasushi 石田衛 Ishida Mamoru 石若駿 Ishiwaka Shun_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [Live performance of track #4 “Round Table”:](https://youtu.be/T5bm8CoSgVY)
+
+{{< youtube T5bm8CoSgVY >}}
+
+-   Excerpt from track #1: [“SPEED HARASSMENT”](https://www.jazzofjapan.com/archive/audio/#mix-1)

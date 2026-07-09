@@ -1,0 +1,50 @@
++++
+title = "Emiko Voice: Carta"
+author = ["Brian McCrory"]
+publishDate = 2018-01-30
+tags = ["albums", "vocals"]
+draft = false
+[cover]
+  image = "emikovoice-carta-square-460.jpeg"
+  relative = true
++++
+
+An elegant package inside and out, brimming with atmosphere. The outer package is a slim booklet, containing photography, a poem, and an essay. The music itself is a modern take on classic jazz songs with Japanese words and flavor sprinkled throughout, featuring excellent arrangements by pianist Koichi Sato.
+
+Emiko’s voice is front-and-center and spans the gamut from quick instrumentesque aerobics to passionate crooning. Vocals, piano, Fender Rhodes, and an innovative stand-up drum set constitute the core of the group, and several other instrumentalists contribute to the album, with material ranging from dreamy and moody to light and shimmering.
+
+{{< figure src="L1180430-1024.jpg" >}}
+
+{{< figure src="L1180431-1024.jpg" >}}
+
+{{< figure src="L1180432-1024.jpg" >}}
+
+{{< figure src="L1180433-1024.jpg" >}}
+
+
+## Carta by Emiko Voice {#carta-by-emiko-voice}
+
+-   [Emiko Voice](http://www.emikovoice.com/) - vocal
+-   [Koichi Sato](https://koichisato.com/) - piano, Rhodes
+-   [Akemi Ohta](https://ohakemi454.wixsite.com/mysite) - flute
+-   [Momoko Aida](https://www.instagram.com/aidamomoko/) - violin
+-   Akira Tanidono - trumpet
+-   [Toru Nishijima](https://toru-cb.com/) - bass
+-   Keita Okada - drums, percussion
+
+Released in 2017 on Zipangu Label as ZIP-0058.
+
+_Japanese names: エミコヴォイス Emiko Voice 佐藤浩一 Sato Koichi 太田朱美 Ohta Akemi 会田桃子 Aida Momoko 谷殿明良 Tanidono Akira 西嶋徹 Nishijima Toru 岡田ケイタ Okada Keita_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [Promotional video for this album:](https://youtu.be/6iWm_Y87KZY)
+
+{{< youtube 6iWm_Y87KZY >}}
+
+-   [Track #2 “Sanosa” was featured on The Rough Guide to Avant-Garde Japan 2021:](https://youtu.be/dfAxkOVFotc)
+
+{{< youtube dfAxkOVFotc >}}
+
+-   Excerpt from track #1: [“The Days Of Wine And Roses”](https://www.jazzofjapan.com/archive/audio/#mix-1)

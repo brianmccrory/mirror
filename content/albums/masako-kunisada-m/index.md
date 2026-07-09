@@ -1,0 +1,48 @@
++++
+title = "Masako Kunisada: M"
+author = ["Brian McCrory"]
+publishDate = 2019-03-14
+tags = ["albums", "vocals"]
+draft = false
+[cover]
+  image = "masakokunisada-m-460.jpeg"
+  relative = true
++++
+
+The deep, soulful voice of Masako Kunisada warmly embraces the listener on her 2014 recording _M_, performing classic jazz tunes as well as selections from the 70’s/80’s American soft-rock songbook, and closing with a tender ballad.
+
+The simple directness of this recording reflects an honest ethic, a special feeling of being home-made, made with care, carefully curated. Guided by happiness and an irrepressible joy for music, Kunisada sings from the heart and draws from various influences including jazz, R&amp;B, Japanese soul and more, infusing it all with her sincere, expressive voice.
+
+Joined by pianist and frequent collaborator Manabu Ohishi on all instruments and arrangements, standard jazz is delivered through an uptempo “Speak Low”, a funky “Cherokee”, a swingy pop “That’s All”, and the pretty ballad “Alfie”, while classic soft-rock songs such as “Don’t Let Me Be Lonely Tonight”, “Will You Love Me Tomorrow?”, and a moving “From A Distance” deliver emotional punches through masterful performances.
+
+An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effective, while Kunisada’s original ballad “Kono Mune No Furusato” closes the album with beautiful sentimentality, devoted, full of love, and direct to one’s heart.
+
+{{< figure src="L1200924-1024.jpg" >}}
+
+{{< figure src="L1200923-1024.jpg" >}}
+
+{{< figure src="L1200927-1024.jpg" >}}
+
+{{< figure src="L1200928-1024.jpg" >}}
+
+{{< figure src="L1110647-1024.jpg" >}}
+
+
+## M by Masako Kunisada {#m-by-masako-kunisada}
+
+-   [Masako Kunisada](https://machappa.wixsite.com/masakokunisada) - vocal
+-   [Manabu Ohishi](https://cd-v.net/ohishi/) - all instruments, arrangements
+-   M-oto - human beat box (tracks #2, 4, 5, 7)
+
+Released in 2014 on Masaki Kunisada as M.
+
+_Japanese names: 国貞雅子 Kunisada Masako 大石学 Ohishi Manabu エムオート M-oto_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [An orchestral version of “Kono Mune No Furusato”, the last song on this album:](https://youtu.be/xQPSz5yOzEE)
+
+{{< youtube xQPSz5yOzEE >}}
+
+-   Excerpt from track #8: [“From a distance”](https://www.jazzofjapan.com/archive/audio/#mix-4)

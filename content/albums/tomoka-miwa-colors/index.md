@@ -1,0 +1,39 @@
++++
+title = "Tomoka Miwa: Colors in Silence"
+author = ["Brian McCrory"]
+publishDate = 2018-03-07
+tags = ["albums", "vocals"]
+draft = false
+[cover]
+  image = "tomokamiwa-colors-460.jpeg"
+  relative = true
++++
+
+Tomoka Miwa, Tokyo-based jazz and pop singer, uses her jazz palette on _Colors in Silence_, a live recording from 2015. Playing with a piano, bass, and drums combo, she sings jazz standards such as “I’ve Got You Under My Skin” and “My Favorite Things” and the fan-favorite “A House Is Not A Home”. Some spice is added to the set with the classic bolero “Somos Novios”, and the groovy samba-funk “Skindo-le-le”, while the sultry “Love Dance” and the beautiful hymn “Hallelujah” add extra colors to the canvas.
+
+The instrumental musicians get plenty of space for stretching out, with pianist Yuichi Narita pushing for moments of exploratory post-bop jazz with his solos. Each musician is also featured in a duet with the vocalist for extra variety.
+
+{{< figure src="L1190082x-1024.jpeg" >}}
+
+{{< figure src="L1190099x-1024.jpeg" >}}
+
+
+## Colors in Silence by Tomoka Miwa {#colors-in-silence-by-tomoka-miwa}
+
+-   [Tomoka Miwa](https://www.miwatomoka.com/) - vocal
+-   [Yuichi Narita](http://www.yuichinarita.com/) - piano, keyboards
+-   [Daisuke Toi](http://www.daisuketoi.com/) - bass
+-   [Sebastiaan Kaptein](https://canopusdrums.com/en/endorsers/sebastiaan-kaptein/) - drums
+
+Released in 2015 on Tomoka Miwa as MUW-002.
+
+_Japanese names: 三輪知可 Miwa Tomoka 成田祐一 Narita Yuichi トオイダイスケ Toi Daisuke_
+
+
+## Audio and Video {#audio-and-video}
+
+-   [Promotional video for a 2017 album from Tomoka Miwa:](https://youtu.be/ln7bWmGAxe8)
+
+{{< youtube ln7bWmGAxe8 >}}
+
+-   Excerpt from track #2: [“Love dance”](https://www.jazzofjapan.com/archive/audio/#mix-2)

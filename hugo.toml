@@ -9,3 +9,4 @@ theme = "PaperMod"
     hidden = false
     hiddenInList = false
     hiddenInSingle = false
+    linkFullImages = true

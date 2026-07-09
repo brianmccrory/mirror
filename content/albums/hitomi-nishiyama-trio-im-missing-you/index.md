@@ -2,7 +2,9 @@
 title = "Hitomi Nishiyama Trio: I’m Missing You"
 author = ["Brian McCrory"]
 publishDate = 2025-03-30
-tags = ["albums"]
+keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
+tags = ["Hitomi Nishiyama 西山瞳", "Mitsuaki Hara 原満章", "Tsutomu Kawauchi 川内努", "Satoshi Otani 大谷訓史", "Takehiro Shimizu 清水勇博"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
@@ -11,13 +13,18 @@ draft = false
 
 Rewinding from the previous article on Hitomi Nishiyama’s _[Echo](https://www.jazzofjapan.com/archive/hitomi-nishiyama-echo)_ from 2024, and connecting the dots (re: _[Dot](https://www.jazzofjapan.com/archive/hitomi-nishiyama-dot)_, 2023), relistening to Hitomi Nishiyama Trio’s _I’m Missing You_ from 2004 provides a fascinating reflection.
 
+![](L1270278x-1200.jpeg)
 _I’m Missing You_ is the prolific composer’s first album, which quickly sold out as she was gaining recognition for her distinctive jazz piano compositional style, a novel approach that melded her Japanese classical musical training, studies in jazz piano, and her affection for European modern jazz. The original 2004 album contained eight songs, all composed by Nishiyama, and was re-released in 2007 with three bonus tracks from around the same period. It came to be regarded as her breakthrough first trio recording, released 20 years before her latest CD _Echo_, and with more than two dozen albums released in between.
 
 On _I’m Missing You_, her strong sense of composition for a piano trio jazz setting is already apparent. Her characteristic harmonies, melodies, section changes, and moderately, tastefully used brief polyrhythms and syncopated shifts evoke emotions and hook listeners, carrying them along through adventurous paths filled with medium tempos based on warm grounding bass, brushed drums, and intricate piano solos.
+![](L1270198x-1200.jpeg)
 
 The different songs on this album share a lot of similarities in feel overall, acting like an album-length extended suite filled with Nishiyama’s lovely melodies, delicate touch, and the classical-sounding elements of lightly nimble scales, arpeggios, ornamentation in her improvisation. Along with the jazz improvisation, focus is also often drawn to the modulating key signatures illustrated by the reassuring drums and bass frameworks in straight-eighth 3/4 or 4/4 time. There is a minor-key feel to much of the music; even the major-key sections seem to possess a minor quality. But this is not painful sadness as in agony, but a tender soreness that’s almost a comfort, or the feeling of _I’m missing you_ that invokes the person sweetly along with the ache. At the same time, the essential spice of upliftingly powerful major-key shifts at the right times serve as the bright rays of light, however temporary, in a mostly moody world.
 
+![](L1270303x-1200.jpeg)
 For interested pianists and jazz musicians, Nishiyama also graciously provides simplified piano charts for some of her original songs in the _[Extra](https://hitominishiyama.net/extra.html)_ area of her website. This includes charts for “Blue Nowhere”, “Epigraph”, and “Passato”, three absolute highlights from _I’m Missing You_.
+
+{{< figure src="L1270308x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -48,14 +55,6 @@ _—Hiroki Sugita, June 2011_
 ## Obi Notes {#obi-notes}
 
 Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in the International Songwriting Competition 2009 (ISC), one of the world’s largest composition contests. Her first album _I’m Missing You_, considered to be the origin of her career and international recognition, is finally here!
-
-{{< figure src="L1270278x-1200.jpeg" >}}
-
-{{< figure src="L1270198x-1200.jpeg" >}}
-
-{{< figure src="L1270303x-1200.jpeg" >}}
-
-{{< figure src="L1270308x-1200.jpeg" >}}
 
 {{< figure src="L1260619x-1200.jpeg" >}}
 
@@ -95,4 +94,6 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Ka
 
 {{< youtube LIqX0QymLo4 >}}
 
--   Excerpt from track #8: [“I'm missing you”](https://www.jazzofjapan.com/archive/audio/#mix-13)
+-   Excerpt from track #8: “I'm missing you” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}

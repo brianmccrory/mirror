@@ -2,7 +2,9 @@
 title = "NHORHM: New Heritage of Real Heavy Metal"
 author = ["Brian McCrory"]
 publishDate = 2025-07-25
-tags = ["albums"]
+keywords = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
+tags = ["Hitomi Nishiyama 西山瞳", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学", "Tomomi Oda 小田朋美", "Takayoshi Baba 馬場孝喜", "Hikari Ichihara 市原ひかり", "Ryosuke Hashizume 橋爪亮督"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
@@ -11,30 +13,39 @@ draft = false
 
 NHORHM is _New Heritage of Real Heavy Metal_. It’s not only a homage to the original NWOBHM abbreviation, but also an incredible initialism of the three musicians: **N** ishiyama **H** itomi (piano), **O** rihaya **R** yoji (bass), and **H** ashimoto **M** anabu (drums), with names in the last-name-first Japanese convention. (_I include a brief diversion on “What is NWOBHM?” later, below..._)
 
+![](L1310932x-1200.jpeg)
 This debut album from NHORHM was released in 2015 and rereleased/remastered in 2024 when the first run was sold out, and both new listeners and fans who originally missed out were clamoring for copies. The album contains ten tracks, nine cover songs and one original by pianist Nishiyama. All arrangements are by Nishiyama, and this is not something to take lightly; the whole project hinges on the idea of a jazz piano trio covering heavy metal tunes, and the success of the endeavor relies a lot on bridging the gap between those distinct sounds, styles, and instrumentation, and on making the music appealing, listenable, and great, despite the obvious novelty aspect that may precede the experience. Yet, never fear, Nishiyama took the challenge seriously and put a lot of work into this project.
 
 Although both jazz fans and metal fans may look on this type of crossover hybrid with understandable suspicion (both audiences appreciate musical purity and authenticity, or genuineness, in their respective forms), it’s a homerun from the trio, as the reinterpreted songs exist in a new dimension or sub-genre.
+![](L1310937x-1200.jpeg)
 
 Based on just the sound of the music, and the piano-bass-drums trio sound that is common in modern jazz, NHORHM certainly has more of a jazz sound than a metal one. There are no distorted guitars, no double-bass kick drums, no ear-splitting cymbal crashes or hyperspeed electric solos.
 
+![](L1310945x-1200.jpeg)
 But the material on _New Heritage of Real Heavy Metal_ is all drawn from the heavy metal canon. The trio plays Nishiyama’s modified versions (reharmonized, restructured, re-instrumented) of original songs by the bands U.K., Pantera, Rainbow, Megadeth, Iron Maiden, Angra, Babymetal, Deep Purple, and Mr. Big.
 
 Being jazz, the solos are also improvised in the jazz style, not run-throughs of the original works. These songs are not covers in the sense that they aim to replicate or reproduce the original songs, structures, and guitar solos present in the original recordings.
+![](L1310993x-1200.jpeg)
 
 Nishiyama also includes one of her own compositions, “The Halfway to Babylon”, setting up a story that will be continued on the follow-up _II_ and _III_ albums.
 
+![](L1310995x-1200.jpeg)
 While all ten of the songs feature the trio, three of the ten also feature guest musicians. Vocalist Tomomi Oda sings on #4 “Skin O’ My Teeth (Megadeth)”, guitarist Takayoshi Baba plays on #5 “Fear of the Dark (Iron Maiden)”, and trumpeter Hikari Ichihara plays on #8 “Demon’s Eye (Deep Purple)”.
 
 The translated liner notes (further below) go into the song selections, so here is just a brief overview of the flow of the album.
+![](L1310997x-1200.jpeg)
 
 Track #1, “In the Dead of Night” (from the band U.K.'s 1978 debut album) is progressive uptempo, getting slightly aggressive with power(-ish) chords, dynamic drums, and silky fretless electric bass dexterously covering the heavy metal guitar duties.
 
+![](L1320001x-1200.jpeg)
 Track #2 “Walk” (Pantera, _Vulgar Display of Power_, 1992) is medium-heavy and dark, with powerful riffs, deadly serious drumming, and an attitude and sound close to the original song.
 
 Track #3 “Man on the Silver Mountain” (Rainbow, _Richie Blackmore's Rainbow_, 1975, with Ronnie James Dio on vocals) is a highlight of odd-meter, fantasy escapist metal, a more significant reinterpretation of the original hard rock beat.
+![](L1310968x-1200.jpeg)
 
 Track #4 “Skin O’ My Teeth” (Megadeth, _Countdown to Extinction_, 1992) is another highlight for its close-to-the-bone edge and faithfulness to the original song, even with vocalist Tomomi Oda covering Megadeth’s Dave Mustaine role. It’s fun, uptempo 4/4 with some extra twists and reharmonizations, and, like the original, a relatively short song. The source Megadeth version also features a guitar solo from Marty Friedman, who contributed a blurb for this album along with some other famous metalers. This track may be the cleanest onramp for diehard metalheads, with the song’s catchy rhythms and riffs present in NHORHM’s version, not to mention the female vocals that are a perfect fit.
 
+![](L1310977x-1200.jpeg)
 Track #5 “Fear of the Dark” (Iron Maiden, _Fear of the Dark_, 1992) is reformed as a slow-to-medium 4/4 ballad, starting softly with piano and acoustic guitar, then getting into a rock beat and changing meters for emotional impact. There’s an anthemic (Iron Maiden music perfect for this) yet meditative feel, and this song fills the important role of the sole ballad on an otherwise in-your-face heavy metal jazz album.
 
 Track #6 “Upper Levels” (Angra, _Secret Garden_, 2014) is exciting, full of irregular signatures and complex moving lines and quick changes. It’s virtuosic, fulfilling the role that this song was chosen for. Their prog metal sounds are melodic with intricate licks, patterns, and different sections linked together. It summons the sounds of bands like Fates Warning, Dream Theater, and Queensrÿche, groups that blend classical, power, and progressive influences. This must be attractive for Nishiyama, who is often said to incorporate these styles and European music into her compositions and playing style.
@@ -166,24 +177,6 @@ _As an extension of the liner notes, [Hitomi Nishiyama’s post on NHOHRM](http:
 Groundbreaking! A jazz pianist releases a cover album of famous heavy metal songs!!!
 Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fujisaki&gt;
 
-{{< figure src="L1310932x-1200.jpeg" >}}
-
-{{< figure src="L1310937x-1200.jpeg" >}}
-
-{{< figure src="L1310945x-1200.jpeg" >}}
-
-{{< figure src="L1310993x-1200.jpeg" >}}
-
-{{< figure src="L1310995x-1200.jpeg" >}}
-
-{{< figure src="L1310997x-1200.jpeg" >}}
-
-{{< figure src="L1320001x-1200.jpeg" >}}
-
-{{< figure src="L1310968x-1200.jpeg" >}}
-
-{{< figure src="L1310977x-1200.jpeg" >}}
-
 {{< figure src="L1310973x-1200.jpeg" >}}
 
 
@@ -228,7 +221,9 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 
 {{< youtube U0Qa6GC1T-A >}}
 
--   Excerpt from track #6: [“Upper Levels”](https://www.jazzofjapan.com/archive/audio/#mix-13)
+-   Excerpt from track #6: “Upper Levels” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
 
 
 ## Other Links {#other-links}

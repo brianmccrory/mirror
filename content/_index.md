@@ -4,4 +4,4 @@ title: Jazz of Japan
 
 # Welcome to Jazz of Japan.
 
-Discover album reviews, interviews, and the latest newsletter.
+This is a partial mirror of the original site at https://www.jazzofjapan.com/.

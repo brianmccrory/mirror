@@ -2,7 +2,9 @@
 title = "Yuki Ito: Retattanni no Mori"
 author = ["Brian McCrory"]
 publishDate = 2024-07-01
-tags = ["albums"]
+keywords = ["toshihiko-inoue-vayu", "maiko-solo"]
+tags = ["Yuki Ito 伊東佑季"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
@@ -11,9 +13,11 @@ draft = false
 
 _Retattanni no Mori_ (Birch Tree Forest) is a 2019 solo album from bassist Yuki Ito.
 
+![](L1240974x-1200.jpeg)
 Over the album’s six tracks and 30 minutes, Yuki Ito is unaccompanied but unafraid with her formidable upright bass, playing three original compositions, two covers, and one free improvisation.
 
 It could be considered a brave endeavor to release a solo album on bass (or upright bass, aka double bass, contrabass, acoustic bass, upright, standup, or wood bass). As the great bassist Christian McBride humorously would put it[, “I’m just the bass player”](https://youtu.be/iJIJitbtUs0?si=qEafPoXikllJbRxK&t=911), a lighthearted play on a stereotype of the role (similarly, the title of his new album with bassist Edgar Meyer is /[But Who’s Gonna Play the Melody?](https://christianmcbride.bandcamp.com/album/but-whos-gonna-play-the-melody) — /a double double bass album!).
+![](L1240979x-1200.jpeg)
 
 The deep bass notes may even sound intimidating to some, like a grave voice about to announce something serious, intone a warning, or deliver bad news. Think of Alan Rickman’s or Darth Vader’s commanding authority. Potential listeners could feel tentative about giving a solo bass album a try, and bassists may be concerned about that when considering this format.
 
@@ -92,10 +96,6 @@ The Japanese title printed on the album is interesting. レタッタッニの森
 
 Also printed on the album are the words _retat-tat-ni kor nitay_, the title in the Ainu language of the Indigenous people of Japan.
 
-{{< figure src="L1240974x-1200.jpeg" >}}
-
-{{< figure src="L1240979x-1200.jpeg" >}}
-
 {{< figure src="L1240983x-1200.jpeg" >}}
 
 
@@ -124,4 +124,6 @@ _Japanese names: 伊東佑季 Ito Yuki_
 
 -   [Album tracks #1, 3, and 4 on streaming music services](https://artist.landr.com/music/628810853540)
 
--   Excerpt from track #2: [“Nature Boy”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #2: “Nature Boy” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

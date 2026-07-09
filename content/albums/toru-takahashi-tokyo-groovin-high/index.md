@@ -2,7 +2,9 @@
 title = "Toru Takahashi: Tokyo Groovin’ High!"
 author = ["Brian McCrory"]
 publishDate = 2025-12-06
-tags = ["albums"]
+keywords = ["hara-dairiki-trio-youve-changed"]
+tags = ["Toru Takahashi 高橋徹", "Atsushi Ikeda 池田篤", "Masanori Okazaki 岡崎正典", "Keiichi Yoshida 吉田桂一", "Kengo Nakamura 中村健吾", "Yusuke Chigita 千北祐輔", "Jun Satsuma 佐津間純", "Koyuza Sanyutei 三遊亭小遊三", "Shota Shunputei 春風亭昇太"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
@@ -11,11 +13,15 @@ draft = false
 
 Drummer Toru Takahashi’s debut album is _Tokyo Groovin’ High_, a 2021 release that presents addictive jazz bebop favorites performed by long-time musical partners and friends. This is a drummer-led album where Takahashi makes the most of arranging the musicians in various forms. With three different rhythm sections, the drummer plays with quartet and quintet forms, the classic piano trio, and even a septet featuring two special guests known for _rakugo_ storytelling performances and television appearances.
 
+![](L1320866x-1200.jpeg)
 Of course, the title track, Takahashi’s own “Tokyo Groovin’ High”, leads the charge and captures the spirit of the original tune it is based on, the well-known bebop contrafact “Groovin’ High” by Dizzy Gillespie. It’s good straight-ahead jazz played by musicians who clearly love the music and are having fun playing it together.
 
 Driven by Takahashi’s expert drumming, the ultra-in-the-pocket swing and groove continues with songs including “These are Soulful Days”, “Dear Old Stockholm”, and “When You Grow Too Old To Dream”. Some atmospheric departures are featured through Ellington’s Afro-Caribbean “Limbo Jazz”, the New Orleans parade-style (Poinciana) groove on “The April Fools”, and the beautiful ballad “I’m Traveling Light”.
+![](L1320875x-1200.jpeg)
 
 The musicians’ love for classic jazz, decorated and fun arrangements, and jazz improvisation shine, as the bebop spirit lets loose as the temperature goes up on several songs as well. The band burns on Sonny Stitt’s Rhythm Changes “The Eternal Triangle”, with a alto vs. tenor sax battle. In the same vein, Thelonious Monk’s leaping “Shuffle Boil” and McCoy Tyner’s high-octane “Inception” are fiery highlights, both played in a raw chord-less trio formation to capture that lean, wild Sonny Rollins trio sound.
+
+{{< figure src="L1320880x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -23,12 +29,15 @@ The musicians’ love for classic jazz, decorated and fun arrangements, and jazz
 _(Translated from Toru Takahashi’s original Japanese liner notes.)_
 
 It’s been a quarter century and three years since I came to Tokyo at the age of 25 and it went by in a flash. I’ve been fortunate to have been a part of many live band experiences, and now I have finally decided to make my own album as a leader. Nothing has brought me more joy than being able to record with these musicians who I have been with so long, both professionally and personally.
+![](L1320887x-1200.jpeg)
 
 These members are: Atsushi Ikeda, who helped with composition on one song and consulting with me on the arrangements.
 Kengo Nakamura, who supported me spiritually in many ways.
+![](L1320890x-1200.jpeg)
 Keiichi Yoshida, who is my oldest friend since I moved to Tokyo.
 Masanori Okazaki, who has been fronting my band for such a long time.
 Yusuke Chigita, who has been playing with me the most over the last several years in various bands.
+![](L1320892x-1200.jpeg)
 Jun Satsuma, who has the most beautiful tone.
 
 The master Koyuza Sanyutei, my good friend from the TV variety program “Shoten” and leader of the _Hanashika_ (rakugo) storyteller band, “New Oirans”, where I was allowed to occupy the drum seat for fifteen years, to my surprise.
@@ -113,18 +122,6 @@ Honestly, I really love sax players that could be called “honkers”. Arnette 
 
 _Notes by Toru Takahashi_
 
-{{< figure src="L1320866x-1200.jpeg" >}}
-
-{{< figure src="L1320875x-1200.jpeg" >}}
-
-{{< figure src="L1320880x-1200.jpeg" >}}
-
-{{< figure src="L1320887x-1200.jpeg" >}}
-
-{{< figure src="L1320890x-1200.jpeg" >}}
-
-{{< figure src="L1320892x-1200.jpeg" >}}
-
 {{< figure src="L1320895x-1200.jpeg" >}}
 
 
@@ -167,4 +164,6 @@ _Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 O
 
 {{< youtube A-AiNoUAe9g >}}
 
--   Excerpt from track #7: [“Don’t Take Your Love From Me”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #7: “Don’t Take Your Love From Me” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

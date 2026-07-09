@@ -2,7 +2,9 @@
 title = "Otohito Fuse Trio: Thus Have I Heard"
 author = ["Brian McCrory"]
 publishDate = 2026-06-28
-tags = ["albums"]
+keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
+tags = ["Otohito Fuse 布施音人", "Riku Takahashi 高橋陸", "Kaito Nakamura 中村海斗"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
@@ -11,9 +13,14 @@ draft = false
 
 _This I Have Heard_ is a 2025 release from pianist Otohito Fuse, a second album as a leader quick on the heels of his _Isolated_ from 2024. Joining him on this release are his regular trio members, Riku Takahashi on bass and Kaito Nakamura on drums. It’s a continuation and evolution of the trio sound created on their previous release, with an increased maturity and depth added to the new music. This music is patient and deep, and while there are intense tempos with free-flowing jazz improvisation and burning solos, the musicians do not hurry to get there, as if there is an abundance of confidence in building beautiful moments that will come together when the time is right.
 
+![Front cover](L1350825x-1200.jpeg)
 Those moments are contained within eight songs that run from six to eleven minutes apiece on the 65-minute album. Several songs open with Fuse’s solo piano, a style of improvisation that starts from players like Bill Evans and Keith Jarrett and seems to bring in some modern jazz and classical concepts as well. Those absorbing introductions can wind out for several minutes before the trio coalesces and the main rhythms, melody, and harmonies of the written compositions begin. In series, the album traverses a path as if flowing through an opening meditation, brighter stimulation, a tropical lilt, a ballad break, more inner mediation to modern pop jazz, some free improvisation, wavering suspense, and a final piece for peaceful reflection.
 
 Fuse composed all the songs for his trio, and in contrast to his previous release that included no explanatory musical notes, this CD includes a booklet of Fuse’s detailed observations (riffing on the phrase _Thus I Have Heard_?) about Buddhist concepts and how they relate to this present work... and how it all connects to isolation, self-realization, and the ability to lay down an artistic statement (for any work) in the context of what one has experienced.
+
+{{< figure src="L1350826x-1200.jpeg" alt="Back cover" >}}
+
+{{< figure src="L1350837x-1200.jpeg" alt="Inside case" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -22,38 +29,56 @@ _(Translated from Otohito Fuse’s original Japanese liner notes.)_
 
 “Thus Have I Heard” is the English translation of “如是我聞”, a phrase that opens many Buddhist texts to announce that what follows is a record of what was said. This is usually said at the opening of Buddhist scriptures due to the fact that they were not written by the Buddha himself, but recorded in that form by his disciples who listened to his teachings.
 
+{{< figure src="L1350843x-1200.jpeg" alt="Booklet page 1" >}}
+
 The teachings of the Buddha are boundless, and since the ways of teaching these lessons to humankind is so varied and dependent on each individual, it is impossible to put those into words. “Being conscious of that, this is what I have heard and understood so far.” I think this is a wonderful phrase that overflows with humility and sincerity.
 
+![Booklet pages 2-3](L1350847x-1200.jpeg)
 \***
 
 People are all isolated. Perfect understanding between people is an impossible task. Of course, we are able to make efforts through words to understand one another. Yet, lifespans are limited, and both people and the world gradually change over time, so efforts towards mutual understanding cannot be fully achieved.
 
+{{< figure src="L1350850x-1200.jpeg" alt="Booklet pages 4-5" >}}
+
 The same goes for oneself. Memories are vague and capricious, and even intense feelings that you sense you will never forget can become unexpectedly difficult to recall. Moreover, even if a certain region of the brain is experiencing an emotion, it often happens that completely unrelated thoughts are occurring at the same time, preventing the whole system from appreciating that emotion.
 
+![Booklet pages 6-7](L1350858x-1200.jpeg)
 Creating a piece of work. The appreciation of the work that has been created. What may drive people to these actions is awareness of their isolation. Even though we all are painfully aware of our own isolation, we are so strongly moved by our joy, pain, and emotions that we cannot help but try to create some kind of work to leave behind. And those people who appreciate that work are encouraged by the fact that there are others, living in the same conditions of isolation as themselves, who produced such pieces.
 
 The issue of time is also a critical one for people. Time keeps flowing in only one direction and can never be reversed. It can be said that much suffering stems from by this irreversibility of time, not the least of which is aging and death. Even as symbols and information, things that do not change with the passage of time, can go on to explain this suffering, it is impossible for them to directly represent this suffering themselves. This is exactly why the creation of work from an earnest mind, whether in literature, art, music, writing, photography, or whatever form, always brings forth something that evokes a realm that cannot by reduced to symbols and information. Music in particular only exists in conjunction with time. For this reason, it can give us the most direct connection that resonates to the inner struggle of human existence in the flow of time. Not only is this what I love about music, there are also times when I find it awe-inspiring.
 
+{{< figure src="L1350861x-1200.jpeg" alt="Booklet pages 8-9" >}}
+
 \***
 
+![Booklet pages 10-11](L1350864x-1200.jpeg)
 Considering the progress and spread of generative AI, the activity of human-derived works is approaching a turning point. When it comes to music, paintings, and photography, the listeners and viewers may be reaching a stage where they cannot determine based solely on the data if those works were made by a human or generated by AI.
 
 In this sort of era, how can those who stake their lives in creating works of art find hope?
 
+{{< figure src="L1350872x-1200.jpeg" alt="Booklet pages 12-13" >}}
+
 Perhaps it’s by returning to the starting point: that we are all isolated, we cannot oppose the flow of time, and one day we will inevitably die (in some unknown way). There are countless people who have shared in this same suffering and have used up their lives to bring forth their work. That work has in turn comforted and encouraged many other people. The fact that such endeavors have continued unbroken throughout human history can give us a great amount hope.
 
+![Booklet pages 14-15](L1350873x-1200.jpeg)
 From this perspective, the essence of the person who created the work stands out distinctly. However, that essence is not a fixed characteristic, but rather one that is unstable and ambiguous in the extreme. In the vicissitudes of the flow of time, it’s unknowable whether some future self, or some different self that is occupied by other thoughts at the moment, will later betray the fact of “At this moment and in this place, I feel moved in this way.” Even while struggling to give a sense of form to this emotion, both the self and the world are changing moment by moment, and there is no guarantee of consistency in that which is being created. Still, a work that has been born of strong emotion is the only thing in existence that can speak for its creator’s voice at that time and place, and once it leaves their hands, it drifts on through time and space.
 
 \***
 
+{{< figure src="L1350876x-1200.jpeg" alt="Booklet pages 16-17" >}}
+
 By the way, I enjoy taking photos. There’s a repetition in the act of taking photos in the naive hope of capturing what you see just as it is, but then those expectations are more or less betrayed by the results once the shutter is released and you examine the picture. Within that trial and error process of recognizing the difference between the two states and attempting to bring them closer to one another, you can suddenly notice a way of viewing the landscape that you had not seen before. Or, there are times when the emotions conveyed through a scene are captured best through a photo with a slightly different form. Through photography, the way of engaging with a landscape can be disassembled and then reconstructed, and this sense is fascinating.
 
+![Booklet pages 18-19](L1350881x-1200.jpeg)
 I also like the kind of impartiality involved in how the camera records photographs through a completely mechanical process. In theory, anyone can take the exact same photo if they use the same camera, the same settings, are in the same location, and release the shutter at the same time. Conversely, it is for that exact reason that the photographer’s individuality manifests as the person who existed there at that time and place. Photographs become very significant in the life of the photographer as a modest proof of an isolated existence that emotes “Certainly, I was there, and I observed this scene.”
 
 And this is a quality that is common to all forms of human creation to some degree.
 
+{{< figure src="L1350886x-1200.jpeg" alt="Booklet page 20" >}}
+
 When someone creates something, whether consciously or unconsciously, it is slice of the world that that person experienced at that time. Even still, unending differences rise from that. When confronting those differences, the relationships between that person, their work, and the world is reorganized little by little and becomes multi-layered.
 
+![Obi](L1350896x-1200.jpeg)
 Furthermore, the premise of impartiality that suggests that anyone could produce exactly the same work given the exact same time, location, and movements, makes prominent the uniqueness of the work and the creator themselves. This is precisely why it is so interesting that completely different things are be produced through the same instruments and materials. The work becomes one with the fact that that creator existed and was there at a certain time and place.
 
 \***
@@ -119,37 +144,7 @@ Fuse’s music carries themes of scenery and spiritual concepts as a picture scr
 
 Includes a 20-page booklet of photographs and writings.
 
-{{< figure src="L1350825x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Front cover" >}}
-
-{{< figure src="L1350826x-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Back cover" >}}
-
-{{< figure src="L1350837x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside case" >}}
-
-{{< figure src="L1350843x-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Booklet page 1" >}}
-
-{{< figure src="L1350847x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Booklet pages 2-3" >}}
-
-{{< figure src="L1350850x-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Booklet pages 4-5" >}}
-
-{{< figure src="L1350858x-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Booklet pages 6-7" >}}
-
-{{< figure src="L1350861x-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Booklet pages 8-9" >}}
-
-{{< figure src="L1350864x-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Booklet pages 10-11" >}}
-
-{{< figure src="L1350872x-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Booklet pages 12-13" >}}
-
-{{< figure src="L1350873x-1200.jpeg" caption="<span class=\"figure-number\">Figure 11: </span>Booklet pages 14-15" >}}
-
-{{< figure src="L1350876x-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Booklet pages 16-17" >}}
-
-{{< figure src="L1350881x-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Booklet pages 18-19" >}}
-
-{{< figure src="L1350886x-1200.jpeg" caption="<span class=\"figure-number\">Figure 14: </span>Booklet page 20" >}}
-
-{{< figure src="L1350896x-1200.jpeg" caption="<span class=\"figure-number\">Figure 15: </span>Obi" >}}
-
-{{< figure src="L1350890x-1200.jpeg" caption="<span class=\"figure-number\">Figure 16: </span>Disc" >}}
+{{< figure src="L1350890x-1200.jpeg" alt="Disc" >}}
 
 
 ## Thus Have I Heard by Otohito Fuse Trio {#thus-have-i-heard-by-otohito-fuse-trio}
@@ -177,4 +172,6 @@ _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗
 
 -   [Full Playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_l2LCXj7mVOduNOekqfOxaavTQIVbbYmTs)
 
--   Excerpt from track #7: [“We Can Hardly See”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #7: “We Can Hardly See” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

@@ -2,7 +2,8 @@
 title = "Yoshiko Saita: Back in Time to Boston"
 author = ["Brian McCrory"]
 publishDate = 2024-08-02
-tags = ["albums", "vocals"]
+tags = ["Yoshiko Saita 斉田佳子", "Kenny Werner", "Grégoire Maret"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
@@ -11,15 +12,21 @@ draft = false
 
 Singer Yoshiko Saita’s latest release is _Back in Time to Boston_, an album whose recording was both a homecoming and a musical trip down memory lane. It’s a trip not troubled by turbulence or misadventure, as the entire album occupies a relaxed, late-night mood that’s perfect for this combination of Saita’s rich voice and mellow delivery.
 
+![](L1240575x-1200.jpeg)
 Joining the singer is her old musical partner Kenny Werner on piano on all tracks, with Grégoire Maret adding harmonica to about half of the songs, with tracks alternating between duo and trio formats. In a room lush with reverb, Werner’s piano is elegantly pretty and Maret’s harmonica is wistfully bluesy, and both musicians know how to expertly support Saita’s voice in the spotlight.
 
 Saita’s extensive experience with live shows and recordings pays off for this thirteen-track album. She sings confidently while leading her small group through each track, infusing the lyrics with naturally attractive emotion and narrative conveyed through her deep and sultry vocals.
+![](L1240577x-1200.jpeg)
 
 Both jazz standards and pop songs are revisited during Saita’s return to her old stomping grounds. Jazz standards include the familiar songs “Come Rain or Come Shine”, “I Loves You Porgy”, “Someone to Watch Over Me”, and “Crazy He Calls Me”.
 
+![](L1240580x-1200.jpeg)
 Other songs on the album include pop selections made famous by Joni Mitchell and Bonnie Raitt, or through movies and musicals, such as “Both Sides Now”, “Blue Velvet”, “I Can’t Make You Love Me”, and “Stranger in Paradise”.
 
 Additionally, Saita also includes one original song of her own, her charming “Walk Around Liberty Hill”.
+![](L1240587x-1200.jpeg)
+
+{{< figure src="L1240590x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -27,6 +34,7 @@ Additionally, Saita also includes one original song of her own, her charming “
 _(Translated from an excerpt of the original Japanese liner notes. Part 1 is “About Yoshiko Saita” by Toshio Miki, and Part 3 is “The Sky and Wind of Boston” by Hiroshi Minami. The following is Part 2 by Yoshiko Saita.)_
 
 I’m back in Boston!
+![](L1240595x-1200.jpeg)
 
 I’ve come back to Boston after more than thirty-five years had passed since studying abroad for two years of high school and four years of college. Since graduating from Berklee College of Music, I’ve been back twice, I believe…
 
@@ -66,18 +74,6 @@ I was really inspired by being able to see Kenny who I had last met eleven years
 
 I truly hope you enjoy this album, relaxing with time flowing _slowly_.
 
-{{< figure src="L1240575x-1200.jpeg" >}}
-
-{{< figure src="L1240577x-1200.jpeg" >}}
-
-{{< figure src="L1240580x-1200.jpeg" >}}
-
-{{< figure src="L1240587x-1200.jpeg" >}}
-
-{{< figure src="L1240590x-1200.jpeg" >}}
-
-{{< figure src="L1240595x-1200.jpeg" >}}
-
 {{< figure src="L1240600x-1200.jpeg" >}}
 
 
@@ -114,4 +110,6 @@ _Japanese names: 斉田佳子 Saita Yoshiko_
 
 {{< youtube 3cajafPM6nc >}}
 
--   Excerpt from track #2: [“I Will Wait For You”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #2: “I Will Wait For You” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

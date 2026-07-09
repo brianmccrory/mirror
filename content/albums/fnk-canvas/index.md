@@ -2,7 +2,9 @@
 title = "FNK: Canvas"
 author = ["Brian McCrory"]
 publishDate = 2023-09-15
-tags = ["albums"]
+keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
+tags = ["Fumie Chiba 千葉史絵", "Nao Teraya 寺屋ナオ", "Kaoru Suzuki 鈴木郁"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "fnk-canvas-460.jpeg"
@@ -11,9 +13,13 @@ draft = false
 
 FNK is a group featuring pianist Fumie Chiba, guitarist Nao Teraya, and drummer Kaoru Suzuki, who released their first album _Canvas_ in 2022. A jazz trio made up of piano, guitar, and drums is somewhat unconventional, without a standalone bass instrument playing a steady undercurrent of tonal and rhythmic grounding. But prolific modern composer Fumie Chiba supplied this trio with new songs and arrangements written specifically for this format, emphasizing their expansive sound and balanced dynamics.
 
+![](L1230442x-1024.jpeg)
 _Canvas_ features ten songs with a running length of 53 minutes, all original compositions from pianist Chiba. The music is modern and brilliant and seeks to avoid common structures and patterns. With a breathy lightness and touching nostalgia, the trio fills out the space with convergent and intersecting layers.
 
 The first three tracks lead off by displaying curiosity and fun, rich, mellow music composed with maturity. “Prologue” contains various turns as an enticing invitation, leading to the mysterious thrill of “Breathless” and the exciting footrace of “Run, Run Melos”. From there, the struttingly catchy anthem of “Pechika Pachika” establishes one of the strongest lingering melodies on the album, and leads to more original music full of mystery and evolving structures.
+![](L1230445x-1024.jpeg)
+
+{{< figure src="L1230447x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -21,6 +27,7 @@ The first three tracks lead off by displaying curiosity and fun, rich, mellow mu
 _(Translated from the original Japanese liner notes written by Fumie Chiba.)_
 
 Introduction
+![](L1230449x-1024.jpeg)
 
 In a world full of so many CDs, thank you for picking up this album.
 
@@ -72,14 +79,6 @@ The first three minutes begin with piano improvisation followed by the main them
 
 The reminiscence of a short and simple motif appears several times. From the album’s opening “Prologue” and the general tonal center of Am, and after visiting various other keys, “Reminiscence” finally ends this journey in C, the relative key of Am.
 
-{{< figure src="L1230442x-1024.jpeg" >}}
-
-{{< figure src="L1230445x-1024.jpeg" >}}
-
-{{< figure src="L1230447x-1024.jpeg" >}}
-
-{{< figure src="L1230449x-1024.jpeg" >}}
-
 {{< figure src="L1230453x-1024.jpeg" >}}
 
 
@@ -108,4 +107,6 @@ _Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzu
 
 {{< youtube zS2NADPB0QI >}}
 
--   Excerpt from track #3: [“走れ、走れメロス (_Run, run, Melos_)”](https://www.jazzofjapan.com/archive/audio/#mix-9)
+-   Excerpt from track #3: “走れ、走れメロス (_Run, run, Melos_)” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}

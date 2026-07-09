@@ -2,7 +2,9 @@
 title = "Mabumi Yamaguchi: Let Your Mind Alone"
 author = ["Brian McCrory"]
 publishDate = 2019-11-19
-tags = ["albums"]
+keywords = ["naoko-tanaka-appreciation"]
+tags = ["Mabumi Yamaguchi 山口真文", "Yoshitaka Shoji 東海林由孝", "Misato Okumura 奥村美里", "Ryohei Komaki 小牧良平", "Nobuyuki Komatsu 小松伸之"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
@@ -11,15 +13,20 @@ draft = false
 
 The silvery tones of masterful jazz sax glide and soar through dynamically modern jazz on Mabumi Yamaguchi’s 2017 recording _Let Your Mind Alone_.
 
+![](L1220375x-1200.jpeg)
 With eight original songs penned by Yamaguchi, the music is solid, confident, dramatic, and melodically entrancing. From the gripping opening track “Sequel To A Dream”, the songs flow with a fantastic balance of stimulation and control, offering various styles from peppy bossa rhythms, loose, modern swing, sweet ballads, and brightly positive tunes mixed with stimulating dark tinges.
+
+{{< figure src="L1220376x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
 
 _(Translation of an excerpt from Yo Nakagawa’s original Japanese liner notes.)_
+![](L1220381x-1200.jpeg)
 
 \***
 
+![](L1220382x-1200.jpeg)
 This is an album that was recorded two months after Mabumi decided to do it. He said something like “I just suddenly felt like doing it”. All of the recorded songs are Mabumi’s originals, and I would like to describe them using his own words.
 
 **“Sequel to a Dream”**
@@ -68,14 +75,6 @@ Nobuyuki Komatsu (drummer, 1977, from Niigata Prefecture). A drummer supporting 
 
 After finishing this album, Mabumi Yamaguchi said his appetite for composing was spurred on and that he wants to write more music after this. May that rising immersive happiness continue on from here.
 
-{{< figure src="L1220375x-1200.jpeg" >}}
-
-{{< figure src="L1220376x-1200.jpeg" >}}
-
-{{< figure src="L1220381x-1200.jpeg" >}}
-
-{{< figure src="L1220382x-1200.jpeg" >}}
-
 {{< figure src="L1220385x-1200.jpeg" >}}
 
 
@@ -98,4 +97,6 @@ _Japanese names: 山口真文 Yamaguchi Mabumi 東海林由孝 Shoji Yoshitaka �
 
 {{< youtube l9tLbegpVpo >}}
 
--   Excerpt from track #1: [“Sequel to a Dream”](https://www.jazzofjapan.com/archive/audio/#mix-5)
+-   Excerpt from track #1: “Sequel to a Dream” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}

@@ -2,7 +2,9 @@
 title = "Hitomi Nishiyama Trio: Calling"
 author = ["Brian McCrory"]
 publishDate = 2024-04-27
-tags = ["albums"]
+keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
+tags = ["Hitomi Nishiyama 西山瞳", "Yasuhiko “Hachi” Sato 佐藤“ハチ”恭彦", "Kazumi Ikenaga 池長和美"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hitomi-nishiyama-trio-calling-460.jpeg"
@@ -11,15 +13,19 @@ draft = false
 
 Among the close to thirty album releases from pianist and composer Hitomi Nishiyama’s catalog, _Calling_ (2021) is the third album recorded with one of her regular trios. This particular trio with bassist Yasuhiko “Hachi” Sato and drummer Kazumi Ikenaga is also featured on Nishiyama’s _[Sympathy](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-sympathy)_ (2013) and _[Music in You](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-music-in-you)_ (2011).
 
+![](L1230227x-1200.jpeg)
 These three musicians have maintained close musical contact with occasional performances together since then, so this album is not only a long-awaited recording reunion but also a heartfelt response to various bittersweet events described in Nishiyama’s liner notes.
 
 In that manner, Nishiyama strives to get to the heart of the matter with each song on this album. The music is different from previous albums in that wants to distill the music to its simplest yet strongest essence, to create straightforward themes using regular, established musical patterns.
+![](L1230228x-1200.jpeg)
 
 This is a slightly different direction intentionally taken by the pianist, who in previous projects and groups has naturally gravitated toward composing complex arrangements full of challenging meters, time signature shifts, and multiple musical sections that span pages.
 
+![](L1230229x-1200.jpeg)
 Similarly, she’s used to taking up difficult musical challenges like composing tuneful melodic themes using all 12 chords in songs like her “T.C.T. (Twelve Chord Tune)” and others, experiments inspired by Bill Evans’ famous “T.T.T (Twelve Tone Tune)” and other [tone-row](https://en.wikipedia.org/wiki/Tone_row) puzzles.
 
 In addition, she’s gained more cross-genre acclaim recently through her jazz/metal fusion project N.H.O.R.H.M. with jazz piano trio versions of classic heavy metal songs. The four albums and live shows from that group also contained finely crafted arrangements and well-rehearsed performances. It’s no surprise that her considered thoughts and intelligence shine not only in her musical writing but also in her many textual essays and liner notes.
+![](IMG_20230726_114550360_HDR-1200.jpeg)
 
 In a slight departure, _Calling_ finds Nishiyama resisting her tendency towards complexity and musical puzzles. Here, the composer challenged herself to focus on creating the best melodies over relatively simple or established musical forms in jazz. She describes them as the types of songs that can be played from the sheet music without overly preparing for special bridges, endings, sections, arrangements, or other unique characteristics on the written musical page.
 
@@ -102,14 +108,6 @@ Although the CD was released in September, we haven’t been able to schedule a 
 
 I’ve been asked “When is the CD release live show”, here and there and through messages, and I apologize that I haven’t been able to reply properly to everyone, but I would like to think about scheduling that when the conditions are safe and it feels right.
 
-{{< figure src="L1230227x-1200.jpeg" >}}
-
-{{< figure src="L1230228x-1200.jpeg" >}}
-
-{{< figure src="L1230229x-1200.jpeg" >}}
-
-{{< figure src="IMG_20230726_114550360_HDR-1200.jpeg" >}}
-
 {{< figure src="L1240160x-1200.jpeg" >}}
 
 
@@ -138,4 +136,6 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 
 {{< youtube u0dLThgxvTQ >}}
 
--   Excerpt from track #6: [“Loudvik”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #6: “Loudvik” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

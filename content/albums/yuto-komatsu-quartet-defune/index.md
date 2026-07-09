@@ -2,7 +2,9 @@
 title = "Yuto Komatsu Quartet: Defune"
 author = ["Brian McCrory"]
 publishDate = 2026-04-05
-tags = ["albums"]
+keywords = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
+tags = ["Yuto Komatsu 小松悠人", "Mikiko Nagatake 永武幹子", "Daisuke Ijichi 伊地知大輔", "Makoto Rikitake 力武誠"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
@@ -11,11 +13,15 @@ draft = false
 
 Trumpeter Yuto Komatsu released his second album _Defune_ in 2025, introducing nine new songs performed by his quartet that includes Mikiko Nagatake on piano, Daisuke Ijichi on bass, and Makoto Rikitake on drums. This new album is a follow-up seven years in the making after his 2018 debut release _Circle of Dreams_, marking his journey through the pandemic years and noting what he picked up along the way. His love of music sustained him through that unpredictable period, one that was particularly hard on independent musicians, as he discusses a bit in the liner notes.
 
+![](L1330256x-1200.jpeg)
 The title _Defune_ is a rendition in English of the Japanese word 出船 (デフネ, _deh-foo-neh, setting sail, departing from port_), which is a perfect fit for Komatsu. In addition to music and jazz trumpet, sea fishing is also a part of the leader’s lifestyle, and several of the songs are thematically linked to his hobby. There’s the opening track “Rising Sun” where the quartet’s live and present sound immediately tunes listeners into the group’s positive energy. Similar in theme, tracks #4 “Aketara (When It Comes to Dawn)” (a deeper groove), #6 “On the Sea” (a comfortable bossa), and #7 “Lucky Fish” (a boppy swinger) dip into his same source of oceanic inspiration also shared through photos throughout the CD.
 
 His other songs are equally fun and convey a sense of someone who could not wait to get his new music out into listener’s players. There is a round cheeriness on songs like the bouncy #7 “Lucky Fish” and #5 “Peaceful Sound”, where the trumpeter’s buoyant mood evokes the fun of Louis Armstrong’s playing. Similarly, on songs like #3 “Brulee” his joyful playing recalls trumpet personalities like Clark Terry’s humor and good nature.
+![](L1330265x-1200.jpeg)
 
 Rounding out the album are the smooth-grooved #2 “Urban Night View”, the melancholic #8 “Pine Wood”, and the blisteringly fast #9 “Burst”, racing to an high-energy close.
+
+{{< figure src="L1330268x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -23,15 +29,19 @@ Rounding out the album are the smooth-grooved #2 “Urban Night View”, the mel
 _(Translated from Yuto Komatsu’s original Japanese liner notes.)_
 
 Thank you for picking up this album.
+![](L1330280x-1200.jpeg)
 
 It’s been seven years since my first album from 2018.
 
+![](L1330285x-1200.jpeg)
 I will never forget that time, when the whole world was thrown into disarray by the coronavirus, and all of my work as a musician had stopped. But even during that time, music continued to sound out in my heart.
 
 After a long period of isolation, there was an almost unbelievable sense that the ordinary life before Covid-19 was gradually beginning to return. I learned not to take the things we are accustomed to for granted, and that they are not always guaranteed to be considered what’s usual.
+![](L1330296x-1200.jpeg)
 
 As work opportunities started to return, little by little, I began to have a strong desire to travel, to go on tour with my band, and to make a second album.
 
+![](L1330300x-1200.jpeg)
 This album’s title of _Defune_ relates to songs from the recording having to do with my hobby of fishing at sea. I came up with some titles like setting sail and leaving port (出船, 出港), but I chose to purposely use English characters for the title.
 
 There are nine original compositions here. I aimed for a sound that is easy to understand and nice to listen to.
@@ -80,20 +90,6 @@ When I returned home for a visit, I went for a walk at my old elementary school 
 
 I had thought that bursts were things that happened in the world of F1. Then, one day, I was driving on Japan National Route 6 from the Matsudo region to Tokyo when my tire burst at an uneven bridge junction. Fortunately, I wasn’t on the highway, and I managed to avoid an accident. But ever since then, I’ve tried to change my tires sooner rather than later. This song is explosively fast and ends before you know it, but I hope you enjoy the ensemble performance of the band.
 
-{{< figure src="L1330256x-1200.jpeg" >}}
-
-{{< figure src="L1330265x-1200.jpeg" >}}
-
-{{< figure src="L1330268x-1200.jpeg" >}}
-
-{{< figure src="L1330280x-1200.jpeg" >}}
-
-{{< figure src="L1330285x-1200.jpeg" >}}
-
-{{< figure src="L1330296x-1200.jpeg" >}}
-
-{{< figure src="L1330300x-1200.jpeg" >}}
-
 {{< figure src="L1350595x-1200.jpeg" >}}
 
 
@@ -119,4 +115,6 @@ _Japanese names: 小松悠人 Komatsu Yuto 永武幹子 Nagatake Mikiko 伊地�
 
 {{< youtube 2hqbCHP1XCI >}}
 
--   Excerpt from track #1: [“Rising Sun”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #1: “Rising Sun” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

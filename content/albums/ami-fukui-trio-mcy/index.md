@@ -2,7 +2,9 @@
 title = "Ami Fukui Trio: MCY"
 author = ["Brian McCrory"]
 publishDate = 2025-02-16
-tags = ["albums"]
+keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
+tags = ["Ami Fukui 福井亜実", "Keigo Iwami 岩見継吾", "Sota Kira 吉良創太", "Kouki"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
@@ -11,21 +13,27 @@ draft = false
 
 It was a surprise when Ami Fukui released even more new songs and arrangements with her trio on her release _MCY_ (2023) so soon after her previous trio album _[Nova Manhã](https://www.jazzofjapan.com/archive/ami-fukui-trio-nova-manha)_ (2022). It does fit well, though, when considering the two albums as a set, as if they were a double album released in two parts. In fact, the songs for both albums were recorded during the same two-day recording session in November 2011. It was an opportune time, as the trio had plenty of live experience together, along with a nice batch of Fukui’s original songs to work with.
 
+![](L1250479x-1200.jpeg)
 Almost like a concept album, or parts I and II of a story, the songs for the two albums were divided between them based on the overall effect that each part is intended to have. There is also a common theme of the morning and the relaxed, refreshed feelings that can arise with the sun. In short, the first album’s songs are intended to provide a soothing balm, and the second’s an energy boost, either or both to be used like tonics or medicine to fit the listener’s mood.
 
 Yet the differences between the two collections are not drastic, and the pair could easily be imagined as a double-album release. The songs and arrangements are from Fukui’s hand, delivered through the trio, and during the same two days, so naturally there is a lot in common. Also in common with her previous releases, her music is characteristically groovy and laid-back with stimulating riffs, smooth playing, and subtly novel arrangements. It’s all delivered through the tightly bound rhythms that the three create so nicely together.
+![](L1250481x-1200.jpeg)
 
 Initially, for some songs, there can be the feeling of a gentle playing style filled with cool swing and decorations. Sometimes that softness is misleading, and several songs build to dramatic peaks. As one example, Jobim’s classic “The Girl From Ipanema” starts with the traditional jazz trio sound that regular jazz fans have heard countless times, but Fukui’s clever arranging results in a unique version of this song that carves out its own unique space in the universe of ordinary versions.
 
+![](L1250496x-1200.jpeg)
 It’s a good demonstration of some of the talents of this trio: gossamer piano licks surfing across the thumping bass lines and drum dynamics, climax-building section changes, outro vamps, and drum solos that add the finishing fire to several of the songs.
 
 In addition to her compositions and arrangements, Fukui’s piano solos occupy most of the improvisation space, and there are a few bass and drum solos and interchanges as well. Nonetheless, the music gravitates towards emphasizing the trio’s locked-in, propulsive rhythms, and Fukui’s thought-out arrangements.
+![](L1250499x-1200.jpeg)
 
 Flow-wise, with mid-tempo merges of swing, straight, and Latin beats, the album starts with the energetic swirl of #1 “Voltex”, the soulful groove #2 “morning sun”, and the deep spices of #3 “The Girl from Ipanema”.  Track #4 “hammock” is a mid-album rest stop where heartwarming piano lines and a slow sway calm the spirits.
 
+![](L1250510x-1200.jpeg)
 The engines rev up again with #5 “tipsy time”, which bubbles with a fun, light bounce resembling carefree tottering. Track #6 “MCY” excitingly invokes the percussive and chiseled piano playing of McCoy Tyner. The meaning of the album title becomes clear when hearing the sound of this track, but prior to that, other interpretations are interesting, and one case is mentioned in the liner notes. (Another wild guess was that MCY may stand for Music, Cats, and Yoga, as some of her favorite things are known to be.)
 
 The last full song on the album, #7 “Mohito”, is a great update of a popular song from her first album, _[Urban Clutter](https://www.jazzofjapan.com/archive/ami-fukui-trio-urban-clutter)_, where the electrically charged sound of the Fender Rhodes replaces the acoustic piano. It makes for another version of the thrilling sound of Ami Fukui-style jazz fusion.
+![](L1250517x-1200.jpeg)
 
 The afterword, #8 “Baikin Concert” (a spontaneous and curious ode to _Baikinman_, a mischievous germ-based antagonist in the comic _Anpanman_), is a short, friendly postscript featuring her young nephew and his cute original song, only seconds long, but ending the album appropriately with a cute /owari/—“that’s it, all done!”
 
@@ -102,18 +110,6 @@ I also would love to thank all the people who were involved and who lent us thei
 
 福井亜実 Ami Fukui
 
-{{< figure src="L1250479x-1200.jpeg" >}}
-
-{{< figure src="L1250481x-1200.jpeg" >}}
-
-{{< figure src="L1250496x-1200.jpeg" >}}
-
-{{< figure src="L1250499x-1200.jpeg" >}}
-
-{{< figure src="L1250510x-1200.jpeg" >}}
-
-{{< figure src="L1250517x-1200.jpeg" >}}
-
 {{< figure src="IMG_20240607_083118626_HDRx-1200.jpeg" >}}
 
 
@@ -143,4 +139,6 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 
 {{< youtube F-_vMyf9e_0 >}}
 
--   Excerpt from track #1: [“Voltex”](https://www.jazzofjapan.com/archive/audio/#mix-12)
+-   Excerpt from track #1: “Voltex” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}

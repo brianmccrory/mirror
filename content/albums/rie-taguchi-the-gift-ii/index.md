@@ -2,7 +2,8 @@
 title = "Rie Taguchi: The Gift II"
 author = ["Brian McCrory"]
 publishDate = 2023-05-26
-tags = ["albums", "vocals"]
+tags = ["Rie Taguchi 田口理恵", "Seiji Endo 遠藤征志", "Seiji Tada 多田誠司", "Noriko Satomi 里見紀子", "Mitsukuni Tanabe 田辺充邦", "Yusuke Nakaishi 仲石裕介", "Akira Yamada 山田玲"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "rietaguchi-gift-ii-460.jpeg"
@@ -11,13 +12,18 @@ draft = false
 
 Vocalist and pianist Rie Taguchi delivers a follow-up to her debut album _[The Gift](https://www.jazzofjapan.com/archive/rie-taguchi-gift)_ with her 2021 album naturally titled _The Gift II_. This swinging outing features her Special Sextet as before with new outstanding arrangements.
 
+![](L1230279-1024.jpeg)
 Presenting Taguchi’s sweetly mellow voice in an exquisite frame, Pianist Seiji Endo arranged all the songs on this album, and his vision combined with the front line of saxophone, violin, and guitar creates a lush, big band-style sound from the six instruments.
 
 From thrilling and upbeat to smooth and slow, the musicians play together tightly, forming a solid foundation and spotlight for the singer. Listeners can easily imagine Taguchi elegantly standing on stage with a tall mic stand next to her and the Special Sextet decked out stylishly behind her. Taguchi’s delivery is direct but soft, rounded and sincere, verging on husky but always in balance. In particular, the positive attitude of her voice shines like a smile throughout the album.
+![](L1230280-1024.jpeg)
 
 Like the previous Special Sextet album, _The Gift II_ is straightforward, cheerful, and classic jazz with big band sensibilities. The music emphasizes swing with a fullness of energy and brightness. Perhaps like other albums created during the gloom of the pandemic years, the musicians may have felt added motivation to create and spread joy through their music.
 
+![](L1230281-1024.jpeg)
 _The Gift II_ abounds in swing and grace with jazz standards including “A Foggy Day”, “Cheek to Cheek”, and “Night and Day”. Other tracks like a dreamy “Misty” and an adventurous “Caravan” build up tension with dynamic changes and a slight sense of mystery. Closing the album, Chick Corea’s always-welcome composition “Spain” is slightly rearranged by Endo with tasteful finesse and performed exuberantly, supplying another exotic and sparkling gem in Rie Taguchi’s bejeweled offering.
+
+{{< figure src="L1230282-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -25,6 +31,7 @@ _The Gift II_ abounds in swing and grace with jazz standards including “A Fogg
 _(Translated from the original Japanese liner notes written by Rie Taguchi.)_
 
 After five years, a jewel box of spun notes…
+![](rietaguchi-gift-ii-blue-460.jpeg)
 
 Five years since the previous work “The Gift”!
 
@@ -35,16 +42,6 @@ Yet with the hurdles in moving forward and the unprecedented events of the coron
 Truly, truly thank you so much! Thank you from the bottom of my heart. I truly appreciate everyone who participated in crowdfunding, and to each and every person who supported us in other ways throughout. Please accept this present, this gift of notes and sound.
 
 _Rie Taguchi_
-
-{{< figure src="L1230279-1024.jpeg" >}}
-
-{{< figure src="L1230280-1024.jpeg" >}}
-
-{{< figure src="L1230281-1024.jpeg" >}}
-
-{{< figure src="L1230282-1024.jpeg" >}}
-
-{{< figure src="rietaguchi-gift-ii-blue-460.jpeg" >}}
 
 {{< figure src="L1240170x-1024.jpeg" >}}
 
@@ -70,4 +67,6 @@ _Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 T
 
 {{< youtube OchRJuddkX0 >}}
 
--   Excerpt from track #1: [“A Foggy Day”](https://www.jazzofjapan.com/archive/audio/#mix-8)
+-   Excerpt from track #1: “A Foggy Day” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}

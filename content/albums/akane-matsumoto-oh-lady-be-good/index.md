@@ -2,7 +2,9 @@
 title = "Akane Matsumoto: Oh, Lady Be Good"
 author = ["Brian McCrory"]
 publishDate = 2024-12-20
-tags = ["albums"]
+keywords = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
+tags = ["Akane Matsumoto 松本茜", "Ryu Kawamura 川村竜", "Junji Hirose 広瀬潤次"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
@@ -11,15 +13,21 @@ draft = false
 
 _Oh, Lady Be Good_ is a piano trio album from Tokyo-based jazz pianist Akane Matsumoto. She’s been releasing trio recordings since 2008, along with albums playing with quartets and quintets, although her recent albums have featured her in small ensembles rather than her regular combos. In fact, since this record (recorded and released in 2019), her latest releases have focused on solo and duo formations, such as her piano album _[Little Girl Blue](https://www.jazzofjapan.com/archive/akane-matsumoto-little-girl-blue)_ (2022), her duo with trombone on _[For My Lady](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for)_ (2023, with Nanami Haruta), and her latest piano and saxophone duo release _Trust_ (2024, with Ayumi Koketsu). All of which is to say that this album, _Oh, Lady Be Good_, is her most recent jazz piano trio release.
 
+![](L1270168x-1200.jpeg)
 Her early debut album _Falling In Love With Phineas_ drops a name in its title that hints at how Matsumoto’s music and quick fingers are filled with hard swinging and elegant playing. On her trio records and at live performances, she naturally transforms her enthusiasm for highly dextrous, fluid pianists like Phineas Newborn Jr. and Oscar Peterson into her own personal style with dazzling energy.
 
 This inspiration is also present on this release in the form of rapid tempos, elegant passages, and sparkling improvisation. At the same time, Matsumoto’s virtuosic fire and passion are balanced by the pianist’s original compositions and sensitive ballad picks. The eight-song, 45-minute album features the uptempo burners that audiences always look forward to as well as the exquisitely smooth and slower rhythms of ballads and bossas. It all works to set heads bopping, bring forth smiles, and set graceful moods as the tracks play out.
+![](L1270173x-1200.jpeg)
 
 The album begins with a deeply comfortable laid-back groove for the title track “Oh, Lady Be Good”. Tracks #2 “I Love You and #7 “Bye Bye Blackbird” fit the bill for intense barn burners with head-turning improvisation and nicely detailed arrangements. Similarly, track #5 “Tadd’s Delight” is Matsumoto’s arrangement of a tune drawn from the standard jazz repertoire, an uptempo treat that always excites listeners. These standards are handled with expertise and respect while incorporating Matsumoto’s artful designs with interludes, coordinated accent hits and bass lines, and several prearranged intros, outros, breaks, and vamps.
 
+![](L1250731x-1200.jpeg)
 Along with jazz standards are three of Matsumoto’s originals, tracks #3 “Contact”, #4 “Pleiades”, and #6 “A Queen of the Night”. These slower, introspective moments, featured particularly on “Pleiades” and “A Nightingale Sang in Berkeley Square”, create space for delicate playing and patient absorption nestled among the higher-energy songs. The two ballads are also the two longest songs on the album, and Matsumoto starts and stops time for brief moments as she gently sets free the emotion of the notes in the melodies and improvisation. For an extra pleasing musical touch right at the end, Matsumoto includes the beautiful introductory verse for “Nightingale” played at the intro, and recalls it once again on the way out.
 
 As for the meaning of #4 “Pleiades”, the word refers to the Messier 45 star cluster also known as “The Seven Sisters” located near the Taurus constellation. Reading Matsumoto’s notes for this song uncovers what it means to her, conveyed through her sensitive playing that brims with love and gratitude. With the same celestial theme, it must not be a coincidence that she is adorned with glittering stars on the album cover, undoubtedly guided by her heavenly intentions.
+![](L1250706x-1200.jpeg)
+
+{{< figure src="L1250705x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -29,6 +37,7 @@ _(Translated from Akane Matsumoto’s original Japanese liner notes.)_
 1.  **Oh, Lady Be Good**
 
 George Gershwin was one of America’s finest composers. Originally written for the 1924 Broadway musical “Lady, Be Good!”, this is the first song written together with his brother and lyricist Ira Gershwin for a Broadway musical, 1924’s “Lady, Be Good!” Achieving success at a young age, Gershwin continued writing songs while fighting a deep loneliness: “Music is the only proof that I’m alive”. His brother, who understood him best, was always at his side. Although he passed away at the young age of 38, it’s said that he composed over 600 songs in the twelve years of his musical life. Expressing his feeling that “I don’t have time to fail,” the great composer never stopped growing and continued to produce new ideas one after another in his songs. (_Akane Matsumoto_)
+![](L1250708x-1200.jpeg)
 
 2.  **I Love You**
 
@@ -67,18 +76,6 @@ This album is the crystallization of her wish to “make lots of people smile th
 
 Filled with the fun, the beauty, and the charm of the piano trio!!
 
-{{< figure src="L1270168x-1200.jpeg" >}}
-
-{{< figure src="L1270173x-1200.jpeg" >}}
-
-{{< figure src="L1250731x-1200.jpeg" >}}
-
-{{< figure src="L1250706x-1200.jpeg" >}}
-
-{{< figure src="L1250705x-1200.jpeg" >}}
-
-{{< figure src="L1250708x-1200.jpeg" >}}
-
 {{< figure src="L1250713x-1200.jpeg" >}}
 
 
@@ -111,4 +108,6 @@ _Japanese names: 松本茜 Matsumoto Akane 川村竜 Kawamura Ryu 広瀬潤次 H
 
 {{< youtube NtKXfGDoI40 >}}
 
--   Excerpt from track #1: [“Oh,Lady Be Good”](https://www.jazzofjapan.com/archive/audio/#mix-12)
+-   Excerpt from track #1: “Oh,Lady Be Good” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}

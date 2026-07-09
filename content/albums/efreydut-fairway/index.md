@@ -2,7 +2,9 @@
 title = "eFreydut: Fairway"
 author = ["Brian McCrory"]
 publishDate = 2024-03-30
-tags = ["albums"]
+keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
+tags = ["Mikiko Nagatake 永武幹子", "Ko Omura 大村亘", "Kanoa Mendenhall"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "efreydut-fairway-460.jpeg"
@@ -11,18 +13,23 @@ draft = false
 
 _Fairway_ is a new Japanese jazz album recorded last year in New York and released in Japan just last month. Drummer Ko Omura, pianist Mikiko Nagatake, and bassist Kanoa Mendenhall form a trio known as eFreydut for this album. The gorgeously recorded music contains ten tracks of innovative and in-control original jazz with a running time of fifty-three minutes.
 
+![](L1240413-1200.jpeg)
 As is natural for these creative jazz musicians, this album features mostly original music stamped with individuality. There are five contributions from drummer Omura, three from Nagatake, and one group improvisation from all three musicians. The one covered song is the beautiful ballad “Touch Her Soft Lips and Part” by Sir William Walton, played with exquisite clarity and sweetness, and reminiscent of the gentle interpretation on drummer Peter Erskine’s 1996 trio ECM album _As it Is_ with John Taylor and Palle Danielsson.
 
 As for the compositions, Nagatake herself describes Omura’s songs on this album as being like a philosophy book, while her songs take on more of a fairy-tale atmosphere. These songs may be coming from different directions but they are all unified by a romantic quality.
+![](L1240415-1200.jpeg)
 
 From Omura’s titles and notes, it’s clear that the drummer puts a lot of thought into what he wants to convey with his music. His melodious and carefully crafted #1 “Savichara”, #2 “Accismus”, and #10 “Liquidity” expand on introspective thoughts with deep musical phrases that rise and fall like a boat on unpredictable waves.
 
+![](L1240418-1200.jpeg)
 His other two songs, #6 “Petrichor” and #8 “Melt Dough”, are down-to-earth appreciations of fine things in life: sensing the richness of transient environments, and gratitude for simply-transformed, delicious food.
 
 A superb thing about Omura’s compositions is that they have a tangible “Ko Omura style”, multi-faceted with boundary-pushing elements. It’s a style also apparent in his music on _[Polyglot Talk, Vol ](https://www.jazzofjapan.com/archive/polyglot-talk-vol-1)1, /his several recordings with [Bungalow](https://www.jazzofjapan.com/archive/bungalow-abstract-messages), and his own leader album /[Introspect](https://www.jazzofjapan.com/archive/ko-omura-introspect)_.
+![](L1240433-1200.jpeg)
 
 Pianist Nagatake’s compositions share similar qualities to Omura’s in being dynamic, creative, and distinctive. These are energizing modern jazz songs with exciting time signatures and arrangements, and the music never strays from being appealing to listeners, as well as just being fun and stimulating for the musicians who play these songs together.
 
+![](L1240436-1200.jpeg)
 On this album, Nagatake’s three songs are each focused and special. #3 “Le Petit Prince” is a tenderhearted melody of childhood and growth colored with playful chromaticism. #4 “Glow” is a challenging piece with an elaborate meter and Mobius strip-like melodic traversals. #7 “Not Sure” is a free jazz collaboration bracketed with ornate bookends, like imposing and modern skyscrapers looming over the chaotic streets contained between them.
 
 Throughout, the music is ultra-clean and immediate. The artistically recorded sound is comforting with an immensely ambient presence like ECM contemporary jazz albums. Much of the rhythmic ride is set in straight-eights territory, with subtle swing beats surfacing and reliably strong basslines surging, pounding, or setting the bottom of the frame as suits the music.
@@ -101,16 +108,6 @@ In the field of economics, it refers to the liquidity of value. This song was wr
 
 ◆Fairway: The name of a long-established supermarket in Manhattan that was close to the hotel where I stayed and that I visited many times.
 
-{{< figure src="L1240413-1200.jpeg" >}}
-
-{{< figure src="L1240415-1200.jpeg" >}}
-
-{{< figure src="L1240418-1200.jpeg" >}}
-
-{{< figure src="L1240433-1200.jpeg" >}}
-
-{{< figure src="L1240436-1200.jpeg" >}}
-
 {{< figure src="IMG_20240328_122839403-1200.jpeg" >}}
 
 
@@ -131,4 +128,6 @@ _Japanese names: 永武幹子 Nagatake Mikiko 大村亘 Omura Ko_
 
 {{< youtube NDAXZTeDaZM >}}
 
--   Excerpt from track #1: [“Savichara”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #1: “Savichara” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

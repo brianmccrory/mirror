@@ -2,7 +2,8 @@
 title = "Akane Matsumoto & Nanami Haruta: For My Lady"
 author = ["Brian McCrory"]
 publishDate = 2023-07-21
-tags = ["albums"]
+tags = ["Nanami Haruta 治田七海", "Akane Matsumoto 松本茜"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
@@ -11,13 +12,18 @@ draft = false
 
 _For My Lady_ is a relaxing package of jazz standards performed by a sensitive trombone and piano duo. Akane Matsumoto, known for her impressive bebop and swing skills, joins up with young newcomer Nanami Haruta on trombone, and both players select favorites from the jazz standard library for this album, each song accompanied by comments in the liner notes translated below.
 
+![](L1230647x-1024.jpeg)
 With a laid-back and reigned-in sound, the album is easy to listen to, suitable for relaxation or a comfortable backdrop to day or night. The music fills the room with a calm background texture, with most songs played at slow tempos or as freely-interpreted ballads. The dark-tinged wistful sound of Haruta’s trombone supported by Matsumoto’s wide piano dynamics creates a melancholy feeling with undercurrents of swing, unobtrusive, quietly persuasive, and suggestive of mellow musical stories being told.
 
 /For My Lady /contains eight standards with one original composition from Haruta entitled “Midnight Sun”, a beautifully melancholy ballad. The jazz song chosen for this album honor greats like George Gershwin, Antonio Carlos Jobim, and Hoagy Carmichael.
+![](L1230648x-1024.jpeg)
 
 Shining moments include Haruta’s emotional playing opening Gerry Mulligan’s “The Real Thing” alone before Matsumoto’s piano joins with gossamer sophistication. Next, the bluesy “Please Send Me Someone to Love” is filled with admiration for Phineas Newborn Jr., one of Matsumoto’s favorite pianists, and shines with the album’s most soulful grooves for the players to dig into. Closing the album, a dreamy rendition of the ever-popular tune “Stardust” is a beautiful take.
 
+![](L1230788x-1024.jpeg)
 Finally, the lightly bouncing tune “For My Lady”, written by the grand harmonicist Toots Thielemans, takes on a special meaning here with Matsumoto’s love for her princess puppy, who makes surprise guest appearances in the videos for “Angela” and “Kemono Change”.
+
+{{< figure src="L1230650x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -72,14 +78,6 @@ There was a time in high school when I was addicted to looking up the lyrics to 
 
 By the way, when I happen to hum this song, I’m struck and transformed by the twinkling dreamlike melody and often start to feel uncomfortable or suffering. I wonder if there’s something like light and shadow at work here. (Nanami Haruta)
 
-{{< figure src="L1230647x-1024.jpeg" >}}
-
-{{< figure src="L1230648x-1024.jpeg" >}}
-
-{{< figure src="L1230788x-1024.jpeg" >}}
-
-{{< figure src="L1230650x-1024.jpeg" >}}
-
 {{< figure src="L1240171x-1024.jpeg" >}}
 
 
@@ -115,4 +113,6 @@ _Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
 
 {{< youtube pyrVnZnrcu0 >}}
 
--   Excerpt from track #7: [“Please Send Me Someone To Love”](https://www.jazzofjapan.com/archive/audio/#mix-9)
+-   Excerpt from track #7: “Please Send Me Someone To Love” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}

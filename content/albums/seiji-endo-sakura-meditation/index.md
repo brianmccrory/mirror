@@ -2,7 +2,9 @@
 title = "Seiji Endo: Sakura Meditation"
 author = ["Brian McCrory"]
 publishDate = 2018-10-22
-tags = ["albums"]
+keywords = ["naoko-akimoto-no-one-else", "seiji-endo-tsutaete-ikou", "ruriko-kawamura-blossoms", "rie-taguchi-gift", "seiji-endo-circle-for-peace", "hiroco-nagano-okurimono", "seiji-endo-genji-monogatari-volume-1", "rie-taguchi-the-gift-ii"]
+tags = ["Seiji Endo 遠藤征志"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "seijiendo-sakura-460.jpeg"
@@ -11,9 +13,13 @@ draft = false
 
 _Sakura Meditation_ from pianist Seiji Endo is a gorgeous collection of evocative solo piano pieces. Through the ten tracks, Endo searches for and finds the perfect phrases and dramatic touches to draw out emotion from his beautiful and pure compositions.
 
+![](L1210400-1024.jpg)
 Most of the songs are just three to five minutes long with strains of classical and slightly jazzy influences surface in the music. The music deeply evokes feelings ranging from pretty etude-like sketches to the childlike innocence of a lullaby, to pieces overflowing with romantic drama and emotional depth. Endo’s poetic style and his passion are directly focused through a soft touch and breath-like pulse: simplicity and brevity through understated effectiveness.
 
 Particularly striking are the two longest songs which develop slowly and powerfully. The seven-minute #9 “Requiem and Hope” is a turbulent and profound exploration and plea, while the nine-minute title track #4 “Sakura Meditation” unfolds from a mysterious 5/4 opening, journeying through darkness until ultimately blooming in a graceful and inspiring resolution.
+![](L1210403-1024.jpg)
+
+{{< figure src="L1210406-1024.jpg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -21,9 +27,11 @@ Particularly striking are the two longest songs which develop slowly and powerfu
 _(Translated from the original Japanese liner notes.)_
 
 **Poetry of sound rich with color**
+![](L1210418-1024.jpg)
 
 On August 17, 2006, I was on vacation in New York, and I stopped by a friend’s house to visit and exercise my fingers on his piano when I happened to meet Seiji Endo who was also there at that time.
 
+![](L1210412-1024.jpg)
 I heard that he was on a mission, training to become a jazz pianist in his hometown. If that’s the case, I begged him, then please take this opportunity and play something for me, and although he was shy, he steadied his resolve and headed towards the piano. Almost like a young boy taking something precious out of a treasure chest and appreciating the value of the existence of each note, he began to play gently and with grace, and I vividly remember how surprised I was at hearing his poetry of sound rich with color.
 
 Even now as I relisten to this album while trying to write this article, I have no choice but to press the stop button, as I can’t simply ignore the music without ending up being completely absorbed in listening to it.
@@ -66,16 +74,6 @@ In April 2012, he was invited to perform at the Sakura Festival in New York Saku
 
 With his delicate and rich tone colors and performances with a strong sense of spirituality, Seiji Endo’s original works are endlessly fascinating and overflowing with talent. We look forward to his continued activities as a young pianist and composer who transcends genres.
 
-{{< figure src="L1210400-1024.jpg" >}}
-
-{{< figure src="L1210403-1024.jpg" >}}
-
-{{< figure src="L1210406-1024.jpg" >}}
-
-{{< figure src="L1210418-1024.jpg" >}}
-
-{{< figure src="L1210412-1024.jpg" >}}
-
 {{< figure src="L1110546-1024.jpg" >}}
 
 
@@ -98,4 +96,6 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 {{< youtube GgfB0DMq9SI >}}
 
--   Excerpt from track #1: [“Sun,Moon and Children Smile”](https://www.jazzofjapan.com/archive/audio/#mix-3)
+-   Excerpt from track #1: “Sun,Moon and Children Smile” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}

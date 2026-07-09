@@ -3,16 +3,17 @@ title = "Soultrane"
 author = ["Brian McCrory"]
 publishDate = 2023-06-18
 tags = ["clubs", "premium"]
+categories = ["clubs"]
 draft = false
+[cover]
+  image = "L1170949x-1024.jpeg"
+  relative = true
 +++
-
-{{< figure src="L1170949x-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>A friendly jazz jam at Soultrane in 2017" >}}
 
 Soultrane is a classic jazz bar conveniently located near the famous grand shrine in Asakusa. This club is a funky hideaway den located on the second floor in a famous neighborhood filled with popular shrines and old-fashioned buildings.
 
+![](IMG_20170916_143012_hdrx-1024.jpeg)
 The room itself is filled with various unmatched chairs and side tables surrounding a large table in the center creating the feel of a slapdash but comfortable dining room. A nicely stocked bar with a wrap-around counter sports great views out the picture windows which fill up one wall of the room.
-
-{{< figure src="IMG_20170916_143012_hdrx-1024.jpeg" >}}
 
 Also furnishing the room is a hodgepodge collection of knick-knacks, CDs, records, posters of jazz musicians and classic Hollywood stars, and a few standing drums and instruments tucked away in any available corners.
 
@@ -21,9 +22,3 @@ As for the stage area, a baby grand piano, double bass, and drum set stand up ag
 With a capacity for perhaps 20 to 30 people, Soultrane provides a friendly and easygoing atmosphere for catching local jazz musicians. Ambitious amateur jazz players may even choose to join the frequent open jazz jam sessions which cost around 2500 to 3000 yen.
 
 {{< figure src="IMG_20170916_142635x-1024.jpeg" >}}
-
-
-## For more information: {#for-more-information}
-
--   [Soultrane’s website](https://soultrane.jp/)
--   [Located near Asakusa station in Tokyo, Japan](https://goo.gl/maps/FetvnRf2yCTkUQez7)

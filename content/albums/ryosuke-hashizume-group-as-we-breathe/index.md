@@ -2,7 +2,9 @@
 title = "Ryosuke Hashizume Group: As We Breathe"
 author = ["Brian McCrory"]
 publishDate = 2025-08-17
-tags = ["albums"]
+keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-side-two", "ryosuke-hashizume-group-incomplete-voices"]
+tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Manabu Hashimoto 橋本学", "Ryoji Orihara 織原良次", "Masako Hamamura 浜村昌子", "Taihei Asakawa 浅川太平"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
@@ -11,18 +13,23 @@ draft = false
 
 _As We Breathe_ is the 2008 release from the Ryosuke Hashizume Group, a sax-led ensemble of sax, guitar, drums,  bass, and piano. This jazz-quintet combination of instruments and players forms the perfect medium for bringing Hashizume’s penned compositions to life. I’ve introduced this group’s other releases at earlier points, although in an out-of-order sequence, so this article completes the set of the group’s six releases to date.
 
+![](L1200721x-1200.jpeg)
 _As We Breathe_, with nine tracks and about 70 minutes, is the second album out of the six released by the group. Despite the earliness of this and their previous album (their debut [_Wordless_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-wordless)), their concept was already well-defined based on Hashizume’s compositions and musical direction, and the musicians show a cohesive personality with intuitively-linked playing and precise timing.
 
 Over warm tones of electric guitar and fretless bass, the breathy, long notes of the tenor sax push through the air with an ethereal presence. The deep, round anchor of bass is necessary and comforting as active pinpoints of drums and cymbals light up and spark with energy. The sound of electrified strings inhabits the music, submerging and cresting unpredictably with a mesmerizing effect.
+![](L1200722x-1200.jpeg)
 
 Most songs run at about seven to ten minutes, allowing the music to build slowly, confidently, and the musicians to move at their own pace. This is a consistent quality of Hashizume's wisely crafted music: Things are done subtly but powerfully, melodic qualities change under your feet like shifting sand, and rhythms are often engineered to be atypical but stable. As deep tentacles entwine and pull down, keep in mind, remember as we breathe.
 
+![](L1200723x-1200.jpeg)
 Track #1 “Last Song” is an abstract painting of sound where the saxophone and guitar duet a melody while the bass, drums, and piano paint a dreamy landscape background. Fluid, floating, swirling like liquid and vapor, smoothly merging into abstract shapes. A strong melody statement by the tenor sax pulls the mist and rhythm around in its wake. It lingers in the mind like a recollection of a mysterious dream as smoky drums loosely hypnotize.
 
 \#2 “Sakura-Ame” (桜雨, _cherry blossom rain_) (8:40) is a dark waltz, mysterious and extending the previously established misty feeling. There is some sort of magical tint, a casting of a spiraling spell.
+![](L1200725x-1200.jpeg)
 
 \#3 “Sign” is stylish and energetic as jazz drama and rock sensibilities meet. Crisp drums punctuate a simple but memorable theme over progressively intense harmonies and movements.
 
+![](ryosuke-hashizume-group-as-we-breathe-cover1x-1200.jpeg)
 \#4 “Fraise” (_French for いちご, strawberry_) is tender with the pulse of a rock ballad. The catchy melody plays out with a curiously familiar yet unfamiliar mood, heightened by the slightly offset melodic placements and syncopated offbeats.
 
 The mid-to-uptempo 4/4 jazz/rock #5 “Encore” (9:31) has Orihara’s bass stating the opening and closing theme over piano arpeggios, setting up the dramatic stage for some great improv from the bass and piano (with incredible left-hand/right-hand scene-stealing conversation) before sax and guitar interplay. The drums and bass rhythms really propel things forward with deadly accuracy, as with many of the highlights here.
@@ -36,16 +43,6 @@ Track #6 “Keep in Mind” is an exploratory suite-like story, where the slow a
 Finally, #9 “Epilogue” retells the music of #1 “Last Song”, more exploratory, slower, with its unforgettable melody and rich chords moving like clouds in flux through the sky’s invisible currents.
 
 As seen in the track listing, there is an interesting use of self-reference in the song titles. The album starts with track #1 titled “Last Song”, and the last song is track #9 “Epilogue”, which is actually a redone version of “Last Song” (an epilogue, the last song). Also, in the middle of the disc is track #5 “Encore” — a strange place for an encore. Yet if you consider the album as one in-out of a single breath, then the midpoint could be the pause between, marking where the structure folds and loops back to the start (the end), and where it completes the circle to restart the next cycle of breath. (Perhaps a propos, “Cycles” is the title of a track included on both their _Wordless_ and [_Visible/Invisible_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-visible-invisible) releases.)
-
-{{< figure src="L1200721x-1200.jpeg" >}}
-
-{{< figure src="L1200722x-1200.jpeg" >}}
-
-{{< figure src="L1200723x-1200.jpeg" >}}
-
-{{< figure src="L1200725x-1200.jpeg" >}}
-
-{{< figure src="ryosuke-hashizume-group-as-we-breathe-cover1x-1200.jpeg" >}}
 
 {{< figure src="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" >}}
 
@@ -88,7 +85,9 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋
 
 {{< youtube Mf2qe0wqQ4o >}}
 
--   Excerpt from track #3: [“Sign”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #3: “Sign” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
 
 
 ## Other Links {#other-links}

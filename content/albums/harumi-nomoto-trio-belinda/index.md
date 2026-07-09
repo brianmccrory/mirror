@@ -2,7 +2,8 @@
 title = "Harumi Nomoto Trio: Belinda"
 author = ["Brian McCrory"]
 publishDate = 2020-04-04
-tags = ["albums"]
+tags = ["Harumi Nomoto 野本晴美", "Noboru Ando 安東昇", "Daisuke Yoshioka 吉岡大輔"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
@@ -11,21 +12,15 @@ draft = false
 
 Among the modern J-Jazz piano trio mainstays in the collection, Harumi Nomoto Trio’s _Belinda_ is a favorite album to return to for catchy cool original vibes with laid-back warmth. With both loose jams and well-crafted jazz compositions, the album ebbs and flows with mid-tempo grooves and contemporary swinging.
 
+![](L1210329-1024.jpg)
 As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the warm tones of Fender Rhodes electric piano, enhancing the songs with jazz grooves fusing elements of jazz, light funk, swing, blue ballads, and gospel. While favorites like “‘7up”, “Crescent”, and the cozy gospel waltz “My Sweet Brown” deliver chic and polished jazz arrangements, the songs are also interspersed with short jams “M.M.C.M.” in two versions, and closes in unrestrained style on two tracks, with Nomoto first roaming freely on solo piano, followed by the trio free-associating and capturing the moment in symbiotic creativity.
 
-{{< figure src="L1210329-1024.jpg" >}}
-
-{{< figure src="L1210328-1024.jpg" >}}
-
-{{< figure src="L1210334-1024.jpg" >}}
-
-{{< figure src="L1210346-1024.jpg" >}}
-
-{{< figure src="L1210348-1024.jpg" >}}
-
-{{< figure src="L1210341-1024.jpg" >}}
-
-{{< figure src="IMG_20150128_151339_hdr-1024.jpg" >}}
+![](L1210328-1024.jpg)
+![](L1210334-1024.jpg)
+![](L1210346-1024.jpg)
+![](L1210348-1024.jpg)
+![](L1210341-1024.jpg)
+![](IMG_20150128_151339_hdr-1024.jpg)
 
 
 ## Belinda by Harumi Nomoto Trio {#belinda-by-harumi-nomoto-trio}
@@ -57,4 +52,6 @@ _Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Y
 
 {{< youtube fRSPPoJzMrw >}}
 
--   Excerpt from track #2: [“7up”](https://www.jazzofjapan.com/archive/audio/#mix-6)
+-   Excerpt from track #2: “7up” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}

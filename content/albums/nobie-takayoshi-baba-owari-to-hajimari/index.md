@@ -2,7 +2,9 @@
 title = "Nobie & Takayoshi Baba: Owari to Hajimari"
 author = ["Brian McCrory"]
 publishDate = 2025-01-11
-tags = ["albums", "vocals"]
+keywords = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
+tags = ["Nobie ノビー", "Takayoshi Baba 馬場孝喜", "Nobumasa Tanaka 田中信正", "Mayuko Katakura 片倉真由子", "Kiichiro Komobuchi コモブチキイチロウ", "Yoichi Okabe 岡部洋一"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
@@ -11,18 +13,23 @@ draft = false
 
 _Owari to Hajimari_ (_The End and the Beginning_) is a new album from the duo of vocalist Nobie and guitarist Takayoshi Baba. Released in 2023, this disc features forty minutes of music written and adopted from the duo’s repertoire and experience playing jazz, pop, and Brazilian music together.
 
+![](L1250427x-1200.jpeg)
 The two have released their own leader albums and recordings with other groups, but this is the first album to be released under their co-named band partnership and builds on their vast experience playing together in various settings.
 
 Four of the eleven songs are covers taken from jazz and Latin music. The one tune lifted from the jazz songbook is Thelonious Monk’s “Evidence”. This is an inspired jazz choice for a duo and the result is great—a nicely arranged and precisely played guitar-vocal version of the addictive and off-kilter tune.
+![](L1250429x-1200.jpeg)
 
 The three other cover songs are pulled from Brazilian music, with track 5 “Feliz” and 4 “É” by the singer-songwriter Gonzaguinha, and track 10 “Pedra Bonita” by the composer Mario Adnet. The latter two songs are particularly energized by a full quintet sound with members of the group “Nobie Especial Band” joining on piano, bass, and percussion to lay out entrancing rhythms for the guitar and voice acrobatics.
 
+![](L1250438x-1200.jpeg)
 When not scat-singing on these songs, Nobie sings lyrics that have been translated into Japanese, adding another unique twist to the mix of Brazil and Japan that Nobie embodies so well.
 
 The seven original songs are led by the album opener “Introduction”, a short and wordless vocal welcome that sets the stage with Nobie’s vocal overdubs and percussion. The riff turns through a hypnotic cycle over a slippery beat, similar to some of the music she creates with another of her groups, the trio [Les Komatis](https://www.jazzofjapan.com/archive/les-komatis-les-komatis).
+![](L1250454x-1200.jpeg)
 
 Tracks 6 through 9 are four of guitarist Takayoshi Baba’s songs played by Baba and Nobie as a duo. The songs are a blend of soulful pop, quick and technical phrases played in unison, dreamy spaces, dazzling scatting, and a short etude as an impressive vocal-guitar workout. While #6 “Kaze no Mama ni” includes Japanese lyrics, Nobie scat-sings and vocalizes as an instrument on tracks 7, 8, and 9, playing in unison with Baba’s guitar or voicing the melody at different times. Baba’s classical guitar with fingerstyle virtuosity elevates the Latin, jazz, and contemporary fusion like a version of The Guitar Trio of Paco de Lucía, John McLaughlin, and Al Di Meola, particularly when Baba overdubs his guitar solos over his rhythm-playing and fingerpicking.
 
+![](L1250446x-1200.jpeg)
 Nobie’s golden sweet voice is ever charming, deceptively soft but ultra dynamic, and powered by a nimble and quick lightness that leaps effortlessly above a foundation of a locked-in sense of time and rhythms. In certain songs, Nobie will also often add claps, slaps, hand percussion, or vocal pops, clicks, and percussive sounds for added rhythmic layers, sometimes even simultaneously while singing.
 
 Like the album’s opener, the final song, track 11 “Komaku” (_eardrum_), departs slightly from the rest of the music. This parting song creates a wide open, ambient space for the album’s outro with lush guitar delays and effects drawing a spellbinding mood similar to her tune “Loop” on her debut album [Primary](https://www.jazzofjapan.com/archive/nobie/primary).
@@ -57,16 +64,6 @@ Shinichi Tokunaga (徳永 伸一): Music Writer, Associate Professor at Tokyo Me
 Note 1: _Gray-Zone_ (2013, Song&amp;Co label)
 
 Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of ballads with her regular trio after 8 years” (interview and text: Mitsutaka Nagira [柳樂光隆]) [https://ototoy.jp/feature/20171110](https://ototoy.jp/feature/20171110)
-
-{{< figure src="L1250427x-1200.jpeg" >}}
-
-{{< figure src="L1250429x-1200.jpeg" >}}
-
-{{< figure src="L1250438x-1200.jpeg" >}}
-
-{{< figure src="L1250454x-1200.jpeg" >}}
-
-{{< figure src="L1250446x-1200.jpeg" >}}
 
 {{< figure src="L1270343x-1200.jpeg" >}}
 
@@ -117,7 +114,9 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka
 
 -   [Album streams (TuneCore Japan)](https://linkco.re/gMGSQuCY)
 
--   Excerpt from track #2: [“おわりとはじまり (_The end and the beginning_)”](https://www.jazzofjapan.com/archive/audio/#mix-12)
+-   Excerpt from track #2: “おわりとはじまり (_The end and the beginning_)” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
 
 
 ## Other Links {#other-links}

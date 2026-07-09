@@ -2,7 +2,9 @@
 title = "Hiroyuki Yamaguchi Quintet: Mowna"
 author = ["Brian McCrory"]
 publishDate = 2025-10-04
-tags = ["albums"]
+keywords = ["mase-hiroko-quintet-first-contact"]
+tags = ["Hiroyuki Yamaguchi 山口裕之", "Hiroko Mase ませひろこ", "Hinata Ishii 石井ひなた", "Toshihiko Kohno 紅野智彦", "Tomoyuki Okabe 岡部朋幸"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
@@ -11,21 +13,29 @@ draft = false
 
 _Mowna_ is a 2024 album from bassist and composer Hiroyuki Yamaguchi. For this release, Yamaguchi wrote and arranged all nine tracks, which he recorded with a quintet composed of several musicians that played on his previous album _Inner Perception_ (2018) by his Thursday Night Sextet, a band formed through jam sessions at the Tokyo jazz bar and local institution Manhattan.
 
+![](L1290400x-1200.jpeg)
 On _Mowna_, the returning members from Yamaguchi’s sextet are Hiroko Mase on soprano sax, Hinata Ishii on tenor sax, and bassist Yamaguchi, and newly added members for this release are pianist Toshihiko Kohno and drummer Tomoyuki Okabe.
 
 The word used as the title of the album is an unfamiliar one in both English and Japanese, but an explanation surfaces in small lettering on the front cover:
+![](L1290410x-1200.jpeg)
 
 > _In Hindu philosophy, MOWNA (Silence), which has a voice of its own, refers to peace of mind, inner quietude, Samadhi and the Absolute Reality._
+> ![](L1290420x-1200.jpeg)
 
 As Yamaguchi goes on to explain in the liner notes, the music he writes centers around a concept of inclusion and harmony, of welcoming in new listeners while satisfying the already jazz-acquainted. As a result, the music is nice straight-ahead jazz, relaxed and to-the-point frameworks that include pleasing two-horn harmonies (soprano and tenor sax) and plenty of room for uninhibited improvisation from the soloists.
+![](L1290427x-1200.jpeg)
 
 Listening to the hard bop and walking beat of the band brings to mind the music of Art Blakey and the Jazz Messengers, the sounds of Lee Morgan, Hank Mobley, Jackie McLean (esp. track #6, “The Puzzle”), and the modern touch of Benny Golson compositions. There’s sophistication and elegance in the grounded approach. And, once you read the liner notes and the subtitle, a deeper vibration begins to appear: Yamaguchi’s search for peace and truth, inner calm and wisdom, while observing what’s around you, and reacting with confidence as the plan adjusts but control is maintained.
 
+![](L1290428x-1200.jpeg)
 Yamaguchi’s nine songs are steadfast in their fulfillment of his concept. Track #1 “For George” is immediately easy to listen to and to understand, bringing outsiders into the fold quickly. Yamaguchi’s straight-ahead bass walking and Okabe’s pinpoint drumming anchors the good vibes and twin saxophone melodies that ornament the prologues and epilogues to the bulk of the songs, that is, the jazz solos. Also straightforwardly done, most of the improvisation space is allowed to soprano sax Mase and tenor sax Ishii. Pianist Kohno takes his fair share, as well, captivating and swinging. Yamaguchi features his own bass solos just a few times, composed while keeping the music solid and rooted throughout.
 
 The next track #2 “The Search For Wholeness” lays out a calmer melody of peaceful stabilization over smooth Latin downbeats. #3 “Mowna” follows suit like a teacher guiding the calm melody over calm changes. #4 “Reaching The Peak” increases the tempo for elevated excitement, and #5 “You Know Something?” brings the pace back down for a breather, allowing time for pondering questions and considering answers... maybe as a prelude to the next track.
+![](L1290430x-1200.jpeg)
 
 \#6 “The Puzzle” is slightly aggressively tinged in order to stimulate the senses, where the composing is more Jackie McLean than Benny Golson. #7 “What Are You Seeking For?” bring further good-feeling swing moments, with swing/Latin switch-offs that pop up in several of the tunes on the album _a la_ the Horace Silver or Jazz Messengers style. #8 “Daphne Odora” is another Latin-beat tune with a locked-in pulse and energetic solos from the two saxes. Finally, #9 is a peaceful final word, a piano feature that Kohno beautifully paints from start to end, while the horns provide soft harmonies and the steady bass and drums reassure us, on the way out, that everything is in good hands and will be fine.
+
+{{< figure src="L1290434x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -33,9 +43,11 @@ The next track #2 “The Search For Wholeness” lays out a calmer melody of pea
 _(Translated from Hiroyuki Yamaguchi’s original Japanese liner notes.)_
 
 **Yamaguchi Hiroyuki Quintet**
+![](L1290439x-1200.jpeg)
 
 Formed during the coronavirus pandemic in 2020, and held their first performance in December of that year. Played songs from the previous release _Inner Perception/Thursday Night Sextet_ (What’s New Records, ) as a quintet. Received positive feedback and started composing new songs for the quintet immediately. Performed a live concert on April 24, 2021, from a repertoire of all new songs.
 
+![](L1290446x-1200.jpeg)
 We continue to play concerts to realize the concept introduced in the previous release: To make melodies that linger in the hearts of those don’t normally listen to jazz, as well being appreciated by jazz fans.
 
 **The Musicians**
@@ -120,24 +132,6 @@ _Mowna_
 
 Hiroyuki Yamaguchi Quintet
 
-{{< figure src="L1290400x-1200.jpeg" >}}
-
-{{< figure src="L1290410x-1200.jpeg" >}}
-
-{{< figure src="L1290420x-1200.jpeg" >}}
-
-{{< figure src="L1290427x-1200.jpeg" >}}
-
-{{< figure src="L1290428x-1200.jpeg" >}}
-
-{{< figure src="L1290430x-1200.jpeg" >}}
-
-{{< figure src="L1290434x-1200.jpeg" >}}
-
-{{< figure src="L1290439x-1200.jpeg" >}}
-
-{{< figure src="L1290446x-1200.jpeg" >}}
-
 {{< figure src="L1290450x-1200.jpeg" >}}
 
 
@@ -168,4 +162,6 @@ _Japanese names: 山口裕之 Yamaguchi Hiroyuki ませひろこ Mase Hiroko 石
 
 {{< youtube 5qg1BZ8qowE >}}
 
--   Excerpt from track #1: [“For George”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #1: “For George” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

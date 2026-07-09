@@ -2,7 +2,9 @@
 title = "Yasumasa Kumagai & J-Jazz Homies: Last Resort"
 author = ["Brian McCrory"]
 publishDate = 2023-10-06
-tags = ["albums"]
+keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
+tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Miki Hirose 広瀬未来", "Keisuke Furuki 古木佳祐", "Akira Yamada 山田玲"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
@@ -11,13 +13,18 @@ draft = false
 
 The latest album from J Jazz pianist Yasumasa Kumagai is titled _Last Resort_, released in 2020 on his own independent label with his jazz piano trio plus Miki Hirose on trumpet. Although the eye-catching cover design may be a world away from typical jazz albums, the aggressive, tongue-in-cheek image succeeds in standing out, a conscious attempt to challenge flagging CD sales in recent years by piquing interest and possibly head-scratching confusion.
 
+![](L1230326x-1024.jpeg)
 This album follows his previous release _[J-Straight Ahead](https://www.jazzofjapan.com/archive/yasumasa-kumagai-j-straight-ahead)_ after five years. The pianist and composer Kumagai regularly records as a trio on his albums, but his main motivation this time was to change to a quartet setting for all songs. Similarly, the overall sound changes very slightly as well, towards Latin-inspired modern jazz — not straight Latin jazz, but modern-day straight-ahead jazz with a variety of spicy influences. Like the playing and concepts that listeners loved on his previous releases, it’s still Kumagai’s music, combining his lively playing with hummable melodies and gripping beats, infused with hues of hip-hop music and personality. Particularly, Kumagai’s command of groove, gospel, and Glasper-inspired music is strongly felt as he pulls from his deep well of authentic and modern jazz, and the album is satisfyingly full of smart music, cool improvisation, and groovy bass lines and drum textures.
 
 Kumagai’s originals are always interesting, balancing simple, catchy melodies with more complex rhythms and structures, often in those odd-time meters like 7/4 or 12/8 that invigorate musicians and listeners alike. _Last Resort_ includes six of his new original tunes, with two additional cover songs wrapping up the set, literally: The entire album was recorded over one day with the songs played in order of the track listing. Capturing the day’s progression gives the album the feel of a live performance, and as the tracks progress, the momentum builds and the energy changes, much like a live band playing a setlist on stage. Even the final tune, “Caravan”, has the feel of an impromptu, high-energy encore as the song emerges out of an adrenalin-surging drum solo that had started on the previous song, recording both tracks in one continuous take and capping the album (and the recording session) on an intense high note.
+![](L1230327x-1024.jpeg)
 
 Recording all together, in set list order, with a limited time window is challenging, but the quartet had performed together over the previous two nights at live shows, which worked like an extended warm-up and captured the feeling of a mid-tour performance in the recording.
 
+![](L1230328x-1024.jpeg)
 Album highlights include the modern jazz beat of “Pirarucu”, the _soca_-inspired, dramatic “Conflict Areas”, and the adventurous abandon on the uptempo “Caravan”, an excitingly rearranged version of this familiar jazz standard. The other cover song on the album, “Quizás Quizás Quizás”, is the most clearly Latin-inspired choice and may be well-known to Latin genre fans (incidentally, the song may also sound vaguely familiar to those who remember 90’s alternative rock band Cake’s version of “Perhaps, Perhaps, Perhaps”.)
+
+{{< figure src="L1230329x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -76,14 +83,6 @@ This was my first time to try something new, to record all the songs sequentiall
 
 That’s all for now. We appreciate your support as we continue to release new albums in the future.
 
-{{< figure src="L1230326x-1024.jpeg" >}}
-
-{{< figure src="L1230327x-1024.jpeg" >}}
-
-{{< figure src="L1230328x-1024.jpeg" >}}
-
-{{< figure src="L1230329x-1024.jpeg" >}}
-
 {{< figure src="L1240176x-1024.jpeg" >}}
 
 
@@ -109,4 +108,6 @@ _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 広瀬未来 Hirose Miki �
 
 {{< youtube pr7uvD0kkmM >}}
 
--   Excerpt from track #5: [“Apologetic Blues”](https://www.jazzofjapan.com/archive/audio/#mix-9)
+-   Excerpt from track #5: “Apologetic Blues” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}

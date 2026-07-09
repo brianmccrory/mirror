@@ -2,7 +2,9 @@
 title = "Koto ha, To: Shiro o Matoeba"
 author = ["Brian McCrory"]
 publishDate = 2025-07-12
-tags = ["albums", "vocals"]
+keywords = ["yuki-ito-retattanni-no-mori"]
+tags = ["Ayako Tsuchiya 土屋絢子", "Kozue Tsukayama 津嘉山梢", "Yuki Ito 伊東佑季"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
@@ -11,22 +13,28 @@ draft = false
 
 “Koto ha, To” is a three-member musical project made up of vocalist Ayako Tsuchiya, pianist Kozue Tsukayama, and bassist Yuki Ito. Their album is titled _Shiro o Matoeba_ and was released in 2017.
 
+![](L1280816x-1200.jpeg)
 To begin, a quick overview of the Japanese words in the band name and album title gives a nice first impression of the phrases, poetically vague as they may be. A translation of their band name (ことは、と in Japanese) would be something like “The Thing Is, ...” or “About That, ...”,  and the album title (白をまとえば) something like _When/If I Wear White_.
 
 _Shiro o Matoeba_ includes eight beautifully delicate songs, all originals with music written by the three musicians individually. All lyrics were written by vocalist Tsuchiya and are sung in Japanese, except for the two tracks #5 “Vocalise” and #6 “Flower” which Tsuchiya sings in wordless vocalization using her voice as an instrument along with the piano and bass.
+![](L1280828x-1200.jpeg)
 
 The album sequencing is also artful, as the opening and closing tracks (#1 “Shiro o Matoeba” and #8 “Dialog”) act as the album’s prologue and epilogue with storytelling timing and decorative musical structures folded like origami. Along the same lines, track #4 “Maware” (まわれ, _turn_) features a spoken-word recitation over musical loops and appears in the middle of the album as an intermission of poetry and music.
 
+![](L1280832x-1200.jpeg)
 Bracketed by these three pieces, the rest of the songs find the three musicians playing in a more straightforward and jazzy style. #2 “Selene’s Dance” is a highlight with its romantic and mysterious atmosphere depicting the drama of Selene. This Greek goddess of the moon had her lover Endymion placed in eternal sleep, and eternal youth, out of love, and visited him each night. Compellingly, the tune initially seems to share certain characteristics with other great songs—Radiohead’s “Exit Music (For a Film)” and Chopin’s “Prelude, Op. 28, No. 4”—but “Selene’s Dance” moves along at a brisk pace with the spice of 5/4 time and additional well-placed beats of punctuation.
 
 Other songs are just as evocative and moving. Track #3 “Higenashi” (ひなげし, _poppy_) is a pretty waltz with a fragile lightness obscuring a weighty past love as Tsuchiya’s high-reaching vocals express a vulnerable sweetness brilliantly. #5 “Vocalize” is a crafted jazz sculpture with an almost operatic melody and space for bass and piano jazz improvisations. #6 “Flower” opens into a slowly sad, Latin mood with pop lovesong fringes. #7 “Muchu Sampo” (夢中散歩, _wandering in a dream_) is another odd-meter addiction where striking chords angle over plumb bass notes with coordinated accents over shifting sands.
+![](L1280840x-1200.jpeg)
 
 Speaking of odd-meter, the use of non-4/4 time signatures on _Shiro o Matoeba_ adds to the overall allure of the Koto ha, To’s music. Additional measures, mixed meters, and asymmetrical phrases are carefully inserted in the written scores in several places. Along with the charm of the three dramatic rubato and stop-start pieces, over half of the songs feature non-4/4/ meters (3/4, 5/4, and 7/4) with extra measures or beats used subtly to adorn specific points in the delivery.
+![](L1280868x-1200.jpeg)
 
 
 ## Lyrics {#lyrics}
 
 _(Lyrics transcribed from the liner notes, with English translations by me)_
+![](L1280871x-1200.jpeg)
 
 **1. 白をまとえば         when i wear white**
 
@@ -258,18 +266,6 @@ _Lyrics: Ayako Tsuchiya  Music: Kozue Tsukayama_
 >
 > 消えた　太陽             the vanished sun
 
-{{< figure src="L1280816x-1200.jpeg" >}}
-
-{{< figure src="L1280828x-1200.jpeg" >}}
-
-{{< figure src="L1280832x-1200.jpeg" >}}
-
-{{< figure src="L1280840x-1200.jpeg" >}}
-
-{{< figure src="L1280868x-1200.jpeg" >}}
-
-{{< figure src="L1280871x-1200.jpeg" >}}
-
 {{< figure src="L1320359x-1200.jpeg" >}}
 
 
@@ -302,4 +298,6 @@ _Japanese names: 土屋絢子 Tsuchiya Ayako 津嘉山梢 Tsukayama Kozue 伊東
 
 {{< youtube 5Srg_bYrSok >}}
 
--   Excerpt from track #5: [“Vocalise”](https://www.jazzofjapan.com/archive/audio/#mix-13)
+-   Excerpt from track #5: “Vocalise” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}

@@ -2,7 +2,9 @@
 title = "Magnolia: El viento y las flores"
 author = ["Brian McCrory"]
 publishDate = 2025-02-03
-tags = ["albums"]
+keywords = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
+tags = ["Reiko Yamamoto 山本玲子", "Yuka Yanagihara 柳原由佳", "Hitomi Aikawa 相川瞳"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
@@ -11,9 +13,11 @@ draft = false
 
 Magnolia is a trio made up of vibraphone, piano, and percussion, and their debut album, _El viento y las flores_ was released in 2022. This fifty-six-minute album contains ten tracks of all original compositions, four from vibraphonist Reiko Yamamoto and three each from pianist Yuka Yanagihara and percussionist Hitomi Aikawa. Despite having three independent composers, their tight interplay and musical personalities seem tightly bound together, as if their collective music just blooms out intuitively unified.
 
+![](L1260213x-1200.jpeg)
 The compositions start from a base of jazz and improvisation but are filled with many other various elements. There is a sense of a deep connection to ethnic rhythms and sounds, such as some Spanish elements as with the titles of the first track and the album itself. Some of the writing and the piano parts recall Chick Corea’s “Spanish heart” as a component, and there could be some Return to Forever-type jazz/rock/Latin fusion characteristics that subtly power the music as well.
 
 Not to say that this is Latin music or Latin jazz, but that anything could be an influence. This includes Japanese musical training, American jazz education (both Yamamoto and Yanagihara studied at Berklee College of Music), and classical and jazz study, with Japanese soul also brought in via the backgrounds of the three musicians.
+![](L1260224x-1200.jpeg)
 
 Similarly, there are rhythms and music that are not only based on jazz, pop, or Latin fusion, but seem to be infused with some cultural and historical influences. For example, medieval, roots, or tribal sounds that conjure up visions of early Celtic or even Viking music. The fascinating compositions deliver a full sound from the three players, a large part due to their great arrangements and detailed touches that are irresistibly moving and likable, and pull you in like gravity. The players’ technical skills are flawless, of course, and bring the musical structures, themes, improvisations, and interplay right into focus.
 
@@ -28,10 +32,6 @@ This spirit of freshness is clearly linked to their choice of band name. The ref
 A quick tour through the album tracks starts with an instantly engaging track #1 “La vos del viento”, colorfully Spanish and exciting. #2 “Haru, Aozora” is a cheery and bright piece with breathtaking views. #3 “Short Stories No. 6” is a distinctive march-like story with ancient medieval folk aspects (as with Yamamoto’s other compositions, Reiko’s love of role-playing video games greatly influences how she tells stories through her music, and this is one chapter from her “Short Stories” series of songs).
 
 Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosity. #5 “Fune” is another catchily ancient-sounding piece that paints a pre-modern tableau. #6 “Blue Mallet” is rousing and groovy, drenched with cinematic drama. #7 “Pause is peaceful and slightly blue, similarly powerful as soundtrack material. #8 “Hanakage” is another otherworldly, absorbing journey with a deep aura, undefinably Old English or Gaelic, perhaps. #9 “Furosato” is an affecting ballad, carrying the same heartwarming, nostalgic power as songs like “Danny Boy”. Finally, #10 “Swaying Willows” with its soft pop shuffle is all farewell hugs, fresh and positive with the promise of a warm welcome in the future.
-
-{{< figure src="L1260213x-1200.jpeg" >}}
-
-{{< figure src="L1260224x-1200.jpeg" >}}
 
 {{< figure src="L1260229x-1200.jpeg" >}}
 
@@ -77,7 +77,9 @@ _Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川
 
 {{< youtube KzeQhysOrRo >}}
 
--   Excerpt from track #3: [“Short Stories No.6”](https://www.jazzofjapan.com/archive/audio/#mix-12)
+-   Excerpt from track #3: “Short Stories No.6” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
 
 
 ## Other Links {#other-links}

@@ -2,7 +2,8 @@
 title = "Yukiko Hayakawa Trio: Gallery"
 author = ["Brian McCrory"]
 publishDate = 2021-04-13
-tags = ["albums"]
+tags = ["Yukiko Hayakawa 早川由紀子", "Terumasa Nishikawa 西川輝正", "Keiichiro Uemura 上村計一郎"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yukiko-hayakawa-gallery-460.jpeg"
@@ -11,13 +12,11 @@ draft = false
 
 _Gallery_ is the 2008 debut release from jazz pianist Yukiko Hayakawa’s trio, an all-original outing with seven tracks clocking in at 44 minutes . Overall somewhat dark and musing, the music conveys mystery with pensive touches of nostalgia and grace.
 
+![](L1200617-1024.jpg)
 Recorded with a live and echoey sound, the trio locks in with opening tracks “Mirage” and “Montmartre” setting up a smoky, laid-back atmosphere which runs through the album. The third tune “Happy Days” lifts the mood lightly with a swingy bounce, then “One Night” flirts with trembly space on a slow ballad. “Horoscope” is a funkier 4/4 tune, “Snow Crystal” drifts around with light delicacy, and the final track “Desier” features Hayakawa playing solo piano on an original showcase theme.
 
-{{< figure src="L1200617-1024.jpg" >}}
-
-{{< figure src="L1200619-1024.jpg" >}}
-
-{{< figure src="L1200620-1024.jpg" >}}
+![](L1200619-1024.jpg)
+![](L1200620-1024.jpg)
 
 
 ## Gallery by Yukiko Hayakawa Trio {#gallery-by-yukiko-hayakawa-trio}
@@ -37,4 +36,6 @@ _Japanese names: 早川由紀子 Hayakawa Yukiko 西川輝正 Nishikawa Terumasa
 
 {{< youtube dIkN4WlWMSA >}}
 
--   Excerpt from track #1: [“Mirage”](https://www.jazzofjapan.com/archive/audio/#mix-7)
+-   Excerpt from track #1: “Mirage” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}

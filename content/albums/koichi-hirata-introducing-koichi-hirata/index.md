@@ -2,7 +2,9 @@
 title = "Koichi Hirata: Introducing Koichi Hirata"
 author = ["Brian McCrory"]
 publishDate = 2026-06-07
-tags = ["albums"]
+keywords = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
+tags = ["Koichi Hirata 平田晃一", "Mamoru Ishida 石田衛", "Yutaka Yoshida 吉田豊", "Yusuke Yaginuma 柳沼佑育"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "koichi-hirata-introducing-460.jpeg"
@@ -11,7 +13,10 @@ draft = false
 
 _Introducing Koichi Hirata_ is the 2024 debut release from jazz guitarist Koichi Hirata. Hirata is a young, up-and-coming player who has established himself as a popular musician in the live Tokyo circuit, playing live often as a support musician or a leader at his own gigs and popular jazz jam sessions. His style is unadorned with a comfortably warm sound and style that immediately brings to mind the much-admired jazz guitarists of previous generations.
 
+![Front cover](L1360022x-1200.jpeg)
 This album is a live recording made at the popular, long-running Tokyo jazz club Alfie and captures a date with Hirata and his quartet starring Mamoru Ishida on piano, Yutaka Yoshida on bass, and Yusuke Yaginuma on drums. True to its title, this is an excellent introduction the new player with a selection of old standards played in a completely satisfying, traditional way, and the perfect swing, taste, and synchronized group energy was not only for a fun live show at the time, but produced a great recording to boot.
+
+{{< figure src="L1360023x-1200.jpeg" alt="Back cover" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -20,20 +25,29 @@ _(Translated from Mikio Hasui’s original Japanese liner notes.)_
 
 The first time I saw Koichi Hirata live, my initial impression was that he was much younger than I expected, yet with a calm and composed demeanor. That first impression of him was a perfect match to the sound that poured out of his beautiful full acoustic guitar. The first song, “A Weaver of Dreams”, began with a quiet solo introduction, and it reminded me of a famous guitar player that I also love, Kenny Burrell. I thought that Kenny Burrell must be one of the guitar players that Koichi Hirata also surely admires.
 
+{{< figure src="L1360029x-1200.jpeg" alt="Inside fold" >}}
+
 Speaking of that, that Kenny also has an album with a similar title, _Introducing Kenny Burrell_. Since this album’s title is _Introducing Koichi Hirata_, it must also contain a considerable amount of respect for Kenny. Hirata, originally from Sapporo, is currently a 22-year-old university student.
 
+![Inside case](L1360032x-1200.jpeg)
 **Have you been playing jazz guitar from the start?**
 
 “When I was in second grade of elementary school, I was influenced by the Beatles and started to play guitar. Initially, it was not jazz that I loved, it was blues and R&amp;B, and I would play that a lot. Later, I discovered Larry Carlton and gradually developed an interest in jazz. I first learned about John Coltrane through one of Larry Carlton’s interviews, and through the album _Blue Train_ and others, I became seriously devoted to jazz.”
 
+{{< figure src="L1360051x-1200.jpeg" alt="Booklet front page" >}}
+
 **If I had to pick one, I’d say it’s a quite orthodox jazz guitar style, right?**
 
+![Booklet liner notes](L1360054x-1200.jpeg)
 “I feel that rather than saying I play jazz guitar because I love jazz guitar, it’s more that I love jazz and I play guitar. When it comes to jazz, I like the straight-ahead jazz style of the 50s and 60s, so my playing style and tone end up taking on characteristics from those eras. Of course, I also listen to the performances of guitarists from various genres as well. I especially like blues, and players like B. B. King, Albert King, and T-Bone Walker. I think our generation is blessed in that we can listen to that traditional orthodox style, as well as rock, avant-garde, modern contemporary music, and other genres in the same way and absorb them all equally.”
 
 **What does standard jazz mean to you?**
 
+{{< figure src="L1360057x-1200.jpeg" alt="Booklet back page" >}}
+
 “As for me, standard jazz is melody, after all is said and done. I also hold the content of the lyrics to be important, but what I want to express more is how the beauty of those melodies inspires moods and emotions. And I want to share the beauty of those jazz standards that we call masterpieces with as many people as I can.”
 
+![Obi](L1360060x-1200.jpeg)
 **Was there any specific intention behind the songs selected for this album?**
 
 “I chose songs from among those that I usually play with this group. If I had to say, these are standards that I particularly like. I am self-taught on guitar, so you could also say that my interpretation of jazz is also self-taught. These are all songs that I simply enjoy listening to as music.”
@@ -75,23 +89,7 @@ The eighth installment in the popular live stage recording series from Alfie, th
 
 Jazz guitarist Koichi Hirata is a current college student who has began to make his mark on the jazz scene. He pours his deep love of jazz into his guitar playing and seems to have already reached the level of mastery. A recording of the finest real jazz played with his trusted musical partners!
 
-{{< figure src="L1360022x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Front cover" >}}
-
-{{< figure src="L1360023x-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Back cover" >}}
-
-{{< figure src="L1360029x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside fold" >}}
-
-{{< figure src="L1360032x-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Inside case" >}}
-
-{{< figure src="L1360051x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Booklet front page" >}}
-
-{{< figure src="L1360054x-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Booklet liner notes" >}}
-
-{{< figure src="L1360057x-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Booklet back page" >}}
-
-{{< figure src="L1360060x-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Obi" >}}
-
-{{< figure src="L1360067x-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Disc" >}}
+{{< figure src="L1360067x-1200.jpeg" alt="Disc" >}}
 
 
 ## Introducing Koichi Hirata by Koichi Hirata {#introducing-koichi-hirata-by-koichi-hirata}
@@ -122,4 +120,6 @@ _Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yo
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mNDCBx6zojqr_KB9hOjiR0EL6OP-m0UJk)
 
--   Excerpt from track #4: [“These Are Soulful Days”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #4: “These Are Soulful Days” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

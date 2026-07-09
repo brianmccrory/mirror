@@ -2,20 +2,27 @@
 title = "Maiko: Reminiscence"
 author = ["Brian McCrory"]
 publishDate = 2026-05-10
-tags = ["albums"]
+keywords = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
+tags = ["maiko マイコ", "Shikou Ito 伊藤志宏", "Yuki Ito 伊東佑季", "Kazuma Fujimoto 藤本一馬", "Aya Kurosawa 黒沢綾"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "maiko-reminiscence-460.jpeg"
   relative = true
 +++
 
+![](L1290254x-1200.jpeg)
 Jazz violinist maiko’s new album _Reminiscence_ is a milestone release for the Tokyo-based musician. It’s both a look back at her start 25 years ago when she moved to Tokyo and began to play jazz, as well as a gratitude-filled mark of appreciation to the many musicians she’s played with and the experiences she’s had through her years of development as live musician in Japan’s music scene.
+
+{{< figure src="L1290258x-1200.jpeg" alt="Front cover of CD “Reminiscence” by maiko" >}}
 
 This is her twelfth album spanning those many years, but her prior album [_Solo_](https://www.jazzofjapan.com/archive/maiko-solo/) was released in 2018 so it’s been several years between that and this 2024 work. In her online notes for this album, she explains how the unsteady times for musicians during the coronavirus period sparked a period of reflection on her Tokyo-based musical life and introspection about her next musical statement. For this project, she choose nine new songs she had written during that period, and settled on the musical partners she would bring this new record to life with. The process involved thinking back over those formative years spent with these and other co-musicians, and especially her hometown of Kobe where it all began.
 
+![](L1290261x-1200.jpeg)
 The songs are all originals by maiko, with one song co-written with Aya Kurosawa. Tied to the album’s theme, there is a sense of reflection overall, with a depth of feeling that could even be called a gentle moodiness to much of the music. Moodiness is not the best description as it’s not of a gloomy quality, but of a deeply connected awareness to the changes that time and situation bring, with both longing and hope in the memories.
 
 The first half of the album ranges through maiko’s violin arranged with different combinations of duos and trios to paint images of haziness (“Mirage”), wisps of breeze (“Windmill”), and peaceable jauntiness (“Migratory Bird”). Track #4 “Futo,” features the duo of maiko on violin and Aya Kurosawa on piano and vocals unwinding an emotional ballad, a piece followed by the spinning complexity of “Rotating Sphere” where the ten strings of violin and guitar conjure up something exciting and mysterious.
+![](L1290269x-1200.jpeg)
 
 From here, the album’s emotional directions turns further inward with slow to medium songs that embody the images conveyed by their titles: “Remininscence”, “Toi Kioku (_Distant Memories_)”, “Far away”, and “kiteki” all breathe with the feeling of nostalgic remembering and reflecting. As a final piece performed bravely alone and with a huge presence, Maiko plays track #9 “kiteki” as a violin solo, a heartfelt tribute to memories of her hometown shared intimately with her listeners.
 
@@ -98,14 +105,6 @@ maiko’s 25th anniversary album!
 
 This album was created upon a foundation of the many encounters that have shaped her musical perspective, and maiko’s own now-established personal style. It’s a gem-filled collection packed with maiko’s musical life itself.
 
-{{< figure src="L1290254x-1200.jpeg" >}}
-
-{{< figure src="L1290258x-1200.jpeg" >}}
-
-{{< figure src="L1290261x-1200.jpeg" >}}
-
-{{< figure src="L1290269x-1200.jpeg" >}}
-
 {{< figure src="L1290267x-1200.jpeg" >}}
 
 
@@ -168,4 +167,6 @@ _Japanese names: マイコ maiko 伊藤志宏 Ito Shikou 伊東佑季 Ito Yuki �
 
 {{< youtube EAASIXOQYS0 >}}
 
--   Excerpt from track #1: [“Mirage”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #1: “Mirage” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

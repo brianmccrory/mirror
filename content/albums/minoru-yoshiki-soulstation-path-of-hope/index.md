@@ -2,7 +2,8 @@
 title = "Minoru Yoshiki Soulstation: Path of Hope"
 author = ["Brian McCrory"]
 publishDate = 2019-09-10
-tags = ["albums"]
+tags = ["Minoru Yoshiki 吉木稔", "Osamu Soda 祖田修", "Shuji Morita 森田修史"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "minoruyoshiki-soulstation-path-460.jpeg"
@@ -10,6 +11,7 @@ draft = false
 +++
 
 > Special Guest Contribution // Press Release
+> ![](soulstation-flierJPG-1024.jpg)
 >
 > The birth of a world of visual sound!
 >
@@ -28,8 +30,6 @@ draft = false
 > Kunihiro Tsuji, Guitarist
 >
 > June 2019 (Reiwa 1)
-
-{{< figure src="soulstation-flierJPG-1024.jpg" >}}
 
 {{< figure src="cdjkt02-1024.jpg" >}}
 
@@ -51,4 +51,6 @@ _Japanese names: 吉木稔 Yoshiki Minoru 祖田修 Soda Osamu 森田修史 Mori
 
 {{< youtube rTuWX4XE1Gs >}}
 
--   Excerpt from track #1: [“Zi-Zi 1”](https://www.jazzofjapan.com/archive/audio/#mix-5)
+-   Excerpt from track #1: “Zi-Zi 1” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}

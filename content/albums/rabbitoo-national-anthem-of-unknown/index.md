@@ -2,7 +2,8 @@
 title = "Rabbitoo: National Anthem of Unknown Country"
 author = ["Brian McCrory"]
 publishDate = 2020-01-26
-tags = ["albums"]
+tags = ["Motohiko Ichino 市野元彦", "Daisuke Fujiwara 藤原大輔", "Koichi Sato 佐藤浩一", "Hiroki Chiba 千葉広樹", "Noritaka Tanaka 田中徳崇"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "rabbitoo-national-460.jpeg"
@@ -11,19 +12,15 @@ draft = false
 
 The textured sound of Rabbitoo makes a lasting first impression on their debut album _National Anthem of Unknown Country_ from 2014, a fusion of jazz, rock, and electronica influences.
 
+![](L1220801-1024.jpg)
 The five-piece group led by guitarist and primary songwriter Motohiko Ichino produces otherworldly atmospheres with loops of sound and cascading sheets of melody set against precise rock and dance-inspired beats. The instruments riff and interlace, fitting together like puzzle pieces at times, an intense chorus at others, while swirling over underlying rhythmic grids for a dusky, spacey, trance-like aura.
 
 Definitely not following the typical jazz formula, this beat-centered music with some live jazz improvisation incorporates electronic loops and samples in real-time along with their primary instruments – guitar, sax, keyboards, bass, and drums – modified with echoes, distortion, and other effects. Another clever addition, the Minimoog synthesizer’s characteristic sounds enrich the music greatly with a haunting, retro-futuristic feel, evoking popular songs and suspense movies from the past and strengthening the sensation of this dramatic, mood-pushing music.
+![](L1220803-1024.jpg)
 
-{{< figure src="L1220801-1024.jpg" >}}
-
-{{< figure src="L1220803-1024.jpg" >}}
-
-{{< figure src="L1220807-1024.jpg" >}}
-
-{{< figure src="L1220806-1024.jpg" >}}
-
-{{< figure src="L1220809-1024.jpg" >}}
+![](L1220807-1024.jpg)
+![](L1220806-1024.jpg)
+![](L1220809-1024.jpg)
 
 
 ## National Anthem of Unknown Country by Rabbitoo {#national-anthem-of-unknown-country-by-rabbitoo}
@@ -53,4 +50,6 @@ _Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐�
 
 {{< youtube EAQOixCBy-o >}}
 
--   Excerpt from track #6: [“subliminal sublimation”](https://www.jazzofjapan.com/archive/audio/#mix-5)
+-   Excerpt from track #6: “subliminal sublimation” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}

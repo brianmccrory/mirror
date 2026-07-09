@@ -2,7 +2,9 @@
 title = "Kanoko Kitajima: Long Way to Go"
 author = ["Brian McCrory"]
 publishDate = 2025-05-10
-tags = ["albums"]
+keywords = ["fumika-asari-introducin"]
+tags = ["Kanoko Kitajima 北島佳乃子", "Motoi Kanamori 金森もとい", "Fukushi Tainaka 田井中福司"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
@@ -11,11 +13,15 @@ draft = false
 
 _Long Way to Go_ is the title of pianist Kanoko Kitajima’s debut album, recorded and released in 2019. The sound of her piano trio recalls the swinging, bluesy trios of pianists like Wynton Kelly, Red Garland, and others from the 1950s and 60s Blue Note era. Added to that rich background is a dedicated Japanese interpretation of classic American jazz with an exciting New York City vibe as shown in the album cover.
 
+![](L1270622x-1200.jpeg)
 The charm of the NYC backdrop is not used simply for glamorous postcard photos, however: Pianist Kitajima and bassist Motoi Kanamori, both based in Japan, joined up with longtime New York resident Fukushi Tainaka on drums for the recording of this album in his adopted hometown. It seems that the energy and legacy of the big city inspired the players as they recorded the music for this album, raising them up as if standing on the shoulders of the past jazz giants that they love.
 
 Kitajima shows off her style influences through tributes to the legendary jazz piano players who are some of her favorites. Through her attention and dedication, she focused here on Bobby Timmons (track #1 “Soul Snappy”), Sonny Clark’s (#4 “Sippin’ at Bells”), Bud Powell (#6 “Tempus Fugit”), and Error Garner (#8 “Erroll’s Dream”). These admirable goals are realized by the trio’s locked-in skills, effort, and dynamic energy as they run through the moods of soulful bop, jazz blues, smooth bossa nova jazz (#3 “Estate”), Afro-Cuban jazz (#9 “Manteca”) and swing, swing, swing.
+![](L1270631x-1200.jpeg)
 
 Along with the six jazz standards and covers, Kitajima also introduces four of her original compositions on her debut. Along with her refined, reverential playing style, her creative songwriting also honors the essence of true jazz in the tradition of good-feeling, hard-swinging jazz piano trios.
+
+{{< figure src="L1270635x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -23,12 +29,16 @@ Along with the six jazz standards and covers, Kitajima also introduces four of h
 _(Translated from Kanoko Kitajima’s original Japanese liner notes.)_
 
 This album was completed with the cooperation of many people. I want to dedicate this album to all my family and friends who always look after me, the listeners and club owners who support me, and my late grandfather who taught me about the joy of music.
+![](L1270641x-1200.jpeg)
 
 On this, my first album, I am fortunate to be joined by the superb drummer Fukushi Tainaka, who has been continuously playing at the forefront of jazz in New York City for forty years. I’m so pleased to have made this album, which was recorded in a historic New York studio with such excellent musicians and audio engineers. I hope that you will enjoy this record, created with a whole-body swing feel, for a long time to come.
+
+{{< figure src="L1270647x-1200.jpeg" >}}
 
 1.  Soul Snappy / Kanoko Kitajima
 
 This is an original song that I wrote with inspiration drawn from a pianist I admire a lot, Bobby Timmons. I put my sense of his powerful and beautiful playing into this song.
+![](L1270651x-1200.jpeg)
 
 2.  Long Way to Go / Kanoko Kitajima
 
@@ -73,18 +83,6 @@ Harry Warren gave us more than 800 impressive compositions, including “The Mor
 
 A brilliant debut record from a pianist with a naturally sophisticated talent! You’re moved to smile with every note from all the songs… this is real jazz!
 
-{{< figure src="L1270622x-1200.jpeg" >}}
-
-{{< figure src="L1270631x-1200.jpeg" >}}
-
-{{< figure src="L1270635x-1200.jpeg" >}}
-
-{{< figure src="L1270641x-1200.jpeg" >}}
-
-{{< figure src="L1270647x-1200.jpeg" >}}
-
-{{< figure src="L1270651x-1200.jpeg" >}}
-
 {{< figure src="L1270653x-1200.jpeg" >}}
 
 
@@ -117,4 +115,6 @@ _Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 
 
 {{< youtube RvpIx3-77Ms >}}
 
--   Excerpt from track #2: [“Long way to go”](https://www.jazzofjapan.com/archive/audio/#mix-13)
+-   Excerpt from track #2: “Long way to go” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}

@@ -2,7 +2,9 @@
 title = "Hikari Ichihara: Sara Smile"
 author = ["Brian McCrory"]
 publishDate = 2024-07-15
-tags = ["albums"]
+keywords = ["hikari-ichihara-group-move-on"]
+tags = ["Hikari Ichihara 市原ひかり", "Adam Birnbaum", "Peter Washington", "Lewis Nash", "Dominick Farinacci", "Grant Stewart"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hikari-ichihara-sara-smile-460.jpeg"
@@ -11,13 +13,18 @@ draft = false
 
 _Sara Smile_ is the second album from trumpeter Hikari Ichihara, released in 2006. This nine-track album is an alluring mix of jazz standards, pop covers, and a few of Ichihara’s original compositions.
 
+![](L1200449x-1200.jpeg)
 Ichihara’s group on this album is formed by drummer Lewis Nash, bassist Peter Washington, and pianist Adam Birnbaum. While the music is mostly played by the trumpeter’s quartet, the group expands with trumpeter Dominick Farinacci or sax player Grant Stewart stepping in to play with Ichihara on certain songs. Ichihara also switches between trumpet and flugelhorn for further variety in her playing and sound.
 
 Beloved orthodox swing and bop tunes make up about half of the album, with songs like #1 “Cleopatra’s Dream” and #4 “It Could Happen to You”. These jazz pieces are perfect showcases for Ichihara’s naturally stylish and standout jazz improvisation, whether fronting her quartet or going up against her virtuoso horn teammates in quintets.
+![](L1200450x-1200.jpeg)
 
 Adding to the locked-in swing beats and walking bass lines on standard tunes (a deep jazz pulse that is especially felt on #3 “Blue Prelude” and #7 “Golden Earrings”), are Ichihara’s own compositions #5 “I’ve Got It”, a funky rock groove, and #8 “Intro” a cheerful samba written to start her live shows with an impact.
 
+![](L1200451x-1200.jpeg)
 Pop and soft rock also get special attention from Ichihara’s band, complementing the album’s melodic depth with the band’s expert expressive touches. The musicians play tenderly on #2 Sting’s “Fragile”, #9 Bacharach’s “Close To You”, and the unforgettable title track #7 “Sara Smile” by Hall &amp; Oates. These three songs, with skillful arrangements worthy of the original composers’ songcraft, fit incredibly naturally with Ichihara’s mellow, authentic sound. Just as with the jazz tracks, these are captivating moments filled with soulful playing.
+
+{{< figure src="L1200452x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -80,14 +87,6 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 
 (2006/7/16 高木信哉 [Shinya Takagi])
 
-{{< figure src="L1200449x-1200.jpeg" >}}
-
-{{< figure src="L1200450x-1200.jpeg" >}}
-
-{{< figure src="L1200451x-1200.jpeg" >}}
-
-{{< figure src="L1200452x-1200.jpeg" >}}
-
 {{< figure src="IMG_20231011_171943883_HDRx-1200.jpeg" >}}
 
 
@@ -119,4 +118,6 @@ _Japanese names: 市原ひかり Ichihara Hikari_
 
 {{< youtube XFVixKdrx5U >}}
 
--   Excerpt from track #6: [“Sara Smile”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #6: “Sara Smile” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

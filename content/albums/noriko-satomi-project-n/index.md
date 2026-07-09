@@ -2,7 +2,9 @@
 title = "Noriko Satomi: Project-N"
 author = ["Brian McCrory"]
 publishDate = 2024-05-24
-tags = ["albums"]
+keywords = ["noriko-satomi-a-love-supreme"]
+tags = ["Noriko Satomi 里見紀子", "Masaaki Imaizumi 今泉正明", "Kunio Oinuma 生沼邦夫", "Masahiko Osaka 大坂昌彦"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "noriko-satomi-project-n-460.jpg"
@@ -11,19 +13,26 @@ draft = false
 
 _Project-N_ is the debut album from violinist Noriko Satomi, a classically trained violinist and “Nissan Presents Jazz Japan 2019” award winner. Satomi is active in the Japanese jazz live scene as a jazz violinist and graces many live spots with her beautiful string tone and charming presence.
 
+![](L1240843x-1200.jpeg)
 On this 67-minute album, Satomi leads a jazz quartet featuring Masaaki Imaizumi on piano, Kunio Oinuma on bass, and Masahiko Osaka on drums. This ambitious violinist released _Project-N /in 2017, following up this debut with future releases /A Love Supreme_ (2019) and _Duke String Quartet_ (2023), two excellent releases that focus her debut’s wide jazz spectrum into clear concept albums.
 
 The music on _Project-N_ consists of twelve tracks, split evenly between jazz covers and originals. Six original compositions from Satomi and six covers span a range of moods. Satomi’s track #1 “Norinori” kicks off in a stimulating  gear on this first track, bursting with barely-contained energy. Next, the band sets an elegant, sophisticated mood on #2 “Dinner For One Please, James” — a mood revisited on #8 “Isfahan” and #12 “Yakusoku”.
+![](L1240847x-1200.jpeg)
 
 On “Isfahan”, Satomi and Oinuma perform as a violin-and-bass duo inspired by Joe Henderson/Christian McBride’s duo performance of the lyrical Ellington/Strayhorn classic, delivering an immediate and precious presence from the two related string instruments.
 
+![](L1240850x-1200.jpeg)
 In the same manner, Satomi’s sweet-and-lovely violin sound reaches a peak on the album closer, #12 “Yakusoku”. Satomi’s “Yakusoku” (meaning _promise_) in particular is a highlight among her originals, featuring her pristine violin tone full of romantic vibrato and sentimental sweetness, perhaps hinting at the importance and vibrancy of the personal commitment she conveys through this composition.
 
 Between the bookend moods, other album tracks include some pleasant swing on #3 “One Note Samba”, #4 “Mr. K.B.”, and #7 “Circulation”, and relaxing modern-vintage feel on #5 “Un Homme Et Una Femme” and #6 “Repetition”. Additionally, the suspenseful #10 “Hexenhaus” and the funky #11 “Red Light, Green Light” are ear-catching and memorable high points on the album.
+![](L1240855x-1200.jpeg)
 
 With twelve tracks and a variety of moods, _Project-N_ may show slight characteristics of a first-timer’s debut album, moving from song to song with none overstaying their welcome. As the album’s bandleader, Satomi and her violin are well-featured in every song through melody and improvisations, marvelously showcasing the versatile player’s musical personality and skill. No doubt, Satomi intended to exhibit plenty on her first album and gets a lot in by granting the listener a number of originals and textures. In addition to her sweet and refined tone, she can also produce a liquid mercury articulation or a bluesy rawness with her violin when it suits the moment.
 
+![](L1240862x-1200.jpeg)
 Naturally, the spotlight focuses on Satomi as the main lead performer, and while there are violin solos on every track, there are also plenty from pianist and arranger Imaizumi, who receives almost an equal number of opportunities to shine. In addition, his song arrangements enhance the music and include novel surprises like breaks for drum fills on #3 “One Note Samba” and a modern 7/4 arrangement of #9 “Night and Day”.
+
+{{< figure src="L1240867x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -31,12 +40,15 @@ Naturally, the spotlight focuses on Satomi as the main lead performer, and while
 _(Translated from Noriko Satomi’s original Japanese liner notes.)_
 
 To my parents who allowed me to learn the violin
+![](L1240869x-1200.jpeg)
 
 To have encountered jazz
 
+![](L1240874x-1200.jpeg)
 To all the musicians who have taught me so many things
 
 To the people who have come to my live performances
+![](L1240879x-1200.jpeg)
 
 To jazz house owners and the staff
 
@@ -120,24 +132,6 @@ As a commercial composer, she’s received the ACC Award for works including “
 
 As an arranger for strings, she’s worked on songs by m-flo, TOKU, and others, receiving favorable reviews.
 
-{{< figure src="L1240843x-1200.jpeg" >}}
-
-{{< figure src="L1240847x-1200.jpeg" >}}
-
-{{< figure src="L1240850x-1200.jpeg" >}}
-
-{{< figure src="L1240855x-1200.jpeg" >}}
-
-{{< figure src="L1240862x-1200.jpeg" >}}
-
-{{< figure src="L1240867x-1200.jpeg" >}}
-
-{{< figure src="L1240869x-1200.jpeg" >}}
-
-{{< figure src="L1240874x-1200.jpeg" >}}
-
-{{< figure src="L1240879x-1200.jpeg" >}}
-
 {{< figure src="L1240860x-1200.jpeg" >}}
 
 
@@ -175,4 +169,6 @@ _Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 生沼
 
 {{< youtube 324C9LF38AI >}}
 
--   Excerpt from track #12: [“Yakusoku-Yakusoku-”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #12: “Yakusoku-Yakusoku-” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

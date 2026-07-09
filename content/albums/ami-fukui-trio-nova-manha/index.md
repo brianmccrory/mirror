@@ -2,7 +2,9 @@
 title = "Ami Fukui Trio: Nova Manhã"
 author = ["Brian McCrory"]
 publishDate = 2024-01-26
-tags = ["albums"]
+keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
+tags = ["Ami Fukui 福井亜実", "Keigo Iwami 岩見継吾", "Sota Kira 吉良創太"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
@@ -11,15 +13,19 @@ draft = false
 
 Pianist Ami Fukui continues her original jazz journey with _Nova Manhã_, her fourth leader album from 2022 with eight tracks running at about 45 minutes.
 
+![](L1230252-1024.jpeg)
 As with her previous releases _[Urban Clutter](https://www.jazzofjapan.com/archive/ami-fukui-trio-urban-clutter)_ (2010), _[Amizm](https://www.jazzofjapan.com/archive/ami-fukui-amizm)_ (2013), and _[New Journey](https://www.jazzofjapan.com/archive/ami-fukui-trio-new-journey)_ (2016), this creative musician focuses her original music on the specific sound of her trio and her concept this time out. Seven of the eight tracks on this album are her own compositions. Her music is often colorful, perhaps with more calming hues on this release, and her unique blend of cool beats and pop melodies with a soulful smile runs through the music.
 
 Fukui’s music often uses a modern jazz style beat almost like light neo-jazz with a groovy Latin backbone, as compared to a traditional swing rhythm or blues shuffle. Right from the album title, the jazzy opening track “Nova Manhã” (“new morning” in Portuguese) is underpinned by a subtly compelling rhythm similar to Brazilian or Afro-Cuban rhythms found in some EDM/electronic dance and pop music, but through a jazz lens.
+![](L1230253-1024.jpeg)
 
 The Latin feel is most apparent on the Brazilian song “Pra Machuchar Meu Coração”, the sole cover song on the album, and a gem that Fukui humorously describes overlooking on the well-known and much-played album by Stan Getz and João Gilberto (see liner notes below).
 
+![](L1230254-1024.jpeg)
 In addition, Fukui’s original “Nos Vemos!!” conveys a similar Latin sound with a tropical island feel. While it may be going too far to call these trademarks, this cross-genre flexibility is similar to previous compositions where Fukui combines conventional jazz with elements from club jazz, Latin, and pop music.
 
 In particular, the Latin influence is felt on this album more than on previous releases, perhaps to add an overall calm and relaxing vibe to the music. Fukui and the trio also use their voices in wordless harmonies in a few spots in a very warm and welcoming way.
+![](L1230255x-1024.jpeg)
 
 This is not to say that the album as a whole is a trance-inducing or zone-out experience. Maybe it’s the sense that a guiding angel inhabited the environment, aiming the music towards peaceful harmonies and away from over-stimulating roughness.
 
@@ -100,14 +106,6 @@ I have two black cats who are sisters. The one who came first was pitch black li
 
 I wrote this song thinking about how fun it is to play with these kitties. The song is a duo with a great bassist.
 
-{{< figure src="L1230252-1024.jpeg" >}}
-
-{{< figure src="L1230253-1024.jpeg" >}}
-
-{{< figure src="L1230254-1024.jpeg" >}}
-
-{{< figure src="L1230255x-1024.jpeg" >}}
-
 {{< figure src="L1240186x-1024.jpeg" >}}
 
 
@@ -132,7 +130,9 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 
 {{< youtube 7nTgk3jYni4 >}}
 
--   Excerpt from track #6: [“Hommage”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #6: “Hommage” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
 
 
 ## Other Links {#other-links}

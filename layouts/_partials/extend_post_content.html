@@ -1,0 +1,6 @@
+<p>Related:</p>
+<ul>
+{{ range (.Site.RegularPages.Related . | first 5) }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>

@@ -2,7 +2,9 @@
 title = "Hiroshi Fukutomi Quintet: Rings of Saturn"
 author = ["Brian McCrory"]
 publishDate = 2026-01-10
-tags = ["albums"]
+keywords = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
+tags = ["Hiroshi Fukutomi 福冨博", "Masahiro Yamamoto 山本昌広", "Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ryo Shibata 柴田亮"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
@@ -11,13 +13,18 @@ draft = false
 
 Guitarist Hiroshi Fukutomi’s first album is _Rings of Saturn_ from 2010. On this recording, the guitarist plays modern jazz compositions under the flag of his own quintet featuring Masahiro Yamamoto on alto and soprano sax, Koichi Sato on piano (also on Fukutomi’s 2014 followup [_Memory Stones_](https://www.jazzofjapan.com/archive/hiroshi-fukutomi-memory-stones)), Hiroshi Ikejiri on bass, and Ryo Shibata on drums.
 
+![](L1230466x-1200.jpeg)
 Fukutomi’s debut album runs for 54 minutes and features seven original compositions, six from Fukutomi and one from saxophonist Yamamoto. The songs are composed by Fukutomi to be platforms for interplay, where the front-most instruments of guitar, sax, and piano merge and relay with an intimate immediacy, rather than each musician stepping back to make room for longer periods of singular adlibs. As with great jazz combos, there’s close collaboration where all five members listen closely to one another, pick their moments to step forward or back, and raise or relax the tension with the right-timed notes and rhythms.
 
 The first six tracks are from leader Fukutomi and display a thoughtful sense of development. The opening songs, “Rings of Saturn” and “Lost and Found” are comfortable on the surface but potentially complex, with extra structures and ornaments added for increased interest, fun, and depth. For example, the latter offers odd-time meters (11/4 and others?) with changes and extra beats to offset regular expectations. Through the strength of the snappy rhythms, melodies, and progressions, it all works together to make elaborate yet catchy tunes.
+![](L1230467x-1200.jpeg)
 
 Track #3 “Lotus” is a backing off from the fire, a relaxing meditation of hopeful optimism. The pretty lines filled with a spiritual, uplifting sound, mellow yet involved. #4 Sakasama-no-Tokei features a steady soft-rock pulse, flexible and full of life with time to breathe, relax, and be aware. #5 “The Place We Had” is patient as mild mysteries of memory are presented and unwrapped. #6 “New Moon” is another swinger with odd-beat measures to increase the journey’s adventure. These sounds recall some of Bungalow’s (with Yamamoto, Sato, and Ikejiri) original music and playing. In a similar mold, #7 “Chasing” is an exciting song written by saxophonist Yamamoto and is a mature and lyrical shapeshifter, swirling and folding time.
 
+![](L1230468x-1200.jpeg)
 Incidentally, Masahiro Yamamoto, along with Sato and Ikejiri, was a founding member of Bungalow, a richly eclectic jazz quartet formed in 2010. They released two albums together with Yamamoto on sax and composing duties (2011’s [_Metropolitan Oasis_](https://www.jazzofjapan.com/archive/bungalow-metropolitan-oasis) and 2013’s [_Past Life_](https://www.jazzofjapan.com/archive/bungalow-past-life)) before Yamamoto left, after which Bungalow released three more albums with Australian saxophone player Mike Rivett. In the same jazz family sense and general time period, bassist Ikejiri also plays on Koichi Sato’s debut release [_Utopia_](https://www.jazzofjapan.com/archive/koichi-sato-utopia) (2011).
+
+{{< figure src="L1230469x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -25,6 +32,7 @@ Incidentally, Masahiro Yamamoto, along with Sato and Ikejiri, was a founding mem
 _(Translated from Masato Maedomari’s original Japanese liner notes.)_
 
 I can’t help but think that great jazz guitarists seem to have considerable craftsmanship in their approach to some extent. This is not limited to their outstanding performance skills. Even the distinctiveness of their atmosphere and presence can be noticed, perhaps moreso than guitarists of other genres. I sense that type of characteristic in Hiroshi Fukutomi. Despite this being his debut album, he has the courage to enter the ring with all original songs that he wrote, aside from one track. Further, for the one cover song, he did not simply choose a jazz standard, but he went so far as to pick a song by Masahiro Yamamoto, the band’s sax player. The degree of self-discipline is admirable. And it’s no wonder, since each song offers up a beautiful melody that compels you to whistle along.
+![](L1230470x-1200.jpeg)
 
 The straightforward quintet form produces an attractive sound where both thrilling and relaxing sounds coexist. Guitar and soprano, alto sax, piano and sax...the balanced and unified ensemble is breathtaking. Similarly, their unison performance on the same note or melody can be astonishing. It feels like this is the pinnacle of the ensemble. It’s like a _kaiseki_ meal at a traditional Japanese restaurant, with various rice dishes, boiled and stewed foods cooked with light soy sauce, and everything looks beautiful at first sight, with a delicate sensibility. The sounds of the instruments are carefully woven together like wickerwork, taking on a perfect harmony. All seven tracks on this album are filled with the smooth warmth of skin, pleasing to the ears. The synchronicity of the five musicians is perfected and brings out the full beauty of each song.
 
@@ -85,16 +93,6 @@ Born in Osaka in 1981, Ryo Shibata had a love for music at a young age and began
 
 The resonance of five distinct personalities blossoms with a rich harmony.
 
-{{< figure src="L1230466x-1200.jpeg" >}}
-
-{{< figure src="L1230467x-1200.jpeg" >}}
-
-{{< figure src="L1230468x-1200.jpeg" >}}
-
-{{< figure src="L1230469x-1200.jpeg" >}}
-
-{{< figure src="L1230470x-1200.jpeg" >}}
-
 {{< figure src="L1240184x-1200.jpeg" >}}
 
 
@@ -127,4 +125,6 @@ _Japanese names: 福冨博 Fukutomi Hiroshi 山本昌広 Yamamoto Masahiro 佐�
 
 -   [Full album (Spotify)](https://open.spotify.com/album/0dq64CFzaPIwnOynklo6gG)
 
--   Excerpt from track #2: [“Lost And Found”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #2: “Lost And Found” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

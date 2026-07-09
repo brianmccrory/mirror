@@ -2,7 +2,8 @@
 title = "Duo Tremolo: Resonance"
 author = ["Brian McCrory"]
 publishDate = 2021-03-03
-tags = ["albums"]
+tags = ["Hideaki Hori 堀秀彰", "Takayoshi Baba 馬場孝喜", "Saori Sendo 仙道さおり", "Aya Kurosawa 黒沢綾"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
@@ -11,17 +12,14 @@ draft = false
 
 Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on _Resonance_, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.
 
+![](L1220661-1024.jpg)
 The graceful players combine the dimensions of Hori’s precise, finessed notes and Baba’s snazzy, bluesy lines at relaxed mid-tempo jaunts, rapid and fluid modern pieces, Latin grooves, and gentle ballads. The music is joyful and emotive, and the two converse with a comfortable flow built solidly on their years performing in various settings. The duo clearly enjoys playing together and it comes through in their playful, professional music.
 
 Two of the songs also feature guest percussionist Saori Sendo, and add rich rhythms and dynamics on Bob Berg’s “Friday Night at the Cadillac Club” and Baba’s “J.M.”. The final track “Pedra Bonita” adds another successful layer, where the two musicians are joined by singer Aya Kurosawa on the grooving Brazilian celebration with a rousing vocal ending.
+![](L1220662-1024.jpg)
 
-{{< figure src="L1220661-1024.jpg" >}}
-
-{{< figure src="L1220662-1024.jpg" >}}
-
-{{< figure src="L1220663-1024.jpg" >}}
-
-{{< figure src="L1220665-1024.jpg" >}}
+![](L1220663-1024.jpg)
+![](L1220665-1024.jpg)
 
 
 ## Resonance by Duo Tremolo {#resonance-by-duo-tremolo}
@@ -46,4 +44,6 @@ _Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さお
 
 {{< youtube R6vuPsUzibI >}}
 
--   Excerpt from track #2: [“Choro de Tremolo”](https://www.jazzofjapan.com/archive/audio/#mix-7)
+-   Excerpt from track #2: “Choro de Tremolo” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}

@@ -2,7 +2,8 @@
 title = "Yako Horikita: Shining Hour"
 author = ["Brian McCrory"]
 publishDate = 2019-12-06
-tags = ["albums", "vocals"]
+tags = ["Yako Horikita 堀北やこ", "Takenori Sawaki 佐脇武則", "Makoto Deguchi 出口誠", "Ken Kaneko 金子健", "Nobuhiko Yamashita 山下暢彦"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yakohorikita-shininghour-460.jpeg"
@@ -11,13 +12,11 @@ draft = false
 
 Fans of vintage vocal jazz will be drawn to singer Yako Horikita’s debut album _Shining Hour_, a swinging collection of twelve jazz standards delivered with a shining, sparking sincerity.
 
+![](L1220614-1024.jpg)
 Singing along with a piano trio plus saxophone, Horikita picks winners from the classic jazz songbook with tunes including “Nice Work If You Can Get It”, “Falling In Love With Love”, and “Under A Blanket Of Blue”. Horikita’s voice, a pleasant mix of deep huskiness with a light delicate touch, is confident, friendly, and warm, fitting perfectly with her jazz combo’s solid performance.
 
 While most of the tracks are straightforward mid-tempo swingers, a few of tunes offer variations with bossa and ballads on “When Sunny Gets Blue”, “Second Love”, and the album closer, a sweetly nostalgic “Over The Rainbow”.
-
-{{< figure src="L1220614-1024.jpg" >}}
-
-{{< figure src="L1220616-1024.jpg" >}}
+![](L1220616-1024.jpg)
 
 {{< figure src="L1220621-1024.jpg" >}}
 
@@ -41,4 +40,6 @@ _Japanese names: 堀北やこ Horikita Yako 佐脇武則 Sawaki Takenori 出口�
 
 {{< youtube EColU1KjlxY >}}
 
--   Excerpt from track #11: [“Under A Blanket Of Blue”](https://www.jazzofjapan.com/archive/audio/#mix-5)
+-   Excerpt from track #11: “Under A Blanket Of Blue” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}

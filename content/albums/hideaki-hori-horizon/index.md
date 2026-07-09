@@ -2,7 +2,9 @@
 title = "Hideaki Hori: Horizon"
 author = ["Brian McCrory"]
 publishDate = 2023-12-08
-tags = ["albums"]
+keywords = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
+tags = ["Hideaki Hori 堀秀彰", "Tetsuyuki Kishi 岸徹至", "Manabu Hashimoto 橋本学", "Nobuyuki Komatsu 小松伸之", "Hideki Kawamura 河村英樹"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
@@ -11,11 +13,15 @@ draft = false
 
 Jazz pianist Hideaki Hori kicked off his recording career 20 years ago, and it all started with this debut album _Horizon_ from 2003. Since then, he’s released another 20 albums as leader in his nearly 30-year career under his own name or as the group “Encounter” with saxophonist Wataru Hamasaki. As a session musician and recording partner, Hori has also played on more than 160 albums for many notable Japanese and international acts including “Dreams Come True”, “Paris Match”, Eddie Henderson, Mabumi Yamaguchi, and many others. It’s an impressive resume for an accomplished pianist who’s still actively playing live music somewhere in front of an audience almost every day.
 
+![](L1230303x-1024.jpeg)
 The nine tracks on _Horizon_ are roughly split between a piano trio and a quartet formation which adds tenor saxophone player Hideki Kawamura. The core trio itself, with Hori and bassist Tetsuyuki Kishi, is also of two forms, with drummers Manabu Hashimoto and Noboyuki Komatsu sharing rhythm duties on different songs. Each drummer’s distinct touch adds even more dynamic variety to the album as the trios and quartets switch up members.
 
 From the starting gate of the first track “Spinning”, the quartet bursts out with a supreme John Coltrane energy, giving a first impression of unrelentingly hard-driving modern jazz music. From track two on, the energy is moderated somewhat, with Hori’s original compositions varying between mid-to-uptempo swing and ballads with contemporary jazz with a bright, positive, and most importantly fun feeling throughout. The “Giant Steps”-inspired final composition “Giant Stride” (Coltrane’s influence appearing again) bookends the high-energy first track with another exciting take, imprinting thrilling, attention-grabbing moments on the way out.
+![](L1230307x-1024.jpeg)
 
 Despite being his first album, Hori is definitely in the zone on _Horizon_, comfortably and confidently launching his recording career on solid footing… not to mention his nimble fingers, jazz fluency, and unflagging spirit. It’s authentic, jazz-loving music that feels right in place as a great example of Japanese jazz releases from the last twenty years.
+
+{{< figure src="L1230305x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -25,6 +31,7 @@ _(Translated from the original Japanese liner notes written by Hideaki Hori.)_
 1.  Spinning
 
 This was written for the Teganuma Jazz Festival held in 2002. While playing with Shinnosuke Takahashi (drums), this is a work that I explored and interpreted in my own way. It’s a complex piece in 15/4 time.
+![](L1230306x-1024.jpeg)
 
 2.  Three Pieces For Happiness
 
@@ -72,14 +79,6 @@ Please take your time and enjoy listening to the footprints of 23-year-old Hidea
 
 January 10, 2023, Hideaki Hori
 
-{{< figure src="L1230303x-1024.jpeg" >}}
-
-{{< figure src="L1230307x-1024.jpeg" >}}
-
-{{< figure src="L1230305x-1024.jpeg" >}}
-
-{{< figure src="L1230306x-1024.jpeg" >}}
-
 {{< figure src="L1240151-1024.jpeg" >}}
 
 
@@ -102,4 +101,6 @@ _Japanese names: 堀秀彰 Hori Hideaki 岸徹至 Kishi Tetsuyuki 橋本学 Hash
 
 {{< youtube NElX1mESFzU >}}
 
--   Excerpt from track #7: [“Sliding Doors”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #7: “Sliding Doors” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

@@ -2,7 +2,9 @@
 title = "Hitomi Aikawa & Masaki Hayashi: Ten To Sen"
 author = ["Brian McCrory"]
 publishDate = 2026-04-26
-tags = ["albums"]
+keywords = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
+tags = ["Hitomi Aikawa 相川瞳", "Masaki Hayashi 林正樹"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
@@ -11,9 +13,12 @@ draft = false
 
 _Ten to Sen_ is a 2025 release from the duo of percussionist Hitomi Aikawa and pianist Masaki Hayashi. On this album, Aikawa plays marimba, glockenspiel, hand drums, and other percussion instruments, and she composed most on the music as well. Hayashi plays piano on all songs and contributed one composition to the album.
 
+![Front cover](L1350338x-1200.jpeg)
 The duo’s music is harmoniously beautiful with an understated personality projecting a calm confidence, one that supports a balance of bold strokes and playful trepidation delivered by patient hands. The duo takes its time with gentle moments as well as the elevated dramatic energy of dots and lines swirling together on a canvas to create colorful stories. When not flowing free in rubato intros and sections, the duo locks into implied deep grooves and looped time-based phrases that repeat over one another, sometimes in offsets that create a crisscross of overlapping motifs combining simplicity and complexity all at once. It’s more soothing waves than sharp corners, still the playing is expert and precise.
 
 _Ten to Sen_ includes ten songs, nine by Aikawa and one by Hayashi.
+
+{{< figure src="L1350345x-1200.jpeg" alt="Back cover" >}}
 
 1.  “Marigold” - an opening story where interlacing dots and lines dance in ray-filled grids
 2.  “Ambiguous” - naturally vague in dreamy wide-open spaces
@@ -28,22 +33,34 @@ _Ten to Sen_ includes ten songs, nine by Aikawa and one by Hayashi.
 
 The album title _Ten To Sen_ is written on the cover using the English alphabet, so interpreting the title without Japanese kanji characters can be ambiguous. (One creative translation could be 10 for _ten_ in English, _to_ in English, and 1000 for _sen_ in Japanese, resulting in the title of “From 10 to 1000”). However, the most likely interpretation of the title is _Dots and Lines_. There is a 2019 video (_included below_) of Aikawa playing an early solo version of the title track where she calls it “TENTOSEN” (てんとせん, _ten to sen_, _dots and lines_). In a brief note for that video, she explains that she wrote this music for a special exhibit workshop titled “Dots and lines, colors, shapes” (てんとせん、いろ、かたち) at Iwami Art Museum in Shimane Prefecture in 2019.
 
+{{< figure src="L1350366x-1200.jpeg" alt="Inside case" >}}
+
 Since the words in the title _Ten To Sen_ are written in English letters rather than Japanese kanji, their meaning is interestingly ambiguous as each word could be interpreted in a few ways:
+
+{{< figure src="L1350369x-1200.jpeg" alt="Booklet front page" >}}
 
 -   _ten_ - point (点), rotation (転), sky/heaven (天)...
 -   _to_ - and, with, if/when (と)...
 -   _sen_ - line (線), thousand (千), immortal/celestial being (仙)...
 
+{{< figure src="L1350371x-1200.jpeg" alt="Booklet introduction pages" >}}
+
 The album liner notes by Yoshihide Omoto also play on this flexibility of interpretation.
 
+![Booklet musicians pages](L1350377x-1200.jpeg)
 Considering the art museum workshop, a likely first translation of _Ten To Sen_ would be _Dots and Lines_. Especially with the spirited soft wood sounds of marimba running through the music, it’s easy to imagine myriad dots bouncing and tracing long lines through space, interlaced and increased by the fullness and attack of the piano. The cover art, with its spatter of dots and curved lines, also adds to this visual imagery of _dots and lines_, an interpretation that becomes more obvious when taking the album images into account.
+
+{{< figure src="L1350378x-1200.jpeg" alt="Booklet details pages" >}}
 
 
 ## Liner Notes {#liner-notes}
 
+> ![Booklet back page](L1350386x-1200.jpeg)
 > 点と点に転と天 <br />
 > 線と線に千の仙 <br />
 > 色彩の快楽と響き合うことの偕楽 <br />
+>
+> ![Obi](L1350392x-1200.jpeg)
 > わたしが愛する最高の音楽家二人による最高に幸せな47分間 <br />
 > -- 音楽家 大友良英
 
@@ -69,25 +86,7 @@ The sublimity of color, the shared reverberations of pleasure <br />
 An incredibly pleasing 47 minutes from two brilliant musicians that I love <br />
 -- Yoshihide Otomo, musician
 
-{{< figure src="L1350338x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Front cover" >}}
-
-{{< figure src="L1350345x-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Back cover" >}}
-
-{{< figure src="L1350366x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside case" >}}
-
-{{< figure src="L1350369x-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Booklet front page" >}}
-
-{{< figure src="L1350371x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Booklet introduction pages" >}}
-
-{{< figure src="L1350377x-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Booklet musicians pages" >}}
-
-{{< figure src="L1350378x-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Booklet details pages" >}}
-
-{{< figure src="L1350386x-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Booklet back page" >}}
-
-{{< figure src="L1350392x-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Obi" >}}
-
-{{< figure src="L1350389x-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Disc" >}}
+{{< figure src="L1350389x-1200.jpeg" alt="Disc" >}}
 
 
 ## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi {#ten-to-sen-by-hitomi-aikawa-and-masaki-hayashi}
@@ -122,4 +121,6 @@ _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki_
 
 {{< youtube Ed0KubWWSFA >}}
 
--   Excerpt from track #1: [“Marigold”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #1: “Marigold” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

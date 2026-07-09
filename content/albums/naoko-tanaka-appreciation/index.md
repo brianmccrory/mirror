@@ -2,7 +2,9 @@
 title = "Naoko Tanaka: Appreciation"
 author = ["Brian McCrory"]
 publishDate = 2024-02-24
-tags = ["albums"]
+keywords = ["protean-protean", "naoko-tanaka-trio-memories", "daiki-yasukagawa-trio-trios-ii", "tcq-memories-of-t", "hiro-kimura-quintet-folds"]
+tags = ["Naoko Tanaka 田中菜緒子", "Yoshiro Okazaki 岡崎好朗", "Takayuki Sato 佐藤敬幸", "Mabumi Yamaguchi 山口真文", "Koji Yasuda 安田幸司", "Masanori Ando 安藤正則"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "naoko-tanaka-appreciation-460.jpeg"
@@ -11,12 +13,15 @@ draft = false
 
 _Appreciation_ is pianist and composer Naoko Tanaka’s 2022 jazz release, her latest in a series of exciting new albums from young Japanese musicians. Several of her previous leader albums (_Home_, _I Fall In Love Too Easily_, _Memories_) featured her piano trio as a trio, which _Appreciation_ also does. But this release also brings in the expert sounds of horn players Yoshiro Okazaki (trumpet), Takayuki Sato (alto sax), and Mabumi Yamaguchi (tenor sax) for three songs. In the rhythm section with the sparkling star are her regular trio members Koji Yasuda on bass and Masanori Ando on drums.
 
+![](L1230260x-1024.jpeg)
 The jazz performance and original compositions on this album are focused on a few themes. One, perhaps most important and reflected in the title, is the sense of gratitude that Tanaka feels for others: her companions, musical partners, and no doubt her listeners and supporters as well.
 
 Another goal for the pianist was to release an album full of her original songs. This includes one of her popular live show attractions, her tune “M.T.”, a fascinating uptempo swing number dedicated to and invoking certain comic book reptile heroes.
+![](L1230261x-1024.jpeg)
 
 In addition, there are other perfectly swung tunes, respectful of tradition while pushing forward with new songs and talent. Highlights include the rolling rhythms and skipping frolic of #1 “Hydrangea Flower”, the solid and inventive title track #4 “Appreciation”, and the cool mellowness of #5 “Aries”, aiming to be unbound by genre limits to appeal to all.
 
+![](L1230263x-1024.jpeg)
 Tying it all up in a lovely bow is the final track (and the only cover song on the album), #9 “Konomichi”, played by Tanaka as a soulful piano solo that captures a sentimental fondness in lovely light colors like the so many purple, pink, and blue flowers surrounding her in the cover image.
 
 
@@ -66,12 +71,6 @@ This is one of the songs I wrote during a period of two months when I couldn’t
 
 I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had an idyllic image for a long time. I feel that there is something in common in the jazz spirit, of being proud of your hometown and where you came from. It’s a song that my grandfather loves and one that I always feel close to.
 
-{{< figure src="L1230260x-1024.jpeg" >}}
-
-{{< figure src="L1230261x-1024.jpeg" >}}
-
-{{< figure src="L1230263x-1024.jpeg" >}}
-
 {{< figure src="L1230264x-1024.jpeg" >}}
 
 
@@ -103,4 +102,6 @@ _Japanese names: 田中菜緒子 Tanaka Naoko 岡崎好朗 Okazaki Yoshiro 佐�
 
 {{< youtube FkBmAqbMcPk >}}
 
--   Excerpt from track #3: [“M.T”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #3: “M.T” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

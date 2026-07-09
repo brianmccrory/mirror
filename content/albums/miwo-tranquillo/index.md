@@ -2,7 +2,8 @@
 title = "Miwo: Tranquillo"
 author = ["Brian McCrory"]
 publishDate = 2024-06-14
-tags = ["albums", "vocals"]
+tags = ["MIWO", "Mamoru Ishida 石田衛", "Daiki Yasukagawa 安ヵ川大樹", "Akira Sekine 関根彰良"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "miwo-tranquillo-460.jpeg"
@@ -11,19 +12,25 @@ draft = false
 
 Jazz singer MIWO’s first album is entitled _Tranquillo_ from 2020. This fifty-one-minute album delivers a sincere and straightforward set of twelve jazz standards perfectly suited to the leader’s modestly beautiful voice. _Tranquillo_ was produced by mentor Hiroko Williams, a well-known jazz singer in her own right, and the result is an album with an authentic approach to vocal-focused jazz albums.
 
+![](L1240810x-1200.jpeg)
 While some decorative intros, endings, and arrangements are subtly attached, the performances follow the original music closely to respectfully elevate the original compositions and allow the immediately felt vocals to shine.
 
 The four-piece group of vocals, piano, guitar, and upright bass delivers quiet renditions of classic tunes to uplift the mood, such as “The Song is You”, “Pennies From Heaven”, and “Get Happy” in fairly short, three-to-five minute takes with a direct and pure sound.
+![](L1240817x-1200.jpeg)
 
 Throughout, a sense of lightness and ease persists throughout the recording. While the liner notes describe a theme of visible light broadcast through the singer’s voice, there is also a sense of lightness as in buoyancy, a floating, lighter-than-air vocal quality from MIWO that successfully creates a pleasant musical atmosphere from the timeless melodies. Indeed, there seems to be an appreciation of the old-fashioned qualities of this rose-petal music, short, sweet, and soothingly presented.
+
+{{< figure src="L1240818x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
 
 _(Translation of Tomoyuki Hoshino’s original Japanese liner notes.)_
+![](L1240824x-1200.jpeg)
 
 Experience the light.
 
+![](L1240828x-1200.jpeg)
 Sometimes it is the flickering light of a candle set on a table at a bar where lovers meet. Sometimes it is the hazy heat of sunlight rising on a beach on a comfortably lazy afternoon. Sometimes it is the light of a movie projector telling a thrilling tale on a screen at a movie theater from long ago…
 
 MIWO’s singing voice brings to mind these various scenes of light. It’s a voice that evokes light, a rare singing voice that carries a unique radiance. As for the source of this light source, it seems to be her approach to _words_.
@@ -41,16 +48,6 @@ Actually, if you think about it, perhaps it is just those who can bring a new li
 MIWO’s voice certainly possesses that beautiful qualification. This album’s title is _Tranquillo_, which is a musical term of Italian origin that means in a quiet and calm manner. If you close your eyes, lay down in a quiet and calm place, and let her voice reflect its light on the surface of the mirror of your mind, you too will surely be convinced of this. In the midst of this unique twinkling light, various scenes will shimmer and emerge.
 
 _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calendar)_
-
-{{< figure src="L1240810x-1200.jpeg" >}}
-
-{{< figure src="L1240817x-1200.jpeg" >}}
-
-{{< figure src="L1240818x-1200.jpeg" >}}
-
-{{< figure src="L1240824x-1200.jpeg" >}}
-
-{{< figure src="L1240828x-1200.jpeg" >}}
 
 {{< figure src="L1240831x-1200.jpeg" >}}
 
@@ -73,4 +70,6 @@ _Japanese names: 石田衛 Ishida Mamoru 安ヵ川大樹 Yasukagawa Daiki 関根
 
 {{< youtube em2OGdp0_j8 >}}
 
--   Excerpt from track #4: [“Desafinado”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #4: “Desafinado” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

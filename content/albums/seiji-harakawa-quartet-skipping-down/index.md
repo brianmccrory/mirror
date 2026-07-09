@@ -2,7 +2,8 @@
 title = "Seiji Harakawa Quartet: Skipping Down the Street"
 author = ["Brian McCrory"]
 publishDate = 2023-07-14
-tags = ["albums"]
+tags = ["Seiji Harakawa 原川誠司", "Hiroyuki Takubo 田窪寛之", "Motoi Kanamori 金森もとい", "Fukushi Tainaka 田井中福司"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "seiji-harakawa-skipping-down-460.jpeg"
@@ -11,9 +12,11 @@ draft = false
 
 Phrases like good honest work and good clean fun convey the simple and satisfying rewards that result from high levels of skill, effort, and enjoyment. Good honest music is a simple but to-the-point description of saxophonist Seiji Harakawa’s debut album _Skipping Down the Street_, an excellent showcase for the agile alto sax leader and rhythm section to project their skill, effort, and enjoyment of jazz.
 
+![](L1240030x-1024.jpeg)
 The full group listed on the record, “Seiji Harakawa Quartet featuring Fukushi Tainaka” also emphasizes the importance of drums and groove on this album, and honors Harakawa’s experience playing living legend drummer Tainaka in New York for half a decade before Harakawa returned to Japan.
 
 This 9-track album runs for 52 minutes and includes a selection of jazz covers and three of the leader’s original songs. Most of the songs are taken at a good-feeling mid-tempo 4/4 groove that doesn’t drag or get old in the least. The quartet’s playing is naturally top-notch, with familiar jazz patterns and quotes thrown in from time to time, lending authenticity to the players’ sense of togetherness and shared jazz language.
+![](L1240031x-1024.jpeg)
 
 A few ballads and Latin songs are included for variety: the standard “Cherokee”, a song often played at breakneck speed as a sort of thrill-ride woodshedding contest, is here surprisingly played at a slow and pleasant pace, and fast-tempo responsibilities are taken up by the quartet’s high-speed, exciting playing on the American baseball anthem “Take Me Out to the Ball Game”.
 
@@ -24,10 +27,6 @@ Harakawa’s alto sax sound is strong, fluid, and engaging, very well suited for
 I’ve seen Harakawa’s group play through the years and have always been impressed by the group preparation, skill, and consistency of their performances. From song selection, arrangements, and solid groove, the music is always fulfilling and leaves a lasting impression.
 
 One of the best things I can say about the music on _Skipping Down the Street_ is that the live performance feeling is captured so well on this recording. A gem that honors Harakawa’s exceptional effort and abilities, this release is full of reliable and pure jazz that doesn’t disappoint, drawing on the skill and love that these musicians have for good honest music.
-
-{{< figure src="L1240030x-1024.jpeg" >}}
-
-{{< figure src="L1240031x-1024.jpeg" >}}
 
 {{< figure src="L1240032x-1200.jpeg" >}}
 
@@ -50,4 +49,6 @@ _Japanese names: 原川誠司 Harakawa Seiji 田窪寛之 Takubo Hiroyuki 金森
 
 {{< youtube 9i1_hPTl1kI >}}
 
--   Excerpt from track #5: [“I've Never Been In Love Before”](https://www.jazzofjapan.com/archive/audio/#mix-9)
+-   Excerpt from track #5: “I've Never Been In Love Before” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}

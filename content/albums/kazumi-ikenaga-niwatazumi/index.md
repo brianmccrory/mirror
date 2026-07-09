@@ -2,7 +2,9 @@
 title = "Kazumi Ikenaga: Niwatazumi"
 author = ["Brian McCrory"]
 publishDate = 2018-01-26
-tags = ["albums"]
+keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
+tags = ["Kazumi Ikenaga 池長和美", "Christian Vuust", "Jakob Buchanan", "Soren Dahl Jeppesen", "Klaus Nørgaard"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
@@ -10,6 +12,8 @@ draft = false
 +++
 
 _Niwatazumi_ is a wonderful modern jazz record from drummer Kazumi Ikenaga and Pauseland, a Danish group described as ambient jazz with Scandinavian folk influences. Spacey original compositions and mature musicianship flow in a breathy, open style resembling a modern ECM recording. Relaxing and anthemic, the music on _Niwatazumi_ (translated as a large puddle remaining after heavy rainfall) is at times mesmerizing and at other times gently rocking and grooving. It’s a captivating journey from a drummer’s quintet, focused on ethereal ambiance in a way that constructs scenes and visions drawn out of nature, memories, and the texture of life.
+
+{{< figure src="L1180426x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -19,14 +23,17 @@ _(Translated from the original Japanese liners notes written by Kazumi Ikenaga.)
 1.  Unspoken Language / Jakob Buchanan
 
 This song was actually performed and recorded at the end of our session, but when I listened back to the take, the idea came to me that it should be the album opener. This was my first time playing this piece, but my body reacted so naturally to it that I didn’t even look at the score. We were all just having a conversation through the music at the time.
+![](L1180428x-1024.jpeg)
 
 2.  Twosome / Christian Vuust
 
 This song was written by Christian Vuust for his longtime friend and collaborator Jakob Buchanan. It’s a relaxing and melodious piece in which the scenery of Scandinavia emerges and disappears. While recording, I forgot that we were in a studio, and fell into the illusion of the scenery of the sky being changed by the wind.
+![](L1180427x-1024.jpeg)
 
 3.  JSB / Christian Vuust
 
 This is named after the initials of Johann Sebastian Bach, of of Christian Vuust’s greatest musical inspirations. It’s a three-part construction of the theme in rubato, a tenor solo in straight eighths, and a mallet solo, with the final theme in rubato played again as an ending. It makes me imagine the magnificent nature of Scandinavia, the people who enjoy life there, and the history that is made as time passes.
+![](L1180429x-1024.jpeg)
 
 4.  Niwatazumi / Kazumi Ikenaga
 
@@ -52,14 +59,6 @@ In English, it means “High Sky”. In Denmark, it’s said to represent the ap
 
 This is composed of a simple melodic refrain that evokes a philosophical feeling almost as if listening to a Zen dialogue. This song felt appropriate for an ending, where time passes gently as waves ebb and flow on the coastline. The whole song is played with mallets.
 
-{{< figure src="L1180426x-1024.jpeg" >}}
-
-{{< figure src="L1180428x-1024.jpeg" >}}
-
-{{< figure src="L1180427x-1024.jpeg" >}}
-
-{{< figure src="L1180429x-1024.jpeg" >}}
-
 {{< figure src="IMG_20231009_074319847_HDRx-1024.jpeg" >}}
 
 
@@ -82,4 +81,6 @@ _Japanese names: 池長和美 Ikenaga Kazumi_
 
 {{< youtube OvMzoUtS5NI >}}
 
--   Excerpt from track #2: [“トゥーサム (_Twosome_)”](https://www.jazzofjapan.com/archive/audio/#mix-1)
+-   Excerpt from track #2: “トゥーサム (_Twosome_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}

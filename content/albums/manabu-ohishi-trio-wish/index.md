@@ -2,7 +2,8 @@
 title = "Manabu Ohishi Trio: Wish"
 author = ["Brian McCrory"]
 publishDate = 2018-04-10
-tags = ["albums"]
+tags = ["Manabu Ohishi 大石学", "Jean-Philippe Viret", "Simon Goubert"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "manabuohishi-wish-460.jpeg"
@@ -11,19 +12,15 @@ draft = false
 
 From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label’s concept of “hand-made jazz” features jazz music which one could describe as having Japanese attention to detail and craftsmanship with European touches. On _Wish_, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.
 
+![](L1200151-1024.jpg)
 Ohishi’s strength as a romantic melodist is evident as the opening notes from the piano sound, heavy with sentimentality. His vibrant improvisations often unspool with passion, as if he is pushing notes out physically from the piano, squeezing out as much expression and emotion as possible.
 
 Another moving feature is Ohishi’s lovely reharmonization of popular standards, here with “My Foolish Heart” and “What A Wonderful World”, adding alluring deepness to these ballads.
+![](L1200152-1024.jpg)
 
-{{< figure src="L1200151-1024.jpg" >}}
-
-{{< figure src="L1200152-1024.jpg" >}}
-
-{{< figure src="L1200154-1024.jpg" >}}
-
-{{< figure src="L1200157-1024.jpg" >}}
-
-{{< figure src="L1120054-1024.jpeg" >}}
+![](L1200154-1024.jpg)
+![](L1200157-1024.jpg)
+![](L1120054-1024.jpeg)
 
 
 ## Wish by Manabu Ohishi Trio {#wish-by-manabu-ohishi-trio}
@@ -43,4 +40,6 @@ _Japanese names: 大石学 Ohishi Manabu_
 
 {{< youtube muxhlGhBnIQ >}}
 
--   Excerpt from track #1: [“I'm Yours”](https://www.jazzofjapan.com/archive/audio/#mix-2)
+-   Excerpt from track #1: “I'm Yours” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}

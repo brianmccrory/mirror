@@ -2,7 +2,8 @@
 title = "Mayuko Katakura: The Echoes of Three"
 author = ["Brian McCrory"]
 publishDate = 2018-04-02
-tags = ["albums"]
+tags = ["Mayuko Katakura 片倉真由子", "Yasushi Nakamura 中村恭士", "Carmen Intorre Jr."]
+categories = ["albums"]
 draft = false
 [cover]
   image = "mayukokatakura-echoes-460.jpeg"
@@ -11,17 +12,14 @@ draft = false
 
 Pianist Mayuko Katakura’s 2015 album _The Echoes of Three_ captures an exciting reunion of old friends whose strong connections and shared history result in a high-level trio session. With plenty of speedy McCoy Tyner angularism and Monkish spontaneity, Katakura spurs the trio on, delivering a great balance of compositional planning with in-the-moment abandon.
 
+![](L1180989-1024.jpg)
 The first five tracks are back-to-back originals, starting with the contemplative “Echo” leading into the bouncing “Into Somewhere” (based on the standard “Out Of Nowhere”), the exquisite “A Dancer’s Melancholy” (also performed on her 2010 recording Faith), a fiery group improvisation “At The Studio (Reunion)”, and the modern “Directions”, honoring influences from jazz pianists Mulgrew Miller and Geri Allen.
 
 The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping “Pinocchio” (Wayne Shorter), and a sweet interpretation of Duke Pearson’s ballad “You Know I Care”, before closing with another original, “A Barfly’s Hope”, a swinging, striding song written for the pianist Elmo Hope.
+![](L1180993-1024.jpg)
 
-{{< figure src="L1180989-1024.jpg" >}}
-
-{{< figure src="L1180993-1024.jpg" >}}
-
-{{< figure src="L1190001-1024.jpg" >}}
-
-{{< figure src="L1190012-1024.jpg" >}}
+![](L1190001-1024.jpg)
+![](L1190012-1024.jpg)
 
 
 ## The Echoes of Three by Mayuko Katakura {#the-echoes-of-three-by-mayuko-katakura}
@@ -41,4 +39,6 @@ _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 {{< youtube q8n6M2iDD8g >}}
 
--   Excerpt from track #3: [“ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)”](https://www.jazzofjapan.com/archive/audio/#mix-2)
+-   Excerpt from track #3: “ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}

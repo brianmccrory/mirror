@@ -2,7 +2,9 @@
 title = "Akihiro Yoshimoto & Takashi Sugawa: Oxymoron"
 author = ["Brian McCrory"]
 publishDate = 2024-07-19
-tags = ["albums"]
+keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
+tags = ["Akihiro Yoshimoto 吉本章紘", "Takashi Sugawa 須川崇志", "Niran Dasika ニラン・ダシカ"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
@@ -11,9 +13,11 @@ draft = false
 
 _Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](https://www.jazzofjapan.com/archive/apollo) in Tokyo, Japan, and released that recording as this album in 2017.
 
+![](L1260974x-1200.jpeg)
 Through the album’s eleven tracks and thirty-six minutes, Yoshimoto and Sugawa play free jazz and experimental music that pushes beyond the boundaries of standard jazz. The pair avoids the more easily identifiable trademarks of conventional music and songwriting to chase the free-flowing exchange of spontaneous ideas and sounds with few limits imposed.
 
 The ingredients are Yoshimoto on soprano sax and clarinet, Sugawa on cello and contrabass, and beautiful inspiration. The result is filled with eccentric and atonal aspects: wild flights of notes punctuated with wavering drones, careful twining of improvised melodies, and knife-edge slices of notes forming and dissipating in unsettling conditions.
+![](L1260979x-1200.jpeg)
 
 That said, it’s not an album full of noise or ambient effects (though [the Bandcamp page for the album](https://oxymoronduo.bandcamp.com/album/oxymoron) does include the tags _ambient_ and _dark ambient_, along with _jazz_, _contemporary jazz,_ and _freejazz_). Horn notes fly around in unpredictable paths, pouring phrases into the air while low notes percolate, bass notes pop and ring, and bowed strings expose eerie terrains.
 
@@ -32,10 +36,6 @@ Track #3 “Password” slowly raises the temperature with sugary bursts of carb
 The three-part “Mokume” series (tracks #4, #8, and #10) has a particular impact. Clarinet and bowed cello notes play an almost modern classical piece before intermittently droning against one another. Consonance and dissonance slide around like oil and water shifting in a laboratory dish, flowing and touching but unmerging. Musical tones shift, intersect, tangle, and separate like frictional sounds of gossamer silk, like cricket legs or cobweb threads rubbing together, like bubbles of Brownian motion rising from a cauldron’s brew.
 
 The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a trio as the sax and bass are joined by piccolo trumpet (played by Niran Dasika). Playful mayhem is entertained as the trio balances on a tightrope of unity and disarray. Roaming improvisation leads to unintelligible scrambles of speech and juggling of squeaks, pitches, and volume before ending with a satisfyingly clear, slightly bluesy conclusion.
-
-{{< figure src="L1260974x-1200.jpeg" >}}
-
-{{< figure src="L1260979x-1200.jpeg" >}}
 
 {{< figure src="L1260992x-1200.jpeg" >}}
 
@@ -59,4 +59,6 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニ�
 
 -   [Album audio on Bandcamp](https://oxymoronduo.bandcamp.com/album/oxymoron)
 
--   Excerpt from track #4: [“Mokume #1”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #4: “Mokume #1” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

@@ -3,25 +3,20 @@ title = "Independence"
 author = ["Brian McCrory"]
 publishDate = 2023-07-18
 tags = ["clubs", "premium"]
+categories = ["clubs"]
 draft = false
+[cover]
+  image = "L1000565-1024.jpeg"
+  relative = true
 +++
-
-{{< figure src="L1000565-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Maki Fujimura with the Yuichiro Aratake Trio at Independence in 2012" >}}
 
 Independence is a cool underground jazz bar in Ikebukuro, a long and narrow room like a tunnel with a door at one end and a stage at the other. The friendly proprietor offers small homemade appetizers and the usual drinks, bar snacks, and dishes including pizza, pasta, and rice dishes. The middle of the room is filled with small tables and chairs lined up against the long wall, with a small facing bar that also provides great views of the stage.
 
-{{< figure src="IMG_20181028_183726096-1024.jpeg" >}}
-
+![](IMG_20181028_183726096-1024.jpeg)
 Independence welcomes diehard jazz addicts as well as newbies, making efforts to appeal to customers who may be unfamiliar with other insular jazz scenes by providing an up-close experience, an at-home atmosphere with front-row seats and the stage area mingling close together, facilitating direct eye contact and excitement brought about by the magnetic and unpredictable qualities of jazz improvisation.
-
-{{< figure src="P1040559-1024.jpeg" >}}
 
 Sunday “sunset live” shows start a bit earlier than usual and often feature up-and-coming younger artists, with daytime shows and amateur jazz jam sessions also appearing on the calendar from time to time.
 
+{{< figure src="P1040559-1024.jpeg" >}}
+
 {{< figure src="DSC_4057-1024.jpeg" >}}
-
-
-## For more information: {#for-more-information}
-
--   [Independence’s website](http://jazz-independence.com/)
--   [Located near Ikebukuro station in Tokyo, Japan](https://goo.gl/maps/1EvguUcTeBedSnMV8)

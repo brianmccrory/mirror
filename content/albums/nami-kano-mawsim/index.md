@@ -2,7 +2,9 @@
 title = "Nami Kano: Mawsim"
 author = ["Brian McCrory"]
 publishDate = 2024-03-15
-tags = ["albums"]
+keywords = ["jabuticaba-jabuticaba"]
+tags = ["Nami Kano 加納奈実", "Tomokazu Sugimoto 杉本智和", "Mamoru Ishida 石田衛", "Sota Kira 吉良創太", "maiko マイコ", "Orie Hirayama 平山織絵", "Shoko Mochiyama 持山翔子"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "nami-kano-mawsim-460.jpeg"
@@ -11,12 +13,15 @@ draft = false
 
 Saxophonist and composer Nami Kano has just released a long-awaited album _mawsim_ with her group of the same name today in Japan. Nami Kano’s name may be familiar as part of [Jabuticaba](https://www.jazzofjapan.com/archive/jabuticaba-jabuticaba) from last week’s article, another compelling side of her creative musical personality.
 
+![](L1240341-1200.jpeg)
 This five-song, 39-minute album has resulted from the accumulated experience as Nami Kano’s quartet, playing creative jazz and original music together for years around Japan. As a unit, they’ve performed their own great compositions and arrangements of music from innovative musicians like Keith Jarrett, Jaco Pastorius, and Carla Bley. Kano recently adopted the _mawsim_ moniker for her group and album name, as their vision locked into a comfortable and multi-layered repertoire.
 
 As the recording starts, regular jazz listeners who are used to the quartet’s live sound may be surprised. The first song kicks off with some unexpected layers such as electronic drum beats establishing the framework for the sometimes-acoustic, sometimes-electric band (at live shows, Fender Rhodes, electric keyboards, and electric bass are often used along with acoustic piano and wood double-bass). Also surprising, Kano’s own pure voice joins her saxophone sound on the irresistibly playful melodic motif repeated through the first track’s melody line.
+![](L1240338-1200.jpeg)
 
 Later parts of the album extend the sound palette even more with simple, gorgeous orchestration of a violin and cello string section, and ambient sounds and programming add a sense of mystic soul to the groovy and soulful music.
 
+![](L1240344-1200.jpeg)
 Within just five songs (all composed by Nami Kano, roughly seven to nine minutes each), the music successfully includes a different dimension of the composer’s personality, through dance-club jazz fusion funk, natural and organic jazz, experimental trance, mellow soul, and straightforward classical beauty.
 
 A subjective trip through the entire album leads to many highlight moments…
@@ -36,12 +41,6 @@ Suddenly, the modern world emerges with electric rhythms halfway in, something l
 \#5 “\*Whisper of the Moon\*” is a relaxing end to the adventure as the strings, sax, and piano perform soundtrack-style music in a dramatic reading. Graceful, slow, and honest with a hint of mystery and romance conveyed through Kano’s exquisite sax tone, expert playing, and impressive compositional talent.
 
 As for the name _mawsim_ (_season_), Kano explained that in certain places the group name and album title are stylized in lowercase for fun aesthetic reasons: In cursive, the writing of 𝓂𝒶𝓌𝓈𝒾𝓂 resembles and gives the feeling of waves, and in Japanese, “wave” is _nami_ 波, which has the same sound as Kano’s first name _Nami_ 奈実.
-
-{{< figure src="L1240341-1200.jpeg" >}}
-
-{{< figure src="L1240338-1200.jpeg" >}}
-
-{{< figure src="L1240344-1200.jpeg" >}}
 
 {{< figure src="flyer-1200.jpeg" >}}
 
@@ -83,4 +82,6 @@ _Japanese names: 加納奈実 Kano Nami 杉本智和 Sugimoto Tomokazu 石田衛
 
 {{< youtube nIBoybd41gQ >}}
 
--   Excerpt from track #2: [“Le Bourgeon”](https://www.jazzofjapan.com/archive/audio/#mix-10)
+-   Excerpt from track #2: “Le Bourgeon” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}

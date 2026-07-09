@@ -3,28 +3,16 @@ title = "A-Un"
 author = ["Brian McCrory"]
 publishDate = 2023-06-03
 tags = ["clubs", "premium"]
+categories = ["clubs"]
 draft = false
 [cover]
-  image = "../images/a-un/IMG_0589-1024.jpeg"
-  alt = "Vocalist Rie Taguchi sings with Yoyogi Naru's house trio"
-  caption = "August 2016"
+  image = "IMG_0589-1024.jpeg"
   relative = true
 +++
 
-{{< figure src="IMG_0589-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Vocalist Kunie Kai and pianist Yuichiro Aratake at A-Un in 2008" >}}
-
 A-Un is a tiny hidden-away bar in the twisty alleys just north of Shinjuku, a gem in rough for those who are fortunate to find it. Walking down through the modest entry leads to a small underground bar with an upright piano and a spot for vocalists or other musicians. On a typical night, a pair of vocalists will share the stage and take turns singing jazz standards and pop classics with piano accompaniment. Adding to the convivial atmosphere in the cozy room, the performers may also spend time mingling with the customers during breaks.
 
-{{< figure src="P1020275-1024.jpeg" >}}
-
+![](P1020275-1024.jpeg)
 Incidentally, as for the interesting name A-Un, the name refers to the sound of the first and last letters of the Japanese hiragana alphabet あ and ん, which can be spoken together in a way similar to the meditative chant om. This pair of letters can be said to represent the beginning and end of all things, much like the Greek letters Alpha and Omega. Another interpretation points out how the sounds ah and un are often used in Japanese during everyday conversation as active listening confirmations and replies.
 
 {{< figure src="IMG_0586-1024.jpeg" >}}
-
-
-## For more information: {#for-more-information}
-
--   [A-Un’s website](http://aunaun.fc2web.com/)
--   [Located near Shinjuku and Nishi-shinjuku stations in Tokyo, Japan](https://goo.gl/maps/Kjj6pTje5nf73muu8)
-
-_Note: A-Un has permanently closed._

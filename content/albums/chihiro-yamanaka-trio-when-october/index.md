@@ -2,7 +2,8 @@
 title = "Chihiro Yamanaka Trio: When October Goes"
 author = ["Brian McCrory"]
 publishDate = 2020-08-13
-tags = ["albums"]
+tags = ["Chihiro Yamanaka 山中千尋", "Larry Grenadier", "Jeff Ballard"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
@@ -11,12 +12,15 @@ draft = false
 
 Chihiro Yamanaka’s second release _When October Goes_ was released in 2002, a natural followup to her impressive debut _Living Without Friday_ released the prior year. This second album features the pianist playing with new recording members Larry Grenadier on bass and Jeff Ballard on drums, members of the Brad Mehldau Trio who would continue to record and tour to great acclaim like Yamanaka herself.
 
+![](L1210615-1024.jpg)
 The ten tracks on When October Goes include three original songs, with the balance of the music being jazz standards and rearranged songs.
 
 The opening original number “Taxi” is a highlight, a great way to open the set with creative modern jazz and scintillating piano improv. The other two originals reveal a humorous side to go along with her prodigious jazz talent: “Plum the Cow”, named for a neighbor’s bovine pet, is a quirky uptempo blues, while “S.L.S. (Silly Little Song)” is an ultra-catchy odd-meter tune with swirling keyboards, easily hooking the listener all the way to the don’t-want-it-to-end fade out.
+![](L1210617-1024.jpg)
 
 Amidst the high-energy swing, the emotional ballad “When October Goes” is delivered with deserving finesse and care for the music. Other jazz covers include “Just In Time”, “In A Mellow Tone”, and George Gershwin’s “I’ve Got Rhythm”, masterfully reinvented with novel accents and an extended vamp for the pianist to spin twisty improvisations over an in-the-pocket rhythm section groove.
 
+![](L1210620-1024.jpg)
 Together with jazz and pop standards, Yamanaka also includes her upbeat jazz version of a Japanese traditional song “Yagi Bushi” (later revisited on her 2005 album _Outside By The Swing_) and a memorable pick of Keith Jarrett’s “Paint My Heart Red”, where the pianist’s long, fluid lines float gracefully over soft jazz chords with a mesmerizing beat.
 
 _When October Goes_ received numerous awards upon release, including four weeks at #1 on the HMV Weekly Modern Jazz Chart, 33 weeks at #1 on the HMV Yearly Modern Jazz Chart, and 2003 HMV Grand Prize Record of the Year for Best Japanese Jazz Album.
@@ -52,12 +56,6 @@ _This is a transcription of the CD liner notes written by Chihiro Yamanaka:_
 >
 > _This music is dedicated to my father Yasusuke, my mother Hiroko and my sister Makoto._
 
-{{< figure src="L1210615-1024.jpg" >}}
-
-{{< figure src="L1210617-1024.jpg" >}}
-
-{{< figure src="L1210620-1024.jpg" >}}
-
 {{< figure src="L1210627-1024.jpg" >}}
 
 
@@ -78,4 +76,6 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube IBqCrXr2_9I >}}
 
--   Excerpt from track #1: [“Taxi”](https://www.jazzofjapan.com/archive/audio/#mix-6)
+-   Excerpt from track #1: “Taxi” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}

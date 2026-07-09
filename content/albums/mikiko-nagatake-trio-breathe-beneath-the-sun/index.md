@@ -2,7 +2,9 @@
 title = "Mikiko Nagatake Trio: Breathe Beneath the Sun"
 author = ["Brian McCrory"]
 publishDate = 2026-01-03
-tags = ["albums"]
+keywords = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
+tags = ["Mikiko Nagatake 永武幹子", "Ryoji Orihara 織原良次", "Sota Kira 吉良創太", "Kosuke Mine 峰厚介", "Eiichi Hayashi 林栄一"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
@@ -11,11 +13,15 @@ draft = false
 
 From 2022, _Breathe Beneath the Sun_ is pianist Mikiko Nagatake’s second release, a jazz piano trio recording that came out just one year after her debut album _Into the Forest_ (2021). With the same members as on her first album, her trio includes Ryoji Orihara on fretless bass and Sota Kira on drums, two popular players in many Tokyo jazz groups. Another similarity between Nagatake’s first two albums is the addition of special guest horn players on a few songs. While the first album featured saxophonist Nami Kano on a bonus track, this album features two more saxophone guests well-known in the world of Japanese jazz, Kosuke Mine and Eiichi Hayashi, who join Nagatake as special guests for one track each near the end of the album.
 
+![](L1230222x-1200.jpeg)
 The sound of Nagatake’s jazz trio is compelling and modern, with a youthful style that is dynamic, energetic, and fun. Running at about 71 minutes, all ten tracks were composed by Nagatake and are bursting with her creative force, one that builds on the adventurous leanings of jazz pianists like Carla Bley and Cecil Taylor. Skillful and quick, Nagatake’s fingers can go from quiet and patient loveliness to a key-jabbing  with barely contained energy, always in control but often peeking over the edge in risky provocation. Live audiences and album listeners cannot help but be drawn into her magnetic presence.
 
 Here is a quick run through of the album flow. It starts with three highlights: #1 “Introduction -Breathe Beneath the Sun-” is Nagatake starting up the engines alone with a solo piano riff, deep and low on the keys with a rhythmically addictive pull and sharp lines coming in from above. The trio format begins with #2 “Not Even Heaven Knows”, a fiery and percussive fastball. #3 “Lucky You!” is another uptempo roller coaster with thrilling drops and bends, a frenetic Horace Silver-ish fever dream. #4 “Just Like He Sings” is a brushed ballad with the grace and sweetness of an Ellington/Strayhorn tune. #5 “Clover 9” is a wild and fast blues transmogrification, another album highlight (lots of these).
+![](L1230224x-1200.jpeg)
 
 Track #6 “Teoribata” is a slower song written for bassist Orihara to shine peacefully in a long-form fairy tale. #7 “Say No More” has a classic hardcore dark jazz vibe with Chick Corea-esque Latin/straight waltz-time mix, grippingly edge-of-seat at a dangerous speed. #8 “I’ll Send You Good Vibes” is the first quartet track, as veteran saxophonist Kosuke Mine joins for a soulful and warm gospel/rock groove with his great playing. #9 “Nekokai no Ballad” continues the bluesy quartet atmosphere, gritty and genuine, with Eiichi Hayashi on sax, another distinctive and renowned Japanese jazz player. Finally, #10 “Get Ready to Say Goodbye” is a melodically beautiful and moving outro song with the elements of a hit pop song tenderly refracted through a Brad Melhdau-ish jazz prism.
+
+{{< figure src="L1230225x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -23,24 +29,31 @@ Track #6 “Teoribata” is a slower song written for bassist Orihara to shine p
 _(Translated from the original Japanese liner notes.)_
 
 **Introduction**
+![](L1320777x-1200.jpeg)
 
 Before anything else, I would like to thank you very much for listening to this CD, _Breathe Beneath the Sun_. We’ve been fortunate to be able to able to release another trio recording in quick succession after the previous trio recording released in March 2021. I can’t express enough the appreciation I have for the label, Owl Wing Records, and Aratake-san. On this CD, all the songs are original compositions that I wrote over the past year, mainly, including two songs in the memory of people who have passed away.
 
+![](L1320778x-1200.jpeg)
 When I am riding on the train and dazzling sunlight pours in from the train window and washes over me, I really feel alive. The sunlight permeates me just like soaking into French toast. Whether it’s morning, evening, or even if I’m still tipsy from the previous night, it’s always great. I realize how good it feels to be alive, and the motivation to do my best increases as I’m being treated with unconditional kindness.
 
 I contemplated different album titles while thinking that it would be great for this CD to have that kind of presence of sunlight. I thought, _Something like French toast or..._, and so on. I tried to express my ramblings to a close female friend, a high-school classmate who returned from abroad, and she understood what I was trying to say perfectly. Ultimately, she gave me the wonderful title _Breathe Beneath the Sun_.
+![](L1320783x-1200.jpeg)
 
 永武幹子 <br />
 Mikiko Nagatake
+![](L1320785x-1200.jpeg)
 
 **Introducing the Musicians**
 
+![](L1320788x-1200.jpeg)
 In February 2020, this trio entered our third year together.
 
 Ryoji Orihara, the trio’s senior member, supports the band on fretless bass. He’s active with his solo project “Invisible Furniture”, serves as a member and musical director of “Virtual Silence”, and plays with Lisa Ono’s band. He is a professional fretless bass player specialist.
+![](L1320790x-1200.jpeg)
 
 After we finished recording this album, he went to perform in a concert in Taiwan with Lisa Ono’s band. This was at a time when coronavirus was spreading in Taiwan, and he was forced to stay quarantined in a hotel for two weeks. However, he wanted to keep working on this album even at that time. We made full of video conferencing and other specialized tools and finished the mixing (working on the sound balance of the recording)! I was so surprised at the modern technology that allowed us to do the mixing while being far apart, without any time lag.
 
+![](L1320794x-1200.jpeg)
 After this album was recorded, our trio went on to perform at various locations. One thing I have to mention is Orihara-san’s lunch presentations. In the mornings, we would gather in the hotel lobby and be treated to his presentation of notable restaurants in the area, including their websites, business hours, distance, and travel time. There was a passion for food overflowing with hospitality. Kira-san is also passionate about food, and so all throughout the tour we would prepare for the evening concert by having delicious meals.
 
 Drummer Sota Kira is active in a wide variety of musical acts, from Kei Akagi’s band and Junko Onishi’s band (that is to say, he started with jazz bands) to even STUTS’s band and others. Kira-san has been supportive of me ever since my student days. He also plays drums in “J.J.Soul”, another of our regular jazz trios. There, too, his incredibly energetic drumming always enriches the band’s sound and boosts the excitement of everyone present.
@@ -154,26 +167,6 @@ He became a professional musician at 17 years of age by training in big bands an
 
 “The music was inspiring, and there were many moments that touched my heart directly. I love that kind of music.” Yoshiaki Masuo
 
-{{< figure src="L1230222x-1200.jpeg" >}}
-
-{{< figure src="L1230224x-1200.jpeg" >}}
-
-{{< figure src="L1230225x-1200.jpeg" >}}
-
-{{< figure src="L1320777x-1200.jpeg" >}}
-
-{{< figure src="L1320778x-1200.jpeg" >}}
-
-{{< figure src="L1320783x-1200.jpeg" >}}
-
-{{< figure src="L1320785x-1200.jpeg" >}}
-
-{{< figure src="L1320788x-1200.jpeg" >}}
-
-{{< figure src="L1320790x-1200.jpeg" >}}
-
-{{< figure src="L1320794x-1200.jpeg" >}}
-
 {{< figure src="L1240173x-1200.jpeg" >}}
 
 
@@ -216,4 +209,6 @@ _Japanese names: 永武幹子 Nagatake Mikiko 織原良次 Orihara Ryoji 吉良�
 
 {{< youtube 0i-uQ9GLBO0 >}}
 
--   Excerpt from track #1: [“Introduction -Breathe Beneath the Sun-”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #1: “Introduction -Breathe Beneath the Sun-” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

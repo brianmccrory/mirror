@@ -2,7 +2,9 @@
 title = "Bungalow: Abstract Messages"
 author = ["Brian McCrory"]
 publishDate = 2023-09-08
-tags = ["albums"]
+keywords = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
+tags = ["Mike Rivett", "Koichi Sato 佐藤浩一", "Ko Omura 大村亘", "Isabeau Hansen", "Gordon Richter"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
@@ -11,12 +13,15 @@ draft = false
 
 _Abstract Messages_ is the final record from the group Bungalow, an album created under unique circumstances and with a different structure from previous releases. A mix of acoustic instruments and electronic sounds, the album is not only full of beautiful music but is also an accomplishment of coordination, both in its creation and the dynamic of the music.
 
+![](L1230559x-1024.jpeg)
 Confined to two separate countries in 2020, the three remaining members of Bungalow were recorded in two different sessions. The two musicians Koichi Sato and Ko Omura recorded piano and percussion in Japan and handed off the recordings to third member Mike Rivett in Australia, who layered in saxophones, loops, and sound effects, and finished the mixing.
 
 The result is wondrous, an interweaving of shorter sketches of sound and longer two-part musical stories. The songs seek to surpass conventions like trading of solos and patterns, and often set up foundations of cycling riffs and odd-metered percussion beats, all with a sense of acoustic humanness threaded with synthetic interjections of trilling chirps and buzzes, whispers of ambient sound, and blankets of samples and recorded speech.
+![](L1230561x-1024.jpeg)
 
 With eleven tracks averaging three to seven minutes each, the album itself even seems to contain a subtle “A” and “B” side. The first six tracks are shorter three-to-four-minute sketches, continuously coalescing into moments of solid music and dissolving into cloud-like mists. This music is full of twists of arpeggios and streams of piano and sax melodies in combination with fascinating percussion and drum sounds, interlaced with the sinew and muscle of electronic filters, modulation, and samples moving together through flex and relaxation.
 
+![](L1230563x-1024.jpeg)
 The next set of five tracks contains songs averaging six minutes each, several of which even contain a two-part structure. For example, “Abstract Messages”, “Destination of the Spirit”, and “Fragile Systems/Between Realms” each roughly plays out in two parts, establishing contrasts of serenity and chaos, pairs of organic and synthetic, or raw and digital forces that mirror the acoustic and electronic balance at play throughout the album. The final track, “Gong”, takes this concept furthest, switching back and forth several times between busy and ambient soundscape interludes with a restlessly manic musical loop.
 
 Absorbing and hypnotic, this final album from Bungalow (or “Post Bungalow”, as named in one of their final videos) is a worthy end statement, weighty with experimental and melodic emotional output, radial waves tying up the frayed edges of modern obstacles and challenges into a new, beautiful mosaic.
@@ -78,12 +83,6 @@ Now, let’s take a deep breath, and hang out for a while together.
 
 _中川ヨウ_ Yo Nakagawa /
 
-{{< figure src="L1230559x-1024.jpeg" >}}
-
-{{< figure src="L1230561x-1024.jpeg" >}}
-
-{{< figure src="L1230563x-1024.jpeg" >}}
-
 {{< figure src="L1240185x-1024.jpeg" >}}
 
 
@@ -110,4 +109,6 @@ _Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
 
 {{< youtube cmhz9V9di5I >}}
 
--   Excerpt from track #8: [“Fifteen Years”](https://www.jazzofjapan.com/archive/audio/#mix-9)
+-   Excerpt from track #8: “Fifteen Years” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}

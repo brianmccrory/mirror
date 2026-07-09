@@ -3,18 +3,19 @@ title = "Kohaku"
 author = ["Brian McCrory"]
 publishDate = 2024-01-18
 tags = ["clubs", "premium"]
+categories = ["clubs"]
 draft = false
+[cover]
+  image = "IMG_20230405_200313739-1024.jpeg"
+  relative = true
 +++
-
-{{< figure src="IMG_20230405_200313739-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>The Joe Rosenberg Trio with Kosuke Ochiai and Ko Omura in 2023" >}}
 
 The newish and attractive jazz bar Kohaku (opened in 2019) is hidden away on the sixth floor of a nondescript building near the center of bustling Shibuya, a district known for its youthful vibe and vibrant attractions.
 
+![](IMG_20230405_212524569x-1024.jpeg)
 The name Kokahu (琥珀, amber), aka Jazz Bar Amber, may bring to mind an atmospheric warmth with gold and glowing colors. Or it may summon the image of hardened resin suspending an ancient organism, unchanged and captured in time.
 
 None of that applies to the bar Kohaku of course. Except perhaps the design of Kohaku, with its custom-lettered flowing logo design to the stylish furnishings in the room. It all works together to convey an artistic warmth that spreads through the room where you are surrounded by hanging paper umbrellas and golden art-graffiti walls.
-
-{{< figure src="IMG_20230405_212524569x-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>View from the room" >}}
 
 Tenuously continuing the amber metaphor, the bar itself could be said to be suspended within the busy and youthful Shibuya district, a hidden jazz gem within the surrounding neighborhood. Like the nearby streets, and perhaps also influenced by the bar’s late hours, the place can be packed on certain nights. Reservations can be easily made through an email address found on the club’s website.
 
@@ -22,10 +23,4 @@ Battling the party atmosphere that may carry in from the environment, a good rem
 
 Kohaku’s menu lists beers, whisky, custom sangria drinks, and original blend coffee that is a nod to the space’s former cafe business using Udagawa coffee beans. For those split between caffeine and alcohol, there is a tempting homemade coffee shochu on the menu. There are also some food offerings, including a special year-round _oden_ set.
 
-{{< figure src="IMG_20230405_195654613x-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Welcome to Kohaku" >}}
-
-
-## For more information: {#for-more-information}
-
--   [Kohaku’s website](https://www.udagawacafe.com/kohaku/)
--   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9)
+{{< figure src="IMG_20230405_195654613x-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Welcome to Kohaku" >}}

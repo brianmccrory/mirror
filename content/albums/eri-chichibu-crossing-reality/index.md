@@ -2,7 +2,9 @@
 title = "Eri Chichibu: Crossing Reality"
 author = ["Brian McCrory"]
 publishDate = 2024-08-09
-tags = ["albums"]
+keywords = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
+tags = ["Eri Chichibu 秩父英里", "Kunihiro Kikuta 菊田邦裕", "David Negrete デイビッド・ネグレテ", "Akihiro Nishiguchi 西口明宏", "Itsumi Komano 駒野逸美", "Haruka Sasaki 佐々木はるか", "Takahiro Nawashiro 苗代尚寬", "Marty Holoubek マーティ・ホロベック", "Shun Ishiwaka 石若駿", "Milena Casado ミレナ・カサード", "Madoka Koike 小池まどか", "Tamako Yashima 八島珠子", "Remy Le Boeuf レミー・ル・ブーフ", "Kan 日高歓", "Hiroki Hayashi 林宏樹", "Jiro Suzuki 鈴木次郎", "Masaaki Saito 齋藤大陽", "Yuta Fukuhara 福原雄太"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "eri-chichibu-crossing-reality-460.jpeg"
@@ -11,17 +13,23 @@ draft = false
 
 Pianist and composer Eri Chichibu released her debut album _Crossing Reality_ in 2022. On it, she includes eight of her fine-tuned compositions for combos ranging from duos and trios to five-, seven-, eight-, and nine-member ensembles.
 
+![](L1250539x-1200.jpeg)
 The sound of Chichibu’s music fascinates with creative arrangements of harmonized horn lines, suspenseful rhythms, and multi-part musical sections. As the liner notes indicate, her songs shine with personality inspired by concepts and ideas that move her.
 
 Three of the most striking songs feature Chichi’s large ensemble, a nine-member group with horn players plus guitar, piano, bass, and drums. This complex music develops through breakneck joyrides experienced as tales brimming with flourishes.
+![](L1250554x-1200.jpeg)
 
 These nonets play on the thrilling and propulsive #1 “Crossing Reality”, the complex and dramatic #2 “The Sea - Seven Years Voyage -” (tinged with Chick Corea-ish fusion), and the deep and exploratory #5 “The Preconscious”.
 
+![](L1250577x-1200.jpeg)
 The smaller combos show more of the poppy and splashy pianist side of Chichibu. Her trio of piano, bass, and drums plays on #3 “Kaeru”, some of the most playful music on the album, with fun vamps covered with catchy melodies with sprinkles of surprising notes and polymeters. On #7 “green and winds”, she pares the group down even further for similarly breezy sounds with an upbeat gallop.
 
 In addition to nonet, duo, and trio formations, there are also songs for quintet and octet. #4 “Blackberry Winter” with a quintet is a soundtrack-like reflective piece with a beautiful flugelhorn sound, and #6 “dreams of the wind” features an octet for adventurous mystery infused with mild ambient textures.
+![](L1250580x-1200.jpeg)
 
 The final track on the album, #8 “THE VENDING MACHINE - with DRINK music” is driven by a jamming septet delivering the poppiest hooks and beats on the album, perfectly matching its use as the theme music and video used by a vending machine company in her home region of Tohoku.
+
+{{< figure src="L1250584x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -29,6 +37,7 @@ The final track on the album, #8 “THE VENDING MACHINE - with DRINK music” is
 _(Translated from Eri Chichibu’s original Japanese liner notes.)_
 
 Hello. Thank you for getting my debut album Eri Chichibu’s _Crossing Reality_. Together with guests from New York (Remy Le Boeuf, Milena Casado), and the energetic Japanese musicians, engineer, and team, we poured our energies into making this album. I included a variety of arrangements of songs from the heart, for trios and large ensembles. I needed to put all of this on this one album.
+![](IMG_20240607_084729779_HDRx-1200.jpeg)
 
 The inspiration for several of the included songs comes from nature, psychology, and experiences. Upon a base of the acoustic sound, I tried to paint a little with an approach to sound design that is uniquely possible on recordings. I hope you enjoy traveling between universes of reality and fantasy while letting your imagination run wild.
 
@@ -67,18 +76,6 @@ I was going down the roads of my hometown in Tohoku. As always, it was a serene 
 Japanese vending machines… cold drinks, _hot_ drinks, put a coin in and it immediately comes out… it’s so great! (And it’s fun to press a button and have a can come falling down.) Today as well, I want to take a breath, take a break, and spend a great day.
 
 (Music for Sun Vending Tohoku commercial)
-
-{{< figure src="L1250539x-1200.jpeg" >}}
-
-{{< figure src="L1250554x-1200.jpeg" >}}
-
-{{< figure src="L1250577x-1200.jpeg" >}}
-
-{{< figure src="L1250580x-1200.jpeg" >}}
-
-{{< figure src="L1250584x-1200.jpeg" >}}
-
-{{< figure src="IMG_20240607_084729779_HDRx-1200.jpeg" >}}
 
 {{< figure src="L1250597x-1200.jpeg" >}}
 
@@ -139,4 +136,6 @@ _Japanese names: 秩父英里 Chichibu Eri 菊田邦裕 Kikuta Kunihiro デイ�
 
 {{< youtube HLOqBTOcJfA >}}
 
--   Excerpt from track #2: [“The Sea -Seven Years Voyage-”](https://www.jazzofjapan.com/archive/audio/#mix-11)
+-   Excerpt from track #2: “The Sea -Seven Years Voyage-” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}

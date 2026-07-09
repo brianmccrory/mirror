@@ -2,7 +2,9 @@
 title = "Chihiro Yamanaka: Abyss"
 author = ["Brian McCrory"]
 publishDate = 2025-08-24
-tags = ["albums"]
+keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
+tags = ["Chihiro Yamanaka 山中千尋", "Vicente Archer", "Kendrick Scott"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "chihiro-yamanaka-abyss-460.jpeg"
@@ -11,18 +13,23 @@ draft = false
 
 _Abyss_ is a 2007 studio album from pianist Chihiro Yamanaka, recorded with bandmates Vicente Archer on bass and Kendrick Scott on drums. Like her previous albums, this is a jazz piano trio album featuring Yamanaka’s creative arrangements and impressive piano solos. With Archer and Scott as bandmates, the lineup on this album is a new one, as previous releases featured bassists Larry Grenadier and Robert Hurst, and drummers Jeff Ballard and Jeff “Tain” Watts, among others.
 
+![](L1210714x-1200.jpeg)
 Since starting to release albums in 2001, _Abyss_ is Yamanaka’s sixth studio album out of 32(!) releases to date, a collection that includes three live DVDs and two compilation albums. This is her third release for Verve Records. (Similar to Yamanaka’s schedule of releasing something new every year, I seem to be covering her albums here also at a one-article-per-year pace, so I had better up the pace or I will never catch up to her current-day releases!)
 
 With 10 tracks, all arranged by Yamanaka, and a running time of 50 minutes, _Abyss_ is a whirlwind of fast music, uptempo tunes, and plenty of jazz soloing from the nimble keymaster. The music is delightfully assertive with fluid playing throughout. Yamanaka’s style is also embodied in her personal arrangements, used as a stage for her fascinating piano improvisation in the spotlight. Right out of the gate, uptempo to near-breakneck speeds are immediate and consistent from tracks one through four and seem to tempt a risk of crashing. Yet, the band’s focus never falters, and their group playing and individual solos shine with confidence.
+![](L1210720x-1200.jpeg)
 
 It’s not just dexterity and upfront rhythms at play, though, and as before, Yamanaka’s arrangements are fun and distinctive. In opposition to the abyss of the title, her whimsical personality also comes through (as with “Plum the Cow” and “S.L.S. (Silly Little Song)” from [_When October Goes_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-when-october)). For example, the swing-era standard “Sing, Sing, Sing” is introduced by the famously identifiable piano riff from Chicago’s “Saturday in the Park” before switching into a massively reworked version of “Sing, Sing, Sing” merged with her own “Give Me a Break.” (I wonder if this choice of titles and tunes is a tongue-in-cheek response to the various requests that working pianists receive at piano bars and live shows? Just a guess...)
 
+![](L1210730x-1200.jpeg)
 Another creative element on this album is an increase in the use of keyboard, organ, and piano effects in the recording, a trend that has continued over the last several albums. Acoustic piano is still featured on most tracks, as the main piano instrument or doubled with another keyboard, yet the addition of electric keyboard, organ, and piano with effects is also a big part of the music on _Abyss_.
 
 Tracks one through four consist of Keith Jarrett’s “Lucky Southern” (in vibrant good moods), Yamanaka’s “The Root of the Light” (with liquid organ and hairpin curves), Louie Prima’s “Sing, Sing, Sing” together with Yamanaka’s “Give Me a Break” (vivid and exciting, switching between piano and keyboard), and the nearly hundred-year old romantic song “Take Me in Your Arms”, also played uptempo in straight swing for true jazz piano trio bona fides.
+![](L1210734x-1200.jpeg)
 
 Next is the album’s one slow ballad, track #5 “For Heaven’s Sake”, quiet and sweet with patient bass and piano solos over a bed of drum brushes. With track #6, the energy quickly returns with Yamanaka’s take on John Coltrane’s famous “Giant Steps”, rearranged here to switch between a swirling 3/4 and straight-ahead 4/4 meters with the pianist switching between acoustic and electric pianos.
 
+![](L1210737x-1200.jpeg)
 Similar to the album’s four-song start with an unrelenting uptempo jazz style, the final four songs introduce funkier and flexible structures: #7 Duke Ellington’s “I’m Gonna Go Fishin’” is a combination of tense bass-line sneaking, bluesy chords, and rapid-pulse swing with one of the longest and fieriest piano solos on the record. #8 “Forest Star” is a fascinating outing based on a repeated pedal-tone vamp and a piano treated with subtle effects for shimmering drone sounds, all combining for an effect like an electric didgeridoo and a tribal beat projecting a phasered piano solo above a fire. The last two songs, shorter in length, resemble a double finale to close the album with splashy imaginative vibes: #9 “Being Called” sets up a scene of rising chaos and tense piano improv, and #10 “Downtown Loop” closes with a short funk/jazz fusion organ jam.
 
 What of the album title... why _Abyss_? What is the deep chasm, the dark pit of chaos that this album refers to? The introspective cover photo displays contemplation, but together with the album title and the Gothic lettering, there is a slight sense of foreboding. Yet, in counterpoint, this album avoids any risk of falling into the bottomless pit, as we are carried away by the winds of uptempo swing, twisty-turny piano solos that fly through the air, and the upliftingly novel arrangements that Yamanaka is so good at delivering.
@@ -71,16 +78,6 @@ As the thrilling piano solo moves freely around an improvised beat pattern, a co
 \#10. DOWNTOWN LOOP / Chihiro Yamanaka
 
 The striking sound of the organ runs in all directions over a Motown groove loop.
-
-{{< figure src="L1210714x-1200.jpeg" >}}
-
-{{< figure src="L1210720x-1200.jpeg" >}}
-
-{{< figure src="L1210730x-1200.jpeg" >}}
-
-{{< figure src="L1210734x-1200.jpeg" >}}
-
-{{< figure src="L1210737x-1200.jpeg" >}}
 
 {{< figure src="L1210742x-1200.jpeg" >}}
 
@@ -134,4 +131,6 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube irGVn0y6j7U >}}
 
--   Excerpt from track #4: [“Take Me in Your Arms”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #4: “Take Me in Your Arms” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

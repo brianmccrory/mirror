@@ -2,7 +2,8 @@
 title = "Yuka Ueda: Dois"
 author = ["Brian McCrory"]
 publishDate = 2021-02-05
-tags = ["albums", "vocals"]
+tags = ["Yuka Ueda 上田裕香", "Junichiro Ohkuchi 大口純一郎", "Ryoji Orihara 織原良次", "Nobuyuki Komatsu 小松伸之", "Shinji Hashimoto 橋本信二", "Jo da Babylonia ジョー・ダ・バビロニア"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "yukaueda-dois-460.jpeg"
@@ -11,21 +12,16 @@ draft = false
 
 On Yuka Ueda’s 2013 release _Dois,_ the Japanese singer assembles thirteen songs from her Brazilian and Latin repertoire that she’s perfected at live spots and events around Japan. The track listing satisfies with many deep gems and a few common Jobim tunes, a boon for jazz listeners who may be weary of the usual bossa novas. Definitely not background music, this album is active with a strong spirit and spicy energy powered by swaying hip rhythms and oscillations tuned to the bones.
 
+![](L1210448-1024.jpg)
 Guiding the music is the full voice of the vocalist Ueda, singing in Portuguese and booming with honey richness and strength, swirling around and through the music with a gravitational pull on the dynamics. The music sizzles with kinetic energy and sheer pleasure, and Ueda’s confidence and control fits the bill grandly.
 
 As with her debut album _Agora_, the singer is supported by her familiar guitar and piano mates Shinji Hashimoto and Junichiro Ohkuchi. For _Dois_, she adds bassist Ryoji Orihara and drummer Nobuyuki Komatsu to the rhythm section for extra vigor and irresistible samba beats, experts at creating the rhythmic currents that soothe, pulse, and energize. Guest Jo Da Babylonia also joins on cavaquinho on three tracks, adding a classical guitar/ukelele sound which enhances the Brazilian sound with keen, invigorating vibrations.
+![](L1210454-1024.jpg)
 
-{{< figure src="L1210448-1024.jpg" >}}
-
-{{< figure src="L1210454-1024.jpg" >}}
-
-{{< figure src="L1210462-1024.jpg" >}}
-
-{{< figure src="L1210467-1024.jpg" >}}
-
-{{< figure src="L1210473-1024.jpg" >}}
-
-{{< figure src="L1110657-1024.jpg" >}}
+![](L1210462-1024.jpg)
+![](L1210467-1024.jpg)
+![](L1210473-1024.jpg)
+![](L1110657-1024.jpg)
 
 
 ## Dois by Yuka Ueda {#dois-by-yuka-ueda}
@@ -52,4 +48,6 @@ _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原
 
 {{< youtube 2MHUgYgV4uE >}}
 
--   Excerpt from track #1: [“Meu Escudo”](https://www.jazzofjapan.com/archive/audio/#mix-7)
+-   Excerpt from track #1: “Meu Escudo” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}

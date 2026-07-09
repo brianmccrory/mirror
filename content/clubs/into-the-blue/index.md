@@ -3,10 +3,12 @@ title = "Into the Blue"
 author = ["Brian McCrory"]
 publishDate = 2023-05-12
 tags = ["clubs", "premium"]
+categories = ["clubs"]
 draft = false
+[cover]
+  image = "IMG_20181113_193121771-1024.jpeg"
+  relative = true
 +++
-
-{{< figure src="IMG_20181113_193121771-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>The cool interior at Into the Blue with instruments on high." >}}
 
 Clean, neat, and organized, Into the Blue is one tidy jazz spot. The overhead vaulted ceiling is awash in the cool blue light, arching almost like a church roof, with jazz instruments set up at one end up above like statues around an altar to jazz.
 
@@ -15,9 +17,3 @@ Here at Into the Blue, the sound is upfront and close, like a mini concert hall 
 There are many options for drinks and food on the menu including Margherita pizza and the like. The Into the Blue house cocktail is tempting, surely going well with the ocean blue lighting and overall calm sense of this tidy shop.
 
 {{< figure src="IMG_20181113_194136875-1024.jpeg" >}}
-
-
-## For more information: {#for-more-information}
-
--   [Into the Blue’s website](http://intotheblue.info/)
--   [Located near Machida station in Tokyo, Japan](https://goo.gl/maps/C8u4y5hN3uZfAs67A)

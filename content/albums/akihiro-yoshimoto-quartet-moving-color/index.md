@@ -2,7 +2,9 @@
 title = "Akihiro Yoshimoto Quartet: Moving Color"
 author = ["Brian McCrory"]
 publishDate = 2018-08-18
-tags = ["albums"]
+keywords = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
+tags = ["Akihiro Yoshimoto 吉本章紘", "Aaron Choulai アーロン・チューライ", "Takashi Sugawa 須川崇志", "Shun Ishiwaka 石若駿"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
@@ -11,12 +13,15 @@ draft = false
 
 _Moving Color_ is the second album from saxophonist Akihiro Yoshimoto and his quartet. With eight original songs drawn from his palette, he blends serious musical exploration and improvisation with elements of modernity, jazz tradition, and a bit of humor. Strength in composition and group cohesion is clear: the quartet plays confidently, as if they are disclosing a secret bit by bit, modestly exhibiting their skills yet playing with brimming energy and a locked-together sense of where they are going.
 
+![](L1200500-1024.jpg)
 The tracks are solidly modern jazz tunes, with sizzling improvisation from Yoshimoto and pianist Choulai melodically laying out fiery, stimulating lines. There are a few moments of avant-garde exploration, where Sugawa’s bowed bass is used extremely effectively.
 
 A brooding atmosphere arises on #4 “Nostalgic Farm” and especially #7 “Ice Castle”, where a museum-like calm settles, foreboding and somewhat Nordic with its dark, chilling sound. There’s even a bit of goofy humor on two songs (#2 “The Mystery of Onion Rings” and #6 “Reminiscing About Banana Beer”), where Monkish exuberance and swing add a loose, jolly balance to the album.
+![](L1200502-1024.jpg)
 
 The two longest tracks, #5 “Sabaku No Akari” and #8 “Water Drops”, build patiently. These two compositions portray Yoshimoto’s thoughtful and edgy songwriting strength, masterfully refined in balancing honed compositions with space for group dynamics and spontaneity.
 
+![](L1200221-1024.jpg)
 These tracks and #3 “Possom” also summon a sense of Wayne Shorter’s modern quartet. This is exciting jazz with unextinguishable energy powered locomotively by drummer Ishiwaka and bassist Sugawa. All throughout, Yoshimoto’s liquid tenor swings over the chords like a daredevil trapeze artist, flowing and moving colorfully in impressive patterns.
 
 
@@ -50,12 +55,6 @@ The shape of Akihiro Yoshimoto Quartet, which has achieved remarkable growth, wa
 
 _Toshihiko Hoshino 星野利彦 / Music Writer_
 
-{{< figure src="L1200500-1024.jpg" >}}
-
-{{< figure src="L1200502-1024.jpg" >}}
-
-{{< figure src="L1200221-1024.jpg" >}}
-
 {{< figure src="L1200509-1024.jpg" >}}
 
 
@@ -77,4 +76,6 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ C
 
 {{< youtube IG8jxrYenzg >}}
 
--   Excerpt from track #5: [“Sabaku No Akari”](https://www.jazzofjapan.com/archive/audio/#mix-3)
+-   Excerpt from track #5: “Sabaku No Akari” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}

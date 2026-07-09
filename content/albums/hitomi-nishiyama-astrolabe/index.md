@@ -2,7 +2,9 @@
 title = "Hitomi Nishiyama: Astrolabe"
 author = ["Brian McCrory"]
 publishDate = 2025-11-03
-tags = ["albums"]
+keywords = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-parallax-live", "duo-tremolo-resonance", "nobie-takayoshi-baba-owari-to-hajimari", "hitomi-nishiyama-echo"]
+tags = ["Hitomi Nishiyama 西山瞳", "Takayoshi Baba 馬場孝喜"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "hitomi-nishiyama-astrolabe-460.jpeg"
@@ -11,18 +13,23 @@ draft = false
 
 _Astrolabe_ is an imaginative 2012 album from pianist and composer Hitomi Nishiyama. Nishiyama created the songs and this album with two goals in mind: First, she wanted to compose a story-like suite, a long-form composition that reflected the influence of guitar-based music she listened to as a youth, especially rock and heavy metal. Second, she wanted to record and release an album in a duo format with guitarist Takayoshi Baba, who joins her on this album.
 
+![](L1220652x-1200.jpeg)
 The result is a boundary-pushing and vividly realized album centered around a six-part suite from Nishiyama, brought to life through electric guitar and acoustic piano. The two voices juggle dynamic changes and odd meters, novel structures, and riff-based comping rhythms that push the duo around edges as they race swiftly along paths in the fluid and melodic compositions. The musical story told in the suite seems to be filled with elements of fantasy, classical flourishes, and the energy of jazz fusion.
 
 This is an album originating from two musicians who have a fondness for guitar-based bands like Dream Theater and Yngwie Malmsteen. The idea of the concept album that was popular in the 80s and 90s with groups like these, including Queensrÿche, Iron Maiden, and others, must too be a factor in the creation of this suite.
+![](L1220653x-1200.jpeg)
 
 Nishiyama spent over a year composing _Astrolabe_ and she wrote, edited, adapted, and performed the songs at intervals with Baba. Through it all, she maintained the goal of joining the separate songs in the suite’s tapestry of interweaving themes and patterns to tell a story where the plot moves through changes in tempos, meters, harmonies, and emotional moods.
 
+![](L1220654x-1200.jpeg)
 Released in 2012, _Astrolabe_ roughly falls in Nishiyama’s early-to-middle period between her first debut release [_I’m Missing You_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-im-missing-you) from 2004 and her current latest _Songs_ from 2025. Up to 2012, she had already released several jazz piano trio albums as a leader of the Hitomi Nishiyama Trio and her Hitomi Nishiyama _[“Parallax”](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-parallax-live)_ jazz piano trio. Her personal style has always blended smooth European modernism, classical pianist roots, and deep jazz studies. Add to that her equally recognizable compositional style that is filled with sublime melodies and beautifully intricate harmonies and rhythms.
 
 The first six tracks on this album make up the “Astrolabe Suite”. In the liner notes (translated below), Nishiyama explains how the idea of writing a suite came to her, and the storytelling-like process she took with guitarist Baba in developing the chapters of the story over time.
+![](L1220657x-1200.jpeg)
 
 No notes are provided about what the story’s concept is concretely, or if there is a fleshed-out plot with characters, scenes, and story arc, but listeners’ imaginations can be driven by what is gleaned from the song titles and how the music unfolds.
 
+![](L1220658x-1200.jpeg)
 Track #1 “Aviator” flows at an uptempo pace with odd-meter measures and ornate syncopation decorating the piece. With some complex pieces, focusing too hard about what’s going on musically can interfere with the enjoyment of listening listening, such as when trying to identify and categorize the structural parts and how they connect like puzzle pieces. Yet “Aviator”’s opening flows along, rapidly and easily carrying listeners forward through beautiful melodies and mature, symphonic songwriting and playing.
 
 The second movement is titled “Island”. This is a mid-tempo piece with the personality of a sentimental heavy rock ballad. A mysterious feeling arises from the shifting harmonies and close melodies, maintaining the sense of flying that was created on the previous track. The destination hinted at in the story (one possibly interpretation) moves from the perspective of the aviator to some remote island their aircraft landed upon. It seems that the melody and solos are also buffeted smoothly by the waves and glide over the terrain of the island like wind.
@@ -76,16 +83,6 @@ Much appreciation and thanks go out to everyone involved in the production of th
 A collection of songs crafted with overwhelming compositional sense.<br />
 A sublime duo of guitar and piano create and expand a magical sound space of two interweaving instruments!
 
-{{< figure src="L1220652x-1200.jpeg" >}}
-
-{{< figure src="L1220653x-1200.jpeg" >}}
-
-{{< figure src="L1220654x-1200.jpeg" >}}
-
-{{< figure src="L1220657x-1200.jpeg" >}}
-
-{{< figure src="L1220658x-1200.jpeg" >}}
-
 {{< figure src="L1220659x-1200.jpeg" >}}
 
 
@@ -105,4 +102,6 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 馬場孝喜 Baba Takayoshi_
 
 {{< youtube HS5JB0buDyk >}}
 
--   Excerpt from track #6: [“Frontier”](https://www.jazzofjapan.com/archive/audio/#mix-14)
+-   Excerpt from track #6: “Frontier” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}

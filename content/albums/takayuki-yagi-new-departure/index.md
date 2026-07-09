@@ -2,7 +2,8 @@
 title = "Takayuki Yagi: New Departure"
 author = ["Brian McCrory"]
 publishDate = 2021-01-19
-tags = ["albums"]
+tags = ["Takayuki Yagi 八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
@@ -11,13 +12,18 @@ draft = false
 
 Pianist Takayuki Yagi’s 2018 release _New Departure_ brings him together with stars of the New York jazz scene for a solid collaboration of New York and Tokyo energies.
 
+![](L1220391-1024.jpg)
 Strident and upbeat, the album’s 11 tracks are arranged in a two-set configuration, splitting the album into a jazz quintet set and a piano trio set. The quintet kicks off the music with four tracks as the pianist is joined by Scott Wendholt on trumpet, Ralph Bowen on tenor sax, Jay Anderson on bass, and Billy Drummond on drums. Pianist Yagi features his original tunes which are spiky, fun, and swinging with titles like “Beyond The New Horizons”, “View From Newark”, and “Kyoto Tower”. The titles hint at evocative settings while the music carries influences like McCoy Tyner, Lennie Tristano, and Thelonious Monk.
 
 A somewhat dark-tinged recording, the brightness of the front-line horns provides a nice balance to the deep, heavy piano and rhythm section, resulting in a nice integration of light and dark, flash and depth. The robust consistency from Anderson and Drummond on bass and drums keeps the whole album locked into a powerful groove through both quintet and trio formations.
+![](L1220392-1024.jpg)
 
 The second set features Yagi’s piano trio playing two original songs and five tunes from the likes of Duke Pearson, Larry Young, and others. Compared to the quintet, the trio is comparatively laid-back yet stylishly modern, with vibes of Hampton Hawes, Barry Harris, Duke Ellington, and Mulgrew Miller in the mix.
 
+![](L1220397-1024.jpg)
 Whether playing with his horn mates or leading the trio, Yagi plays with unbridled energy at the keys, bursting through with chunky blocks and frenzied strings of notes. The exuberance of the piano player is clear, striving to make his mark through this _New Departure_ into modern jazz themes with a classic hardbop sensibility.
+
+{{< figure src="L1220399-1024.jpg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -78,14 +84,6 @@ Pianist Walter Davis Jr. left a lot of wonderful songs despite being very undera
 
 Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed in two parts with a free section also engaged in close combat.
 
-{{< figure src="L1220391-1024.jpg" >}}
-
-{{< figure src="L1220392-1024.jpg" >}}
-
-{{< figure src="L1220397-1024.jpg" >}}
-
-{{< figure src="L1220399-1024.jpg" >}}
-
 {{< figure src="L1220403-1024.jpg" >}}
 
 
@@ -108,4 +106,6 @@ _Japanese names: 八木隆幸 Yagi Takayuki_
 
 {{< youtube _KiyjtDRyfM >}}
 
--   Excerpt from track #5: [“Kyoto Tower”](https://www.jazzofjapan.com/archive/audio/#mix-7)
+-   Excerpt from track #5: “Kyoto Tower” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}

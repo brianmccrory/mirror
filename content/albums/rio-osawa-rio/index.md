@@ -2,21 +2,28 @@
 title = "Rio Osawa: Rio"
 author = ["Brian McCrory"]
 publishDate = 2026-05-03
-tags = ["albums", "vocals"]
+keywords = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
+tags = ["Rio Osawa 大澤理央", "Yuichiro Hiraoka 平岡遊一郎", "Gustavo Anacleto", "Francis Silva", "Norihito Nagasawa 長澤紀仁", "Matsumonica マツモニカ"]
+categories = ["albums"]
 draft = false
 [cover]
   image = "rio-osawa-rio-460.jpeg"
   relative = true
 +++
 
+![](L1340623x-1200.jpeg)
 _Rio_ is the first album from vocalist Rio Osawa, released in 2021 as a six song, 24 minute album of some favorite Brazilian and jazz bossa nova tunes.
 
 With an organically rooted acoustic sound true to the honored form, vocalist Osawa is joined by guitar on all six tracks, with additional wind instruments (sax, flute, harmonica), hand percussion, and occasional backup voices from the band adding call and response dialogue and accents to the music. The songs selected for this album are from four names recognizable as leading songwriters and producers of Brazilian music: Antonio Carlos Jobim, Roberto Menescal, Milton Nasciemento, and Caetano Veloso. _Rio_ includes two songs each by Jobim and Menescal, and one each by Nasciemento and Veloso.
+![](L1340627x-1200.jpeg)
 
+![](L1340636x-1200.jpeg)
 Starting off the short set is the song “Rio” by Menescal, and the reference to a gentle breeze on the _obi_ sleeve immediately makes itself felt - it’s a comfortable groove from Osawa’s quartet of voice, guitar, sax, and percussion. Next is Jobim’s unmissable “O Morro Não Tem Vez” (“Favela”) with the slick upbeat of a dance feel and a sly smiling expressiveness in the singing.
 
 Track #3 is Veloso’s “Desde Que O Samba É Samba”, with more of that sweet caress of a bossa swing beat. Next is Nascimento’s “Cravo e Canela”, invoking the spirit of a street party taken home to a calmer, controlled after-hours affair where the music doesn’t stop.
+![](L1340644x-1200.jpeg)
 
+![](L1340670x-1200.jpeg)
 Track #5 is Menescal’s “Telefone” played with a vintage bossa feel that breathes with a swinging mod pop-ness, one that would fit nicely as a novelty tune in a humorous scene a la Austin Powers.
 
 Finally, the last track is Jobim’s lovely “Sabiá”, played intimately by Osawa and Yuichiro Hiroaka as a vocals and guitar duet, and the _saudade_ voice of longing and light sadness adds another dimension to the otherwise joyful album.
@@ -29,16 +36,6 @@ Finally, the last track is Jobim’s lovely “Sabiá”, played intimately by O
 
 Under the sun’s gentle rays and carried by a gentle breeze, you sure to be engulfed in a feeling of happiness! <br />
 Finally released, the long-awaited first album from Brazilian music lover Rio Osawa!
-
-{{< figure src="L1340623x-1200.jpeg" >}}
-
-{{< figure src="L1340627x-1200.jpeg" >}}
-
-{{< figure src="L1340636x-1200.jpeg" >}}
-
-{{< figure src="L1340644x-1200.jpeg" >}}
-
-{{< figure src="L1340670x-1200.jpeg" >}}
 
 {{< figure src="L1340663x-1200.jpeg" >}}
 
@@ -79,4 +76,6 @@ _Japanese names: 大澤理央 Osawa Rio 平岡遊一郎 Hiraoka Yuichiro 長澤�
 
 {{< youtube g5lyTBY8jdM >}}
 
--   Excerpt from track #2: [“O Morro Não Tem Vez”](https://www.jazzofjapan.com/archive/audio/#mix-15)
+-   Excerpt from track #2: “O Morro Não Tem Vez” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
+
+{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}

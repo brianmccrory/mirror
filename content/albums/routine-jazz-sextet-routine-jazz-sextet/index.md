@@ -2,7 +2,7 @@
 title = "Routine Jazz Sextet: Routine Jazz Sextet"
 author = ["Brian McCrory"]
 publishDate = 2020-01-21
-tags = ["Tomoyuki Konno 紺野智之", "Shinpei Ruike 類家心平", "Wataru Hamasaki 浜崎航", "Taku Akiyama 秋山卓", "Koichi Sato 佐藤浩一", "Haruhisa Takamichi 高道晴久"]
+tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wataru Hamasaki", "浜崎航", "Taku Akiyama", "秋山卓", "Koichi Sato", "佐藤浩一", "Haruhisa Takamichi", "高道晴久"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,12 +28,12 @@ With nine tracks over 39 minutes, the music is propulsive, boiling and full of e
 
 ## Routine Jazz Sextet by Routine Jazz Sextet {#routine-jazz-sextet-by-routine-jazz-sextet}
 
--   [Tomoyuki Konno](http://tomoyukikonno.blogspot.com/) - drums
--   [Shinpei Ruike](https://ruikeshinpei.com/) - trumpet
--   [Wataru Hamasaki](http://www.watarujazz.com) - flute, tenor sax, soprano sax
--   [Taku Akiyama](http://jmsu.web.fc2.com/taku/) - alto sax
--   [Koichi Sato](https://koichisato.com/) - piano
--   Haruhisa Takamichi - bass
+-   [Tomoyuki Konno](/tags/tomoyuki-konno) - drums
+-   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
+-   [Wataru Hamasaki](/tags/wataru-hamasaki) - flute, tenor sax, soprano sax
+-   [Taku Akiyama](/tags/taku-akiyama) - alto sax
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Haruhisa Takamichi](/tags/haruhisa-takamichi) - bass
 
 Released in 2008 on Routine Records as RCJP-002.
 

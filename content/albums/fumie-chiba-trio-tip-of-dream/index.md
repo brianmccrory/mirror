@@ -2,7 +2,7 @@
 title = "Fumie Chiba Trio: Tip of Dream"
 author = ["Brian McCrory"]
 publishDate = 2018-12-02
-tags = ["Fumie Chiba 千葉史絵", "Koichi Kuniwake 国分航一", "Shigehito Kawamura 川村成史"]
+tags = ["Fumie Chiba", "千葉史絵", "Koichi Kuniwake", "国分航一", "Shigehito Kawamura", "川村成史"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,9 +26,9 @@ Along with the six original songs, Chiba’s reharmonizations and arrangements a
 
 ## Tip of Dream by Fumie Chiba Trio {#tip-of-dream-by-fumie-chiba-trio}
 
--   [Fumie Chiba](https://fumiechiba.com) - piano
--   Koichi Kuniwake - bass
--   Shigehito Kawamura - drums
+-   [Fumie Chiba](/tags/fumie-chiba) - piano
+-   [Koichi Kuniwake](/tags/koichi-kuniwake) - bass
+-   [Shigehito Kawamura](/tags/shigehito-kawamura) - drums
 
 Released in 2009 on TRL Music as TRL-0826.
 

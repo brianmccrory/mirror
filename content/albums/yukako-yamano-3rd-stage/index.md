@@ -2,7 +2,7 @@
 title = "Yukako Yamano: 3rd Stage"
 author = ["Brian McCrory"]
 publishDate = 2022-08-10
-tags = ["Yukako Yamano 山野友佳子"]
+tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,7 +22,7 @@ Differing from the first two releases, this album focuses on her work as a solo 
 
 ## 3rd Stage by Yukako Yamano {#3rd-stage-by-yukako-yamano}
 
--   [Yukako Yamano](https://yukakoyamano.com/) - piano
+-   [Yukako Yamano](/tags/yukako-yamano) - piano
 
 Released in 2017 on Yukako Yamano as YKRN-0003.
 

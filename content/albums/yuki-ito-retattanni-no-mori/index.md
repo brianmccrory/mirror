@@ -3,7 +3,7 @@ title = "Yuki Ito: Retattanni no Mori"
 author = ["Brian McCrory"]
 publishDate = 2024-07-01
 keywords = ["toshihiko-inoue-vayu", "maiko-solo"]
-tags = ["Yuki Ito 伊東佑季"]
+tags = ["Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -101,7 +101,7 @@ Also printed on the album are the words _retat-tat-ni kor nitay_, the title in t
 
 ## Retattanni no Mori by Yuki Ito {#retattanni-no-mori-by-yuki-ito}
 
--   [Yuki Ito](https://yukibass.com/) - bass
+-   [Yuki Ito](/tags/yuki-ito) - bass
 
 Released in 2019 on Yuki Ito as YDM-001.
 

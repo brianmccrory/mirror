@@ -3,7 +3,7 @@ title = "Yosuke Sato & George Nakajima: Longing"
 author = ["Brian McCrory"]
 publishDate = 2025-05-30
 keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
-tags = ["Yosuke Sato 佐藤洋祐", "George Nakajima 中嶋錠二", "Ema エマ"]
+tags = ["Yosuke Sato", "佐藤洋祐", "George Nakajima", "中嶋錠二", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -62,9 +62,9 @@ From an early age, Ema has appeared in musicals and dramas, learning the joy and
 
 ## Longing by Yosuke Sato &amp; George Nakajima {#longing-by-yosuke-sato-and-george-nakajima}
 
--   [Yosuke Sato](https://yosukesato.sub.jp/) - sax
--   [George Nakajima](https://georgenpf.exblog.jp/) - piano
--   [Ema](https://www.sonymusic.co.jp/artist/ema/) - vocals (#7, 8)
+-   [Yosuke Sato](/tags/yosuke-sato) - sax
+-   [George Nakajima](/tags/george-nakajima) - piano
+-   [Ema](/tags/ema) - vocals (#7, 8)
 
 Released in 2023 on Pochizou as POCH-2308.
 

@@ -2,7 +2,7 @@
 title = "Satoshi Kosugi: Bass on Times"
 author = ["Brian McCrory"]
 publishDate = 2018-02-08
-tags = ["Satoshi Kosugi 小杉敏", "Yoshiro Okazaki 岡崎好朗", "Kazuhide Motooka 元岡一英", "Shinji Hashimoto 橋本信二", "Yoshihito Eto 江藤良人"]
+tags = ["Satoshi Kosugi", "小杉敏", "Yoshiro Okazaki", "岡崎好朗", "Kazuhide Motooka", "元岡一英", "Shinji Hashimoto", "橋本信二", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -20,11 +20,11 @@ _Bass on Times_ is a 2009 album from jazz bassist Satoshi Kosugi, a well-known a
 
 ## Bass on Times by Satoshi Kosugi {#bass-on-times-by-satoshi-kosugi}
 
--   [Satoshi Kosugi](http://www7b.biglobe.ne.jp/kosugibass/) - bass
--   [Yoshiro Okazaki](http://www.yoshirojazz.sakura.ne.jp/) - trumpet
--   [Kazuhide Motooka](https://www.discogs.com/artist/1652824-Kazuhide-Motooka) - piano
--   [Shinji Hashimoto](https://session67.jp/interview/05/) - guitar
--   [Yoshihito Eto](http://eto.mockhillrecords.com/) - drums
+-   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet
+-   [Kazuhide Motooka](/tags/kazuhide-motooka) - piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
+-   [Yoshihito Eto](/tags/yoshihito-eto) - drums
 
 Released in 2009 on Pax Box Press as PBP-0001.
 

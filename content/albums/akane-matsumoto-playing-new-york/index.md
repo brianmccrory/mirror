@@ -2,7 +2,7 @@
 title = "Akane Matsumoto: Playing New York"
 author = ["Brian McCrory"]
 publishDate = 2019-02-19
-tags = ["Akane Matsumoto 松本茜", "Nat Reeves", "Joe Farnsworth"]
+tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,9 +27,9 @@ At medium tempos, Matsumoto’s relaxed rhythmic sense is unerringly charming, p
 
 ## Playing New York by Akane Matsumoto {#playing-new-york-by-akane-matsumoto}
 
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   [Nat Reeves](https://natreeves.com/) - bass
--   [Joe Farnsworth](https://www.joefarnsworthdrums.com/) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Nat Reeves](/tags/nat-reeves) - bass
+-   [Joe Farnsworth](/tags/joe-farnsworth) - drums
 
 Released in 2010 on TK Entertainment as QACK-35007.
 

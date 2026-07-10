@@ -3,7 +3,7 @@ title = "Emiko Voice: Standard Trio"
 author = ["Brian McCrory"]
 publishDate = 2023-10-15
 keywords = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
-tags = ["Emiko Voice エミコヴォイス", "Keisuke Ohta 太田惠資", "Atsushi Abe 阿部篤志"]
+tags = ["Emiko Voice", "エミコヴォイス", "Keisuke Ohta", "太田惠資", "Atsushi Abe", "阿部篤志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,9 +28,9 @@ The other album tracks include “Azure”, a dreamy, drifting tune from Duke El
 
 ## Standard Trio by Emiko Voice {#standard-trio-by-emiko-voice}
 
--   [Emiko Voice](http://www.emikovoice.com/) - voice, percussions, kalimba
--   [Keisuke Ohta](http://violin-ohta.cside.com/) - violin, voice
--   Atsushi Abe - piano
+-   [Emiko Voice](/tags/emiko-voice) - voice, percussions, kalimba
+-   [Keisuke Ohta](/tags/keisuke-ohta) - violin, voice
+-   [Atsushi Abe](/tags/atsushi-abe) - piano
 
 Released in 2022 on GardenNotes Music as GNM-1018.
 

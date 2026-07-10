@@ -2,7 +2,7 @@
 title = "George Nakajima Trio: First Touch"
 author = ["Brian McCrory"]
 publishDate = 2023-06-02
-tags = ["George Nakajima 中嶋錠二", "Yutaka Yoshida 吉田豊", "Masanori Ando 安藤正則"]
+tags = ["George Nakajima", "中嶋錠二", "Yutaka Yoshida", "吉田豊", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -57,9 +57,9 @@ _2021.4 George Nakajima_
 
 ## First Touch by George Nakajima Trio {#first-touch-by-george-nakajima-trio}
 
--   [George Nakajima](https://georgenpf.exblog.jp/) - piano
--   [Yutaka Yoshida](https://yutakayoshidasho.wordpress.com/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [George Nakajima](/tags/george-nakajima) - piano
+-   [Yutaka Yoshida](/tags/yutaka-yoshida) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2021 on Owl Wing Record as OWL-022.
 

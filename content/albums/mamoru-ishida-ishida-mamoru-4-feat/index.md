@@ -3,7 +3,7 @@ title = "Mamoru Ishida: Ishida Mamoru 4 feat. Mike Rivett"
 author = ["Brian McCrory"]
 publishDate = 2023-09-22
 keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
-tags = ["Mamoru Ishida 石田衛", "Mike Rivett", "Show Kudo 工藤精", "Ko Omura 大村亘"]
+tags = ["Mamoru Ishida", "石田衛", "Mike Rivett", "Show Kudo", "工藤精", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -80,10 +80,10 @@ The microphone used to capture the piano sound is a 1930s Westrex ribbon mic. Th
 
 ## Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida {#ishida-mamoru-4-feat-dot-mike-rivett-by-mamoru-ishida}
 
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Mike Rivett](https://www.mikerivett.com/) - saxophone
--   [Show Kudo](https://showgun65.exblog.jp/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Mike Rivett](/tags/mike-rivett) - saxophone
+-   [Show Kudo](/tags/show-kudo) - bass
+-   [Ko Omura](/tags/ko-omura) - drums
 
 Released in 2011 on Anturtle Analog Recordings as ANTX-1002.
 

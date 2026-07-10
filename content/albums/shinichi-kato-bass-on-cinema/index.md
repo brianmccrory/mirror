@@ -2,7 +2,7 @@
 title = "Shinichi Kato: Bass on Cinema"
 author = ["Brian McCrory"]
 publishDate = 2019-09-27
-tags = ["Shinichi Kato 加藤真一", "Taihei Asakawa 浅川太平"]
+tags = ["Shinichi Kato", "加藤真一", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,8 +25,8 @@ Other album highlights include music from the Italian classic _Cinema Paradiso_ 
 
 ## Bass on Cinema by Shinichi Kato {#bass-on-cinema-by-shinichi-kato}
 
--   [Shinichi Kato](https://katoshinichi.net/) - bass
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano, synthesizers, arrangements
+-   [Shinichi Kato](/tags/shinichi-kato) - bass
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano, synthesizers, arrangements
 
 Released in 2011 on Roving Spirits as RKCJ-2048.
 

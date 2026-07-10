@@ -3,7 +3,7 @@ title = "Harumi Nomoto Trio: Anitya"
 author = ["Brian McCrory"]
 publishDate = 2026-01-18
 keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
-tags = ["Harumi Nomoto 野本晴美", "Ryoji Orihara 織原良次", "Sohnosuke Imaizumi 今泉総之輔"]
+tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -79,9 +79,9 @@ I created this song while imagining waves coming in and going out. I borrowed th
 
 ## Anitya by Harumi Nomoto Trio {#anitya-by-harumi-nomoto-trio}
 
--   [Harumi Nomoto](https://haruminomoto.jimdofree.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
+-   [Harumi Nomoto](/tags/harumi-nomoto) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
 
 Released in 2025 on Okra Record as MIKO-9001.
 

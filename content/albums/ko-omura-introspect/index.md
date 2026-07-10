@@ -2,7 +2,7 @@
 title = "Ko Omura: Introspect"
 author = ["Brian McCrory"]
 publishDate = 2018-07-17
-tags = ["Hakuei Kim ハクエイ・キム", "Koichi Sato 佐藤浩一", "Mamoru Ishida 石田衛", "Koji Yasuda 安田幸司", "Ko Omura 大村亘"]
+tags = ["Hakuei Kim", "ハクエイ・キム", "Koichi Sato", "佐藤浩一", "Mamoru Ishida", "石田衛", "Koji Yasuda", "安田幸司", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ A creative aspect used on this recording is the collaboration of three pianists 
 
 ## Introspect by Ko Omura {#introspect-by-ko-omura}
 
--   [Hakuei Kim](https://www.universal-music.co.jp/hakuei-kim/) - piano
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums
+-   [Hakuei Kim](/tags/hakuei-kim) - piano
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Ko Omura](/tags/ko-omura) - drums
 
 Released in 2011 on Daiki Musica as DMCD-12.
 

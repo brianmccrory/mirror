@@ -2,7 +2,7 @@
 title = "Kaori Vibes Quartet: Cross Point"
 author = ["Brian McCrory"]
 publishDate = 2018-03-23
-tags = ["Kaori Nakajima 中島香里", "Tamashi Goto 後藤魂", "Minoru Yoshiki 吉木稔", "Masanori Ando 安藤正則"]
+tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,10 +22,10 @@ Starting with the high-energy “Cross Point”, the quartet explores directions
 
 ## Cross Point by Kaori Vibes Quartet {#cross-point-by-kaori-vibes-quartet}
 
--   [Kaori Nakajima](https://qqvibnkaoripp.wixsite.com/jazz-vibist-kaori-na) - vibraphone
--   [Tamashi Goto](https://ameblo.jp/jazzsoul-tamapi/) - piano
--   [Minoru Yoshiki](https://yoshikiminoru.com/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2016 on Urban Jazz as 151A-0017.
 

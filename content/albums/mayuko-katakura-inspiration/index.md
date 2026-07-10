@@ -2,7 +2,7 @@
 title = "Mayuko Katakura: Inspiration"
 author = ["Brian McCrory"]
 publishDate = 2018-03-01
-tags = ["Mayuko Katakura 片倉真由子", "Yasushi Nakamura 中村恭士", "Carl Allen"]
+tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carl Allen"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,9 +22,9 @@ In addition to speed, Katakura’s confident jazz piano sense extends to bluesy 
 
 ## Inspiration by Mayuko Katakura {#inspiration-by-mayuko-katakura}
 
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Yasushi Nakamura](https://www.yasushinakamurabass.com/) - bass
--   [Carl Allen](https://carlallen.com/) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
+-   [Carl Allen](/tags/carl-allen) - drums
 
 Released in 2009 on Pony Canyon as MYCJ-30554.
 

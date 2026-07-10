@@ -2,7 +2,7 @@
 title = "Zephyr: Zephyr"
 author = ["Brian McCrory"]
 publishDate = 2019-03-21
-tags = ["Toshihiko Inoue 井上淑彦", "Teiji Taguchi 田口悌治", "Takashi Amano 天野丘"]
+tags = ["Toshihiko Inoue", "井上淑彦", "Teiji Taguchi", "田口悌治", "Takashi Amano", "天野丘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ Aside from original compositions, the album also features the jazz standard “S
 
 ## Zephyr by Zephyr {#zephyr-by-zephyr}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - soprano, tenor sax
--   [Teiji Taguchi](https://tag-gtr.wixsite.com/home) - acoustic guitar
--   [Takashi Amano](https://blog.goo.ne.jp/amaqguitar) - electric guitar
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano, tenor sax
+-   [Teiji Taguchi](/tags/teiji-taguchi) - acoustic guitar
+-   [Takashi Amano](/tags/takashi-amano) - electric guitar
 
 Released in 2013 on What’s New Records as WNCJ-2249.
 

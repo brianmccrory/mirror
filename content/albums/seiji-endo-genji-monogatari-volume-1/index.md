@@ -2,7 +2,7 @@
 title = "Seiji Endo: Genji Monogatari Volume 1"
 author = ["Brian McCrory"]
 publishDate = 2019-07-16
-tags = ["Seiji Endo 遠藤征志"]
+tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,7 +26,7 @@ Set among these musical facets, the listener may also pick up hints to classical
 
 ## Genji Monogatari Volume 1 by Seiji Endo {#genji-monogatari-volume-1-by-seiji-endo}
 
--   [Seiji Endo](https://seiji-piano-endo.com/) - solo piano and compositions
+-   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
 
 Released in 2018 on Nippon Acoustic Records as NARP-8015.
 

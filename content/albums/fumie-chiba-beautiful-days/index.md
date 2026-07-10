@@ -2,7 +2,7 @@
 title = "Fumie Chiba: Beautiful Days"
 author = ["Brian McCrory"]
 publishDate = 2021-05-27
-tags = ["Fumie Chiba 千葉史絵", "Mitsuru Tanaka 田中充", "Shunosuke Ishikawa 石川周之介", "Aya Kurosawa 黒沢綾", "Koji Tetsui 鉄井孝司", "Kaoru Suzuki 鈴木郁"]
+tags = ["Fumie Chiba", "千葉史絵", "Mitsuru Tanaka", "田中充", "Shunosuke Ishikawa", "石川周之介", "Aya Kurosawa", "黒沢綾", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,12 +28,12 @@ Most songs feature the full group, with songs for two piano trio and one solo pi
 
 ## Beautiful Days by Fumie Chiba {#beautiful-days-by-fumie-chiba}
 
--   [Fumie Chiba](https://fumiechiba.com) - piano
--   [Mitsuru Tanaka](https://mitzru.bitfan.id/) - trumpet, flugelhorn
--   [Shunosuke Ishikawa](http://shunosuke.com/) - tenor sax, soprano sax, flute
--   [Aya Kurosawa](https://ayakurosawa.me/) - voice
--   [Koji Tetsui](https://www.instagram.com/koztet/) - bass
--   [Kaoru Suzuki](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M4541) - drums
+-   [Fumie Chiba](/tags/fumie-chiba) - piano
+-   [Mitsuru Tanaka](/tags/mitsuru-tanaka) - trumpet, flugelhorn
+-   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa) - tenor sax, soprano sax, flute
+-   [Aya Kurosawa](/tags/aya-kurosawa) - voice
+-   [Koji Tetsui](/tags/koji-tetsui) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
 
 Released in 2017 on USAGI Records as UR-002.
 

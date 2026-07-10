@@ -2,7 +2,7 @@
 title = "Noriko Satomi: A Love Supreme"
 author = ["Brian McCrory"]
 publishDate = 2020-01-30
-tags = ["Noriko Satomi 里見紀子", "Masaaki Imaizumi 今泉正明", "Shin Kamimura 上村信", "Masahiko Osaka 大坂昌彦"]
+tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Shin Kamimura", "上村信", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -31,10 +31,10 @@ Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([Jan
 
 ## A Love Supreme by Noriko Satomi {#a-love-supreme-by-noriko-satomi}
 
--   [Noriko Satomi](https://project-nori.wixsite.com/mysite) - violin
--   [Masaaki Imaizumi](http://masaaki-imaizumi.music.coocan.jp/) - piano
--   [Shin Kamimura](http://kamimurashinbass.g2.xrea.com/) - bass
--   [Masahiko Osaka](https://osaka-masahiko.com/) - drums
+-   [Noriko Satomi](/tags/noriko-satomi) - violin
+-   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
+-   [Shin Kamimura](/tags/shin-kamimura) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka) - drums
 
 Released in 2019 on T-Toc Records as TTOC-0032.
 

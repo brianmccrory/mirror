@@ -2,7 +2,7 @@
 title = "Seiji Endo: Tsutaete Ikou"
 author = ["Brian McCrory"]
 publishDate = 2018-03-11
-tags = ["Hiroco Nagano 永野寛子", "Shinya Nitta 仁田真也", "Seiji Endo 遠藤征志", "Yasuhiro Hasegawa 長谷川泰弘", "Yoshiyuki Nakaya 中屋啓之", "Arata Umehara 梅原新"]
+tags = ["Hiroco Nagano", "永野寛子", "Shinya Nitta", "仁田真也", "Seiji Endo", "遠藤征志", "Yasuhiro Hasegawa", "長谷川泰弘", "Yoshiyuki Nakaya", "中屋啓之", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,12 +23,12 @@ The CD contains three versions of the song “Tsutaete Ikou”, and proceeds wer
 
 ## Tsutaete Ikou by Seiji Endo {#tsutaete-ikou-by-seiji-endo}
 
--   [Hiroco Nagano](https://hiroconaganoofficial.amebaownd.com/) - vocal
--   Shinya Nitta - vocal
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano, vocals
--   Yasuhiro Hasegawa - bass (#2)
--   Yoshiyuki Nakaya - drums (#2)
--   [Arata Umehara](https://www.aratata.com/) - guitar (#2)
+-   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
+-   [Shinya Nitta](/tags/shinya-nitta) - vocal
+-   [Seiji Endo](/tags/seiji-endo) - piano, vocals
+-   [Yasuhiro Hasegawa](/tags/yasuhiro-hasegawa) - bass (#2)
+-   [Yoshiyuki Nakaya](/tags/yoshiyuki-nakaya) - drums (#2)
+-   [Arata Umehara](/tags/arata-umehara) - guitar (#2)
 
 Released in 2015 on Music Art Records as MAR-1501.
 

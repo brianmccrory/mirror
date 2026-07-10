@@ -3,7 +3,7 @@ title = "Miyuki Moriya: Beyond the Sea"
 author = ["Brian McCrory"]
 publishDate = 2025-02-09
 keywords = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", "miyuki-moriya-uta-oto"]
-tags = ["Miyuki Moriya 守谷美由貴", "Kosuke Mine 峰厚介", "Mamoru Ishida 石田衛", "Junichi Sato 佐藤潤一", "Sohnosuke Imaizumi 今泉総之輔"]
+tags = ["Miyuki Moriya", "守谷美由貴", "Kosuke Mine", "峰厚介", "Mamoru Ishida", "石田衛", "Junichi Sato", "佐藤潤一", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -91,11 +91,11 @@ The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor p
 
 ## Beyond the Sea by Miyuki Moriya {#beyond-the-sea-by-miyuki-moriya}
 
--   [Miyuki Moriya](https://www.tunecore.co.jp/artists?id=841864) - alto sax, soprano sax
--   [Kosuke Mine](http://www.aomori-net.ne.jp/~yamagen/mine/top.htm) - tenor sax (#2, 3, 5, 6, 7)
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Junichi Sato](https://www.instagram.com/jun3321mimi/) - bass
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
+-   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax, soprano sax
+-   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (#2, 3, 5, 6, 7)
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Junichi Sato](/tags/junichi-sato) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
 
 Released in 2024 on Coume Music as CUM-2401.
 

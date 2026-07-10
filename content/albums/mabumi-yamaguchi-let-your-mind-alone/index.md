@@ -3,7 +3,7 @@ title = "Mabumi Yamaguchi: Let Your Mind Alone"
 author = ["Brian McCrory"]
 publishDate = 2019-11-19
 keywords = ["naoko-tanaka-appreciation"]
-tags = ["Mabumi Yamaguchi 山口真文", "Yoshitaka Shoji 東海林由孝", "Misato Okumura 奥村美里", "Ryohei Komaki 小牧良平", "Nobuyuki Komatsu 小松伸之"]
+tags = ["Mabumi Yamaguchi", "山口真文", "Yoshitaka Shoji", "東海林由孝", "Misato Okumura", "奥村美里", "Ryohei Komaki", "小牧良平", "Nobuyuki Komatsu", "小松伸之"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -80,11 +80,11 @@ After finishing this album, Mabumi Yamaguchi said his appetite for composing was
 
 ## Let Your Mind Alone by Mabumi Yamaguchi {#let-your-mind-alone-by-mabumi-yamaguchi}
 
--   [Mabumi Yamaguchi](https://mabumi.com/) - Tenor &amp; Soprano Sax
--   [Yoshitaka Shoji](https://shoji-yoshitaka.blogspot.com/) - guitar
--   Misato Okumura - piano
--   [Ryohei Komaki](https://rkomaki.jimdofree.com/) - bass
--   [Nobuyuki Komatsu](http://nobuyukikoma2.web.fc2.com/) - drums
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - Tenor &amp; Soprano Sax
+-   [Yoshitaka Shoji](/tags/yoshitaka-shoji) - guitar
+-   [Misato Okumura](/tags/misato-okumura) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki) - bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums
 
 Released in 2017 on Spice of Life as SOLJP-0015.
 

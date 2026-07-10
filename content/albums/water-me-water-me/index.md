@@ -2,7 +2,7 @@
 title = "Water Me!: Water Me!"
 author = ["Brian McCrory"]
 publishDate = 2021-02-26
-tags = ["Ayako Taira 平良亜矢子", "Noriko Kotani 小谷のりこ", "Norihiko Kawakubo 川久保典彦", "Yohei Tanaka 田中洋平", "Tomohiro Ota 大田智洋"]
+tags = ["Ayako Taira", "平良亜矢子", "Noriko Kotani", "小谷のりこ", "Norihiko Kawakubo", "川久保典彦", "Yohei Tanaka", "田中洋平", "Tomohiro Ota", "大田智洋"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ Along with jazz swing, the album also features bossa on “The Girl From Ipanema
 
 ## Water Me! by Water Me! {#water-me-by-water-me}
 
--   [Ayako Taira](https://blog.goo.ne.jp/tairaayako) - vocal
--   [Noriko Kotani](https://norikokotani.amebaownd.com/) - vocal
--   [Norihiko Kawakubo](https://kawakubo.world/) - piano
--   [Yohei Tanaka](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=14647) - bass
--   Tomohiro Ota - drums
+-   [Ayako Taira](/tags/ayako-taira) - vocal
+-   [Noriko Kotani](/tags/noriko-kotani) - vocal
+-   [Norihiko Kawakubo](/tags/norihiko-kawakubo) - piano
+-   [Yohei Tanaka](/tags/yohei-tanaka) - bass
+-   [Tomohiro Ota](/tags/tomohiro-ota) - drums
 
 Released in 2014 on Sunmoon Music as SMCD-0005.
 

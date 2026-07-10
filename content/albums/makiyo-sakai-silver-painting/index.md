@@ -3,7 +3,7 @@ title = "Makiyo Sakai: Silver Painting"
 author = ["Brian McCrory"]
 publishDate = 2024-11-01
 keywords = ["banda-feliz-boa-viagem"]
-tags = ["Makiyo Sakai 酒井麻生代", "Yoshihiko Naya 納谷嘉彦", "Masayuki Tawarayama 俵山昌之", "Akira Yamada 山田玲", "Jun Kimura 木村純"]
+tags = ["Makiyo Sakai", "酒井麻生代", "Yoshihiko Naya", "納谷嘉彦", "Masayuki Tawarayama", "俵山昌之", "Akira Yamada", "山田玲", "Jun Kimura", "木村純"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -98,11 +98,11 @@ This is the third movement from _Suite Bergamaque_, a four-part piano solo piece
 
 ## Silver Painting by Makiyo Sakai {#silver-painting-by-makiyo-sakai}
 
--   [Makiyo Sakai](https://makiyo327.wixsite.com/flute) - flute
--   [Yoshihiko Naya](https://naya0327goma-piano6.wixsite.com/website) - piano/Rhodes
--   [Masayuki Tawarayama](https://www.discogs.com/artist/1087833-Masayuki-Tawarayama) - bass
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
--   [Jun Kimura](https://jun-kimura.jp/) - acoustic guitar (#2, 7)
+-   [Makiyo Sakai](/tags/makiyo-sakai) - flute
+-   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano/Rhodes
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass
+-   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Jun Kimura](/tags/jun-kimura) - acoustic guitar (#2, 7)
 
 Released in 2016 on Pony Canyon as PCCY-30231.
 

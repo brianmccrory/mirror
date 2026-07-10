@@ -3,7 +3,7 @@ title = "Clepsydra: Un Jour"
 author = ["Brian McCrory"]
 publishDate = 2024-09-20
 keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
-tags = ["Toshihiko Inoue 井上淑彦", "Yoshiaki Sato 佐藤芳明", "Masaki Hayashi 林正樹", "Saori Sendo 仙道さおり"]
+tags = ["Toshihiko Inoue", "井上淑彦", "Yoshiaki Sato", "佐藤芳明", "Masaki Hayashi", "林正樹", "Saori Sendo", "仙道さおり"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -54,10 +54,10 @@ The first album from Toshihiko Inoue’s “Clepsydra”.
 
 ## Un Jour by Clepsydra {#un-jour-by-clepsydra}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - tenor sax, soprano sax
--   [Yoshiaki Sato](https://accsssaaatttooo.wixsite.com/yyysssaaatttooo) - accordion, clavietta, chorus
--   [Masaki Hayashi](http://www.c-a-s-net.co.jp/masaki/) - piano, chorus
--   [Saori Sendo](http://www.c-a-s-net.co.jp/saoli/) - percussion, glockenspiel, chorus
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
+-   [Yoshiaki Sato](/tags/yoshiaki-sato) - accordion, clavietta, chorus
+-   [Masaki Hayashi](/tags/masaki-hayashi) - piano, chorus
+-   [Saori Sendo](/tags/saori-sendo) - percussion, glockenspiel, chorus
 
 Released in 2011 on Casnet Music as CSNT-8006.
 

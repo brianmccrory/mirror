@@ -2,7 +2,7 @@
 title = "Takako Yamada: The Flow of Time"
 author = ["Brian McCrory"]
 publishDate = 2018-07-27
-tags = ["Takako Yamada 山田貴子", "Shinpei Ruike 類家心平", "Teriver Cheung", "Koji Yasuda 安田幸司", "Gaku Hasegawa 長谷川ガク", "Ko Omura 大村亘"]
+tags = ["Takako Yamada", "山田貴子", "Shinpei Ruike", "類家心平", "Teriver Cheung", "Koji Yasuda", "安田幸司", "Gaku Hasegawa", "長谷川ガク", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,12 +25,12 @@ For added variety, a wonderfully plaintive trumpet is present on several tracks 
 
 ## The Flow of Time by Takako Yamada {#the-flow-of-time-by-takako-yamada}
 
--   [Takako Yamada](https://takakoyamada.amebaownd.com/) - piano
--   [Shinpei Ruike](https://ruikeshinpei.com/) - trumpet
--   [Teriver Cheung](https://www.instagram.com/terivercheung/) - guitar
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Gaku Hasegawa](http://www.gakudrum.com/) - drums
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - tabla, drums
+-   [Takako Yamada](/tags/takako-yamada) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
+-   [Teriver Cheung](/tags/teriver-cheung) - guitar
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Gaku Hasegawa](/tags/gaku-hasegawa) - drums
+-   [Ko Omura](/tags/ko-omura) - tabla, drums
 
 Released in 2013 on GoodNessPlus Records as GNPR-1146.
 

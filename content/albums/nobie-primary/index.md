@@ -3,7 +3,7 @@ title = "Nobie: Primary"
 author = ["Brian McCrory"]
 publishDate = 2024-09-06
 keywords = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
-tags = ["Nobie ノビー", "Toninho Horta", "Junichiro Ohkuchi 大口純一郎", "Shikou Ito 伊藤志宏", "Kohzo Komori 小森耕造", "Satoshi Yoshida 吉田サトシ", "Yoshihito “P” Koizumi 小泉P克人", "Yuri Dazai 太宰百合", "Satoshi Ishikawa 石川智", "Satoshi Sano 佐野聡"]
+tags = ["Nobie", "ノビー", "Toninho Horta", "Junichiro Ohkuchi", "大口純一郎", "Shikou Ito", "伊藤志宏", "Kohzo Komori", "小森耕造", "Satoshi Yoshida", "吉田サトシ", "Yoshihito “P” Koizumi", "小泉P克人", "Yuri Dazai", "太宰百合", "Satoshi Ishikawa", "石川智", "Satoshi Sano", "佐野聡"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -47,16 +47,16 @@ Similarly, on _Primary_, Nobie sings in Japanese for five tracks, English for th
 
 ## Primary by Nobie {#primary-by-nobie}
 
--   [Nobie](https://nobie.net/) - vocals, handclaps, microKORG, shaker
--   [Toninho Horta](http://www.toninhohorta.com.br/) - vocals &amp; acoustic guitars (#1, 11)
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano (#8)
--   [Shikou Ito](https://www.shikoupf.com/) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
--   [Kohzo Komori](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2163) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
--   [Satoshi Yoshida](https://www.satoshiguitar.com/) - electric and acoustic guitars (#4, 5, 6, 9, 10)
--   [Yoshihito “P” Koizumi](https://www.yoshihitopkoizumi.com/) - electric bass (#4, 6, 7, 9)
--   [Yuri Dazai](https://yuridazai.com/) - piano &amp; keyboard (#6, 9)
--   [Satoshi Ishikawa](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=2841) - percussions (#5)
--   [Satoshi Sano](http://satoshi-sano.net/) - flute (#9)
+-   [Nobie](/tags/nobie) - vocals, handclaps, microKORG, shaker
+-   [Toninho Horta](/tags/toninho-horta) - vocals &amp; acoustic guitars (#1, 11)
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano (#8)
+-   [Shikou Ito](/tags/shikou-ito) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
+-   [Kohzo Komori](/tags/kohzo-komori) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
+-   [Satoshi Yoshida](/tags/satoshi-yoshida) - electric and acoustic guitars (#4, 5, 6, 9, 10)
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - electric bass (#4, 6, 7, 9)
+-   [Yuri Dazai](/tags/yuri-dazai) - piano &amp; keyboard (#6, 9)
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa) - percussions (#5)
+-   [Satoshi Sano](/tags/satoshi-sano) - flute (#9)
 
 Released in 2011 on Anturtle Tune as ANTX-0721.
 

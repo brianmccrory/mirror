@@ -2,7 +2,7 @@
 title = "Koichi Sato: Melancholy of a Journey"
 author = ["Brian McCrory"]
 publishDate = 2018-02-20
-tags = ["Koichi Sato 佐藤浩一", "Tokuhiro Doi 土井徳浩", "Motohiko Ichino 市野元彦", "Harutoshi Ito 伊藤ハルトシ", "Hiroki Chiba 千葉広樹", "Ryo Noritake 則武諒"]
+tags = ["Koichi Sato", "佐藤浩一", "Tokuhiro Doi", "土井徳浩", "Motohiko Ichino", "市野元彦", "Harutoshi Ito", "伊藤ハルトシ", "Hiroki Chiba", "千葉広樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,12 +24,12 @@ From this setting and throughout the rest of the album, beautiful music blossoms
 
 ## Melancholy of a Journey by Koichi Sato {#melancholy-of-a-journey-by-koichi-sato}
 
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Tokuhiro Doi](https://www.doitoku.com/) - clarinet, bass clarinet
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Harutoshi Ito](https://www.itoharutoshi.com) - cello
--   [Hiroki Chiba](https://linktr.ee/Hirokichiba) - double bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet, bass clarinet
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Harutoshi Ito](/tags/harutoshi-ito) - cello
+-   [Hiroki Chiba](/tags/hiroki-chiba) - double bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
 
 Released in 2016 on Song X Jazz as SONG X 038.
 

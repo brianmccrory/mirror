@@ -2,7 +2,7 @@
 title = "Yuichiro Aratake: Music Make Us One"
 author = ["Brian McCrory"]
 publishDate = 2023-06-30
-tags = ["Yuichiro Aratake 荒武裕一朗", "Kunio Oinuma 生沼邦夫", "Koichi Inoue 井上功一", "Koei Tanaka 田中光栄", "Ryutaro Makino 牧野竜太郎", "Naomi Urushibara 漆原直美", "Leina Ushiyama 牛山玲名", "Kanae Shima 志摩かなえ", "Asami Matsuda 松田麻美", "Daisuke Tomita 富田大輔", "Ryosuke Sato 佐藤良輔", "Takefumi Shirasa 白佐武史", "Masato Kubo 久保公人"]
+tags = ["Yuichiro Aratake", "荒武裕一朗", "Kunio Oinuma", "生沼邦夫", "Koichi Inoue", "井上功一", "Koei Tanaka", "田中光栄", "Ryutaro Makino", "牧野竜太郎", "Naomi Urushibara", "漆原直美", "Leina Ushiyama", "牛山玲名", "Kanae Shima", "志摩かなえ", "Asami Matsuda", "松田麻美", "Daisuke Tomita", "富田大輔", "Ryosuke Sato", "佐藤良輔", "Takefumi Shirasa", "白佐武史", "Masato Kubo", "久保公人"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,19 +24,19 @@ In addition to bluesy songs, romantic ballads, and pop, the album’s jazzier mo
 
 ## Music Make Us One by Yuichiro Aratake {#music-make-us-one-by-yuichiro-aratake}
 
--   [Yuichiro Aratake](http://www.aratakeyuichiro.com/) - piano
--   Kunio Oinuma - bass
--   Koichi Inoue - drums
--   [Koei Tanaka](https://www.tanakakoei.com/) - harmonica
--   [Ryutaro Makino](http://www.ryutaromakino.com/) - vocal
--   [Naomi Urushibara](http://naomiurushibara.com/) - violin
--   [Leina Ushiyama](http://leina017.jugem.jp/) - violin
--   [Kanae Shima](https://afia.info/%E5%BF%97%E6%91%A9%E3%81%8B%E3%81%AA%E3%81%88-3/) - violin
--   Asami Matsuda - violin
--   Daisuke Tomita - viola
--   Ryosuke Sato - viola
--   [Takefumi Shirasa](https://www.shirasatakefumi.com/) - cello
--   Masato Kubo - cello
+-   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
+-   [Kunio Oinuma](/tags/kunio-oinuma) - bass
+-   [Koichi Inoue](/tags/koichi-inoue) - drums
+-   [Koei Tanaka](/tags/koei-tanaka) - harmonica
+-   [Ryutaro Makino](/tags/ryutaro-makino) - vocal
+-   [Naomi Urushibara](/tags/naomi-urushibara) - violin
+-   [Leina Ushiyama](/tags/leina-ushiyama) - violin
+-   [Kanae Shima](/tags/kanae-shima) - violin
+-   [Asami Matsuda](/tags/asami-matsuda) - violin
+-   [Daisuke Tomita](/tags/daisuke-tomita) - viola
+-   [Ryosuke Sato](/tags/ryosuke-sato) - viola
+-   [Takefumi Shirasa](/tags/takefumi-shirasa) - cello
+-   [Masato Kubo](/tags/masato-kubo) - cello
 
 Released in 2010 on Urban Jazz as 151A-0003.
 

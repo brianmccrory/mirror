@@ -3,7 +3,7 @@ title = "Hitomi Aikawa: Sweet"
 author = ["Brian McCrory"]
 publishDate = 2025-10-11
 keywords = ["magnolia-el-viento-y-las-flores"]
-tags = ["Hitomi Aikawa 相川瞳", "Masaki Hayashi 林正樹", "Hiroshi Suzuki 鈴木広志", "Megumi Hattori 服部恵", "Eri Uenoyama 上野山英里"]
+tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹", "Hiroshi Suzuki", "鈴木広志", "Megumi Hattori", "服部恵", "Eri Uenoyama", "上野山英里"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -114,11 +114,11 @@ Hitomi Aikawa
 
 ## Sweet by Hitomi Aikawa {#sweet-by-hitomi-aikawa}
 
--   [Hitomi Aikawa](https://www.hitomiaikawa.com/) - percussion
--   [Masaki Hayashi](http://www.c-a-s-net.co.jp/masaki/) - piano (#2, 11, 13, 14)
--   [Hiroshi Suzuki](http://www.suzuki-hiroshi.com/) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
--   [Megumi Hattori](https://www.megumi-hattori.com/) - vibraphone (#4)
--   [Eri Uenoyama](https://eriuenoyama.jimdofree.com/) - piano (#8, 9)
+-   [Hitomi Aikawa](/tags/hitomi-aikawa) - percussion
+-   [Masaki Hayashi](/tags/masaki-hayashi) - piano (#2, 11, 13, 14)
+-   [Hiroshi Suzuki](/tags/hiroshi-suzuki) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
+-   [Megumi Hattori](/tags/megumi-hattori) - vibraphone (#4)
+-   [Eri Uenoyama](/tags/eri-uenoyama) - piano (#8, 9)
 
 Released in 2018 on Hitomi Aikawa as HICD-001.
 

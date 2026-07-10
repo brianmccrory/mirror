@@ -3,7 +3,7 @@ title = "Mamoru Ishida: Afterglow"
 author = ["Brian McCrory"]
 publishDate = 2024-10-11
 keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-ishida-mamoru-4-feat", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin", "miwo-tranquillo", "nami-kano-mawsim"]
-tags = ["Mamoru Ishida 石田衛", "Ryohei Komaki 小牧良平", "Kaito Nakamura 中村海斗"]
+tags = ["Mamoru Ishida", "石田衛", "Ryohei Komaki", "小牧良平", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -82,9 +82,9 @@ This is jazz pianist Mamoru Ishida’s most important priority.
 
 ## Afterglow by Mamoru Ishida {#afterglow-by-mamoru-ishida}
 
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Ryohei Komaki](https://rkomaki.jimdofree.com/) - bass
--   [Kaito Nakamura](https://www.instagram.com/kaito_nkmr_d/) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura) - drums
 
 Released in 2023 on Days of Delight as DOD-039.
 

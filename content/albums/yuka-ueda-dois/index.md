@@ -2,7 +2,7 @@
 title = "Yuka Ueda: Dois"
 author = ["Brian McCrory"]
 publishDate = 2021-02-05
-tags = ["Yuka Ueda 上田裕香", "Junichiro Ohkuchi 大口純一郎", "Ryoji Orihara 織原良次", "Nobuyuki Komatsu 小松伸之", "Shinji Hashimoto 橋本信二", "Jo da Babylonia ジョー・ダ・バビロニア"]
+tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ryoji Orihara", "織原良次", "Nobuyuki Komatsu", "小松伸之", "Shinji Hashimoto", "橋本信二", "Jo da Babylonia", "ジョー・ダ・バビロニア"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,12 +26,12 @@ As with her debut album _Agora_, the singer is supported by her familiar guitar 
 
 ## Dois by Yuka Ueda {#dois-by-yuka-ueda}
 
--   [Yuka Ueda](http://yuuka-agora.com/wp/) - vocal
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - electric fretless bass
--   [Nobuyuki Komatsu](http://nobuyukikoma2.web.fc2.com/) - drums
--   [Shinji Hashimoto](https://session67.jp/interview/05/) - electric guitar (#1, 5, 7)
--   [Jo da Babylonia](http://jobaby.jp/) - cavaquinho (#1, 8, 9)
+-   [Yuka Ueda](/tags/yuka-ueda) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums
+-   [Shinji Hashimoto](/tags/shinji-hashimoto) - electric guitar (#1, 5, 7)
+-   [Jo da Babylonia](/tags/jo-da-babylonia) - cavaquinho (#1, 8, 9)
 
 Released in 2013 on Audio Fab Records as AFD-110.
 

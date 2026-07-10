@@ -3,7 +3,7 @@ title = "FNK: Canvas"
 author = ["Brian McCrory"]
 publishDate = 2023-09-15
 keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
-tags = ["Fumie Chiba 千葉史絵", "Nao Teraya 寺屋ナオ", "Kaoru Suzuki 鈴木郁"]
+tags = ["Fumie Chiba", "千葉史絵", "Nao Teraya", "寺屋ナオ", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -84,9 +84,9 @@ The reminiscence of a short and simple motif appears several times. From the alb
 
 ## Canvas by FNK {#canvas-by-fnk}
 
--   [Fumie Chiba](https://fumiechiba.com) - piano
--   [Nao Teraya](http://www.naoteraya.com/) - guitar
--   [Kaoru Suzuki](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M4541) - drums
+-   [Fumie Chiba](/tags/fumie-chiba) - piano
+-   [Nao Teraya](/tags/nao-teraya) - guitar
+-   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
 
 Released in 2022 on Fumie Chiba as UR-003.
 

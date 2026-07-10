@@ -3,7 +3,7 @@ title = "Takumi Seino & Motohiko Ichino: Frozen Dust"
 author = ["Brian McCrory"]
 publishDate = 2024-05-11
 keywords = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices"]
-tags = ["Takumi Seino 清野拓巳", "Motohiko Ichino 市野元彦"]
+tags = ["Takumi Seino", "清野拓巳", "Motohiko Ichino", "市野元彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -53,8 +53,8 @@ As a final, perhaps trivial, note, there is a brief out-of-place moment near the
 
 ## Frozen Dust by Takumi Seino &amp; Motohiko Ichino {#frozen-dust-by-takumi-seino-and-motohiko-ichino}
 
--   [Takumi Seino](http://www.takumiseino.com/) - guitar
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
+-   [Takumi Seino](/tags/takumi-seino) - guitar
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
 
 Released in 2011 on Voice of Silence as VOS-635.
 

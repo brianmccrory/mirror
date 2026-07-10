@@ -2,7 +2,7 @@
 title = "Fuse: Live Fuse"
 author = ["Brian McCrory"]
 publishDate = 2020-08-10
-tags = ["Toshihiko Inoue 井上淑彦", "Nobumasa Tanaka 田中信正", "Benisuke Sakai 坂井紅介", "Ken Tsunoda 角田健"]
+tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -33,10 +33,10 @@ This album is the third and final Fuse release with the original members. Sadly,
 
 ## Live Fuse by Fuse {#live-fuse-by-fuse}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - soprano sax, tenor sax
--   [Nobumasa Tanaka](http://tnobumasa.com/) - piano
--   [Benisuke Sakai](http://www.benisuke.com) - bass
--   [Ken Tsunoda](http://blog.livedoor.jp/tsunoken555/) - drums
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano sax, tenor sax
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda) - drums
 
 Released in 2007 on Ewe Records as EWCD-0119.
 

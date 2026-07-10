@@ -2,7 +2,7 @@
 title = "Les Komatis: Les Komatis"
 author = ["Brian McCrory"]
 publishDate = 2018-03-28
-tags = ["Nobie ノビー", "Akemi Ohta 太田朱美", "Mayuko Katakura 片倉真由子", "Nobumasa Yamada 山田ノブマサ"]
+tags = ["Nobie", "ノビー", "Akemi Ohta", "太田朱美", "Mayuko Katakura", "片倉真由子", "Nobumasa Yamada", "山田ノブマサ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,10 +27,10 @@ Les Komatis balances jazz, pop, and Latin with the album’s originals, comforta
 
 ## Les Komatis by Les Komatis {#les-komatis-by-les-komatis}
 
--   [Nobie](https://nobie.net/) - vocal, voice, percussion
--   [Akemi Ohta](https://ohakemi454.wixsite.com/mysite) - flute, alto flute, percussion, chorus
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano, Rhodes piano, chorus
--   Nobumasa Yamada - percussion
+-   [Nobie](/tags/nobie) - vocal, voice, percussion
+-   [Akemi Ohta](/tags/akemi-ohta) - flute, alto flute, percussion, chorus
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano, Rhodes piano, chorus
+-   [Nobumasa Yamada](/tags/nobumasa-yamada) - percussion
 
 Released in 2015 on F.S.L as FSCJ-0007.
 

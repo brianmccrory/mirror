@@ -3,7 +3,7 @@ title = "Ami Fukui: Amizm"
 author = ["Brian McCrory"]
 publishDate = 2018-09-07
 keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
-tags = ["Ami Fukui 福井亜実", "Yoshihito “P” Koizumi 小泉P克人", "Yasushi Fukumori 福森康"]
+tags = ["Ami Fukui", "福井亜実", "Yoshihito “P” Koizumi", "小泉P克人", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -38,9 +38,9 @@ It’s been about three years since the previous release _Urban Clutter_. The ne
 
 ## Amizm by Ami Fukui {#amizm-by-ami-fukui}
 
--   [Ami Fukui](https://amifukui.com/) - piano, Clavinet, Rhodes, CP-80, synth
--   [Yoshihito “P” Koizumi](https://www.yoshihitopkoizumi.com/) - bass
--   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums
+-   [Ami Fukui](/tags/ami-fukui) - piano, Clavinet, Rhodes, CP-80, synth
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
 
 Released in 2013 on Peace Bass Records as PBRS-0002.
 

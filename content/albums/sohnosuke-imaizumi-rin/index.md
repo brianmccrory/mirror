@@ -2,7 +2,7 @@
 title = "Sohnosuke Imaizumi: Rin"
 author = ["Brian McCrory"]
 publishDate = 2018-02-27
-tags = ["Sohnosuke Imaizumi 今泉総之輔", "Kazuhiro Sunaga 須長和広", "Kazuhiro Tamura 田村和大", "BLAHMUZIK ブラムジック"]
+tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和広", "Kazuhiro Tamura", "田村和大", "BLAHMUZIK", "ブラムジック"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,10 +28,10 @@ The overall album delivers an exciting variety of moods centered around a modern
 
 ## Rin by Sohnosuke Imaizumi {#rin-by-sohnosuke-imaizumi}
 
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
--   [Kazuhiro Sunaga](https://kazuhirosunaga.tumblr.com/) - bass
--   [Kazuhiro Tamura](https://ameblo.jp/kazu-piano/) - piano
--   [BLAHMUZIK](https://blahblog.blog.fc2.com/) - sampler
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga) - bass
+-   [Kazuhiro Tamura](/tags/kazuhiro-tamura) - piano
+-   [BLAHMUZIK](/tags/blahmuzik) - sampler
 
 Released in 2015 on Flower Records as FLRC-070.
 

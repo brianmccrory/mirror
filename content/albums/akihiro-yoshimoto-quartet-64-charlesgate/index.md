@@ -2,7 +2,7 @@
 title = "Akihiro Yoshimoto Quartet: 64 Charlesgate"
 author = ["Brian McCrory"]
 publishDate = 2023-07-07
-tags = ["Akihiro Yoshimoto 吉本章紘", "Nanami Haruta 治田七海", "Raiga Hayashi 林頼我", "Makoto Togashi 冨樫マコト"]
+tags = ["Akihiro Yoshimoto", "吉本章紘", "Nanami Haruta", "治田七海", "Raiga Hayashi", "林頼我", "Makoto Togashi", "冨樫マコト"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,10 +28,10 @@ The album also includes two shorter songs inserted like brief asides: Tracks #3 
 
 ## 64 Charlesgate by Akihiro Yoshimoto Quartet {#64-charlesgate-by-akihiro-yoshimoto-quartet}
 
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - saxophone
--   [Nanami Haruta](http://www.nanamiharuta.com/) - trombone
--   [Raiga Hayashi](https://raigahayashi.wixsite.com/drums) - drums
--   [Makoto Togashi](https://ameblo.jp/togashibass/) - bass
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
+-   [Nanami Haruta](/tags/nanami-haruta) - trombone
+-   [Raiga Hayashi](/tags/raiga-hayashi) - drums
+-   [Makoto Togashi](/tags/makoto-togashi) - bass
 
 Released in 2022 on Quint Co. Ltd. / Chitei Records as B102F.
 

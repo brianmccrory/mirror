@@ -2,7 +2,7 @@
 title = "Rie Taguchi: The Gift"
 author = ["Brian McCrory"]
 publishDate = 2018-02-21
-tags = ["Rie Taguchi 田口理恵", "Seiji Endo 遠藤征志", "Seiji Tada 多田誠司", "Noriko Satomi 里見紀子", "Mitsukuni Tanabe 田辺充邦", "Yusuke Nakaishi 仲石裕介", "Akira Yamada 山田玲"]
+tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada", "多田誠司", "Noriko Satomi", "里見紀子", "Mitsukuni Tanabe", "田辺充邦", "Yusuke Nakaishi", "仲石裕介", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,13 +24,13 @@ The album features delightful arrangements by Seiji Endo along with Taguchi’s 
 
 ## The Gift by Rie Taguchi {#the-gift-by-rie-taguchi}
 
--   [Rie Taguchi](https://riepihappymusic.wixsite.com/music) - vocals, piano
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano, arrangements
--   [Seiji Tada](https://www.tadasei.net/) - alto sax, flute
--   [Noriko Satomi](https://project-nori.wixsite.com/mysite) - violin
--   [Mitsukuni Tanabe](http://tanabe-mitsukuni.com/) - guitar
--   [Yusuke Nakaishi](https://nowonmusic.com/members/258) - bass
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
+-   [Rie Taguchi](/tags/rie-taguchi) - vocals, piano
+-   [Seiji Endo](/tags/seiji-endo) - piano, arrangements
+-   [Seiji Tada](/tags/seiji-tada) - alto sax, flute
+-   [Noriko Satomi](/tags/noriko-satomi) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi) - bass
+-   [Akira Yamada](/tags/akira-yamada) - drums
 
 Released in 2016 on Rose Happy Music as RHM002.
 

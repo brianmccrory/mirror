@@ -3,7 +3,7 @@ title = "Davy Mooney & Ko Omura: The Word"
 author = ["Brian McCrory"]
 publishDate = 2025-10-25
 keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "fe-live-at-virtuoso", "efreydut-fairway"]
-tags = ["Davy Mooney", "Ko Omura 大村亘", "John Ellis", "Glenn Zaleski", "Matt Clohesy"]
+tags = ["Davy Mooney", "Ko Omura", "大村亘", "John Ellis", "Glenn Zaleski", "Matt Clohesy"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -54,11 +54,11 @@ More album notes and song explanations for _The Word_ are available on Mooney’
 
 ## The Word by Davy Mooney &amp; Ko Omura {#the-word-by-davy-mooney-and-ko-omura}
 
--   [Davy Mooney](https://davymooney.bandcamp.com/) - guitar
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums, tabla (#7, 9)
--   [John Ellis](http://www.johnaxsonellis.com/) - tenor &amp; soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)
--   [Glenn Zaleski](https://www.glennzaleski.com/) - piano
--   [Matt Clohesy](http://archive.soundamerican.org/sa_archive/sa18/matt-clohesy.html) - bass
+-   [Davy Mooney](/tags/davy-mooney) - guitar
+-   [Ko Omura](/tags/ko-omura) - drums, tabla (#7, 9)
+-   [John Ellis](/tags/john-ellis) - tenor &amp; soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)
+-   [Glenn Zaleski](/tags/glenn-zaleski) - piano
+-   [Matt Clohesy](/tags/matt-clohesy) - bass
 
 Released in 2025 on Sunnyside Communications as SSC-1764.
 

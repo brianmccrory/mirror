@@ -3,7 +3,7 @@ title = "Seiji Endo: Sakura Meditation"
 author = ["Brian McCrory"]
 publishDate = 2018-10-22
 keywords = ["naoko-akimoto-no-one-else", "seiji-endo-tsutaete-ikou", "ruriko-kawamura-blossoms", "rie-taguchi-gift", "seiji-endo-circle-for-peace", "hiroco-nagano-okurimono", "seiji-endo-genji-monogatari-volume-1", "rie-taguchi-the-gift-ii"]
-tags = ["Seiji Endo 遠藤征志"]
+tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -79,7 +79,7 @@ With his delicate and rich tone colors and performances with a strong sense of s
 
 ## Sakura Meditation by Seiji Endo {#sakura-meditation-by-seiji-endo}
 
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano, composition
+-   [Seiji Endo](/tags/seiji-endo) - piano, composition
 
 Released in 2012 on Concordia as CONR-002.
 

@@ -3,7 +3,7 @@ title = "Chie Nishimura: Virtual Silence"
 author = ["Brian McCrory"]
 publishDate = 2024-10-25
 keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
-tags = ["Chie Nishimura 西村知恵", "Ryoji Orihara 織原良次", "May Inoue 井上銘", "Tamaya Honda 本田珠也"]
+tags = ["Chie Nishimura", "西村知恵", "Ryoji Orihara", "織原良次", "May Inoue", "井上銘", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -48,10 +48,10 @@ Particularly impactful, the last track #5 “Grief Runs Deep” starts with a he
 
 ## Virtual Silence by Chie Nishimura {#virtual-silence-by-chie-nishimura}
 
--   [Chie Nishimura](https://chiesan.com/) - vocal
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [May Inoue](https://mayinoue.com/) - guitar
--   [Tamaya Honda](http://tamayahonda.blogspot.com/) - drums
+-   [Chie Nishimura](/tags/chie-nishimura) - vocal
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [May Inoue](/tags/may-inoue) - guitar
+-   [Tamaya Honda](/tags/tamaya-honda) - drums
 
 Released in 2021 on en records as Virtual Silence / Chie Nishimura.
 

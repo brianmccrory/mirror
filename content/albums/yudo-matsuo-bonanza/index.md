@@ -2,7 +2,7 @@
 title = "Yudo Matsuo: Bonanza"
 author = ["Brian McCrory"]
 publishDate = 2020-02-07
-tags = ["Yudo Matsuo 松尾由堂", "Keisuke Nakamura 中村恵介", "Ryoji Orihara 織原良次", "Yasushi Fukumori 福森康", "Takeru Yamazaki ヤマザキタケル"]
+tags = ["Yudo Matsuo", "松尾由堂", "Keisuke Nakamura", "中村恵介", "Ryoji Orihara", "織原良次", "Yasushi Fukumori", "福森康", "Takeru Yamazaki", "ヤマザキタケル"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,11 +27,11 @@ All the musician shine with visceral playing and a clean sound, with solos, duos
 
 ## Bonanza by Yudo Matsuo {#bonanza-by-yudo-matsuo}
 
--   [Yudo Matsuo](https://yudomatsuo.tumblr.com/) - electric &amp; acoustic guitar
--   [Keisuke Nakamura](https://blackdevil729.wixsite.com/keisuke-nakamura) - trumpet, flugelhorn
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless electric bass
--   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums
--   [Takeru Yamazaki](http://yamazakitkr.com/) - keyboards (#2, 4, 9)
+-   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
+-   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
+-   [Takeru Yamazaki](/tags/takeru-yamazaki) - keyboards (#2, 4, 9)
 
 Released in 2012 on Coume Music as DQC-919.
 

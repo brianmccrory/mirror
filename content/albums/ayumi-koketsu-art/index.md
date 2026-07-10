@@ -3,7 +3,7 @@ title = "Ayumi Koketsu: Art"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
 keywords = ["ayumi-koketsu-rainbow-tales"]
-tags = ["Ayumi Koketsu 纐纈歩美", "Jeremy Manasia", "Mike Karn", "Mark Taylor"]
+tags = ["Ayumi Koketsu", "纐纈歩美", "Jeremy Manasia", "Mike Karn", "Mark Taylor"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -20,10 +20,10 @@ Alto saxophonist Ayumi Koketsu released a sophisticated tribute to Art Pepper on
 
 ## Art by Ayumi Koketsu {#art-by-ayumi-koketsu}
 
--   [Ayumi Koketsu](http://a-koketsu.com/) - alto sax
--   [Jeremy Manasia](http://www.jeremymanasia.com/) - piano
--   [Mike Karn](https://mikekarnbass.wordpress.com/) - bass
--   [Mark Taylor](https://www.allaboutjazz.com/musicians/mark-taylor-drummer) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
+-   [Jeremy Manasia](/tags/jeremy-manasia) - piano
+-   [Mike Karn](/tags/mike-karn) - bass
+-   [Mark Taylor](/tags/mark-taylor) - drums
 
 Released in 2016 on Pony Canyon as MYCJ-30653.
 

@@ -2,7 +2,7 @@
 title = "Motoi Kanamori: My Soul Meeting"
 author = ["Brian McCrory"]
 publishDate = 2020-04-24
-tags = ["Motoi Kanamori 金森もとい", "Hiroyuki Takubo 田窪寛之", "Akira Yamada 山田玲", "Erena Terakubo 寺久保エレナ", "Akihiro Yoshimoto 吉本章紘"]
+tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Erena Terakubo", "寺久保エレナ", "Akihiro Yoshimoto", "吉本章紘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ The well-arranged album flows with vim and vigor, music devoted to satisfying li
 
 ## My Soul Meeting by Motoi Kanamori {#my-soul-meeting-by-motoi-kanamori}
 
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Hiroyuki Takubo](https://hirotakubo.exblog.jp/) - piano
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
--   [Erena Terakubo](https://www.jamrice.co.jp/erena/) - alto sax (tr. #6, 7)
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - tenor sax (tr. #6, 7)
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
+-   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Erena Terakubo](/tags/erena-terakubo) - alto sax (tr. #6, 7)
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax (tr. #6, 7)
 
 Released in 2018 on Laplace Records as LPDCD-103.
 

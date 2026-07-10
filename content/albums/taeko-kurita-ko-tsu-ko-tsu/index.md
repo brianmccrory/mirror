@@ -3,7 +3,7 @@ title = "Taeko Kurita: Ko-tsu-ko-tsu"
 author = ["Brian McCrory"]
 publishDate = 2025-07-05
 keywords = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
-tags = ["Taeko Kurita 栗田妙子"]
+tags = ["Taeko Kurita", "栗田妙子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -31,7 +31,7 @@ Like the music in the last song on the album, #8 “Plie ‘A Sublingual Castle�
 
 ## Ko-tsu-ko-tsu by Taeko Kurita {#ko-tsu-ko-tsu-by-taeko-kurita}
 
--   [Taeko Kurita](https://kuritataeko.jimdofree.com/) - piano
+-   [Taeko Kurita](/tags/taeko-kurita) - piano
 
 Released in 2012 on Kurita Taeko as MP-007.
 

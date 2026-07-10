@@ -2,7 +2,7 @@
 title = "Rabbitoo: National Anthem of Unknown Country"
 author = ["Brian McCrory"]
 publishDate = 2020-01-26
-tags = ["Motohiko Ichino 市野元彦", "Daisuke Fujiwara 藤原大輔", "Koichi Sato 佐藤浩一", "Hiroki Chiba 千葉広樹", "Noritaka Tanaka 田中徳崇"]
+tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "Koichi Sato", "佐藤浩一", "Hiroki Chiba", "千葉広樹", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ Definitely not following the typical jazz formula, this beat-centered music with
 
 ## National Anthem of Unknown Country by Rabbitoo {#national-anthem-of-unknown-country-by-rabbitoo}
 
--   [Motohiko Ichino](https://motohikoichino.com/) - guitars, keyboards
--   [Daisuke Fujiwara](http://www.fujiwaradaisuke.com/) - tenor saxophone, electronics
--   [Koichi Sato](https://koichisato.com/) - Rhodes, Minimoog, Nord, piano
--   [Hiroki Chiba](https://linktr.ee/Hirokichiba) - contrabass, electric bass, electronics
--   [Noritaka Tanaka](https://www.jazz.co.jp/Mus/tanakatokutakashi.html) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitars, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, electronics
+-   [Koichi Sato](/tags/koichi-sato) - Rhodes, Minimoog, Nord, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba) - contrabass, electric bass, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
 
 Released in 2014 on SONG X JAZZ as SONG X 019.
 

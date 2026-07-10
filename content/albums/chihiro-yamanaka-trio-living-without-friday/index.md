@@ -2,7 +2,7 @@
 title = "Chihiro Yamanaka Trio: Living Without Friday"
 author = ["Brian McCrory"]
 publishDate = 2020-02-21
-tags = ["Chihiro Yamanaka 山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,9 +28,9 @@ This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, des
 
 ## Living Without Friday by Chihiro Yamanaka Trio {#living-without-friday-by-chihiro-yamanaka-trio}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   Ray Parker - bass
--   LaFrae Olivia Sci - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Ray Parker](/tags/ray-parker) - bass
+-   [LaFrae Olivia Sci](/tags/lafrae-olivia-sci) - drums
 
 Released in 2001 on Atelier Sawano as AS-016.
 

@@ -3,7 +3,7 @@ title = "Akihiro Yoshimoto & Takashi Sugawa: Oxymoron"
 author = ["Brian McCrory"]
 publishDate = 2024-07-19
 keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
-tags = ["Akihiro Yoshimoto 吉本章紘", "Takashi Sugawa 須川崇志", "Niran Dasika ニラン・ダシカ"]
+tags = ["Akihiro Yoshimoto", "吉本章紘", "Takashi Sugawa", "須川崇志", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -42,9 +42,9 @@ The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a t
 
 ## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa {#oxymoron-by-akihiro-yoshimoto-and-takashi-sugawa}
 
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - soprano sax, clarinet
--   [Takashi Sugawa](https://www.tsgw.net/) - cello, contrabass
--   [Niran Dasika](https://www.niran-dasika.com/) - piccolo trumpet (track #10)
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - soprano sax, clarinet
+-   [Takashi Sugawa](/tags/takashi-sugawa) - cello, contrabass
+-   [Niran Dasika](/tags/niran-dasika) - piccolo trumpet (track #10)
 
 Released in 2017 on MOR Records as MOR-1002.
 

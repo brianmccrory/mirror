@@ -2,7 +2,7 @@
 title = "Hideaki Hori Trio: In My Words"
 author = ["Brian McCrory"]
 publishDate = 2020-01-17
-tags = ["Hideaki Hori 堀秀彰", "Daiki Yasukagawa 安ヵ川大樹", "Gene Jackson"]
+tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gene Jackson"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,9 +27,9 @@ Hori’s songwriting is also on display, with six originals (the crowd favorite 
 
 ## In My Words by Hideaki Hori Trio {#in-my-words-by-hideaki-hori-trio}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Gene Jackson](https://www.genejacksonmusic.com/) - drums
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Gene Jackson](/tags/gene-jackson) - drums
 
 Released in 2010 on Daiki Musica as DMCD-06.
 

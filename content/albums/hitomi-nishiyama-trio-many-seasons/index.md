@@ -2,7 +2,7 @@
 title = "Hitomi Nishiyama Trio: Many Seasons"
 author = ["Brian McCrory"]
 publishDate = 2018-02-11
-tags = ["Hitomi Nishiyama 西山瞳", "Hans Backenroth", "Anders Kjellberg"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,9 +22,9 @@ This album was recorded in Stockholm with two Swedish musicians, befitting the g
 
 ## Many Seasons by Hitomi Nishiyama Trio {#many-seasons-by-hitomi-nishiyama-trio}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Hans Backenroth](https://hansbackenroth.com/) - bass
--   [Anders Kjellberg](https://sv.wikipedia.org/wiki/Anders_Kjellberg_(musiker)) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Hans Backenroth](/tags/hans-backenroth) - bass
+-   [Anders Kjellberg](/tags/anders-kjellberg) - drums
 
 Released in 2007 on Spice of Life as SOLJP-0005.
 

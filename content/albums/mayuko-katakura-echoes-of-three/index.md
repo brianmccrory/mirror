@@ -2,7 +2,7 @@
 title = "Mayuko Katakura: The Echoes of Three"
 author = ["Brian McCrory"]
 publishDate = 2018-04-02
-tags = ["Mayuko Katakura 片倉真由子", "Yasushi Nakamura 中村恭士", "Carmen Intorre Jr."]
+tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carmen Intorre Jr."]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping �
 
 ## The Echoes of Three by Mayuko Katakura {#the-echoes-of-three-by-mayuko-katakura}
 
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Yasushi Nakamura](https://www.yasushinakamurabass.com/) - bass
--   [Carmen Intorre Jr.](https://www.carmenintorrejr.com/) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
+-   [Carmen Intorre Jr.](/tags/carmen-intorre-jr) - drums
 
 Released in 2015 on 55 Records as JNCJ-5561.
 

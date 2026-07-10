@@ -2,7 +2,7 @@
 title = "Reikan Kobayashi: Gakudan Hitori"
 author = ["Brian McCrory"]
 publishDate = 2020-02-13
-tags = ["Reikan Kobayashi 小林鈴勘"]
+tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,7 +26,7 @@ Not just a collection of solemn atmospheres, the overall tone leans toward cheer
 
 ## Gakudan Hitori by Reikan Kobayashi {#gakudan-hitori-by-reikan-kobayashi}
 
--   [Reikan Kobayashi](https://reikankobayashi.net/) - Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot
+-   [Reikan Kobayashi](/tags/reikan-kobayashi) - Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot
 
 Released in 2011 on Mokorin Music as MM-001.
 

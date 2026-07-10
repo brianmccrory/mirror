@@ -2,7 +2,7 @@
 title = "Taihei Asakawa: Waltz for Debby"
 author = ["Brian McCrory"]
 publishDate = 2018-12-21
-tags = ["Taihei Asakawa 浅川太平"]
+tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,7 +26,7 @@ Disc two continues in this vein and adds variation with several brighter mid- an
 
 ## Waltz for Debby by Taihei Asakawa {#waltz-for-debby-by-taihei-asakawa}
 
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano
 
 Released in 2018 on Cortez Sound as CSJ0008.
 

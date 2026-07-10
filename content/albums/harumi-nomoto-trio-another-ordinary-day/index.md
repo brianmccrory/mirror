@@ -2,7 +2,7 @@
 title = "Harumi Nomoto Trio: Another Ordinary Day"
 author = ["Brian McCrory"]
 publishDate = 2022-07-19
-tags = ["Harumi Nomoto 野本晴美", "Norihide Shioda 塩田哲嗣", "Tommy Campbell", "Masayuki Tawarayama 俵山昌之", "Yoshihito Eto 江藤良人"]
+tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tommy Campbell", "Masayuki Tawarayama", "俵山昌之", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ In addition to these three jazz covers, three originals by Nomoto and two origin
 
 ## Another Ordinary Day by Harumi Nomoto Trio {#another-ordinary-day-by-harumi-nomoto-trio}
 
--   [Harumi Nomoto](https://haruminomoto.jimdofree.com/) - piano
--   [Norihide Shioda](https://ameblo.jp/norishio88/) - bass (#1, 2, 3, 4, 8)
--   [Tommy Campbell](https://tommycampbell.com/) - drums (#1, 2, 3, 4, 8)
--   [Masayuki Tawarayama](https://www.discogs.com/artist/1087833-Masayuki-Tawarayama) - bass (#5, 7)
--   [Yoshihito Eto](http://eto.mockhillrecords.com/) - drums (#5, 7)
+-   [Harumi Nomoto](/tags/harumi-nomoto) - piano
+-   [Norihide Shioda](/tags/norihide-shioda) - bass (#1, 2, 3, 4, 8)
+-   [Tommy Campbell](/tags/tommy-campbell) - drums (#1, 2, 3, 4, 8)
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass (#5, 7)
+-   [Yoshihito Eto](/tags/yoshihito-eto) - drums (#5, 7)
 
 Released in 2002 on Venus Records as TKCV-35311.
 

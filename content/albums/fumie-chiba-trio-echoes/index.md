@@ -3,7 +3,7 @@ title = "Fumie Chiba Trio: Echoes"
 author = ["Brian McCrory"]
 publishDate = 2025-11-09
 keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-chiba-beautiful-days", "fnk-canvas"]
-tags = ["Fumie Chiba 千葉史絵", "Koji Tetsui 鉄井孝司", "Kaoru Suzuki 鈴木郁"]
+tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -90,9 +90,9 @@ Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. R
 
 ## Echoes by Fumie Chiba Trio {#echoes-by-fumie-chiba-trio}
 
--   [Fumie Chiba](https://fumiechiba.com) - piano
--   [Koji Tetsui](https://www.instagram.com/koztet/) - bass
--   [Kaoru Suzuki](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M4541) - drums
+-   [Fumie Chiba](/tags/fumie-chiba) - piano
+-   [Koji Tetsui](/tags/koji-tetsui) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
 
 Released in 2013 on T-TOC Records Cadenza as CADE-0009.
 

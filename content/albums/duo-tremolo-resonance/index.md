@@ -2,7 +2,7 @@
 title = "Duo Tremolo: Resonance"
 author = ["Brian McCrory"]
 publishDate = 2021-03-03
-tags = ["Hideaki Hori 堀秀彰", "Takayoshi Baba 馬場孝喜", "Saori Sendo 仙道さおり", "Aya Kurosawa 黒沢綾"]
+tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Sendo", "仙道さおり", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,10 +24,10 @@ Two of the songs also feature guest percussionist Saori Sendo, and add rich rhyt
 
 ## Resonance by Duo Tremolo {#resonance-by-duo-tremolo}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano, voice and percussion on #11
--   [Takayoshi Baba](https://babaviolao.wixsite.com/babatakayoshi) - guitar, voice on #11
--   [Saori Sendo](http://www.c-a-s-net.co.jp/saoli/) - percussion on #3, #8
--   [Aya Kurosawa](https://ayakurosawa.me/) - voice on #11
+-   [Hideaki Hori](/tags/hideaki-hori) - piano, voice and percussion on #11
+-   [Takayoshi Baba](/tags/takayoshi-baba) - guitar, voice on #11
+-   [Saori Sendo](/tags/saori-sendo) - percussion on #3, #8
+-   [Aya Kurosawa](/tags/aya-kurosawa) - voice on #11
 
 Released in 2019 on Orbit Records as ORG-1004.
 

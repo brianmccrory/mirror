@@ -3,7 +3,7 @@ title = "Junichiro Ohkuchi Trio: Invisible"
 author = ["Brian McCrory"]
 publishDate = 2018-02-13
 keywords = ["kohsuke-mine-quintet-major-to-minor", "yuka-ueda-dois", "yuko-miyawaki-song-of-flower"]
-tags = ["Junichiro Ohkuchi 大口純一郎", "Yasushi Yoneki 米木康志", "Tamaya Honda 本田珠也"]
+tags = ["Junichiro Ohkuchi", "大口純一郎", "Yasushi Yoneki", "米木康志", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,9 +23,9 @@ The pianist Ohkuchi contributes three original songs (the opener is a highlight)
 
 ## Invisible by Junichiro Ohkuchi Trio {#invisible-by-junichiro-ohkuchi-trio}
 
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano
--   Yasushi Yoneki - bass
--   [Tamaya Honda](http://tamayahonda.blogspot.com/) - drums
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
+-   [Yasushi Yoneki](/tags/yasushi-yoneki) - bass
+-   [Tamaya Honda](/tags/tamaya-honda) - drums
 
 Released in 2016 on Big Mouth Records as Invisible.
 

@@ -2,7 +2,7 @@
 title = "Yako Horikita: Shining Hour"
 author = ["Brian McCrory"]
 publishDate = 2019-12-06
-tags = ["Yako Horikita 堀北やこ", "Takenori Sawaki 佐脇武則", "Makoto Deguchi 出口誠", "Ken Kaneko 金子健", "Nobuhiko Yamashita 山下暢彦"]
+tags = ["Yako Horikita", "堀北やこ", "Takenori Sawaki", "佐脇武則", "Makoto Deguchi", "出口誠", "Ken Kaneko", "金子健", "Nobuhiko Yamashita", "山下暢彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,11 +23,11 @@ While most of the tracks are straightforward mid-tempo swingers, a few of tunes 
 
 ## Shining Hour by Yako Horikita {#shining-hour-by-yako-horikita}
 
--   [Yako Horikita](https://yakohorikita.amebaownd.com/) - vocal
--   Takenori Sawaki - alto saxophone
--   Makoto Deguchi - piano
--   [Ken Kaneko](http://www.bass-face.com/kenkaneko.html) - bass
--   Nobuhiko Yamashita - drums
+-   [Yako Horikita](/tags/yako-horikita) - vocal
+-   [Takenori Sawaki](/tags/takenori-sawaki) - alto saxophone
+-   [Makoto Deguchi](/tags/makoto-deguchi) - piano
+-   [Ken Kaneko](/tags/ken-kaneko) - bass
+-   [Nobuhiko Yamashita](/tags/nobuhiko-yamashita) - drums
 
 Released in 2017 on Kylym Records as KYLYM-0001.
 

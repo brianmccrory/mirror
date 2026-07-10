@@ -2,7 +2,7 @@
 title = "Yasumasa Kumagai: Pray"
 author = ["Brian McCrory"]
 publishDate = 2022-09-01
-tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Ryu Kawamura 川村竜", "Kohzo Komori 小森耕造", "DJ Passo"]
+tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜", "Kohzo Komori", "小森耕造", "DJ Passo"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,10 +23,10 @@ On Pray, Kumagai’s trio opens with “Brotherhood”, setting up an atmospheri
 
 ## Pray by Yasumasa Kumagai {#pray-by-yasumasa-kumagai}
 
--   [Yasumasa Kumagai](https://yasumasakumagai.com/) - piano
--   [Ryu Kawamura](https://www.ryukawamura.com/) - bass
--   [Kohzo Komori](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2163) - drums
--   DJ Passo - (on #6)
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura) - bass
+-   [Kohzo Komori](/tags/kohzo-komori) - drums
+-   [DJ Passo](/tags/dj-passo) - (on #6)
 
 Released in 2010 on Anturtle Tune as ANTX-4009.
 

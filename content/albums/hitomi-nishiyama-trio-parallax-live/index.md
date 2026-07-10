@@ -2,7 +2,7 @@
 title = "Hitomi Nishiyama Trio “Parallax”: Live"
 author = ["Brian McCrory"]
 publishDate = 2018-04-06
-tags = ["Hitomi Nishiyama 西山瞳", "Takuya Sakazaki 坂崎拓也", "Takehiro Shimizu 清水勇博"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Takuya Sakazaki", "坂崎拓也", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,9 +26,9 @@ As complex as the compositions may be, the recorded-live aspect brings tangible 
 
 ## Live by Hitomi Nishiyama Trio “Parallax” {#live-by-hitomi-nishiyama-trio-parallax}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Takuya Sakazaki](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1791) - bass
--   [Takehiro Shimizu](https://www.mindbodyunison.com/) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Takuya Sakazaki](/tags/takuya-sakazaki) - bass
+-   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums
 
 Released in 2016 on Meantone Records as MT-007.
 

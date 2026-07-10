@@ -2,7 +2,7 @@
 title = "Yukako Yamano: 1st Stage"
 author = ["Brian McCrory"]
 publishDate = 2018-08-08
-tags = ["Yukako Yamano 山野友佳子", "Koichi Osamu 納浩一", "Manabu Fujii 藤井学"]
+tags = ["Yukako Yamano", "山野友佳子", "Koichi Osamu", "納浩一", "Manabu Fujii", "藤井学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,9 +26,9 @@ _1st Stage_ features Yukako Yamano on piano along with regular trio members mult
 
 ## 1st Stage by Yukako Yamano {#1st-stage-by-yukako-yamano}
 
--   [Yukako Yamano](https://yukakoyamano.com/) - piano
--   [Koichi Osamu](https://www.osamukoichi.net/) - bass
--   [Manabu Fujii](https://manabufujii.jp/) - drums
+-   [Yukako Yamano](/tags/yukako-yamano) - piano
+-   [Koichi Osamu](/tags/koichi-osamu) - bass
+-   [Manabu Fujii](/tags/manabu-fujii) - drums
 
 Released in 2013 on Yukako Yamano as YKRN-0001.
 

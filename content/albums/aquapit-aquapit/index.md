@@ -2,7 +2,7 @@
 title = "Aquapit: Aquapit"
 author = ["Brian McCrory"]
 publishDate = 2020-09-19
-tags = ["Yuta Kaneko 金子雄太", "Yosuke Onuma 小沼ようすけ", "Hidenobu “Kalta” Otsuki 大槻“KALTA”英宣"]
+tags = ["Yuta Kaneko", "金子雄太", "Yosuke Onuma", "小沼ようすけ", "Hidenobu “Kalta” Otsuki", "大槻“KALTA”英宣"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ This first album from Aquapit offers eleven original songs, all of a piece, jam 
 
 ## Aquapit by Aquapit {#aquapit-by-aquapit}
 
--   [Yuta Kaneko](https://aquapit.amebaownd.com/) - Hammond B3 Organ
--   [Yosuke Onuma](http://www.yosukeonuma.com/) - guitar
--   [Hidenobu “Kalta” Otsuki](http://www.kaltek-musik-engine.com/) - drums
+-   [Yuta Kaneko](/tags/yuta-kaneko) - Hammond B3 Organ
+-   [Yosuke Onuma](/tags/yosuke-onuma) - guitar
+-   [Hidenobu “Kalta” Otsuki](/tags/hidenobu-kalta-otsuki) - drums
 
 Released in 2011 on Mocloud Records as DDCZ-1758.
 

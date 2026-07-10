@@ -3,7 +3,7 @@ title = "Daiki Yasukagawa New Trio: The Three Roses"
 author = ["Brian McCrory"]
 publishDate = 2025-01-19
 keywords = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
-tags = ["Daiki Yasukagawa 安ヵ川大樹", "Sora Ichikawa 市川空", "Yota Tsukada 塚田陽太"]
+tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Sora Ichikawa", "市川空", "Yota Tsukada", "塚田陽太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -38,9 +38,9 @@ Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 
 
 ## The Three Roses by Daiki Yasukagawa New Trio {#the-three-roses-by-daiki-yasukagawa-new-trio}
 
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Sora Ichikawa](https://chikainokotoba.wixsite.com/soraichikawa) - piano
--   [Yota Tsukada](https://www.yotatsukada.com/) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Sora Ichikawa](/tags/sora-ichikawa) - piano
+-   [Yota Tsukada](/tags/yota-tsukada) - drums
 
 Released in 2022 on Daiki Musika D-neo as DNCD-28.
 

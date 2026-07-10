@@ -3,7 +3,7 @@ title = "Keisuke Nakamura: Humadope 2"
 author = ["Brian McCrory"]
 publishDate = 2024-01-19
 keywords = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
-tags = ["Keisuke Nakamura 中村恵介", "Akihiro Yoshimoto 吉本章紘", "Ami Ogaeri 魚返明未", "Motoi Kanamori 金森もとい", "Ittetsu Takemura 竹村一哲"]
+tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Yoshimoto", "吉本章紘", "Ami Ogaeri", "魚返明未", "Motoi Kanamori", "金森もとい", "Ittetsu Takemura", "竹村一哲"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -35,11 +35,11 @@ The whole album is filled with great moments, and picking favorites depends on t
 
 ## Humadope 2 by Keisuke Nakamura {#humadope-2-by-keisuke-nakamura}
 
--   [Keisuke Nakamura](https://blackdevil729.wixsite.com/keisuke-nakamura) - trumpet, flugelhorn
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - tenor sax, flute
--   [Ami Ogaeri](https://ameblo.jp/amiogaeri/) - piano
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Ittetsu Takemura](http://ittetsu2.web.fc2.com/) - drums
+-   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax, flute
+-   [Ami Ogaeri](/tags/ami-ogaeri) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Ittetsu Takemura](/tags/ittetsu-takemura) - drums
 
 Released in 2019 on ANTXDEDE as ANTXDEDE-3105.
 

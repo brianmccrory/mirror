@@ -2,7 +2,7 @@
 title = "Emiko Voice: Carta"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
-tags = ["Emiko Voice エミコヴォイス", "Koichi Sato 佐藤浩一", "Akemi Ohta 太田朱美", "Momoko Aida 会田桃子", "Akira Tanidono 谷殿明良", "Toru Nishijima 西嶋徹", "Keita Okada 岡田ケイタ"]
+tags = ["Emiko Voice", "エミコヴォイス", "Koichi Sato", "佐藤浩一", "Akemi Ohta", "太田朱美", "Momoko Aida", "会田桃子", "Akira Tanidono", "谷殿明良", "Toru Nishijima", "西嶋徹", "Keita Okada", "岡田ケイタ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,13 +22,13 @@ Emiko’s voice is front-and-center and spans the gamut from quick instrumentesq
 
 ## Carta by Emiko Voice {#carta-by-emiko-voice}
 
--   [Emiko Voice](http://www.emikovoice.com/) - vocal
--   [Koichi Sato](https://koichisato.com/) - piano, Rhodes
--   [Akemi Ohta](https://ohakemi454.wixsite.com/mysite) - flute
--   [Momoko Aida](https://www.instagram.com/aidamomoko/) - violin
--   Akira Tanidono - trumpet
--   [Toru Nishijima](https://toru-cb.com/) - bass
--   Keita Okada - drums, percussion
+-   [Emiko Voice](/tags/emiko-voice) - vocal
+-   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
+-   [Akemi Ohta](/tags/akemi-ohta) - flute
+-   [Momoko Aida](/tags/momoko-aida) - violin
+-   [Akira Tanidono](/tags/akira-tanidono) - trumpet
+-   [Toru Nishijima](/tags/toru-nishijima) - bass
+-   [Keita Okada](/tags/keita-okada) - drums, percussion
 
 Released in 2017 on Zipangu Label as ZIP-0058.
 

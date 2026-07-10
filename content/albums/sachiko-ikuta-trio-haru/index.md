@@ -2,7 +2,7 @@
 title = "Sachiko Ikuta Trio: Haru No Kaze"
 author = ["Brian McCrory"]
 publishDate = 2018-03-04
-tags = ["Sachiko Ikuta 生田さち子", "Hideaki Kanazawa 金澤英明", "Shun Ishiwaka 石若駿", "Terumasa Hino 日野皓正"]
+tags = ["Sachiko Ikuta", "生田さち子", "Hideaki Kanazawa", "金澤英明", "Shun Ishiwaka", "石若駿", "Terumasa Hino", "日野皓正"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,10 +23,10 @@ The album’s nine songs feature classic jazz standards, songs by Bills Evans an
 
 ## Haru No Kaze by Sachiko Ikuta Trio {#haru-no-kaze-by-sachiko-ikuta-trio}
 
--   [Sachiko Ikuta](https://ameblo.jp/sachiko3ikuta/) - piano
--   [Hideaki Kanazawa](http://kanabass.web.fc2.com/) - contrabass
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums
--   [Terumasa Hino](https://www.terumasahino.com/) - trumpet, cornet (#3, 6)
+-   [Sachiko Ikuta](/tags/sachiko-ikuta) - piano
+-   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
+-   [Terumasa Hino](/tags/terumasa-hino) - trumpet, cornet (#3, 6)
 
 Released in 2012 on Studio TLive Records as XQHG-1007.
 

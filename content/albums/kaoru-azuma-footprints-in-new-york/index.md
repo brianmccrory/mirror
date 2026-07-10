@@ -3,7 +3,7 @@ title = "Kaoru Azuma: Footprints in New York"
 author = ["Brian McCrory"]
 publishDate = 2025-11-29
 keywords = ["emiko-voice-x-suga-dairo-phase-2", "hiromi-miura-we-dont-know-yet", "kaoru-azuma-hitomi-nishiyama-faces"]
-tags = ["Kaoru Azuma 東かおる", "Scott Reeves", "Mike Holober", "Jesse Forest", "Robinson Morse", "Paolo Orlandi"]
+tags = ["Kaoru Azuma", "東かおる", "Scott Reeves", "Mike Holober", "Jesse Forest", "Robinson Morse", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -58,12 +58,12 @@ Here is an ambitious release from up-and-coming vocalist Kaoru Azuma, joined by 
 
 ## Footprints in New York by Kaoru Azuma {#footprints-in-new-york-by-kaoru-azuma}
 
--   [Kaoru Azuma](https://kaoruazuma.com/) - vocal
--   [Scott Reeves](https://www.creativejazz.com/bio/) - alto flugelhorn &amp; trombone (track #6)
--   [Mike Holober](https://www.mikeholober.com/) - piano
--   [Jesse Forest](https://jesseforestmusic.com/) - guitar
--   [Robinson Morse](https://robinsonmorse.com/) - bass
--   [Paolo Orlandi](https://www.paoloorlandi.com/) - drums
+-   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
+-   [Scott Reeves](/tags/scott-reeves) - alto flugelhorn &amp; trombone (track #6)
+-   [Mike Holober](/tags/mike-holober) - piano
+-   [Jesse Forest](/tags/jesse-forest) - guitar
+-   [Robinson Morse](/tags/robinson-morse) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi) - drums
 
 Released in 2008 on River East Music as REM-1002.
 

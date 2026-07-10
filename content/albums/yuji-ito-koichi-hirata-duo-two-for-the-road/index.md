@@ -3,7 +3,7 @@ title = "Yuji Ito & Koichi Hirata Duo: Two for the Road"
 author = ["Brian McCrory"]
 publishDate = 2025-08-03
 keywords = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
-tags = ["Yuji Ito 伊藤勇司", "Koichi Hirata 平田晃一", "Kosuke Mine 峰厚介", "Yusuke Yaginuma 柳沼佑育"]
+tags = ["Yuji Ito", "伊藤勇司", "Koichi Hirata", "平田晃一", "Kosuke Mine", "峰厚介", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -40,10 +40,10 @@ In general, there’s a happy, relaxed feel that runs through the tracks. Three 
 
 ## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo {#two-for-the-road-by-yuji-ito-and-koichi-hirata-duo}
 
--   [Yuji Ito](https://bassist-jazz-0313.wixsite.com/yujito) - bass
--   [Koichi Hirata](https://ameblo.jp/koichihirata0726/) - guitar
--   [Kosuke Mine](http://www.aomori-net.ne.jp/~yamagen/mine/top.htm) - tenor sax (tracks #5, 9)
--   [Yusuke Yaginuma](https://ameblo.jp/yusukebebop/) - drums (tracks #4, 5)
+-   [Yuji Ito](/tags/yuji-ito) - bass
+-   [Koichi Hirata](/tags/koichi-hirata) - guitar
+-   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (tracks #5, 9)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums (tracks #4, 5)
 
 Released in 2024 on NONET as NONET-3.
 

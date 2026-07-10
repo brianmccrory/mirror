@@ -3,7 +3,7 @@ title = "Saki Ozawa: Cheers!"
 author = ["Brian McCrory"]
 publishDate = 2026-05-31
 keywords = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
-tags = ["Saki Ozawa 小沢咲希", "Koji Yasuda 安田幸司", "Takumi Awaya 粟谷巧", "Yusuke Yaginuma 柳沼佑育", "Ema エマ"]
+tags = ["Saki Ozawa", "小沢咲希", "Koji Yasuda", "安田幸司", "Takumi Awaya", "粟谷巧", "Yusuke Yaginuma", "柳沼佑育", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -45,11 +45,11 @@ In addition to two famous jazz standards, the songs include her blues number “
 
 ## Cheers! by Saki Ozawa {#cheers-by-saki-ozawa}
 
--   [Saki Ozawa](https://ozawasaki.com/) - piano
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass (tracks #1, 4, 5, 7)
--   [Takumi Awaya](https://www.tunecore.co.jp/artists?id=447933&lang=en) - bass (tracks #2, 6, 8, 9, 10)
--   [Yusuke Yaginuma](https://ameblo.jp/yusukebebop/) - drums
--   [Ema](https://www.sonymusic.co.jp/artist/ema/) - vocal (#7)
+-   [Saki Ozawa](/tags/saki-ozawa) - piano
+-   [Koji Yasuda](/tags/koji-yasuda) - bass (tracks #1, 4, 5, 7)
+-   [Takumi Awaya](/tags/takumi-awaya) - bass (tracks #2, 6, 8, 9, 10)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums
+-   [Ema](/tags/ema) - vocal (#7)
 
 Released in 2023 on ReBorn Wood as RBW-0027.
 

@@ -3,7 +3,7 @@ title = "Sumireiko: Decision"
 author = ["Brian McCrory"]
 publishDate = 2025-11-22
 keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
-tags = ["Reiko Yamamoto 山本玲子", "Sumire Kuribayashi 栗林すみれ"]
+tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -35,8 +35,8 @@ The title track #6 “Decision” is a multi-part suite whose sections introduce
 
 ## Decision by Sumireiko {#decision-by-sumireiko}
 
--   [Reiko Yamamoto](http://reikoyamamoto.net/) - vibraphone
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano
+-   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
 
 Released in 2020 on Sumireiko as Decision.
 

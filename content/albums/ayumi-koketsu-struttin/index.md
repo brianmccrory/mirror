@@ -3,7 +3,7 @@ title = "Ayumi Koketsu: Struttin’"
 author = ["Brian McCrory"]
 publishDate = 2026-05-17
 keywords = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
-tags = ["Ayumi Koketsu 纐纈歩美", "Yoshihiko Naya 納谷嘉彦", "Masayuki Tawarayama 俵山昌之", "Mark Taylor"]
+tags = ["Ayumi Koketsu", "纐纈歩美", "Yoshihiko Naya", "納谷嘉彦", "Masayuki Tawarayama", "俵山昌之", "Mark Taylor"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -112,10 +112,10 @@ A talented woman makes her debut on the scene with her light yet intense perform
 
 ## Struttin’ by Ayumi Koketsu {#struttin-by-ayumi-koketsu}
 
--   [Ayumi Koketsu](http://a-koketsu.com/) - saxophone
--   [Yoshihiko Naya](https://naya0327goma-piano6.wixsite.com/website) - piano
--   [Masayuki Tawarayama](https://www.discogs.com/artist/1087833-Masayuki-Tawarayama) - bass
--   [Mark Taylor](https://www.allaboutjazz.com/musicians/mark-taylor-drummer) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
+-   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass
+-   [Mark Taylor](/tags/mark-taylor) - drums
 
 Released in 2010 on Pony Canyon as MYCJ-30573.
 

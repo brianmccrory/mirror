@@ -2,7 +2,7 @@
 title = "Ami Fukui Trio: New Journey"
 author = ["Brian McCrory"]
 publishDate = 2018-03-16
-tags = ["Ami Fukui 福井亜実", "Show Kudo 工藤精", "Yasushi Fukumori 福森康", "Akiko Suda 須田晶子"]
+tags = ["Ami Fukui", "福井亜実", "Show Kudo", "工藤精", "Yasushi Fukumori", "福森康", "Akiko Suda", "須田晶子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,10 +24,10 @@ Throughout the album, surprises and discoveries often surface – bonus interlud
 
 ## New Journey by Ami Fukui Trio {#new-journey-by-ami-fukui-trio}
 
--   [Ami Fukui](https://amifukui.com/) - piano
--   [Show Kudo](https://showgun65.exblog.jp/) - double bass, electric bass
--   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums
--   [Akiko Suda](https://akikosuda.wixsite.com/akikosuda) - vocals (#7)
+-   [Ami Fukui](/tags/ami-fukui) - piano
+-   [Show Kudo](/tags/show-kudo) - double bass, electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
+-   [Akiko Suda](/tags/akiko-suda) - vocals (#7)
 
 Released in 2016 on Diw The Grace as DG-1007.
 

@@ -2,7 +2,7 @@
 title = "Hiroshi Fukutomi: Memory Stones"
 author = ["Brian McCrory"]
 publishDate = 2024-02-09
-tags = ["Hiroshi Fukutomi 福冨博", "Koichi Sato 佐藤浩一", "Koji Yasuda 安田幸司", "Ryo Noritake 則武諒"]
+tags = ["Hiroshi Fukutomi", "福冨博", "Koichi Sato", "佐藤浩一", "Koji Yasuda", "安田幸司", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,10 +28,10 @@ The final two tracks close the album with friendly, down-to-earth elements to th
 
 ## Memory Stones by Hiroshi Fukutomi {#memory-stones-by-hiroshi-fukutomi}
 
--   [Hiroshi Fukutomi](https://hiroshifukutomi.jimdofree.com/) - electric guitar, acoustic guitar, harmonica
--   [Koichi Sato](https://koichisato.com/) - piano, Rhodes
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - electric guitar, acoustic guitar, harmonica
+-   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
 
 Released in 2014 on MOF Records as MOF-101.
 

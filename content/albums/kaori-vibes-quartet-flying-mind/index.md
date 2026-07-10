@@ -2,7 +2,7 @@
 title = "Kaori Vibes Quartet: Flying Mind"
 author = ["Brian McCrory"]
 publishDate = 2018-02-03
-tags = ["Kaori Nakajima 中島香里", "Tamashi Goto 後藤魂", "Minoru Yoshiki 吉木稔", "Masanori Ando 安藤正則"]
+tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,10 +22,10 @@ The magically mellow yet bright sounds of the vibraphone fill the tracks of this
 
 ## Flying Mind by Kaori Vibes Quartet {#flying-mind-by-kaori-vibes-quartet}
 
--   [Kaori Nakajima](https://qqvibnkaoripp.wixsite.com/jazz-vibist-kaori-na) - vibraphone
--   [Tamashi Goto](https://ameblo.jp/jazzsoul-tamapi/) - piano
--   [Minoru Yoshiki](https://yoshikiminoru.com/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2013 on Urban Jazz as 151A-0007.
 

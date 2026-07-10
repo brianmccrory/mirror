@@ -2,7 +2,7 @@
 title = "Sanae Ishikawa: Feel Like Makin’ Love"
 author = ["Brian McCrory"]
 publishDate = 2018-05-10
-tags = ["Sanae Ishikawa 石川早苗", "Shigeo Fukuda 福田重男", "Shinji Hashimoto 橋本信二", "Daisuke Toi トオイダイスケ", "Satoshi Kosugi 小杉敏", "Cecil Monroe"]
+tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ", "Satoshi Kosugi", "小杉敏", "Cecil Monroe"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -29,12 +29,12 @@ This 12-track album is well-rounded and arranged like a live performance, with f
 
 ## Feel Like Makin’ Love by Sanae Ishikawa {#feel-like-makin-love-by-sanae-ishikawa}
 
--   [Sanae Ishikawa](http://blog.livedoor.jp/sanny_jazz/) - vocal
--   [Shigeo Fukuda](https://shigeofukuda.com/) - piano, electric piano
--   [Shinji Hashimoto](https://session67.jp/interview/05/) - guitar
--   [Daisuke Toi](http://www.daisuketoi.com/) - bass
--   [Satoshi Kosugi](http://www7b.biglobe.ne.jp/kosugibass/) - bass
--   [Cecil Monroe](https://www.discogs.com/artist/314334-Cecil-Monroe) - drums
+-   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
+-   [Shigeo Fukuda](/tags/shigeo-fukuda) - piano, electric piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi) - bass
+-   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass
+-   [Cecil Monroe](/tags/cecil-monroe) - drums
 
 Released in 2007 on Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow as MTCJ-1098.
 

@@ -3,7 +3,7 @@ title = "Asuka Watanabe: Unaffected"
 author = ["Brian McCrory"]
 publishDate = 2026-03-23
 keywords = ["azumi-almost-like-being-in-love", "naoko-akimoto-no-one-else", "yako-horikita-shining-hour", "mie-joke-etrenne", "layla-tomomi-sakai-stolen-moments", "miwo-tranquillo", "rie-taguchi-the-gift-ii", "yoshiko-saita-back-in-time-to-boston"]
-tags = ["Asuka Watanabe 渡辺明日香", "Hideaki Yoshioka 吉岡秀晃", "Koji Yamashita 山下弘治", "Yoshitaka Uematsu 植松良高"]
+tags = ["Asuka Watanabe", "渡辺明日香", "Hideaki Yoshioka", "吉岡秀晃", "Koji Yamashita", "山下弘治", "Yoshitaka Uematsu", "植松良高"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -99,10 +99,10 @@ You’re invited to spend a sublime sophisticated time with mellow singing that 
 
 ## Unaffected by Asuka Watanabe {#unaffected-by-asuka-watanabe}
 
--   [Asuka Watanabe](http://asuka-wat.com/) - vocal
--   [Hideaki Yoshioka](http://hideakiyoshioka.com/) - piano
--   [Koji Yamashita](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1835) - bass
--   [Yoshitaka Uematsu](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2443) - drums
+-   [Asuka Watanabe](/tags/asuka-watanabe) - vocal
+-   [Hideaki Yoshioka](/tags/hideaki-yoshioka) - piano
+-   [Koji Yamashita](/tags/koji-yamashita) - bass
+-   [Yoshitaka Uematsu](/tags/yoshitaka-uematsu) - drums
 
 Released in 2004 on What’s New Records as WNCJ-2135.
 

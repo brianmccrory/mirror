@@ -2,7 +2,7 @@
 title = "Hideaki Kanazawa & Sumire Kuribayashi: Nijuso"
 author = ["Brian McCrory"]
 publishDate = 2020-01-28
-tags = ["Hideaki Kanazawa 金澤英明", "Sumire Kuribayashi 栗林すみれ"]
+tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,8 +26,8 @@ From the opening Ornette Coleman number “Mary Hartman, Mary Hartman”, the dr
 
 ## Nijuso by Hideaki Kanazawa &amp; Sumire Kuribayashi {#nijuso-by-hideaki-kanazawa-and-sumire-kuribayashi}
 
--   [Hideaki Kanazawa](http://kanabass.web.fc2.com/) - contrabass
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano, percussion
+-   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano, percussion
 
 Released in 2017 on Roving Spirits as RKCJ-2063.
 

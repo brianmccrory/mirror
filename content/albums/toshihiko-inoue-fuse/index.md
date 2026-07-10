@@ -3,7 +3,7 @@ title = "Toshihiko Inoue: Fuse"
 author = ["Brian McCrory"]
 publishDate = 2026-04-12
 keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
-tags = ["Toshihiko Inoue 井上淑彦", "Nobumasa Tanaka 田中信正", "Benisuke Sakai 坂井紅介", "Ken Tsunoda 角田健"]
+tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -39,10 +39,10 @@ Inoue and fuse followed up this album with their next album _Grasshopper_ in 200
 
 ## Fuse by Toshihiko Inoue {#fuse-by-toshihiko-inoue}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - saxophone
--   [Nobumasa Tanaka](http://tnobumasa.com/) - piano
--   [Benisuke Sakai](http://www.benisuke.com) - bass
--   [Ken Tsunoda](http://blog.livedoor.jp/tsunoken555/) - drums
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda) - drums
 
 Released in 1999 on Ewe Records as EWCD-0010.
 

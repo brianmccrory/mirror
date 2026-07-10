@@ -3,7 +3,7 @@ title = "Akane Matsumoto & Ayumi Koketsu: Trust"
 author = ["Brian McCrory"]
 publishDate = 2025-04-12
 keywords = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
-tags = ["Akane Matsumoto 松本茜", "Ayumi Koketsu 纐纈歩美"]
+tags = ["Akane Matsumoto", "松本茜", "Ayumi Koketsu", "纐纈歩美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -73,8 +73,8 @@ A twelve-year path walked together, carefully listening to and harmonizing with 
 
 ## Trust by Akane Matsumoto &amp; Ayumi Koketsu {#trust-by-akane-matsumoto-and-ayumi-koketsu}
 
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   [Ayumi Koketsu](http://a-koketsu.com/) - saxophone
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
 
 Released in 2024 on Concept Record as CR-18.
 

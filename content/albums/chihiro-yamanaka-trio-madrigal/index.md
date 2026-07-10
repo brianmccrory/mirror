@@ -2,7 +2,7 @@
 title = "Chihiro Yamanaka Trio: Madrigal"
 author = ["Brian McCrory"]
 publishDate = 2021-03-14
-tags = ["Chihiro Yamanaka 山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,10 +30,10 @@ This album hit #1 on the HMV Weekly Modern Jazz Chart and #2 on the HMV 2004 Yea
 
 ## Madrigal by Chihiro Yamanaka Trio {#madrigal-by-chihiro-yamanaka-trio}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   [Larry Grenadier](https://larrygrenadier.com/) - bass
--   [Rodney Green](http://rodneygreenjazz.com/) - drums (#1, 3, 4)
--   [Jeff Ballard](https://www.jeffballard.com/) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Larry Grenadier](/tags/larry-grenadier) - bass
+-   [Rodney Green](/tags/rodney-green) - drums (#1, 3, 4)
+-   [Jeff Ballard](/tags/jeff-ballard) - drums
 
 Released in 2004 on Atelier Sawano as AS-038.
 

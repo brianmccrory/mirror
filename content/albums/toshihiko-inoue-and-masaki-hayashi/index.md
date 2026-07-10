@@ -2,7 +2,7 @@
 title = "Toshihiko Inoue & Masaki Hayashi: Mistral"
 author = ["Brian McCrory"]
 publishDate = 2021-07-16
-tags = ["Toshihiko Inoue 井上淑彦", "Masaki Hayashi 林正樹"]
+tags = ["Toshihiko Inoue", "井上淑彦", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,8 +24,8 @@ The album opens up with Inoue striking out alone on solo saxophone on the beauti
 
 ## Mistral by Toshihiko Inoue &amp; Masaki Hayashi {#mistral-by-toshihiko-inoue-and-masaki-hayashi}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - tenor sax, soprano sax
--   [Masaki Hayashi](http://www.c-a-s-net.co.jp/masaki/) - piano
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
+-   [Masaki Hayashi](/tags/masaki-hayashi) - piano
 
 Released in 2013 on 78 Label as FNFY-06.
 

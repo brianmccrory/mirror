@@ -2,7 +2,7 @@
 title = "Manabu Ohishi Trio: Wish"
 author = ["Brian McCrory"]
 publishDate = 2018-04-10
-tags = ["Manabu Ohishi 大石学", "Jean-Philippe Viret", "Simon Goubert"]
+tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,9 +25,9 @@ Another moving feature is Ohishi’s lovely reharmonization of popular standards
 
 ## Wish by Manabu Ohishi Trio {#wish-by-manabu-ohishi-trio}
 
--   [Manabu Ohishi](https://cd-v.net/ohishi/) - piano
--   [Jean-Philippe Viret](https://www.jeanphilippeviret.com/) - bass
--   [Simon Goubert](https://simongoubert.bandcamp.com/) - drums
+-   [Manabu Ohishi](/tags/manabu-ohishi) - piano
+-   [Jean-Philippe Viret](/tags/jean-philippe-viret) - bass
+-   [Simon Goubert](/tags/simon-goubert) - drums
 
 Released in 2010 on Atelier Sawano as AS-100.
 

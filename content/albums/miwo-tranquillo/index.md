@@ -2,7 +2,7 @@
 title = "Miwo: Tranquillo"
 author = ["Brian McCrory"]
 publishDate = 2024-06-14
-tags = ["MIWO", "Mamoru Ishida 石田衛", "Daiki Yasukagawa 安ヵ川大樹", "Akira Sekine 関根彰良"]
+tags = ["MIWO", "Mamoru Ishida", "石田衛", "Daiki Yasukagawa", "安ヵ川大樹", "Akira Sekine", "関根彰良"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -54,10 +54,10 @@ _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calenda
 
 ## Tranquillo by Miwo {#tranquillo-by-miwo}
 
--   [MIWO](https://miwo-jazz.com/) - vocal
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Akira Sekine](http://akirasekine.com/) - guitar
+-   [MIWO](/tags/miwo) - vocal
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Akira Sekine](/tags/akira-sekine) - guitar
 
 Released in 2020 on Musica Fortunata as MF-001.
 

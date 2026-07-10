@@ -2,7 +2,7 @@
 title = "Takayuki Yagi: New Departure"
 author = ["Brian McCrory"]
 publishDate = 2021-01-19
-tags = ["Takayuki Yagi 八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
+tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -89,11 +89,11 @@ Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed
 
 ## New Departure by Takayuki Yagi {#new-departure-by-takayuki-yagi}
 
--   [Takayuki Yagi](https://yagitakayuki.com/) - piano
--   [Scott Wendholt](https://www.scottwendholt.net/) - trumpet (#1, 2, 3, 5)
--   [Ralph Bowen](http://www.ralphbowen.com/) - tenor saxophone (#1, 2, 3, 5)
--   [Jay Anderson](http://www.jayandersonbass.com/) - bass
--   [Billy Drummond](https://www.billydrummonddrums.com/) - drums
+-   [Takayuki Yagi](/tags/takayuki-yagi) - piano
+-   [Scott Wendholt](/tags/scott-wendholt) - trumpet (#1, 2, 3, 5)
+-   [Ralph Bowen](/tags/ralph-bowen) - tenor saxophone (#1, 2, 3, 5)
+-   [Jay Anderson](/tags/jay-anderson) - bass
+-   [Billy Drummond](/tags/billy-drummond) - drums
 
 Released in 2018 on JazzTOKYO RECORDS as JTRC-002.
 

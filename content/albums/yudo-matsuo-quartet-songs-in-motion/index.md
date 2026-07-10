@@ -3,7 +3,7 @@ title = "Yudo Matsuo Quartet: Songs in Motion"
 author = ["Brian McCrory"]
 publishDate = 2026-07-05
 keywords = ["yudo-matsuo-bonanza"]
-tags = ["Yudo Matsuo 松尾由堂", "Junichiro Ohkuchi 大口純一郎", "Yoshimasa Otsuka 大塚義将", "Sota Kira 吉良創太"]
+tags = ["Yudo Matsuo", "松尾由堂", "Junichiro Ohkuchi", "大口純一郎", "Yoshimasa Otsuka", "大塚義将", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -36,10 +36,10 @@ Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous
 
 ## Songs in Motion by Yudo Matsuo Quartet {#songs-in-motion-by-yudo-matsuo-quartet}
 
--   [Yudo Matsuo](https://yudomatsuo.tumblr.com/) - electric &amp; acoustic guitar
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano, Fender Rhodes
--   [Yoshimasa Otsuka](https://ameblo.jp/otsukabass/) - bass
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums
+-   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano, Fender Rhodes
+-   [Yoshimasa Otsuka](/tags/yoshimasa-otsuka) - bass
+-   [Sota Kira](/tags/sota-kira) - drums
 
 Released in 2018 on Song X Jazz as SONGX-055.
 

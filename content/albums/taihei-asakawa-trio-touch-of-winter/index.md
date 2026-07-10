@@ -2,7 +2,7 @@
 title = "Taihei Asakawa Trio: Touch of Winter"
 author = ["Brian McCrory"]
 publishDate = 2018-10-01
-tags = ["Taihei Asakawa 浅川太平", "Daiki Yasukagawa 安ヵ川大樹", "Ryo Noritake 則武諒"]
+tags = ["Taihei Asakawa", "浅川太平", "Daiki Yasukagawa", "安ヵ川大樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ This album also includes free moments which leave the musical structure open com
 
 ## Touch of Winter by Taihei Asakawa Trio {#touch-of-winter-by-taihei-asakawa-trio}
 
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano, compositions
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
 
 Released in 2013 on D-musica Daiki Musica as DMCD-26.
 

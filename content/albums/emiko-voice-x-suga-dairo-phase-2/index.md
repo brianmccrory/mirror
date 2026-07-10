@@ -2,7 +2,7 @@
 title = "Emiko Voice x Suga Dairo: Phase 2"
 author = ["Brian McCrory"]
 publishDate = 2020-02-26
-tags = ["Emiko Voice エミコヴォイス", "Dairo Suga スガダイロー"]
+tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロー"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,8 +25,8 @@ Playful yet serious, the duo also covers mid-tempo and ballad tracks such as “
 
 ## Phase 2 by Emiko Voice x Suga Dairo {#phase-2-by-emiko-voice-x-suga-dairo}
 
--   [Emiko Voice](http://www.emikovoice.com/) - vocal
--   [Dairo Suga](https://sugadairo.blogspot.com/) - piano
+-   [Emiko Voice](/tags/emiko-voice) - vocal
+-   [Dairo Suga](/tags/dairo-suga) - piano
 
 Released in 2009 on Cool Fool as CLFL-0003.
 

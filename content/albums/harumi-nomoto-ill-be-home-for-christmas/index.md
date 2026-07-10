@@ -3,7 +3,7 @@ title = "Harumi Nomoto: I’ll Be Home for Christmas"
 author = ["Brian McCrory"]
 publishDate = 2025-12-20
 keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo"]
-tags = ["Harumi Nomoto 野本晴美"]
+tags = ["Harumi Nomoto", "野本晴美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -33,7 +33,7 @@ Cheery and cozy, the spirit of jazz piano comes through each song on this album.
 
 ## I’ll Be Home for Christmas by Harumi Nomoto {#i-ll-be-home-for-christmas-by-harumi-nomoto}
 
--   [Harumi Nomoto](https://haruminomoto.jimdofree.com/) - piano, Nord Stage EX
+-   [Harumi Nomoto](/tags/harumi-nomoto) - piano, Nord Stage EX
 
 Released in 2023 on Okra Record as HTM-1224.
 

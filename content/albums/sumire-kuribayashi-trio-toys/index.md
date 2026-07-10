@@ -3,7 +3,7 @@ title = "Sumire Kuribayashi Trio: Toys"
 author = ["Brian McCrory"]
 publishDate = 2024-09-27
 keywords = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
-tags = ["Sumire Kuribayashi 栗林すみれ", "Shinichi Kato 加藤真一", "Takehiro Shimizu 清水勇博"]
+tags = ["Sumire Kuribayashi", "栗林すみれ", "Shinichi Kato", "加藤真一", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -95,9 +95,9 @@ _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu 
 
 ## Toys by Sumire Kuribayashi Trio {#toys-by-sumire-kuribayashi-trio}
 
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano
--   [Shinichi Kato](https://katoshinichi.net/) - bass
--   [Takehiro Shimizu](https://www.mindbodyunison.com/) - drums
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
+-   [Shinichi Kato](/tags/shinichi-kato) - bass
+-   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums
 
 Released in 2014 on Somethin’ Cool as SCOL-1003.
 

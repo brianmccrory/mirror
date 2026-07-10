@@ -2,7 +2,7 @@
 title = "Wataru Hamasaki Meets Akane Matsumoto Trio: Big Catch"
 author = ["Brian McCrory"]
 publishDate = 2018-08-13
-tags = ["Wataru Hamasaki 浜崎航", "Akane Matsumoto 松本茜", "Yasushi Gonjyo 権上康志", "Tatsuhiko Takeda 竹田達彦", "Osamu Hikage 日景修", "Kazuyoshi Kuroda 黒田和良", "Ryosuke Asai 浅井良将"]
+tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜", "Yasushi Gonjyo", "権上康志", "Tatsuhiko Takeda", "竹田達彦", "Osamu Hikage", "日景修", "Kazuyoshi Kuroda", "黒田和良", "Ryosuke Asai", "浅井良将"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,13 +30,13 @@ Cover art by Akane Matsumoto (_dig those Big Catch big cats having a ball on the
 
 ## Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio {#big-catch-by-wataru-hamasaki-meets-akane-matsumoto-trio}
 
--   [Wataru Hamasaki](http://www.watarujazz.com) - tenor and soprano sax, flute
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   Yasushi Gonjyo - bass
--   Tatsuhiko Takeda - drums
--   Osamu Hikage - bass (#3, 5, 6, 9)
--   Kazuyoshi Kuroda - drums (#3, 5, 6, 9)
--   [Ryosuke Asai](https://saxryosuke.exblog.jp/) - alto sax (#6)
+-   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor and soprano sax, flute
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Yasushi Gonjyo](/tags/yasushi-gonjyo) - bass
+-   [Tatsuhiko Takeda](/tags/tatsuhiko-takeda) - drums
+-   [Osamu Hikage](/tags/osamu-hikage) - bass (#3, 5, 6, 9)
+-   [Kazuyoshi Kuroda](/tags/kazuyoshi-kuroda) - drums (#3, 5, 6, 9)
+-   [Ryosuke Asai](/tags/ryosuke-asai) - alto sax (#6)
 
 Released in 2013 on Concept Records as CR-01.
 

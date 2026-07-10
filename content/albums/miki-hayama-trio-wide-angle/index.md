@@ -2,7 +2,7 @@
 title = "Miki Hayama Trio: Wide Angle"
 author = ["Brian McCrory"]
 publishDate = 2018-04-19
-tags = ["Miki Hayama 早間美紀", "Kiyoshi Kitagawa 北川潔", "Victor Lewis"]
+tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor Lewis"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,9 +25,9 @@ In addition to straight-ahead locomotion, other angles are explored: wisps of fa
 
 ## Wide Angle by Miki Hayama Trio {#wide-angle-by-miki-hayama-trio}
 
--   [Miki Hayama](http://www.mikihayama.com/) - piano
--   [Kiyoshi Kitagawa](https://en.wikipedia.org/wiki/Kiyoshi_Kitagawa) - bass
--   [Victor Lewis](https://en.wikipedia.org/wiki/Victor_Lewis) - drums
+-   [Miki Hayama](/tags/miki-hayama) - piano
+-   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
+-   [Victor Lewis](/tags/victor-lewis) - drums
 
 Released in 2009 on ART UNION/@jazz as ARTCD-114.
 

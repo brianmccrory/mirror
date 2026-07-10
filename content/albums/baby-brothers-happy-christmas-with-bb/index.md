@@ -3,7 +3,7 @@ title = "Baby Brothers: Happy Christmas with Bb"
 author = ["Brian McCrory"]
 publishDate = 2023-12-24
 keywords = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
-tags = ["Sanae Ishikawa 石川早苗", "Monet モネ", "Kyoko Ogata 緒方京子", "Takahiko Goto ごとうたかひこ", "Yohhei ようへい"]
+tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,11 +26,11 @@ Following the eight live tracks, four studio-recorded songs include two finely-t
 
 ## Happy Christmas with Bb by Baby Brothers {#happy-christmas-with-bb-by-baby-brothers}
 
--   [Sanae Ishikawa](http://blog.livedoor.jp/sanny_jazz/) - vocal
--   Monet - vocal
--   Kyoko Ogata - vocal
--   Takahiko Goto - vocal
--   Yohhei - vocal
+-   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
+-   [Monet](/tags/monet) - vocal
+-   [Kyoko Ogata](/tags/kyoko-ogata) - vocal
+-   [Takahiko Goto](/tags/takahiko-goto) - vocal
+-   [Yohhei](/tags/yohhei) - vocal
 
 Released in 2007 on Baby Brothers as Side B.
 

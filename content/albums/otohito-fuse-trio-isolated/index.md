@@ -3,7 +3,7 @@ title = "Otohito Fuse Trio: Isolated"
 author = ["Brian McCrory"]
 publishDate = 2024-06-07
 keywords = ["yuya-wakai-images"]
-tags = ["Otohito Fuse 布施音人", "Riku Takahashi 高橋陸", "Kaito Nakamura 中村海斗"]
+tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -40,9 +40,9 @@ It’s impressive that such young players are already producing a mature, respec
 
 ## Isolated by Otohito Fuse Trio {#isolated-by-otohito-fuse-trio}
 
--   [Otohito Fuse](https://otohitofuse.com/) - piano
--   [Riku Takahashi](http://rikubass.com/) - bass
--   [Kaito Nakamura](https://www.instagram.com/kaito_nkmr_d/) - drums
+-   [Otohito Fuse](/tags/otohito-fuse) - piano
+-   [Riku Takahashi](/tags/riku-takahashi) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura) - drums
 
 Released in 2024 on Otohito Fuse Music as OFM-001.
 

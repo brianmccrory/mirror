@@ -3,7 +3,7 @@ title = "Shikou Ito Trio Syncretia: Kakusareta Guwa"
 author = ["Brian McCrory"]
 publishDate = 2026-02-22
 keywords = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
-tags = ["Shikou Ito 伊藤志宏", "Benisuke Sakai 坂井紅介", "Gen Ogimi 大儀見元"]
+tags = ["Shikou Ito", "伊藤志宏", "Benisuke Sakai", "坂井紅介", "Gen Ogimi", "大儀見元"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -41,9 +41,9 @@ Themes from these titles include nature, fantasy, and musical ideas, but taken a
 
 ## Kakusareta Guwa by Shikou Ito Trio Syncretia {#kakusareta-guwa-by-shikou-ito-trio-syncretia}
 
--   [Shikou Ito](https://www.shikoupf.com/) - piano
--   [Benisuke Sakai](http://www.benisuke.com) - bass
--   [Gen Ogimi](https://www.genogimi.com/) - percussion
+-   [Shikou Ito](/tags/shikou-ito) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai) - bass
+-   [Gen Ogimi](/tags/gen-ogimi) - percussion
 
 Released in 2025 on Musica Visionaire as MVSI-1003.
 

@@ -2,7 +2,7 @@
 title = "Layla Tomomi Sakai: Whisper Not"
 author = ["Brian McCrory"]
 publishDate = 2021-03-08
-tags = ["Layla Tomomi Sakai 坂井レイラ知美", "Yuichiro Hiraoka 平岡遊一郎", "Ryuichi Takase 高瀬龍一"]
+tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,9 +21,9 @@ Buoyed by guitar chords and trumpet improvisation, Sakai’s voice emotes cleanl
 
 ## Whisper Not by Layla Tomomi Sakai {#whisper-not-by-layla-tomomi-sakai}
 
--   [Layla Tomomi Sakai](https://www.sakailaylatomomi.com/) - vocal
--   [Yuichiro Hiraoka](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=4205) - guitar
--   [Ryuichi Takase](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1532) - trumpet
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase) - trumpet
 
 Released in 2016 on Sakai Layla Tomomi as 1.
 

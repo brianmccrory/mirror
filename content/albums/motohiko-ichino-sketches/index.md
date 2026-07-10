@@ -3,7 +3,7 @@ title = "Motohiko Ichino: Sketches"
 author = ["Brian McCrory"]
 publishDate = 2024-07-26
 keywords = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-frozen-dust", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "kaoru-azuma-hitomi-nishiyama-faces"]
-tags = ["Motohiko Ichino 市野元彦", "Hikaru Toho 東保光", "Shinichiro Kamoto 嘉本信一郎", "Taiichi Kamimura かみむら泰一"]
+tags = ["Motohiko Ichino", "市野元彦", "Hikaru Toho", "東保光", "Shinichiro Kamoto", "嘉本信一郎", "Taiichi Kamimura", "かみむら泰一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -38,10 +38,10 @@ Motohiko Ichino was born in Kobe. He studied at Berklee College of Music under M
 
 ## Sketches by Motohiko Ichino {#sketches-by-motohiko-ichino}
 
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Hikaru Toho](https://pikasuke.exblog.jp/) - acoustic bass
--   [Shinichiro Kamoto](http://shinkoman.web.fc2.com/) - drums
--   [Taiichi Kamimura](http://www.taisax.jeez.jp/) - tenor sax (#2, 5, 6, 10)
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Hikaru Toho](/tags/hikaru-toho) - acoustic bass
+-   [Shinichiro Kamoto](/tags/shinichiro-kamoto) - drums
+-   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor sax (#2, 5, 6, 10)
 
 Released in 2007 on Ammonite Musique as AM-1001.
 

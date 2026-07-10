@@ -2,7 +2,7 @@
 title = "Seiji Tada: Workout!!"
 author = ["Brian McCrory"]
 publishDate = 2020-01-13
-tags = ["Seiji Tada 多田誠司", "Renee Rosnes", "Peter Washington", "Kenny Washington"]
+tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny Washington"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,10 +25,10 @@ Whether Japanese or American, in New York or Tokyo, the “This is Jazz!” spir
 
 ## Workout!! by Seiji Tada {#workout-by-seiji-tada}
 
--   [Seiji Tada](https://www.tadasei.net/) - alto sax, flute, alto flute
--   [Renee Rosnes](https://reneerosnes.com/) - piano
--   [Peter Washington](https://en.wikipedia.org/wiki/Peter_Washington) - bass
--   [Kenny Washington](https://en.wikipedia.org/wiki/Kenny_Washington_(musician)) - drums
+-   [Seiji Tada](/tags/seiji-tada) - alto sax, flute, alto flute
+-   [Renee Rosnes](/tags/renee-rosnes) - piano
+-   [Peter Washington](/tags/peter-washington) - bass
+-   [Kenny Washington](/tags/kenny-washington) - drums
 
 Released in 2018 on Studio TLive Records as STLR-018.
 

@@ -2,7 +2,7 @@
 title = "Baby Brothers: Bb"
 author = ["Brian McCrory"]
 publishDate = 2020-03-23
-tags = ["Sanae Ishikawa 石川早苗", "Monet モネ", "Kyoko Ogata 緒方京子", "Takahiko Goto ごとうたかひこ", "Yohhei ようへい"]
+tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,11 +24,11 @@ In addition to the jazz tunes, other genres perfectly suited to Baby Brothers in
 
 ## Bb by Baby Brothers {#bb-by-baby-brothers}
 
--   [Sanae Ishikawa](http://blog.livedoor.jp/sanny_jazz/) - vocal
--   Monet - lead vocal, 2nd chorus
--   Kyoko Ogata - lead vocal, 3rd chorus
--   Takahiko Goto - lead vocal, 4th chorus, bass, voice trumpet
--   Yohhei - lead vocal, bass, 4th chorus, human beat box
+-   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
+-   [Monet](/tags/monet) - lead vocal, 2nd chorus
+-   [Kyoko Ogata](/tags/kyoko-ogata) - lead vocal, 3rd chorus
+-   [Takahiko Goto](/tags/takahiko-goto) - lead vocal, 4th chorus, bass, voice trumpet
+-   [Yohhei](/tags/yohhei) - lead vocal, bass, 4th chorus, human beat box
 
 Released in 2007 on Bb Records as Bb.
 

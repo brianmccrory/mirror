@@ -3,7 +3,7 @@ title = "Hikari Ichihara: Sara Smile"
 author = ["Brian McCrory"]
 publishDate = 2024-07-15
 keywords = ["hikari-ichihara-group-move-on"]
-tags = ["Hikari Ichihara 市原ひかり", "Adam Birnbaum", "Peter Washington", "Lewis Nash", "Dominick Farinacci", "Grant Stewart"]
+tags = ["Hikari Ichihara", "市原ひかり", "Adam Birnbaum", "Peter Washington", "Lewis Nash", "Dominick Farinacci", "Grant Stewart"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -92,12 +92,12 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 
 ## Sara Smile by Hikari Ichihara {#sara-smile-by-hikari-ichihara}
 
--   [Hikari Ichihara](https://hikariichihara.com/) - trumpet &amp; flugelhorn
--   [Adam Birnbaum](https://www.adambirnbaum.com/) - piano
--   [Peter Washington](https://en.wikipedia.org/wiki/Peter_Washington) - bass
--   [Lewis Nash](https://lewisnashmusic.com/) - drums
--   [Dominick Farinacci](https://www.dominickfarinacci.com/) - trumpet
--   [Grant Stewart](https://www.grantstewartjazz.com/) - tenor saxophone
+-   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet &amp; flugelhorn
+-   [Adam Birnbaum](/tags/adam-birnbaum) - piano
+-   [Peter Washington](/tags/peter-washington) - bass
+-   [Lewis Nash](/tags/lewis-nash) - drums
+-   [Dominick Farinacci](/tags/dominick-farinacci) - trumpet
+-   [Grant Stewart](/tags/grant-stewart) - tenor saxophone
 
 Released in 2006 on Leafage Jazz as PCCY-60003.
 

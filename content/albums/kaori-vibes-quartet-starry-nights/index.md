@@ -3,7 +3,7 @@ title = "Kaori Vibes Quartet: Starry Nights"
 author = ["Brian McCrory"]
 publishDate = 2023-11-03
 keywords = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
-tags = ["Kaori Nakajima 中島香里", "Tamashi Goto 後藤魂", "Minoru Yoshiki 吉木稔", "Masanori Ando 安藤正則"]
+tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -72,10 +72,10 @@ At the end of 2020, on the day before my birthday, my beloved grandfather passed
 
 ## Starry Nights by Kaori Vibes Quartet {#starry-nights-by-kaori-vibes-quartet}
 
--   [Kaori Nakajima](https://qqvibnkaoripp.wixsite.com/jazz-vibist-kaori-na) - vibraphone
--   [Tamashi Goto](https://ameblo.jp/jazzsoul-tamapi/) - piano
--   [Minoru Yoshiki](https://yoshikiminoru.com/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2021 on Urban Jazz as 151A-0027.
 

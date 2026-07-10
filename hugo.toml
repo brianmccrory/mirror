@@ -1,14 +1,21 @@
 baseURL = 'https://mirror.jazzofjapan.com/'
 locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
-
 theme = "PaperMod"
 
 [pagination]
   pagerSize = 30
-  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [params]
   mainSections = ["albums", "clubs", "guides"]
+  showReadingTime = false
+  showWordCount = false
+  hideAuthor = false
   [params.cover]
     hidden = false
     hiddenInList = false
@@ -86,7 +93,7 @@ theme = "PaperMod"
 #   url = "/rss/"
 #   weight = 6
   
-# [[menu.main]]
-#   name = "About"
-#   url = "/about/"
-#   weight = 7
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 7

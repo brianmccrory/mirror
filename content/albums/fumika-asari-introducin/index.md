@@ -2,7 +2,7 @@
 title = "Fumika Asari: Introducin’"
 author = ["Brian McCrory"]
 publishDate = 2023-08-04
-tags = ["Fumika Asari 浅利史花", "Sadanori Nakamure 中牟礼貞則", "Satoshi Kosugi 小杉敏", "Daiki Mishima 三嶋大輝", "Mamoru Ishida 石田衛", "Kanoko Kitajima 北島佳乃子", "Hiro Kimura 木村紘", "Yusuke Yaginuma 柳沼佑育", "Akane Ezawa 江澤茜", "Itsumi Komano 駒野逸美"]
+tags = ["Fumika Asari", "浅利史花", "Sadanori Nakamure", "中牟礼貞則", "Satoshi Kosugi", "小杉敏", "Daiki Mishima", "三嶋大輝", "Mamoru Ishida", "石田衛", "Kanoko Kitajima", "北島佳乃子", "Hiro Kimura", "木村紘", "Yusuke Yaginuma", "柳沼佑育", "Akane Ezawa", "江澤茜", "Itsumi Komano", "駒野逸美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -56,16 +56,16 @@ _Jazz journalist Hiro Yamanaka 山中弘行_
 
 ## Introducin’ by Fumika Asari {#introducin-by-fumika-asari}
 
--   [Fumika Asari](https://fumikaasari.com/) - guitar
--   [Sadanori Nakamure](http://www.aoki2.com/zest/zest.html) - guitar (#3)
--   [Satoshi Kosugi](http://www7b.biglobe.ne.jp/kosugibass/) - bass (#1, 2)
--   [Daiki Mishima](https://jazzshiryokan.net/jazzDB/performer_detail.php?recordID=M13498) - bass (#4, 5, 7, 8)
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano, Rhodes (#6, 8)
--   [Kanoko Kitajima](https://ameblo.jp/jazz-pf/) - piano (#1, 4)
--   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums (#1, 2, 8)
--   [Yusuke Yaginuma](https://ameblo.jp/yusukebebop/) - drums (#4, 5)
--   [Akane Ezawa](https://akaneezawa.com/) - alto saxophone (#7, 8)
--   [Itsumi Komano](https://ameblo.jp/komanoitsumi-trombone/) - trombone (#7, 8)
+-   [Fumika Asari](/tags/fumika-asari) - guitar
+-   [Sadanori Nakamure](/tags/sadanori-nakamure) - guitar (#3)
+-   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass (#1, 2)
+-   [Daiki Mishima](/tags/daiki-mishima) - bass (#4, 5, 7, 8)
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano, Rhodes (#6, 8)
+-   [Kanoko Kitajima](/tags/kanoko-kitajima) - piano (#1, 4)
+-   [Hiro Kimura](/tags/hiro-kimura) - drums (#1, 2, 8)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums (#4, 5)
+-   [Akane Ezawa](/tags/akane-ezawa) - alto saxophone (#7, 8)
+-   [Itsumi Komano](/tags/itsumi-komano) - trombone (#7, 8)
 
 Released in 2020 on ReBorn Wood as RBW-0018.
 

@@ -2,7 +2,7 @@
 title = "Shinichi Kato & Masahiko Sato: Duet"
 author = ["Brian McCrory"]
 publishDate = 2021-06-07
-tags = ["Shinichi Kato 加藤真一", "Masahiko Sato 佐藤允彦"]
+tags = ["Shinichi Kato", "加藤真一", "Masahiko Sato", "佐藤允彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,8 +26,8 @@ Overall, _Duet_ is a nice balance of absorbing and hazy music, swirling around t
 
 ## Duet by Shinichi Kato &amp; Masahiko Sato {#duet-by-shinichi-kato-and-masahiko-sato}
 
--   [Shinichi Kato](https://katoshinichi.net/) - bass
--   [Masahiko Sato](http://www.mmjp.or.jp/m_satoh/) - piano
+-   [Shinichi Kato](/tags/shinichi-kato) - bass
+-   [Masahiko Sato](/tags/masahiko-sato) - piano
 
 Released in 2001 on Nagel Heyer Records as CD-2017.
 

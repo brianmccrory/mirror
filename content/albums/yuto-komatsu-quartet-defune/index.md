@@ -3,7 +3,7 @@ title = "Yuto Komatsu Quartet: Defune"
 author = ["Brian McCrory"]
 publishDate = 2026-04-05
 keywords = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
-tags = ["Yuto Komatsu 小松悠人", "Mikiko Nagatake 永武幹子", "Daisuke Ijichi 伊地知大輔", "Makoto Rikitake 力武誠"]
+tags = ["Yuto Komatsu", "小松悠人", "Mikiko Nagatake", "永武幹子", "Daisuke Ijichi", "伊地知大輔", "Makoto Rikitake", "力武誠"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -95,10 +95,10 @@ I had thought that bursts were things that happened in the world of F1. Then, on
 
 ## Defune by Yuto Komatsu Quartet {#defune-by-yuto-komatsu-quartet}
 
--   [Yuto Komatsu](http://blog.livedoor.jp/aaakomatta/) - trumpet, flugelhorn
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
--   [Daisuke Ijichi](http://blog.livedoor.jp/dai_ijichi/) - bass
--   [Makoto Rikitake](https://ameblo.jp/makoto-rikitake/) - drums
+-   [Yuto Komatsu](/tags/yuto-komatsu) - trumpet, flugelhorn
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Daisuke Ijichi](/tags/daisuke-ijichi) - bass
+-   [Makoto Rikitake](/tags/makoto-rikitake) - drums
 
 Released in 2025 on YK Offshore as “02”.
 

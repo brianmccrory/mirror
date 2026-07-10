@@ -2,7 +2,7 @@
 title = "Akane Matsumoto & Nanami Haruta: For My Lady"
 author = ["Brian McCrory"]
 publishDate = 2023-07-21
-tags = ["Nanami Haruta 治田七海", "Akane Matsumoto 松本茜"]
+tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -83,8 +83,8 @@ By the way, when I happen to hum this song, I’m struck and transformed by the 
 
 ## For My Lady by Akane Matsumoto &amp; Nanami Haruta {#for-my-lady-by-akane-matsumoto-and-nanami-haruta}
 
--   [Nanami Haruta](http://www.nanamiharuta.com/) - trombone
--   [Akane Matsumoto](http://akanejazz.com) - piano
+-   [Nanami Haruta](/tags/nanami-haruta) - trombone
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 
 Released in 2023 on Concept Record as CR-17.
 

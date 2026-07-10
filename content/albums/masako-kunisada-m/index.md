@@ -2,7 +2,7 @@
 title = "Masako Kunisada: M"
 author = ["Brian McCrory"]
 publishDate = 2019-03-14
-tags = ["Masako Kunisada 国貞雅子", "Manabu Ohishi 大石学", "M-oto エムオート"]
+tags = ["Masako Kunisada", "国貞雅子", "Manabu Ohishi", "大石学", "M-oto", "エムオート"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,9 +27,9 @@ An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effecti
 
 ## M by Masako Kunisada {#m-by-masako-kunisada}
 
--   [Masako Kunisada](https://machappa.wixsite.com/masakokunisada) - vocal
--   [Manabu Ohishi](https://cd-v.net/ohishi/) - all instruments, arrangements
--   M-oto - human beat box (tracks #2, 4, 5, 7)
+-   [Masako Kunisada](/tags/masako-kunisada) - vocal
+-   [Manabu Ohishi](/tags/manabu-ohishi) - all instruments, arrangements
+-   [M-oto](/tags/m-oto) - human beat box (tracks #2, 4, 5, 7)
 
 Released in 2014 on Masaki Kunisada as M.
 

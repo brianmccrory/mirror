@@ -2,7 +2,7 @@
 title = "Arco: Live At Yoncha"
 author = ["Brian McCrory"]
 publishDate = 2021-03-22
-tags = ["Sayaka Kishi 岸淑香", "Mayumi Sano 佐野まゆみ"]
+tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,8 +26,8 @@ On _Live At Yoncha_, the set kicks off with an original tune, the fiery “Fiest
 
 ## Live At Yoncha by Arco {#live-at-yoncha-by-arco}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, melodion
--   [Mayumi Sano](http://sanomayumi.com/) - cello
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano) - cello
 
 Released in 2018 on Arco as handmade compact discs.
 

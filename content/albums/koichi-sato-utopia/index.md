@@ -2,7 +2,7 @@
 title = "Koichi Sato: Utopia"
 author = ["Brian McCrory"]
 publishDate = 2018-09-26
-tags = ["Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ko Omura 大村亘"]
+tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,9 +23,9 @@ The nine original songs on this album are full of lyrical freshness balanced wit
 
 ## Utopia by Koichi Sato {#utopia-by-koichi-sato}
 
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
+-   [Ko Omura](/tags/ko-omura) - drums
 
 Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.
 

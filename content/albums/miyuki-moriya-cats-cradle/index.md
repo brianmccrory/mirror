@@ -2,7 +2,7 @@
 title = "Miyuki Moriya: Cat’s Cradle"
 author = ["Brian McCrory"]
 publishDate = 2020-02-17
-tags = ["Miyuki Moriya 守谷美由貴", "Mamoru Ishida 石田衛", "Kohei Kamuro かむろ耕平", "Hiroshi Ikejiri 池尻洋史", "Sohnosuke Imaizumi 今泉総之輔"]
+tags = ["Miyuki Moriya", "守谷美由貴", "Mamoru Ishida", "石田衛", "Kohei Kamuro", "かむろ耕平", "Hiroshi Ikejiri", "池尻洋史", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,11 +24,11 @@ Sharply-crafted jazz with a modern spark particularly identifies Moriya’s musi
 
 ## Cat’s Cradle by Miyuki Moriya {#cat-s-cradle-by-miyuki-moriya}
 
--   [Miyuki Moriya](https://www.tunecore.co.jp/artists?id=841864) - alto sax
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Kohei Kamuro](https://ameblo.jp/chicagomoon/) - guitar
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - bass
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
+-   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Kohei Kamuro](/tags/kohei-kamuro) - guitar
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
 
 Released in 2010 on Coume Music as DQC-565.
 

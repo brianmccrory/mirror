@@ -3,7 +3,7 @@ title = "Hiroshi Fukutomi Quintet: Rings of Saturn"
 author = ["Brian McCrory"]
 publishDate = 2026-01-10
 keywords = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
-tags = ["Hiroshi Fukutomi 福冨博", "Masahiro Yamamoto 山本昌広", "Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ryo Shibata 柴田亮"]
+tags = ["Hiroshi Fukutomi", "福冨博", "Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ryo Shibata", "柴田亮"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -98,11 +98,11 @@ The resonance of five distinct personalities blossoms with a rich harmony.
 
 ## Rings of Saturn by Hiroshi Fukutomi Quintet {#rings-of-saturn-by-hiroshi-fukutomi-quintet}
 
--   [Hiroshi Fukutomi](https://hiroshifukutomi.jimdofree.com/) - guitar
--   [Masahiro Yamamoto](https://momohiko61.exblog.jp/) - alto and soprano sax
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - bass
--   [Ryo Shibata](https://www.instagram.com/worldpeacenow/) - drums
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - guitar
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto and soprano sax
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
+-   [Ryo Shibata](/tags/ryo-shibata) - drums
 
 Released in 2010 on D-musica as DMCD-04.
 

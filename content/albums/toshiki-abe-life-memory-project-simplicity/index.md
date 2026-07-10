@@ -3,7 +3,7 @@ title = "Toshiki Abe Life Memory Project: The Simplicity"
 author = ["Brian McCrory"]
 publishDate = 2025-10-19
 keywords = ["aquapit-aquapit", "sayaketts-colors"]
-tags = ["Toshiki Abe 阿部俊貴", "Sayaka Kishi 岸淑香", "Tetsunori Morinaga 森永哲則"]
+tags = ["Toshiki Abe", "阿部俊貴", "Sayaka Kishi", "岸淑香", "Tetsunori Morinaga", "森永哲則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,9 +34,9 @@ I recently asked Toshiki Abe his about the memories he had of Life Memory Projec
 
 ## The Simplicity by Toshiki Abe Life Memory Project {#the-simplicity-by-toshiki-abe-life-memory-project}
 
--   [Toshiki Abe](https://www.toshikiabesax.com/) - saxophone
--   [Sayaka Kishi](http://www.sayaketto.net/) - organ
--   [Tetsunori Morinaga](https://www.morinagatetsunori.com/) - drums
+-   [Toshiki Abe](/tags/toshiki-abe) - saxophone
+-   [Sayaka Kishi](/tags/sayaka-kishi) - organ
+-   [Tetsunori Morinaga](/tags/tetsunori-morinaga) - drums
 
 Released in 2022 on Yokohama Reunion as YRCD-020.
 

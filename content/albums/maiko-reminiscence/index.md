@@ -3,7 +3,7 @@ title = "Maiko: Reminiscence"
 author = ["Brian McCrory"]
 publishDate = 2026-05-10
 keywords = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
-tags = ["maiko マイコ", "Shikou Ito 伊藤志宏", "Yuki Ito 伊東佑季", "Kazuma Fujimoto 藤本一馬", "Aya Kurosawa 黒沢綾"]
+tags = ["maiko", "マイコ", "Shikou Ito", "伊藤志宏", "Yuki Ito", "伊東佑季", "Kazuma Fujimoto", "藤本一馬", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -110,11 +110,11 @@ This album was created upon a foundation of the many encounters that have shaped
 
 ## Reminiscence by Maiko {#reminiscence-by-maiko}
 
--   [maiko](https://jvmaiko.com/) - violin
--   [Shikou Ito](https://www.shikoupf.com/) - piano (#1, 2, 3, 6, 7, 8)
--   [Yuki Ito](https://yukibass.com/) - bass (#1, 3, 8)
--   [Kazuma Fujimoto](https://www.kazumafujimoto.com/) - guitar (#1, 5, 6)
--   [Aya Kurosawa](https://ayakurosawa.me/) - voice (#2), vocals, piano, lyrics (#4)
+-   [maiko](/tags/maiko) - violin
+-   [Shikou Ito](/tags/shikou-ito) - piano (#1, 2, 3, 6, 7, 8)
+-   [Yuki Ito](/tags/yuki-ito) - bass (#1, 3, 8)
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto) - guitar (#1, 5, 6)
+-   [Aya Kurosawa](/tags/aya-kurosawa) - voice (#2), vocals, piano, lyrics (#4)
 
 Released in 2024 on GardenNotes Music as GNM-1026.
 

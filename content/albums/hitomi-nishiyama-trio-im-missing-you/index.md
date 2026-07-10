@@ -3,7 +3,7 @@ title = "Hitomi Nishiyama Trio: I’m Missing You"
 author = ["Brian McCrory"]
 publishDate = 2025-03-30
 keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
-tags = ["Hitomi Nishiyama 西山瞳", "Mitsuaki Hara 原満章", "Tsutomu Kawauchi 川内努", "Satoshi Otani 大谷訓史", "Takehiro Shimizu 清水勇博"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Mitsuaki Hara", "原満章", "Tsutomu Kawauchi", "川内努", "Satoshi Otani", "大谷訓史", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -61,11 +61,11 @@ Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in t
 
 ## I’m Missing You by Hitomi Nishiyama Trio {#i-m-missing-you-by-hitomi-nishiyama-trio}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Mitsuaki Hara](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=5323) - bass
--   [Tsutomu Kawauchi](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=5324) - drums
--   [Satoshi Otani](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M5325) - bass (#9, 10, 11)
--   [Takehiro Shimizu](https://www.mindbodyunison.com/) - drums (#9, 10, 11)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Mitsuaki Hara](/tags/mitsuaki-hara) - bass
+-   [Tsutomu Kawauchi](/tags/tsutomu-kawauchi) - drums
+-   [Satoshi Otani](/tags/satoshi-otani) - bass (#9, 10, 11)
+-   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums (#9, 10, 11)
 
 Released in 2004 on Steps Records as VNTM-04001.
 

@@ -2,7 +2,7 @@
 title = "Arco: Asymmetry"
 author = ["Brian McCrory"]
 publishDate = 2018-01-31
-tags = ["Sayaka Kishi 岸淑香", "Mayumi Sano 佐野まゆみ"]
+tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -19,8 +19,8 @@ Pianist Sayaki Kishi and cellist Mayumi Sano released their first album together
 
 ## Asymmetry by Arco {#asymmetry-by-arco}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, melodion
--   [Mayumi Sano](http://sanomayumi.com/) - cello
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano) - cello
 
 Released in 2017 on dandanorchestra as DAN-007.
 

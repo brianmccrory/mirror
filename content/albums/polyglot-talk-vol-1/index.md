@@ -3,7 +3,7 @@ title = "Polyglot: Talk, Vol. 1"
 author = ["Brian McCrory"]
 publishDate = 2024-02-02
 keywords = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
-tags = ["Steve Barry", "Kosuke Ochiai 落合康介", "Ko Omura 大村亘", "Hiroyuki Ishikawa 石川広行"]
+tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘", "Hiroyuki Ishikawa", "石川広行"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -41,10 +41,10 @@ _(The notes printed on the obi are an excerpt from the liner notes.)_
 
 ## Talk, Vol. 1 by Polyglot {#talk-vol-dot-1-by-polyglot}
 
--   [Steve Barry](https://www.stevebarrymusic.com/) - piano
--   [Kosuke Ochiai](https://skbss117.exblog.jp/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums &amp; tabla
--   [Hiroyuki Ishikawa](https://ameblo.jp/voice-to-voices/) - trumpet (3, 4, &amp; 8)
+-   [Steve Barry](/tags/steve-barry) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai) - bass
+-   [Ko Omura](/tags/ko-omura) - drums &amp; tabla
+-   [Hiroyuki Ishikawa](/tags/hiroyuki-ishikawa) - trumpet (3, 4, &amp; 8)
 
 Released in 2020 on Studio Songs as YZSO-10104.
 

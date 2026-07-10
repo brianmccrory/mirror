@@ -2,7 +2,7 @@
 title = "Chihiro Yamanaka: Outside by the Swing"
 author = ["Brian McCrory"]
 publishDate = 2023-05-11
-tags = ["Chihiro Yamanaka 山中千尋", "Robert Hurst", "Jeff “Tain” Watts"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Robert Hurst", "Jeff “Tain” Watts"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,9 +26,9 @@ Perfectly in line with the direct reference in the album title, pure, simple, st
 
 ## Outside by the Swing by Chihiro Yamanaka {#outside-by-the-swing-by-chihiro-yamanaka}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   [Robert Hurst](https://www.roberthurst.com/) - bass
--   [Jeff “Tain” Watts](https://jefftain.bandcamp.com/) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Robert Hurst](/tags/robert-hurst) - bass
+-   [Jeff “Tain” Watts](/tags/jeff-tain-watts) - drums
 
 Released in 2005 on Verve as UCCJ-2040.
 

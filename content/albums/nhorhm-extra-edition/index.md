@@ -2,7 +2,7 @@
 title = "NHORHM: New Heritage of Real Heavy Metal -Extra Edition-"
 author = ["Brian McCrory"]
 publishDate = 2020-01-07
-tags = ["Hitomi Nishiyama 西山瞳", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -32,9 +32,9 @@ _About the name: Perhaps an unwieldy moniker at first, NHORHM - New Heritage Of 
 
 ## New Heritage of Real Heavy Metal -Extra Edition- by NHORHM {#new-heritage-of-real-heavy-metal-extra-edition-by-nhorhm}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano, arrangements, composition
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
 
 Released in 2019 on Apollo Sounds as APLS1905.
 

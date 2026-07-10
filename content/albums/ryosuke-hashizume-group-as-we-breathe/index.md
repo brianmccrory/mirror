@@ -3,7 +3,7 @@ title = "Ryosuke Hashizume Group: As We Breathe"
 author = ["Brian McCrory"]
 publishDate = 2025-08-17
 keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-side-two", "ryosuke-hashizume-group-incomplete-voices"]
-tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Manabu Hashimoto 橋本学", "Ryoji Orihara 織原良次", "Masako Hamamura 浜村昌子", "Taihei Asakawa 浅川太平"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Manabu Hashimoto", "橋本学", "Ryoji Orihara", "織原良次", "Masako Hamamura", "浜村昌子", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -49,12 +49,12 @@ As seen in the track listing, there is an interesting use of self-reference in t
 
 ## As We Breathe by Ryosuke Hashizume Group {#as-we-breathe-by-ryosuke-hashizume-group}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone, loops
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar, effects
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Masako Hamamura](https://masakoh.exblog.jp/) - piano (#2, 8, 9)
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Masako Hamamura](/tags/masako-hamamura) - piano (#2, 8, 9)
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
 
 Released in 2008 on BounDEE Jazz Library as DDCJ-13004/DDCJ-7004.
 

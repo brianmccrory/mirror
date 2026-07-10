@@ -3,7 +3,7 @@ title = "Emiko Voice & Yuka Yanagihara: Enyana"
 author = ["Brian McCrory"]
 publishDate = 2025-03-02
 keywords = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-coracao-a-tempo", "emiko-voice-carta", "yuka-yanagihara-trio-inner-views", "emiko-voice-standard-trio", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones"]
-tags = ["Emiko Voice エミコヴォイス", "Yuka Yanagihara 柳原由佳"]
+tags = ["Emiko Voice", "エミコヴォイス", "Yuka Yanagihara", "柳原由佳"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -114,8 +114,8 @@ When I first heard this, I thought it was such a beautiful song. As EMiKO explai
 
 ## Enyana by Emiko Voice &amp; Yuka Yanagihara {#enyana-by-emiko-voice-and-yuka-yanagihara}
 
--   [Emiko Voice](http://www.emikovoice.com/) - vocal, voice, percussion
--   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
+-   [Emiko Voice](/tags/emiko-voice) - vocal, voice, percussion
+-   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
 
 Released in 2025 on ENYANA Music as EYM-0001.
 

@@ -2,7 +2,7 @@
 title = "Hitomi Nishiyama Trio: Sympathy"
 author = ["Brian McCrory"]
 publishDate = 2019-06-20
-tags = ["Hitomi Nishiyama 西山瞳", "Yasuhiko “Hachi” Sato 佐藤“ハチ”恭彦", "Kazumi Ikenaga 池長和美"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,9 +30,9 @@ The presence of the fellow lyrical jazz pianist Bill Evans is also felt througho
 
 ## Sympathy by Hitomi Nishiyama Trio {#sympathy-by-hitomi-nishiyama-trio}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Yasuhiko “Hachi” Sato](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1681) - bass
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
 
 Released in 2013 on Meantone Records as MT-004.
 

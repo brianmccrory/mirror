@@ -2,7 +2,7 @@
 title = "Toshihiko Inoue: Vayu"
 author = ["Brian McCrory"]
 publishDate = 2018-02-26
-tags = ["Toshihiko Inoue 井上淑彦"]
+tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -40,7 +40,7 @@ We would like to thank everyone who helped us in releasing this.
 
 ## Vayu by Toshihiko Inoue {#vayu-by-toshihiko-inoue}
 
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - solo saxophone
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - solo saxophone
 
 Released in 2016 on Foot &amp; Shoe as FSCJ-0011.
 

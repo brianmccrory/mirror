@@ -3,7 +3,7 @@ title = "Yuri Hirota: Magical Moonlight"
 author = ["Brian McCrory"]
 publishDate = 2026-01-25
 keywords = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
-tags = ["Yuri Hirota 廣田ゆり", "Daisei Mii 三井大生", "Kilin Sato 佐藤きりん", "Gen Date 伊達弦", "Yuichiro Hiraoka 平岡遊一郎"]
+tags = ["Yuri Hirota", "廣田ゆり", "Daisei Mii", "三井大生", "Kilin Sato", "佐藤きりん", "Gen Date", "伊達弦", "Yuichiro Hiraoka", "平岡遊一郎"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -77,11 +77,11 @@ A killer tune from the 1980s disco era done with a vaudeville arrangement. Don�
 
 ## Magical Moonlight by Yuri Hirota {#magical-moonlight-by-yuri-hirota}
 
--   [Yuri Hirota](http://miss.blog20.fc2.com/) - piano &amp; arrangement
--   [Daisei Mii](http://daiseimii.com/) - violin &amp; viola
--   [Kilin Sato](https://www.satokilin.com/) - bass
--   [Gen Date](http://www7a.biglobe.ne.jp/~encore/dategen/) - conga &amp; other percussion
--   [Yuichiro Hiraoka](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=4205) - guitar on #1, 3, 7
+-   [Yuri Hirota](/tags/yuri-hirota) - piano &amp; arrangement
+-   [Daisei Mii](/tags/daisei-mii) - violin &amp; viola
+-   [Kilin Sato](/tags/kilin-sato) - bass
+-   [Gen Date](/tags/gen-date) - conga &amp; other percussion
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar on #1, 3, 7
 
 Released in 2017 on Malt Oriental as MORI-0003.
 

@@ -3,7 +3,7 @@ title = "Eri Chichibu: Crossing Reality"
 author = ["Brian McCrory"]
 publishDate = 2024-08-09
 keywords = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
-tags = ["Eri Chichibu 秩父英里", "Kunihiro Kikuta 菊田邦裕", "David Negrete デイビッド・ネグレテ", "Akihiro Nishiguchi 西口明宏", "Itsumi Komano 駒野逸美", "Haruka Sasaki 佐々木はるか", "Takahiro Nawashiro 苗代尚寬", "Marty Holoubek マーティ・ホロベック", "Shun Ishiwaka 石若駿", "Milena Casado ミレナ・カサード", "Madoka Koike 小池まどか", "Tamako Yashima 八島珠子", "Remy Le Boeuf レミー・ル・ブーフ", "Kan 日高歓", "Hiroki Hayashi 林宏樹", "Jiro Suzuki 鈴木次郎", "Masaaki Saito 齋藤大陽", "Yuta Fukuhara 福原雄太"]
+tags = ["Eri Chichibu", "秩父英里", "Kunihiro Kikuta", "菊田邦裕", "David Negrete", "デイビッド・ネグレテ", "Akihiro Nishiguchi", "西口明宏", "Itsumi Komano", "駒野逸美", "Haruka Sasaki", "佐々木はるか", "Takahiro Nawashiro", "苗代尚寬", "Marty Holoubek", "マーティ・ホロベック", "Shun Ishiwaka", "石若駿", "Milena Casado", "ミレナ・カサード", "Madoka Koike", "小池まどか", "Tamako Yashima", "八島珠子", "Remy Le Boeuf", "レミー・ル・ブーフ", "Kan", "日高歓", "Hiroki Hayashi", "林宏樹", "Jiro Suzuki", "鈴木次郎", "Masaaki Saito", "齋藤大陽", "Yuta Fukuhara", "福原雄太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -82,24 +82,24 @@ Japanese vending machines… cold drinks, _hot_ drinks, put a coin in and it imm
 
 ## Crossing Reality by Eri Chichibu {#crossing-reality-by-eri-chichibu}
 
--   [Eri Chichibu](https://www.erichichibu.com/) - piano, keyboard, extra instruments, composition
--   [Kunihiro Kikuta](https://www.youtube.com/channel/UCL7aERvz2tS1SvXQYUEmybw) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
--   [David Negrete](https://truenoteinc.wixsite.com/davidnegrete) - alto sax, flute (tr. #1, 2, 5)
--   [Akihiro Nishiguchi](http://www.akihironishiguchi.com/) - tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5
--   [Itsumi Komano](https://ameblo.jp/komanoitsumi-trombone/) - trombone (tr. #1, 2, 5)
--   [Haruka Sasaki](https://www.instagram.com/sasasakozy/) - baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)
--   [Takahiro Nawashiro](https://takahironawashiro0.wixsite.com/website) - guitar (tr. #1, 2, 5, 6)
--   [Marty Holoubek](https://www.martinholoubek.com/) - electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums (tr. #1, 2, 3, 4, 5, 6)
--   [Milena Casado](https://www.milenacasado.com/) - flugelhorn (tr. #4)
--   Madoka Koike - violin (tr. #6)
--   Tamako Yashima - cello (tr. #6)
--   [Remy Le Boeuf](https://www.remyleboeuf.com/) - alto sax (tr. #6)
--   [Kan](https://www.instagram.com/tambourine.kan/) - percussion (tr. #7, 8)
--   [Hiroki Hayashi](https://thejazzmanstudio.amebaownd.com/) - alto sax, tenor sax (tr. #8)
--   Jiro Suzuki - guitar (tr. #8)
--   [Masaaki Saito](https://masaakisaito.weebly.com/) - electric bass (tr. #8)
--   [Yuta Fukuhara](https://yutafukuhara.wixsite.com/website) - drums (tr. #8)
+-   [Eri Chichibu](/tags/eri-chichibu) - piano, keyboard, extra instruments, composition
+-   [Kunihiro Kikuta](/tags/kunihiro-kikuta) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
+-   [David Negrete](/tags/david-negrete) - alto sax, flute (tr. #1, 2, 5)
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5
+-   [Itsumi Komano](/tags/itsumi-komano) - trombone (tr. #1, 2, 5)
+-   [Haruka Sasaki](/tags/haruka-sasaki) - baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)
+-   [Takahiro Nawashiro](/tags/takahiro-nawashiro) - guitar (tr. #1, 2, 5, 6)
+-   [Marty Holoubek](/tags/marty-holoubek) - electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums (tr. #1, 2, 3, 4, 5, 6)
+-   [Milena Casado](/tags/milena-casado) - flugelhorn (tr. #4)
+-   [Madoka Koike](/tags/madoka-koike) - violin (tr. #6)
+-   [Tamako Yashima](/tags/tamako-yashima) - cello (tr. #6)
+-   [Remy Le Boeuf](/tags/remy-le-boeuf) - alto sax (tr. #6)
+-   [Kan](/tags/kan) - percussion (tr. #7, 8)
+-   [Hiroki Hayashi](/tags/hiroki-hayashi) - alto sax, tenor sax (tr. #8)
+-   [Jiro Suzuki](/tags/jiro-suzuki) - guitar (tr. #8)
+-   [Masaaki Saito](/tags/masaaki-saito) - electric bass (tr. #8)
+-   [Yuta Fukuhara](/tags/yuta-fukuhara) - drums (tr. #8)
 
 Released in 2022 on ReBorn Wood as RBW-0024.
 

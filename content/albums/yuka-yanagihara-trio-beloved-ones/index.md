@@ -3,7 +3,7 @@ title = "Yuka Yanagihara Trio: Beloved Ones"
 author = ["Brian McCrory"]
 publishDate = 2024-11-23
 keywords = ["yuka-yanagihara-trio-inner-views"]
-tags = ["Yuka Yanagihara 柳原由佳", "Yoshiki Yamada 山田吉輝", "Ryo Noritake 則武諒"]
+tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,9 +34,9 @@ With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing 
 
 ## Beloved Ones by Yuka Yanagihara Trio {#beloved-ones-by-yuka-yanagihara-trio}
 
--   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
--   [Yoshiki Yamada](https://www.yoshikiyamada.com/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
+-   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
 
 Released in 2024 on Tomtom Cherry Music as TCM-2004.
 

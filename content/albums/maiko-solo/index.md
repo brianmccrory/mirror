@@ -2,7 +2,7 @@
 title = "Maiko: Solo"
 author = ["Brian McCrory"]
 publishDate = 2020-02-28
-tags = ["maiko マイコ"]
+tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,7 +25,7 @@ Standard jazz is delivered through covers with a swing beat such as “I’ve Ne
 
 ## Solo by Maiko {#solo-by-maiko}
 
--   [maiko](https://jvmaiko.com/) - violin
+-   [maiko](/tags/maiko) - violin
 
 Released in 2018 on T-Toc Records as TTOC-0029.
 

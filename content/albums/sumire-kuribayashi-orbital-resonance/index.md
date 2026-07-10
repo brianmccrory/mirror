@@ -3,7 +3,7 @@ title = "Sumire Kuribayashi: Orbital Resonance"
 author = ["Brian McCrory"]
 publishDate = 2026-02-06
 keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
-tags = ["Sumire Kuribayashi 栗林すみれ", "Motohiko Ichino 市野元彦", "Kyrie Anderson キリー・アンダーソン", "Niran Dasika ニラン・ダシカ"]
+tags = ["Sumire Kuribayashi", "栗林すみれ", "Motohiko Ichino", "市野元彦", "Kyrie Anderson", "キリー・アンダーソン", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -39,10 +39,10 @@ This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _O
 
 ## Orbital Resonance by Sumire Kuribayashi {#orbital-resonance-by-sumire-kuribayashi}
 
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Kyrie Anderson](https://www.kyrieandersonmusic.com.au/) - drums
--   [Niran Dasika](https://www.niran-dasika.com/) - trumpet (#4, 5, 7)
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Kyrie Anderson](/tags/kyrie-anderson) - drums
+-   [Niran Dasika](/tags/niran-dasika) - trumpet (#4, 5, 7)
 
 Released in 2025 on Somethin’ Cool as SCOL-1078.
 

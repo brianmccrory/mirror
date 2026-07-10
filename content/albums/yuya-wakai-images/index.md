@@ -2,7 +2,7 @@
 title = "Yuya Wakai: Images"
 author = ["Brian McCrory"]
 publishDate = 2018-04-26
-tags = ["Yuya Wakai 若井優也"]
+tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,7 +27,7 @@ Related to the album title (and perhaps also alluding to Debussy’s classical w
 
 ## Images by Yuya Wakai {#images-by-yuya-wakai}
 
--   [Yuya Wakai](https://matheyoung.wordpress.com/) - piano
+-   [Yuya Wakai](/tags/yuya-wakai) - piano
 
 Released in 2013 on Mikorin Music as MM-002.
 

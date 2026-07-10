@@ -2,7 +2,7 @@
 title = "Daiki Yasukagawa Trio: Kanmai"
 author = ["Brian McCrory"]
 publishDate = 2019-08-23
-tags = ["Daiki Yasukagawa 安ヵ川大樹", "Koichi Sato 佐藤浩一", "Manabu Hashimoto 橋本学"]
+tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,9 +25,9 @@ Opening with atmospheric space, unhurried and patient, the modern sound develops
 
 ## Kanmai by Daiki Yasukagawa Trio {#kanmai-by-daiki-yasukagawa-trio}
 
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
 
 Released in 2012 on D-Neo Daiki Musica as DNCD-01.
 

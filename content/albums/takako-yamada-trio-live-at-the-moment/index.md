@@ -3,7 +3,7 @@ title = "Takako Yamada Trio: Live at The Moment"
 author = ["Brian McCrory"]
 publishDate = 2025-09-13
 keywords = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
-tags = ["Takako Yamada 山田貴子", "Akiyoshi Shimizu 清水昭好", "Ko Omura 大村亘"]
+tags = ["Takako Yamada", "山田貴子", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -43,9 +43,9 @@ Takako Yamada Trio
 
 ## Live at The Moment by Takako Yamada Trio {#live-at-the-moment-by-takako-yamada-trio}
 
--   [Takako Yamada](https://takakoyamada.amebaownd.com/) - piano
--   [Akiyoshi Shimizu](https://akiyoshishimizubassist.weebly.com/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums, tabla
+-   [Takako Yamada](/tags/takako-yamada) - piano
+-   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu) - bass
+-   [Ko Omura](/tags/ko-omura) - drums, tabla
 
 Released in 2024 on GoodNessPlus Records as GNPR-1195.
 

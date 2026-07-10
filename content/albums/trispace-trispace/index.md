@@ -2,7 +2,7 @@
 title = "Trispace: Trispace"
 author = ["Brian McCrory"]
 publishDate = 2018-11-06
-tags = ["Yuichi Hayashi 林祐市", "Morihiro Omura 大村守弘", "Yoshitaka Yamashita 山下佳孝"]
+tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshitaka Yamashita", "山下佳孝"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ With nine original songs spanning jazz-rock, soft ballads, and a light EST and B
 
 ## Trispace by Trispace {#trispace-by-trispace}
 
--   [Yuichi Hayashi](http://yuichihayashi.com/) - Piano, Composition
--   Morihiro Omura - bass
--   Yoshitaka Yamashita - drums
+-   [Yuichi Hayashi](/tags/yuichi-hayashi) - Piano, Composition
+-   [Morihiro Omura](/tags/morihiro-omura) - bass
+-   [Yoshitaka Yamashita](/tags/yoshitaka-yamashita) - drums
 
 Released in 2010 on Leccia Records / feel free products as LRTR-0004.
 

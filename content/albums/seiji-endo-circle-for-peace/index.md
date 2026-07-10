@@ -2,7 +2,7 @@
 title = "Seiji Endo: Circle for Peace"
 author = ["Brian McCrory"]
 publishDate = 2018-02-18
-tags = ["Seiji Endo 遠藤征志"]
+tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,7 +22,7 @@ Through sincerity depicted on the album cover and title, the concept is peace an
 
 ## Circle for Peace by Seiji Endo {#circle-for-peace-by-seiji-endo}
 
--   [Seiji Endo](https://seiji-piano-endo.com/) - solo piano and compositions
+-   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
 
 Released in 2016 on Nippon Acoustic Records, Inc as NARP-8009.
 

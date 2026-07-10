@@ -2,7 +2,7 @@
 title = "Mayuko Katakura: Faith"
 author = ["Brian McCrory"]
 publishDate = 2018-02-16
-tags = ["Mayuko Katakura 片倉真由子", "Rodney Whitaker", "Carl Allen"]
+tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,9 +22,9 @@ This straight-ahead jazz trio is marked by warmth between the musicians, who agr
 
 ## Faith by Mayuko Katakura {#faith-by-mayuko-katakura}
 
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Rodney Whitaker](http://www.rodneywhitaker.com/) - bass
--   [Carl Allen](https://carlallen.com/) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Rodney Whitaker](/tags/rodney-whitaker) - bass
+-   [Carl Allen](/tags/carl-allen) - drums
 
 Released in 2010 on Pony Canyon as MYCJ-30578.
 

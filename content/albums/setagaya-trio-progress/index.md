@@ -3,7 +3,7 @@ title = "Setagaya Trio: Progress"
 author = ["Brian McCrory"]
 publishDate = 2025-05-16
 keywords = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-fukui-trio-nova-manha", "ami-fukui-trio-mcy", "nami-kano-mawsim"]
-tags = ["Yusei Takahashi 高橋佑成", "Keigo Iwami 岩見継吾", "Sota Kira 吉良創太"]
+tags = ["Yusei Takahashi", "高橋佑成", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -42,9 +42,9 @@ They released their first album _Introducing Setagaya Trio_ in 2017, which was f
 
 ## Progress by Setagaya Trio {#progress-by-setagaya-trio}
 
--   [Yusei Takahashi](https://linktr.ee/yusei.takahashi.piano) - piano
--   [Keigo Iwami](http://keigoiwami.blog110.fc2.com/) - bass
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums
+-   [Yusei Takahashi](/tags/yusei-takahashi) - piano
+-   [Keigo Iwami](/tags/keigo-iwami) - bass
+-   [Sota Kira](/tags/sota-kira) - drums
 
 Released in 2024 on Setagaya Trio as Progress.
 

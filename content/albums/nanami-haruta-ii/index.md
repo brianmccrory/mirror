@@ -3,7 +3,7 @@ title = "Nanami Haruta: II"
 author = ["Brian McCrory"]
 publishDate = 2023-11-27
 keywords = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-haruta-for"]
-tags = ["Nanami Haruta 治田七海", "Akihiro Yoshimoto 吉本章紘", "Mayuko Katakura 片倉真由子", "Takumi Awaya 粟谷巧", "Shun Ishiwaka 石若駿"]
+tags = ["Nanami Haruta", "治田七海", "Akihiro Yoshimoto", "吉本章紘", "Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -59,11 +59,11 @@ Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 
 ## II by Nanami Haruta {#ii-by-nanami-haruta}
 
--   [Nanami Haruta](http://www.nanamiharuta.com/) - trombone
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - saxophone
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Takumi Awaya](https://www.tunecore.co.jp/artists?id=447933&lang=en) - bass
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums
+-   [Nanami Haruta](/tags/nanami-haruta) - trombone
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Takumi Awaya](/tags/takumi-awaya) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
 
 Released in 2022 on Media Stylist as MSC-9020.
 

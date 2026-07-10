@@ -3,7 +3,7 @@ title = "Yukari Sekiya Trio with Yuko Tanaka: It’s Ordinary Love And…"
 author = ["Brian McCrory"]
 publishDate = 2026-03-01
 keywords = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
-tags = ["Yukari Sekiya 関谷友加里", "Yuko Tanaka 田中ゆうこ", "Michihiro Morisada 森定道広", "Tatsuya Hashimoto 橋本達哉"]
+tags = ["Yukari Sekiya", "関谷友加里", "Yuko Tanaka", "田中ゆうこ", "Michihiro Morisada", "森定道広", "Tatsuya Hashimoto", "橋本達哉"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -85,10 +85,10 @@ Dec. 14, 2010   A live recording on the final night of the tour   The long-await
 
 ## It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka {#it-s-ordinary-love-and-dot-dot-dot-by-yukari-sekiya-trio-with-yuko-tanaka}
 
--   [Yukari Sekiya](https://www.yukarisekiya.com/) - piano
--   [Yuko Tanaka](https://www.instagram.com/kouta_yunaka/) - voice
--   [Michihiro Morisada](https://ameblo.jp/morisadam/) - bass
--   [Tatsuya Hashimoto](http://www.bloc.jp/hasshan/) - drums
+-   [Yukari Sekiya](/tags/yukari-sekiya) - piano
+-   [Yuko Tanaka](/tags/yuko-tanaka) - voice
+-   [Michihiro Morisada](/tags/michihiro-morisada) - bass
+-   [Tatsuya Hashimoto](/tags/tatsuya-hashimoto) - drums
 
 Released in 2011 on Itazura Records as YUMO-713.
 

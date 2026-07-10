@@ -3,7 +3,7 @@ title = "Ami Fukui Trio: Nova Manhã"
 author = ["Brian McCrory"]
 publishDate = 2024-01-26
 keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
-tags = ["Ami Fukui 福井亜実", "Keigo Iwami 岩見継吾", "Sota Kira 吉良創太"]
+tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -111,9 +111,9 @@ I wrote this song thinking about how fun it is to play with these kitties. The s
 
 ## Nova Manhã by Ami Fukui Trio {#nova-manhã-by-ami-fukui-trio}
 
--   [Ami Fukui](https://amifukui.com/) - piano
--   [Keigo Iwami](http://keigoiwami.blog110.fc2.com/) - bass
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums
+-   [Ami Fukui](/tags/ami-fukui) - piano
+-   [Keigo Iwami](/tags/keigo-iwami) - bass
+-   [Sota Kira](/tags/sota-kira) - drums
 
 Released in 2022 on MAM Records as MR-001.
 

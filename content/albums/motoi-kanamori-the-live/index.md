@@ -3,7 +3,7 @@ title = "Motoi Kanamori: The Live"
 author = ["Brian McCrory"]
 publishDate = 2025-01-25
 keywords = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
-tags = ["Motoi Kanamori 金森もとい", "Hiroyuki Takubo 田窪寛之", "Akira Yamada 山田玲", "Taishi Sakurai 桜井大士", "Chie Hasegawa 長谷川智恵", "Megumi Ozawa 小澤恵", "Atsushi Hashimoto 橋本專史"]
+tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Taishi Sakurai", "桜井大士", "Chie Hasegawa", "長谷川智恵", "Megumi Ozawa", "小澤恵", "Atsushi Hashimoto", "橋本專史"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -97,13 +97,13 @@ A stunning 2-disc album that captures the stirring concert recorded live in high
 
 ## The Live by Motoi Kanamori {#the-live-by-motoi-kanamori}
 
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Hiroyuki Takubo](https://hirotakubo.exblog.jp/) - piano
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
--   [Taishi Sakurai](https://www.mori-music.com/elcielo2020/profile/#sakurai) - violin
--   [Chie Hasegawa](https://ameblo.jp/black-raspberry-sweet/) - violin
--   [Megumi Ozawa](https://youtu.be/vG-OeFsWHXc) - viola
--   [Atsushi Hashimoto](https://www.atsushi-cello.com/) - cello
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
+-   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Taishi Sakurai](/tags/taishi-sakurai) - violin
+-   [Chie Hasegawa](/tags/chie-hasegawa) - violin
+-   [Megumi Ozawa](/tags/megumi-ozawa) - viola
+-   [Atsushi Hashimoto](/tags/atsushi-hashimoto) - cello
 
 Released in 2023 on Laplace Records as LPDCD113-114.
 

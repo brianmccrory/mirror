@@ -3,7 +3,7 @@ title = "The Third Tribe: Nearly Dusk"
 author = ["Brian McCrory"]
 publishDate = 2025-11-15
 keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "kazumi-ikenaga-niwatazumi", "kazumi-ikenaga-taihei-asakawa-nordnote", "hitomi-nishiyama-trio-calling"]
-tags = ["Yoko Kobayashi 小林洋子", "Kazumi Ikenaga 池長和美"]
+tags = ["Yoko Kobayashi", "小林洋子", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -142,8 +142,8 @@ A prayer to the infinite universe, a completely new duo format and their shockin
 
 ## Nearly Dusk by The Third Tribe {#nearly-dusk-by-the-third-tribe}
 
--   [Yoko Kobayashi](https://www.piano-yokokobayashi-jazz.com/) - piano
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
+-   [Yoko Kobayashi](/tags/yoko-kobayashi) - piano
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
 
 Released in 2019 on Timemachine Record as TMCD-1014.
 

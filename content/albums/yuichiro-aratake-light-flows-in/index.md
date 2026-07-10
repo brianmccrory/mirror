@@ -2,7 +2,7 @@
 title = "Yuichiro Aratake: The Light Flows In"
 author = ["Brian McCrory"]
 publishDate = 2019-05-09
-tags = ["Yuichiro Aratake 荒武裕一朗", "Tamaya Honda 本田珠也", "Hideki Kawamura 河村英樹", "Noboru Ando 安東昇"]
+tags = ["Yuichiro Aratake", "荒武裕一朗", "Tamaya Honda", "本田珠也", "Hideki Kawamura", "河村英樹", "Noboru Ando", "安東昇"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,10 +24,10 @@ In addition to solo piano, 3 of the 12 tracks feature duos: a piano and sax outi
 
 ## The Light Flows In by Yuichiro Aratake {#the-light-flows-in-by-yuichiro-aratake}
 
--   [Yuichiro Aratake](http://www.aratakeyuichiro.com/) - piano
--   [Tamaya Honda](http://tamayahonda.blogspot.com/) - drums (tr. #10)
--   [Hideki Kawamura](http://hidekisax.com/) - tenor sax (tr. #2)
--   [Noboru Ando](https://andy1974.exblog.jp/) - bass (tr. #7)
+-   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
+-   [Tamaya Honda](/tags/tamaya-honda) - drums (tr. #10)
+-   [Hideki Kawamura](/tags/hideki-kawamura) - tenor sax (tr. #2)
+-   [Noboru Ando](/tags/noboru-ando) - bass (tr. #7)
 
 Released in 2005 on S2S as SSDF-5006.
 

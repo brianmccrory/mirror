@@ -3,7 +3,7 @@ title = "Yukari Sekiya: Duets Till Now, From Here"
 author = ["Brian McCrory"]
 publishDate = 2026-03-08
 keywords = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and", "koichi-sato-embryo"]
-tags = ["Yukari Sekiya 関谷友加里", "Taiichi Kamimura かみむら泰一", "Tsutomu Takei 武井努", "Yuzumi Tanimukai 谷向柚美", "Suomi Morishita 森下周央彌", "Michihiro Morisada 森定道広", "Megumi Otsuka 大塚恵", "Masaki Kai 甲斐正樹", "Jin Mitsuda 光田じん"]
+tags = ["Yukari Sekiya", "関谷友加里", "Taiichi Kamimura", "かみむら泰一", "Tsutomu Takei", "武井努", "Yuzumi Tanimukai", "谷向柚美", "Suomi Morishita", "森下周央彌", "Michihiro Morisada", "森定道広", "Megumi Otsuka", "大塚恵", "Masaki Kai", "甲斐正樹", "Jin Mitsuda", "光田じん"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -63,15 +63,15 @@ There are no “thorns” in the piano she plays. That is not something with a h
 
 ## Duets Till Now, From Here by Yukari Sekiya {#duets-till-now-from-here-by-yukari-sekiya}
 
--   [Yukari Sekiya](https://www.yukarisekiya.com/) - piano
--   [Taiichi Kamimura](http://www.taisax.jeez.jp/) - tenor &amp; soprano sax
--   [Tsutomu Takei](https://tsutomutakei.jp/) - tenor &amp; soprano sax
--   [Yuzumi Tanimukai](https://yuzumi76.wixsite.com/yuzumi2013) - voice
--   [Suomi Morishita](https://www.suomi-morishita.com/) - guitar
--   [Michihiro Morisada](https://ameblo.jp/morisadam/) - bass
--   [Megumi Otsuka](https://otsukamegumipangaea.bandcamp.com/) - bass
--   [Masaki Kai](https://masakik.exblog.jp/) - bass
--   [Jin Mitsuda](https://mitsudajin.com/) - drums
+-   [Yukari Sekiya](/tags/yukari-sekiya) - piano
+-   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor &amp; soprano sax
+-   [Tsutomu Takei](/tags/tsutomu-takei) - tenor &amp; soprano sax
+-   [Yuzumi Tanimukai](/tags/yuzumi-tanimukai) - voice
+-   [Suomi Morishita](/tags/suomi-morishita) - guitar
+-   [Michihiro Morisada](/tags/michihiro-morisada) - bass
+-   [Megumi Otsuka](/tags/megumi-otsuka) - bass
+-   [Masaki Kai](/tags/masaki-kai) - bass
+-   [Jin Mitsuda](/tags/jin-mitsuda) - drums
 
 Released in 2025 on Umishima Records as USM-001.
 

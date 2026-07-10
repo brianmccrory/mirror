@@ -2,7 +2,7 @@
 title = "Sumito Oi: Sumitty & The Funfair"
 author = ["Brian McCrory"]
 publishDate = 2018-03-06
-tags = ["Sumito Oi 大井澄東", "Toyomi Kobayashi 小林豊美", "Koichi Sato 佐藤浩一", "Show Kudo 工藤精"]
+tags = ["Sumito Oi", "大井澄東", "Toyomi Kobayashi", "小林豊美", "Koichi Sato", "佐藤浩一", "Show Kudo", "工藤精"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,10 +21,10 @@ As a drummer’s quartet, rhythm moderates the music delightfully, propulsive bu
 
 ## Sumitty &amp; The Funfair by Sumito Oi {#sumitty-and-the-funfair-by-sumito-oi}
 
--   [Sumito Oi](https://www.sumitooi.com/) - drums
--   [Toyomi Kobayashi](https://toyomikobayashi.theblog.me/) - flute, alto flute, bass flute, Andes25F
--   [Koichi Sato](https://koichisato.com/) - piano, Fender Rhodes, Wurlitzer
--   [Show Kudo](https://showgun65.exblog.jp/) - double bass, electric bass
+-   [Sumito Oi](/tags/sumito-oi) - drums
+-   [Toyomi Kobayashi](/tags/toyomi-kobayashi) - flute, alto flute, bass flute, Andes25F
+-   [Koichi Sato](/tags/koichi-sato) - piano, Fender Rhodes, Wurlitzer
+-   [Show Kudo](/tags/show-kudo) - double bass, electric bass
 
 Released in 2015 on S&amp;T Music as STMU-1001.
 

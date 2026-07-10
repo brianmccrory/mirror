@@ -3,7 +3,7 @@ title = "Jabuticaba: Jabuticaba"
 author = ["Brian McCrory"]
 publishDate = 2024-03-08
 keywords = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
-tags = ["Mikiko Nagatake 永武幹子", "Nami Kano 加納奈実", "Ryoji Orihara 織原良次", "Sota Kira 吉良創太"]
+tags = ["Mikiko Nagatake", "永武幹子", "Nami Kano", "加納奈実", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -128,10 +128,10 @@ _Jabuticaba  Mikiko Nagatake  Nami Kano_
 
 ## Jabuticaba by Jabuticaba {#jabuticaba-by-jabuticaba}
 
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
--   [Nami Kano](https://www.namikano.com/) - saxophone
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass (track #8)
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums (track #8)
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Nami Kano](/tags/nami-kano) - saxophone
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass (track #8)
+-   [Sota Kira](/tags/sota-kira) - drums (track #8)
 
 Released in 2021 on Owl Wing Record as OWL-020.
 

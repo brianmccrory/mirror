@@ -2,7 +2,7 @@
 title = "Shunichi Yanagi Trio: Slope"
 author = ["Brian McCrory"]
 publishDate = 2023-05-20
-tags = ["Shunichi Yanagi 柳隼一", "Motoi Kanamori 金森もとい", "Masatsugu Hattori 服部正嗣"]
+tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ Some tunes like the grunge of the opener “I Can’t Fly” and the sad ballad 
 
 ## Slope by Shunichi Yanagi Trio {#slope-by-shunichi-yanagi-trio}
 
--   [Shunichi Yanagi](https://shunichiyanagi.web.fc2.com/) - piano
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Masatsugu Hattori](https://masatsuguhattori.tumblr.com/) - drums
+-   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori) - drums
 
 Released in 2015 on GoodNessPlus Records as GNPR-1148.
 

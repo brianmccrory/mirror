@@ -3,7 +3,7 @@ title = "Sul Madrugada: Luar"
 author = ["Brian McCrory"]
 publishDate = 2023-08-25
 keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
-tags = ["Sayaka Kishi 岸淑香", "Hiroe Kobayashi 小林宏衣"]
+tags = ["Sayaka Kishi", "岸淑香", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -32,8 +32,8 @@ Along with her songwriting, Kishi’s skill at juggling various instruments like
 
 ## Luar by Sul Madrugada {#luar-by-sul-madrugada}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, keyboard
--   [Hiroe Kobayashi](https://hirosnoopyhiro.wixsite.com/mysite) - voice
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi) - voice
 
 Released in 2022 on River City Music Entertainment as RRCRK-220101.
 

@@ -3,7 +3,7 @@ title = "eFreydut: Fairway"
 author = ["Brian McCrory"]
 publishDate = 2024-03-30
 keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
-tags = ["Mikiko Nagatake 永武幹子", "Ko Omura 大村亘", "Kanoa Mendenhall"]
+tags = ["Mikiko Nagatake", "永武幹子", "Ko Omura", "大村亘", "Kanoa Mendenhall"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -113,9 +113,9 @@ In the field of economics, it refers to the liquidity of value. This song was wr
 
 ## Fairway by eFreydut {#fairway-by-efreydut}
 
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drumset, tabla
--   [Kanoa Mendenhall](https://kanoamusic.com/) - bass
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Ko Omura](/tags/ko-omura) - drumset, tabla
+-   [Kanoa Mendenhall](/tags/kanoa-mendenhall) - bass
 
 Released in 2024 on Tommy’s Record as TW-002.
 

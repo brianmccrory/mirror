@@ -2,7 +2,7 @@
 title = "Bungalow: You Already Know"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
-tags = ["Mike Rivett", "Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ko Omura 大村亘"]
+tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,10 +21,10 @@ _You Already Know_ is part of the band’s series of adventurous and atmospheric
 
 ## You Already Know by Bungalow {#you-already-know-by-bungalow}
 
--   [Mike Rivett](https://www.mikerivett.com/) - Tenor Sax, Electronics
--   [Koichi Sato](https://koichisato.com/) - Piano, Fender Rhodes
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - Acoustic Bass, Ukelele Bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - Drums, Tabla
+-   [Mike Rivett](/tags/mike-rivett) - Tenor Sax, Electronics
+-   [Koichi Sato](/tags/koichi-sato) - Piano, Fender Rhodes
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - Acoustic Bass, Ukelele Bass
+-   [Ko Omura](/tags/ko-omura) - Drums, Tabla
 
 Released in 2017 on Studio Songs as YZSO-10075.
 

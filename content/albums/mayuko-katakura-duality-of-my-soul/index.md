@@ -3,7 +3,7 @@ title = "Mayuko Katakura: The Duality of My Soul"
 author = ["Brian McCrory"]
 publishDate = 2025-06-15
 keywords = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
-tags = ["Mayuko Katakura 片倉真由子", "Takumi Awaya 粟谷巧", "Noritaka Tanaka 田中徳崇"]
+tags = ["Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -29,9 +29,9 @@ Finally, the last track #8 “Being Me” is a sweet and slow ballad, played wit
 
 ## The Duality of My Soul by Mayuko Katakura {#the-duality-of-my-soul-by-mayuko-katakura}
 
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Takumi Awaya](https://www.tunecore.co.jp/artists?id=447933&lang=en) - bass
--   [Noritaka Tanaka](https://www.jazz.co.jp/Mus/tanakatokutakashi.html) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Takumi Awaya](/tags/takumi-awaya) - bass
+-   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
 
 Released in 2025 on Mayuko Katakura Music as MKM-001.
 

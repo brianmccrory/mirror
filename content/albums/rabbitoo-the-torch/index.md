@@ -3,7 +3,7 @@ title = "Rabbitoo: The Torch"
 author = ["Brian McCrory"]
 publishDate = 2023-10-22
 keywords = ["rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy"]
-tags = ["Motohiko Ichino 市野元彦", "Daisuke Fujiwara 藤原大輔", "Koichi Sato 佐藤浩一", "Hiroki Chiba 千葉広樹", "Noritaka Tanaka 田中徳崇"]
+tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "Koichi Sato", "佐藤浩一", "Hiroki Chiba", "千葉広樹", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,11 +26,11 @@ Listening to this album creates these sorts of impressions: _A visual prism broa
 
 ## The Torch by Rabbitoo {#the-torch-by-rabbitoo}
 
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar, keyboards
--   [Daisuke Fujiwara](http://www.fujiwaradaisuke.com/) - tenor saxophone, flute, synthesizer, electronics
--   [Koichi Sato](https://koichisato.com/) - rhodes, synthesizer, piano
--   [Hiroki Chiba](https://linktr.ee/Hirokichiba) - contrabass, electric bass, violin, electronics
--   [Noritaka Tanaka](https://www.jazz.co.jp/Mus/tanakatokutakashi.html) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, flute, synthesizer, electronics
+-   [Koichi Sato](/tags/koichi-sato) - rhodes, synthesizer, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba) - contrabass, electric bass, violin, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
 
 Released in 2016 on Song X Jazz as SONGX-036.
 

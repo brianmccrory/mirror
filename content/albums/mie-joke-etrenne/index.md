@@ -2,7 +2,7 @@
 title = "Mie Joké: Etrenne"
 author = ["Brian McCrory"]
 publishDate = 2019-10-16
-tags = ["Mie Joké 情家みえ", "Tsuyoshi Yamamoto 山本剛", "Hiroshi Kagawa 香川裕史", "Toshio Osumi 大隅寿男", "Koji Goto 後藤浩二", "Satsuki Kusui 楠井五月", "Akira Yamada 山田玲", "Wataru Hamasaki 浜崎航"]
+tags = ["Mie Joké", "情家みえ", "Tsuyoshi Yamamoto", "山本剛", "Hiroshi Kagawa", "香川裕史", "Toshio Osumi", "大隅寿男", "Koji Goto", "後藤浩二", "Satsuki Kusui", "楠井五月", "Akira Yamada", "山田玲", "Wataru Hamasaki", "浜崎航"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,14 +25,14 @@ The music is done right, with an honest, straight-ahead vision, swinging and sli
 
 ## Etrenne by Mie Joké {#etrenne-by-mie-joké}
 
--   [Mie Joké](https://www.miejoke.com/) - vocal
--   [Tsuyoshi Yamamoto](https://www.tsuyoshi-yamamoto.com/) - piano (tr. #1-5)
--   [Hiroshi Kagawa](http://kagawahiroshi.blog111.fc2.com/) - bass (tr. #1-5)
--   Toshio Osumi - drums (tr. #1-5)
--   [Koji Goto](https://kojigoto.web.fc2.com/) - piano (tr. #6-11)
--   [Satsuki Kusui](https://satsukionbass.bandcamp.com/album/new-horizons) - bass (tr. #6-11)
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums (tr. #6-11)
--   [Wataru Hamasaki](http://www.watarujazz.com) - sax, flute (tr. #6-11)
+-   [Mie Joké](/tags/mie-joke) - vocal
+-   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto) - piano (tr. #1-5)
+-   [Hiroshi Kagawa](/tags/hiroshi-kagawa) - bass (tr. #1-5)
+-   [Toshio Osumi](/tags/toshio-osumi) - drums (tr. #1-5)
+-   [Koji Goto](/tags/koji-goto) - piano (tr. #6-11)
+-   [Satsuki Kusui](/tags/satsuki-kusui) - bass (tr. #6-11)
+-   [Akira Yamada](/tags/akira-yamada) - drums (tr. #6-11)
+-   [Wataru Hamasaki](/tags/wataru-hamasaki) - sax, flute (tr. #6-11)
 
 Released in 2018 on Ultra Art Record as UA-1001.
 

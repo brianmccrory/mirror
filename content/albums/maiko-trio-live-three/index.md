@@ -2,7 +2,7 @@
 title = "Maiko Trio: Live! Three"
 author = ["Brian McCrory"]
 publishDate = 2020-01-23
-tags = ["maiko マイコ", "Hiroki Miyano 宮野弘紀", "Shikou Ito 伊藤志宏"]
+tags = ["maiko", "マイコ", "Hiroki Miyano", "宮野弘紀", "Shikou Ito", "伊藤志宏"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ With eight tracks, the songs range from colorful uptempo drama to sentimental wa
 
 ## Live! Three by Maiko Trio {#live-three-by-maiko-trio}
 
--   [maiko](https://jvmaiko.com/) - violin
--   [Hiroki Miyano](https://ameblo.jp/hiroki-miyano/) - guitar
--   [Shikou Ito](https://www.shikoupf.com/) - piano
+-   [maiko](/tags/maiko) - violin
+-   [Hiroki Miyano](/tags/hiroki-miyano) - guitar
+-   [Shikou Ito](/tags/shikou-ito) - piano
 
 Released in 2016 on The Glee as GPHR-16011.
 

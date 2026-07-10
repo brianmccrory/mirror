@@ -3,7 +3,7 @@ title = "Akihiro Yoshimoto Quartet: Blending Tone"
 author = ["Brian McCrory"]
 publishDate = 2026-03-15
 keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
-tags = ["Akihiro Yoshimoto 吉本章紘", "Aaron Choulai アーロン・チューライ", "Takuya Sakazaki 坂崎拓也", "Shun Ishiwaka 石若駿"]
+tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takuya Sakazaki", "坂崎拓也", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -58,10 +58,10 @@ Young, fierce tenor saxophonist Akihiro Yoshimoto with his quartet releases his 
 
 ## Blending Tone by Akihiro Yoshimoto Quartet {#blending-tone-by-akihiro-yoshimoto-quartet}
 
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - tenor sax
--   [Aaron Choulai](https://aaronchoulai.com/) - piano
--   [Takuya Sakazaki](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1791) - bass
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax
+-   [Aaron Choulai](/tags/aaron-choulai) - piano
+-   [Takuya Sakazaki](/tags/takuya-sakazaki) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
 
 Released in 2012 on Orbit Records as ORB-1001.
 

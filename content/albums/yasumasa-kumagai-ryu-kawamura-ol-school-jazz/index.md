@@ -3,7 +3,7 @@ title = "Yasumasa Kumagai & Ryu Kawamura: Ol’ School Jazz"
 author = ["Brian McCrory"]
 publishDate = 2024-08-30
 keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
-tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Ryu Kawamura 川村竜"]
+tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,8 +28,8 @@ Filling out the package is one original song, the comfortable home base of a gro
 
 ## Ol’ School Jazz by Yasumasa Kumagai &amp; Ryu Kawamura {#ol-school-jazz-by-yasumasa-kumagai-and-ryu-kawamura}
 
--   [Yasumasa Kumagai](https://yasumasakumagai.com/) - piano
--   [Ryu Kawamura](https://www.ryukawamura.com/) - bass
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura) - bass
 
 Released in 2009 on Anturtle Tune as ANTX-4005.
 

@@ -2,7 +2,7 @@
 title = "Bungalow: Unseen Scenes"
 author = ["Brian McCrory"]
 publishDate = 2022-05-14
-tags = ["Mike Rivett", "Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ko Omura 大村亘"]
+tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,10 +25,10 @@ Notable tracks include the modern “Gauge”, the European fusion “Astir”, 
 
 ## Unseen Scenes by Bungalow {#unseen-scenes-by-bungalow}
 
--   [Mike Rivett](https://www.mikerivett.com/) - tenor sax, electronics
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums, tabla
+-   [Mike Rivett](/tags/mike-rivett) - tenor sax, electronics
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
+-   [Ko Omura](/tags/ko-omura) - drums, tabla
 
 Released in 2015 on Studio Songs as YZSO-10057.
 

@@ -3,7 +3,7 @@ title = "Akane Matsumoto: Oh, Lady Be Good"
 author = ["Brian McCrory"]
 publishDate = 2024-12-20
 keywords = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
-tags = ["Akane Matsumoto 松本茜", "Ryu Kawamura 川村竜", "Junji Hirose 広瀬潤次"]
+tags = ["Akane Matsumoto", "松本茜", "Ryu Kawamura", "川村竜", "Junji Hirose", "広瀬潤次"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -81,9 +81,9 @@ Filled with the fun, the beauty, and the charm of the piano trio!!
 
 ## Oh, Lady Be Good by Akane Matsumoto {#oh-lady-be-good-by-akane-matsumoto}
 
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   [Ryu Kawamura](https://www.ryukawamura.com/) - bass
--   [Junji Hirose](https://hirolin.jimdofree.com/) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura) - bass
+-   [Junji Hirose](/tags/junji-hirose) - drums
 
 Released in 2019 on Concept Records as CR-12.
 

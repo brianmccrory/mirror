@@ -2,7 +2,7 @@
 title = "Daiki Yasukagawa Trio: Trios II"
 author = ["Brian McCrory"]
 publishDate = 2020-02-10
-tags = ["Daiki Yasukagawa 安ヵ川大樹", "Taihei Asakawa 浅川太平", "Hitomi Nishiyama 西山瞳", "Naoko Tanaka 田中菜緒子", "Mamoru Ishida 石田衛", "Ryo Noritake 則武諒", "Yuto Hirase 平瀬祐人", "Manabu Hashimoto 橋本学"]
+tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Taihei Asakawa", "浅川太平", "Hitomi Nishiyama", "西山瞳", "Naoko Tanaka", "田中菜緒子", "Mamoru Ishida", "石田衛", "Ryo Noritake", "則武諒", "Yuto Hirase", "平瀬祐人", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,14 +27,14 @@ In addition to providing a glimpse into the modern working trio in Tokyo’s cur
 
 ## Trios II by Daiki Yasukagawa Trio {#trios-ii-by-daiki-yasukagawa-trio}
 
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano (#1, 2)
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano (#3, 4)
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano (#5, 6)
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano (#7, 8, 9, 10, 11)
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums (#1, 2)
--   [Yuto Hirase](https://ameblo.jp/pel-chan/) - drums (#3, 4)
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums (#5, 6, 7, 8, 9, 10, 11)
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano (#1, 2)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano (#3, 4)
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano (#5, 6)
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano (#7, 8, 9, 10, 11)
+-   [Ryo Noritake](/tags/ryo-noritake) - drums (#1, 2)
+-   [Yuto Hirase](/tags/yuto-hirase) - drums (#3, 4)
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums (#5, 6, 7, 8, 9, 10, 11)
 
 Released in 2015 on D-Musica as DMCD-28.
 

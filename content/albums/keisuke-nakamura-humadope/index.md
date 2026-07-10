@@ -2,7 +2,7 @@
 title = "Keisuke Nakamura: Humadope"
 author = ["Brian McCrory"]
 publishDate = 2018-02-12
-tags = ["Keisuke Nakamura 中村恵介", "Akihiro Nishiguchi 西口明宏", "Akane Matsumoto 松本茜", "Motoi Kanamori 金森もとい", "Yasushi Fukumori 福森康", "Mamoru Ishida 石田衛", "Shun Ishiwaka 石若駿"]
+tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Nishiguchi", "西口明宏", "Akane Matsumoto", "松本茜", "Motoi Kanamori", "金森もとい", "Yasushi Fukumori", "福森康", "Mamoru Ishida", "石田衛", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,13 +21,13 @@ This album consists of well-written original compositions with a few covers thro
 
 ## Humadope by Keisuke Nakamura {#humadope-by-keisuke-nakamura}
 
--   [Keisuke Nakamura](https://blackdevil729.wixsite.com/keisuke-nakamura) - trumpet, flugelhorn
--   [Akihiro Nishiguchi](http://www.akihironishiguchi.com/) - tenor sax, soprano sax
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - Rhodes (tr. #5, 6)
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums (tr. #1)
+-   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, soprano sax
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida) - Rhodes (tr. #5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums (tr. #1)
 
 Released in 2014 on M581 Records as SDR1401.
 

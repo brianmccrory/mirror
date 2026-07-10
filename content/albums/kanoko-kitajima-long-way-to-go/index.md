@@ -3,7 +3,7 @@ title = "Kanoko Kitajima: Long Way to Go"
 author = ["Brian McCrory"]
 publishDate = 2025-05-10
 keywords = ["fumika-asari-introducin"]
-tags = ["Kanoko Kitajima 北島佳乃子", "Motoi Kanamori 金森もとい", "Fukushi Tainaka 田井中福司"]
+tags = ["Kanoko Kitajima", "北島佳乃子", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -88,9 +88,9 @@ A brilliant debut record from a pianist with a naturally sophisticated talent! Y
 
 ## Long Way to Go by Kanoko Kitajima {#long-way-to-go-by-kanoko-kitajima}
 
--   [Kanoko Kitajima](https://ameblo.jp/jazz-pf/) - piano
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Fukushi Tainaka](https://fukushitainaka.com/) - drums
+-   [Kanoko Kitajima](/tags/kanoko-kitajima) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka) - drums
 
 Released in 2019 on T&amp;A Music as Long Way to Go.
 

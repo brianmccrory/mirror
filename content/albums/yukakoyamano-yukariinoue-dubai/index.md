@@ -2,7 +2,7 @@
 title = "Yukako Yamano & Yukari Inoue: Dubai Suite"
 author = ["Brian McCrory"]
 publishDate = 2022-01-30
-tags = ["Yukako Yamano 山野友佳子", "Yukari Inoue 井上ゆかり"]
+tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,8 +28,8 @@ The album’s five tracks add up to a brisk 23 minutes and relay a narrative wit
 
 ## Dubai Suite by Yukako Yamano &amp; Yukari Inoue {#dubai-suite-by-yukako-yamano-and-yukari-inoue}
 
--   [Yukako Yamano](https://yukakoyamano.com/) - piano
--   [Yukari Inoue](https://www.inoueyukari.com/) - piano
+-   [Yukako Yamano](/tags/yukako-yamano) - piano
+-   [Yukari Inoue](/tags/yukari-inoue) - piano
 
 Released in 2021 on Yukako Yamano as YKCJ-0006.
 

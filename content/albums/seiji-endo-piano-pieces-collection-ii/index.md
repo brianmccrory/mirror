@@ -3,7 +3,7 @@ title = "Seiji Endo: Piano Pieces Collection II"
 author = ["Brian McCrory"]
 publishDate = 2024-12-06
 keywords = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1", "seiji-endo-piano-pieces-collection"]
-tags = ["Seiji Endo 遠藤征志"]
+tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -47,7 +47,7 @@ Compared to the previous album, the songs are slightly longer here. The titles s
 
 ## Piano Pieces Collection II by Seiji Endo {#piano-pieces-collection-ii-by-seiji-endo}
 
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano
+-   [Seiji Endo](/tags/seiji-endo) - piano
 
 Released in 2023 on Fair Play Records as FPCD-1013.
 

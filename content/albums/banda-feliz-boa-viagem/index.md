@@ -2,7 +2,7 @@
 title = "Banda Feliz: Boa Viagem"
 author = ["Brian McCrory"]
 publishDate = 2024-08-16
-tags = ["Makiyo Sakai 酒井麻生代", "Masaaki Ikeda 池田雅明", "Kazuhiko Obata 小畑和彦", "Minoru Kato 加藤実", "Kiichiro Komobuchi コモブチキイチロウ", "Satoshi Ishikawa 石川智"]
+tags = ["Makiyo Sakai", "酒井麻生代", "Masaaki Ikeda", "池田雅明", "Kazuhiko Obata", "小畑和彦", "Minoru Kato", "加藤実", "Kiichiro Komobuchi", "コモブチキイチロウ", "Satoshi Ishikawa", "石川智"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -96,12 +96,12 @@ The long-awaited first album from “Banda Feliz”, a unit formed of top musici
 
 ## Boa Viagem by Banda Feliz {#boa-viagem-by-banda-feliz}
 
--   [Makiyo Sakai](https://makiyo327.wixsite.com/flute) - flute
--   [Masaaki Ikeda](http://www.masaikeda.com/) - trombone
--   [Kazuhiko Obata](http://kaerukobo.com/obata_335/) - guitar
--   [Minoru Kato](http://minoru-k.artist-jp.net/) - piano
--   [Kiichiro Komobuchi](http://www.comobass.com/) - bass
--   [Satoshi Ishikawa](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=2841) - drums
+-   [Makiyo Sakai](/tags/makiyo-sakai) - flute
+-   [Masaaki Ikeda](/tags/masaaki-ikeda) - trombone
+-   [Kazuhiko Obata](/tags/kazuhiko-obata) - guitar
+-   [Minoru Kato](/tags/minoru-kato) - piano
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi) - bass
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa) - drums
 
 Released in 2020 on Feliz Record as FLZ-0001.
 

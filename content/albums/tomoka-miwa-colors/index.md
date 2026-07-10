@@ -2,7 +2,7 @@
 title = "Tomoka Miwa: Colors in Silence"
 author = ["Brian McCrory"]
 publishDate = 2018-03-07
-tags = ["Tomoka Miwa 三輪知可", "Yuichi Narita 成田祐一", "Daisuke Toi トオイダイスケ", "Sebastiaan Kaptein"]
+tags = ["Tomoka Miwa", "三輪知可", "Yuichi Narita", "成田祐一", "Daisuke Toi", "トオイダイスケ", "Sebastiaan Kaptein"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -20,10 +20,10 @@ The instrumental musicians get plenty of space for stretching out, with pianist 
 
 ## Colors in Silence by Tomoka Miwa {#colors-in-silence-by-tomoka-miwa}
 
--   [Tomoka Miwa](https://www.miwatomoka.com/) - vocal
--   [Yuichi Narita](http://www.yuichinarita.com/) - piano, keyboards
--   [Daisuke Toi](http://www.daisuketoi.com/) - bass
--   [Sebastiaan Kaptein](https://canopusdrums.com/en/endorsers/sebastiaan-kaptein/) - drums
+-   [Tomoka Miwa](/tags/tomoka-miwa) - vocal
+-   [Yuichi Narita](/tags/yuichi-narita) - piano, keyboards
+-   [Daisuke Toi](/tags/daisuke-toi) - bass
+-   [Sebastiaan Kaptein](/tags/sebastiaan-kaptein) - drums
 
 Released in 2015 on Tomoka Miwa as MUW-002.
 

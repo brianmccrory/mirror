@@ -2,7 +2,7 @@
 title = "Masako Kunisada: Wonderful Life"
 author = ["Brian McCrory"]
 publishDate = 2020-09-13
-tags = ["Masako Kunisada 国貞雅子", "Shigeru Morishita 森下滋", "Ryo Ogihara 荻原亮", "Shinichi Sato 佐藤慎一", "Manabu Fujii 藤井学"]
+tags = ["Masako Kunisada", "国貞雅子", "Shigeru Morishita", "森下滋", "Ryo Ogihara", "荻原亮", "Shinichi Sato", "佐藤慎一", "Manabu Fujii", "藤井学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,11 +34,11 @@ Altogether this accessible album emits good vibrations and positive energy, shin
 
 ## Wonderful Life by Masako Kunisada {#wonderful-life-by-masako-kunisada}
 
--   [Masako Kunisada](https://machappa.wixsite.com/masakokunisada) - vocal
--   [Shigeru Morishita](http://gerushi.com/) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
--   [Ryo Ogihara](https://ryoogihara.jimdofree.com/) - electric guitar (#1-3, 7, 10)
--   [Shinichi Sato](http://www.shinichibass.com/) - acoustic bass, electric bass
--   [Manabu Fujii](https://manabufujii.jp/) - drums (tr. 1-6, 8-11)
+-   [Masako Kunisada](/tags/masako-kunisada) - vocal
+-   [Shigeru Morishita](/tags/shigeru-morishita) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
+-   [Ryo Ogihara](/tags/ryo-ogihara) - electric guitar (#1-3, 7, 10)
+-   [Shinichi Sato](/tags/shinichi-sato) - acoustic bass, electric bass
+-   [Manabu Fujii](/tags/manabu-fujii) - drums (tr. 1-6, 8-11)
 
 Released in 2012 on Urban Jazz as 151A-0005.
 

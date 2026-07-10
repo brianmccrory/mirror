@@ -3,7 +3,7 @@ title = "Naoko Tanaka: Appreciation"
 author = ["Brian McCrory"]
 publishDate = 2024-02-24
 keywords = ["protean-protean", "naoko-tanaka-trio-memories", "daiki-yasukagawa-trio-trios-ii", "tcq-memories-of-t", "hiro-kimura-quintet-folds"]
-tags = ["Naoko Tanaka 田中菜緒子", "Yoshiro Okazaki 岡崎好朗", "Takayuki Sato 佐藤敬幸", "Mabumi Yamaguchi 山口真文", "Koji Yasuda 安田幸司", "Masanori Ando 安藤正則"]
+tags = ["Naoko Tanaka", "田中菜緒子", "Yoshiro Okazaki", "岡崎好朗", "Takayuki Sato", "佐藤敬幸", "Mabumi Yamaguchi", "山口真文", "Koji Yasuda", "安田幸司", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -76,12 +76,12 @@ I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had
 
 ## Appreciation by Naoko Tanaka {#appreciation-by-naoko-tanaka}
 
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano
--   [Yoshiro Okazaki](http://www.yoshirojazz.sakura.ne.jp/) - trumpet (#1, 4)
--   [Takayuki Sato](https://takayukisatooo.amebaownd.com/) - alto sax (#1, 6)
--   [Mabumi Yamaguchi](https://mabumi.com/) - tenor sax (#4)
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet (#1, 4)
+-   [Takayuki Sato](/tags/takayuki-sato) - alto sax (#1, 6)
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - tenor sax (#4)
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2022 on Naop Record as NT-0405.
 

@@ -3,7 +3,7 @@ title = "Ayumi Koketsu: Rainbow Tales"
 author = ["Brian McCrory"]
 publishDate = 2018-05-04
 keywords = ["ayumi-koketsu-art"]
-tags = ["Ayumi Koketsu 纐纈歩美", "Svein Olav Herstad", "Magne Thormodsæter", "Per Oddvar Johansen"]
+tags = ["Ayumi Koketsu", "纐纈歩美", "Svein Olav Herstad", "Magne Thormodsæter", "Per Oddvar Johansen"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,10 +26,10 @@ The album contains a nice balance on its eleven songs. Along with three swinging
 
 ## Rainbow Tales by Ayumi Koketsu {#rainbow-tales-by-ayumi-koketsu}
 
--   [Ayumi Koketsu](http://a-koketsu.com/) - alto sax
--   [Svein Olav Herstad](https://en.wikipedia.org/wiki/Svein_Olav_Herstad) - piano
--   [Magne Thormodsæter](https://en.wikipedia.org/wiki/Magne_Thormods%C3%A6ter) - bass
--   [Per Oddvar Johansen](https://peroddvar.no/) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
+-   [Svein Olav Herstad](/tags/svein-olav-herstad) - piano
+-   [Magne Thormodsæter](/tags/magne-thormodster) - bass
+-   [Per Oddvar Johansen](/tags/per-oddvar-johansen) - drums
 
 Released in 2012 on Pony Canyon as MYCJ-30620.
 

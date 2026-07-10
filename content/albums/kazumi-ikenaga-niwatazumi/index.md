@@ -3,7 +3,7 @@ title = "Kazumi Ikenaga: Niwatazumi"
 author = ["Brian McCrory"]
 publishDate = 2018-01-26
 keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
-tags = ["Kazumi Ikenaga 池長和美", "Christian Vuust", "Jakob Buchanan", "Soren Dahl Jeppesen", "Klaus Nørgaard"]
+tags = ["Kazumi Ikenaga", "池長和美", "Christian Vuust", "Jakob Buchanan", "Soren Dahl Jeppesen", "Klaus Nørgaard"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -64,11 +64,11 @@ This is composed of a simple melodic refrain that evokes a philosophical feeling
 
 ## Niwatazumi by Kazumi Ikenaga {#niwatazumi-by-kazumi-ikenaga}
 
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
--   Christian Vuust - tenor saxophone and clarinet
--   Jakob Buchanan - flugelhorn
--   Soren Dahl Jeppesen - guitar
--   Klaus Nørgaard - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Christian Vuust](/tags/christian-vuust) - tenor saxophone and clarinet
+-   [Jakob Buchanan](/tags/jakob-buchanan) - flugelhorn
+-   [Soren Dahl Jeppesen](/tags/soren-dahl-jeppesen) - guitar
+-   [Klaus Nørgaard](/tags/klaus-nrgaard) - bass
 
 Released in 2017 on Cloud as DDCJ-4019.
 

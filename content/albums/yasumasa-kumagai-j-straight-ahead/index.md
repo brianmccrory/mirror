@@ -3,7 +3,7 @@ title = "Yasumasa Kumagai: J-Straight Ahead"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
 keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
-tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Yosuke Inoue 井上陽介", "Masahiko Osaka 大坂昌彦"]
+tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Yosuke Inoue", "井上陽介", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -38,9 +38,9 @@ Born in 1979 in Mito, Ibaraki. He began playing piano at three years old and sta
 
 ## J-Straight Ahead by Yasumasa Kumagai {#j-straight-ahead-by-yasumasa-kumagai}
 
--   [Yasumasa Kumagai](https://yasumasakumagai.com/) - piano
--   [Yosuke Inoue](http://yosukeinouejazz.sakura.ne.jp/) - bass
--   [Masahiko Osaka](https://osaka-masahiko.com/) - drums
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
+-   [Yosuke Inoue](/tags/yosuke-inoue) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka) - drums
 
 Released in 2015 on Jazzy Bear Records as JZBR-0001.
 

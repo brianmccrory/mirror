@@ -2,7 +2,7 @@
 title = "Hiro Kimura Quintet: Folds"
 author = ["Brian McCrory"]
 publishDate = 2023-06-16
-tags = ["Hiro Kimura 木村紘", "Kazuhiko Takeda 竹田一彦", "Miki Hirose 広瀬未来", "Naoko Tanaka 田中菜緒子", "Yuji Ito 伊藤勇司"]
+tags = ["Hiro Kimura", "木村紘", "Kazuhiko Takeda", "竹田一彦", "Miki Hirose", "広瀬未来", "Naoko Tanaka", "田中菜緒子", "Yuji Ito", "伊藤勇司"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -94,11 +94,11 @@ Hiro Kimura
 
 ## Folds by Hiro Kimura Quintet {#folds-by-hiro-kimura-quintet}
 
--   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums
--   [Kazuhiko Takeda](https://ameblo.jp/kazuhikotakeda/) - guitar
--   [Miki Hirose](https://mikimusic.exblog.jp/) - trumpet
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano
--   [Yuji Ito](https://bassist-jazz-0313.wixsite.com/yujito) - bass
+-   [Hiro Kimura](/tags/hiro-kimura) - drums
+-   [Kazuhiko Takeda](/tags/kazuhiko-takeda) - guitar
+-   [Miki Hirose](/tags/miki-hirose) - trumpet
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano
+-   [Yuji Ito](/tags/yuji-ito) - bass
 
 Released in 2023 on KINO Records as KIN-002.
 

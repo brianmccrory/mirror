@@ -2,7 +2,7 @@
 title = "Rie Taguchi: The Gift II"
 author = ["Brian McCrory"]
 publishDate = 2023-05-26
-tags = ["Rie Taguchi 田口理恵", "Seiji Endo 遠藤征志", "Seiji Tada 多田誠司", "Noriko Satomi 里見紀子", "Mitsukuni Tanabe 田辺充邦", "Yusuke Nakaishi 仲石裕介", "Akira Yamada 山田玲"]
+tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada", "多田誠司", "Noriko Satomi", "里見紀子", "Mitsukuni Tanabe", "田辺充邦", "Yusuke Nakaishi", "仲石裕介", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -48,13 +48,13 @@ _Rie Taguchi_
 
 ## The Gift II by Rie Taguchi {#the-gift-ii-by-rie-taguchi}
 
--   [Rie Taguchi](https://riepihappymusic.wixsite.com/music) - vocal
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano, arrangments
--   [Seiji Tada](https://www.tadasei.net/) - alto saxophone, flute
--   [Noriko Satomi](https://project-nori.wixsite.com/mysite) - violin
--   [Mitsukuni Tanabe](http://tanabe-mitsukuni.com/) - guitar
--   [Yusuke Nakaishi](https://nowonmusic.com/members/258) - bass
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
+-   [Rie Taguchi](/tags/rie-taguchi) - vocal
+-   [Seiji Endo](/tags/seiji-endo) - piano, arrangments
+-   [Seiji Tada](/tags/seiji-tada) - alto saxophone, flute
+-   [Noriko Satomi](/tags/noriko-satomi) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi) - bass
+-   [Akira Yamada](/tags/akira-yamada) - drums
 
 Released in 2021 on Studio TLive Records as STLR-021.
 

@@ -2,7 +2,7 @@
 title = "Yukari Inoue: Sakura"
 author = ["Brian McCrory"]
 publishDate = 2020-03-03
-tags = ["Yukari Inoue 井上ゆかり"]
+tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,7 +27,7 @@ Along with standard jazz tunes including “I Got Rhythm”, “La Fiesta”, an
 
 ## Sakura by Yukari Inoue {#sakura-by-yukari-inoue}
 
--   [Yukari Inoue](https://www.inoueyukari.com/) - piano
+-   [Yukari Inoue](/tags/yukari-inoue) - piano
 
 Released in 2012 on Silver Fingers/Roving Spirits as RKCJ-2053.
 

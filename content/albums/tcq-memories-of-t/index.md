@@ -2,7 +2,7 @@
 title = "TCQ: Memories of T"
 author = ["Brian McCrory"]
 publishDate = 2020-11-07
-tags = ["Shawna Yang", "Naoko Tanaka 田中菜緒子", "Daiki Yasukagawa 安ヵ川大樹", "Takeshi Sakamoto 坂本健志"]
+tags = ["Shawna Yang", "Naoko Tanaka", "田中菜緒子", "Daiki Yasukagawa", "安ヵ川大樹", "Takeshi Sakamoto", "坂本健志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -31,10 +31,10 @@ Sakamoto also provides a special essay in the liner notes with background inform
 
 ## Memories of T by TCQ {#memories-of-t-by-tcq}
 
--   [Shawna Yang](https://antiguawinds.com/artists/shawna-yang/) - alto sax
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Takeshi Sakamoto](https://www.facebook.com/takeshidrums/) - drums
+-   [Shawna Yang](/tags/shawna-yang) - alto sax
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Takeshi Sakamoto](/tags/takeshi-sakamoto) - drums
 
 Released in 2017 on D-neo Daiki Musica as DNCD-13.
 

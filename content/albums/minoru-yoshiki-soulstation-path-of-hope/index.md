@@ -2,7 +2,7 @@
 title = "Minoru Yoshiki Soulstation: Path of Hope"
 author = ["Brian McCrory"]
 publishDate = 2019-09-10
-tags = ["Minoru Yoshiki 吉木稔", "Osamu Soda 祖田修", "Shuji Morita 森田修史"]
+tags = ["Minoru Yoshiki", "吉木稔", "Osamu Soda", "祖田修", "Shuji Morita", "森田修史"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -36,9 +36,9 @@ draft = false
 
 ## Path of Hope by Minoru Yoshiki Soulstation {#path-of-hope-by-minoru-yoshiki-soulstation}
 
--   [Minoru Yoshiki](https://yoshikiminoru.com/) - contrabass
--   [Osamu Soda](https://osoda.jimdofree.com/) - piano
--   [Shuji Morita](https://shujimorita.official.jp/) - tenor sax
+-   [Minoru Yoshiki](/tags/minoru-yoshiki) - contrabass
+-   [Osamu Soda](/tags/osamu-soda) - piano
+-   [Shuji Morita](/tags/shuji-morita) - tenor sax
 
 Released in 2019 on Urban Jazz as Path of Hope.
 

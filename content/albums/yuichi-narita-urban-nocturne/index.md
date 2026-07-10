@@ -3,7 +3,7 @@ title = "Yuichi Narita: Urban Nocturne"
 author = ["Brian McCrory"]
 publishDate = 2023-08-18
 keywords = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
-tags = ["Yuichi Narita 成田祐一"]
+tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -33,7 +33,7 @@ The combination of instruments is also fascinatingly varied. On the electronic t
 
 ## Urban Nocturne by Yuichi Narita {#urban-nocturne-by-yuichi-narita}
 
--   [Yuichi Narita](http://www.yuichinarita.com/) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
+-   [Yuichi Narita](/tags/yuichi-narita) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
 
 Released in 2021 on Coffee Table Records as COTA-001.
 

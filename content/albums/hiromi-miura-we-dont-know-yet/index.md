@@ -2,7 +2,7 @@
 title = "Hiromi Miura: We Don’t Know Yet"
 author = ["Brian McCrory"]
 publishDate = 2020-02-05
-tags = ["Hiromi Miura 三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoichi Zakota 座小田諒一", "Paolo Orlandi"]
+tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoichi Zakota", "座小田諒一", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,11 +27,11 @@ Following the five original jazz pieces, an attention-grabbing jazz blues is per
 
 ## We Don’t Know Yet by Hiromi Miura {#we-don-t-know-yet-by-hiromi-miura}
 
--   Hiromi Miura - alto and soprano saxophone
--   [Yago Vázquez](https://yagovazquez.com/) - piano
--   Greg Ruggiero - guitar
--   [Ryoichi Zakota](https://basszakota.exblog.jp/) - bass
--   [Paolo Orlandi](https://www.paoloorlandi.com/) - drums
+-   [Hiromi Miura](/tags/hiromi-miura) - alto and soprano saxophone
+-   [Yago Vázquez](/tags/yago-vzquez) - piano
+-   [Greg Ruggiero](/tags/greg-ruggiero) - guitar
+-   [Ryoichi Zakota](/tags/ryoichi-zakota) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi) - drums
 
 Released in 2013 on D-neo Daiki Musica as DNCD-03.
 

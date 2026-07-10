@@ -3,7 +3,7 @@ title = "Toru Takahashi: Tokyo Groovin’ High!"
 author = ["Brian McCrory"]
 publishDate = 2025-12-06
 keywords = ["hara-dairiki-trio-youve-changed"]
-tags = ["Toru Takahashi 高橋徹", "Atsushi Ikeda 池田篤", "Masanori Okazaki 岡崎正典", "Keiichi Yoshida 吉田桂一", "Kengo Nakamura 中村健吾", "Yusuke Chigita 千北祐輔", "Jun Satsuma 佐津間純", "Koyuza Sanyutei 三遊亭小遊三", "Shota Shunputei 春風亭昇太"]
+tags = ["Toru Takahashi", "高橋徹", "Atsushi Ikeda", "池田篤", "Masanori Okazaki", "岡崎正典", "Keiichi Yoshida", "吉田桂一", "Kengo Nakamura", "中村健吾", "Yusuke Chigita", "千北祐輔", "Jun Satsuma", "佐津間純", "Koyuza Sanyutei", "三遊亭小遊三", "Shota Shunputei", "春風亭昇太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -127,15 +127,15 @@ _Notes by Toru Takahashi_
 
 ## Tokyo Groovin’ High! by Toru Takahashi {#tokyo-groovin-high-by-toru-takahashi}
 
--   [Toru Takahashi](http://torutakahashi.com/) - drums
--   [Atsushi Ikeda](https://ameblo.jp/ats-music1963/) - alto sax (#1-5, 7)
--   [Masanori Okazaki](https://masanoriokazakisax.jimdofree.com/home/) - tenor sax (#3, 4, 8-12)
--   [Keiichi Yoshida](https://ameblo.jp/pianok10823/) - piano (#1-7)
--   [Kengo Nakamura](https://kengonakamura.com/) - bass (#1-7)
--   [Yusuke Chigita](https://yusukechigita.bandcamp.com/album/family-diary) - bass (#8-12)
--   [Jun Satsuma](https://junsatsuma.com/) - guitar (#8, 9, 12)
--   [Koyuza Sanyutei](https://ja.wikipedia.org/wiki/%E4%B8%89%E9%81%8A%E4%BA%AD%E5%B0%8F%E9%81%8A%E4%B8%89) - special guest trumpet (#3)
--   [Shota Shunputei](https://shunputei-shota.com/) - special guest trombone (#3)
+-   [Toru Takahashi](/tags/toru-takahashi) - drums
+-   [Atsushi Ikeda](/tags/atsushi-ikeda) - alto sax (#1-5, 7)
+-   [Masanori Okazaki](/tags/masanori-okazaki) - tenor sax (#3, 4, 8-12)
+-   [Keiichi Yoshida](/tags/keiichi-yoshida) - piano (#1-7)
+-   [Kengo Nakamura](/tags/kengo-nakamura) - bass (#1-7)
+-   [Yusuke Chigita](/tags/yusuke-chigita) - bass (#8-12)
+-   [Jun Satsuma](/tags/jun-satsuma) - guitar (#8, 9, 12)
+-   [Koyuza Sanyutei](/tags/koyuza-sanyutei) - special guest trumpet (#3)
+-   [Shota Shunputei](/tags/shota-shunputei) - special guest trombone (#3)
 
 Released in 2021 on T-Swing Music as TSM-0001.
 

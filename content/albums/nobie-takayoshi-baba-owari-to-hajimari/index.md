@@ -3,7 +3,7 @@ title = "Nobie & Takayoshi Baba: Owari to Hajimari"
 author = ["Brian McCrory"]
 publishDate = 2025-01-11
 keywords = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
-tags = ["Nobie ノビー", "Takayoshi Baba 馬場孝喜", "Nobumasa Tanaka 田中信正", "Mayuko Katakura 片倉真由子", "Kiichiro Komobuchi コモブチキイチロウ", "Yoichi Okabe 岡部洋一"]
+tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka", "田中信正", "Mayuko Katakura", "片倉真由子", "Kiichiro Komobuchi", "コモブチキイチロウ", "Yoichi Okabe", "岡部洋一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -70,12 +70,12 @@ Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of bal
 
 ## Owari to Hajimari by Nobie &amp; Takayoshi Baba {#owari-to-hajimari-by-nobie-and-takayoshi-baba}
 
--   [Nobie](https://nobie.net/) - vocal/percussion/chorus
--   [Takayoshi Baba](https://babaviolao.wixsite.com/babatakayoshi) - guitar/chorus
--   [Nobumasa Tanaka](http://tnobumasa.com/) - piano (#5)
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano (#4, 10)
--   [Kiichiro Komobuchi](http://www.comobass.com/) - bass/chorus (#2, 4, 10)
--   [Yoichi Okabe](https://okabeyoichi.com/) - percussion (#2, 4, 10)
+-   [Nobie](/tags/nobie) - vocal/percussion/chorus
+-   [Takayoshi Baba](/tags/takayoshi-baba) - guitar/chorus
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano (#5)
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano (#4, 10)
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi) - bass/chorus (#2, 4, 10)
+-   [Yoichi Okabe](/tags/yoichi-okabe) - percussion (#2, 4, 10)
 
 Released in 2023 on F.S.L. as FSCJ-0024.
 

@@ -3,7 +3,7 @@ title = "Magnolia: El viento y las flores"
 author = ["Brian McCrory"]
 publishDate = 2025-02-03
 keywords = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
-tags = ["Reiko Yamamoto 山本玲子", "Yuka Yanagihara 柳原由佳", "Hitomi Aikawa 相川瞳"]
+tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hitomi Aikawa", "相川瞳"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -38,9 +38,9 @@ Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosi
 
 ## El viento y las flores by Magnolia {#el-viento-y-las-flores-by-magnolia}
 
--   [Reiko Yamamoto](http://reikoyamamoto.net/) - vibraphone
--   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
--   [Hitomi Aikawa](https://www.hitomiaikawa.com/) - percussion
+-   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
+-   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
+-   [Hitomi Aikawa](/tags/hitomi-aikawa) - percussion
 
 Released in 2022 on Magnolia as MGNL-0001.
 

@@ -2,7 +2,7 @@
 title = "Akane Matsumoto: Night & Day"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
-tags = ["Akane Matsumoto 松本茜", "Peter Washington", "Gene Jackson"]
+tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,9 +22,9 @@ Alongside classic and rearranged standards from Cole Porter, Irving Berlin, Bill
 
 ## Night &amp; Day by Akane Matsumoto {#night-and-day-by-akane-matsumoto}
 
--   [Akane Matsumoto](http://akanejazz.com) - piano
--   [Peter Washington](https://en.wikipedia.org/wiki/Peter_Washington) - bass
--   [Gene Jackson](https://www.genejacksonmusic.com/) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Peter Washington](/tags/peter-washington) - bass
+-   [Gene Jackson](/tags/gene-jackson) - drums
 
 Released in 2017 on Concept Record as CR07.
 

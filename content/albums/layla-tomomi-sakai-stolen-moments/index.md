@@ -3,7 +3,7 @@ title = "Layla Tomomi Sakai: Stolen Moments"
 author = ["Brian McCrory"]
 publishDate = 2025-05-03
 keywords = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island"]
-tags = ["Layla Tomomi Sakai 坂井レイラ知美", "Yuichiro Hiraoka 平岡遊一郎", "Ryuichi Takase 高瀬龍一", "Hideaki Nakaji 中路英明", "Heitetsu Rin リンヘイテツ", "Keisuke Furuki 古木佳祐", "Ryo Saito 斉藤良"]
+tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一", "Hideaki Nakaji", "中路英明", "Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,13 +27,13 @@ The full band sound is balanced with small duo and trio moments such as on the b
 
 ## Stolen Moments by Layla Tomomi Sakai {#stolen-moments-by-layla-tomomi-sakai}
 
--   [Layla Tomomi Sakai](https://www.sakailaylatomomi.com/) - vocal
--   [Yuichiro Hiraoka](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=4205) - guitar
--   [Ryuichi Takase](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1532) - trumpet
--   [Hideaki Nakaji](http://blog.livedoor.jp/obatala/) - trombone
--   [Heitetsu Rin](https://www.rinheitetsu.com/) - piano
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass
--   [Ryo Saito](https://ryosaito0707.jimdofree.com/) - drums
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase) - trumpet
+-   [Hideaki Nakaji](/tags/hideaki-nakaji) - trombone
+-   [Heitetsu Rin](/tags/heitetsu-rin) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass
+-   [Ryo Saito](/tags/ryo-saito) - drums
 
 Released in 2019 on Laydrunker Records as Layla-003.
 

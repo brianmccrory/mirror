@@ -2,7 +2,7 @@
 title = "Manabu Ohishi Trio: Gift"
 author = ["Brian McCrory"]
 publishDate = 2020-03-09
-tags = ["Manabu Ohishi 大石学", "Jean-Philippe Viret", "Simon Goubert"]
+tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,9 +27,9 @@ In addition to the original numbers, a cover of the jazz standard “Softly, As 
 
 ## Gift by Manabu Ohishi Trio {#gift-by-manabu-ohishi-trio}
 
--   [Manabu Ohishi](https://cd-v.net/ohishi/) - piano, pianica
--   [Jean-Philippe Viret](https://www.jeanphilippeviret.com/) - bass
--   [Simon Goubert](https://simongoubert.bandcamp.com/) - drums
+-   [Manabu Ohishi](/tags/manabu-ohishi) - piano, pianica
+-   [Jean-Philippe Viret](/tags/jean-philippe-viret) - bass
+-   [Simon Goubert](/tags/simon-goubert) - drums
 
 Released in 2012 on Atelier Sawano as AS-122.
 

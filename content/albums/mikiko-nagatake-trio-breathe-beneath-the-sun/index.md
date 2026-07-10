@@ -3,7 +3,7 @@ title = "Mikiko Nagatake Trio: Breathe Beneath the Sun"
 author = ["Brian McCrory"]
 publishDate = 2026-01-03
 keywords = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
-tags = ["Mikiko Nagatake 永武幹子", "Ryoji Orihara 織原良次", "Sota Kira 吉良創太", "Kosuke Mine 峰厚介", "Eiichi Hayashi 林栄一"]
+tags = ["Mikiko Nagatake", "永武幹子", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太", "Kosuke Mine", "峰厚介", "Eiichi Hayashi", "林栄一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -172,11 +172,11 @@ He became a professional musician at 17 years of age by training in big bands an
 
 ## Breathe Beneath the Sun by Mikiko Nagatake Trio {#breathe-beneath-the-sun-by-mikiko-nagatake-trio}
 
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums
--   [Kosuke Mine](http://www.aomori-net.ne.jp/~yamagen/mine/top.htm) - tenor sax (track #8)
--   [Eiichi Hayashi](https://www.eonet.ne.jp/%7En-east/) - alto sax (track #9)
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Sota Kira](/tags/sota-kira) - drums
+-   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (track #8)
+-   [Eiichi Hayashi](/tags/eiichi-hayashi) - alto sax (track #9)
 
 Released in 2022 on Owl Wing Record as OWL-041.
 

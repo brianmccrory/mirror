@@ -3,7 +3,7 @@ title = "Hideaki Hori & Wataru Hamasaki: Encounter"
 author = ["Brian McCrory"]
 publishDate = 2025-02-23
 keywords = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
-tags = ["Hideaki Hori 堀秀彰", "Wataru Hamasaki 浜崎航", "Hiroshi Takase 高瀬裕", "Junji Hirose 広瀬潤次", "Satoshi Takino 滝野聡"]
+tags = ["Hideaki Hori", "堀秀彰", "Wataru Hamasaki", "浜崎航", "Hiroshi Takase", "高瀬裕", "Junji Hirose", "広瀬潤次", "Satoshi Takino", "滝野聡"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -87,11 +87,11 @@ This is a gospel-style song dedicated to the inspiration for the title of this s
 
 ## Encounter by Hideaki Hori &amp; Wataru Hamasaki {#encounter-by-hideaki-hori-and-wataru-hamasaki}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Wataru Hamasaki](http://www.watarujazz.com) - tenor &amp; soprano sax, flute
--   [Hiroshi Takase](http://www.takasehiroshi.com/) - bass
--   [Junji Hirose](https://hirolin.jimdofree.com/) - drums
--   [Satoshi Takino](https://www.jvcmusic.co.jp/-/Artist/A005272.html) - guitar (tracks #1, 4, 10)
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor &amp; soprano sax, flute
+-   [Hiroshi Takase](/tags/hiroshi-takase) - bass
+-   [Junji Hirose](/tags/junji-hirose) - drums
+-   [Satoshi Takino](/tags/satoshi-takino) - guitar (tracks #1, 4, 10)
 
 Released in 2008 on BQ Records as BQR-2043.
 

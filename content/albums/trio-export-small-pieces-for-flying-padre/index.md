@@ -2,7 +2,7 @@
 title = "Trio Export 63.1.0.X: Small Pieces for Flying Padre"
 author = ["Brian McCrory"]
 publishDate = 2020-02-19
-tags = ["Heitetsu Rin リンヘイテツ", "Keisuke Furuki 古木佳祐", "Masatsugu Hattori 服部正嗣"]
+tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,9 +26,9 @@ Original, catchy, and unique, this handmade album is available for sale at the j
 
 ## Small Pieces for Flying Padre by Trio Export 63.1.0.X {#small-pieces-for-flying-padre-by-trio-export-63-dot-1-dot-0-dot-x}
 
--   [Heitetsu Rin](https://www.rinheitetsu.com/) - piano
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass
--   [Masatsugu Hattori](https://masatsuguhattori.tumblr.com/) - drums
+-   [Heitetsu Rin](/tags/heitetsu-rin) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori) - drums
 
 Released in 2019 on Trio Export 63.1.0.X as Small Pieces for Flying Padre.
 

@@ -3,7 +3,7 @@ title = "Yasumasa Kumagai & J-Jazz Homies: Last Resort"
 author = ["Brian McCrory"]
 publishDate = 2023-10-06
 keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
-tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Miki Hirose 広瀬未来", "Keisuke Furuki 古木佳祐", "Akira Yamada 山田玲"]
+tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Miki Hirose", "広瀬未来", "Keisuke Furuki", "古木佳祐", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -88,10 +88,10 @@ That’s all for now. We appreciate your support as we continue to release new a
 
 ## Last Resort by Yasumasa Kumagai &amp; J-Jazz Homies {#last-resort-by-yasumasa-kumagai-and-j-jazz-homies}
 
--   [Yasumasa Kumagai](https://yasumasakumagai.com/) - piano
--   [Miki Hirose](https://mikimusic.exblog.jp/) - trumpet
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
+-   [Miki Hirose](/tags/miki-hirose) - trumpet
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass
+-   [Akira Yamada](/tags/akira-yamada) - drums
 
 Released in 2020 on Jazzy Bear as JZBR-0002.
 

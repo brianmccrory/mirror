@@ -2,7 +2,7 @@
 title = "Naoko Tanaka Trio: Memories"
 author = ["Brian McCrory"]
 publishDate = 2020-10-18
-tags = ["Naoko Tanaka 田中菜緒子", "Koji Yasuda 安田幸司", "Masanori Ando 安藤正則", "Yoshiro Okazaki 岡崎好朗", "Daiki Yasukagawa 安ヵ川大樹"]
+tags = ["Naoko Tanaka", "田中菜緒子", "Koji Yasuda", "安田幸司", "Masanori Ando", "安藤正則", "Yoshiro Okazaki", "岡崎好朗", "Daiki Yasukagawa", "安ヵ川大樹"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ From the first track “Sailing” a bracing, uplifting mood is established, exp
 
 ## Memories by Naoko Tanaka Trio {#memories-by-naoko-tanaka-trio}
 
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
--   [Yoshiro Okazaki](http://www.yoshirojazz.sakura.ne.jp/) - trumpet (tr. #6, 8)
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass (tr. #9)
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet (tr. #6, 8)
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass (tr. #9)
 
 Released in 2015 on D-neo Daiki Musica as DNCD-05.
 

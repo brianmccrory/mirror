@@ -3,7 +3,7 @@ title = "Kazumi Ikenaga & Taihei Asakawa: NordNote"
 author = ["Brian McCrory"]
 publishDate = 2024-07-08
 keywords = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-winter", "kazumi-ikenaga-niwatazumi", "taihei-asakawa-waltz-for-debby"]
-tags = ["Kazumi Ikenaga 池長和美", "Taihei Asakawa 浅川太平"]
+tags = ["Kazumi Ikenaga", "池長和美", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -139,8 +139,8 @@ DPA 4006-TL x 2
 
 ## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa {#nordnote-by-kazumi-ikenaga-and-taihei-asakawa}
 
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano
 
 Released in 2020 on Time Machine Record as TMCD-1020.
 

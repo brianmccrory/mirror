@@ -2,7 +2,7 @@
 title = "Harumi Nomoto Trio: Belinda"
 author = ["Brian McCrory"]
 publishDate = 2020-04-04
-tags = ["Harumi Nomoto 野本晴美", "Noboru Ando 安東昇", "Daisuke Yoshioka 吉岡大輔"]
+tags = ["Harumi Nomoto", "野本晴美", "Noboru Ando", "安東昇", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,9 +25,9 @@ As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the wa
 
 ## Belinda by Harumi Nomoto Trio {#belinda-by-harumi-nomoto-trio}
 
--   [Harumi Nomoto](https://haruminomoto.jimdofree.com/) - piano, Fender Rhodes electric piano
--   [Noboru Ando](https://andy1974.exblog.jp/) - bass
--   [Daisuke Yoshioka](http://yoshiokadaisuke.com/) - drums
+-   [Harumi Nomoto](/tags/harumi-nomoto) - piano, Fender Rhodes electric piano
+-   [Noboru Ando](/tags/noboru-ando) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka) - drums
 
 Released in 2007 on Anturtle Tune/BQ Records as BQR-2040.
 

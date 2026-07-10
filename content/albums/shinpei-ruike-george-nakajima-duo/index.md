@@ -3,7 +3,7 @@ title = "Shinpei Ruike & George Nakajima: Duo"
 author = ["Brian McCrory"]
 publishDate = 2023-11-10
 keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
-tags = ["Shinpei Ruike 類家心平", "George Nakajima 中嶋錠二"]
+tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -40,8 +40,8 @@ Shinpei Ruike
 
 ## Duo by Shinpei Ruike &amp; George Nakajima {#duo-by-shinpei-ruike-and-george-nakajima}
 
--   [Shinpei Ruike](https://ruikeshinpei.com/) - trumpet
--   [George Nakajima](https://georgenpf.exblog.jp/) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
+-   [George Nakajima](/tags/george-nakajima) - piano
 
 Released in 2022 on Core Port as RPOL-10012.
 

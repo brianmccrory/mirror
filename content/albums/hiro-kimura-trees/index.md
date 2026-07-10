@@ -3,7 +3,7 @@ title = "Hiro Kimura: Trees"
 author = ["Brian McCrory"]
 publishDate = 2024-12-13
 keywords = ["reiko-yamamoto-square-pyramid", "fumika-asari-introducin", "hiro-kimura-quintet-folds"]
-tags = ["Akiha Nakashima 中島朱葉", "Kohei Ando 安藤康平", "Mao Sone 曽根麻央", "Mamoru Ishida 石田衛", "Naoko Tanaka 田中菜緒子", "Keisuke Furuki 古木佳祐", "Yuji Ito 伊藤勇司", "Hiro Kimura 木村紘"]
+tags = ["Akiha Nakashima", "中島朱葉", "Kohei Ando", "安藤康平", "Mao Sone", "曽根麻央", "Mamoru Ishida", "石田衛", "Naoko Tanaka", "田中菜緒子", "Keisuke Furuki", "古木佳祐", "Yuji Ito", "伊藤勇司", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -83,14 +83,14 @@ _Hiro Kimura_
 
 ## Trees by Hiro Kimura {#trees-by-hiro-kimura}
 
--   [Akiha Nakashima](https://ameblo.jp/akiha-nakashima/) - alto sax, soprano sax (#2, 4, 5, 8)
--   [Kohei Ando](https://anpan5150.wixsite.com/anpan5150) - alto sax, soprano sax (#1, 3, 4, 7, 9)
--   [Mao Sone](https://www.maosone.com/) - trumpet (#1), piano (#6), Fender Rhodes &amp; keys (#9)
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano (#2, 4, 5, 8)
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano (#1, 3, 7, 9)
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass (#2, 4, 5, 8)
--   [Yuji Ito](https://bassist-jazz-0313.wixsite.com/yujito) - bass (#1, 3, 6, 7, 9)
--   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums, percussion (#3)
+-   [Akiha Nakashima](/tags/akiha-nakashima) - alto sax, soprano sax (#2, 4, 5, 8)
+-   [Kohei Ando](/tags/kohei-ando) - alto sax, soprano sax (#1, 3, 4, 7, 9)
+-   [Mao Sone](/tags/mao-sone) - trumpet (#1), piano (#6), Fender Rhodes &amp; keys (#9)
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano (#2, 4, 5, 8)
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano (#1, 3, 7, 9)
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass (#2, 4, 5, 8)
+-   [Yuji Ito](/tags/yuji-ito) - bass (#1, 3, 6, 7, 9)
+-   [Hiro Kimura](/tags/hiro-kimura) - drums, percussion (#3)
 
 Released in 2021 on KINO Records as KIN-001.
 

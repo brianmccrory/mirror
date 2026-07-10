@@ -3,7 +3,7 @@ title = "Chihiro Yamanaka: Lach Doch Mal"
 author = ["Brian McCrory"]
 publishDate = 2024-02-16
 keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing"]
-tags = ["Chihiro Yamanaka 山中千尋", "Larry Grenadier", "Jeff Ballard", "John Carlini"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard", "John Carlini"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -36,10 +36,10 @@ The final two tracks also remind us of Yamanaka’s fun and playful nature. In l
 
 ## Lach Doch Mal by Chihiro Yamanaka {#lach-doch-mal-by-chihiro-yamanaka}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   [Larry Grenadier](https://larrygrenadier.com/) - bass
--   [Jeff Ballard](https://www.jeffballard.com/) - drums
--   [John Carlini](https://johncarlinimusic.com/) - guitar (#1, 5), banjo (#3)
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Larry Grenadier](/tags/larry-grenadier) - bass
+-   [Jeff Ballard](/tags/jeff-ballard) - drums
+-   [John Carlini](/tags/john-carlini) - guitar (#1, 5), banjo (#3)
 
 Released in 2006 on Verve as UCCJ-9077.
 

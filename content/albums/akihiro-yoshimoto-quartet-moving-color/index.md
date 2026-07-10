@@ -3,7 +3,7 @@ title = "Akihiro Yoshimoto Quartet: Moving Color"
 author = ["Brian McCrory"]
 publishDate = 2018-08-18
 keywords = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
-tags = ["Akihiro Yoshimoto 吉本章紘", "Aaron Choulai アーロン・チューライ", "Takashi Sugawa 須川崇志", "Shun Ishiwaka 石若駿"]
+tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takashi Sugawa", "須川崇志", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -60,10 +60,10 @@ _Toshihiko Hoshino 星野利彦 / Music Writer_
 
 ## Moving Color by Akihiro Yoshimoto Quartet {#moving-color-by-akihiro-yoshimoto-quartet}
 
--   [Akihiro Yoshimoto](https://www.akihiro-yoshimoto.com/) - saxophone
--   [Aaron Choulai](https://aaronchoulai.com/) - piano
--   [Takashi Sugawa](https://www.tsgw.net/) - bass
--   [Shun Ishiwaka](http://www.shun-ishiwaka.com/) - drums
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
+-   [Aaron Choulai](/tags/aaron-choulai) - piano
+-   [Takashi Sugawa](/tags/takashi-sugawa) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
 
 Released in 2015 on MOR Records as MOR-1001.
 

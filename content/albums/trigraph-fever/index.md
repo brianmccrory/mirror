@@ -2,7 +2,7 @@
 title = "Trigraph: Fever"
 author = ["Brian McCrory"]
 publishDate = 2021-08-27
-tags = ["Takayoshi Baba 馬場孝喜", "Reikan Kobayashi 小林鈴勘", "Sanae Ishikawa 石川早苗", "Ryoji Orihara 織原良次", "Yasushi Fukumori 福森康"]
+tags = ["Takayoshi Baba", "馬場孝喜", "Reikan Kobayashi", "小林鈴勘", "Sanae Ishikawa", "石川早苗", "Ryoji Orihara", "織原良次", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,11 +28,11 @@ In addition to jazz, Trigraph also features five of their well-crafted original 
 
 ## Fever by Trigraph {#fever-by-trigraph}
 
--   [Takayoshi Baba](https://babaviolao.wixsite.com/babatakayoshi) - guitar &amp; chorus
--   [Reikan Kobayashi](https://reikankobayashi.net/) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
--   [Sanae Ishikawa](http://blog.livedoor.jp/sanny_jazz/) - vocal &amp; chorus
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - electric fretless bass &amp; chorus
--   [Yasushi Fukumori](https://ameblo.jp/su-shi84/) - drums &amp; chorus
+-   [Takayoshi Baba](/tags/takayoshi-baba) - guitar &amp; chorus
+-   [Reikan Kobayashi](/tags/reikan-kobayashi) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
+-   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal &amp; chorus
+-   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass &amp; chorus
+-   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums &amp; chorus
 
 Released in 2014 on Haru Records as HARU-20.
 

@@ -3,7 +3,7 @@ title = "Ryosuke Hashizume Group: Side Two"
 author = ["Brian McCrory"]
 publishDate = 2024-11-08
 keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
-tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Koichi Sato 佐藤浩一", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -79,11 +79,11 @@ Also, the sound of each instrument rings with a tone and texture that seems to h
 
 ## Side Two by Ryosuke Hashizume Group {#side-two-by-ryosuke-hashizume-group}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor sax, loops
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums, percussion
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor sax, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
 
 Released in 2014 on Apollo Sounds as APLS-1410.
 

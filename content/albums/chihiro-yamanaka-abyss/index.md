@@ -3,7 +3,7 @@ title = "Chihiro Yamanaka: Abyss"
 author = ["Brian McCrory"]
 publishDate = 2025-08-24
 keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
-tags = ["Chihiro Yamanaka 山中千尋", "Vicente Archer", "Kendrick Scott"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Vicente Archer", "Kendrick Scott"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -84,9 +84,9 @@ The striking sound of the organ runs in all directions over a Motown groove loop
 
 ## Abyss by Chihiro Yamanaka {#abyss-by-chihiro-yamanaka}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   [Vicente Archer](https://en.wikipedia.org/wiki/Vicente_Archer) - bass
--   [Kendrick Scott](http://www.kendrickscott.com/) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Vicente Archer](/tags/vicente-archer) - bass
+-   [Kendrick Scott](/tags/kendrick-scott) - drums
 
 Released in 2007 on Verve as UCCJ-2060.
 

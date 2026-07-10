@@ -3,7 +3,7 @@ title = "Hitomi Nishiyama Trio: Calling"
 author = ["Brian McCrory"]
 publishDate = 2024-04-27
 keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
-tags = ["Hitomi Nishiyama 西山瞳", "Yasuhiko “Hachi” Sato 佐藤“ハチ”恭彦", "Kazumi Ikenaga 池長和美"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -113,9 +113,9 @@ I’ve been asked “When is the CD release live show”, here and there and thr
 
 ## Calling by Hitomi Nishiyama Trio {#calling-by-hitomi-nishiyama-trio}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Yasuhiko “Hachi” Sato](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1681) - bass
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
 
 Released in 2021 on Meantone Records as MT-10.
 

@@ -2,7 +2,7 @@
 title = "Harumi Nomoto Trio: Virgo"
 author = ["Brian McCrory"]
 publishDate = 2019-04-03
-tags = ["Harumi Nomoto 野本晴美", "Ryoji Orihara 織原良次", "Sohnosuke Imaizumi 今泉総之輔", "Makiko Sugawara 菅原牧子", "Nao Sakamoto 坂本直"]
+tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔", "Makiko Sugawara", "菅原牧子", "Nao Sakamoto", "坂本直"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,11 +28,11 @@ Plenty of peaceful space is also offered and balances the energy well, with the 
 
 ## Virgo by Harumi Nomoto Trio {#virgo-by-harumi-nomoto-trio}
 
--   [Harumi Nomoto](https://haruminomoto.jimdofree.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - electric fretless bass
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
--   Makiko Sugawara - violin (track #8)
--   Nao Sakamoto - Chromasomus/prepared guitar (track #8)
+-   [Harumi Nomoto](/tags/harumi-nomoto) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Makiko Sugawara](/tags/makiko-sugawara) - violin (track #8)
+-   [Nao Sakamoto](/tags/nao-sakamoto) - Chromasomus/prepared guitar (track #8)
 
 Released in 2014 on Okra Record as MIKO-1009.
 

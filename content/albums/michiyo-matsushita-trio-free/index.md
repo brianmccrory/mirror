@@ -3,7 +3,7 @@ title = "Michiyo Matsushita Trio: Free"
 author = ["Brian McCrory"]
 publishDate = 2025-08-10
 keywords = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
-tags = ["Michiyo Matsushita 松下美千代", "Show Kudo 工藤精", "Ryo Saito 斉藤良"]
+tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,9 +34,9 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 
 ## Free by Michiyo Matsushita Trio {#free-by-michiyo-matsushita-trio}
 
--   [Michiyo Matsushita](https://michiyomatsushita.amebaownd.com/) - piano
--   [Show Kudo](https://showgun65.exblog.jp/) - bass
--   [Ryo Saito](https://ryosaito0707.jimdofree.com/) - drums
+-   [Michiyo Matsushita](/tags/michiyo-matsushita) - piano
+-   [Show Kudo](/tags/show-kudo) - bass
+-   [Ryo Saito](/tags/ryo-saito) - drums
 
 Released in 2024 on MUGI Record as MUGI-2408.
 

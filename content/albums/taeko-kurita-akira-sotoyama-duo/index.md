@@ -3,7 +3,7 @@ title = "Taeko Kurita & Akira Sotoyama: Duo"
 author = ["Brian McCrory"]
 publishDate = 2025-06-28
 keywords = ["ghost-peak-goat-on-a-peak", "melodies-melodies", "yuko-miyawaki-song-of-flower"]
-tags = ["Taeko Kurita 栗田妙子", "Akira Sotoyama 外山明"]
+tags = ["Taeko Kurita", "栗田妙子", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,8 +28,8 @@ Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano g
 
 ## Duo by Taeko Kurita &amp; Akira Sotoyama {#duo-by-taeko-kurita-and-akira-sotoyama}
 
--   [Taeko Kurita](https://kuritataeko.jimdofree.com/) - piano
--   [Akira Sotoyama](https://akirasotoyama.wixsite.com/officialwebsite) - drums
+-   [Taeko Kurita](/tags/taeko-kurita) - piano
+-   [Akira Sotoyama](/tags/akira-sotoyama) - drums
 
 Released in 2024 on Taeko Kurita as T59T-07.
 

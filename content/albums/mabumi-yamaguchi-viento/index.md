@@ -3,7 +3,7 @@ title = "Mabumi Yamaguchi: Viento"
 author = ["Brian McCrory"]
 publishDate = 2024-10-18
 keywords = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "mayuko-katakura-faith", "les-komatis-les-komatis", "mayuko-katakura-echoes-of-three", "junichiro-ohkuchi-trio-invisible", "mabumi-yamaguchi-let-your-mind-alone", "nanami-haruta-ii", "naoko-tanaka-appreciation", "mamoru-ishida-afterglow"]
-tags = ["Mabumi Yamaguchi 山口真文", "Mayuko Katakura 片倉真由子", "Ryohei Komaki 小牧良平", "Tamaya Honda 本田珠也"]
+tags = ["Mabumi Yamaguchi", "山口真文", "Mayuko Katakura", "片倉真由子", "Ryohei Komaki", "小牧良平", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -90,10 +90,10 @@ Founder/Producer
 
 ## Viento by Mabumi Yamaguchi {#viento-by-mabumi-yamaguchi}
 
--   [Mabumi Yamaguchi](https://mabumi.com/) - soprano saxophone
--   [Mayuko Katakura](https://www.mayukokatakura.net/) - piano
--   [Ryohei Komaki](https://rkomaki.jimdofree.com/) - bass
--   [Tamaya Honda](http://tamayahonda.blogspot.com/) - drums
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - soprano saxophone
+-   [Mayuko Katakura](/tags/mayuko-katakura) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki) - bass
+-   [Tamaya Honda](/tags/tamaya-honda) - drums
 
 Released in 2023 on Days of Delight as DOD-040.
 

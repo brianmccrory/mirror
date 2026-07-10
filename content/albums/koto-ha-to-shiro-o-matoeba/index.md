@@ -3,7 +3,7 @@ title = "Koto ha, To: Shiro o Matoeba"
 author = ["Brian McCrory"]
 publishDate = 2025-07-12
 keywords = ["yuki-ito-retattanni-no-mori"]
-tags = ["Ayako Tsuchiya 土屋絢子", "Kozue Tsukayama 津嘉山梢", "Yuki Ito 伊東佑季"]
+tags = ["Ayako Tsuchiya", "土屋絢子", "Kozue Tsukayama", "津嘉山梢", "Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -271,9 +271,9 @@ _Lyrics: Ayako Tsuchiya  Music: Kozue Tsukayama_
 
 ## Shiro o Matoeba by Koto ha, To {#shiro-o-matoeba-by-koto-ha-to}
 
--   [Ayako Tsuchiya](https://fleetinghappiness18.wixsite.com/ayako-tsuchiya/) - vocal
--   [Kozue Tsukayama](https://uruma186.amebaownd.com/) - piano
--   [Yuki Ito](https://yukibass.com/) - bass
+-   [Ayako Tsuchiya](/tags/ayako-tsuchiya) - vocal
+-   [Kozue Tsukayama](/tags/kozue-tsukayama) - piano
+-   [Yuki Ito](/tags/yuki-ito) - bass
 
 Released in 2017 on KOTOHATO as KTHT-0001.
 

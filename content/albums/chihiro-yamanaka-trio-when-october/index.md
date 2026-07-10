@@ -2,7 +2,7 @@
 title = "Chihiro Yamanaka Trio: When October Goes"
 author = ["Brian McCrory"]
 publishDate = 2020-08-13
-tags = ["Chihiro Yamanaka 山中千尋", "Larry Grenadier", "Jeff Ballard"]
+tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -61,9 +61,9 @@ _This is a transcription of the CD liner notes written by Chihiro Yamanaka:_
 
 ## When October Goes by Chihiro Yamanaka Trio {#when-october-goes-by-chihiro-yamanaka-trio}
 
--   [Chihiro Yamanaka](https://www.chihiroyamanaka.net/) - piano
--   [Larry Grenadier](https://larrygrenadier.com/) - bass
--   [Jeff Ballard](https://www.jeffballard.com/) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
+-   [Larry Grenadier](/tags/larry-grenadier) - bass
+-   [Jeff Ballard](/tags/jeff-ballard) - drums
 
 Released in 2002 on Atelier Sawano as AS-025.
 

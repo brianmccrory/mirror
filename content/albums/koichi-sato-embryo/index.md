@@ -3,7 +3,7 @@ title = "Koichi Sato: Embryo"
 author = ["Brian McCrory"]
 publishDate = 2024-08-23
 keywords = ["koichi-sato-utopia", "koichi-sato-melancholy"]
-tags = ["Koichi Sato 佐藤浩一", "Motohiko Ichino 市野元彦", "Masaki Kai 甲斐正樹", "Shinya Fukumori 福盛進也", "Aya Ito 伊藤彩", "Yuko Kajitani 梶谷裕子", "Atsuki Yoshida 吉田篤貴", "Robin Dupuy", "Zeze Wakamatsu"]
+tags = ["Koichi Sato", "佐藤浩一", "Motohiko Ichino", "市野元彦", "Masaki Kai", "甲斐正樹", "Shinya Fukumori", "福盛進也", "Aya Ito", "伊藤彩", "Yuko Kajitani", "梶谷裕子", "Atsuki Yoshida", "吉田篤貴", "Robin Dupuy", "Zeze Wakamatsu"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -50,15 +50,15 @@ On disc 2, a guitar/piano/bass/drums quartet plays #11 “Hua” followed by #12
 
 ## Embryo by Koichi Sato {#embryo-by-koichi-sato}
 
--   [Koichi Sato](https://koichisato.com/) - piano, compositions, arrangements
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
--   [Masaki Kai](https://masakik.exblog.jp/) - bass (Disc 2: #1, 7, 8, 9, 11)
--   [Shinya Fukumori](https://www.shinyafukumori.com/) - drums (Disc 2: #1, 2, 7, 8, 9, 11)
--   [Aya Ito](https://ayaitoviolin.bandcamp.com/album/zeronojogi) - violin (Disc 2: #4, 6, 7, 8)
--   [Yuko Kajitani](https://vgmdb.net/artist/7854) - violin (Disc 2: #6, 7, 8)
--   [Atsuki Yoshida](https://atsuki-violin.com/) - viola (Disc 2: #6, 7, 8)
--   [Robin Dupuy](https://www.robin-dupuy.com/) - cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)
--   [Zeze Wakamatsu](https://zezewakamatsu.com/) - soundscape (Disc 2: #4)
+-   [Koichi Sato](/tags/koichi-sato) - piano, compositions, arrangements
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
+-   [Masaki Kai](/tags/masaki-kai) - bass (Disc 2: #1, 7, 8, 9, 11)
+-   [Shinya Fukumori](/tags/shinya-fukumori) - drums (Disc 2: #1, 2, 7, 8, 9, 11)
+-   [Aya Ito](/tags/aya-ito) - violin (Disc 2: #4, 6, 7, 8)
+-   [Yuko Kajitani](/tags/yuko-kajitani) - violin (Disc 2: #6, 7, 8)
+-   [Atsuki Yoshida](/tags/atsuki-yoshida) - viola (Disc 2: #6, 7, 8)
+-   [Robin Dupuy](/tags/robin-dupuy) - cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)
+-   [Zeze Wakamatsu](/tags/zeze-wakamatsu) - soundscape (Disc 2: #4)
 
 Released in 2021 on Nagalu as NAGALU-003/004.
 

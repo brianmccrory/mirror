@@ -2,7 +2,7 @@
 title = "Sayaka Kishi: Featuring Te"
 author = ["Brian McCrory"]
 publishDate = 2018-01-31
-tags = ["Sayaka Kishi 岸淑香", "Mayumi Sano 佐野まゆみ", "Aya Kurosawa 黒沢綾"]
+tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,9 +23,9 @@ Although this is mostly a solo piano album spotlighting Kishi and her music, two
 
 ## Featuring Te by Sayaka Kishi {#featuring-te-by-sayaka-kishi}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano
--   [Mayumi Sano](http://sanomayumi.com/) - cello (#2, 5, 9)
--   [Aya Kurosawa](https://ayakurosawa.me/) - vocal (#11)
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano
+-   [Mayumi Sano](/tags/mayumi-sano) - cello (#2, 5, 9)
+-   [Aya Kurosawa](/tags/aya-kurosawa) - vocal (#11)
 
 Released in 2014 on Roving Spirits as RKC-8050.
 

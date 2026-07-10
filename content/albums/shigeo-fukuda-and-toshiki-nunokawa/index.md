@@ -2,7 +2,7 @@
 title = "Shigeo Fukuda & Toshiki Nunokawa: Childhood’s Dream"
 author = ["Brian McCrory"]
 publishDate = 2021-06-14
-tags = ["Shigeo Fukuda 福田重男", "Toshiki Nunokawa 布川俊樹"]
+tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,8 +24,8 @@ While it can be said that Fukuda plays masterly jazz piano in a very piano-like 
 
 ## Childhood’s Dream by Shigeo Fukuda &amp; Toshiki Nunokawa {#childhood-s-dream-by-shigeo-fukuda-and-toshiki-nunokawa}
 
--   [Shigeo Fukuda](https://shigeofukuda.com/) - piano
--   [Toshiki Nunokawa](https://toshikinunokawa.jimdofree.com/) - guitar
+-   [Shigeo Fukuda](/tags/shigeo-fukuda) - piano
+-   [Toshiki Nunokawa](/tags/toshiki-nunokawa) - guitar
 
 Released in 2011 on BQ Records as BQR-2053.
 

@@ -3,7 +3,7 @@ title = "Yasumasa Kumagai: I Need a Change, Too"
 author = ["Brian McCrory"]
 publishDate = 2018-08-31
 keywords = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
-tags = ["Yasumasa Kumagai 熊谷ヤスマサ", "Koji Yasuda 安田幸司", "Shunsuke Umino 海野俊輔", "Afra あふら", "Shinobu Ishizaki 石崎忍", "Tabu Zombie タブゾンビ"]
+tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Koji Yasuda", "安田幸司", "Shunsuke Umino", "海野俊輔", "Afra", "あふら", "Shinobu Ishizaki", "石崎忍", "Tabu Zombie", "タブゾンビ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -44,12 +44,12 @@ Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 
 ## I Need a Change, Too by Yasumasa Kumagai {#i-need-a-change-too-by-yasumasa-kumagai}
 
--   [Yasumasa Kumagai](https://yasumasakumagai.com/) - piano
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Shunsuke Umino](http://www.bfjazz.com/instructors/24/) - drums
--   [Afra](http://afra.jp/) - human beatbox (#7)
--   [Shinobu Ishizaki](https://shinobu-ishizaki.tumblr.com/) - alto sax (#9, 13)
--   Tabu Zombie - trumpet (#13)
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Shunsuke Umino](/tags/shunsuke-umino) - drums
+-   [Afra](/tags/afra) - human beatbox (#7)
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki) - alto sax (#9, 13)
+-   [Tabu Zombie](/tags/tabu-zombie) - trumpet (#13)
 
 Released in 2008 on Anturtle Tune as ANTX-4001.
 

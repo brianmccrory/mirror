@@ -3,7 +3,7 @@ title = "Bungalow: Abstract Messages"
 author = ["Brian McCrory"]
 publishDate = 2023-09-08
 keywords = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
-tags = ["Mike Rivett", "Koichi Sato 佐藤浩一", "Ko Omura 大村亘", "Isabeau Hansen", "Gordon Richter"]
+tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Ko Omura", "大村亘", "Isabeau Hansen", "Gordon Richter"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -88,11 +88,11 @@ _中川ヨウ_ Yo Nakagawa /
 
 ## Abstract Messages by Bungalow {#abstract-messages-by-bungalow}
 
--   [Mike Rivett](https://www.mikerivett.com/) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
--   [Koichi Sato](https://koichisato.com/) - piano, Rhodes, Wurlitzer, Minimoog
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums, tabla, gatam
--   Isabeau Hansen - flute
--   Gordon Richter - clarinet &amp; bassoon
+-   [Mike Rivett](/tags/mike-rivett) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
+-   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes, Wurlitzer, Minimoog
+-   [Ko Omura](/tags/ko-omura) - drums, tabla, gatam
+-   [Isabeau Hansen](/tags/isabeau-hansen) - flute
+-   [Gordon Richter](/tags/gordon-richter) - clarinet &amp; bassoon
 
 Released in 2020 on Studio Songs as YZSO-10109.
 

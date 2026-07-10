@@ -2,7 +2,7 @@
 title = "Tetsuji Yoshida & Mikiko Nagatake Duo: Live at Knuttel House"
 author = ["Brian McCrory"]
 publishDate = 2023-08-11
-tags = ["Tetsuji Yoshida 吉田哲治", "Mikiko Nagatake 永武幹子"]
+tags = ["Tetsuji Yoshida", "吉田哲治", "Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,8 +25,8 @@ The final track, “One Blues”, ends the album cheerily with evocatively muted
 
 ## Live at Knuttel House by Tetsuji Yoshida &amp; Mikiko Nagatake Duo {#live-at-knuttel-house-by-tetsuji-yoshida-and-mikiko-nagatake-duo}
 
--   [Tetsuji Yoshida](https://yoshidamusic.amebaownd.com/) - trumpet
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
+-   [Tetsuji Yoshida](/tags/tetsuji-yoshida) - trumpet
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 
 Released in 2021 on Yoshidamusic as NYAN-382.
 

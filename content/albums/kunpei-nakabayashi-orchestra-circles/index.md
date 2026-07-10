@@ -3,7 +3,7 @@ title = "Kunpei Nakabayashi Orchestra: Circles"
 author = ["Brian McCrory"]
 publishDate = 2025-06-06
 keywords = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichihara-group-unity", "tokuhiro-doi-quartet-amalthea", "yoshihito-p-koizumi-by-coincidence", "miki-hirose-scratch", "koichi-sato-melancholy", "yasumasa-kumagai-last-resort", "hiro-kimura-quintet-folds"]
-tags = ["Tokuhiro Doi 土井徳浩", "Akihiro Nishiguchi 西口明宏", "Yu Kuga 陸悠", "Miki Hirose 広瀬未来", "Takuya Kuroda 黒田卓也", "Hirotsugu Sakemoto 酒本廣継", "Shigetaka Ikemoto 池本茂貴", "Jun Miyakawa 宮川純", "Kunpei Nakabayashi 中林薫平", "Tomo Kanno 菅野知明"]
+tags = ["Tokuhiro Doi", "土井徳浩", "Akihiro Nishiguchi", "西口明宏", "Yu Kuga", "陸悠", "Miki Hirose", "広瀬未来", "Takuya Kuroda", "黒田卓也", "Hirotsugu Sakemoto", "酒本廣継", "Shigetaka Ikemoto", "池本茂貴", "Jun Miyakawa", "宮川純", "Kunpei Nakabayashi", "中林薫平", "Tomo Kanno", "菅野知明"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -31,16 +31,16 @@ As a long-experienced bassist, Nakabayashi knows how to expertly deliver the ess
 
 ## Circles by Kunpei Nakabayashi Orchestra {#circles-by-kunpei-nakabayashi-orchestra}
 
--   [Tokuhiro Doi](https://www.doitoku.com/) - alto sax, flute, clarinet
--   [Akihiro Nishiguchi](http://www.akihironishiguchi.com/) - tenor sax, flute
--   [Yu Kuga](https://yukugamusic.wixsite.com/yukuga) - baritone sax
--   [Miki Hirose](https://mikimusic.exblog.jp/) - trumpet 1
--   [Takuya Kuroda](https://www.takuyakuroda.com/) - trumpet 2
--   [Hirotsugu Sakemoto](https://trbsakejazz.wixsite.com/swingin--trombone) - trombone 1
--   [Shigetaka Ikemoto](https://shigetakaikemotoofficial.studio.site/) - trombone 2
--   [Jun Miyakawa](https://www.jun-miyakawa.com/) - piano
--   [Kunpei Nakabayashi](https://www.instagram.com/kunpeibass/) - bass
--   [Tomo Kanno](https://www.tomogorilladrums.com/) - drums
+-   [Tokuhiro Doi](/tags/tokuhiro-doi) - alto sax, flute, clarinet
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, flute
+-   [Yu Kuga](/tags/yu-kuga) - baritone sax
+-   [Miki Hirose](/tags/miki-hirose) - trumpet 1
+-   [Takuya Kuroda](/tags/takuya-kuroda) - trumpet 2
+-   [Hirotsugu Sakemoto](/tags/hirotsugu-sakemoto) - trombone 1
+-   [Shigetaka Ikemoto](/tags/shigetaka-ikemoto) - trombone 2
+-   [Jun Miyakawa](/tags/jun-miyakawa) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
+-   [Tomo Kanno](/tags/tomo-kanno) - drums
 
 Released in 2021 on KP-LAB as KP-0001.
 

@@ -2,7 +2,7 @@
 title = "Yukiko Hayakawa Trio: Gallery"
 author = ["Brian McCrory"]
 publishDate = 2021-04-13
-tags = ["Yukiko Hayakawa 早川由紀子", "Terumasa Nishikawa 西川輝正", "Keiichiro Uemura 上村計一郎"]
+tags = ["Yukiko Hayakawa", "早川由紀子", "Terumasa Nishikawa", "西川輝正", "Keiichiro Uemura", "上村計一郎"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,9 +21,9 @@ Recorded with a live and echoey sound, the trio locks in with opening tracks “
 
 ## Gallery by Yukiko Hayakawa Trio {#gallery-by-yukiko-hayakawa-trio}
 
--   [Yukiko Hayakawa](https://hayakawa-yukiko.com/) - piano
--   Terumasa Nishikawa - bass
--   Keiichiro Uemura - drums
+-   [Yukiko Hayakawa](/tags/yukiko-hayakawa) - piano
+-   [Terumasa Nishikawa](/tags/terumasa-nishikawa) - bass
+-   [Keiichiro Uemura](/tags/keiichiro-uemura) - drums
 
 Released in 2008 on Ventain Records as VJYH-8461.
 

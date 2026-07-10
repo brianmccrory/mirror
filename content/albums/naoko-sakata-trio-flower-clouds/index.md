@@ -2,7 +2,7 @@
 title = "Naoko Sakata Trio: Flower Clouds"
 author = ["Brian McCrory"]
 publishDate = 2021-05-13
-tags = ["Naoko Sakata 坂田尚子", "Anton Blomgren", "Johan Birgenius"]
+tags = ["Naoko Sakata", "坂田尚子", "Anton Blomgren", "Johan Birgenius"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,9 +30,9 @@ All tracks are strong and balance each other well, with some highlights includin
 
 ## Flower Clouds by Naoko Sakata Trio {#flower-clouds-by-naoko-sakata-trio}
 
--   [Naoko Sakata](https://www.naokosakata.com/) - piano
--   Anton Blomgren - bass
--   Johan Birgenius - drums
+-   [Naoko Sakata](/tags/naoko-sakata) - piano
+-   [Anton Blomgren](/tags/anton-blomgren) - bass
+-   [Johan Birgenius](/tags/johan-birgenius) - drums
 
 Released in 2013 on Atelier Sawano as AS-129.
 

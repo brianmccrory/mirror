@@ -3,7 +3,7 @@ title = "Hitomi Nishiyama: Echo"
 author = ["Brian McCrory"]
 publishDate = 2025-03-23
 keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
-tags = ["Hitomi Nishiyama 西山瞳", "Toru Nishijima 西嶋徹", "Ryo Noritake 則武諒", "Takanori Suzuki 鈴木孝紀", "Ryosuke Hashizume 橋爪亮督", "maiko マイコ"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Noritake", "則武諒", "Takanori Suzuki", "鈴木孝紀", "Ryosuke Hashizume", "橋爪亮督", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -32,12 +32,12 @@ Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, exp
 
 ## Echo by Hitomi Nishiyama {#echo-by-hitomi-nishiyama}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano, compositions
--   [Toru Nishijima](https://toru-cb.com/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
--   [Takanori Suzuki](https://www.takanorisuzuki.net/) - clarinet (all tracks except #5)
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone and flute (all tracks except #5)
--   [maiko](https://jvmaiko.com/) - violin (all tracks except #5)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, compositions
+-   [Toru Nishijima](/tags/toru-nishijima) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki) - clarinet (all tracks except #5)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone and flute (all tracks except #5)
+-   [maiko](/tags/maiko) - violin (all tracks except #5)
 
 Released in 2024 on Meantone Records as MT-13.
 

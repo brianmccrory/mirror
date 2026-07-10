@@ -2,7 +2,7 @@
 title = "Shunichi Yanagi Trio: Bubble Fish"
 author = ["Brian McCrory"]
 publishDate = 2020-03-17
-tags = ["Shunichi Yanagi 柳隼一", "Ryo Shibata 柴田亮", "Motoi Kanamori 金森もとい"]
+tags = ["Shunichi Yanagi", "柳隼一", "Ryo Shibata", "柴田亮", "Motoi Kanamori", "金森もとい"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,9 +21,9 @@ On _Bubble Fish_, the jazz trio uses full chords and vital grooves on their comp
 
 ## Bubble Fish by Shunichi Yanagi Trio {#bubble-fish-by-shunichi-yanagi-trio}
 
--   [Shunichi Yanagi](https://shunichiyanagi.web.fc2.com/) - piano
--   [Ryo Shibata](https://www.instagram.com/worldpeacenow/) - drums
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
+-   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
+-   [Ryo Shibata](/tags/ryo-shibata) - drums
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
 
 Released in 2012 on Truestar Entertainment as TSR-51102.
 

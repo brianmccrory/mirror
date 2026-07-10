@@ -3,7 +3,7 @@ title = "Seiji Endo: Piano Pieces Collection"
 author = ["Brian McCrory"]
 publishDate = 2024-11-30
 keywords = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1"]
-tags = ["Seiji Endo 遠藤征志"]
+tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -56,7 +56,7 @@ Most of the tracks on this album are given Japanese titles. Roughly translating 
 
 ## Piano Pieces Collection by Seiji Endo {#piano-pieces-collection-by-seiji-endo}
 
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano
+-   [Seiji Endo](/tags/seiji-endo) - piano
 
 Released in 2021 on Fair Play Records as FPCD-1011.
 

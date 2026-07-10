@@ -2,7 +2,7 @@
 title = "Miki Hayama: Prelude to a Kiss"
 author = ["Brian McCrory"]
 publishDate = 2020-01-09
-tags = ["Miki Hayama 早間美紀", "Kiyoshi Kitagawa 北川潔", "Eric McPherson"]
+tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Eric McPherson"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -29,9 +29,9 @@ Throughout, Hayama’s piano is impressively quick, crystalline light without be
 
 ## Prelude to a Kiss by Miki Hayama {#prelude-to-a-kiss-by-miki-hayama}
 
--   [Miki Hayama](http://www.mikihayama.com/) - piano
--   [Kiyoshi Kitagawa](https://en.wikipedia.org/wiki/Kiyoshi_Kitagawa) - bass
--   [Eric McPherson](http://www.ericmcpherson.com/) - drums
+-   [Miki Hayama](/tags/miki-hayama) - piano
+-   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
+-   [Eric McPherson](/tags/eric-mcpherson) - drums
 
 Released in 2006 on Art Jazz Records as ARTCD-112.
 

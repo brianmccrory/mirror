@@ -2,7 +2,7 @@
 title = "Taihei Asakawa: Catastrophe in Jazz"
 author = ["Brian McCrory"]
 publishDate = 2018-05-22
-tags = ["Taihei Asakawa 浅川太平", "Shinichi Kato 加藤真一", "Manabu Hashimoto 橋本学"]
+tags = ["Taihei Asakawa", "浅川太平", "Shinichi Kato", "加藤真一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,9 +30,9 @@ With virtuosity and compositional strength on display, the care and attention de
 
 ## Catastrophe in Jazz by Taihei Asakawa {#catastrophe-in-jazz-by-taihei-asakawa}
 
--   [Taihei Asakawa](https://taiheiasakawa.wixsite.com/piano) - piano, compositions
--   [Shinichi Kato](https://katoshinichi.net/) - bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
+-   [Shinichi Kato](/tags/shinichi-kato) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
 
 Released in 2011 on Roving Spirits as RKCJ-2046.
 

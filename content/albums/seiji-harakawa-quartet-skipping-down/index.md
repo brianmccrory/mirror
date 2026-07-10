@@ -2,7 +2,7 @@
 title = "Seiji Harakawa Quartet: Skipping Down the Street"
 author = ["Brian McCrory"]
 publishDate = 2023-07-14
-tags = ["Seiji Harakawa 原川誠司", "Hiroyuki Takubo 田窪寛之", "Motoi Kanamori 金森もとい", "Fukushi Tainaka 田井中福司"]
+tags = ["Seiji Harakawa", "原川誠司", "Hiroyuki Takubo", "田窪寛之", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -33,10 +33,10 @@ One of the best things I can say about the music on _Skipping Down the Street_ i
 
 ## Skipping Down the Street by Seiji Harakawa Quartet {#skipping-down-the-street-by-seiji-harakawa-quartet}
 
--   [Seiji Harakawa](https://seijiharakawa.amebaownd.com/) - saxophone
--   [Hiroyuki Takubo](https://hirotakubo.exblog.jp/) - piano
--   [Motoi Kanamori](https://ameblo.jp/mottoi-bass/) - bass
--   [Fukushi Tainaka](https://fukushitainaka.com/) - drums
+-   [Seiji Harakawa](/tags/seiji-harakawa) - saxophone
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka) - drums
 
 Released in 2020 on T &amp; A Music as SEI-001.
 

@@ -3,7 +3,7 @@ title = "NHORHM: New Heritage of Real Heavy Metal"
 author = ["Brian McCrory"]
 publishDate = 2025-07-25
 keywords = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
-tags = ["Hitomi Nishiyama 西山瞳", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学", "Tomomi Oda 小田朋美", "Takayoshi Baba 馬場孝喜", "Hikari Ichihara 市原ひかり", "Ryosuke Hashizume 橋爪亮督"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Tomomi Oda", "小田朋美", "Takayoshi Baba", "馬場孝喜", "Hikari Ichihara", "市原ひかり", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -182,13 +182,13 @@ Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fu
 
 ## New Heritage of Real Heavy Metal by NHORHM {#new-heritage-of-real-heavy-metal-by-nhorhm}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano, arrangements, composition
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - percussion
--   [Tomomi Oda](https://www.odatomomi.com/) - vocals (track #4)
--   [Takayoshi Baba](https://babaviolao.wixsite.com/babatakayoshi) - acoustic guitar (track #5)
--   [Hikari Ichihara](https://hikariichihara.com/) - trumpet (track #8)
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - sax (track #10)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - percussion
+-   [Tomomi Oda](/tags/tomomi-oda) - vocals (track #4)
+-   [Takayoshi Baba](/tags/takayoshi-baba) - acoustic guitar (track #5)
+-   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet (track #8)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - sax (track #10)
 
 Released in 2015 on Apollo Sounds as APLS1905/APLS1510R.
 

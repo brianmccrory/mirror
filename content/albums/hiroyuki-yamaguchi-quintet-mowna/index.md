@@ -3,7 +3,7 @@ title = "Hiroyuki Yamaguchi Quintet: Mowna"
 author = ["Brian McCrory"]
 publishDate = 2025-10-04
 keywords = ["mase-hiroko-quintet-first-contact"]
-tags = ["Hiroyuki Yamaguchi 山口裕之", "Hiroko Mase ませひろこ", "Hinata Ishii 石井ひなた", "Toshihiko Kohno 紅野智彦", "Tomoyuki Okabe 岡部朋幸"]
+tags = ["Hiroyuki Yamaguchi", "山口裕之", "Hiroko Mase", "ませひろこ", "Hinata Ishii", "石井ひなた", "Toshihiko Kohno", "紅野智彦", "Tomoyuki Okabe", "岡部朋幸"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -137,11 +137,11 @@ Hiroyuki Yamaguchi Quintet
 
 ## Mowna by Hiroyuki Yamaguchi Quintet {#mowna-by-hiroyuki-yamaguchi-quintet}
 
--   [Hiroyuki Yamaguchi](https://www.hiroyukiyamaguchi.net/) - bass
--   [Hiroko Mase](http://bowz.main.jp/masehiroko/) - soprano saxophone
--   [Hinata Ishii](https://ultravybe.lnk.to/myplace) - tenor saxophone
--   [Toshihiko Kohno](https://www.ne.jp/asahi/beni/toshi/) - piano
--   [Tomoyuki Okabe](https://tomookabe.exblog.jp/) - drums
+-   [Hiroyuki Yamaguchi](/tags/hiroyuki-yamaguchi) - bass
+-   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
+-   [Hinata Ishii](/tags/hinata-ishii) - tenor saxophone
+-   [Toshihiko Kohno](/tags/toshihiko-kohno) - piano
+-   [Tomoyuki Okabe](/tags/tomoyuki-okabe) - drums
 
 Released in 2024 on What’s New Records as GWNJ-2036.
 

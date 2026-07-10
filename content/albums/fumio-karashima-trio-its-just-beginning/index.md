@@ -2,7 +2,7 @@
 title = "Fumio Karashima Trio: It’s Just Beginning"
 author = ["Brian McCrory"]
 publishDate = 2020-02-12
-tags = ["Fumio Karashima 辛島文雄", "Yosuke Inoue 井上陽介", "Shingo Okudaira 奥平慎吾"]
+tags = ["Fumio Karashima", "辛島文雄", "Yosuke Inoue", "井上陽介", "Shingo Okudaira", "奥平慎吾"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ Three of Karashima’s originals are also included, with a funky Herbie Hancock-
 
 ## It’s Just Beginning by Fumio Karashima Trio {#it-s-just-beginning-by-fumio-karashima-trio}
 
--   [Fumio Karashima](http://www.pit-inn.com/karashima/en/) - piano
--   [Yosuke Inoue](http://yosukeinouejazz.sakura.ne.jp/) - bass
--   [Shingo Okudaira](http://www.pit-inn.com/okudaira/) - drums
+-   [Fumio Karashima](/tags/fumio-karashima) - piano
+-   [Yosuke Inoue](/tags/yosuke-inoue) - bass
+-   [Shingo Okudaira](/tags/shingo-okudaira) - drums
 
 Released in 2004 on Pit Inn Music as VACM-1240.
 

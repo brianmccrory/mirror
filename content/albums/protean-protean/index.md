@@ -2,7 +2,7 @@
 title = "Protean: Protean"
 author = ["Brian McCrory"]
 publishDate = 2021-06-22
-tags = ["Naoko Tanaka 田中菜緒子", "Naoyuki Seto 瀬戸尚幸", "Dan Yoshikawa 吉川弾"]
+tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan Yoshikawa", "吉川弾"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,9 +24,9 @@ Although this release is on the shorter side, it previews what is to come from T
 
 ## Protean by Protean {#protean-by-protean}
 
--   [Naoko Tanaka](http://tanakanaoko.com/) - piano
--   Naoyuki Seto - electric bass
--   Dan Yoshikawa - drums
+-   [Naoko Tanaka](/tags/naoko-tanaka) - piano
+-   [Naoyuki Seto](/tags/naoyuki-seto) - electric bass
+-   [Dan Yoshikawa](/tags/dan-yoshikawa) - drums
 
 Released in 2009 on Protean as Protean.
 

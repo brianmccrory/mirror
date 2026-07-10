@@ -3,7 +3,7 @@ title = "Ochikochi: Ochikochi"
 author = ["Brian McCrory"]
 publishDate = 2026-05-24
 keywords = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
-tags = ["Taiichi Kamimura かみむら泰一", "Norikatsu Koreyasu 是安則克", "Manabu Hashimoto 橋本学"]
+tags = ["Taiichi Kamimura", "かみむら泰一", "Norikatsu Koreyasu", "是安則克", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -55,9 +55,9 @@ A recording of the distance, far and near (_ochikochi_), that is the musical per
 
 ## Ochikochi by Ochikochi {#ochikochi-by-ochikochi}
 
--   [Taiichi Kamimura](http://www.taisax.jeez.jp/) - tenor and soprano sax
--   [Norikatsu Koreyasu](https://www.discogs.com/artist/1156034-Norikatsu-Koreyasu) - wood bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
+-   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor and soprano sax
+-   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu) - wood bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
 
 Released in 2012 on K’s Project as KP-0001.
 

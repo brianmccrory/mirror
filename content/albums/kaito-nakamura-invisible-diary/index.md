@@ -3,7 +3,7 @@ title = "Kaito Nakamura: Invisible Diary"
 author = ["Brian McCrory"]
 publishDate = 2025-04-19
 keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
-tags = ["Kaito Nakamura 中村海斗", "Riko Sasaki 佐々木梨子", "Otohito Fuse 布施音人", "Riku Takahashi 高橋陸", "Ippei Kato 加藤一平"]
+tags = ["Kaito Nakamura", "中村海斗", "Riko Sasaki", "佐々木梨子", "Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Ippei Kato", "加藤一平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -33,11 +33,11 @@ With no liner notes to explain the music, the songs speak for themselves. It’s
 
 ## Invisible Diary by Kaito Nakamura {#invisible-diary-by-kaito-nakamura}
 
--   [Kaito Nakamura](https://www.instagram.com/kaito_nkmr_d/) - drums
--   [Riko Sasaki](https://www.instagram.com/riko__sasaki/) - alto saxophone
--   [Otohito Fuse](https://otohitofuse.com/) - piano
--   [Riku Takahashi](http://rikubass.com/) - bass
--   [Ippei Kato](https://ippeih3.exblog.jp/) - guitar (#1, 2, 3, 7, 8, 9)
+-   [Kaito Nakamura](/tags/kaito-nakamura) - drums
+-   [Riko Sasaki](/tags/riko-sasaki) - alto saxophone
+-   [Otohito Fuse](/tags/otohito-fuse) - piano
+-   [Riku Takahashi](/tags/riku-takahashi) - bass
+-   [Ippei Kato](/tags/ippei-kato) - guitar (#1, 2, 3, 7, 8, 9)
 
 Released in 2025 on MidVillage as MV-001.
 

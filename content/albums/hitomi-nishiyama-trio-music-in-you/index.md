@@ -2,7 +2,7 @@
 title = "Hitomi Nishiyama Trio: Music in You"
 author = ["Brian McCrory"]
 publishDate = 2018-03-09
-tags = ["Hitomi Nishiyama 西山瞳", "Yasuhiko “Hachi” Sato 佐藤“ハチ”恭彦", "Kazumi Ikenaga 池長和美", "Ryosuke Hashizume 橋爪亮督"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,10 +28,10 @@ Alongside these are songs with more direct titles, such as “Standing There”,
 
 ## Music in You by Hitomi Nishiyama Trio {#music-in-you-by-hitomi-nishiyama-trio}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Yasuhiko “Hachi” Sato](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1681) - bass
--   [Kazumi Ikenaga](http://www.graphic-art.com/ikenaga/) - drums
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor sax (#12)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor sax (#12)
 
 Released in 2011 on Meantone Records as MT-002.
 

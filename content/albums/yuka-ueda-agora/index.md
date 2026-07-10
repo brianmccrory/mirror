@@ -2,7 +2,7 @@
 title = "Yuka Ueda: Agora"
 author = ["Brian McCrory"]
 publishDate = 2020-04-20
-tags = ["Yuka Ueda 上田裕香", "Junichiro Ohkuchi 大口純一郎", "Shinji Hashimoto 橋本信二", "Daisuke Toi トオイダイスケ"]
+tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,10 +30,10 @@ Lovers of Brazilian and Latin music will be delighted with songs such as “Reun
 
 ## Agora by Yuka Ueda {#agora-by-yuka-ueda}
 
--   [Yuka Ueda](http://yuuka-agora.com/wp/) - vocal
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano
--   [Shinji Hashimoto](https://session67.jp/interview/05/) - guitar
--   [Daisuke Toi](http://www.daisuketoi.com/) - piano (#8), electric bass (#10)
+-   [Yuka Ueda](/tags/yuka-ueda) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi) - piano (#8), electric bass (#10)
 
 Released in 2011 on Audio Fab Records as AFD-106.
 

@@ -2,7 +2,7 @@
 title = "Bungalow: Past Life"
 author = ["Brian McCrory"]
 publishDate = 2018-05-08
-tags = ["Masahiro Yamamoto 山本昌広", "Koichi Sato 佐藤浩一", "Hiroshi Ikejiri 池尻洋史", "Ko Omura 大村亘"]
+tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,10 +23,10 @@ Bungalow’s compositions are in focus here, and like modern songwriting from Wa
 
 ## Past Life by Bungalow {#past-life-by-bungalow}
 
--   [Masahiro Yamamoto](https://momohiko61.exblog.jp/) - alto sax, soprano sax, tenor sax
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Hiroshi Ikejiri](https://hiroshiikejiri.tumblr.com/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums, tabla
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto sax, soprano sax, tenor sax
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
+-   [Ko Omura](/tags/ko-omura) - drums, tabla
 
 Released in 2013 on Studio Songs as YZSO-10036.
 

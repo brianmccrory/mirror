@@ -2,7 +2,7 @@
 title = "Ami Fukui Trio: Urban Clutter"
 author = ["Brian McCrory"]
 publishDate = 2021-12-30
-tags = ["Ami Fukui 福井亜実", "Koji Yasuda 安田幸司", "Sohnosuke Imaizumi 今泉総之輔"]
+tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -71,9 +71,9 @@ This is a song I wrote about 4 years ago which I rearranged for this recording. 
 
 ## Urban Clutter by Ami Fukui Trio {#urban-clutter-by-ami-fukui-trio}
 
--   [Ami Fukui](https://amifukui.com/) - piano
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Sohnosuke Imaizumi](http://www.imaizumisohnosuke.com/) - drums
+-   [Ami Fukui](/tags/ami-fukui) - piano
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
 
 Released in 2010 on Anturtle Analog Recordings as ANTX-4008.
 

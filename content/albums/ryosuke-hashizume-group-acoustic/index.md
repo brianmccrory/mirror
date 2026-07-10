@@ -3,7 +3,7 @@ title = "Ryosuke Hashizume Group: Acoustic Fluid"
 author = ["Brian McCrory"]
 publishDate = 2023-07-28
 keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
-tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学", "Koichi Sato 佐藤浩一"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Koichi Sato", "佐藤浩一"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,11 +28,11 @@ Among the slower songs, the mid-tempo songs are latched to frames in motion thro
 
 ## Acoustic Fluid by Ryosuke Hashizume Group {#acoustic-fluid-by-ryosuke-hashizume-group}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone, effects
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar, effects
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums, percussion
--   [Koichi Sato](https://koichisato.com/) - piano (#2, 3, 8)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, effects
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
+-   [Koichi Sato](/tags/koichi-sato) - piano (#2, 3, 8)
 
 Released in 2012 on Tactile Sounds Records as TS-001.
 

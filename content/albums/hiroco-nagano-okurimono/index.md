@@ -2,7 +2,7 @@
 title = "Hiroco Nagano: Okurimono"
 author = ["Brian McCrory"]
 publishDate = 2018-02-01
-tags = ["Hiroco Nagano 永野寛子", "Seiji Endo 遠藤征志", "Arata Umehara 梅原新"]
+tags = ["Hiroco Nagano", "永野寛子", "Seiji Endo", "遠藤征志", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -21,9 +21,9 @@ Although there are only two tracks here, the music serves to whet the appetite a
 
 ## Okurimono by Hiroco Nagano {#okurimono-by-hiroco-nagano}
 
--   [Hiroco Nagano](https://hiroconaganoofficial.amebaownd.com/) - vocal
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano
--   [Arata Umehara](https://www.aratata.com/) - guitar
+-   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
+-   [Seiji Endo](/tags/seiji-endo) - piano
+-   [Arata Umehara](/tags/arata-umehara) - guitar
 
 Released in 2017 on Music Art Records as MAR-1701.
 

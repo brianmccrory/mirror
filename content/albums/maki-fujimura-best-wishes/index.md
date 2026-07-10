@@ -2,7 +2,7 @@
 title = "Maki Fujimura: Best Wishes"
 author = ["Brian McCrory"]
 publishDate = 2019-01-14
-tags = ["Maki Fujimura 藤村麻紀", "Hideaki Hori 堀秀彰"]
+tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,8 +30,8 @@ In addition, the duo thrills with arrangements of standards such as “Summertim
 
 ## Best Wishes by Maki Fujimura {#best-wishes-by-maki-fujimura}
 
--   [Maki Fujimura](https://maki.tv/) - vocal
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
+-   [Maki Fujimura](/tags/maki-fujimura) - vocal
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
 
 Released in 2013 on Maki Fujimura as MAKI.TV-0001.
 

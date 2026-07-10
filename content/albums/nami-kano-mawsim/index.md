@@ -3,7 +3,7 @@ title = "Nami Kano: Mawsim"
 author = ["Brian McCrory"]
 publishDate = 2024-03-15
 keywords = ["jabuticaba-jabuticaba"]
-tags = ["Nami Kano 加納奈実", "Tomokazu Sugimoto 杉本智和", "Mamoru Ishida 石田衛", "Sota Kira 吉良創太", "maiko マイコ", "Orie Hirayama 平山織絵", "Shoko Mochiyama 持山翔子"]
+tags = ["Nami Kano", "加納奈実", "Tomokazu Sugimoto", "杉本智和", "Mamoru Ishida", "石田衛", "Sota Kira", "吉良創太", "maiko", "マイコ", "Orie Hirayama", "平山織絵", "Shoko Mochiyama", "持山翔子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -47,13 +47,13 @@ As for the name _mawsim_ (_season_), Kano explained that in certain places the g
 
 ## Mawsim by Nami Kano {#mawsim-by-nami-kano}
 
--   [Nami Kano](https://www.namikano.com/) - alto/soprano saxophone, flute, duduk, chorus
--   [Tomokazu Sugimoto](http://bassist.s7.xrea.com/p/index.htm) - basses, arrangement, programming, co-producer
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano, Rhodes, keyboard
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums, percussion
--   [maiko](https://jvmaiko.com/) - violin (tracks 2, 5)
--   [Orie Hirayama](https://cellorincellorin.wixsite.com/mysite-1) - cello (tracks 2, 5)
--   [Shoko Mochiyama](https://ameblo.jp/shoko-mochiyama/) - strings arrangement (tracks 2, 5)
+-   [Nami Kano](/tags/nami-kano) - alto/soprano saxophone, flute, duduk, chorus
+-   [Tomokazu Sugimoto](/tags/tomokazu-sugimoto) - basses, arrangement, programming, co-producer
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano, Rhodes, keyboard
+-   [Sota Kira](/tags/sota-kira) - drums, percussion
+-   [maiko](/tags/maiko) - violin (tracks 2, 5)
+-   [Orie Hirayama](/tags/orie-hirayama) - cello (tracks 2, 5)
+-   [Shoko Mochiyama](/tags/shoko-mochiyama) - strings arrangement (tracks 2, 5)
 
 Released in 2024 on Wave Records as WR-001.
 

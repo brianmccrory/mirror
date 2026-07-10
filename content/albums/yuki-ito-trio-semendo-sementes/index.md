@@ -3,7 +3,7 @@ title = "Yuki Ito Trio: Semendo Sementes"
 author = ["Brian McCrory"]
 publishDate = 2026-06-14
 keywords = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
-tags = ["Yuki Ito 伊東佑季", "Yuka Yanagihara 柳原由佳", "Hiro Kimura 木村紘"]
+tags = ["Yuki Ito", "伊東佑季", "Yuka Yanagihara", "柳原由佳", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -27,9 +27,9 @@ _Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven 
 
 ## Semendo Sementes by Yuki Ito Trio {#semendo-sementes-by-yuki-ito-trio}
 
--   [Yuki Ito](https://yukibass.com/) - bass
--   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
--   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums
+-   [Yuki Ito](/tags/yuki-ito) - bass
+-   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
+-   [Hiro Kimura](/tags/hiro-kimura) - drums
 
 Released in 2021 on Yuki Ito as YDM-002.
 

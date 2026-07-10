@@ -3,7 +3,7 @@ title = "Miyuki Moriya: Uta Oto"
 author = ["Brian McCrory"]
 publishDate = 2023-12-22
 keywords = ["miyuki-moriya-cats-cradle"]
-tags = ["Miyuki Moriya 守谷美由貴", "Nobumasa Tanaka 田中信正", "Hiroshi Yoshino 吉野弘志"]
+tags = ["Miyuki Moriya", "守谷美由貴", "Nobumasa Tanaka", "田中信正", "Hiroshi Yoshino", "吉野弘志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -120,9 +120,9 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 
 ## Uta Oto by Miyuki Moriya {#uta-oto-by-miyuki-moriya}
 
--   [Miyuki Moriya](https://www.tunecore.co.jp/artists?id=841864) - saxophone
--   [Nobumasa Tanaka](http://tnobumasa.com/) - piano
--   [Hiroshi Yoshino](https://emeregueponchi1955.jimdofree.com/) - bass
+-   [Miyuki Moriya](/tags/miyuki-moriya) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
+-   [Hiroshi Yoshino](/tags/hiroshi-yoshino) - bass
 
 Released in 2021 on Coume Music as CUM-2101.
 

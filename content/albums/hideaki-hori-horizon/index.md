@@ -3,7 +3,7 @@ title = "Hideaki Hori: Horizon"
 author = ["Brian McCrory"]
 publishDate = 2023-12-08
 keywords = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
-tags = ["Hideaki Hori 堀秀彰", "Tetsuyuki Kishi 岸徹至", "Manabu Hashimoto 橋本学", "Nobuyuki Komatsu 小松伸之", "Hideki Kawamura 河村英樹"]
+tags = ["Hideaki Hori", "堀秀彰", "Tetsuyuki Kishi", "岸徹至", "Manabu Hashimoto", "橋本学", "Nobuyuki Komatsu", "小松伸之", "Hideki Kawamura", "河村英樹"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -84,11 +84,11 @@ January 10, 2023, Hideaki Hori
 
 ## Horizon by Hideaki Hori {#horizon-by-hideaki-hori}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Tetsuyuki Kishi](https://shijukara.thebase.in/) - bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums (#1, 4, 5, 8)
--   [Nobuyuki Komatsu](http://nobuyukikoma2.web.fc2.com/) - drums (#2, 3, 6, 7, 9)
--   [Hideki Kawamura](http://hidekisax.com/) - tenor sax (#1, 2, 6, 9)
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums (#1, 4, 5, 8)
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums (#2, 3, 6, 7, 9)
+-   [Hideki Kawamura](/tags/hideki-kawamura) - tenor sax (#1, 2, 6, 9)
 
 Released in 2003 on BQ Records as BQR-2022.
 

@@ -3,7 +3,7 @@ title = "Otohito Fuse Trio: Thus Have I Heard"
 author = ["Brian McCrory"]
 publishDate = 2026-06-28
 keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
-tags = ["Otohito Fuse 布施音人", "Riku Takahashi 高橋陸", "Kaito Nakamura 中村海斗"]
+tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -149,9 +149,9 @@ Includes a 20-page booklet of photographs and writings.
 
 ## Thus Have I Heard by Otohito Fuse Trio {#thus-have-i-heard-by-otohito-fuse-trio}
 
--   [Otohito Fuse](https://otohitofuse.com/) - piano
--   [Riku Takahashi](http://rikubass.com/) - bass
--   [Kaito Nakamura](https://www.instagram.com/kaito_nkmr_d/) - drums
+-   [Otohito Fuse](/tags/otohito-fuse) - piano
+-   [Riku Takahashi](/tags/riku-takahashi) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura) - drums
 
 Released in 2025 on Otohito Fuse Music as OFM-002.
 

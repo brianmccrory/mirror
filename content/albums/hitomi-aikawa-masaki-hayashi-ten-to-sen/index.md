@@ -3,7 +3,7 @@ title = "Hitomi Aikawa & Masaki Hayashi: Ten To Sen"
 author = ["Brian McCrory"]
 publishDate = 2026-04-26
 keywords = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
-tags = ["Hitomi Aikawa 相川瞳", "Masaki Hayashi 林正樹"]
+tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -91,8 +91,8 @@ An incredibly pleasing 47 minutes from two brilliant musicians that I love <br /
 
 ## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi {#ten-to-sen-by-hitomi-aikawa-and-masaki-hayashi}
 
--   [Hitomi Aikawa](https://www.hitomiaikawa.com/) - marimba, percussion
--   [Masaki Hayashi](http://www.c-a-s-net.co.jp/masaki/) - piano
+-   [Hitomi Aikawa](/tags/hitomi-aikawa) - marimba, percussion
+-   [Masaki Hayashi](/tags/masaki-hayashi) - piano
 
 Released in 2025 on Hitomi Aikawa as HICD-002.
 

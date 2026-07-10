@@ -2,7 +2,7 @@
 title = "Yoshihito “P” Koizumi P-Project: By Coincidence"
 author = ["Brian McCrory"]
 publishDate = 2021-05-05
-tags = ["Yoshihito “P” Koizumi 小泉P克人", "Jun Miyakawa 宮川純", "Kohzo Komori 小森耕造"]
+tags = ["Yoshihito “P” Koizumi", "小泉P克人", "Jun Miyakawa", "宮川純", "Kohzo Komori", "小森耕造"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,9 +23,9 @@ While session leader and bassist Koizimi states that the recording was not origi
 
 ## By Coincidence by Yoshihito “P” Koizumi P-Project {#by-coincidence-by-yoshihito-p-koizumi-p-project}
 
--   [Yoshihito “P” Koizumi](https://www.yoshihitopkoizumi.com/) - bass
--   [Jun Miyakawa](https://www.jun-miyakawa.com/) - keyboards
--   [Kohzo Komori](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2163) - drums
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
+-   [Jun Miyakawa](/tags/jun-miyakawa) - keyboards
+-   [Kohzo Komori](/tags/kohzo-komori) - drums
 
 Released in 2011 on Peace Bass Records as PBRS-0001.
 

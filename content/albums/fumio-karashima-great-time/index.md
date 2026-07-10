@@ -3,7 +3,7 @@ title = "Fumio Karashima: Great Time"
 author = ["Brian McCrory"]
 publishDate = 2026-02-15
 keywords = ["fumio-karashima-trio-its-just-beginning"]
-tags = ["Fumio Karashima 辛島文雄", "Jack DeJohnette", "Drew Gress"]
+tags = ["Fumio Karashima", "辛島文雄", "Jack DeJohnette", "Drew Gress"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -70,9 +70,9 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 
 ## Great Time by Fumio Karashima {#great-time-by-fumio-karashima}
 
--   [Fumio Karashima](http://www.pit-inn.com/karashima/en/) - piano
--   [Jack DeJohnette](https://www.jackdejohnette.com/) - drums
--   [Drew Gress](https://en.wikipedia.org/wiki/Drew_Gress) - bass
+-   [Fumio Karashima](/tags/fumio-karashima) - piano
+-   [Jack DeJohnette](/tags/jack-dejohnette) - drums
+-   [Drew Gress](/tags/drew-gress) - bass
 
 Released in 2006 on Pit Inn Music as VACM-1277.
 

@@ -2,7 +2,7 @@
 title = "Ruriko Kawamura: Blossoms"
 author = ["Brian McCrory"]
 publishDate = 2021-10-19
-tags = ["Ruriko Kawamura 河村留理子", "Seiji Endo 遠藤征志", "Noriko Satomi 里見紀子", "Akira Sekine 関根彰良"]
+tags = ["Ruriko Kawamura", "河村留理子", "Seiji Endo", "遠藤征志", "Noriko Satomi", "里見紀子", "Akira Sekine", "関根彰良"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,10 +26,10 @@ Starting quietly, Endo and Kawamura perform a heartwarming version of “The Rai
 
 ## Blossoms by Ruriko Kawamura {#blossoms-by-ruriko-kawamura}
 
--   [Ruriko Kawamura](https://ameblo.jp/salon-de-lulu/) - vocal
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano
--   [Noriko Satomi](https://project-nori.wixsite.com/mysite) - violin
--   [Akira Sekine](http://akirasekine.com/) - guitar
+-   [Ruriko Kawamura](/tags/ruriko-kawamura) - vocal
+-   [Seiji Endo](/tags/seiji-endo) - piano
+-   [Noriko Satomi](/tags/noriko-satomi) - violin
+-   [Akira Sekine](/tags/akira-sekine) - guitar
 
 Released in 2016 on LooLoo Entertainment Records as lulu001.
 

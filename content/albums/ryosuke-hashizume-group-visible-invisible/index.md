@@ -2,7 +2,7 @@
 title = "Ryosuke Hashizume Group: Visible/Invisible"
 author = ["Brian McCrory"]
 publishDate = 2019-01-24
-tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Koichi Sato 佐藤浩一", "Ryoji Orihara 織原良次", "Manabu Hashimoto 橋本学"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,11 +23,11 @@ With six songs ranging from eight to 16 minutes each, the music breathes with li
 
 ## _Visible/Invisible_ by Ryosuke Hashizume Group {#visible-invisible-by-ryosuke-hashizume-group}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor, soprano saxophones
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums, percussion
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor, soprano saxophones
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
 
 Released in 2013 on Apollo Sounds as APLS-1304.
 

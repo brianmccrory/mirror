@@ -2,7 +2,7 @@
 title = "Akiko Suda: Flowers On The Hill"
 author = ["Brian McCrory"]
 publishDate = 2018-02-01
-tags = ["Akiko Suda 須田晶子", "Yuichi Narita 成田祐一", "Koji Yasuda 安田幸司", "Yu Kudo 工藤悠", "Nao Teraya 寺屋ナオ", "Toyomi Kobayashi 小林豊美"]
+tags = ["Akiko Suda", "須田晶子", "Yuichi Narita", "成田祐一", "Koji Yasuda", "安田幸司", "Yu Kudo", "工藤悠", "Nao Teraya", "寺屋ナオ", "Toyomi Kobayashi", "小林豊美"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,12 +24,12 @@ The album starts strongly with four catchy and elaborate originals penned by Sud
 
 ## Flowers On The Hill by Akiko Suda {#flowers-on-the-hill-by-akiko-suda}
 
--   [Akiko Suda](https://akikosuda.wixsite.com/akikosuda) - vocal
--   [Yuichi Narita](http://www.yuichinarita.com/) - piano, accordion, chorus
--   [Koji Yasuda](http://jmsu.web.fc2.com/koji/) - bass
--   [Yu Kudo](http://yu-drum.com/) - drums, percussion
--   [Nao Teraya](http://www.naoteraya.com/) - guitar
--   [Toyomi Kobayashi](https://toyomikobayashi.theblog.me/) - flute, andes
+-   [Akiko Suda](/tags/akiko-suda) - vocal
+-   [Yuichi Narita](/tags/yuichi-narita) - piano, accordion, chorus
+-   [Koji Yasuda](/tags/koji-yasuda) - bass
+-   [Yu Kudo](/tags/yu-kudo) - drums, percussion
+-   [Nao Teraya](/tags/nao-teraya) - guitar
+-   [Toyomi Kobayashi](/tags/toyomi-kobayashi) - flute, andes
 
 Released in 2016 on Diw The Grace as DW-1008.
 

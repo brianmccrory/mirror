@@ -3,7 +3,7 @@ title = "Fe: Live at Virtuoso"
 author = ["Brian McCrory"]
 publishDate = 2025-04-05
 keywords = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
-tags = ["Yuta Ikedo 池戸祐太", "Ko Omura 大村亘", "Keisuke Furuki 古木佳祐", "Shinobu Ishizaki 石崎忍"]
+tags = ["Yuta Ikedo", "池戸祐太", "Ko Omura", "大村亘", "Keisuke Furuki", "古木佳祐", "Shinobu Ishizaki", "石崎忍"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -35,10 +35,10 @@ The songs on _Live at Asakusa_ are original compositions by co-leaders Ikedo and
 
 ## Live at Virtuoso by Fe {#live-at-virtuoso-by-fe}
 
--   [Yuta Ikedo](https://youtube.com/@yutaikedo) - guitar
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass
--   [Shinobu Ishizaki](https://shinobu-ishizaki.tumblr.com/) - saxophone
+-   [Yuta Ikedo](/tags/yuta-ikedo) - guitar
+-   [Ko Omura](/tags/ko-omura) - drums
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki) - saxophone
 
 Released in 2021 on Virtuoso as VTS-006.
 

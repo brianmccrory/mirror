@@ -3,7 +3,7 @@ title = "Mikiko Nagatake: Solo"
 author = ["Brian McCrory"]
 publishDate = 2023-09-29
 keywords = ["tetsuji-yoshida-and-mikiko-nagatake"]
-tags = ["Mikiko Nagatake 永武幹子"]
+tags = ["Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -49,7 +49,7 @@ This album was recorded on solo piano in a one-room studio, and I’m extremely 
 
 ## Solo by Mikiko Nagatake {#solo-by-mikiko-nagatake}
 
--   [Mikiko Nagatake](http://mikikonagatake.com/) - piano
+-   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 
 Released in 2022 on Owl Wing Record as OWR-044.
 

@@ -2,7 +2,7 @@
 title = "Blue Dot: Halo"
 author = ["Brian McCrory"]
 publishDate = 2019-03-06
-tags = ["Makoto Rikitake 力武誠", "Tamashi Goto 後藤魂", "Masanori Sugimoto 杉本匡教", "Goro Katano 片野吾朗", "Maki Fujimura 藤村麻紀"]
+tags = ["Makoto Rikitake", "力武誠", "Tamashi Goto", "後藤魂", "Masanori Sugimoto", "杉本匡教", "Goro Katano", "片野吾朗", "Maki Fujimura", "藤村麻紀"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,11 +30,11 @@ Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-roc
 
 ## Halo by Blue Dot {#halo-by-blue-dot}
 
--   [Makoto Rikitake](https://ameblo.jp/makoto-rikitake/) - drums
--   [Tamashi Goto](https://ameblo.jp/jazzsoul-tamapi/) - piano
--   Masanori Sugimoto - tenor sax
--   [Goro Katano](http://gorobass.blogspot.com/) - electric bass
--   [Maki Fujimura](https://maki.tv/) - vocals (track #10)
+-   [Makoto Rikitake](/tags/makoto-rikitake) - drums
+-   [Tamashi Goto](/tags/tamashi-goto) - piano
+-   [Masanori Sugimoto](/tags/masanori-sugimoto) - tenor sax
+-   [Goro Katano](/tags/goro-katano) - electric bass
+-   [Maki Fujimura](/tags/maki-fujimura) - vocals (track #10)
 
 Released in 2016 on Blue Dot as Halo.
 

@@ -3,7 +3,7 @@ title = "Koichi Hirata: Introducing Koichi Hirata"
 author = ["Brian McCrory"]
 publishDate = 2026-06-07
 keywords = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
-tags = ["Koichi Hirata 平田晃一", "Mamoru Ishida 石田衛", "Yutaka Yoshida 吉田豊", "Yusuke Yaginuma 柳沼佑育"]
+tags = ["Koichi Hirata", "平田晃一", "Mamoru Ishida", "石田衛", "Yutaka Yoshida", "吉田豊", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -94,10 +94,10 @@ Jazz guitarist Koichi Hirata is a current college student who has began to make 
 
 ## Introducing Koichi Hirata by Koichi Hirata {#introducing-koichi-hirata-by-koichi-hirata}
 
--   [Koichi Hirata](https://ameblo.jp/koichihirata0726/) - guitar
--   [Mamoru Ishida](http://mamoruishida.blogspot.com/) - piano
--   [Yutaka Yoshida](https://yutakayoshidasho.wordpress.com/) - bass
--   [Yusuke Yaginuma](https://ameblo.jp/yusukebebop/) - drums
+-   [Koichi Hirata](/tags/koichi-hirata) - guitar
+-   [Mamoru Ishida](/tags/mamoru-ishida) - piano
+-   [Yutaka Yoshida](/tags/yutaka-yoshida) - bass
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums
 
 Released in 2024 on Live at Alfie as AFCD-6008.
 

@@ -3,7 +3,7 @@ title = "Rio Osawa: Rio"
 author = ["Brian McCrory"]
 publishDate = 2026-05-03
 keywords = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
-tags = ["Rio Osawa 大澤理央", "Yuichiro Hiraoka 平岡遊一郎", "Gustavo Anacleto", "Francis Silva", "Norihito Nagasawa 長澤紀仁", "Matsumonica マツモニカ"]
+tags = ["Rio Osawa", "大澤理央", "Yuichiro Hiraoka", "平岡遊一郎", "Gustavo Anacleto", "Francis Silva", "Norihito Nagasawa", "長澤紀仁", "Matsumonica", "マツモニカ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -42,12 +42,12 @@ Finally released, the long-awaited first album from Brazilian music lover Rio Os
 
 ## Rio by Rio Osawa {#rio-by-rio-osawa}
 
--   [Rio Osawa](https://www.osawario.com/) - vocal
--   [Yuichiro Hiraoka](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=4205) - guitar (#1, 2, 4, 5, 6)
--   [Gustavo Anacleto](https://www.discogs.com/artist/3939948-Gustavo-Anacleto) - soprano sax, flute, voice (#1, 2, 4, 5)
--   [Francis Silva](https://www.discogs.com/artist/583413-Francis-Silva) - percussion, voice (#1, 2, 4, 5)
--   [Norihito Nagasawa](https://jinjinviolao.seesaa.net/) - guitar (#3) (from Momijin)
--   [Matsumonica](http://matsumonica.sblo.jp/) - chromatic harmonica (#3) (from Momijin)
+-   [Rio Osawa](/tags/rio-osawa) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar (#1, 2, 4, 5, 6)
+-   [Gustavo Anacleto](/tags/gustavo-anacleto) - soprano sax, flute, voice (#1, 2, 4, 5)
+-   [Francis Silva](/tags/francis-silva) - percussion, voice (#1, 2, 4, 5)
+-   [Norihito Nagasawa](/tags/norihito-nagasawa) - guitar (#3) (from Momijin)
+-   [Matsumonica](/tags/matsumonica) - chromatic harmonica (#3) (from Momijin)
 
 Released in 2021 on Noel Records as NR-001.
 

@@ -3,7 +3,7 @@ title = "Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: Tides of Blue"
 author = ["Brian McCrory"]
 publishDate = 2025-09-06
 keywords = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
-tags = ["Sumire Kuribayashi 栗林すみれ", "Kazuma Fujimoto 藤本一馬", "Takashi Sugawa 須川崇志"]
+tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一馬", "Takashi Sugawa", "須川崇志"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -144,9 +144,9 @@ An unparalleled chemistry created by leading personalities in the Japanese jazz 
 
 ## Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa {#tides-of-blue-by-sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa}
 
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano
--   [Kazuma Fujimoto](https://www.kazumafujimoto.com/) - guitar
--   [Takashi Sugawa](https://www.tsgw.net/) - bass
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto) - guitar
+-   [Takashi Sugawa](/tags/takashi-sugawa) - bass
 
 Released in 2025 on Days of Delight as DOD-051.
 

@@ -2,7 +2,7 @@
 title = "Arco: Birth"
 author = ["Brian McCrory"]
 publishDate = 2020-05-03
-tags = ["Sayaka Kishi 岸淑香", "Mayumi Sano 佐野まゆみ"]
+tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -26,8 +26,8 @@ Also featured on this well-crafted album of uplifting music is the icing on the 
 
 ## Birth by Arco {#birth-by-arco}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, melodion
--   [Mayumi Sano](http://sanomayumi.com/) - cello
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano) - cello
 
 Released in 2019 on dandanorchestra as DAN-012.
 

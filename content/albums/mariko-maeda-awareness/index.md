@@ -2,7 +2,7 @@
 title = "Mariko Maeda: Awareness"
 author = ["Brian McCrory"]
 publishDate = 2023-06-09
-tags = ["Mariko Maeda 前田真梨子", "Kota Kaihori 海堀弘太", "Yosuke Terao 寺尾陽介", "Yuto Maseki 柵木雄斗"]
+tags = ["Mariko Maeda", "前田真梨子", "Kota Kaihori", "海堀弘太", "Yosuke Terao", "寺尾陽介", "Yuto Maseki", "柵木雄斗"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -51,10 +51,10 @@ Given such fresh music, instead of summarizing the album overall with a few desc
 
 ## Awareness by Mariko Maeda {#awareness-by-mariko-maeda}
 
--   [Mariko Maeda](https://maedamario.wixsite.com/maeda-mariko) - trombone
--   [Kota Kaihori](https://kotakaihori.com/biography/) - piano, trumpet on #4
--   [Yosuke Terao](https://teraomusic.wixsite.com/bass) - bass
--   [Yuto Maseki](https://ameblo.jp/masekiyuto/) - drums
+-   [Mariko Maeda](/tags/mariko-maeda) - trombone
+-   [Kota Kaihori](/tags/kota-kaihori) - piano, trumpet on #4
+-   [Yosuke Terao](/tags/yosuke-terao) - bass
+-   [Yuto Maseki](/tags/yuto-maseki) - drums
 
 Released in 2023 on DoLuck Jazz as DLC-28.
 

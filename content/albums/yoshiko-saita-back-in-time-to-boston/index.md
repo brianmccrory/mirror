@@ -2,7 +2,7 @@
 title = "Yoshiko Saita: Back in Time to Boston"
 author = ["Brian McCrory"]
 publishDate = 2024-08-02
-tags = ["Yoshiko Saita 斉田佳子", "Kenny Werner", "Grégoire Maret"]
+tags = ["Yoshiko Saita", "斉田佳子", "Kenny Werner", "Grégoire Maret"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -79,9 +79,9 @@ I truly hope you enjoy this album, relaxing with time flowing _slowly_.
 
 ## Back in Time to Boston by Yoshiko Saita {#back-in-time-to-boston-by-yoshiko-saita}
 
--   [Yoshiko Saita](http://saita-saita.net/) - vocal
--   [Kenny Werner](https://kennywerner.com/) - piano
--   [Grégoire Maret](https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret) - harmonica
+-   [Yoshiko Saita](/tags/yoshiko-saita) - vocal
+-   [Kenny Werner](/tags/kenny-werner) - piano
+-   [Grégoire Maret](/tags/gregoire-maret) - harmonica
 
 Released in 2024 on Viva Sounds of DADA as VSDD-004.
 

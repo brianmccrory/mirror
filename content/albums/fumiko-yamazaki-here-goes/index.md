@@ -2,7 +2,7 @@
 title = "Fumiko Yamazaki: Here Goes!"
 author = ["Brian McCrory"]
 publishDate = 2021-06-02
-tags = ["Fumiko Yamazaki 山崎ふみこ", "Keizo Kawano 河野啓三", "Shingo Tanaka 田中晋吾", "Takashi Saito 齋藤たかし"]
+tags = ["Fumiko Yamazaki", "山崎ふみこ", "Keizo Kawano", "河野啓三", "Shingo Tanaka", "田中晋吾", "Takashi Saito", "齋藤たかし"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,10 +24,10 @@ The poppy tracks are refreshing and positive, sounding suitable as light-hearted
 
 ## Here Goes! by Fumiko Yamazaki {#here-goes-by-fumiko-yamazaki}
 
--   [Fumiko Yamazaki](https://trill.jp/) - vibes, percussion
--   Keizo Kawano - piano, keyboard
--   Shingo Tanaka - bass
--   [Takashi Saito](https://staxiverhp.wixsite.com/takashisaito) - drums, percussion
+-   [Fumiko Yamazaki](/tags/fumiko-yamazaki) - vibes, percussion
+-   [Keizo Kawano](/tags/keizo-kawano) - piano, keyboard
+-   [Shingo Tanaka](/tags/shingo-tanaka) - bass
+-   [Takashi Saito](/tags/takashi-saito) - drums, percussion
 
 Released in 2011 on T&amp;K Entertainment as QACK-35024.
 

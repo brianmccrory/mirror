@@ -3,7 +3,7 @@ title = "Yukako Yamano: Imperial"
 author = ["Brian McCrory"]
 publishDate = 2023-09-01
 keywords = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
-tags = ["Yukako Yamano 山野友佳子"]
+tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -28,7 +28,7 @@ Yamano leads off _Imperial_ with “Symphony of Lights”, an adventurous compos
 
 ## Imperial by Yukako Yamano {#imperial-by-yukako-yamano}
 
--   [Yukako Yamano](https://yukakoyamano.com/) - piano
+-   [Yukako Yamano](/tags/yukako-yamano) - piano
 
 Released in 2018 on Yukako Yamano as YKRN-0004.
 

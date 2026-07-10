@@ -2,7 +2,7 @@
 title = "Ryosuke Hashizume Group: Wordless"
 author = ["Brian McCrory"]
 publishDate = 2020-02-24
-tags = ["Ryosuke Hashizume 橋爪亮督", "Motohiko Ichino 市野元彦", "Manabu Hashimoto 橋本学", "Ryoji Orihara 織原良次"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Manabu Hashimoto", "橋本学", "Ryoji Orihara", "織原良次"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,10 +24,10 @@ With a length of 72 minutes spread out over ten tracks, the songs breathe and bl
 
 ## Wordless by Ryosuke Hashizume Group {#wordless-by-ryosuke-hashizume-group}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone, loops
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar
--   [Manabu Hashimoto](http://mh-ob.blogspot.com/) - drums
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
 
 Released in 2006 on Polystar Jazz Library as MTCJ-3031.
 

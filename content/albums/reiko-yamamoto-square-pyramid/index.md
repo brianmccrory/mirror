@@ -2,7 +2,7 @@
 title = "Reiko Yamamoto: The Square Pyramid"
 author = ["Brian McCrory"]
 publishDate = 2024-06-24
-tags = ["Reiko Yamamoto 山本玲子", "Sumire Kuribayashi 栗林すみれ", "Keisuke Furuki 古木佳祐", "Hiro Kimura 木村紘"]
+tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ", "Keisuke Furuki", "古木佳祐", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -90,10 +90,10 @@ Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (T
 
 ## The Square Pyramid by Reiko Yamamoto {#the-square-pyramid-by-reiko-yamamoto}
 
--   [Reiko Yamamoto](http://reikoyamamoto.net/) - vibraphone
--   [Sumire Kuribayashi](https://sumirekuribayashi.tumblr.com/) - piano
--   [Keisuke Furuki](https://www.keisukefuruki.com/) - bass
--   [Hiro Kimura](https://ameblo.jp/pasokimura/) - drums
+-   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki) - bass
+-   [Hiro Kimura](/tags/hiro-kimura) - drums
 
 Released in 2019 on Somethin’ Cool as SCOL-1032.
 

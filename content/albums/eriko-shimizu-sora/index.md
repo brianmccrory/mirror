@@ -2,7 +2,7 @@
 title = "Eriko Shimizu: Sora"
 author = ["Brian McCrory"]
 publishDate = 2020-03-05
-tags = ["Eriko Shimizu 清水絵理子", "Toshihiko Inoue 井上淑彦", "Saori Sendo 仙道さおり", "Kunpei Nakabayashi 中林薫平", "Daisuke Yoshioka 吉岡大輔"]
+tags = ["Eriko Shimizu", "清水絵理子", "Toshihiko Inoue", "井上淑彦", "Saori Sendo", "仙道さおり", "Kunpei Nakabayashi", "中林薫平", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,11 +23,11 @@ Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” j
 
 ## Sora by Eriko Shimizu {#sora-by-eriko-shimizu}
 
--   [Eriko Shimizu](http://ericcho.blog81.fc2.com/) - piano
--   [Toshihiko Inoue](http://www.inouetoshihiko.com/) - saxophone
--   [Saori Sendo](http://www.c-a-s-net.co.jp/saoli/) - percussion
--   [Kunpei Nakabayashi](https://www.instagram.com/kunpeibass/) - bass
--   [Daisuke Yoshioka](http://yoshiokadaisuke.com/) - drums
+-   [Eriko Shimizu](/tags/eriko-shimizu) - piano
+-   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
+-   [Saori Sendo](/tags/saori-sendo) - percussion
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka) - drums
 
 Released in 2010 on Casnet as CSNT-8003.
 

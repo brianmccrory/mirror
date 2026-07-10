@@ -3,7 +3,7 @@ title = "Hikari Ichihara Group: Unity"
 author = ["Brian McCrory"]
 publishDate = 2025-03-16
 keywords = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
-tags = ["Hikari Ichihara 市原ひかり", "Ryosuke Asai 浅井良将", "Hideaki Hori 堀秀彰", "Kunpei Nakabayashi 中林薫平", "Masanori Ando 安藤正則"]
+tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -76,11 +76,11 @@ Ichihara Hikari
 
 ## Unity by Hikari Ichihara Group {#unity-by-hikari-ichihara-group}
 
--   [Hikari Ichihara](https://hikariichihara.com/) - trumpet, flugelhorn
--   [Ryosuke Asai](https://saxryosuke.exblog.jp/) - alto saxophone
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Kunpei Nakabayashi](https://www.instagram.com/kunpeibass/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai) - alto saxophone
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2011 on After Beat / Pony Canyon as PCCY-30187.
 

@@ -2,7 +2,7 @@
 title = "Michiyo Matsushita: Sally Gardens"
 author = ["Brian McCrory"]
 publishDate = 2018-10-25
-tags = ["Michiyo Matsushita 松下美千代"]
+tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -22,7 +22,7 @@ Apart from the lovely folk tunes and jazzy moments, over half of the songs on _S
 
 ## Sally Gardens by Michiyo Matsushita {#sally-gardens-by-michiyo-matsushita}
 
--   [Michiyo Matsushita](https://michiyomatsushita.amebaownd.com/) - piano, melodion
+-   [Michiyo Matsushita](/tags/michiyo-matsushita) - piano, melodion
 
 Released in 2018 on Michiyo Matsushita as Sally Gardens.
 

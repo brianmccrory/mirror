@@ -3,7 +3,7 @@ title = "Akane Matsumoto: Little Girl Blue"
 author = ["Brian McCrory"]
 publishDate = 2023-11-20
 keywords = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
-tags = ["Akane Matsumoto 松本茜"]
+tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -88,7 +88,7 @@ This song was written during the civil rights movement, and it must have become 
 
 ## Little Girl Blue by Akane Matsumoto {#little-girl-blue-by-akane-matsumoto}
 
--   [Akane Matsumoto](http://akanejazz.com) - piano
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 
 Released in 2022 on Concept Records as CR-14.
 

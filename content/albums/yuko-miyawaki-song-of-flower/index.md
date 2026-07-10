@@ -2,7 +2,7 @@
 title = "Yuko Miyawaki: Song of Flower"
 author = ["Brian McCrory"]
 publishDate = 2020-03-11
-tags = ["Yuko Miyawaki 宮脇裕子", "Yutaka Handa 伴田裕", "Taeko Kurita 栗田妙子", "Yutaka Kaido カイドーユタカ", "Masashi Tomikawa 冨川政嗣", "Junichiro Ohkuchi 大口純一郎"]
+tags = ["Yuko Miyawaki", "宮脇裕子", "Yutaka Handa", "伴田裕", "Taeko Kurita", "栗田妙子", "Yutaka Kaido", "カイドーユタカ", "Masashi Tomikawa", "冨川政嗣", "Junichiro Ohkuchi", "大口純一郎"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,12 +23,12 @@ In addition to her compelling horn playing, Miyawaki’s contributions also incl
 
 ## Song of Flower by Yuko Miyawaki {#song-of-flower-by-yuko-miyawaki}
 
--   [Yuko Miyawaki](https://yukomiyawaki.com) - trumpet, flugelhorn
--   [Yutaka Handa](http://yutakahanda.com/) - tenor sax
--   [Taeko Kurita](https://kuritataeko.jimdofree.com/) - piano
--   [Yutaka Kaido](https://kaidoyutaka.blogspot.com/) - bass
--   [Masashi Tomikawa](https://masashitomikawa.com/) - drums
--   [Junichiro Ohkuchi](https://pianistjohkuchi.blogspot.com/) - piano (tr. #3, 5, 6, 8, 9)
+-   [Yuko Miyawaki](/tags/yuko-miyawaki) - trumpet, flugelhorn
+-   [Yutaka Handa](/tags/yutaka-handa) - tenor sax
+-   [Taeko Kurita](/tags/taeko-kurita) - piano
+-   [Yutaka Kaido](/tags/yutaka-kaido) - bass
+-   [Masashi Tomikawa](/tags/masashi-tomikawa) - drums
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano (tr. #3, 5, 6, 8, 9)
 
 Released in 2011 on Coume Music as DQC-614.
 

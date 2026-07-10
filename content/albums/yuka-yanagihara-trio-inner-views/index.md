@@ -3,7 +3,7 @@ title = "Yuka Yanagihara Trio: Inner Views"
 author = ["Brian McCrory"]
 publishDate = 2024-01-12
 keywords = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
-tags = ["Yuka Yanagihara 柳原由佳", "Yoshiki Yamada 山田吉輝", "Ryo Noritake 則武諒"]
+tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,9 +30,9 @@ The final song, a solo piano rendition of “Moon Dance” (also played with the
 
 ## Inner Views by Yuka Yanagihara Trio {#inner-views-by-yuka-yanagihara-trio}
 
--   [Yuka Yanagihara](https://yukayanagihara.com/) - piano
--   [Yoshiki Yamada](https://www.yoshikiyamada.com/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
+-   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
 
 Released in 2019 on Tomtom Cherry Music as TCM-2002.
 

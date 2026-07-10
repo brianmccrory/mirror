@@ -2,7 +2,7 @@
 title = "Sayaka Kishi Trio: Life Is Too Great"
 author = ["Brian McCrory"]
 publishDate = 2019-09-04
-tags = ["Sayaka Kishi 岸淑香", "Ryoji Orihara 織原良次", "Akira Yamada 山田玲"]
+tags = ["Sayaka Kishi", "岸淑香", "Ryoji Orihara", "織原良次", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -29,9 +29,9 @@ On _Life Is Too Great_, Kishi’s tunes and performances are great and full of l
 
 ## Life Is Too Great by Sayaka Kishi Trio {#life-is-too-great-by-sayaka-kishi-trio}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, keyboard, keyharmonica, percussion
--   [Ryoji Orihara](https://linktr.ee/ryojiorihara) - fretless bass
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard, keyharmonica, percussion
+-   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Akira Yamada](/tags/akira-yamada) - drums
 
 Released in 2019 on T-TOC Records as TTOC-0034.
 

@@ -3,7 +3,7 @@ title = "Melodies: Melodies"
 author = ["Brian McCrory"]
 publishDate = 2025-06-22
 keywords = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
-tags = ["Motohiko Ichino 市野元彦", "Kenta Tsugami 津上研太", "Minyen Hsieh 謝明諺", "Akira Sotoyama 外山明"]
+tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Minyen Hsieh", "謝明諺", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -32,10 +32,10 @@ Track #5 “Spring” has the muted hopefulness of a timid flower blossoming slo
 
 ## Melodies by Melodies {#melodies-by-melodies}
 
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar, baritone guitar
--   [Kenta Tsugami](https://kentatsugami.amebaownd.com/) - alto saxophone
--   [Minyen Hsieh](https://soundcloud.com/minyenhsieh) - tenor saxophone (#1, 2, 3, 4, 6, 8)
--   [Akira Sotoyama](https://akirasotoyama.wixsite.com/officialwebsite) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, baritone guitar
+-   [Kenta Tsugami](/tags/kenta-tsugami) - alto saxophone
+-   [Minyen Hsieh](/tags/minyen-hsieh) - tenor saxophone (#1, 2, 3, 4, 6, 8)
+-   [Akira Sotoyama](/tags/akira-sotoyama) - drums
 
 Released in 2025 on Ammonite Musique as AM-006.
 

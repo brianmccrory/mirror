@@ -2,7 +2,7 @@
 title = "Naoko Akimoto: No One Else"
 author = ["Brian McCrory"]
 publishDate = 2023-05-15
-tags = ["Naoko Akimoto 秋元直子", "Seiji Endo 遠藤征志", "Akiyoshi Shimizu 清水昭好", "Ko Omura 大村亘", "Shinpei Inoue 井上信平", "Yasuhiro Matsuda 松田靖弘", "Shinpei Ruike 類家心平"]
+tags = ["Naoko Akimoto", "秋元直子", "Seiji Endo", "遠藤征志", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘", "Shinpei Inoue", "井上信平", "Yasuhiro Matsuda", "松田靖弘", "Shinpei Ruike", "類家心平"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -24,13 +24,13 @@ After the classy opener, the album continues with the title track “No One Else
 
 ## No One Else by Naoko Akimoto {#no-one-else-by-naoko-akimoto}
 
--   [Naoko Akimoto](https://naokojazz.com) - vocal
--   [Seiji Endo](https://seiji-piano-endo.com/) - piano
--   [Akiyoshi Shimizu](https://akiyoshishimizubassist.weebly.com/) - bass
--   [Ko Omura](https://kojazz0829.wixsite.com/1981) - drums
--   [Shinpei Inoue](https://www.facebook.com/shinpeiworld/) - flute
--   [Yasuhiro Matsuda](https://www.alsoj.net/sax/artist/view/1055/%E6%9D%BE%E7%94%B0%E9%9D%96%E5%BC%98.html) - alto sax
--   [Shinpei Ruike](https://ruikeshinpei.com/) - trumpet
+-   [Naoko Akimoto](/tags/naoko-akimoto) - vocal
+-   [Seiji Endo](/tags/seiji-endo) - piano
+-   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu) - bass
+-   [Ko Omura](/tags/ko-omura) - drums
+-   [Shinpei Inoue](/tags/shinpei-inoue) - flute
+-   [Yasuhiro Matsuda](/tags/yasuhiro-matsuda) - alto sax
+-   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
 
 Released in 2012 on Marmalade Records as MARM-0004.
 

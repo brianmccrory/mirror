@@ -3,7 +3,7 @@ title = "Sayaka Kishi Trio: Banquet"
 author = ["Brian McCrory"]
 publishDate = 2024-09-13
 keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "arco-birth", "sayaka-kishi-trio-life-is-too-great", "sul-madrugada-luar"]
-tags = ["Sayaka Kishi 岸淑香", "Akira Yamada 山田玲", "Daiki Yasukagawa 安ヵ川大樹", "Hiroe Kobayashi 小林宏衣"]
+tags = ["Sayaka Kishi", "岸淑香", "Akira Yamada", "山田玲", "Daiki Yasukagawa", "安ヵ川大樹", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,10 +34,10 @@ Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their
 
 ## Banquet by Sayaka Kishi Trio {#banquet-by-sayaka-kishi-trio}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano
--   [Akira Yamada](https://akry0325.wixsite.com/akira-y-drums) - drums
--   [Daiki Yasukagawa](http://daikiyasukagawa.com/) - bass
--   [Hiroe Kobayashi](https://hirosnoopyhiro.wixsite.com/mysite) - vocals (#8)
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano
+-   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi) - vocals (#8)
 
 Released in 2024 on Daiki Musica as DNCD-32.
 

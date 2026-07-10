@@ -3,7 +3,7 @@ title = "Noriko Satomi: Project-N"
 author = ["Brian McCrory"]
 publishDate = 2024-05-24
 keywords = ["noriko-satomi-a-love-supreme"]
-tags = ["Noriko Satomi 里見紀子", "Masaaki Imaizumi 今泉正明", "Kunio Oinuma 生沼邦夫", "Masahiko Osaka 大坂昌彦"]
+tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Kunio Oinuma", "生沼邦夫", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -137,10 +137,10 @@ As an arranger for strings, she’s worked on songs by m-flo, TOKU, and others, 
 
 ## Project-N by Noriko Satomi {#project-n-by-noriko-satomi}
 
--   [Noriko Satomi](https://project-nori.wixsite.com/mysite) - violin
--   [Masaaki Imaizumi](http://masaaki-imaizumi.music.coocan.jp/) - piano
--   Kunio Oinuma - bass
--   [Masahiko Osaka](https://osaka-masahiko.com/) - drums
+-   [Noriko Satomi](/tags/noriko-satomi) - violin
+-   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
+-   [Kunio Oinuma](/tags/kunio-oinuma) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka) - drums
 
 Released in 2017 on Altered Records as ALTVN-1001.
 

@@ -3,7 +3,7 @@ title = "Hitomi Nishiyama: Dot"
 author = ["Brian McCrory"]
 publishDate = 2024-10-04
 keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
-tags = ["Hitomi Nishiyama 西山瞳", "Toru Nishijima 西嶋徹", "Ryo Noritake 則武諒", "Takanori Suzuki 鈴木孝紀", "Ryosuke Hashizume 橋爪亮督", "maiko マイコ"]
+tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Noritake", "則武諒", "Takanori Suzuki", "鈴木孝紀", "Ryosuke Hashizume", "橋爪亮督", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -43,12 +43,12 @@ There are also the dot-like sequences of melody in some of the songs. And, there
 
 ## Dot by Hitomi Nishiyama {#dot-by-hitomi-nishiyama}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
--   [Toru Nishijima](https://toru-cb.com/) - bass
--   [Ryo Noritake](http://www.ryonoritake.com/) - drums
--   [Takanori Suzuki](https://www.takanorisuzuki.net/) - clarinet (#2, 3, 5, 6, 9)
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone (#3, 5, 6, 9), flute (#2)
--   [maiko](https://jvmaiko.com/) - violin (#2, 3, 5, 6, 9)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
+-   [Toru Nishijima](/tags/toru-nishijima) - bass
+-   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki) - clarinet (#2, 3, 5, 6, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone (#3, 5, 6, 9), flute (#2)
+-   [maiko](/tags/maiko) - violin (#2, 3, 5, 6, 9)
 
 Released in 2023 on Meantone Records as MT-12.
 

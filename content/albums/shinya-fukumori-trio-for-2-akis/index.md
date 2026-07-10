@@ -3,7 +3,7 @@ title = "Shinya Fukumori Trio: For 2 Akis"
 author = ["Brian McCrory"]
 publishDate = 2025-04-26
 keywords = ["koichi-sato-embryo"]
-tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori 福盛進也"]
+tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -34,9 +34,9 @@ The wide range of years found in the song selection here brings something extra 
 
 ## For 2 Akis by Shinya Fukumori Trio {#for-2-akis-by-shinya-fukumori-trio}
 
--   [Matthieu Bordenave](https://www.matthieu-bordenave.com/) - saxophone
--   [Walter Lang](https://www.discogs.com/de/artist/2711058) - piano
--   [Shinya Fukumori](https://www.shinyafukumori.com/) - drums
+-   [Matthieu Bordenave](/tags/matthieu-bordenave) - saxophone
+-   [Walter Lang](/tags/walter-lang) - piano
+-   [Shinya Fukumori](/tags/shinya-fukumori) - drums
 
 Released in 2018 on ECM as ECM-2574.
 

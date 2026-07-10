@@ -2,7 +2,7 @@
 title = "Hitomi Nishiyama: Vibrant"
 author = ["Brian McCrory"]
 publishDate = 2023-06-23
-tags = ["Hitomi Nishiyama 西山瞳"]
+tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -32,7 +32,7 @@ This is a solo piano album and its sound qualities are defined by the single ins
 
 ## Vibrant by Hitomi Nishiyama {#vibrant-by-hitomi-nishiyama}
 
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 
 Released in 2020 on Meantone Records as MT-08.
 

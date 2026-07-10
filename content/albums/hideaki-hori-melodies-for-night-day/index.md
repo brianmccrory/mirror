@@ -3,7 +3,7 @@ title = "Hideaki Hori: Melodies for Night & Day"
 author = ["Brian McCrory"]
 publishDate = 2023-12-15
 keywords = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hori-trio-unconditional-love"]
-tags = ["Hideaki Hori 堀秀彰"]
+tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -77,7 +77,7 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 
 ## Melodies for Night &amp; Day by Hideaki Hori {#melodies-for-night-and-day-by-hideaki-hori}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
 
 Released in 2022 on Orbit Records as ORG-1006.
 

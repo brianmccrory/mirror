@@ -2,7 +2,7 @@
 title = "Hideaki Hori Trio: Unconditional Love"
 author = ["Brian McCrory"]
 publishDate = 2018-08-30
-tags = ["Hideaki Hori 堀秀彰", "Yuhei Honkawa 本川悠平", "Gaku Hasegawa 長谷川ガク"]
+tags = ["Hideaki Hori", "堀秀彰", "Yuhei Honkawa", "本川悠平", "Gaku Hasegawa", "長谷川ガク"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,9 +25,9 @@ The twelve songs include four originals by Hori (the funky “The Shell” and h
 
 ## Unconditional Love by Hideaki Hori Trio {#unconditional-love-by-hideaki-hori-trio}
 
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Yuhei Honkawa](http://yuhei-ponkawajazz.cocolog-nifty.com/) - bass
--   [Gaku Hasegawa](http://www.gakudrum.com/) - drums
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Yuhei Honkawa](/tags/yuhei-honkawa) - bass
+-   [Gaku Hasegawa](/tags/gaku-hasegawa) - drums
 
 Released in 2014 on BQ Records as BQR-2064/2065.
 

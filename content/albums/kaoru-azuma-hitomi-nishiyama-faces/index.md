@@ -3,7 +3,7 @@ title = "Kaoru Azuma / Hitomi Nishiyama: Faces"
 author = ["Brian McCrory"]
 publishDate = 2023-12-29
 keywords = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
-tags = ["Kaoru Azuma 東かおる", "Hitomi Nishiyama 西山瞳", "Motohiko Ichino 市野元彦", "Toru Nishijima 西嶋徹", "Ryosuke Hashizume 橋爪亮督"]
+tags = ["Kaoru Azuma", "東かおる", "Hitomi Nishiyama", "西山瞳", "Motohiko Ichino", "市野元彦", "Toru Nishijima", "西嶋徹", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -90,11 +90,11 @@ This is based on “Before Night Falls” from _[Many Seasons](https://www.jazzo
 
 ## Faces by Kaoru Azuma / Hitomi Nishiyama {#faces-by-kaoru-azuma-hitomi-nishiyama}
 
--   [Kaoru Azuma](https://kaoruazuma.com/) - vocal
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano, composition, arrangement
--   [Motohiko Ichino](https://motohikoichino.com/) - guitar (#1, 2, 3, 5, 7, 8)
--   [Toru Nishijima](https://toru-cb.com/) - bass (#1, 2, 3, 5, 6, 7, 9)
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
+-   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, composition, arrangement
+-   [Motohiko Ichino](/tags/motohiko-ichino) - guitar (#1, 2, 3, 5, 7, 8)
+-   [Toru Nishijima](/tags/toru-nishijima) - bass (#1, 2, 3, 5, 6, 7, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
 
 Released in 2020 on Meantone Records as MT-09.
 

@@ -3,7 +3,7 @@ title = "Wataru Hamasaki & Akane Matsumoto: Listen to My Blues"
 author = ["Brian McCrory"]
 publishDate = 2026-03-29
 keywords = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
-tags = ["Wataru Hamasaki 浜崎航", "Akane Matsumoto 松本茜"]
+tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -62,8 +62,8 @@ An explosive pianist, a roaring horn. The mad rush of movement and rare presence
 
 ## Listen to My Blues by Wataru Hamasaki &amp; Akane Matsumoto {#listen-to-my-blues-by-wataru-hamasaki-and-akane-matsumoto}
 
--   [Wataru Hamasaki](http://www.watarujazz.com) - saxophone
--   [Akane Matsumoto](http://akanejazz.com) - piano
+-   [Wataru Hamasaki](/tags/wataru-hamasaki) - saxophone
+-   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 
 Released in 2025 on Concept Record as CR-21.
 

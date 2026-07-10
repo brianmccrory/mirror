@@ -2,7 +2,7 @@
 title = "Tokuhiro Doi Quartet: Amalthea"
 author = ["Brian McCrory"]
 publishDate = 2019-01-07
-tags = ["Tokuhiro Doi 土井徳浩", "Koichi Sato 佐藤浩一", "Yuhei Honkawa 本川悠平", "Tomoyuki Konno 紺野智之"]
+tags = ["Tokuhiro Doi", "土井徳浩", "Koichi Sato", "佐藤浩一", "Yuhei Honkawa", "本川悠平", "Tomoyuki Konno", "紺野智之"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,10 +25,10 @@ The woody tone of the clarinet makes the music organic and present, breathy and 
 
 ## Amalthea by Tokuhiro Doi Quartet {#amalthea-by-tokuhiro-doi-quartet}
 
--   [Tokuhiro Doi](https://www.doitoku.com/) - clarinet
--   [Koichi Sato](https://koichisato.com/) - piano
--   [Yuhei Honkawa](http://yuhei-ponkawajazz.cocolog-nifty.com/) - bass
--   [Tomoyuki Konno](http://tomoyukikonno.blogspot.com/) - drums
+-   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet
+-   [Koichi Sato](/tags/koichi-sato) - piano
+-   [Yuhei Honkawa](/tags/yuhei-honkawa) - bass
+-   [Tomoyuki Konno](/tags/tomoyuki-konno) - drums
 
 Released in 2011 on D-musica Daiki Music as DMCD-15.
 

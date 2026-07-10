@@ -2,7 +2,7 @@
 title = "Mase Hiroko Quintet: First Contact"
 author = ["Brian McCrory"]
 publishDate = 2024-01-05
-tags = ["Hiroko Mase ませひろこ", "Eiji Otogawa 音川英二", "Nobumasa Tanaka 田中信正", "Kosuke Ochiai 落合康介", "Sota Kira 吉良創太"]
+tags = ["Hiroko Mase", "ませひろこ", "Eiji Otogawa", "音川英二", "Nobumasa Tanaka", "田中信正", "Kosuke Ochiai", "落合康介", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -121,11 +121,11 @@ _September 2020_
 
 ## First Contact by Mase Hiroko Quintet {#first-contact-by-mase-hiroko-quintet}
 
--   [Hiroko Mase](http://bowz.main.jp/masehiroko/) - soprano saxophone
--   [Eiji Otogawa](http://bowz.main.jp/otogawa/) - tenor saxophone
--   [Nobumasa Tanaka](http://tnobumasa.com/) - piano
--   [Kosuke Ochiai](https://skbss117.exblog.jp/) - bass, percussion
--   [Sota Kira](https://kirasota.jimdofree.com/) - drums, percussion
+-   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
+-   [Eiji Otogawa](/tags/eiji-otogawa) - tenor saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai) - bass, percussion
+-   [Sota Kira](/tags/sota-kira) - drums, percussion
 
 Released in 2020 on F.S.L. as FSCJ-0019.
 

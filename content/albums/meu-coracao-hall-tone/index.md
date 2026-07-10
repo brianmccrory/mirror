@@ -2,7 +2,7 @@
 title = "Meu Coracao: Hall Tone"
 author = ["Brian McCrory"]
 publishDate = 2021-07-05
-tags = ["Emiko Voice エミコヴォイス", "Taro Sukegawa 助川太郎"]
+tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -30,8 +30,8 @@ It’s also worth mentioning that since the 2009 debut of Hall Tone, Meu Coracao
 
 ## Hall Tone by Meu Coracao {#hall-tone-by-meu-coracao}
 
--   [Emiko Voice](http://www.emikovoice.com/) - vocal
--   [Taro Sukegawa](http://www.tarosukegawa.jp/) - guitar
+-   [Emiko Voice](/tags/emiko-voice) - vocal
+-   [Taro Sukegawa](/tags/taro-sukegawa) - guitar
 
 Released in 2009 on Coo Records as COO-300.
 

@@ -2,7 +2,7 @@
 title = "Hikari Ichihara Group: Move On"
 author = ["Brian McCrory"]
 publishDate = 2019-05-16
-tags = ["Hikari Ichihara 市原ひかり", "Ryosuke Asai 浅井良将", "Hideaki Hori 堀秀彰", "Kunpei Nakabayashi 中林薫平", "Masanori Ando 安藤正則"]
+tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,11 +25,11 @@ Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspirat
 
 ## Move On by Hikari Ichihara Group {#move-on-by-hikari-ichihara-group}
 
--   [Hikari Ichihara](https://hikariichihara.com/) - trumpet, flugelhorn
--   [Ryosuke Asai](https://saxryosuke.exblog.jp/) - alto sax
--   [Hideaki Hori](https://www.hideakihori.com/) - piano
--   [Kunpei Nakabayashi](https://www.instagram.com/kunpeibass/) - bass
--   [Masanori Ando](http://www.andomasanori.com/) - drums
+-   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai) - alto sax
+-   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
+-   [Masanori Ando](/tags/masanori-ando) - drums
 
 Released in 2010 on After Beat as PCCY-30157.
 

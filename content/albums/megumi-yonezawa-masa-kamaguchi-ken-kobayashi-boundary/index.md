@@ -2,7 +2,7 @@
 title = "Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: Boundary"
 author = ["Brian McCrory"]
 publishDate = 2024-12-31
-tags = ["Megumi Yonezawa 米澤めぐみ", "Masa Kamaguchi マサ・カマグチ", "Ken Kobayashi 小林健"]
+tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマグチ", "Ken Kobayashi", "小林健"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -53,9 +53,9 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 
 ## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi {#boundary-by-megumi-yonezawa-masa-kamaguchi-ken-kobayashi}
 
--   [Megumi Yonezawa](https://www.megumiyonezawa.com/) - piano
--   [Masa Kamaguchi](https://www.discogs.com/artist/979365-Masa-Kamaguchi) - bass
--   [Ken Kobayashi](https://www.discogs.com/artist/4679945-Ken-Kobayashi-4) - drums
+-   [Megumi Yonezawa](/tags/megumi-yonezawa) - piano
+-   [Masa Kamaguchi](/tags/masa-kamaguchi) - bass
+-   [Ken Kobayashi](/tags/ken-kobayashi) - drums
 
 Released in 2018 on ESP-Disk’ as ESP-5023.
 

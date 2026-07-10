@@ -2,7 +2,7 @@
 title = "Shinpei Ruike & George Nakajima: N.40°"
 author = ["Brian McCrory"]
 publishDate = 2019-02-12
-tags = ["Shinpei Ruike 類家心平", "George Nakajima 中嶋錠二"]
+tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,8 +25,8 @@ Nakajima’s skillful piano provides the cool rhythmic and harmonic underpinning
 
 ## N.40° by Shinpei Ruike &amp; George Nakajima {#n-dot-40-by-shinpei-ruike-and-george-nakajima}
 
--   [Shinpei Ruike](https://ruikeshinpei.com/) - trumpet
--   [George Nakajima](https://georgenpf.exblog.jp/) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
+-   [George Nakajima](/tags/george-nakajima) - piano
 
 Released in 2014 on Apollo Sounds as APLS-1403.
 

@@ -2,7 +2,7 @@
 title = "Meu Coracao: A Tempo"
 author = ["Brian McCrory"]
 publishDate = 2018-03-14
-tags = ["Emiko Voice エミコヴォイス", "Taro Sukegawa 助川太郎", "Ken'ichiro Shinzawa 新澤健一郎", "Cokky コッキー", "Kiyotaka Kuroda 黒田清高", "Yasuhiro Yoshigaki 芳垣安洋"]
+tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎", "Ken'ichiro Shinzawa", "新澤健一郎", "Cokky", "コッキー", "Kiyotaka Kuroda", "黒田清高", "Yasuhiro Yoshigaki", "芳垣安洋"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,12 +23,12 @@ The music grooves with creative arrangements and interesting effects, rooted by 
 
 ## A Tempo by Meu Coracao {#a-tempo-by-meu-coracao}
 
--   [Emiko Voice](http://www.emikovoice.com/) - vocals
--   [Taro Sukegawa](http://www.tarosukegawa.jp/) - acoustic &amp; electric guitar, cavaquinho
--   [Ken'ichiro Shinzawa](https://www.shinzawa.net/) - keyboards
--   Cokky - electric bass
--   Kiyotaka Kuroda - drums
--   Yasuhiro Yoshigaki - percussion (#4, 7)
+-   [Emiko Voice](/tags/emiko-voice) - vocals
+-   [Taro Sukegawa](/tags/taro-sukegawa) - acoustic &amp; electric guitar, cavaquinho
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa) - keyboards
+-   [Cokky](/tags/cokky) - electric bass
+-   [Kiyotaka Kuroda](/tags/kiyotaka-kuroda) - drums
+-   [Yasuhiro Yoshigaki](/tags/yasuhiro-yoshigaki) - percussion (#4, 7)
 
 Released in 2016 on Eclectic Records as ECLC-101.
 

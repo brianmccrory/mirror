@@ -2,7 +2,7 @@
 title = "Takuji Yamada: Lite Blue"
 author = ["Brian McCrory"]
 publishDate = 2018-02-17
-tags = ["Takuji Yamada 山田拓児", "Danny Grissett", "Daisuke Abe 阿部大輔", "Luques Curtis", "Quincy Davis"]
+tags = ["Takuji Yamada", "山田拓児", "Danny Grissett", "Daisuke Abe", "阿部大輔", "Luques Curtis", "Quincy Davis"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,11 +23,11 @@ The track listing consists of 10 songs, mostly originals from Yamada with three 
 
 ## Lite Blue by Takuji Yamada {#lite-blue-by-takuji-yamada}
 
--   [Takuji Yamada](https://www.takujiyamada.com/) - alto and soprano saxophones, bass clarinet
--   [Danny Grissett](https://dannygrissett.com/) - piano
--   [Daisuke Abe](https://daisukeabe.com/) - guitar (tr. 3, 5, 6, 8, 9, 10)
--   [Luques Curtis](https://www.luquescurtis.com/) - bass
--   [Quincy Davis](https://www.quincydavisjazz.com/) - drums
+-   [Takuji Yamada](/tags/takuji-yamada) - alto and soprano saxophones, bass clarinet
+-   [Danny Grissett](/tags/danny-grissett) - piano
+-   [Daisuke Abe](/tags/daisuke-abe) - guitar (tr. 3, 5, 6, 8, 9, 10)
+-   [Luques Curtis](/tags/luques-curtis) - bass
+-   [Quincy Davis](/tags/quincy-davis) - drums
 
 Released in 2012 on D-Musica as DMCD-18.
 

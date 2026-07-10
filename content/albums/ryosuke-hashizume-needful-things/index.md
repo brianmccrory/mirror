@@ -2,7 +2,7 @@
 title = "Ryosuke Hashizume: Needful Things"
 author = ["Brian McCrory"]
 publishDate = 2018-02-23
-tags = ["Ryosuke Hashizume 橋爪亮督", "Takumi Seino 清野拓巳", "Masako Hamamura 浜村昌子", "Yasutaka Yorozu 萬恭隆"]
+tags = ["Ryosuke Hashizume", "橋爪亮督", "Takumi Seino", "清野拓巳", "Masako Hamamura", "浜村昌子", "Yasutaka Yorozu", "萬恭隆"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,10 +25,10 @@ Recorded live at Jalan Jalan in Wakayama, Japan on November 22-23, 2008.
 
 ## Needful Things by Ryosuke Hashizume {#needful-things-by-ryosuke-hashizume}
 
--   [Ryosuke Hashizume](http://www.ryohashizume.com/) - tenor saxophone, clarinet, effects, voice
--   [Takumi Seino](http://www.takumiseino.com/) - electric, acoustic guitars
--   [Masako Hamamura](https://masakoh.exblog.jp/) - piano
--   [Yasutaka Yorozu](http://yasutakayorozu.blog.fc2.com/) - bass
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, clarinet, effects, voice
+-   [Takumi Seino](/tags/takumi-seino) - electric, acoustic guitars
+-   [Masako Hamamura](/tags/masako-hamamura) - piano
+-   [Yasutaka Yorozu](/tags/yasutaka-yorozu) - bass
 
 Released in 2009 on Grapes Records as GPS-1206.
 

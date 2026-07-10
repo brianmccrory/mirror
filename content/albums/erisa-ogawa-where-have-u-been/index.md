@@ -2,7 +2,7 @@
 title = "Erisa Ogawa: Where Have U Been?"
 author = ["Brian McCrory"]
 publishDate = 2024-05-31
-tags = ["Erisa Ogawa 小川恵理紗", "Sota Seta 瀬田創太", "Yusuke Morita 森田悠介", "Ryo Shibata 柴田亮", "Sayaka (Violin)", "Ayumi Hashimoto 橋本歩", "Issei Yoshiba 吉羽 一星", "Tetsuo Koizumi 小泉哲夫", "Jo Endo 遠藤 定", "Nao Teraya 寺屋ナオ", "Masaru Okuyama 奥山勝", "Keita Harigai 張替啓太", "Takeru Yamazaki ヤマザキタケル"]
+tags = ["Erisa Ogawa", "小川恵理紗", "Sota Seta", "瀬田創太", "Yusuke Morita", "森田悠介", "Ryo Shibata", "柴田亮", "Sayaka (Violin)", "Ayumi Hashimoto", "橋本歩", "Issei Yoshiba", "吉羽 一星", "Tetsuo Koizumi", "小泉哲夫", "Jo Endo", "遠藤 定", "Nao Teraya", "寺屋ナオ", "Masaru Okuyama", "奥山勝", "Keita Harigai", "張替啓太", "Takeru Yamazaki", "ヤマザキタケル"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -44,19 +44,19 @@ _Colorful pop-jazz that captures everything from her first debut up through now!
 
 ## Where Have U Been? by Erisa Ogawa {#where-have-u-been-by-erisa-ogawa}
 
--   [Erisa Ogawa](https://erisa321.wixsite.com/erisaogawa) - flute
--   [Sota Seta](https://sota818.wixsite.com/music) - piano
--   [Yusuke Morita](https://yusukemorita.net/) - electric bass
--   [Ryo Shibata](https://www.instagram.com/worldpeacenow/) - drums
--   [Sayaka (Violin)](http://www.musica.sayaka-violin.com/) - violin (#3, 4)
--   [Ayumi Hashimoto](https://www.ayumi-daga.com/) - cello (#4)
--   [Issei Yoshiba](https://www.instagram.com/issei_goza_timbal_yoshiba/) - percussion (#3)
--   Tetsuo Koizumi - baby bass (#3)
--   [Jo Endo](https://enjodobass.wixsite.com/joe-endo) - wood bass (#2, 6, 8)
--   [Nao Teraya](http://www.naoteraya.com/) - guitar (#6)
--   [Masaru Okuyama](http://m-okuyama-home.sakura.ne.jp/) - piano (#3)
--   Keita Harigai - trombone (#8)
--   [Takeru Yamazaki](http://yamazakitkr.com/) - Rhodes &amp; piano (#9)
+-   [Erisa Ogawa](/tags/erisa-ogawa) - flute
+-   [Sota Seta](/tags/sota-seta) - piano
+-   [Yusuke Morita](/tags/yusuke-morita) - electric bass
+-   [Ryo Shibata](/tags/ryo-shibata) - drums
+-   [Sayaka (Violin)](/tags/sayaka-violin) - violin (#3, 4)
+-   [Ayumi Hashimoto](/tags/ayumi-hashimoto) - cello (#4)
+-   [Issei Yoshiba](/tags/issei-yoshiba) - percussion (#3)
+-   [Tetsuo Koizumi](/tags/tetsuo-koizumi) - baby bass (#3)
+-   [Jo Endo](/tags/jo-endo) - wood bass (#2, 6, 8)
+-   [Nao Teraya](/tags/nao-teraya) - guitar (#6)
+-   [Masaru Okuyama](/tags/masaru-okuyama) - piano (#3)
+-   [Keita Harigai](/tags/keita-harigai) - trombone (#8)
+-   [Takeru Yamazaki](/tags/takeru-yamazaki) - Rhodes &amp; piano (#9)
 
 Released in 2019 on Uplift Jazz Record as UJRC-19014.
 

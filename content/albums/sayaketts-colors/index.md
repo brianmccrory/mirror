@@ -2,7 +2,7 @@
 title = "Sayaketts: Colors"
 author = ["Brian McCrory"]
 publishDate = 2018-10-15
-tags = ["Sayaka Kishi 岸淑香", "Satoshi Kohno 鴻野暁司", "Yoshihiro Nakagawa 中川喜博"]
+tags = ["Sayaka Kishi", "岸淑香", "Satoshi Kohno", "鴻野暁司", "Yoshihiro Nakagawa", "中川喜博"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -23,9 +23,9 @@ About half of the 13 songs on this album are upbeat, funky, and energized with t
 
 ## Colors by Sayaketts {#colors-by-sayaketts}
 
--   [Sayaka Kishi](http://www.sayaketto.net/) - piano, Rhodes, keyboards, pianica
--   Satoshi Kohno - electric bass
--   Yoshihiro Nakagawa - drums
+-   [Sayaka Kishi](/tags/sayaka-kishi) - piano, Rhodes, keyboards, pianica
+-   [Satoshi Kohno](/tags/satoshi-kohno) - electric bass
+-   [Yoshihiro Nakagawa](/tags/yoshihiro-nakagawa) - drums
 
 Released in 2009 on Sayaketts as SKTS-001.
 

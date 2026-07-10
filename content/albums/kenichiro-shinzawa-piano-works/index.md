@@ -2,7 +2,7 @@
 title = "Ken’ichiro Shinzawa: Piano Works"
 author = ["Brian McCrory"]
 publishDate = 2018-04-16
-tags = ["Ken'ichiro Shinzawa 新澤健一郎"]
+tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false
 [cover]
@@ -25,7 +25,7 @@ The songs are well-structured and composed, calming and easily listenable, with 
 
 ## Piano Works by Ken’ichiro Shinzawa {#piano-works-by-ken-ichiro-shinzawa}
 
--   [Ken'ichiro Shinzawa](https://www.shinzawa.net/) - piano, composition
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa) - piano, composition
 
 Released in 2009 on Iceblue Records as IBRC-8001.
 

@@ -3,6 +3,7 @@ title = "Mabumi Yamaguchi: Let Your Mind Alone"
 author = ["Brian McCrory"]
 publishDate = 2019-11-19
 keywords = ["naoko-tanaka-appreciation"]
+lastmod = 2024-05-16
 tags = ["Mabumi Yamaguchi", "山口真文", "Yoshitaka Shoji", "東海林由孝", "Misato Okumura", "奥村美里", "Ryohei Komaki", "小牧良平", "Nobuyuki Komatsu", "小松伸之"]
 categories = ["albums"]
 draft = false

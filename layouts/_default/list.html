@@ -4,6 +4,7 @@
 {{ $hasJapanese := gt (len (findRE `[\p{Hiragana}\p{Katakana}\p{Han}]` .Title)) 0 }}
 {{ $field := cond $hasJapanese "japanese" "name" }}
 {{ $artist := index (where $rows $field .Title) 0 }}
+{{ $isHome := .IsHome }}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
@@ -60,6 +61,8 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+<div class="post-grid">
+
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
 
@@ -101,6 +104,8 @@
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
+
+</div>
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">

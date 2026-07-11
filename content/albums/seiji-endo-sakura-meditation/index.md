@@ -3,6 +3,7 @@ title = "Seiji Endo: Sakura Meditation"
 author = ["Brian McCrory"]
 publishDate = 2018-10-22
 keywords = ["naoko-akimoto-no-one-else", "seiji-endo-tsutaete-ikou", "ruriko-kawamura-blossoms", "rie-taguchi-gift", "seiji-endo-circle-for-peace", "hiroco-nagano-okurimono", "seiji-endo-genji-monogatari-volume-1", "rie-taguchi-the-gift-ii"]
+lastmod = 2024-04-13
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false

@@ -1,0 +1,19 @@
+.post-content {
+    font-family:
+        ui-serif,
+        "Hiragino Mincho ProN",
+        "Yu Mincho",
+        Georgia,
+        serif;
+}
+
+.post-title,
+.post-meta,
+.nav {
+    font-family:
+        ui-sans-serif,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+}

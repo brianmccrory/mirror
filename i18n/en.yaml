@@ -1,0 +1,5 @@
+- id: prev_page
+  translation: "Newer articles"
+
+- id: next_page
+  translation: "Older articles"

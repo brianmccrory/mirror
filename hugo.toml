@@ -12,10 +12,13 @@ theme = "PaperMod"
       unsafe = true
       
 [params]
+  defaultTheme = "auto"
+  disableThemeToggle = true
   mainSections = ["albums", "clubs", "guides"]
   showReadingTime = false
   showWordCount = false
   hideAuthor = false
+  disableSpecial1stPost = true
   [params.cover]
     hidden = false
     hiddenInList = false
@@ -78,10 +81,10 @@ theme = "PaperMod"
   url = "/categories/"
   weight = 3
 
-[[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 4
+# [[menu.main]]
+#   name = "Tags"
+#   url = "/tags/"
+#   weight = 4
 
 [[menu.main]]
   name = "Archives"

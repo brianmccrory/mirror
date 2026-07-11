@@ -3,6 +3,7 @@ title = "Yasumasa Kumagai: J-Straight Ahead"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
 keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
+lastmod = 2025-09-20
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Yosuke Inoue", "井上陽介", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false

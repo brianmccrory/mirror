@@ -1,7 +1,4 @@
 ---
-title: Jazz of Japan
+title: "Jazz of Japan"
 ---
-
-# Welcome to Jazz of Japan.
-
-This is a partial mirror of the original site at https://www.jazzofjapan.com/.
+This is a mirror of https://www.jazzofjapan.com.

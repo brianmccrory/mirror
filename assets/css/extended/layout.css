@@ -1,5 +1,6 @@
 .home {
-    main-width: min(1600px, 95vw);
+    width: min(1680px, 95vw);
+    margin-inline: auto;
 }
 
 .post-grid {

@@ -3,11 +3,14 @@ locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [permalinks]
 [permalinks.page]
-  clubs = "/:slug/"
   albums = "/:slug/"
-  guides = "/:slug/"
+  clubs = "/club/:slug/"
+  guides = "/club/:slug/"
   # blog = '/blog/:year/:month/:slug/'
   
 [pagination]
@@ -21,11 +24,14 @@ theme = "PaperMod"
 [params]
   defaultTheme = "auto"
   disableThemeToggle = true
+#  mainSections = ["albums"]
   mainSections = ["albums", "clubs", "guides"]
   showReadingTime = false
   showWordCount = false
   hideAuthor = false
   disableSpecial1stPost = true
+  [params.footer]
+    text = 'Since 2018 · <a href="/index.xml">RSS feed</a>'
   [params.cover]
     hidden = false
     hiddenInList = false
@@ -100,8 +106,13 @@ theme = "PaperMod"
 
 # [[menu.main]]
 #   name = "RSS"
-#   url = "/rss/"
+#   url = "/index.xml"
 #   weight = 6
+  
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 6
   
 [[menu.main]]
   name = "About"

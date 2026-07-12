@@ -8,8 +8,8 @@ categories = ["albums"]
 draft = false
 aliases = ["/archive/otohito-fuse-trio-thus-have-i-heard/", "/p/otohito-fuse-trio-thus-have-i-heard/"]
 [cover]
-  image = "['otohito-fuse-trio-thus-have-i-heard-460.jpeg', 'Cover art']"
-  caption = ""
+  image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
+  caption = "Cover art"
   relative = true
 +++
 

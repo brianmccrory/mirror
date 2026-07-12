@@ -2,6 +2,7 @@
 title = "Sayaka Kishi Trio: Life Is Too Great"
 author = ["Brian McCrory"]
 publishDate = 2019-09-04
+keywords = ["sayaka-kishi-trio-life-is-too-great"]
 tags = ["Sayaka Kishi", "岸淑香", "Ryoji Orihara", "織原良次", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Yasumasa Kumagai: Pray"
 author = ["Brian McCrory"]
 publishDate = 2022-09-01
+keywords = ["yasumasa-kumagai-pray"]
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜", "Kohzo Komori", "小森耕造", "DJ Passo"]
 categories = ["albums"]
 draft = false

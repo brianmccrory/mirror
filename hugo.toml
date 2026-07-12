@@ -2,30 +2,37 @@ baseURL = 'https://mirror.jazzofjapan.com/'
 locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
+  
+[taxonomies]
+  tag = "tags" # disable categories by not including here
+  
 [permalinks]
 [permalinks.page]
   albums = "/:slug/"
-  clubs = "/club/:slug/"
-  guides = "/club/:slug/"
-  # blog = '/blog/:year/:month/:slug/'
-  
-[pagination]
-  pagerSize = 30
+  extra = "/:slug/"
+#  clubs = "/club/:slug/"
+#  guides = "/club/:slug/"
+#  blog = '/blog/:year/:month/:slug/' # for the "behind the scenes" posts
+
+# replaced below by params.pagination, used in list.html
+# [pagination]
+#   pagerSize = 30
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [params]
+  author = 'Brian McCrory'
+  description = 'Introducing modern-day jazz of Japan through albums, musicians, and clubs'
   defaultTheme = "auto"
   disableThemeToggle = true
 #  mainSections = ["albums"]
-  mainSections = ["albums", "clubs", "guides"]
+  mainSections = ["albums", "extra"]
+#  mainSections = ["albums", "clubs", "guides"]
   showReadingTime = false
   showWordCount = false
   hideAuthor = false
@@ -37,6 +44,9 @@ theme = "PaperMod"
     hiddenInList = false
     hiddenInSingle = false
     linkFullImages = true
+  [params.pagination]
+    pagerSize = 30
+    pagerSizeHome = 9
 [related]
   includeNewer = true
   threshold = 80
@@ -68,57 +78,37 @@ theme = "PaperMod"
 [menu]
 
 # [[menu.main]]
-#   name = "Posts"
-#   url = "/posts/"
+#   name = "Home"
+#   url = "/"
 #   weight = 1
-# [[menu.main]]
-#   name = "Albums"
-#   url = "/albums/"
-#   weight = 1
-# [[menu.main]]
-#   name = "Scenes"
-#   url = "/scenes/"
-#   weight = 1
+[[menu.main]]
+  name = "Albums"
+  url = "/albums/"
+  weight = 2
+[[menu.main]]
+  name = "Extra"
+  url = "/extra/"
+  weight = 3
 # [[menu.main]]
 #   name = "Guides"
 #   url = "/guides/"
-#   weight = 1
-
+#   weight = 3
 # [[menu.main]]
-#   name = "Series"
-#   url = "/series/"
-#   weight = 2
-
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  weight = 3
-
-[[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 4
-
+#   name = "Tags"
+#   url = "/tags/"
+#   weight = 4
 [[menu.main]]
   name = "Archive"
   url = "/archive/"
   weight = 5
-
-# [[menu.main]]
-#   name = "RSS"
-#   url = "/index.xml"
-#   weight = 6
-  
 [[menu.main]]
   name = "Search"
   url = "/search/"
   weight = 6
-  
 [[menu.main]]
   name = "About"
   url = "/about/"
   weight = 7
-
 [[menu.main]]
   name = "Subscribe"
   url = "https://www.jazzofjapan.com"

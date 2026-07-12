@@ -2,6 +2,7 @@
 title = "Sayaka Kishi: Featuring Te"
 author = ["Brian McCrory"]
 publishDate = 2018-01-31
+keywords = ["sayaka-kishi-featuring-te"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false

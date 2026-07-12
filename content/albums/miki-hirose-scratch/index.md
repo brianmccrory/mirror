@@ -2,6 +2,7 @@
 title = "Miki Hirose: Scratch"
 author = ["Brian McCrory"]
 publishDate = 2021-02-01
+keywords = ["miki-hirose-scratch"]
 tags = ["Miki Hirose", "広瀬未来", "Xavier Perez", "Toru Dodo", "百々徹", "Aiden O’Donnell", "Jerome Jennings", "Mauricio Herrera"]
 categories = ["albums"]
 draft = false

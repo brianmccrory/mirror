@@ -2,6 +2,7 @@
 title = "Bungalow: You Already Know"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
+keywords = ["bungalow-you-already-know"]
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false

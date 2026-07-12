@@ -2,6 +2,7 @@
 title = "Koichi Sato: Melancholy of a Journey"
 author = ["Brian McCrory"]
 publishDate = 2018-02-20
+keywords = ["koichi-sato-melancholy"]
 tags = ["Koichi Sato", "佐藤浩一", "Tokuhiro Doi", "土井徳浩", "Motohiko Ichino", "市野元彦", "Harutoshi Ito", "伊藤ハルトシ", "Hiroki Chiba", "千葉広樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false

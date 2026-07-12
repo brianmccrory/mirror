@@ -2,6 +2,7 @@
 title = "Layla Tomomi Sakai: Whisper Not"
 author = ["Brian McCrory"]
 publishDate = 2021-03-08
+keywords = ["layla-tomomi-sakai-whisper-not"]
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一"]
 categories = ["albums"]
 draft = false

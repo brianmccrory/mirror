@@ -2,6 +2,7 @@
 title = "Mayuko Katakura: Faith"
 author = ["Brian McCrory"]
 publishDate = 2018-02-16
+keywords = ["mayuko-katakura-faith"]
 tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false

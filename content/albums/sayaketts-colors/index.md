@@ -2,6 +2,7 @@
 title = "Sayaketts: Colors"
 author = ["Brian McCrory"]
 publishDate = 2018-10-15
+keywords = ["sayaketts-colors"]
 tags = ["Sayaka Kishi", "岸淑香", "Satoshi Kohno", "鴻野暁司", "Yoshihiro Nakagawa", "中川喜博"]
 categories = ["albums"]
 draft = false

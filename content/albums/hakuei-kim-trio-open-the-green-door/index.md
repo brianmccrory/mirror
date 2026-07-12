@@ -2,6 +2,7 @@
 title = "Hakuei Kim Trio: Open the Green Door"
 author = ["Brian McCrory"]
 publishDate = 2018-09-05
+keywords = ["hakuei-kim-trio-open-the-green-door"]
 tags = ["Hakuei Kim", "ハクエイ・キム", "Ben “Donny” Waples", "Dave Goodman"]
 categories = ["albums"]
 draft = false

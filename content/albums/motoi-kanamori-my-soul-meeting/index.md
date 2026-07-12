@@ -2,6 +2,7 @@
 title = "Motoi Kanamori: My Soul Meeting"
 author = ["Brian McCrory"]
 publishDate = 2020-04-24
+keywords = ["motoi-kanamori-my-soul-meeting"]
 tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Erena Terakubo", "寺久保エレナ", "Akihiro Yoshimoto", "吉本章紘"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Takayuki Yagi: New Departure"
 author = ["Brian McCrory"]
 publishDate = 2021-01-19
+keywords = ["takayuki-yagi-new-departure"]
 tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Sanae Ishikawa: Feel Like Makin’ Love"
 author = ["Brian McCrory"]
 publishDate = 2018-05-10
+keywords = ["sanae-ishikawa-feel-like-makin-love"]
 tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ", "Satoshi Kosugi", "小杉敏", "Cecil Monroe"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Toshihiko Inoue: Vayu"
 author = ["Brian McCrory"]
 publishDate = 2018-02-26
+keywords = ["toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false

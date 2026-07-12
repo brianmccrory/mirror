@@ -1,14 +1,11 @@
-<p>&nbsp;</p>
+<hr>
 {{- if and (ne .Type "page") (.Site.RegularPages.Related .) }}
-<h3>Related Albums</h3>
-  <div class="post-content md-content">
-    <p>
+<div class="post-content md-content"><p>
+<h3>Related:</h3>
       <ul>
-{{- range (.Site.RegularPages.Related . | first 5) }}
+{{- range (.Site.RegularPages.Related . | first 3) }}
 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 {{- end }}
       </ul>
-    <p>
-  </div>
+</p></div>
 {{- end }}
-<h3>Tags</h3>

@@ -2,6 +2,7 @@
 title = "Akane Matsumoto: Memories of You"
 author = ["Brian McCrory"]
 publishDate = 2020-11-12
+keywords = ["akane-matsumoto-memories-of-you"]
 tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false

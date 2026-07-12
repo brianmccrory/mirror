@@ -2,6 +2,7 @@
 title = "Mayuko Katakura: The Echoes of Three"
 author = ["Brian McCrory"]
 publishDate = 2018-04-02
+keywords = ["mayuko-katakura-echoes-of-three"]
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carmen Intorre Jr."]
 categories = ["albums"]
 draft = false

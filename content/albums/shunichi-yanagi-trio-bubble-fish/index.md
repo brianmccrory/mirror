@@ -2,6 +2,7 @@
 title = "Shunichi Yanagi Trio: Bubble Fish"
 author = ["Brian McCrory"]
 publishDate = 2020-03-17
+keywords = ["shunichi-yanagi-trio-bubble-fish"]
 tags = ["Shunichi Yanagi", "柳隼一", "Ryo Shibata", "柴田亮", "Motoi Kanamori", "金森もとい"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Yukiko Hayakawa Trio: Gallery"
 author = ["Brian McCrory"]
 publishDate = 2021-04-13
+keywords = ["yukiko-hayakawa-trio-gallery"]
 tags = ["Yukiko Hayakawa", "早川由紀子", "Terumasa Nishikawa", "西川輝正", "Keiichiro Uemura", "上村計一郎"]
 categories = ["albums"]
 draft = false

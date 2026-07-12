@@ -2,6 +2,7 @@
 title = "Toshihiko Inoue & Masaki Hayashi: Mistral"
 author = ["Brian McCrory"]
 publishDate = 2021-07-16
+keywords = ["toshihiko-inoue-and-masaki-hayashi"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false

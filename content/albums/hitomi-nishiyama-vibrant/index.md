@@ -2,6 +2,7 @@
 title = "Hitomi Nishiyama: Vibrant"
 author = ["Brian McCrory"]
 publishDate = 2023-06-23
+keywords = ["hitomi-nishiyama-vibrant"]
 tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false

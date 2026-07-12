@@ -2,6 +2,7 @@
 title = "Chihiro Yamanaka Trio: Madrigal"
 author = ["Brian McCrory"]
 publishDate = 2021-03-14
+keywords = ["chihiro-yamanaka-trio-madrigal"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Hitomi Nishiyama Trio “Parallax”: Live"
 author = ["Brian McCrory"]
 publishDate = 2018-04-06
+keywords = ["hitomi-nishiyama-trio-parallax-live"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Takuya Sakazaki", "坂崎拓也", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false

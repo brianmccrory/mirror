@@ -2,6 +2,7 @@
 title = "Yukako Yamano: 3rd Stage"
 author = ["Brian McCrory"]
 publishDate = 2022-08-10
+keywords = ["yukako-yamano-3rd-stage"]
 tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false

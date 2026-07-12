@@ -2,6 +2,7 @@
 title = "Duo Tremolo: Resonance"
 author = ["Brian McCrory"]
 publishDate = 2021-03-03
+keywords = ["duo-tremolo-resonance"]
 tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Sendo", "仙道さおり", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Hitomi Nishiyama Trio: Sympathy"
 author = ["Brian McCrory"]
 publishDate = 2019-06-20
+keywords = ["hitomi-nishiyama-trio-sympathy"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false

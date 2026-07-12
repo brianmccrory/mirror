@@ -2,6 +2,7 @@
 title = "Shunichi Yanagi Trio: Slope"
 author = ["Brian McCrory"]
 publishDate = 2023-05-20
+keywords = ["shunichi-yanagi-trio-slope"]
 tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false

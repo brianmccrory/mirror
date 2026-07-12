@@ -2,6 +2,7 @@
 title = "Taihei Asakawa: Waltz for Debby"
 author = ["Brian McCrory"]
 publishDate = 2018-12-21
+keywords = ["taihei-asakawa-waltz-for-debby"]
 tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false

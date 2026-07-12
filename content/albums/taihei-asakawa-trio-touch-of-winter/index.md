@@ -2,6 +2,7 @@
 title = "Taihei Asakawa Trio: Touch of Winter"
 author = ["Brian McCrory"]
 publishDate = 2018-10-01
+keywords = ["taihei-asakawa-trio-touch-of-winter"]
 tags = ["Taihei Asakawa", "浅川太平", "Daiki Yasukagawa", "安ヵ川大樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false

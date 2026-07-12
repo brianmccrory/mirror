@@ -2,6 +2,7 @@
 title = "Ryosuke Hashizume: Needful Things"
 author = ["Brian McCrory"]
 publishDate = 2018-02-23
+keywords = ["ryosuke-hashizume-needful-things"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Takumi Seino", "清野拓巳", "Masako Hamamura", "浜村昌子", "Yasutaka Yorozu", "萬恭隆"]
 categories = ["albums"]
 draft = false

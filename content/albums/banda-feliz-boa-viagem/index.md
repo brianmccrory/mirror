@@ -2,6 +2,7 @@
 title = "Banda Feliz: Boa Viagem"
 author = ["Brian McCrory"]
 publishDate = 2024-08-16
+keywords = ["banda-feliz-boa-viagem"]
 tags = ["Makiyo Sakai", "酒井麻生代", "Masaaki Ikeda", "池田雅明", "Kazuhiko Obata", "小畑和彦", "Minoru Kato", "加藤実", "Kiichiro Komobuchi", "コモブチキイチロウ", "Satoshi Ishikawa", "石川智"]
 categories = ["albums"]
 draft = false

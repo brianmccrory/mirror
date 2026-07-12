@@ -2,6 +2,7 @@
 title = "Protean: Protean"
 author = ["Brian McCrory"]
 publishDate = 2021-06-22
+keywords = ["protean-protean"]
 tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan Yoshikawa", "吉川弾"]
 categories = ["albums"]
 draft = false

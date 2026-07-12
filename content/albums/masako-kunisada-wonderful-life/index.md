@@ -2,6 +2,7 @@
 title = "Masako Kunisada: Wonderful Life"
 author = ["Brian McCrory"]
 publishDate = 2020-09-13
+keywords = ["masako-kunisada-wonderful-life"]
 tags = ["Masako Kunisada", "国貞雅子", "Shigeru Morishita", "森下滋", "Ryo Ogihara", "荻原亮", "Shinichi Sato", "佐藤慎一", "Manabu Fujii", "藤井学"]
 categories = ["albums"]
 draft = false

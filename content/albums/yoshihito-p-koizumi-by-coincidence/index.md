@@ -2,6 +2,7 @@
 title = "Yoshihito “P” Koizumi P-Project: By Coincidence"
 author = ["Brian McCrory"]
 publishDate = 2021-05-05
+keywords = ["yoshihito-p-koizumi-by-coincidence"]
 tags = ["Yoshihito “P” Koizumi", "小泉P克人", "Jun Miyakawa", "宮川純", "Kohzo Komori", "小森耕造"]
 categories = ["albums"]
 draft = false

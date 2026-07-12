@@ -2,6 +2,7 @@
 title = "Bungalow: Past Life"
 author = ["Brian McCrory"]
 publishDate = 2018-05-08
+keywords = ["bungalow-past-life"]
 tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false

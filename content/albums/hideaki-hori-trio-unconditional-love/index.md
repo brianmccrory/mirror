@@ -2,6 +2,7 @@
 title = "Hideaki Hori Trio: Unconditional Love"
 author = ["Brian McCrory"]
 publishDate = 2018-08-30
+keywords = ["hideaki-hori-trio-unconditional-love"]
 tags = ["Hideaki Hori", "堀秀彰", "Yuhei Honkawa", "本川悠平", "Gaku Hasegawa", "長谷川ガク"]
 categories = ["albums"]
 draft = false

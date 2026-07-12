@@ -2,6 +2,7 @@
 title = "Aquapit: Aquapit"
 author = ["Brian McCrory"]
 publishDate = 2020-09-19
+keywords = ["aquapit-aquapit"]
 tags = ["Yuta Kaneko", "金子雄太", "Yosuke Onuma", "小沼ようすけ", "Hidenobu “Kalta” Otsuki", "大槻“KALTA”英宣"]
 categories = ["albums"]
 draft = false

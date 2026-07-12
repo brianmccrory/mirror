@@ -2,6 +2,7 @@
 title = "Taihei Asakawa: Catastrophe in Jazz"
 author = ["Brian McCrory"]
 publishDate = 2018-05-22
+keywords = ["taihei-asakawa-catastrophe-in-jazz"]
 tags = ["Taihei Asakawa", "浅川太平", "Shinichi Kato", "加藤真一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false

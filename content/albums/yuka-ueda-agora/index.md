@@ -2,6 +2,7 @@
 title = "Yuka Ueda: Agora"
 author = ["Brian McCrory"]
 publishDate = 2020-04-20
+keywords = ["yuka-ueda-agora"]
 tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ"]
 categories = ["albums"]
 draft = false

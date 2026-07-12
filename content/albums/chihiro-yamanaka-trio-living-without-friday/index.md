@@ -2,6 +2,7 @@
 title = "Chihiro Yamanaka Trio: Living Without Friday"
 author = ["Brian McCrory"]
 publishDate = 2020-02-21
+keywords = ["chihiro-yamanaka-trio-living-without-friday"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false

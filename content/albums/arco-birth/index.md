@@ -2,6 +2,7 @@
 title = "Arco: Birth"
 author = ["Brian McCrory"]
 publishDate = 2020-05-03
+keywords = ["arco-birth"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false

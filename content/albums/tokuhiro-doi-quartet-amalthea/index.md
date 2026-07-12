@@ -2,6 +2,7 @@
 title = "Tokuhiro Doi Quartet: Amalthea"
 author = ["Brian McCrory"]
 publishDate = 2019-01-07
+keywords = ["tokuhiro-doi-quartet-amalthea"]
 tags = ["Tokuhiro Doi", "土井徳浩", "Koichi Sato", "佐藤浩一", "Yuhei Honkawa", "本川悠平", "Tomoyuki Konno", "紺野智之"]
 categories = ["albums"]
 draft = false

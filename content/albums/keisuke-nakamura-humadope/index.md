@@ -2,6 +2,7 @@
 title = "Keisuke Nakamura: Humadope"
 author = ["Brian McCrory"]
 publishDate = 2018-02-12
+keywords = ["keisuke-nakamura-humadope"]
 tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Nishiguchi", "西口明宏", "Akane Matsumoto", "松本茜", "Motoi Kanamori", "金森もとい", "Yasushi Fukumori", "福森康", "Mamoru Ishida", "石田衛", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false

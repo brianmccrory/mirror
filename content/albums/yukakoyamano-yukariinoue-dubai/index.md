@@ -2,6 +2,7 @@
 title = "Yukako Yamano & Yukari Inoue: Dubai Suite"
 author = ["Brian McCrory"]
 publishDate = 2022-01-30
+keywords = ["yukakoyamano-yukariinoue-dubai"]
 tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false

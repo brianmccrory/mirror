@@ -2,6 +2,7 @@
 title = "Hiroco Nagano: Okurimono"
 author = ["Brian McCrory"]
 publishDate = 2018-02-01
+keywords = ["hiroco-nagano-okurimono"]
 tags = ["Hiroco Nagano", "永野寛子", "Seiji Endo", "遠藤征志", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false

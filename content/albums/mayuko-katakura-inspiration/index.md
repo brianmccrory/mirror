@@ -2,6 +2,7 @@
 title = "Mayuko Katakura: Inspiration"
 author = ["Brian McCrory"]
 publishDate = 2018-03-01
+keywords = ["mayuko-katakura-inspiration"]
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carl Allen"]
 categories = ["albums"]
 draft = false

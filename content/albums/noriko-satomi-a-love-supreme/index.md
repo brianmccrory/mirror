@@ -2,6 +2,7 @@
 title = "Noriko Satomi: A Love Supreme"
 author = ["Brian McCrory"]
 publishDate = 2020-01-30
+keywords = ["noriko-satomi-a-love-supreme"]
 tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Shin Kamimura", "上村信", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false

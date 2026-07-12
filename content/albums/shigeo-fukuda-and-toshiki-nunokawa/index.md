@@ -2,6 +2,7 @@
 title = "Shigeo Fukuda & Toshiki Nunokawa: Childhood’s Dream"
 author = ["Brian McCrory"]
 publishDate = 2021-06-14
+keywords = ["shigeo-fukuda-and-toshiki-nunokawa"]
 tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false

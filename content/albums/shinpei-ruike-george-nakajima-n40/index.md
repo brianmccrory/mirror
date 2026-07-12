@@ -2,6 +2,7 @@
 title = "Shinpei Ruike & George Nakajima: N.40°"
 author = ["Brian McCrory"]
 publishDate = 2019-02-12
+keywords = ["shinpei-ruike-george-nakajima-n40"]
 tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false

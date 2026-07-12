@@ -2,6 +2,7 @@
 title = "Seiji Tada: Workout!!"
 author = ["Brian McCrory"]
 publishDate = 2020-01-13
+keywords = ["seiji-tada-workout"]
 tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny Washington"]
 categories = ["albums"]
 draft = false

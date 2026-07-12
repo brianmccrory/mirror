@@ -2,6 +2,7 @@
 title = "Michiyo Matsushita: Sally Gardens"
 author = ["Brian McCrory"]
 publishDate = 2018-10-25
+keywords = ["michiyo-matsushita-sally-gardens"]
 tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false

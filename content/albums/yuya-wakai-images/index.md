@@ -2,6 +2,7 @@
 title = "Yuya Wakai: Images"
 author = ["Brian McCrory"]
 publishDate = 2018-04-26
+keywords = ["yuya-wakai-images"]
 tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false

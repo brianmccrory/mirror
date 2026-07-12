@@ -2,6 +2,7 @@
 title = "Ken’ichiro Shinzawa: Piano Works"
 author = ["Brian McCrory"]
 publishDate = 2018-04-16
+keywords = ["kenichiro-shinzawa-piano-works"]
 tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false

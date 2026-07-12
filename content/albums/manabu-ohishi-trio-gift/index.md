@@ -2,6 +2,7 @@
 title = "Manabu Ohishi Trio: Gift"
 author = ["Brian McCrory"]
 publishDate = 2020-03-09
+keywords = ["manabu-ohishi-trio-gift"]
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false

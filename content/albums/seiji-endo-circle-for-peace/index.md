@@ -2,6 +2,7 @@
 title = "Seiji Endo: Circle for Peace"
 author = ["Brian McCrory"]
 publishDate = 2018-02-18
+keywords = ["seiji-endo-circle-for-peace"]
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false

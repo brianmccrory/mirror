@@ -2,6 +2,7 @@
 title = "Yoshiko Saita: Back in Time to Boston"
 author = ["Brian McCrory"]
 publishDate = 2024-08-02
+keywords = ["yoshiko-saita-back-in-time-to-boston"]
 tags = ["Yoshiko Saita", "斉田佳子", "Kenny Werner", "Grégoire Maret"]
 categories = ["albums"]
 draft = false

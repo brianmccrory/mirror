@@ -2,6 +2,7 @@
 title = "Yuko Miyawaki: Song of Flower"
 author = ["Brian McCrory"]
 publishDate = 2020-03-11
+keywords = ["yuko-miyawaki-song-of-flower"]
 tags = ["Yuko Miyawaki", "宮脇裕子", "Yutaka Handa", "伴田裕", "Taeko Kurita", "栗田妙子", "Yutaka Kaido", "カイドーユタカ", "Masashi Tomikawa", "冨川政嗣", "Junichiro Ohkuchi", "大口純一郎"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Mariko Maeda: Awareness"
 author = ["Brian McCrory"]
 publishDate = 2023-06-09
+keywords = ["mariko-maeda-awareness"]
 tags = ["Mariko Maeda", "前田真梨子", "Kota Kaihori", "海堀弘太", "Yosuke Terao", "寺尾陽介", "Yuto Maseki", "柵木雄斗"]
 categories = ["albums"]
 draft = false

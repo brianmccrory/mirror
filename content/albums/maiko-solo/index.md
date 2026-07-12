@@ -2,6 +2,7 @@
 title = "Maiko: Solo"
 author = ["Brian McCrory"]
 publishDate = 2020-02-28
+keywords = ["maiko-solo"]
 tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false

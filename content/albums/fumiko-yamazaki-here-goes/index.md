@@ -2,6 +2,7 @@
 title = "Fumiko Yamazaki: Here Goes!"
 author = ["Brian McCrory"]
 publishDate = 2021-06-02
+keywords = ["fumiko-yamazaki-here-goes"]
 tags = ["Fumiko Yamazaki", "山崎ふみこ", "Keizo Kawano", "河野啓三", "Shingo Tanaka", "田中晋吾", "Takashi Saito", "齋藤たかし"]
 categories = ["albums"]
 draft = false

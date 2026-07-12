@@ -2,6 +2,7 @@
 title = "Trio Export 63.1.0.X: Small Pieces for Flying Padre"
 author = ["Brian McCrory"]
 publishDate = 2020-02-19
+keywords = ["trio-export-small-pieces-for-flying-padre"]
 tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false

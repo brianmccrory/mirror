@@ -2,6 +2,7 @@
 title = "Seiji Harakawa Quartet: Skipping Down the Street"
 author = ["Brian McCrory"]
 publishDate = 2023-07-14
+keywords = ["seiji-harakawa-quartet-skipping-down"]
 tags = ["Seiji Harakawa", "原川誠司", "Hiroyuki Takubo", "田窪寛之", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false

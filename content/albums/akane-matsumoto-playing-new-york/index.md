@@ -2,6 +2,7 @@
 title = "Akane Matsumoto: Playing New York"
 author = ["Brian McCrory"]
 publishDate = 2019-02-19
+keywords = ["akane-matsumoto-playing-new-york"]
 tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false

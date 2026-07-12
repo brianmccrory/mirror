@@ -2,6 +2,7 @@
 title = "Sanae Ishikawa: Grown-up Christmas Gift"
 author = ["Brian McCrory"]
 publishDate = 2018-12-24
+keywords = ["sanae-ishikawa-grown-up-christmas"]
 tags = ["Sanae Ishikawa", "石川早苗", "Takayoshi Baba", "馬場孝喜", "Hideaki Hori", "堀秀彰", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false

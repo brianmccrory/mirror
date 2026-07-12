@@ -2,6 +2,7 @@
 title = "Reiko Yamamoto: The Square Pyramid"
 author = ["Brian McCrory"]
 publishDate = 2024-06-24
+keywords = ["reiko-yamamoto-square-pyramid"]
 tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ", "Keisuke Furuki", "古木佳祐", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false

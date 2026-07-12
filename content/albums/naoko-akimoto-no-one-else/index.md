@@ -2,6 +2,7 @@
 title = "Naoko Akimoto: No One Else"
 author = ["Brian McCrory"]
 publishDate = 2023-05-15
+keywords = ["naoko-akimoto-no-one-else"]
 tags = ["Naoko Akimoto", "秋元直子", "Seiji Endo", "遠藤征志", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘", "Shinpei Inoue", "井上信平", "Yasuhiro Matsuda", "松田靖弘", "Shinpei Ruike", "類家心平"]
 categories = ["albums"]
 draft = false

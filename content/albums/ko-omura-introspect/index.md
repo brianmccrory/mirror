@@ -2,6 +2,7 @@
 title = "Ko Omura: Introspect"
 author = ["Brian McCrory"]
 publishDate = 2018-07-17
+keywords = ["ko-omura-introspect"]
 tags = ["Hakuei Kim", "ハクエイ・キム", "Koichi Sato", "佐藤浩一", "Mamoru Ishida", "石田衛", "Koji Yasuda", "安田幸司", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false

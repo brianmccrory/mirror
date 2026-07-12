@@ -2,6 +2,7 @@
 title = "Hara Dairiki Trio: You’ve Changed"
 author = ["Brian McCrory"]
 publishDate = 2018-04-12
+keywords = ["hara-dairiki-trio-youve-changed"]
 tags = ["Dairiki Hara", "原大力", "Atsushi Ikeda", "池田篤", "Yasushi Yoneki", "米木康志"]
 categories = ["albums"]
 draft = false

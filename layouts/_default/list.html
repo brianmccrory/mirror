@@ -35,7 +35,7 @@
 {{ $artist := index (where $rows $field .Title) 0 }}
   {{ $isHome := .IsHome }}
   <div class="entry-content md-content">
-  {{ with $artist }}{{ .name }} - {{ if .japanese }}{{ .japanese }} - {{end }} {{ .instrument }} - <a href="{{ .website }}">{{ .website }}</a>{{ end }}
+  {{ with $artist }}{{ .name }} - {{ if .japanese }}{{ .japanese }} - {{end }}{{ .instrument }}{{- if .website }} - <a href="{{ .website }}">{{ .website }}</a>{{ end }}{{ end }}
   </div>
 {{- end }}
 
@@ -52,12 +52,14 @@
 
 {{- $pages := union .RegularPages .Sections }}
 
+{{- $pagerSize := site.Params.pagination.pagerSize }}
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- $pagerSize = site.Params.pagination.pagerSizeHome }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }}
+{{- $paginator := .Paginate $pages $pagerSize }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}

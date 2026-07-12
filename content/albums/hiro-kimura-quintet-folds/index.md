@@ -2,6 +2,7 @@
 title = "Hiro Kimura Quintet: Folds"
 author = ["Brian McCrory"]
 publishDate = 2023-06-16
+keywords = ["hiro-kimura-quintet-folds"]
 tags = ["Hiro Kimura", "木村紘", "Kazuhiko Takeda", "竹田一彦", "Miki Hirose", "広瀬未来", "Naoko Tanaka", "田中菜緒子", "Yuji Ito", "伊藤勇司"]
 categories = ["albums"]
 draft = false

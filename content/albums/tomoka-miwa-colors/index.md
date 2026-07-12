@@ -2,6 +2,7 @@
 title = "Tomoka Miwa: Colors in Silence"
 author = ["Brian McCrory"]
 publishDate = 2018-03-07
+keywords = ["tomoka-miwa-colors"]
 tags = ["Tomoka Miwa", "三輪知可", "Yuichi Narita", "成田祐一", "Daisuke Toi", "トオイダイスケ", "Sebastiaan Kaptein"]
 categories = ["albums"]
 draft = false

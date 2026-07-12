@@ -36,3 +36,10 @@
         grid-template-columns: 1fr;
     }
 }
+
+.figure-number {
+  display: none;
+}
+figcaption {
+  text-align: center;
+}

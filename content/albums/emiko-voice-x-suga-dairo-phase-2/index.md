@@ -2,6 +2,7 @@
 title = "Emiko Voice x Suga Dairo: Phase 2"
 author = ["Brian McCrory"]
 publishDate = 2020-02-26
+keywords = ["emiko-voice-x-suga-dairo-phase-2"]
 tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロー"]
 categories = ["albums"]
 draft = false

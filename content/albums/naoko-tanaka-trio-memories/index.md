@@ -2,6 +2,7 @@
 title = "Naoko Tanaka Trio: Memories"
 author = ["Brian McCrory"]
 publishDate = 2020-10-18
+keywords = ["naoko-tanaka-trio-memories"]
 tags = ["Naoko Tanaka", "田中菜緒子", "Koji Yasuda", "安田幸司", "Masanori Ando", "安藤正則", "Yoshiro Okazaki", "岡崎好朗", "Daiki Yasukagawa", "安ヵ川大樹"]
 categories = ["albums"]
 draft = false

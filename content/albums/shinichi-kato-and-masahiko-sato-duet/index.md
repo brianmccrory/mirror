@@ -2,6 +2,7 @@
 title = "Shinichi Kato & Masahiko Sato: Duet"
 author = ["Brian McCrory"]
 publishDate = 2021-06-07
+keywords = ["shinichi-kato-and-masahiko-sato-duet"]
 tags = ["Shinichi Kato", "加藤真一", "Masahiko Sato", "佐藤允彦"]
 categories = ["albums"]
 draft = false

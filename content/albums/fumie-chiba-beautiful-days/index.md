@@ -2,6 +2,7 @@
 title = "Fumie Chiba: Beautiful Days"
 author = ["Brian McCrory"]
 publishDate = 2021-05-27
+keywords = ["fumie-chiba-beautiful-days"]
 tags = ["Fumie Chiba", "千葉史絵", "Mitsuru Tanaka", "田中充", "Shunosuke Ishikawa", "石川周之介", "Aya Kurosawa", "黒沢綾", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false

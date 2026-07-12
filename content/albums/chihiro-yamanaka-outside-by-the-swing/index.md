@@ -2,6 +2,7 @@
 title = "Chihiro Yamanaka: Outside by the Swing"
 author = ["Brian McCrory"]
 publishDate = 2023-05-11
+keywords = ["chihiro-yamanaka-outside-by-the-swing"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Robert Hurst", "Jeff “Tain” Watts"]
 categories = ["albums"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Takuji Yamada: Lite Blue"
 author = ["Brian McCrory"]
 publishDate = 2018-02-17
+keywords = ["takuji-yamada-lite-blue"]
 tags = ["Takuji Yamada", "山田拓児", "Danny Grissett", "Daisuke Abe", "阿部大輔", "Luques Curtis", "Quincy Davis"]
 categories = ["albums"]
 draft = false

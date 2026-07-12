@@ -2,6 +2,7 @@
 title = "Hideaki Hori Trio: In My Words"
 author = ["Brian McCrory"]
 publishDate = 2020-01-17
+keywords = ["hideaki-hori-trio-in-my-words"]
 tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gene Jackson"]
 categories = ["albums"]
 draft = false

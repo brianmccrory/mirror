@@ -2,6 +2,7 @@
 title = "Sumito Oi: Sumitty & The Funfair"
 author = ["Brian McCrory"]
 publishDate = 2018-03-06
+keywords = ["sumito-oi-sumitty-and-the-funfair"]
 tags = ["Sumito Oi", "大井澄東", "Toyomi Kobayashi", "小林豊美", "Koichi Sato", "佐藤浩一", "Show Kudo", "工藤精"]
 categories = ["albums"]
 draft = false

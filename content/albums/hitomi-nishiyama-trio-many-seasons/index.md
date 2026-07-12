@@ -2,6 +2,7 @@
 title = "Hitomi Nishiyama Trio: Many Seasons"
 author = ["Brian McCrory"]
 publishDate = 2018-02-11
+keywords = ["hitomi-nishiyama-trio-many-seasons"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false

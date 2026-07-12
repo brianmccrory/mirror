@@ -2,6 +2,7 @@
 title = "Reikan Kobayashi: Gakudan Hitori"
 author = ["Brian McCrory"]
 publishDate = 2020-02-13
+keywords = ["reikan-kobayashi-gakudan-hitori"]
 tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false

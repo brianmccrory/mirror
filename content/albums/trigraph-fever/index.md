@@ -2,6 +2,7 @@
 title = "Trigraph: Fever"
 author = ["Brian McCrory"]
 publishDate = 2021-08-27
+keywords = ["trigraph-fever"]
 tags = ["Takayoshi Baba", "馬場孝喜", "Reikan Kobayashi", "小林鈴勘", "Sanae Ishikawa", "石川早苗", "Ryoji Orihara", "織原良次", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false

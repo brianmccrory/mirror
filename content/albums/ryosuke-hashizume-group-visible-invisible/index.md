@@ -2,6 +2,7 @@
 title = "Ryosuke Hashizume Group: Visible/Invisible"
 author = ["Brian McCrory"]
 publishDate = 2019-01-24
+keywords = ["ryosuke-hashizume-group-visible-invisible"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false

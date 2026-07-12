@@ -4,9 +4,11 @@ title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
 
 [permalinks]
-  [permalinks.page]
-    clubs = '/:slug/'
-    # blog = '/blog/:year/:month/:slug/'
+[permalinks.page]
+  clubs = "/:slug/"
+  albums = "/:slug/"
+  guides = "/:slug/"
+  # blog = '/blog/:year/:month/:slug/'
   
 [pagination]
   pagerSize = 30
@@ -108,5 +110,5 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "Subscribe"
-  url = "https://newsletter.jazzofjapan.com"
+  url = "https://www.jazzofjapan.com"
   weight = 8

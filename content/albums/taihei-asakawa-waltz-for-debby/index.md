@@ -5,8 +5,10 @@ publishDate = 2018-12-21
 tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/taihei-asakawa-waltz-for-debby/", "/p/taihei-asakawa-waltz-for-debby/"]
 [cover]
   image = "taiheiasakawa-waltz-460.jpeg"
+  caption = ""
   relative = true
 +++
 

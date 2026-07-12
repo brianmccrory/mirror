@@ -5,8 +5,10 @@ publishDate = 2020-02-03
 tags = ["Azumi", "あづみ", "Sachiko Ikuta", "生田さち子", "Tetsuro Aratama", "荒玉哲郎", "Kengo Komae", "小前賢吾"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/azumi-almost-like-being-in-love/", "/p/azumi-almost-like-being-in-love/"]
 [cover]
   image = "azumi-almostlike-460.jpeg"
+  caption = ""
   relative = true
 +++
 

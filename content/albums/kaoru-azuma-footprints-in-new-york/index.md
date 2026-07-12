@@ -6,8 +6,10 @@ keywords = ["emiko-voice-x-suga-dairo-phase-2", "hiromi-miura-we-dont-know-yet",
 tags = ["Kaoru Azuma", "東かおる", "Scott Reeves", "Mike Holober", "Jesse Forest", "Robinson Morse", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kaoru-azuma-footprints-in-new-york/", "/p/kaoru-azuma-footprints-in-new-york/"]
 [cover]
   image = "kaoru-azuma-footprints-in-new-york-460.jpeg"
+  caption = ""
   relative = true
 +++
 

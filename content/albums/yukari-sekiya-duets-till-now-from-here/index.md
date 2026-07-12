@@ -6,8 +6,10 @@ keywords = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its
 tags = ["Yukari Sekiya", "関谷友加里", "Taiichi Kamimura", "かみむら泰一", "Tsutomu Takei", "武井努", "Yuzumi Tanimukai", "谷向柚美", "Suomi Morishita", "森下周央彌", "Michihiro Morisada", "森定道広", "Megumi Otsuka", "大塚恵", "Masaki Kai", "甲斐正樹", "Jin Mitsuda", "光田じん"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yukari-sekiya-duets-till-now-from-here/", "/p/yukari-sekiya-duets-till-now-from-here/"]
 [cover]
   image = "yukari-sekiya-duets-till-now-from-here-460.jpeg"
+  caption = ""
   relative = true
 +++
 

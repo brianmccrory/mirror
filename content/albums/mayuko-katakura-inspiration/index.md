@@ -5,8 +5,10 @@ publishDate = 2018-03-01
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carl Allen"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/mayuko-katakura-inspiration/", "/p/mayuko-katakura-inspiration/"]
 [cover]
   image = "mayukokatakura-inspiration-460.jpeg"
+  caption = ""
   relative = true
 +++
 

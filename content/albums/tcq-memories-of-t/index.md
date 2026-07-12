@@ -5,8 +5,10 @@ publishDate = 2020-11-07
 tags = ["Shawna Yang", "Naoko Tanaka", "田中菜緒子", "Daiki Yasukagawa", "安ヵ川大樹", "Takeshi Sakamoto", "坂本健志"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/tcq-memories-of-t/", "/p/tcq-memories-of-t/"]
 [cover]
   image = "tcq-memoriesoft-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2020-01-26
 tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "Koichi Sato", "佐藤浩一", "Hiroki Chiba", "千葉広樹", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/rabbitoo-national-anthem-of-unknown/", "/p/rabbitoo-national-anthem-of-unknown/"]
 [cover]
   image = "rabbitoo-national-460.jpeg"
+  caption = ""
   relative = true
 +++
 

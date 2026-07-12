@@ -5,8 +5,10 @@ publishDate = 2020-04-04
 tags = ["Harumi Nomoto", "野本晴美", "Noboru Ando", "安東昇", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/harumi-nomoto-trio-belinda/", "/p/harumi-nomoto-trio-belinda/"]
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
+  caption = ""
   relative = true
 +++
 

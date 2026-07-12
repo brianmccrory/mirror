@@ -6,8 +6,10 @@ keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Motohiko Ichino", "市野元彦", "Kyrie Anderson", "キリー・アンダーソン", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sumire-kuribayashi-orbital-resonance/", "/p/sumire-kuribayashi-orbital-resonance/"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
+  caption = ""
   relative = true
 +++
 

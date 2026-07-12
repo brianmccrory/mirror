@@ -5,8 +5,10 @@ publishDate = 2018-10-15
 tags = ["Sayaka Kishi", "岸淑香", "Satoshi Kohno", "鴻野暁司", "Yoshihiro Nakagawa", "中川喜博"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sayaketts-colors/", "/p/sayaketts-colors/"]
 [cover]
   image = "sayaketts-colors-460.jpeg"
+  caption = ""
   relative = true
 +++
 

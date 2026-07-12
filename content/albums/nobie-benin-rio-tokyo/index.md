@@ -5,8 +5,10 @@ publishDate = 2019-08-15
 tags = ["Nobie", "ノビー", "Lionel Loueke", "Toninho Horta", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/nobie-benin-rio-tokyo/", "/p/nobie-benin-rio-tokyo/"]
 [cover]
   image = "nobie-benin-460.jpeg"
+  caption = ""
   relative = true
 +++
 

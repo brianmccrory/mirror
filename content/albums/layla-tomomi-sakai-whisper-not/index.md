@@ -5,8 +5,10 @@ publishDate = 2021-03-08
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/layla-tomomi-sakai-whisper-not/", "/p/layla-tomomi-sakai-whisper-not/"]
 [cover]
   image = "layla-tomomi-sakai-whisper-460.jpeg"
+  caption = ""
   relative = true
 +++
 

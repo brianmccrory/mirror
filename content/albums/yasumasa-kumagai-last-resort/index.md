@@ -6,8 +6,10 @@ keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "mi
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Miki Hirose", "広瀬未来", "Keisuke Furuki", "古木佳祐", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yasumasa-kumagai-last-resort/", "/p/yasumasa-kumagai-last-resort/"]
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
+  caption = ""
   relative = true
 +++
 

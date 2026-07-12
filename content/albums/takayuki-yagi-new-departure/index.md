@@ -5,8 +5,10 @@ publishDate = 2021-01-19
 tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/takayuki-yagi-new-departure/", "/p/takayuki-yagi-new-departure/"]
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
+  caption = ""
   relative = true
 +++
 

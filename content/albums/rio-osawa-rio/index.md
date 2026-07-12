@@ -6,8 +6,10 @@ keywords = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-c
 tags = ["Rio Osawa", "大澤理央", "Yuichiro Hiraoka", "平岡遊一郎", "Gustavo Anacleto", "Francis Silva", "Norihito Nagasawa", "長澤紀仁", "Matsumonica", "マツモニカ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/rio-osawa-rio/", "/p/rio-osawa-rio/"]
 [cover]
   image = "rio-osawa-rio-460.jpeg"
+  caption = ""
   relative = true
 +++
 

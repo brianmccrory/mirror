@@ -6,8 +6,10 @@ keywords = ["fumio-karashima-trio-its-just-beginning"]
 tags = ["Fumio Karashima", "辛島文雄", "Jack DeJohnette", "Drew Gress"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/fumio-karashima-great-time/", "/p/fumio-karashima-great-time/"]
 [cover]
   image = "fumio-karashima-great-time-460.jpeg"
+  caption = ""
   relative = true
 +++
 

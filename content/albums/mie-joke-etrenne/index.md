@@ -5,8 +5,10 @@ publishDate = 2019-10-16
 tags = ["Mie Joké", "情家みえ", "Tsuyoshi Yamamoto", "山本剛", "Hiroshi Kagawa", "香川裕史", "Toshio Osumi", "大隅寿男", "Koji Goto", "後藤浩二", "Satsuki Kusui", "楠井五月", "Akira Yamada", "山田玲", "Wataru Hamasaki", "浜崎航"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/mie-joke-etrenne/", "/p/mie-joke-etrenne/"]
 [cover]
   image = "miejoke-etrenne-460.jpeg"
+  caption = ""
   relative = true
 +++
 

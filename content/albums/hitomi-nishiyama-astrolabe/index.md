@@ -6,8 +6,10 @@ keywords = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-pa
 tags = ["Hitomi Nishiyama", "西山瞳", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hitomi-nishiyama-astrolabe/", "/p/hitomi-nishiyama-astrolabe/"]
 [cover]
   image = "hitomi-nishiyama-astrolabe-460.jpeg"
+  caption = ""
   relative = true
 +++
 

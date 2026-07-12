@@ -5,8 +5,10 @@ publishDate = 2024-12-04
 tags = ["guides", "premium"]
 categories = ["guides"]
 draft = false
+aliases = ["/archive/ten-top-10s-for-live-jazz-in-tokyo/", "/p/ten-top-10s-for-live-jazz-in-tokyo/"]
 [cover]
   image = "IMG_20190629_212549307-1200.jpeg"
+  caption = ""
   relative = true
 +++
 

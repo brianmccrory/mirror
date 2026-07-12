@@ -5,8 +5,10 @@ publishDate = 2018-05-08
 tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/bungalow-past-life/", "/p/bungalow-past-life/"]
 [cover]
   image = "bungalow-pastlife-460.jpeg"
+  caption = ""
   relative = true
 +++
 

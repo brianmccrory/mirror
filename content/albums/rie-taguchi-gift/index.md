@@ -5,8 +5,10 @@ publishDate = 2018-02-21
 tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada", "多田誠司", "Noriko Satomi", "里見紀子", "Mitsukuni Tanabe", "田辺充邦", "Yusuke Nakaishi", "仲石裕介", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/rie-taguchi-gift/", "/p/rie-taguchi-gift/"]
 [cover]
   image = "rietaguchi-gift-460.jpeg"
+  caption = ""
   relative = true
 +++
 

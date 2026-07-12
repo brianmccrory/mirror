@@ -5,8 +5,10 @@ publishDate = 2018-04-16
 tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kenichiro-shinzawa-piano-works/", "/p/kenichiro-shinzawa-piano-works/"]
 [cover]
   image = "kenichiroshinzawa-pianoworks-460.jpeg"
+  caption = ""
   relative = true
 +++
 

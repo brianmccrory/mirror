@@ -6,8 +6,10 @@ keywords = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voic
 tags = ["Taiichi Kamimura", "かみむら泰一", "Norikatsu Koreyasu", "是安則克", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ochikochi-ochikochi/", "/p/ochikochi-ochikochi/"]
 [cover]
   image = "ochikochi-ochikochi-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["magnolia-el-viento-y-las-flores"]
 tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹", "Hiroshi Suzuki", "鈴木広志", "Megumi Hattori", "服部恵", "Eri Uenoyama", "上野山英里"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hitomi-aikawa-sweet/", "/p/hitomi-aikawa-sweet/"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
+  caption = ""
   relative = true
 +++
 

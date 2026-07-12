@@ -5,8 +5,10 @@ publishDate = 2020-03-03
 tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yukari-inoue-sakura/", "/p/yukari-inoue-sakura/"]
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
+  caption = ""
   relative = true
 +++
 

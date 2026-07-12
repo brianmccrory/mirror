@@ -5,8 +5,10 @@ publishDate = 2020-01-07
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/nhorhm-extra-edition/", "/p/nhorhm-extra-edition/"]
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
+  caption = ""
   relative = true
 +++
 

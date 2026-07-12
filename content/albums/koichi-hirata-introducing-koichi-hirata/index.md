@@ -6,8 +6,10 @@ keywords = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-r
 tags = ["Koichi Hirata", "平田晃一", "Mamoru Ishida", "石田衛", "Yutaka Yoshida", "吉田豊", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/koichi-hirata-introducing-koichi-hirata/", "/p/koichi-hirata-introducing-koichi-hirata/"]
 [cover]
   image = "koichi-hirata-introducing-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2022-01-30
 tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yukakoyamano-yukariinoue-dubai/", "/p/yukakoyamano-yukariinoue-dubai/"]
 [cover]
   image = "yukakoyamano-dubai-460.jpeg"
+  caption = ""
   relative = true
 +++
 

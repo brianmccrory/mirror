@@ -6,8 +6,10 @@ keywords = ["ayumi-koketsu-rainbow-tales"]
 tags = ["Ayumi Koketsu", "纐纈歩美", "Jeremy Manasia", "Mike Karn", "Mark Taylor"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ayumi-koketsu-art/", "/p/ayumi-koketsu-art/"]
 [cover]
   image = "ayumikoketsu-art-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2018-08-08
 tags = ["Yukako Yamano", "山野友佳子", "Koichi Osamu", "納浩一", "Manabu Fujii", "藤井学"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yukako-yamano-1st-stage/", "/p/yukako-yamano-1st-stage/"]
 [cover]
   image = "yukakoyamano-first-460.jpeg"
+  caption = ""
   relative = true
 +++
 

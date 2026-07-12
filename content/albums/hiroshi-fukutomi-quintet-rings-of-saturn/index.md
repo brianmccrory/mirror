@@ -6,8 +6,10 @@ keywords = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-
 tags = ["Hiroshi Fukutomi", "福冨博", "Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ryo Shibata", "柴田亮"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hiroshi-fukutomi-quintet-rings-of-saturn/", "/p/hiroshi-fukutomi-quintet-rings-of-saturn/"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
+  caption = ""
   relative = true
 +++
 

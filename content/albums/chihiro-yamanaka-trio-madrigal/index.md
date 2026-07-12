@@ -5,8 +5,10 @@ publishDate = 2021-03-14
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/chihiro-yamanaka-trio-madrigal/", "/p/chihiro-yamanaka-trio-madrigal/"]
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
+  caption = ""
   relative = true
 +++
 

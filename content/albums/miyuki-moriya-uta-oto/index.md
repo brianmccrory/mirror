@@ -6,8 +6,10 @@ keywords = ["miyuki-moriya-cats-cradle"]
 tags = ["Miyuki Moriya", "守谷美由貴", "Nobumasa Tanaka", "田中信正", "Hiroshi Yoshino", "吉野弘志"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/miyuki-moriya-uta-oto/", "/p/miyuki-moriya-uta-oto/"]
 [cover]
   image = "miyuki-moriya-uta-oto-460.jpeg"
+  caption = ""
   relative = true
 +++
 

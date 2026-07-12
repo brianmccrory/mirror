@@ -5,8 +5,10 @@ publishDate = 2018-03-07
 tags = ["Tomoka Miwa", "三輪知可", "Yuichi Narita", "成田祐一", "Daisuke Toi", "トオイダイスケ", "Sebastiaan Kaptein"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/tomoka-miwa-colors/", "/p/tomoka-miwa-colors/"]
 [cover]
   image = "tomokamiwa-colors-460.jpeg"
+  caption = ""
   relative = true
 +++
 

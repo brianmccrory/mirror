@@ -5,8 +5,10 @@ publishDate = 2019-02-12
 tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/shinpei-ruike-george-nakajima-n40/", "/p/shinpei-ruike-george-nakajima-n40/"]
 [cover]
   image = "ruike-nakajima-n40-460.jpeg"
+  caption = ""
   relative = true
 +++
 

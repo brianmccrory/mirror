@@ -6,8 +6,10 @@ keywords = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-
 tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yukako-yamano-imperial/", "/p/yukako-yamano-imperial/"]
 [cover]
   image = "yukakoyamano-imperial-460.jpeg"
+  caption = ""
   relative = true
 +++
 

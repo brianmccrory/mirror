@@ -6,8 +6,10 @@ keywords = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-h
 tags = ["Takumi Seino", "清野拓巳", "Motohiko Ichino", "市野元彦"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/takumi-seino-motohiko-ichino-frozen-dust/", "/p/takumi-seino-motohiko-ichino-frozen-dust/"]
 [cover]
   image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
+  caption = ""
   relative = true
 +++
 

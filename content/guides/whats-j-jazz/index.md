@@ -5,8 +5,10 @@ publishDate = 2023-12-16
 tags = ["guides", "premium"]
 categories = ["guides"]
 draft = false
+aliases = ["/archive/whats-j-jazz/", "/p/whats-j-jazz/"]
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
+  caption = ""
   relative = true
 +++
 

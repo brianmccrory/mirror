@@ -5,8 +5,10 @@ publishDate = 2019-02-19
 tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/akane-matsumoto-playing-new-york/", "/p/akane-matsumoto-playing-new-york/"]
 [cover]
   image = "akanematsumoto-playing-460.jpeg"
+  caption = ""
   relative = true
 +++
 

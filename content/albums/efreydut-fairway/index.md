@@ -6,8 +6,10 @@ keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-
 tags = ["Mikiko Nagatake", "永武幹子", "Ko Omura", "大村亘", "Kanoa Mendenhall"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/efreydut-fairway/", "/p/efreydut-fairway/"]
 [cover]
   image = "efreydut-fairway-460.jpeg"
+  caption = ""
   relative = true
 +++
 

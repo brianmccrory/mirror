@@ -5,8 +5,10 @@ publishDate = 2018-10-25
 tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/michiyo-matsushita-sally-gardens/", "/p/michiyo-matsushita-sally-gardens/"]
 [cover]
   image = "michiyomatsushita-sally-460.jpeg"
+  caption = ""
   relative = true
 +++
 

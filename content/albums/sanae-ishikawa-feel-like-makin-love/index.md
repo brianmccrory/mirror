@@ -5,8 +5,10 @@ publishDate = 2018-05-10
 tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ", "Satoshi Kosugi", "小杉敏", "Cecil Monroe"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sanae-ishikawa-feel-like-makin-love/", "/p/sanae-ishikawa-feel-like-makin-love/"]
 [cover]
   image = "sanaeishikawa-feellike-460.jpeg"
+  caption = ""
   relative = true
 +++
 

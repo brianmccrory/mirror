@@ -5,8 +5,10 @@ publishDate = 2018-01-30
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ryosuke-hashizume-group-incomplete-voices/", "/p/ryosuke-hashizume-group-incomplete-voices/"]
 [cover]
   image = "ryosukehashizume-incompletevoices-460.jpeg"
+  caption = ""
   relative = true
 +++
 

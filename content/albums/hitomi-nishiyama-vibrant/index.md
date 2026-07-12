@@ -5,8 +5,10 @@ publishDate = 2023-06-23
 tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hitomi-nishiyama-vibrant/", "/p/hitomi-nishiyama-vibrant/"]
 [cover]
   image = "hitomi-nishiyama-vibrant-460.jpeg"
+  caption = ""
   relative = true
 +++
 

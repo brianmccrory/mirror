@@ -5,8 +5,10 @@ publishDate = 2018-03-06
 tags = ["Sumito Oi", "大井澄東", "Toyomi Kobayashi", "小林豊美", "Koichi Sato", "佐藤浩一", "Show Kudo", "工藤精"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sumito-oi-sumitty-and-the-funfair/", "/p/sumito-oi-sumitty-and-the-funfair/"]
 [cover]
   image = "sumito-oi-funfair-460.jpeg"
+  caption = ""
   relative = true
 +++
 

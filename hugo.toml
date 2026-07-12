@@ -3,6 +3,11 @@ locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
 
+[permalinks]
+  [permalinks.page]
+    clubs = '/:slug/'
+    # blog = '/blog/:year/:month/:slug/'
+  
 [pagination]
   pagerSize = 30
 
@@ -58,18 +63,18 @@ theme = "PaperMod"
 #   name = "Posts"
 #   url = "/posts/"
 #   weight = 1
-[[menu.main]]
-  name = "Albums"
-  url = "/albums/"
-  weight = 1
-[[menu.main]]
-  name = "Clubs"
-  url = "/clubs/"
-  weight = 1
-[[menu.main]]
-  name = "Guides"
-  url = "/guides/"
-  weight = 1
+# [[menu.main]]
+#   name = "Albums"
+#   url = "/albums/"
+#   weight = 1
+# [[menu.main]]
+#   name = "Scenes"
+#   url = "/scenes/"
+#   weight = 1
+# [[menu.main]]
+#   name = "Guides"
+#   url = "/guides/"
+#   weight = 1
 
 # [[menu.main]]
 #   name = "Series"
@@ -81,14 +86,14 @@ theme = "PaperMod"
   url = "/categories/"
   weight = 3
 
-# [[menu.main]]
-#   name = "Tags"
-#   url = "/tags/"
-#   weight = 4
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 4
 
 [[menu.main]]
-  name = "Archives"
-  url = "/archives/"
+  name = "Archive"
+  url = "/archive/"
   weight = 5
 
 # [[menu.main]]
@@ -100,3 +105,8 @@ theme = "PaperMod"
   name = "About"
   url = "/about/"
   weight = 7
+
+[[menu.main]]
+  name = "Subscribe"
+  url = "https://newsletter.jazzofjapan.com"
+  weight = 8

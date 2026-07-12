@@ -5,8 +5,10 @@ publishDate = 2018-11-06
 tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshitaka Yamashita", "山下佳孝"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/trispace-trispace/", "/p/trispace-trispace/"]
 [cover]
   image = "trispace-trispace-460.jpeg"
+  caption = ""
   relative = true
 +++
 

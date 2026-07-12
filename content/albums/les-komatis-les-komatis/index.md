@@ -5,8 +5,10 @@ publishDate = 2018-03-28
 tags = ["Nobie", "ノビー", "Akemi Ohta", "太田朱美", "Mayuko Katakura", "片倉真由子", "Nobumasa Yamada", "山田ノブマサ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/les-komatis-les-komatis/", "/p/les-komatis-les-komatis/"]
 [cover]
   image = "leskomatis-leskomatis-460.jpeg"
+  caption = ""
   relative = true
 +++
 

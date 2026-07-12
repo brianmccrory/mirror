@@ -6,8 +6,10 @@ keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-thing
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Koichi Sato", "佐藤浩一"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ryosuke-hashizume-group-acoustic/", "/p/ryosuke-hashizume-group-acoustic/"]
 [cover]
   image = "ryosukehashizume-acoustic-460.jpeg"
+  caption = ""
   relative = true
 +++
 

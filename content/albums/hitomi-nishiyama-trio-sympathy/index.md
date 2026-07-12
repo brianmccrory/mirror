@@ -5,8 +5,10 @@ publishDate = 2019-06-20
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hitomi-nishiyama-trio-sympathy/", "/p/hitomi-nishiyama-trio-sympathy/"]
 [cover]
   image = "hitominishiyama-sympathy-460.jpeg"
+  caption = ""
   relative = true
 +++
 

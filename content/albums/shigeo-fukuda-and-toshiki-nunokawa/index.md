@@ -5,8 +5,10 @@ publishDate = 2021-06-14
 tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/shigeo-fukuda-and-toshiki-nunokawa/", "/p/shigeo-fukuda-and-toshiki-nunokawa/"]
 [cover]
   image = "fukuda-nunokawa-childhood-460.jpeg"
+  caption = ""
   relative = true
 +++
 

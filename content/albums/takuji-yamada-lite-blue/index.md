@@ -5,8 +5,10 @@ publishDate = 2018-02-17
 tags = ["Takuji Yamada", "山田拓児", "Danny Grissett", "Daisuke Abe", "阿部大輔", "Luques Curtis", "Quincy Davis"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/takuji-yamada-lite-blue/", "/p/takuji-yamada-lite-blue/"]
 [cover]
   image = "takujiyamada-liteblue-460.jpeg"
+  caption = ""
   relative = true
 +++
 

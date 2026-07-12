@@ -5,8 +5,10 @@ publishDate = 2024-06-24
 tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ", "Keisuke Furuki", "古木佳祐", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/reiko-yamamoto-square-pyramid/", "/p/reiko-yamamoto-square-pyramid/"]
 [cover]
   image = "reiko-yamamoto-square-pyramid-460.jpeg"
+  caption = ""
   relative = true
 +++
 

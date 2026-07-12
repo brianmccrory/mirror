@@ -6,8 +6,10 @@ keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-
 tags = ["Davy Mooney", "Ko Omura", "大村亘", "John Ellis", "Glenn Zaleski", "Matt Clohesy"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/davy-mooney-ko-omura-the-word/", "/p/davy-mooney-ko-omura-the-word/"]
 [cover]
   image = "davy-mooney-ko-omura-the-word-460.jpeg"
+  caption = ""
   relative = true
 +++
 

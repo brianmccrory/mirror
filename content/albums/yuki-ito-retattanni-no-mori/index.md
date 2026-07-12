@@ -6,8 +6,10 @@ keywords = ["toshihiko-inoue-vayu", "maiko-solo"]
 tags = ["Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yuki-ito-retattanni-no-mori/", "/p/yuki-ito-retattanni-no-mori/"]
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
+  caption = ""
   relative = true
 +++
 

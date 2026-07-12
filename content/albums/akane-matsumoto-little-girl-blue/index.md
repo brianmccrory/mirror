@@ -6,8 +6,10 @@ keywords = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you
 tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/akane-matsumoto-little-girl-blue/", "/p/akane-matsumoto-little-girl-blue/"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
+  caption = ""
   relative = true
 +++
 

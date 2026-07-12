@@ -5,8 +5,10 @@ publishDate = 2020-02-13
 tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/reikan-kobayashi-gakudan-hitori/", "/p/reikan-kobayashi-gakudan-hitori/"]
 [cover]
   image = "reikankobayashi-gakudan-460.jpeg"
+  caption = ""
   relative = true
 +++
 

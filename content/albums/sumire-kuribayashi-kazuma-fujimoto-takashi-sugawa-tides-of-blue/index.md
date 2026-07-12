@@ -6,8 +6,10 @@ keywords = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-co
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一馬", "Takashi Sugawa", "須川崇志"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue/", "/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue/"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2018-04-02
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carmen Intorre Jr."]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/mayuko-katakura-echoes-of-three/", "/p/mayuko-katakura-echoes-of-three/"]
 [cover]
   image = "mayukokatakura-echoes-460.jpeg"
+  caption = ""
   relative = true
 +++
 

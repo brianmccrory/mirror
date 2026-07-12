@@ -6,8 +6,10 @@ keywords = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "m
 tags = ["Mabumi Yamaguchi", "山口真文", "Mayuko Katakura", "片倉真由子", "Ryohei Komaki", "小牧良平", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/mabumi-yamaguchi-viento/", "/p/mabumi-yamaguchi-viento/"]
 [cover]
   image = "mabumi-yamaguchi-viento-460.jpeg"
+  caption = ""
   relative = true
 +++
 

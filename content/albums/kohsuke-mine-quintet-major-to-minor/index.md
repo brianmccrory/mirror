@@ -5,8 +5,10 @@ publishDate = 2020-08-19
 tags = ["Kosuke Mine", "峰厚介", "Kazumasa Akiyama", "秋山一将", "Junichiro Ohkuchi", "大口純一郎", "Tsutomu Okada", "岡田勉", "Ryojiro Furusawa", "古澤良治郎"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kohsuke-mine-quintet-major-to-minor/", "/p/kohsuke-mine-quintet-major-to-minor/"]
 [cover]
   image = "kohsukemine-major-460.jpeg"
+  caption = ""
   relative = true
 +++
 

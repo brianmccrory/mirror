@@ -5,8 +5,10 @@ publishDate = 2022-07-19
 tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tommy Campbell", "Masayuki Tawarayama", "俵山昌之", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/harumi-nomoto-trio-another-ordinary-day/", "/p/harumi-nomoto-trio-another-ordinary-day/"]
 [cover]
   image = "haruminomoto-another-460.jpeg"
+  caption = ""
   relative = true
 +++
 

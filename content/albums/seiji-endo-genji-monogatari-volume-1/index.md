@@ -5,8 +5,10 @@ publishDate = 2019-07-16
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/seiji-endo-genji-monogatari-volume-1/", "/p/seiji-endo-genji-monogatari-volume-1/"]
 [cover]
   image = "seijiendo-genji-460.jpeg"
+  caption = ""
   relative = true
 +++
 

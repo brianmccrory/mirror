@@ -5,8 +5,10 @@ publishDate = 2018-01-31
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/arco-asymmetry/", "/p/arco-asymmetry/"]
 [cover]
   image = "arco-asymmetry-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2018-07-27
 tags = ["Takako Yamada", "山田貴子", "Shinpei Ruike", "類家心平", "Teriver Cheung", "Koji Yasuda", "安田幸司", "Gaku Hasegawa", "長谷川ガク", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/takako-yamada-flow-of-time/", "/p/takako-yamada-flow-of-time/"]
 [cover]
   image = "takakoyamada-flow-460.jpeg"
+  caption = ""
   relative = true
 +++
 

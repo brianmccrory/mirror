@@ -5,8 +5,10 @@ publishDate = 2020-08-13
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/chihiro-yamanaka-trio-when-october/", "/p/chihiro-yamanaka-trio-when-october/"]
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
+  caption = ""
   relative = true
 +++
 

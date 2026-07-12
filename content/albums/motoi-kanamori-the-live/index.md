@@ -6,8 +6,10 @@ keywords = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "sh
 tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Taishi Sakurai", "桜井大士", "Chie Hasegawa", "長谷川智恵", "Megumi Ozawa", "小澤恵", "Atsushi Hashimoto", "橋本專史"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/motoi-kanamori-the-live/", "/p/motoi-kanamori-the-live/"]
 [cover]
   image = "motoi-kanamori-the-live-460.jpeg"
+  caption = ""
   relative = true
 +++
 

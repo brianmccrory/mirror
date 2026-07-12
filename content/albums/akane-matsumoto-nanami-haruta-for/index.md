@@ -5,8 +5,10 @@ publishDate = 2023-07-21
 tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/akane-matsumoto-nanami-haruta-for/", "/p/akane-matsumoto-nanami-haruta-for/"]
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
+  caption = ""
   relative = true
 +++
 

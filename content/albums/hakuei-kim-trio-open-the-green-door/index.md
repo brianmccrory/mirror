@@ -5,8 +5,10 @@ publishDate = 2018-09-05
 tags = ["Hakuei Kim", "ハクエイ・キム", "Ben “Donny” Waples", "Dave Goodman"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hakuei-kim-trio-open-the-green-door/", "/p/hakuei-kim-trio-open-the-green-door/"]
 [cover]
   image = "hakueikim-open-460.jpeg"
+  caption = ""
   relative = true
 +++
 

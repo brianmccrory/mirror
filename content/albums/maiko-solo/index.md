@@ -5,8 +5,10 @@ publishDate = 2020-02-28
 tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/maiko-solo/", "/p/maiko-solo/"]
 [cover]
   image = "maiko-solo-460.jpeg"
+  caption = ""
   relative = true
 +++
 

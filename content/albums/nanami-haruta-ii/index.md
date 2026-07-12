@@ -6,8 +6,10 @@ keywords = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-
 tags = ["Nanami Haruta", "治田七海", "Akihiro Yoshimoto", "吉本章紘", "Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/nanami-haruta-ii/", "/p/nanami-haruta-ii/"]
 [cover]
   image = "nanami-haruta-ii-460.jpeg"
+  caption = ""
   relative = true
 +++
 

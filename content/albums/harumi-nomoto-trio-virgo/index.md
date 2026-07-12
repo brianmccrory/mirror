@@ -5,8 +5,10 @@ publishDate = 2019-04-03
 tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔", "Makiko Sugawara", "菅原牧子", "Nao Sakamoto", "坂本直"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/harumi-nomoto-trio-virgo/", "/p/harumi-nomoto-trio-virgo/"]
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
+  caption = ""
   relative = true
 +++
 

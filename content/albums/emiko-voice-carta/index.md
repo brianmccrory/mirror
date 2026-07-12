@@ -5,8 +5,10 @@ publishDate = 2018-01-30
 tags = ["Emiko Voice", "エミコヴォイス", "Koichi Sato", "佐藤浩一", "Akemi Ohta", "太田朱美", "Momoko Aida", "会田桃子", "Akira Tanidono", "谷殿明良", "Toru Nishijima", "西嶋徹", "Keita Okada", "岡田ケイタ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/emiko-voice-carta/", "/p/emiko-voice-carta/"]
 [cover]
   image = "emikovoice-carta-square-460.jpeg"
+  caption = ""
   relative = true
 +++
 

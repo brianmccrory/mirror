@@ -5,8 +5,10 @@ publishDate = 2019-01-14
 tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/maki-fujimura-best-wishes/", "/p/maki-fujimura-best-wishes/"]
 [cover]
   image = "makifujimura-best-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2023-07-07
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Nanami Haruta", "治田七海", "Raiga Hayashi", "林頼我", "Makoto Togashi", "冨樫マコト"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/akihiro-yoshimoto-quartet-64-charlesgate/", "/p/akihiro-yoshimoto-quartet-64-charlesgate/"]
 [cover]
   image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
+  caption = ""
   relative = true
 +++
 

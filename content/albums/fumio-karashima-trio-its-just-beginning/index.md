@@ -5,8 +5,10 @@ publishDate = 2020-02-12
 tags = ["Fumio Karashima", "辛島文雄", "Yosuke Inoue", "井上陽介", "Shingo Okudaira", "奥平慎吾"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/fumio-karashima-trio-its-just-beginning/", "/p/fumio-karashima-trio-its-just-beginning/"]
 [cover]
   image = "fumiokarashima-beginning-460.jpeg"
+  caption = ""
   relative = true
 +++
 

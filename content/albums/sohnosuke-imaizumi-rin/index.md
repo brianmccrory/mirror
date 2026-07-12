@@ -5,8 +5,10 @@ publishDate = 2018-02-27
 tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和広", "Kazuhiro Tamura", "田村和大", "BLAHMUZIK", "ブラムジック"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sohnosuke-imaizumi-rin/", "/p/sohnosuke-imaizumi-rin/"]
 [cover]
   image = "sohnosukeimaizumi-rin-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2018-12-02
 tags = ["Fumie Chiba", "千葉史絵", "Koichi Kuniwake", "国分航一", "Shigehito Kawamura", "川村成史"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/fumie-chiba-trio-tip-of-dream/", "/p/fumie-chiba-trio-tip-of-dream/"]
 [cover]
   image = "fumiechiba-tip-460.jpeg"
+  caption = ""
   relative = true
 +++
 

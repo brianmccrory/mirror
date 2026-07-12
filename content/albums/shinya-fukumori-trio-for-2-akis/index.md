@@ -6,8 +6,10 @@ keywords = ["koichi-sato-embryo"]
 tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/shinya-fukumori-trio-for-2-akis/", "/p/shinya-fukumori-trio-for-2-akis/"]
 [cover]
   image = "shinya-fukumori-trio-for-2-akis-460.jpeg"
+  caption = ""
   relative = true
 +++
 

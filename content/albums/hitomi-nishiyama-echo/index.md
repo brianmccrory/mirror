@@ -6,8 +6,10 @@ keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-i
 tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Noritake", "則武諒", "Takanori Suzuki", "鈴木孝紀", "Ryosuke Hashizume", "橋爪亮督", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hitomi-nishiyama-echo/", "/p/hitomi-nishiyama-echo/"]
 [cover]
   image = "hitomi-nishiyama-echo-460.jpeg"
+  caption = ""
   relative = true
 +++
 

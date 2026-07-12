@@ -5,8 +5,10 @@ publishDate = 2020-03-09
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/manabu-ohishi-trio-gift/", "/p/manabu-ohishi-trio-gift/"]
 [cover]
   image = "manabuohishi-gift-460.jpeg"
+  caption = ""
   relative = true
 +++
 

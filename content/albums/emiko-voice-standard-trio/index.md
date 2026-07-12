@@ -6,8 +6,10 @@ keywords = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-co
 tags = ["Emiko Voice", "エミコヴォイス", "Keisuke Ohta", "太田惠資", "Atsushi Abe", "阿部篤志"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/emiko-voice-standard-trio/", "/p/emiko-voice-standard-trio/"]
 [cover]
   image = "emiko-voice-standard-trio-460.jpeg"
+  caption = ""
   relative = true
 +++
 

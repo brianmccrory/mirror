@@ -5,8 +5,10 @@ publishDate = 2018-04-19
 tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor Lewis"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/miki-hayama-trio-wide-angle/", "/p/miki-hayama-trio-wide-angle/"]
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
+  caption = ""
   relative = true
 +++
 

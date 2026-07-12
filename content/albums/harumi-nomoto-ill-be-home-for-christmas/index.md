@@ -6,8 +6,10 @@ keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belin
 tags = ["Harumi Nomoto", "野本晴美"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/harumi-nomoto-ill-be-home-for-christmas/", "/p/harumi-nomoto-ill-be-home-for-christmas/"]
 [cover]
   image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
+  caption = ""
   relative = true
 +++
 

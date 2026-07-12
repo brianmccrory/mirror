@@ -6,8 +6,10 @@ keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-
 tags = ["Toshihiko Inoue", "井上淑彦", "Yoshiaki Sato", "佐藤芳明", "Masaki Hayashi", "林正樹", "Saori Sendo", "仙道さおり"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/clepsydra-un-jour/", "/p/clepsydra-un-jour/"]
 [cover]
   image = "clepsydra-un-jour-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 tags = ["Koichi Sato", "佐藤浩一", "Motohiko Ichino", "市野元彦", "Masaki Kai", "甲斐正樹", "Shinya Fukumori", "福盛進也", "Aya Ito", "伊藤彩", "Yuko Kajitani", "梶谷裕子", "Atsuki Yoshida", "吉田篤貴", "Robin Dupuy", "Zeze Wakamatsu"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/koichi-sato-embryo/", "/p/koichi-sato-embryo/"]
 [cover]
   image = "koichi-sato-embryo-460.jpeg"
+  caption = ""
   relative = true
 +++
 

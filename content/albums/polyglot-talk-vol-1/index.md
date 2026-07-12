@@ -6,8 +6,10 @@ keywords = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past
 tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘", "Hiroyuki Ishikawa", "石川広行"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/polyglot-talk-vol-1/", "/p/polyglot-talk-vol-1/"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
+  caption = ""
   relative = true
 +++
 

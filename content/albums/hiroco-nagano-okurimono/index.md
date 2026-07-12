@@ -5,8 +5,10 @@ publishDate = 2018-02-01
 tags = ["Hiroco Nagano", "永野寛子", "Seiji Endo", "遠藤征志", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hiroco-nagano-okurimono/", "/p/hiroco-nagano-okurimono/"]
 [cover]
   image = "hiroconagano-okurimono-460.jpeg"
+  caption = ""
   relative = true
 +++
 

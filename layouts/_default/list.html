@@ -1,11 +1,5 @@
 {{- define "main" }}
 
-{{ $rows := transform.Unmarshal (dict "targetType" "map") (resources.Get "data/musicians.csv") }}
-{{ $hasJapanese := gt (len (findRE `[\p{Hiragana}\p{Katakana}\p{Han}]` .Title)) 0 }}
-{{ $field := cond $hasJapanese "japanese" "name" }}
-{{ $artist := index (where $rows $field .Title) 0 }}
-{{ $isHome := .IsHome }}
-
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
@@ -33,10 +27,18 @@
     {{ .Description | markdownify }}
   </div>
   {{- end }}
-  <div class="entry-cover">
-  {{ with $artist }}{{ .name }} - {{ if .japanese }}{{ .japanese }} - {{end }} {{ .instrument }}{{ end }}
-{{ with $artist }}<a href="{{ .website }}">{{ .website }}</a>{{ end }}
+
+{{- if and (eq .Kind "term") (eq .Type "tags") }}
+{{ $rows := transform.Unmarshal (dict "targetType" "map") (resources.Get "data/musicians.csv") }}
+{{ $hasJapanese := gt (len (findRE `[\p{Hiragana}\p{Katakana}\p{Han}]` .Title)) 0 }}
+{{ $field := cond $hasJapanese "japanese" "name" }}
+{{ $artist := index (where $rows $field .Title) 0 }}
+  {{ $isHome := .IsHome }}
+  <div class="entry-content md-content">
+  {{ with $artist }}{{ .name }} - {{ if .japanese }}{{ .japanese }} - {{end }} {{ .instrument }} - <a href="{{ .website }}">{{ .website }}</a>{{ end }}
   </div>
+{{- end }}
+
 </header>
 {{- end }}
 
@@ -61,7 +63,10 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+
+{{- if .IsHome }}
 <div class="post-grid">
+{{- end }}
 
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
@@ -105,7 +110,9 @@
 </article>
 {{- end }}
 
+{{- if .IsHome }}
 </div>
+{{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">

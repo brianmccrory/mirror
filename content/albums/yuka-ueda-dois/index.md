@@ -5,8 +5,10 @@ publishDate = 2021-02-05
 tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ryoji Orihara", "織原良次", "Nobuyuki Komatsu", "小松伸之", "Shinji Hashimoto", "橋本信二", "Jo da Babylonia", "ジョー・ダ・バビロニア"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yuka-ueda-dois/", "/p/yuka-ueda-dois/"]
 [cover]
   image = "yukaueda-dois-460.jpeg"
+  caption = ""
   relative = true
 +++
 

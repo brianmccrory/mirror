@@ -6,8 +6,10 @@ keywords = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yuichi-narita-urban-nocturne/", "/p/yuichi-narita-urban-nocturne/"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
+  caption = ""
   relative = true
 +++
 

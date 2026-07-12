@@ -1,32 +1,37 @@
 +++
 title = "Ginza Swing"
 author = ["Brian McCrory"]
+description = "Ginza Swing jazz club, located near Ginza and Yurakucho stations in Tokyo, Japan"
 publishDate = 2026-03-12
 tags = ["clubs", "premium"]
 categories = ["clubs"]
 draft = false
+aliases = ["/archive/ginza-swing/", "/p/ginza-swing/"]
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"
+  caption = "Ginza Swing jazz club"
   relative = true
 +++
 
 A respected elder jazz spot in the Tokyo jazz club scene, the much loved Ginza Swing is an upscale restaurant-styled jazz room in Ginza. Swing has been serving up live jazz for nearly fifty years in a sophisticated setting that pairs jazz with gourmet food in the legacy luxury district of Tokyo.
 
-![](IMG_20251027_200042216-1200.jpeg)
+{{< figure src="IMG_20251027_200042216-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Toshimitsukuni Vocal Matsuri live concert with Hibiki Sato and Eri Yazaki on vocals, Rena Toshimitu on drums/vocals, Mitsukuni Tanabe on guitar, Hideaki Yoshioka on piano, and Yosuke Terao on bass (October 2025)" link="IMG_20251027_200042216-1200.jpeg" >}}
+
 In addition to the great jazz performances performed in Swing’s elegant setting, their menu is touted as an equal draw, with not-your-average-jazz-bar-grub dishes that appeal to foodies and connoisseurs. In particular, lobster-based meals (using premium Ise ebi, or Japanese spiny lobster) are highlighted, and the sloganized phrase “Jazz &amp; lobster” can be found on signs and menus. Past menu offerings have included lobster jambalaya, Lobster Thermidor, lobster &amp; fruit herb salad, and lobster tomato cream pasta, and some dishes come with a presentation of the carapace on the plate to accompany the meal.
 
 Walking into the dark club, you notice how the modestly sized room makes full use of the space for customers to feel immersed in the music. Not only that, but the chairs and tables literally surround the music: The performers’ stage area, at floor level, hugs the middle of one wall, and the customers’ tables line up against the other three walls to provide views from three different perspectives.
 
-{{< figure src="IMG_20251027_184352473_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Taking a seat in the corner before the music starts (showing up without a reservation)" >}}
+{{< figure src="IMG_20251027_184352473_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Taking a seat in the corner before the music starts (showing up without a reservation)" link="IMG_20251027_184352473_HDR-1200.jpeg" >}}
 
 A beautiful wrap-around bar is also popular and may be the best place to sit, serving as a sort of front row location right up next to the performers and adjoining the stage. For a good idea of the layout, Ginza Swing’s website includes a 360-photo view of a [virtual walkthrough](https://www.google.com/local/place/fid/0x60188be4fedc78cb:0x6cde4ad3cab47e5d/photosphere?iu=https://lh5.googleusercontent.com/p/AF1QipPora2DVU3dYgdsspgDQgIg4BZrVbJavmzubvU5%3Dw160-h106-k-no-pi-1.5755627-ya319.2444-ro0-fo100&ik=CAoSLEFGMVFpcFBvcmEyRFZVM2RZZ2Rzc3BnRFFnSWc0QlpyVmJKYXZtenVidlU1) of the club.
 
-![](IMG_20251027_185420161_HDR-1200.jpeg)
+{{< figure src="IMG_20251027_185420161_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Lighter food options include the roast beef salad at Ginza Swing" link="IMG_20251027_185420161_HDR-1200.jpeg" >}}
+
 In the past, Ginza Swing offered a membership system that included discounts and special offers for repeat customers, but this may be slightly confusing to first timers and not necessarily useful for short-term visitors. A revised fan club system may be introduced later this year, but details are unknown at the moment.
 
 Close to the station and located in small complex of bars and restaurants, Ginza Swing is a great place to go in this luxury district for a professional yet fun jazz-with-dinner option.
 
-{{< figure src="closing_note-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Ginza Swing’s notice of closing" >}}
+{{< figure src="closing_note-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Ginza Swing’s notice of closing" link="closing_note-1200.jpeg" >}}
 
 Much to the surprise of dedicated jazz fans and musicians, in 2025, Ginza Swing posted a note to social media about the planned closing of this historic jazz spot on May 12, 2026, exactly 50 years to their original opening day. This is translated below.
 
@@ -102,7 +107,7 @@ An [early March 2026 statement](https://ginzaswing.jp/%e9%8a%80%e5%ba%a7swing%e3
 
 _Note: After 50 years in operation, Ginza Swing was scheduled to close in May 2026, but later announced that their historic club will remain open, introducing some new changes to build on their many successful years. I’m happy to hear that this jazz spot will keep swinging and am eager to experience their new changes. With the closure of many old favorites in Japan during and after the pandemic, it is encouraging to see long-time jazz locales like Ginza Swing, with the support of their dedicated fans, doing all they can to stay open, keep looking forward, and welcome new generations of jazz fans._
 
-{{< figure src="IMG_20251027_183319676_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>An illuminated sign at Ginza INZ2 shopping center lets you know that you are in the right place to find Ginza Swing in a prime location on the 2nd floor." >}}
+{{< figure src="IMG_20251027_183319676_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>An illuminated sign at Ginza INZ2 shopping center lets you know that you are in the right place to find Ginza Swing in a prime location on the 2nd floor." link="IMG_20251027_183319676_HDR-1200.jpeg" >}}
 
 
 ## Other Links {#other-links}

@@ -6,8 +6,10 @@ keywords = ["aquapit-aquapit", "sayaketts-colors"]
 tags = ["Toshiki Abe", "阿部俊貴", "Sayaka Kishi", "岸淑香", "Tetsunori Morinaga", "森永哲則"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/toshiki-abe-life-memory-project-simplicity/", "/p/toshiki-abe-life-memory-project-simplicity/"]
 [cover]
   image = "toshiki-abe-life-memory-project-simplicity-460.jpeg"
+  caption = ""
   relative = true
 +++
 

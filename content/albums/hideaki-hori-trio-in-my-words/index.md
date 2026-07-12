@@ -5,8 +5,10 @@ publishDate = 2020-01-17
 tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gene Jackson"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hideaki-hori-trio-in-my-words/", "/p/hideaki-hori-trio-in-my-words/"]
 [cover]
   image = "hideakihori-inmywords-460.jpeg"
+  caption = ""
   relative = true
 +++
 

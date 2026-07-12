@@ -6,8 +6,10 @@ keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-n
 tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ami-fukui-trio-nova-manha/", "/p/ami-fukui-trio-nova-manha/"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
+  caption = ""
   relative = true
 +++
 

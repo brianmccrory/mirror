@@ -6,8 +6,10 @@ keywords = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views",
 tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hitomi Aikawa", "相川瞳"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/magnolia-el-viento-y-las-flores/", "/p/magnolia-el-viento-y-las-flores/"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
+  caption = ""
   relative = true
 +++
 

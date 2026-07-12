@@ -5,8 +5,10 @@ publishDate = 2020-08-10
 tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/fuse-live-fuse/", "/p/fuse-live-fuse/"]
 [cover]
   image = "fuse-live-460.jpeg"
+  caption = ""
   relative = true
 +++
 

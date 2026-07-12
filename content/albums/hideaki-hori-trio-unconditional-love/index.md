@@ -5,8 +5,10 @@ publishDate = 2018-08-30
 tags = ["Hideaki Hori", "堀秀彰", "Yuhei Honkawa", "本川悠平", "Gaku Hasegawa", "長谷川ガク"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hideaki-hori-trio-unconditional-love/", "/p/hideaki-hori-trio-unconditional-love/"]
 [cover]
   image = "hideakihori-unconditional-460.jpeg"
+  caption = ""
   relative = true
 +++
 

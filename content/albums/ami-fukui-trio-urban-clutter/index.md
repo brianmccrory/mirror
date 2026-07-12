@@ -5,8 +5,10 @@ publishDate = 2021-12-30
 tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ami-fukui-trio-urban-clutter/", "/p/ami-fukui-trio-urban-clutter/"]
 [cover]
   image = "amifukui-urbanclutter-460.jpeg"
+  caption = ""
   relative = true
 +++
 

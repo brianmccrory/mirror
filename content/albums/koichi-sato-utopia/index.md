@@ -5,8 +5,10 @@ publishDate = 2018-09-26
 tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/koichi-sato-utopia/", "/p/koichi-sato-utopia/"]
 [cover]
   image = "koichisato-utopia-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2024-12-31
 tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマグチ", "Ken Kobayashi", "小林健"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/", "/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/"]
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
+  caption = ""
   relative = true
 +++
 

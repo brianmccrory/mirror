@@ -1,12 +1,15 @@
 +++
 title = "Into the Blue"
 author = ["Brian McCrory"]
+description = "Into the Blue jazz club, located near Machida station in Tokyo, Japan"
 publishDate = 2023-05-12
 tags = ["clubs", "premium"]
 categories = ["clubs"]
 draft = false
+aliases = ["/archive/into-the-blue/", "/p/into-the-blue/"]
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"
+  caption = "The cool interior at Into the Blue with instruments on high."
   relative = true
 +++
 
@@ -16,4 +19,4 @@ Here at Into the Blue, the sound is upfront and close, like a mini concert hall 
 
 There are many options for drinks and food on the menu including Margherita pizza and the like. The Into the Blue house cocktail is tempting, surely going well with the ocean blue lighting and overall calm sense of this tidy shop.
 
-{{< figure src="IMG_20181113_194136875-1024.jpeg" >}}
+{{< figure src="IMG_20181113_194136875-1024.jpeg" link="IMG_20181113_194136875-1024.jpeg" >}}

@@ -6,8 +6,10 @@ keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-thing
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Manabu Hashimoto", "橋本学", "Ryoji Orihara", "織原良次", "Masako Hamamura", "浜村昌子", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/ryosuke-hashizume-group-as-we-breathe/", "/p/ryosuke-hashizume-group-as-we-breathe/"]
 [cover]
   image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["yuki-ito-retattanni-no-mori"]
 tags = ["Ayako Tsuchiya", "土屋絢子", "Kozue Tsukayama", "津嘉山梢", "Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/koto-ha-to-shiro-o-matoeba/", "/p/koto-ha-to-shiro-o-matoeba/"]
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
+  caption = ""
   relative = true
 +++
 

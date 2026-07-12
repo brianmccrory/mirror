@@ -6,8 +6,10 @@ keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr
 tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/toshihiko-inoue-fuse/", "/p/toshihiko-inoue-fuse/"]
 [cover]
   image = "toshihiko-inoue-fuse-460.jpeg"
+  caption = ""
   relative = true
 +++
 

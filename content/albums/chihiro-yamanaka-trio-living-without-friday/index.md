@@ -5,8 +5,10 @@ publishDate = 2020-02-21
 tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/chihiro-yamanaka-trio-living-without-friday/", "/p/chihiro-yamanaka-trio-living-without-friday/"]
 [cover]
   image = "chihiroyamanaka-living-460.jpeg"
+  caption = ""
   relative = true
 +++
 

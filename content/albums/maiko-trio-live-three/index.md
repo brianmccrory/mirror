@@ -5,8 +5,10 @@ publishDate = 2020-01-23
 tags = ["maiko", "マイコ", "Hiroki Miyano", "宮野弘紀", "Shikou Ito", "伊藤志宏"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/maiko-trio-live-three/", "/p/maiko-trio-live-three/"]
 [cover]
   image = "maikotrio-three-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["hara-dairiki-trio-youve-changed"]
 tags = ["Toru Takahashi", "高橋徹", "Atsushi Ikeda", "池田篤", "Masanori Okazaki", "岡崎正典", "Keiichi Yoshida", "吉田桂一", "Kengo Nakamura", "中村健吾", "Yusuke Chigita", "千北祐輔", "Jun Satsuma", "佐津間純", "Koyuza Sanyutei", "三遊亭小遊三", "Shota Shunputei", "春風亭昇太"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/toru-takahashi-tokyo-groovin-high/", "/p/toru-takahashi-tokyo-groovin-high/"]
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
+  caption = ""
   relative = true
 +++
 

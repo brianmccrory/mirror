@@ -6,8 +6,10 @@ keywords = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "
 tags = ["Kaoru Azuma", "東かおる", "Hitomi Nishiyama", "西山瞳", "Motohiko Ichino", "市野元彦", "Toru Nishijima", "西嶋徹", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kaoru-azuma-hitomi-nishiyama-faces/", "/p/kaoru-azuma-hitomi-nishiyama-faces/"]
 [cover]
   image = "kaoru-azuma-hitomi-nishiyama-faces-460.jpeg"
+  caption = ""
   relative = true
 +++
 

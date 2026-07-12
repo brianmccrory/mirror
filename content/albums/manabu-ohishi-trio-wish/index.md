@@ -5,8 +5,10 @@ publishDate = 2018-04-10
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/manabu-ohishi-trio-wish/", "/p/manabu-ohishi-trio-wish/"]
 [cover]
   image = "manabuohishi-wish-460.jpeg"
+  caption = ""
   relative = true
 +++
 

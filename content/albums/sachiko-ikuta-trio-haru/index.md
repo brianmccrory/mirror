@@ -5,8 +5,10 @@ publishDate = 2018-03-04
 tags = ["Sachiko Ikuta", "生田さち子", "Hideaki Kanazawa", "金澤英明", "Shun Ishiwaka", "石若駿", "Terumasa Hino", "日野皓正"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sachiko-ikuta-trio-haru/", "/p/sachiko-ikuta-trio-haru/"]
 [cover]
   image = "sachikoikuta-haru-460.jpeg"
+  caption = ""
   relative = true
 +++
 

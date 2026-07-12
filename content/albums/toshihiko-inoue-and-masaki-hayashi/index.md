@@ -5,8 +5,10 @@ publishDate = 2021-07-16
 tags = ["Toshihiko Inoue", "井上淑彦", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/toshihiko-inoue-and-masaki-hayashi/", "/p/toshihiko-inoue-and-masaki-hayashi/"]
 [cover]
   image = "toshihikoinoue-mistral-460.jpeg"
+  caption = ""
   relative = true
 +++
 

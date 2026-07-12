@@ -5,8 +5,10 @@ publishDate = 2019-05-09
 tags = ["Yuichiro Aratake", "荒武裕一朗", "Tamaya Honda", "本田珠也", "Hideki Kawamura", "河村英樹", "Noboru Ando", "安東昇"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yuichiro-aratake-light-flows-in/", "/p/yuichiro-aratake-light-flows-in/"]
 [cover]
   image = "yuichiroaratake-light-460.jpeg"
+  caption = ""
   relative = true
 +++
 

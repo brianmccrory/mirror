@@ -6,8 +6,10 @@ keywords = ["hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Adam Birnbaum", "Peter Washington", "Lewis Nash", "Dominick Farinacci", "Grant Stewart"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hikari-ichihara-sara-smile/", "/p/hikari-ichihara-sara-smile/"]
 [cover]
   image = "hikari-ichihara-sara-smile-460.jpeg"
+  caption = ""
   relative = true
 +++
 

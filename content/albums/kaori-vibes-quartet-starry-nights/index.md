@@ -6,8 +6,10 @@ keywords = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"
 tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kaori-vibes-quartet-starry-nights/", "/p/kaori-vibes-quartet-starry-nights/"]
 [cover]
   image = "kaori-vibes-quartet-starry-nights-460.jpeg"
+  caption = ""
   relative = true
 +++
 

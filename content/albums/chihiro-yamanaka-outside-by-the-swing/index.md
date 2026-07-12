@@ -5,8 +5,10 @@ publishDate = 2023-05-11
 tags = ["Chihiro Yamanaka", "山中千尋", "Robert Hurst", "Jeff “Tain” Watts"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/chihiro-yamanaka-outside-by-the-swing/", "/p/chihiro-yamanaka-outside-by-the-swing/"]
 [cover]
   image = "chihiroyamanaka-outsideby-460.jpeg"
+  caption = ""
   relative = true
 +++
 

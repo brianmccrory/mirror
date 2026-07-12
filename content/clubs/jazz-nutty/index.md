@@ -1,50 +1,58 @@
 +++
 title = "Jazz Nutty"
 author = ["Brian McCrory"]
+description = "Jazz Nutty jazz cafe, located near Wadeda station in Tokyo, Japan"
 publishDate = 2024-12-25
 tags = ["clubs", "premium"]
 categories = ["clubs"]
 draft = false
+aliases = ["/archive/jazz-nutty/", "/p/jazz-nutty/"]
 [cover]
   image = "IMG_20240501_174529147_HDR-1200.jpeg"
+  caption = "Speakers guard the entrance at Jazz Nutty"
   relative = true
 +++
 
 Calling all jazz nuts! Jazz Nutty is a small coffee shop near Waseda University in Tokyo where the jazz records are cranked and the coffee flows hot. The shop name is undoubtedly a tribute to the Thelonious Monk tune “Nutty”, similar to other jazz spots which honor famous musicians, albums, or tunes from jazz history, like the bar [Salt Peanuts](https://www.jazzofjapan.com/archive/salt-peanuts) for example. Also in the legume/nut theme is of course the general jazz vibe of “Peanuts jazz” with Charlie Brown and Snoopy that is ever popular and present this time of year.
 
-![](IMG_20240328_170642085-1200.jpeg)
+{{< figure src="IMG_20240328_170642085-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Welcome to Jazz Nutty" link="IMG_20240328_170642085-1200.jpeg" >}}
+
 The hand-painted sign next to the front door reads:
 
-> ![](IMG_20240328_171338658_HDR-1200.jpeg)
+>
+>
+> {{< figure src="IMG_20240328_171338658_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Coziness at Jazz Nutty" link="IMG_20240328_171338658_HDR-1200.jpeg" >}}
+>
 > Hear the soul of musicians!
 >
 > Not a restaurant
 >
-> {{< figure src="IMG_20240328_171426874_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Changing the music" >}}
+> {{< figure src="IMG_20240328_171426874_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Changing the music" link="IMG_20240328_171426874_HDR-1200.jpeg" >}}
 >
 > A jazz cafe where you can
 > listen to records and CDs
 >
-> {{< figure src="IMG_20240328_171954506_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Listening to Duets by Carla Bley and Steve Swallow" >}}
+> {{< figure src="IMG_20240328_171954506_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Listening to Duets by Carla Bley and Steve Swallow" link="IMG_20240328_171954506_HDR-1200.jpeg" >}}
 >
 > Coffee, tea, cola, alcohol
 > 	500 yen and up
 >
-> {{< figure src="IMG_20240328_171343317_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Seats, tables, pictures, and speaker" >}}
+> {{< figure src="IMG_20240328_171343317_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Seats, tables, pictures, and speaker" link="IMG_20240328_171343317_HDR-1200.jpeg" >}}
 >
 >      Entry fee 200 yen
 > (Discounts for students)
 >
-> {{< figure src="IMG_20240501_174552491_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Back bar and kitchen area" >}}
+> {{< figure src="IMG_20240501_174552491_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Back bar and kitchen area" link="IMG_20240501_174552491_HDR-1200.jpeg" >}}
 >
 > Mon-Fri:       11:00 - 19:00
 >
-> ![](IMG_20240328_171412986-1200.jpeg)
->   Sat/Sun/Hol: 11:00 - 18:00
+> {{< figure src="IMG_20240328_171412986-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Jazz and coffee" link="IMG_20240328_171412986-1200.jpeg" >}}
+>
+> Sat/Sun/Hol: 11:00 - 18:00
 >
 > Closed Tuesdays
 >
-> {{< figure src="IMG_20240501_180245010-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Listening to Chick Corea’s classic jazz trio album Now He Sings, Now He Sobs at Jazz Nutty" >}}
+> {{< figure src="IMG_20240501_180245010-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Listening to Chick Corea’s classic jazz trio album Now He Sings, Now He Sobs at Jazz Nutty" link="IMG_20240501_180245010-1200.jpeg" >}}
 >
 > JAZZ NUTTY
 
@@ -73,4 +81,4 @@ The website for Jazz Nutty is a blog with monthly updates. Along with informatio
 
 After each month’s theme is announced, a second post follows and lists some of the albums being featured and played that month.
 
-{{< figure src="IMG_20240501_180254906-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Tracklisting and back cover art on the LP version of Chick Corea's Now He Sings, Now He Sobs" >}}
+{{< figure src="IMG_20240501_180254906-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Tracklisting and back cover art on the LP version of Chick Corea's Now He Sings, Now He Sobs" link="IMG_20240501_180254906-1200.jpeg" >}}

@@ -6,8 +6,10 @@ keywords = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-
 tags = ["Kazumi Ikenaga", "池長和美", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/kazumi-ikenaga-taihei-asakawa-nordnote/", "/p/kazumi-ikenaga-taihei-asakawa-nordnote/"]
 [cover]
   image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
+  caption = ""
   relative = true
 +++
 

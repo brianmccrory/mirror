@@ -5,8 +5,10 @@ publishDate = 2020-02-19
 tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/trio-export-small-pieces-for-flying-padre/", "/p/trio-export-small-pieces-for-flying-padre/"]
 [cover]
   image = "trioexport-smallpieces-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -1,12 +1,15 @@
 +++
 title = "First-Timer’s Guide to Live Jazz in Japan"
 author = ["Brian McCrory"]
+description = "How to navigate Japanese jazz spots for the first time (and for anyone who wants to know more about what it’s like)"
 publishDate = 2025-10-15
 tags = ["guides", "premium"]
 categories = ["guides"]
 draft = false
+aliases = ["/archive/first-timers-guide-to-live-jazz-in-japan/", "/p/first-timers-guide-to-live-jazz-in-japan/"]
 [cover]
   image = "DSC_9546-1200.jpeg"
+  caption = ""
   relative = true
 +++
 
@@ -445,3 +448,5 @@ Finally, you ask the barmaster how much your bill comes to. He tells you while h
 ## Lastly {#lastly}
 
 This covers some of the common patterns and information that I’ve collected over years of absorbing Japanese jazz culture. Let me know what you think, if I missed anything, or whatever you have to add. Is there anything you would like to know more about? Send me a message or leave a comment, and I will try to cover what I can in future articles. In the meantime, the next article will go into more detail about how to choose the right jazz spot to suit your taste.
+
+{{< figure src="L1110128-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Now Playing at Salt Peanuts" >}}

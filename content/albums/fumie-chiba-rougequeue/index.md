@@ -6,8 +6,10 @@ keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-
 tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁", "Mitsuru Tanaka", "田中充", "Shunosuke Ishikawa", "石川周之介", "Nao Teraya", "寺屋ナオ", "Hirokazu Ishida", "石田寛和"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/fumie-chiba-rougequeue/", "/p/fumie-chiba-rougequeue/"]
 [cover]
   image = "fumie-chiba-rougequeue-460.jpeg"
+  caption = ""
   relative = true
 +++
 

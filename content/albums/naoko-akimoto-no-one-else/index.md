@@ -5,8 +5,10 @@ publishDate = 2023-05-15
 tags = ["Naoko Akimoto", "秋元直子", "Seiji Endo", "遠藤征志", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘", "Shinpei Inoue", "井上信平", "Yasuhiro Matsuda", "松田靖弘", "Shinpei Ruike", "類家心平"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/naoko-akimoto-no-one-else/", "/p/naoko-akimoto-no-one-else/"]
 [cover]
   image = "naoko-akimoto-no-one-else-460.jpeg"
+  caption = ""
   relative = true
 +++
 

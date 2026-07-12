@@ -5,8 +5,10 @@ publishDate = 2021-02-01
 tags = ["Miki Hirose", "広瀬未来", "Xavier Perez", "Toru Dodo", "百々徹", "Aiden O’Donnell", "Jerome Jennings", "Mauricio Herrera"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/miki-hirose-scratch/", "/p/miki-hirose-scratch/"]
 [cover]
   image = "mikihirose-scratch-460.jpeg"
+  caption = ""
   relative = true
 +++
 

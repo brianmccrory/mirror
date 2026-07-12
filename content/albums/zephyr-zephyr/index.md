@@ -5,8 +5,10 @@ publishDate = 2019-03-21
 tags = ["Toshihiko Inoue", "井上淑彦", "Teiji Taguchi", "田口悌治", "Takashi Amano", "天野丘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/zephyr-zephyr/", "/p/zephyr-zephyr/"]
 [cover]
   image = "zephyr-zephyr-460.jpeg"
+  caption = ""
   relative = true
 +++
 

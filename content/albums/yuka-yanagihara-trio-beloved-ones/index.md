@@ -6,8 +6,10 @@ keywords = ["yuka-yanagihara-trio-inner-views"]
 tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/yuka-yanagihara-trio-beloved-ones/", "/p/yuka-yanagihara-trio-beloved-ones/"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
+  caption = ""
   relative = true
 +++
 

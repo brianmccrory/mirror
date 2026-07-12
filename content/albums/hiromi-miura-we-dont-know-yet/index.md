@@ -5,8 +5,10 @@ publishDate = 2020-02-05
 tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoichi Zakota", "座小田諒一", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hiromi-miura-we-dont-know-yet/", "/p/hiromi-miura-we-dont-know-yet/"]
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
+  caption = ""
   relative = true
 +++
 

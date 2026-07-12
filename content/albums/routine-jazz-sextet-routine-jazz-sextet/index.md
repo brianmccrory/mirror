@@ -5,8 +5,10 @@ publishDate = 2020-01-21
 tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wataru Hamasaki", "浜崎航", "Taku Akiyama", "秋山卓", "Koichi Sato", "佐藤浩一", "Haruhisa Takamichi", "高道晴久"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/routine-jazz-sextet-routine-jazz-sextet/", "/p/routine-jazz-sextet-routine-jazz-sextet/"]
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2020-01-28
 tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/hideaki-kanazawa-sumire-kuribayashi-nijuso/", "/p/hideaki-kanazawa-sumire-kuribayashi-nijuso/"]
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
+  caption = ""
   relative = true
 +++
 

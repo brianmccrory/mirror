@@ -6,8 +6,10 @@ keywords = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", 
 tags = ["Miyuki Moriya", "守谷美由貴", "Kosuke Mine", "峰厚介", "Mamoru Ishida", "石田衛", "Junichi Sato", "佐藤潤一", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/miyuki-moriya-beyond-the-sea/", "/p/miyuki-moriya-beyond-the-sea/"]
 [cover]
   image = "miyuki-moriya-beyond-the-sea-460.jpeg"
+  caption = ""
   relative = true
 +++
 

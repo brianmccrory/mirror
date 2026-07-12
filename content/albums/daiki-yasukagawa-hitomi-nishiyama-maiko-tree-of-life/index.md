@@ -6,8 +6,10 @@ keywords = ["daiki-yasukagawa-trio-trios-ii", "maiko-trio-live-three", "maiko-so
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Hitomi Nishiyama", "西山瞳", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/", "/p/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/"]
 [cover]
   image = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life-460.jpeg"
+  caption = ""
   relative = true
 +++
 

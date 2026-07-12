@@ -6,8 +6,10 @@ keywords = ["noriko-satomi-a-love-supreme"]
 tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Kunio Oinuma", "生沼邦夫", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/noriko-satomi-project-n/", "/p/noriko-satomi-project-n/"]
 [cover]
   image = "noriko-satomi-project-n-460.jpg"
+  caption = ""
   relative = true
 +++
 

@@ -5,8 +5,10 @@ publishDate = 2020-04-24
 tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Erena Terakubo", "寺久保エレナ", "Akihiro Yoshimoto", "吉本章紘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/motoi-kanamori-my-soul-meeting/", "/p/motoi-kanamori-my-soul-meeting/"]
 [cover]
   image = "motoikanamori-mysoul-460.jpeg"
+  caption = ""
   relative = true
 +++
 

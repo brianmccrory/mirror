@@ -5,8 +5,10 @@ publishDate = 2019-09-10
 tags = ["Minoru Yoshiki", "吉木稔", "Osamu Soda", "祖田修", "Shuji Morita", "森田修史"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/minoru-yoshiki-soulstation-path-of-hope/", "/p/minoru-yoshiki-soulstation-path-of-hope/"]
 [cover]
   image = "minoruyoshiki-soulstation-path-460.jpeg"
+  caption = ""
   relative = true
 +++
 

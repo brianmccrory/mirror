@@ -5,8 +5,10 @@ publishDate = 2018-01-30
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/bungalow-you-already-know/", "/p/bungalow-you-already-know/"]
 [cover]
   image = "bungalow-youalreadyknow-460.jpeg"
+  caption = ""
   relative = true
 +++
 

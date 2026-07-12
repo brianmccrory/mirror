@@ -5,8 +5,10 @@ publishDate = 2020-03-17
 tags = ["Shunichi Yanagi", "柳隼一", "Ryo Shibata", "柴田亮", "Motoi Kanamori", "金森もとい"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/shunichi-yanagi-trio-bubble-fish/", "/p/shunichi-yanagi-trio-bubble-fish/"]
 [cover]
   image = "shunichiyanagi-bubblefish-460.jpeg"
+  caption = ""
   relative = true
 +++
 

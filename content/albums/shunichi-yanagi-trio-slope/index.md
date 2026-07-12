@@ -5,8 +5,10 @@ publishDate = 2023-05-20
 tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/shunichi-yanagi-trio-slope/", "/p/shunichi-yanagi-trio-slope/"]
 [cover]
   image = "shunichi-yanagi-slope-460.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "
 tags = ["Sayaka Kishi", "岸淑香", "Akira Yamada", "山田玲", "Daiki Yasukagawa", "安ヵ川大樹", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/sayaka-kishi-trio-banquet/", "/p/sayaka-kishi-trio-banquet/"]
 [cover]
   image = "sayaka-kishi-trio-banquet-460.jpeg"
+  caption = ""
   relative = true
 +++
 

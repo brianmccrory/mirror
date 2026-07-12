@@ -6,8 +6,10 @@ keywords = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hito
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Tomomi Oda", "小田朋美", "Takayoshi Baba", "馬場孝喜", "Hikari Ichihara", "市原ひかり", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/nhorhm-new-heritage-of-real-heavy-metal/", "/p/nhorhm-new-heritage-of-real-heavy-metal/"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
+  caption = ""
   relative = true
 +++
 

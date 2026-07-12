@@ -6,8 +6,10 @@ keywords = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie
 tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka", "田中信正", "Mayuko Katakura", "片倉真由子", "Kiichiro Komobuchi", "コモブチキイチロウ", "Yoichi Okabe", "岡部洋一"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/nobie-takayoshi-baba-owari-to-hajimari/", "/p/nobie-takayoshi-baba-owari-to-hajimari/"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
+  caption = ""
   relative = true
 +++
 

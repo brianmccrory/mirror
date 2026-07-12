@@ -5,8 +5,10 @@ publishDate = 2020-02-26
 tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロー"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/emiko-voice-x-suga-dairo-phase-2/", "/p/emiko-voice-x-suga-dairo-phase-2/"]
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
+  caption = ""
   relative = true
 +++
 

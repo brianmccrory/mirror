@@ -6,8 +6,10 @@ keywords = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuk
 tags = ["Taeko Kurita", "栗田妙子"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/taeko-kurita-ko-tsu-ko-tsu/", "/p/taeko-kurita-ko-tsu-ko-tsu/"]
 [cover]
   image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
+  caption = ""
   relative = true
 +++
 

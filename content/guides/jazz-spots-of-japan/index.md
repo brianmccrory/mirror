@@ -5,8 +5,10 @@ publishDate = 2024-02-12
 tags = ["guides", "premium"]
 categories = ["guides"]
 draft = false
+aliases = ["/archive/jazz-spots-of-japan/", "/p/jazz-spots-of-japan/"]
 [cover]
   image = "P1040163-1024.jpeg"
+  caption = ""
   relative = true
 +++
 

@@ -6,8 +6,10 @@ keywords = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torc
 tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Minyen Hsieh", "謝明諺", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/melodies-melodies/", "/p/melodies-melodies/"]
 [cover]
   image = "melodies-melodies-460.jpeg"
+  caption = ""
   relative = true
 +++
 

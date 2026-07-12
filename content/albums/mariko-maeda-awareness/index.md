@@ -5,8 +5,10 @@ publishDate = 2023-06-09
 tags = ["Mariko Maeda", "前田真梨子", "Kota Kaihori", "海堀弘太", "Yosuke Terao", "寺尾陽介", "Yuto Maseki", "柵木雄斗"]
 categories = ["albums"]
 draft = false
+aliases = ["/archive/mariko-maeda-awareness/", "/p/mariko-maeda-awareness/"]
 [cover]
   image = "mariko-maeda-awareness-460.jpeg"
+  caption = ""
   relative = true
 +++
 

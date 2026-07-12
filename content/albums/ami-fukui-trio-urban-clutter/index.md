@@ -14,13 +14,15 @@ aliases = ["/archive/ami-fukui-trio-urban-clutter/", "/p/ami-fukui-trio-urban-cl
 
 The twinkling chords which open Ami Fukui’s debut album _Urban Clutter_ from 2010 shine like a crystalline spotlight, signaling the immediately satisfying sounds and clean, uncomplicated feel-good grooves of the music to come. This first album from the jazz pianist lays down the groundwork for Fukui to showcase her compositional skills for jazz piano trio, which she will explore further on her follow-up albums _Amizm_ (2013) and _New Journey_ (2016).
 
-![](L1200241-1024.jpg)
+{{< figure src="L1200241-1024.jpg" link="L1200241-1024.jpg" >}}
+
 The overall sound and improvisation favor texture-building over flash. Rather than an overload of bebop feats, free jazz, or abstract outside playing, here attention is paid to structure and texture - the musical vibe, rhythm, and riffs. As in the forest for the trees, the focus seems to be on immersing the listening in the comfortably cool and mostly mid-tempo music. For example, “Denim” is a welcoming 3/4-meter with a strong hook and a warm sound. Other tracks such as “Refrain” and “Signal” roam over adventurous territory with a modern odd-beat structure, snazzy angular and compelling shapes with a drum-focused solo ending while the piano and bass vamp.
 
 Favoring the slicker style popular in some modern jazz releases over the classic, “vintage feeling” of swing-based beats, the group excels at simple yet cohesively interlocked musical patterns. Drummer Sohnosuke Imaizumi and bassist Koji Yasuda in particular bring a lot to the music, crafting the strong and balanced bottom end and rhythms that frame Fukui’s compositions so well. In particular, Imaizumi’s special light touch and syncopated zest elevate the music even further, enhancing the music with unobtrusive yet cleverly-timed punctuations.
-![](L1200242-1024.jpg)
 
-{{< figure src="L1200244-1024.jpg" >}}
+{{< figure src="L1200242-1024.jpg" link="L1200242-1024.jpg" >}}
+
+{{< figure src="L1200244-1024.jpg" link="L1200244-1024.jpg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -28,7 +30,8 @@ Favoring the slicker style popular in some modern jazz releases over the classic
 _(Translated from the original Japanese liner notes written by Ami Fukui.)_
 
 ORGANIC SHOWER
-![](L1200248-1024.jpg)
+
+{{< figure src="L1200248-1024.jpg" link="L1200248-1024.jpg" >}}
 
 This song started when my younger brother asked me to create original music for a project as he was going to video school. To that, I added a chorus and it became this song. As the image related to the feeling of a flower extending and growing, the title was “Organic Growth”, but inside I felt as if waves were sparkling, so with that image I choose the title “Organic Shower”.
 
@@ -68,7 +71,7 @@ URBAN CLUTTER
 
 This is a song I wrote about 4 years ago which I rearranged for this recording. I really wanted to include this song as it could be said to be my starting point. But of course, my tastes have changed between then and now, so I tried to use the original version and see if I somehow could incorporate my current feelings. In that sense, with the passage of time, I think that who I am now somehow came out most. I hope you can feel the darkness if only a little.
 
-{{< figure src="L1110630-1024.jpg" >}}
+{{< figure src="L1110630-1024.jpg" link="L1110630-1024.jpg" >}}
 
 
 ## Urban Clutter by Ami Fukui Trio {#urban-clutter-by-ami-fukui-trio}

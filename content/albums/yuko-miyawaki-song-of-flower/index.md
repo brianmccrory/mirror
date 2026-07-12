@@ -14,13 +14,17 @@ aliases = ["/archive/yuko-miyawaki-song-of-flower/", "/p/yuko-miyawaki-song-of-f
 
 Japanese jazz musician Yuko Miyawaki’s debut album _Song of Flower_ from 2011 brims with understated calm, burning steadily through original, mellow sounds and sparkling improvisation. Miyawaki’s trumpet and flugelhorn centers her core jazz quartet, adding a fifth member on tenor sax to embellish her jazz themes with sweet harmonies and cutting solos on four tracks.
 
-![](L1200337-1024.jpg)
+{{< figure src="L1200337-1024.jpg" link="L1200337-1024.jpg" >}}
+
 In addition to her compelling horn playing, Miyawaki’s contributions also include original songs and arrangements, all showing a creative style with modern themes calmly developing over sharp grooves with fascinating frameworks. The selected cover songs include a great modern jazz version of the Japanese folk song “Sakura”, the atmospheric latin tune “El Choclo”, “Summer Night” in uptempo swing, and a tender duo with guest pianist Junichiro Ohkuchi (joining on five songs) on the heartful ballad “I’m Glad There Is You”.
 
-![](L1200338-1024.jpg)
-![](L1200339-1024.jpg)
-![](L1200342-1024.jpg)
-![](L1110816-1024.jpg)
+{{< figure src="L1200338-1024.jpg" link="L1200338-1024.jpg" >}}
+
+{{< figure src="L1200339-1024.jpg" link="L1200339-1024.jpg" >}}
+
+{{< figure src="L1200342-1024.jpg" link="L1200342-1024.jpg" >}}
+
+{{< figure src="L1110816-1024.jpg" link="L1110816-1024.jpg" >}}
 
 
 ## Song of Flower by Yuko Miyawaki {#song-of-flower-by-yuko-miyawaki}

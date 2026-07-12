@@ -15,18 +15,21 @@ aliases = ["/archive/mayuko-katakura-duality-of-my-soul/", "/p/mayuko-katakura-d
 
 I’m always excited to get my hands and ears on a new release from pianist Mayuko Katakura. Her latest trio disc, recorded with bassist Takumi Awaya and drummer Noritaka Tanaka, is titled _The Duality of My Soul_ and was released earlier this year. It hits the spot as a sharply modern jazz piano trio album.
 
-![](L1310872x-1200.jpeg)
+{{< figure src="L1310872x-1200.jpeg" link="L1310872x-1200.jpeg" >}}
+
 The album’s eight tracks consist of seven Katakura originals and one cover song to close the set, an instrumental version of singer Abbey Lincoln’s “Being Me.” Karakura’s music is pure trio propulsion, muscular, raw, and risk-taking. Other emotions and impressions generated while listening to this music include the words heavy yet facile, determined and pointed. Whatever the subjective descriptions imply, it’s completely enjoyable, straight-ahead J Jazz coolness.
 
 Track #1, “A Dancer’s Melancholy” (also featured on Katakura’s releases [_Faith_](https://www.jazzofjapan.com/archive/mayuko-katakura-faith) and [_The Echoes of Three_](https://www.jazzofjapan.com/archive/mayuko-katakura-echoes-of-three)) is fantastically rich. #2 “The Duality of My Soul” is adventurously complex. #3 “Merciful Eyes” is a beautiful soft ballad. #4 “Dusk” is a thrilling backward-facing rollercoaster ride in deep groove gear.
-![](L1310877x-1200.jpeg)
+
+{{< figure src="L1310877x-1200.jpeg" link="L1310877x-1200.jpeg" >}}
 
 \#5 “Pursuit” evokes the forward momentum of an edge-of-your-seat chase scene where the influence of McCoy Tyner rises close to the surface. #6 “The Circle of Color Emotions”, like #4, is another riveting musical-mind-expanding highlight. Similarly, #7 “Canvas”, picks up the reins of track #5 and continues laying out exhilarating speed riffs in the improvisations and rhythms.
 
-![](L1310881x-1200.jpeg)
+{{< figure src="L1310881x-1200.jpeg" link="L1310881x-1200.jpeg" >}}
+
 Finally, the last track #8 “Being Me” is a sweet and slow ballad, played with a fully romantic sentiment. In this vulnerable setting, Lincoln’s original lyrics seem to come through Katakura’s wordless piano notes, singing a personal meditation on self-discovery and acceptance, and possibly referencing (somehow) the duality of this great pianist’s own musical soul.
 
-{{< figure src="L1280813x-1200.jpeg" >}}
+{{< figure src="L1280813x-1200.jpeg" link="L1280813x-1200.jpeg" >}}
 
 
 ## The Duality of My Soul by Mayuko Katakura {#the-duality-of-my-soul-by-mayuko-katakura}

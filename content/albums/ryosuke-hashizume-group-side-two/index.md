@@ -15,19 +15,23 @@ aliases = ["/archive/ryosuke-hashizume-group-side-two/", "/p/ryosuke-hashizume-g
 
 Saxophonist and composer Ryosuke Hashizume has released six albums with the Ryosuke Hashizume Group over nearly two decades. These albums feature Hashizume’s uniquely original compositions played by his long-running group. This group has mainly been a quintet (of sax, guitar, piano, bass, and drums) with many of the same members present throughout the years.
 
-![](L1200716x-1200.jpeg)
+{{< figure src="L1200716x-1200.jpeg" link="L1200716x-1200.jpeg" >}}
+
 In particular, guitarist Motohiko Ichino and fretless electric bassist Ryoji Orihara have been a constant and large part of the sound of the group. They are brilliant electric partners to Hashizume’s breathy and sawtoothed acoustic sax sound (Hashizume also dips into electricity a bit when playing his sax as cycles and drones looped through a device, occasionally).
 
 With his other main live and recording partners pianist Koichi Sato and drummer Manabu Hashimoto (and some other members along the way), the group has developed the alternately freely abstract and grooving sound that has explored, finessed, and breathed life into his music over many years.
-![](L1200717x-1200.jpeg)
+
+{{< figure src="L1200717x-1200.jpeg" link="L1200717x-1200.jpeg" >}}
 
 That flexible and imaginative sound is made up of subtly serrated edges of saxophone, digitized guitar tones like signals from outer space, tender piano touches and finessed melodic fragments, fluffy mists and lightning of drumset accents, and thick currents of low bass notes. The sound is both shapeshifting and solid.
 
-![](L1200719x-1200.jpeg)
+{{< figure src="L1200719x-1200.jpeg" link="L1200719x-1200.jpeg" >}}
+
 This is applied to Hashizume’s compositional ideas of ethereal lushness, with all of its colorful layers of sound, transforming tonalities, nuanced time and meter misdirection, and dramatic development and suspense. These compositional ideas, together with the group’s sound and individual mastery, are the novel recipes that are interpreted through the musicians’ steady cooking for inspired, enjoyable results.
 
 This 2014 album, _Side Two_, is his second-most recent album and was released a few years before his latest album _[Incomplete Voices](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-incomplete-voices)_ from 2017. Yet, as a marker on Hashizume’s album release timeline, _Side Two_ has an even stronger connection to the two prior albums released just before _Side Two_, those being his albums [_Visible/Invisible_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-visible-invisible) (2013) and [_Acoustic Fluid_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-acoustic) (2012). In a way, _Side Two_ could be considered a combination of live extras and alternate versions of songs from those two prior albums and recording sessions.
-![](L1200720x-1200.jpeg)
+
+{{< figure src="L1200720x-1200.jpeg" link="L1200720x-1200.jpeg" >}}
 
 With a 44-minute runtime, _Side Two_ contains just four tracks (Hashizume’s original compositions, as with all his albums). The songs were all recorded live during the same performances, and with the same members, as the songs on _Visible/Invisible_. This fact can give meaning to the title _Side Two_ when interpreting this album as a continuation of the previously released live album.
 
@@ -76,7 +80,7 @@ None of the songs make use of the “modern jazz cliché” of cycling through s
 
 Also, the sound of each instrument rings with a tone and texture that seems to have been chosen for the sound to be heard here. This is also a reason why I began to like listening to this for chilling out. The tones are chosen for the overall sound more than for their own individual sounds. Manabu Hashimoto’s dry percussion sounds harmonize with Ryoji Orihara’s thick fretless bass. The reason for having a fretless bass rather than an upright bass is quietly but eloquently heard. I don’t know of any other jazz like this. And, along with Hashizume’s sax, Ichino’s guitar, and Koichi Sato’s piano, everyone plays just the right number of notes and volume for the tone and texture here, without addition or subtraction. The perfectly balanced and smooth sound is built through the improvisation. This gentle thrill is the joy I feel when listening to jazz with the stimulating tranquility of everything in harmony. Considering New York jazz descended from West Coast and cool jazz, or the soundscapes of ECM and Hubro, or the Americana lineage related to Bill Frisell and Brian Blade, this is a different soundscape from all of those.
 
-{{< figure src="L1110949-1200.jpeg" >}}
+{{< figure src="L1110949-1200.jpeg" link="L1110949-1200.jpeg" >}}
 
 
 ## Side Two by Ryosuke Hashizume Group {#side-two-by-ryosuke-hashizume-group}

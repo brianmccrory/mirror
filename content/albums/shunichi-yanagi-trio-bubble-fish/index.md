@@ -14,11 +14,13 @@ aliases = ["/archive/shunichi-yanagi-trio-bubble-fish/", "/p/shunichi-yanagi-tri
 
 Jazz pianist Shunichi Yanagi releases a shimmering modern jazz recording with his Tokyo trio on his 2012 debut _Bubble Fish_. The ten original songs from the pianist incorporate rock edginess and hip coolness into piano jazz with attitude. Modern jazz trios like E.S.T. or The Bad Plus may have been influences to the trio’s kaleidoscopic sound, pushing traditional jazz boundaries with youthful freshness.
 
-![](L1220276-1024.jpg)
+{{< figure src="L1220276-1024.jpg" link="L1220276-1024.jpg" >}}
+
 On _Bubble Fish_, the jazz trio uses full chords and vital grooves on their compositions, bubbling with rock and pop styles infused with jazz improvisation. Yanagi’s angular patterns run up and down the piano keys with an almost electric guitar mindset. Yet, the pianist also shows a light tenderness where soft melodies rise lightly to the surface with positive energy, particularly on album highlights such as the “Shibuya Crossing” and “Prayer”, which closes the album with calming peace.
 
-![](L1220279-1024.jpg)
-![](L1220282-1024.jpg)
+{{< figure src="L1220279-1024.jpg" link="L1220279-1024.jpg" >}}
+
+{{< figure src="L1220282-1024.jpg" link="L1220282-1024.jpg" >}}
 
 
 ## Bubble Fish by Shunichi Yanagi Trio {#bubble-fish-by-shunichi-yanagi-trio}

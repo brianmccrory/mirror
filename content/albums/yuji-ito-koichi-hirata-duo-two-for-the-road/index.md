@@ -15,7 +15,8 @@ aliases = ["/archive/yuji-ito-koichi-hirata-duo-two-for-the-road/", "/p/yuji-ito
 
 _Two for the Road_ is a 2024 album from bassist Yuji Ito and guitarist Koichi Hirata, working as a duo here on their first collaboration. Both musicians are young, still in their 20s and 30s, yet their style, vocabulary, and tone speak of a maturity born of attentive listening, devotion, and playing experience.
 
-![](L1310537x-1200.jpeg)
+{{< figure src="L1310537x-1200.jpeg" link="L1310537x-1200.jpeg" >}}
+
 They fill the nine-track album with 58 minutes of beloved tunes from the standard jazz playbook and the ballad/swing/bop canon, mostly from the core 1950s and 60s jazz eras:
 
 <ol class="org-ol">
@@ -31,13 +32,14 @@ They fill the nine-track album with 58 minutes of beloved tunes from the standar
 </ol>
 
 On three of the tracks (marked with \* above), the duo expands to a trio or a quartet with saxophonist Kosuke Mine and drummer Yusuke Yaginuma joining in. On these trio/quartet tracks, the effect is a natural increase in energy and excitement with the inherent rhythmic energy brought in by the drums and the full body of an edgy but mellow saxophone tone.
-![](L1310550x-1200.jpeg)
+
+{{< figure src="L1310550x-1200.jpeg" link="L1310550x-1200.jpeg" >}}
 
 The duo stays close to the original compositions in their play-through, honoring the essence of each song without altering too much. A lot of enjoyment is generated through the beautiful tones of each instrument and the genuine jazz feel each member brings to the tunes’ melodies and each player’s improvisations.
 
 In general, there’s a happy, relaxed feel that runs through the tracks. Three songs are played as sentimental ballads (#1, 6, 9) or comfortably subdued moments and mid-tempo swinging sessions on the majority of the songs. The two tracks with sax, #5 “Wilton’s Mood” and the album closer #9 “My One and Only Love”, are played with energetic verve and romantic tenderness, respectively.
 
-{{< figure src="L1310558x-1200.jpeg" >}}
+{{< figure src="L1310558x-1200.jpeg" link="L1310558x-1200.jpeg" >}}
 
 
 ## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo {#two-for-the-road-by-yuji-ito-and-koichi-hirata-duo}

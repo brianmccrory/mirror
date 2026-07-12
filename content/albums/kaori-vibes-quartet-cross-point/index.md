@@ -14,12 +14,15 @@ aliases = ["/archive/kaori-vibes-quartet-cross-point/", "/p/kaori-vibes-quartet-
 
 Vibist Kaori Nakajima returns with her second album _Cross Point_ featuring KVQ: Kaori Vibes Quartet (formerly Vangy!!), a jubilant combo with jazz vibraphone springing out mellow tones at the center.
 
-![](L1190171-1024.jpg)
+{{< figure src="L1190171-1024.jpg" link="L1190171-1024.jpg" >}}
+
 Starting with the high-energy “Cross Point”, the quartet explores directions from straight-ahead jazz and relaxed swing to quiet ballads and Spanish-tinged rubato. With skilled playing and engaging compositions, highlights include the pop-catchy “Dandelion”, the edgy “Flicker”, a nod to Horace Silver and Cedar Walton on “Golden Pine”, and the soft atmospheric reverb of “Moonlights Underwater”, summoning undulating waves in the comfort of twilight.
 
-![](L1190211-1024.jpg)
-![](L1190221-1024.jpg)
-![](L1190226-1024.jpg)
+{{< figure src="L1190211-1024.jpg" link="L1190211-1024.jpg" >}}
+
+{{< figure src="L1190221-1024.jpg" link="L1190221-1024.jpg" >}}
+
+{{< figure src="L1190226-1024.jpg" link="L1190226-1024.jpg" >}}
 
 
 ## Cross Point by Kaori Vibes Quartet {#cross-point-by-kaori-vibes-quartet}

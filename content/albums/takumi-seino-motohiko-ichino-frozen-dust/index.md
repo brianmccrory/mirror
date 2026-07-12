@@ -15,15 +15,18 @@ aliases = ["/archive/takumi-seino-motohiko-ichino-frozen-dust/", "/p/takumi-sein
 
 _Frozen Dust_ is a live recording that captures guitarists Takumi Seino and Motohiko Ichino playing improvised jazz during their first set of the night at Kanmachi 63 in Yokohama. The two-track album is full of abstract improvisation throughout its forty-six minutes. The music is experimental to a degree, but close listening reveals musical themes within the subtle compositional frameworks and free improvisation.
 
-![](L1240768x-1200.jpeg)
+{{< figure src="L1240768x-1200.jpeg" link="L1240768x-1200.jpeg" >}}
+
 This first meeting of the pair demonstrates not only their guitar playing but also their liberal use of electric effects, adding modulated buzzes, textures, echoes, and filters to their mellow yet edgy musical tones. These guitar effects add a lot of personality to the music, setting up atmospheres that evolve from playful and curious to dark and intimidating.
 
 **#1 “Frozen Dust”:**
-![](L1240770x-1200.jpeg)
+
+{{< figure src="L1240770x-1200.jpeg" link="L1240770x-1200.jpeg" >}}
 
 The first track is relatively long at about thirty-seven minutes, and while it seems to be spontaneously improvised, there are some phase changes as the two players create, move through, and respond to the music.
 
-![](L1240773x-1200.jpeg)
+{{< figure src="L1240773x-1200.jpeg" link="L1240773x-1200.jpeg" >}}
+
 “Frozen Dust” can be divided into three subtly distinct sections, not rigidly set but impressionistically discernable. There are even subparts within these three sections as flights of fancy, temporary ideas, and shifts of focus morph and adjust in the dialogue of the pair.
 
 The first roughly ten-minute section is like an introduction phase. It is an initial conversation between two entities who offer musical ideas back and forth and begin to play with each other, intertwining and sounding each other out. It’s as if they are establishing contact and making judgments on whether the encounter will be friendly or hostile, and how to move forward from there. In this phase, the mood is playful and jumpy and begins to settle into a story.
@@ -50,7 +53,7 @@ From the promotional material:
 
 As a final, perhaps trivial, note, there is a brief out-of-place moment near the end of “Frozen Dust” when somebody’s sneeze is audibly captured on the recording, forever embedded in the music for one second. This happy accident brings into focus the in-the-moment musical creation, as well as the intimate music venue where musicians and listeners gather closely to create and appreciate… not to mention adding a humorous momentary dimension to the title of the song itself.
 
-{{< figure src="L1240787x-1200.jpeg" >}}
+{{< figure src="L1240787x-1200.jpeg" link="L1240787x-1200.jpeg" >}}
 
 
 ## Frozen Dust by Takumi Seino &amp; Motohiko Ichino {#frozen-dust-by-takumi-seino-and-motohiko-ichino}

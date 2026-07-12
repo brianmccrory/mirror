@@ -14,14 +14,15 @@ aliases = ["/archive/maiko-trio-live-three/", "/p/maiko-trio-live-three/"]
 
 _Jazz violinist Maiko trio live! Three_ captures a night in Tokyo in 2016, recorded live at The Glee concert hall and released as a CD and high-resolution download later that year. Jazz violinist Maiko leads the trio which includes well-known fusion guitarist Hiroki Miyano and popular in-demand pianist Shikou Ito.
 
-![](L1220314-1024.jpg)
+{{< figure src="L1220314-1024.jpg" link="L1220314-1024.jpg" >}}
+
 With violin, acoustic guitar, and piano strings resonating together to create dramatic music, comparisons could be made to fusion albums from Al Di Meola and Chick Corea. Yet Maiko’s trio is unique, combining years of experience with jazz, pop, classical, and Latin music, together with Japanese nuances for an energetic and engrossing event.
 
 With a masterful controlled touch, the music is at times played with wild, skillful abandon, and the passionate sound of the violin itself adds heavy texture to the music. Anchoring the musicians are Maiko’s original compositions which balance sadness and joy, romance and painful longing, dualities which the violin’s rich sound fits perfectly and adds to the emotional punch.
 
 With eight tracks, the songs range from colorful uptempo drama to sentimental waltzes and impressionistic ballads. Aside from six originals, two covers are included, the jazz standard “You and the Night and the Music”, and Bill Evans’s poignant “We Will Meet Again”.
 
-{{< figure src="../images/maiko-trio-live-three/L1220317-1024.JPG" >}}
+{{< figure src="../images/maiko-trio-live-three/L1220317-1024.JPG" link="../images/maiko-trio-live-three/L1220317-1024.JPG" >}}
 
 
 ## Live! Three by Maiko Trio {#live-three-by-maiko-trio}

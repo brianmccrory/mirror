@@ -14,16 +14,19 @@ aliases = ["/archive/fumie-chiba-trio-tip-of-dream/", "/p/fumie-chiba-trio-tip-o
 
 Jazz pianist and composer Fumie Chiba’s _Tip of Dream_ is a great example of modern jazz piano from Japan, displaying high-caliber technique and creative approaches to modern jazz composition.
 
-![](L1200528-1024.jpg)
+{{< figure src="L1200528-1024.jpg" link="L1200528-1024.jpg" >}}
+
 Through the album’s eight tracks, Chiba plays with confidence and verve, showing shades of McCoy Tyner’s rapid abstractions, Bills Evans’ melodic sentimentality, and Mulgrew Miller’s well-rounded fluency and swinging groove.
 
 The set starts off strong with “11th Door” which quickly demonstrates the control and power that this trio delivers. The performance is sleek and modern, at times aggressively powerful yet not lacking a sensitive touch and deep energy. From the attention-grabbing opening, the music moves into pretty ballads, lyrical sentimentality with modern flourishes, Herbie Hancock-style funky jazz, and finishes with a piano solo with balanced pop prettiness.
-![](L1200530-1024.jpg)
+
+{{< figure src="L1200530-1024.jpg" link="L1200530-1024.jpg" >}}
 
 Along with the six original songs, Chiba’s reharmonizations and arrangements also demand attention: a slightly dark “Our Love Is Here To Stay” adds a mysterious, hypnotic twist to an old standard. In addition, a sharp re-interpretation of Ravel’s “Pavane For A Dead Princess” shows how beautifully classical music can be adapted to classy modern jazz.
 
-![](L1200532-1024.jpg)
-![](L1200535-1024.jpg)
+{{< figure src="L1200532-1024.jpg" link="L1200532-1024.jpg" >}}
+
+{{< figure src="L1200535-1024.jpg" link="L1200535-1024.jpg" >}}
 
 
 ## Tip of Dream by Fumie Chiba Trio {#tip-of-dream-by-fumie-chiba-trio}

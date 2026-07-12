@@ -14,13 +14,15 @@ aliases = ["/archive/yako-horikita-shining-hour/", "/p/yako-horikita-shining-hou
 
 Fans of vintage vocal jazz will be drawn to singer Yako Horikita’s debut album _Shining Hour_, a swinging collection of twelve jazz standards delivered with a shining, sparking sincerity.
 
-![](L1220614-1024.jpg)
+{{< figure src="L1220614-1024.jpg" link="L1220614-1024.jpg" >}}
+
 Singing along with a piano trio plus saxophone, Horikita picks winners from the classic jazz songbook with tunes including “Nice Work If You Can Get It”, “Falling In Love With Love”, and “Under A Blanket Of Blue”. Horikita’s voice, a pleasant mix of deep huskiness with a light delicate touch, is confident, friendly, and warm, fitting perfectly with her jazz combo’s solid performance.
 
 While most of the tracks are straightforward mid-tempo swingers, a few of tunes offer variations with bossa and ballads on “When Sunny Gets Blue”, “Second Love”, and the album closer, a sweetly nostalgic “Over The Rainbow”.
-![](L1220616-1024.jpg)
 
-{{< figure src="L1220621-1024.jpg" >}}
+{{< figure src="L1220616-1024.jpg" link="L1220616-1024.jpg" >}}
+
+{{< figure src="L1220621-1024.jpg" link="L1220621-1024.jpg" >}}
 
 
 ## Shining Hour by Yako Horikita {#shining-hour-by-yako-horikita}

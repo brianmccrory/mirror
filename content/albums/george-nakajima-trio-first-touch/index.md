@@ -14,15 +14,18 @@ aliases = ["/archive/george-nakajima-trio-first-touch/", "/p/george-nakajima-tri
 
 On his debut album _First Touch_ from 2021, George Nakajima delivers the curated sound of his jazz piano trio, thoughtfully balancing song choices and playing set modestly between modern edge and old-fashioned homage. Through its seven tracks, the album is easy to enjoy and runs for a satisfying 46 minutes.
 
-![](L1230237x-1024.jpeg)
+{{< figure src="L1230237x-1024.jpeg" link="L1230237x-1024.jpeg" >}}
+
 Joining the pianist are Nakajima’s long-time musical partners Yoshida Yutaka on bass and Masanori Ando on drums, a trio with a locked-in feeling created through years of performing together in Japan’s live scene.
 
 Perhaps unexpectedly trepidatious for a debut album, Nakajima bucks the natural impulse to open with a high-energy song and starts with the very lovely ballad “But Beautiful”. This patient approach seems to subtly invite the listener to tune in gradually and focus their attention at one’s own pace.
-![](L1230238x-1024.jpeg)
+
+{{< figure src="L1230238x-1024.jpeg" link="L1230238x-1024.jpeg" >}}
 
 In fact, slow ballads are chosen for the opening, middle (Ellington’s “Prelude to a Kiss”), and ending songs, establishing a gentle and moderated baseline for the album as a whole. These anchor points set up a reassuring center of gravity with a throughline of unhurried piano and bass notes supported by soft drums brushes, a very enjoyable relaxed jazz trio in a quiet mood. Burt Bacharach’s masterful tune “A House Is Not a Home” closes the album and is an especially impressive highlight, expertly played with finesse and respect.
 
-![](L1230239x-1024.jpeg)
+{{< figure src="L1230239x-1024.jpeg" link="L1230239x-1024.jpeg" >}}
+
 In between the ballads, the songs lift from this foundation with the uptempo bop of “Relaxin’ at Camarillo” and the jangly playful “Evidence”. Similarly, the exoticism of “Nardis”, a song often associated with Bill Evans’ melodic trio, is performed here in a slightly slower, otherworldly setting. Alongside these jazz standard tunes, Nakajima’s original composition “First Touch” complements the setlist with its simple heartbeat melodic motif with comfortable waltz-time ease.
 
 With a respectful length and a perfect song selection honoring great jazz musicians, George Nakajima’s _First Touch_ leaves a heartwarming impression with its modest yet stimulating approach, a compelling initial statement that tempts with future possibilities for sharing his gratifying music.
@@ -54,7 +57,7 @@ As the world is still unsettled due to corona, I continue to pray for a steady r
 
 _2021.4 George Nakajima_
 
-{{< figure src="L1230240x-1024.jpeg" >}}
+{{< figure src="L1230240x-1024.jpeg" link="L1230240x-1024.jpeg" >}}
 
 
 ## First Touch by George Nakajima Trio {#first-touch-by-george-nakajima-trio}

@@ -14,14 +14,17 @@ aliases = ["/archive/naoko-akimoto-no-one-else/", "/p/naoko-akimoto-no-one-else/
 
 Vocalist Naoko Akimoto’s debut release _No One Else_ is a seven-song introduction to the popular singer, a presentation of standard jazz and Japanese pop arranged with care and performed by top musicians from Tokyo.
 
-![](L1200590x-1024.jpeg)
+{{< figure src="L1200590x-1024.jpeg" link="L1200590x-1024.jpeg" >}}
+
 The arrangements are nice, particularly on the opening track “Moondance” which opens with a deep bass, piano, and vibes setting up a grove for Akimoto to lead the listener through the atmospheric drama of the tune. The decorated arrangements include vocal harmonies with trumpet, flute, and other instruments adding beautiful layers to the music.
 
 After the classy opener, the album continues with the title track “No One Else”, a soulful pop ballad written by Akimoto. The remaining five tracks include three jazz standards: the chaste “I’ve Got A Crush On You”, a sultry “This Masquerade”, and a tender, bossa-flavored “Fly Me To The Moon”. While Akimoto sings in English for most of the album, she chooses to sing in Japanese for two pop songs, “Sentimental” and “Ajisai”, adding to the musical variety and showing us more of Akimoto’s range and affection on her album debut.
-![](L1200591x-1024.jpeg)
 
-![](L1200592x-1024.jpeg)
-![](L1200596x-1024.jpeg)
+{{< figure src="L1200591x-1024.jpeg" link="L1200591x-1024.jpeg" >}}
+
+{{< figure src="L1200592x-1024.jpeg" link="L1200592x-1024.jpeg" >}}
+
+{{< figure src="L1200596x-1024.jpeg" link="L1200596x-1024.jpeg" >}}
 
 
 ## No One Else by Naoko Akimoto {#no-one-else-by-naoko-akimoto}

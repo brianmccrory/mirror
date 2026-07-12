@@ -14,13 +14,15 @@ aliases = ["/archive/ryosuke-hashizume-group-incomplete-voices/", "/p/ryosuke-ha
 
 Incomplete Voices is the latest release from the Ryosuke Hashizume Group, released in 2017. As with prior albums, this is a wonderful collection of carefully conceived modern jazz compositions showcasing the saxophonist’s concepts and the tight-knit group dynamics. Close attention is paid to the harmonic and rhythmic layers in the music with excitement built on climactic resolutions and striking moods.
 
-![](../images/ryosuke-hashizume-group-incomplete-voices/L1180434-1024.JPG)
+{{< figure src="../images/ryosuke-hashizume-group-incomplete-voices/L1180434-1024.JPG" link="../images/ryosuke-hashizume-group-incomplete-voices/L1180434-1024.JPG" >}}
+
 The music is sleek, organic, and hypnotic at times. For example, track #3 “Synesthesia” is particularly magical as time and pulse slip and shift as the music develops; at other times, the group locks into a detailed groove, or opens up the framework and allows timekeeping to fade from the audio palette. The roomy improvisational passages are filled with emotional passion and rooted by the quintet’s empathy established through years of live and recording experience.
 
 High-caliber musicianship and exquisite songcraft make this an absorbingly satisfying listen, cerebral yet bodily grooving.
-![](../images/ryosuke-hashizume-group-incomplete-voices/L1180436-1024.JPG)
 
-{{< figure src="../images/ryosuke-hashizume-group-incomplete-voices/L1180435-1024.JPG" >}}
+{{< figure src="../images/ryosuke-hashizume-group-incomplete-voices/L1180436-1024.JPG" link="../images/ryosuke-hashizume-group-incomplete-voices/L1180436-1024.JPG" >}}
+
+{{< figure src="../images/ryosuke-hashizume-group-incomplete-voices/L1180435-1024.JPG" link="../images/ryosuke-hashizume-group-incomplete-voices/L1180435-1024.JPG" >}}
 
 
 ## Incomplete Voices by Ryosuke Hashizume Group {#incomplete-voices-by-ryosuke-hashizume-group}

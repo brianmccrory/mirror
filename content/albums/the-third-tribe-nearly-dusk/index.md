@@ -15,7 +15,7 @@ aliases = ["/archive/the-third-tribe-nearly-dusk/", "/p/the-third-tribe-nearly-d
 
 _Almost Dusk_ is a 2019 album from the duo of pianist Yoko Kobayashi and drummer Kazumi Ikenaga. Their beautifully imaginative music is flexibly arranged, somewhat abstract, but solidly grounded to the music they have written upon which they improvise with linked hands and minds. The duo’s playing roams across their compositions as they tune into to themselves and to one another for in the moment inspiration and stimulation, simultaneously creating, responding, pausing, and reflecting. The written notes of their compositions are also guided by the images and stories that bind the music to their visions, whether it’s signals from outer space, precious childhood memories, or the beauty uncovered in slow daily life.
 
-{{< figure src="L1300955x-1200.jpeg" >}}
+{{< figure src="L1300955x-1200.jpeg" link="L1300955x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -25,23 +25,28 @@ _(Translated from the original Japanese liner notes and commentary from Kazumi I
 1.Waltz for Mars (Y. Kobayashi)
 
 At our first rehearsal, Yoko Kobayashi said “These are communications with Martians.” I didn’t understand that at first, but after trying several times, I thought “Hmm, maybe this is that Martian feeling?” I headed into the recording with that in mind.
-![](L1300963x-1200.jpeg)
+
+{{< figure src="L1300963x-1200.jpeg" link="L1300963x-1200.jpeg" >}}
 
 According to the composer, Martians and Earthlings (both children, apparently) are able to communicate well, and it’s pretty funny (laughs). For more details, certainly ask the author, please!
 
-![](L1300974x-1200.jpeg)
+{{< figure src="L1300974x-1200.jpeg" link="L1300974x-1200.jpeg" >}}
+
 2.Kazekaoru (風薫る, _Refreshing fragrant breeze in early summer_) (Y. Kobayashi)
 
 The two of use play roles where Yoko is a balmy summer breeze and I start as a gentle breeze that turns into a gust of wind like a bullet train speeding away at the end.
-![](L1300977x-1200.jpeg)
+
+{{< figure src="L1300977x-1200.jpeg" link="L1300977x-1200.jpeg" >}}
 
 This soundscape revives distant memories. Once, on my way home from school, it was still a bit chilly and I started to hurry back on the road home, when a gust of wind seemed to respond and brush past my cheek.
 
-![](L1300982x-1200.jpeg)
+{{< figure src="L1300982x-1200.jpeg" link="L1300982x-1200.jpeg" >}}
+
 3.Playground (Y. Kobayashi)
 
 In the back room before our third live performance, Yoko gave me a freshly-written sheet music score and said “This is a song that I wrote with you in mind.” She even entrusted me to title the song. I felt the pressure, and I was thinking too hard on the first take of the recording, so I ended up going around in circles.
-![](L1300983x-1200.jpeg)
+
+{{< figure src="L1300983x-1200.jpeg" link="L1300983x-1200.jpeg" >}}
 
 For the second take, I casually hit the drums with my bare hands, and I was just able to play as I returned to an innocent childlike state, thinking of nothing in particular.
 
@@ -139,7 +144,7 @@ _Kazumi Ikenaga_
 Here begins the history of a new musical tribe!!!<br />
 A prayer to the infinite universe, a completely new duo format and their shocking debut!!
 
-{{< figure src="L1300991x-1200.jpeg" >}}
+{{< figure src="L1300991x-1200.jpeg" link="L1300991x-1200.jpeg" >}}
 
 
 ## Nearly Dusk by The Third Tribe {#nearly-dusk-by-the-third-tribe}

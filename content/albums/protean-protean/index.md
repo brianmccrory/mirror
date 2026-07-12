@@ -14,14 +14,17 @@ aliases = ["/archive/protean-protean/", "/p/protean-protean/"]
 
 _Protean_ is the first release from jazz pianist Naoko Tanaka, who self-produced and released this album in 2009 under the name Protean along with bassist Naoyuki Seto and drummer Dan Yoshikawa.
 
-![](../images/protean-protean/L1200370-1024.JPG)
+{{< figure src="../images/protean-protean/L1200370-1024.JPG" link="../images/protean-protean/L1200370-1024.JPG" >}}
+
 With six songs over 35 minutes, the album features all originals, four by the pianist and one each from the bassist and drummer. Album highlights such as tracks #3 “Kirin no Sougen” and #5 “Negotiater” showcase the trio’s stimulating, uptempo jazz-rock, summoning slightly Ahmad Jamal’s later period music with dense figures arranged over churning, funky grooves. The trio also offers slow jazz-pop ballads (“Never Say My Mind”) and modern jazz sketches (“Ocean”, “The Last Train”) to extend the atmosphere.
 
 Although this release is on the shorter side, it previews what is to come from Tanaka, foreshadowing her detailed original compositions and impeccable talent continued on her successive releases and met with mounting popularity.
-![](../images/protean-protean/L1200371-1024.JPG)
 
-![](../images/protean-protean/L1200372-1024.JPG)
-![](../images/protean-protean/L1200374-1024.JPG)
+{{< figure src="../images/protean-protean/L1200371-1024.JPG" link="../images/protean-protean/L1200371-1024.JPG" >}}
+
+{{< figure src="../images/protean-protean/L1200372-1024.JPG" link="../images/protean-protean/L1200372-1024.JPG" >}}
+
+{{< figure src="../images/protean-protean/L1200374-1024.JPG" link="../images/protean-protean/L1200374-1024.JPG" >}}
 
 
 ## Protean by Protean {#protean-by-protean}

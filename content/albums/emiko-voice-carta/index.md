@@ -14,12 +14,15 @@ aliases = ["/archive/emiko-voice-carta/", "/p/emiko-voice-carta/"]
 
 An elegant package inside and out, brimming with atmosphere. The outer package is a slim booklet, containing photography, a poem, and an essay. The music itself is a modern take on classic jazz songs with Japanese words and flavor sprinkled throughout, featuring excellent arrangements by pianist Koichi Sato.
 
-![](L1180430-1024.jpg)
+{{< figure src="L1180430-1024.jpg" link="L1180430-1024.jpg" >}}
+
 Emiko’s voice is front-and-center and spans the gamut from quick instrumentesque aerobics to passionate crooning. Vocals, piano, Fender Rhodes, and an innovative stand-up drum set constitute the core of the group, and several other instrumentalists contribute to the album, with material ranging from dreamy and moody to light and shimmering.
 
-![](L1180431-1024.jpg)
-![](L1180432-1024.jpg)
-![](L1180433-1024.jpg)
+{{< figure src="L1180431-1024.jpg" link="L1180431-1024.jpg" >}}
+
+{{< figure src="L1180432-1024.jpg" link="L1180432-1024.jpg" >}}
+
+{{< figure src="L1180433-1024.jpg" link="L1180433-1024.jpg" >}}
 
 
 ## Carta by Emiko Voice {#carta-by-emiko-voice}

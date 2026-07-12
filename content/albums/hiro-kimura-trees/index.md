@@ -15,18 +15,21 @@ aliases = ["/archive/hiro-kimura-trees/", "/p/hiro-kimura-trees/"]
 
 Drummer Hiro Kimura’s debut album from 2022 is _Trees_, a 61-minute modern jazz album recorded with two of his regular rhythm sections. The album was recorded over two days in the studio, the first with Naoko Tanaka on piano and Yuji Ito on bass, and the second with Mamoru Ishida on piano and Keisuke Furuki on bass.
 
-![](L1250815x-1200.jpeg)
+{{< figure src="L1250815x-1200.jpeg" link="L1250815x-1200.jpeg" >}}
+
 Joining Kimura’s rhythm sections are the front-line members consisting of three horn players who alternate and unite on different tracks. Alto and soprano saxes are played by Akiha Nishiyama and Kohei Ando, and trumpet by Mao Sone, who also switches to piano and Fender Rhodes for two songs.
 
 Most of the songs feature a quartet form with sax, piano, bass, and drums, with Nishiyama and Ando switching off between the two rhythm sections. The two sax players even join up on one song with a burning back-and-forth sax dialogue on the addictively chunky #4 “Updraft”, where the reverse-step riffs and rhythms with the steadily rising notes of melody and improv appear as upward-flowing tendrils of smoke or air.
-![](L1250819x-1200.jpeg)
+
+{{< figure src="L1250819x-1200.jpeg" link="L1250819x-1200.jpeg" >}}
 
 Along with his crystal clear and clean-cut drumming, this debut from Kimura also showcases to a large degree his writing style with jazz, mainly, but also pop and Brazilian musical influences. There is straight modern jazz composing with personality (#1 “Winter Pillow”, #2, “Groundwater”, #3 “Enrai”, #4 “Updraft”), melancholy infused with folk or ethnic influences (#5 “K’s A Major”, #6 “Gijibato Blues”), and cool-down, laid-back grooves (#8 “Time After Time”, #9 “When It Was New”).
 
-![](L1250822x-1200.jpeg)
+{{< figure src="L1250822x-1200.jpeg" link="L1250822x-1200.jpeg" >}}
+
 While this is a drummer-led album, Kimura shares the stage generously with all of the members in these trios, quartets, and quintets; his humility extends even to the album credits where his own name is placed last in order. Aside from his locked-in drumming skills, fans of great drummers will also notice several moments on the record when he takes the spotlight. Kimura’s drum solos are featured on track #1 “Winter Pillow” and #4 “Updraft” after the horns and piano finish their solos. In addition, his propulsive percussion intros to #4 “Updraft” and #7 “Overrun” set the mood perfectly and crank up the engines for two of the dynamic highlights on the album as well.
 
-{{< figure src="L1250827x-1200.jpeg" >}}
+{{< figure src="L1250827x-1200.jpeg" link="L1250827x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -34,7 +37,8 @@ While this is a drummer-led album, Kimura shares the stage generously with all o
 _(Translated from Hiro Kimura’s original Japanese liner notes.)_
 
 First of all, thank you for checking out this album.
-![](L1250831x-1200.jpeg)
+
+{{< figure src="L1250831x-1200.jpeg" link="L1250831x-1200.jpeg" >}}
 
 A warm welcome to those who may already know my name or the musicians on this album, and also to those who are hearing us for the first time. Also, to any young people who may have discovered this CD on their parent’s bookshelf someday decades in the future.
 
@@ -80,7 +84,7 @@ _June 20, 2021_
 
 _Hiro Kimura_
 
-{{< figure src="L1250843x-1200.jpeg" >}}
+{{< figure src="L1250843x-1200.jpeg" link="L1250843x-1200.jpeg" >}}
 
 
 ## Trees by Hiro Kimura {#trees-by-hiro-kimura}

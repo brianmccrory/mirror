@@ -14,16 +14,19 @@ aliases = ["/archive/layla-tomomi-sakai-island/", "/p/layla-tomomi-sakai-island/
 
 Easy and breezy, as if dozing in a hammock between palm trees, Layla Tomomi Sakai’s _The Island_ stirs up visions of vacationing and relaxing in sultry lands as music floats softly by.
 
-![](L1220603-1024.jpg)
+{{< figure src="L1220603-1024.jpg" link="L1220603-1024.jpg" >}}
+
 Sakai’s deep voice embraces the listener, dancing lightly through bossa novas and Latin-tinged music. The music is comforting, the musicians performing pieces that come and go in an uncomplicated manner, lulling the listener into a state of reassuring comfort. Sakai uses her voice gently yet confidently, producing an effect of sweet directness with an affectionate touch.
 
 Suppressing tense energy and favoring intimacy, the album features vocal/guitar duo arrangements in traditional bossa nova fashion, with additional instruments (piano, saxophone, harmonica) sprinkled in lightly. Several songs feature Sakai singing simply with a guitar and one other instrument: Antonio Carlos Jobim’s “Desafinado” and “Once I Loved”, as well as “Negaeri”, a ballad sung in Japanese as a gentle album closer.
-![](L1220604-1024.jpg)
+
+{{< figure src="L1220604-1024.jpg" link="L1220604-1024.jpg" >}}
 
 While maintaining the calm atmosphere, three songs also feature Sakai singing with a jazz quintet: “Only Trust Your Heart”, “I Remember You”, and “The Island” all feature piano, guitar, horn, bass, and drums, coming together to create a wonderfully pleasant sound, like an island breeze drifting softly by.
 
-![](L1220608-1024.jpg)
-![](L1220612-1024.jpg)
+{{< figure src="L1220608-1024.jpg" link="L1220608-1024.jpg" >}}
+
+{{< figure src="L1220612-1024.jpg" link="L1220612-1024.jpg" >}}
 
 
 ## The Island by Layla Tomomi Sakai {#the-island-by-layla-tomomi-sakai}

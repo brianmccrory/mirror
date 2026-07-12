@@ -14,12 +14,15 @@ aliases = ["/archive/kaori-vibes-quartet-flying-mind/", "/p/kaori-vibes-quartet-
 
 Kaori Vibes Quartet is a jazz quartet centered around the lovely ringing bell-tones of jazz vibraphone. After three years of playing together, the group formerly known as Vangy!! (note the vibraphone mallets “!!” in the name) released their eagerly awaited debut album _Flying Mind_ in 2013, much to fans’ delight.
 
-![](L1180727-1024.jpg)
+{{< figure src="L1180727-1024.jpg" link="L1180727-1024.jpg" >}}
+
 The magically mellow yet bright sounds of the vibraphone fill the tracks of this album, bouncing through songs swinging with positivity and charm, creating relaxing, feel-good music. The compositions include foot-tapping modern jazz tunes, two pretty ballads, a soulful groovy number, and a speedy rendition of “Grease Piece” by Horace Silver – a rewarding effort for all fans of jazz vibraphone.
 
-![](L1180729-1024.jpg)
-![](L1180731-1024.jpg)
-![](L1180736-1024.jpg)
+{{< figure src="L1180729-1024.jpg" link="L1180729-1024.jpg" >}}
+
+{{< figure src="L1180731-1024.jpg" link="L1180731-1024.jpg" >}}
+
+{{< figure src="L1180736-1024.jpg" link="L1180736-1024.jpg" >}}
 
 
 ## Flying Mind by Kaori Vibes Quartet {#flying-mind-by-kaori-vibes-quartet}

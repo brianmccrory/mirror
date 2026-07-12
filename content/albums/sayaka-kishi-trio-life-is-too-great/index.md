@@ -14,19 +14,23 @@ aliases = ["/archive/sayaka-kishi-trio-life-is-too-great/", "/p/sayaka-kishi-tri
 
 Expressing an exuberance for life with an original jazz spirit, _Life Is Too Great_ from the Sayaka Kishi Trio is a vivid recording, full of variety and infused with the pure music spirit of Sayaka Kishi.
 
-![](L1220679-1024.jpg)
+{{< figure src="L1220679-1024.jpg" link="L1220679-1024.jpg" >}}
+
 Active in many groups and collaborations, Kishi returns to the classic piano trio form on _Life Is Too Great_ and leads a powerhouse jazz trio, showcasing talent and songwriting with new original tunes, with the ever-hardy, invigorating Ryoji Orihara on fretless bass and crisp rhythmic master Akira Yamada on drums.
 
 From the swinging modern-jazz opener “DON PAPA”, the trio sparks a fire, and with such variety on the album highlights abound: the smooth fusion groove “Kin No Doto”, the darkly dramatic and tense “Madoka”, and the snappy up-beat samba “Palette” are all addictively ear-catching tunes. In addition, the album includes cleverly-arranged jazz on “I Have A Dream”, Sayaketts-style funky pop jazz on “Trip! or Tweet?”, and honestly sweet ballads on “Life Is Too Great” and “Dai Ni No Furosato”, a great album-closer full of emotion and charm.
-![](L1220687-1024.jpg)
+
+{{< figure src="L1220687-1024.jpg" link="L1220687-1024.jpg" >}}
 
 In addition to her eight original offerings, three cover songs are included: Chick Corea’s “La Fiesta”, Thelonious Monk’s “Evidence”, and the jazz standard “Guilty”, performed as a dreamy piano solo.
 
-![](L1220697-1024.jpg)
+{{< figure src="L1220697-1024.jpg" link="L1220697-1024.jpg" >}}
+
 On _Life Is Too Great_, Kishi’s tunes and performances are great and full of life, prismatic and memorable, befitting this polished modern jazz trio.
 
-![](L1220691-1024.jpg)
-![](L1220693-1024.jpg)
+{{< figure src="L1220691-1024.jpg" link="L1220691-1024.jpg" >}}
+
+{{< figure src="L1220693-1024.jpg" link="L1220693-1024.jpg" >}}
 
 
 ## Life Is Too Great by Sayaka Kishi Trio {#life-is-too-great-by-sayaka-kishi-trio}

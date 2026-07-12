@@ -14,11 +14,13 @@ aliases = ["/archive/sumito-oi-sumitty-and-the-funfair/", "/p/sumito-oi-sumitty-
 
 _Sumitty &amp; the Funfair_ is a 2015 release from drummer Sumito Oi and his band of merry music makers, assembling here to produce an original work of creatively poppy jazz. Not circus clown tomfoolery, but, rather, light and glittery music played with a cheerful buoyancy and sensitivity by improvisational jazz musicians. The theme is musical fun, wide-smiled mirth carried by a sweet nostalgia for amusement park ambiance.
 
-![](../images/sumito-oi-sumitty-and-the-funfair/L1180745-1024.JPG)
+{{< figure src="../images/sumito-oi-sumitty-and-the-funfair/L1180745-1024.JPG" link="../images/sumito-oi-sumitty-and-the-funfair/L1180745-1024.JPG" >}}
+
 As a drummer’s quartet, rhythm moderates the music delightfully, propulsive but never overpowering. Flutes with electric and acoustic instruments add evocative flavors, leading us through the fair and summoning musical images like childhood memories.
 
-![](../images/sumito-oi-sumitty-and-the-funfair/L1180744-1024.JPG)
-![](../images/sumito-oi-sumitty-and-the-funfair/L1190079-1024.JPG)
+{{< figure src="../images/sumito-oi-sumitty-and-the-funfair/L1180744-1024.JPG" link="../images/sumito-oi-sumitty-and-the-funfair/L1180744-1024.JPG" >}}
+
+{{< figure src="../images/sumito-oi-sumitty-and-the-funfair/L1190079-1024.JPG" link="../images/sumito-oi-sumitty-and-the-funfair/L1190079-1024.JPG" >}}
 
 
 ## Sumitty &amp; The Funfair by Sumito Oi {#sumitty-and-the-funfair-by-sumito-oi}

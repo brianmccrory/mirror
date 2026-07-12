@@ -14,17 +14,23 @@ aliases = ["/archive/daiki-yasukagawa-trio-trios-ii/", "/p/daiki-yasukagawa-trio
 
 Similar in concept to Ray Brown’s _Some Of My Best Friends Are…_ album series in which the legendary bassist plays with assorted partners in jazz, bassist Daiki Yasukagawa’s release _Trios II_ from 2015 features the bassist performing with four different trios assembled from multiple pianists and drummers. A followup to Yasukagawa’s _Trios_ (2010), _Trios II_ brings even more musicians into the recording studio and offers up a new album with the various trios performing 11 songs.
 
-![](L1220829-1024.jpg)
+{{< figure src="L1220829-1024.jpg" link="L1220829-1024.jpg" >}}
+
 The pianists and drummers are all players who perform with the bassist on different albums and at live shows in Japan, and each member adds personal touches and dynamics to the combos. The majority of songs are originals from the bassist, with the balance being in favor of slower tempo ballads and relaxed moods built upon the bassist’s deep, weighty sound and timing. A few uptempo numbers are included, starting with the album opener West Side Story’s “Tonight” which kicks things off with a great swing beat, Yasukawaga’s own joyful “My Bebop Tune”, and an exuberantly wild “Circle III”.
 
 In addition to providing a glimpse into the modern working trio in Tokyo’s current jazz scene, _Trios II_ is also a great standalone package of jazz piano trios performing Yasukagawa’s music for a comfortable, mood-enhancing collection.
-![](L1220833-1024.jpg)
 
-![](L1220835-1024.jpg)
-![](L1220839-1024.jpg)
-![](L1220837-1024.jpg)
-![](L1220841-1024.jpg)
-![](L1220845-1024.jpg)
+{{< figure src="L1220833-1024.jpg" link="L1220833-1024.jpg" >}}
+
+{{< figure src="L1220835-1024.jpg" link="L1220835-1024.jpg" >}}
+
+{{< figure src="L1220839-1024.jpg" link="L1220839-1024.jpg" >}}
+
+{{< figure src="L1220837-1024.jpg" link="L1220837-1024.jpg" >}}
+
+{{< figure src="L1220841-1024.jpg" link="L1220841-1024.jpg" >}}
+
+{{< figure src="L1220845-1024.jpg" link="L1220845-1024.jpg" >}}
 
 
 ## Trios II by Daiki Yasukagawa Trio {#trios-ii-by-daiki-yasukagawa-trio}

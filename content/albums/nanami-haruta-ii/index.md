@@ -15,19 +15,23 @@ aliases = ["/archive/nanami-haruta-ii/", "/p/nanami-haruta-ii/"]
 
 Trombonist Nanami Haruta’s debut release _II_ from 2022 is another great example of new jazz albums from new players that keep flowing to the hands and ears of eager fans. Haruta, a young player who has been making an impact in the Japanese jazz scene, has been frequently featured as both leader and guest member at various live shows. In addition to this debut, she has also participated in other recent recordings such as _[64 Charlesgate](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-64-charlesgate)_ (2022) and _[For My Lady](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for)_ (2023).
 
-![](L1230371x-1024.jpeg)
+{{< figure src="L1230371x-1024.jpeg" link="L1230371x-1024.jpeg" >}}
+
 As foreshadowed by the album’s opening with a stage-setting deep bass solo, this album is quietly tenacious, and the music initially settles in subtly but quickly sinks its hooks in. The compositional variation, the exciting instrumental solos and tradeoffs, and some brief moments of dual improvisation and free chaos, all contribute to the high repeatability of this package, tempting you back to play it again.
 
 Through fifty minutes and seven tracks on _II_, the modern swing rhythms, melodic lines, and structural elements briefly give hints of 1950s and 60s Blue Note sounds, with its dynamically-charged drum palettes and bass grounding, cutting-edge piano framing, and captivating horn lines, recalling the hard bop albums from Lee Morgan, Kenny Dorham, and other jazz messengers.
-![](L1230372x-1024.jpeg)
+
+{{< figure src="L1230372x-1024.jpeg" link="L1230372x-1024.jpeg" >}}
 
 As a trombone leader’s debut album, it’s probably no surprise that the influence of the great jazz trombonist J. J. Johnson is also evident, particularly on Johnson’s beautiful tune “Lament”, a pensive ballad played with genuine feeling by Haruta and the quintet. This ballad, along with Strayhorn’s “Day Dream”, provides lovely slower moments that are set against the other higher-energy tracks. These five tracks are invigorating and memorable, with a hard bop swinger, a cheerfully funky groover, a mysteriously see-sawing tune, a punchy uptempo ride, and a wild boiler. Through it all, each musician gets ample space to improvise and show their stuff.
 
-![](L1230373x-1024.jpeg)
+{{< figure src="L1230373x-1024.jpeg" link="L1230373x-1024.jpeg" >}}
+
 Of course, as the group leader, Haruta is featured, as is her solid composition “1965” which opens the album (saxophonist Akihiro Yoshimoto also contributes three excellent originals). But Haruta’s spotlight is not at the expense of sidelining the other amazing players in the quintet. Mayuko Kamakura on piano, Yoshimoto on sax, Takumi Awaya on bass, and Shun Ishikawa on drums are given plenty of time to shine as well. This all pays off with a front-to-back jazz album that fits together wonderfully with satisfying dynamics.
 
 As for the potentially confusing title of _II_, this may be a bit of a head-scratcher for a debut album. If this stands for “2” in Roman numerals, it would be an unexpected title for a first release. Or, is this a reference to the second-decade milestone mentioned in the liner notes? Could _II_ signify something else, maybe not a numeral meaning at all? An uppercased romaji translation of the Japanese word _ii_ (いい) meaning good, all right, and such? Or, internet slang for “I’m Impressed”? Or maybe, when represented as extended index and middle fingers counting “two”, indicating the peace sign often seen in selfies and group photos? Or maybe it’s an inside joke, or someone’s favorite number. Maybe we’re not meant to know, and that’s all right. Either way, I’m definitely impressed.
-![](L1230374x-1024.jpeg)
+
+{{< figure src="L1230374x-1024.jpeg" link="L1230374x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -56,7 +60,7 @@ This album was brought about through Nanami Haruta’s gathering of the best mus
 
 Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 
-{{< figure src="L1240188x-1200.jpeg" >}}
+{{< figure src="L1240188x-1200.jpeg" link="L1240188x-1200.jpeg" >}}
 
 
 ## II by Nanami Haruta {#ii-by-nanami-haruta}

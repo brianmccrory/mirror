@@ -15,15 +15,17 @@ aliases = ["/archive/baby-brothers-happy-christmas-with-bb/", "/p/baby-brothers-
 
 This special release from Baby Brothers, entitled _Happy Christmas with Bb (side b, the final live at plug and more)_, warmly celebrates the holidays and commemorates the vocal quintet’s final performance in 2007, layering bittersweet emotions with abundantly joyful singing and expression.
 
-![](L1200613x-1024.jpeg)
+{{< figure src="L1200613x-1024.jpeg" link="L1200613x-1024.jpeg" >}}
+
 The album starts with eight tracks performed and recorded in concert. This live portion features the a capella quintet using their voices in beautiful harmony with charming arrangements from their repertoire including the classic jazz standard “My Favorite Things”, some jazzy soul and pop selections, and three well-known Japanese songs.
 
 The three songs “Nada Sousou”, “Ookina Furudokei”, and “Furusato” are well known in Japan and are especially heartwarming album highlights. Despite any language barrier, the textured voices and words convey a sense of nostalgia, sadness, and memories, immersing listeners in steeping emotions.
-![](L1200614x-1024.jpeg)
+
+{{< figure src="L1200614x-1024.jpeg" link="L1200614x-1024.jpeg" >}}
 
 Following the eight live tracks, four studio-recorded songs include two finely-tuned pop songs and two Christmas classics, ending the album sweetly with a lush “White Christmas” and a serene caroling of “Silent Night” sung in both Japanese and English.
 
-{{< figure src="L1200615x-1024.jpeg" >}}
+{{< figure src="L1200615x-1024.jpeg" link="L1200615x-1024.jpeg" >}}
 
 
 ## Happy Christmas with Bb by Baby Brothers {#happy-christmas-with-bb-by-baby-brothers}

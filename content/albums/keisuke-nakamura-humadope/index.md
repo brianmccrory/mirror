@@ -14,11 +14,13 @@ aliases = ["/archive/keisuke-nakamura-humadope/", "/p/keisuke-nakamura-humadope/
 
 Trumpeter Keisuke Nakamura leads a group of contemporary jazz musicians called _Humadope_, a post-bop Jazz Messengers-styled quintet with a trumpet-sax front line and piano-bass-drums rhythm section. The name itself (a mix of human/mad/dope) suggests a dangerous edge on blisteringly fast tunes as the skilled soloists riotously burn through the changes. Yet, the group handily balances this attitude with a warm sensitivity played on soulful ballads and cooler numbers.
 
-![](L1180587-1024.jpg)
+{{< figure src="L1180587-1024.jpg" link="L1180587-1024.jpg" >}}
+
 This album consists of well-written original compositions with a few covers thrown in (Freddie Hubbard, Herbie Hancock, Quincy Jones). Overall, this is an excellent debut with a variety of moods, tempos, and exciting solos showcasing some premium J Jazz from the current crop of musicians.
 
-![](L1180583-1024.jpg)
-![](L1180590-1024.jpg)
+{{< figure src="L1180583-1024.jpg" link="L1180583-1024.jpg" >}}
+
+{{< figure src="L1180590-1024.jpg" link="L1180590-1024.jpg" >}}
 
 
 ## Humadope by Keisuke Nakamura {#humadope-by-keisuke-nakamura}

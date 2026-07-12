@@ -14,14 +14,17 @@ aliases = ["/archive/fumiko-yamazaki-here-goes/", "/p/fumiko-yamazaki-here-goes/
 
 From vibraphonist Fumiko Yamazaki, the aptly titled _Here Goes!_ is an enthusiastic introduction to her music with her jazz quartet on her 2011 debut release.
 
-![](../images/fumiko-yamazaki-here-goes/L1200539-1024.JPG)
+{{< figure src="../images/fumiko-yamazaki-here-goes/L1200539-1024.JPG" link="../images/fumiko-yamazaki-here-goes/L1200539-1024.JPG" >}}
+
 With seven tracks at a running time of 48 minutes, the songs fall into a few distinct styles: poppy and upbeat (#1 “Here Goes!” and #6 “Genkidama”), energetic and jazzy (#5’s “Theme from Lupin the Third”), and beautifully bittersweet and evocative, highlighting the pure ringing beauty of the metal bars of the vibraphone hit in rapid succession by soft mallets.
 
 The poppy tracks are refreshing and positive, sounding suitable as light-hearted music for Japanese movies or animation (in fact, “Lupin the Third” is a well-known jazz song from the anime series of the same name, and strikes a brisk feeling of criminal adventure). Meanwhile, tracks #2, 3, and 4 (Sholom Secunda’s “Dona Dona”, Yamazaki’s original “Eternity”, and Astor Piazzolla’s famous tango “Oblivion”) are mysterious, gentle, and haunting, and arranged together like a fitting three-part suite. In a similar style, the final song “Okinagusa” closes the album with a peaceful, delicate performance, a graceful departure like a Japanese music box winding down with a wave goodbye.
-![](../images/fumiko-yamazaki-here-goes/L1200538-1024.JPG)
 
-![](../images/fumiko-yamazaki-here-goes/L1200543-1024.JPG)
-![](../images/fumiko-yamazaki-here-goes/L1200544-1024.JPG)
+{{< figure src="../images/fumiko-yamazaki-here-goes/L1200538-1024.JPG" link="../images/fumiko-yamazaki-here-goes/L1200538-1024.JPG" >}}
+
+{{< figure src="../images/fumiko-yamazaki-here-goes/L1200543-1024.JPG" link="../images/fumiko-yamazaki-here-goes/L1200543-1024.JPG" >}}
+
+{{< figure src="../images/fumiko-yamazaki-here-goes/L1200544-1024.JPG" link="../images/fumiko-yamazaki-here-goes/L1200544-1024.JPG" >}}
 
 
 ## Here Goes! by Fumiko Yamazaki {#here-goes-by-fumiko-yamazaki}

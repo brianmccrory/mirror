@@ -15,11 +15,13 @@ aliases = ["/archive/yuka-yanagihara-trio-beloved-ones/", "/p/yuka-yanagihara-tr
 
 Like pianist Yuka Yanagihara’s previous album _Inner Views_ from 2019, her songs on this year’s release _Beloved Ones_ are also focused on both external vistas and inner reflections. It is as if the inner-outer boundary is balanced, permeable, and transferring the trio’s music and inspiration from in to out and back again, fluidly.
 
-![](L1250523x-1200.jpeg)
+{{< figure src="L1250523x-1200.jpeg" link="L1250523x-1200.jpeg" >}}
+
 From the previous album to this one, the imagery shifts from close (raindrops on a window) to far, with natural scenery in theme for both. A second link to her previous album is found in a track on the _Beloved Ones_, “Rainy Song #3 In Winter”. This song continues the story started in the opening two tracks on _Inner Views_, “Rainy Song 1: At Midnight” and “Rainy Song 2: In the Forest”. Comparing the two album covers and the pieces’ progression, the rain has stopped and the eye’s focus has extended further into the world, onto meadows, trees, and mountains.
 
 Within the calm music like some tracks on _Beloved Ones_, understated music can say so much. It speaks quietly and does not rouse in overly obvious ways, but seeps in like unstoppable truths, extending like liquid flowing and pooling on a smooth flat surface.
-![](L1250526x-1200.jpeg)
+
+{{< figure src="L1250526x-1200.jpeg" link="L1250526x-1200.jpeg" >}}
 
 Between one standard swing tune and one free ambient exploration (relatively moderate on both counts), the rest of the tracks occupy the space in between. Mostly there is a subtle, straight-eight feel throughout. Yanagihara’s music is richly colored by drummer Ryo Noritake, and he provides not just background time pulse but a lot of expertly applied shading and dynamics.
 
@@ -31,7 +33,7 @@ The album starts liltingly with a softly falling “Snowflake” before moving i
 
 With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing and concepts. There is a feeling of loving-kindness radiating from the title and through the music. Enhancing the calm are the images of nature and natural settings. Peace is brought to life by Yuka Yanagihara’s trio, her music, and song titles, surpassing the limits of language but lifting off from these words: “Snowflake”, “Landscape”, “All the Things You Are”, “Rainy Song”, “Move On”, “Loved One”, “Ripple”, “Surreal Sunset”, “Spring, Blue Sky”. _Beloved Ones_.
 
-{{< figure src="L1250534x-1200.jpeg" >}}
+{{< figure src="L1250534x-1200.jpeg" link="L1250534x-1200.jpeg" >}}
 
 
 ## Beloved Ones by Yuka Yanagihara Trio {#beloved-ones-by-yuka-yanagihara-trio}

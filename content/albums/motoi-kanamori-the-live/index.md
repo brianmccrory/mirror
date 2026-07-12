@@ -15,18 +15,21 @@ aliases = ["/archive/motoi-kanamori-the-live/", "/p/motoi-kanamori-the-live/"]
 
 Bassist Motoi Kanamori released his third album _The Live_ in 2023. This is a double CD album with a title that aptly reflects the energy of his group captured in a live concert recording. The two discs are divided between one set from his trio (with pianist Hiroyuki Takubo and drummer Akira Yamada) playing rearranged versions of classic jazz standards, and a second set from his trio with strings, featuring a four-piece string section of two violins, one viola, and one cello.
 
-![](L1240558x-1200.jpeg)
+{{< figure src="L1240558x-1200.jpeg" link="L1240558x-1200.jpeg" >}}
+
 The first “trio” side features four jazz staples and one original from leader Kanamori. The four standards (“Autumn Leaves”, “Surrey with the Fringe on Top”, “I’ve Got a Crush On You”, and “Recordame”) are enhanced with slight rearrangements and additions but mainly stay true to the core of straight-ahead jazz piano trio versions. The original composition on this half, Kanamori’s “Mingus Stroll”, sounds just like it should, with a bluesy strolling feel that recalls the spirit of Charles Mingus.
 
 Notable in several tracks are the slow to fast and double-time meter and time changes that work to keep the audience (and the band) on their toes while the players’ extended improvisations play on. Drummer Yamada also takes the spotlight on a few songs as he lets loose over vamps on the very rapid tempo “Surrey” and the exciting set-closer “Recordame”.
-![](L1240561x-1200.jpeg)
+
+{{< figure src="L1240561x-1200.jpeg" link="L1240561x-1200.jpeg" >}}
 
 The second “trio with strings” set features three standards (“Smooth as the Wind”, “Lush Life”, and the encore “What a Wonderful World”), with three more originals from Kanamori. Here, when not doubling or embellishing the song melodies, the strings add a rich harmonic backdrop to the trio’s sound, especially and appropriately lush in the beautiful Billy Strayhorn tune.
 
-![](L1240563x-1200.jpeg)
+{{< figure src="L1240563x-1200.jpeg" link="L1240563x-1200.jpeg" >}}
+
 Beyond the standard jazz repertoire, the seven-member group spreads its wings further on Kanamori’s originals on side two. The trio with strings paints with more abstract colors for his songs “Invisible World” and “Star’s Duty” in particular, for an atmospheric and storytelling effect. His third original on this side, “Sea &amp; Ocean”, is all Latin rhythms, mid- and uptempo, used dynamically to add new dimensions of energy and flair to the entire concert.
 
-{{< figure src="L1240566x-1200.jpeg" >}}
+{{< figure src="L1240566x-1200.jpeg" link="L1240566x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -34,16 +37,18 @@ Beyond the standard jazz repertoire, the seven-member group spreads its wings fu
 _(Translated from Motoi Kanamori’s original Japanese liner notes.)_
 
 This is my third album as a leader. It was recorded on December 29, 2022, at a concert held at Tokyo FM Hall. I’m so happy that I was able to have this musical experience and be blessed with such wonderful musicians. I hope that you can listen to this for a long time.
-![](L1240570x-1200.jpeg)
+
+{{< figure src="L1240570x-1200.jpeg" link="L1240570x-1200.jpeg" >}}
 
 **Disc 1**
 
-{{< figure src="L1240571x-1200.jpeg" >}}
+{{< figure src="L1240571x-1200.jpeg" link="L1240571x-1200.jpeg" >}}
 
 1.  **Autumn Leaves**
 
 Originally a _chanson_, this is a world-famous standard that has been recorded countless times. Not only Frank Sinatra, but Cannonball Adderley, Miles Davis, Bill Evans, and many other jazz musicians have recorded great versions of this song, and it is widely recognized as a jazz standard. Although we must follow in the footsteps of such famous takes, playing our new interpretation of _Kareha_ (枯葉, _Autumn Leaves_) in the modern day may have resulted in something that has not been heard before. Enjoy the thrilling exchanges between the trio with the dizzying changes of scene.
-![](L1240567x-1200.jpeg)
+
+{{< figure src="L1240567x-1200.jpeg" link="L1240567x-1200.jpeg" >}}
 
 2.  **Mingus Stroll**
 
@@ -94,7 +99,7 @@ A combination of daringly dashing piano trio and magnificently sweet strings.
 
 A stunning 2-disc album that captures the stirring concert recorded live in high quality at Tokyo FM Hall!!
 
-{{< figure src="IMG_20240409_111606162_HDRx-1200.jpeg" >}}
+{{< figure src="IMG_20240409_111606162_HDRx-1200.jpeg" link="IMG_20240409_111606162_HDRx-1200.jpeg" >}}
 
 
 ## The Live by Motoi Kanamori {#the-live-by-motoi-kanamori}

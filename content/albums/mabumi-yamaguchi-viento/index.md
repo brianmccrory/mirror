@@ -15,18 +15,21 @@ aliases = ["/archive/mabumi-yamaguchi-viento/", "/p/mabumi-yamaguchi-viento/"]
 
 Like Mamoru Ishida’s [Afterglow](https://www.jazzofjapan.com/archive/mamoru-ishida-afterglow) introduced previously, Mabumi Yamaguchi’s _Viento_ is a 2023 jazz release from the Japanese jazz label Days of Delight which is doing a wonderful job of delivering the sound of authentic modern-day Japanese jazz in impeccably produced and attractive packages.
 
-![](L1250973x-1200.jpeg)
+{{< figure src="L1250973x-1200.jpeg" link="L1250973x-1200.jpeg" >}}
+
 _Viento_ is saxophonist Mabumi Yamaguchi’s second release on Days of Delight following his chord-less trio recording _Trinity_ (2022), but he’s been playing and releasing albums for over five decades. In that time, he’s worked with stellar domestic and international musicians including drummers Motohiko Hino (“best jazz drummer in Japan” award winner throughout the 1970s) and George Otsuka for a landmark 1978 tour with Kenny Kirkland (piano), John Scofield (guitar), and Miroslav Vitous (bass). His recording _Mabumi_ (1981) also featured Kirkland and Vitous with Tony Williams (drums) joining the lineup.
 
 Yamaguchi’s live jazz activities started in the 60s and 70s at the venerable Tokyo jazz clubs Naru and Pit Inn. It’s remarkable that after nearly fifty years, Mabumi still consistently appears for fan-favorite and fulfilling jazz sessions at Naru (stay tuned for an upcoming spotlight on that beloved jazz haven, coming soon).
-![](L1250979x-1200.jpeg)
+
+{{< figure src="L1250979x-1200.jpeg" link="L1250979x-1200.jpeg" >}}
 
 His new album _Viento_ is a collection of eight of Yamaguchi’s originals, all written with the concept of using soprano saxophone in the forefront. This characteristic makes a strong impression as Yamaguchi’s bright tones extend like tendrils of vines embedded in cracks and grooves, skillfully navigating dramatic paths and always pushing forward through songs covering straight-ahead and modern jazz terrain.
 
-![](L1250988x-1200.jpeg)
+{{< figure src="L1250988x-1200.jpeg" link="L1250988x-1200.jpeg" >}}
+
 This musical landscape shifts back and forth from dark, mellow, and mysterious (#1 “Sequel to a Dream”, #2 “Evening”), to fantastical and churning (#4 “Thalia”, #6 “Viento”), and to exciting and positive (#3 “Let Your Mind Alone”, #5 “True Face”, #7 “Empty Mirror”) when the uplifting mood is heightened as the good-feeling swing or cool funk sets in. The last track, the sweetly elegant song #8 “Toi Yakusoku” (_Distant Promise_), closes the album perfectly with Yamaguchi and pianist Katakura playing as a duo in a sentimental rubato with a Strayhorn/Ellington-ish emotional impact.
 
-{{< figure src="L1250995x-1200.jpeg" >}}
+{{< figure src="L1250995x-1200.jpeg" link="L1250995x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -34,19 +37,23 @@ This musical landscape shifts back and forth from dark, mellow, and mysterious (
 _(Translated from excerpts of Akiomi Hirano’s original Japanese liner notes.)_
 
 **Tomorrow a small percent different from today**
-![](L1250998x-1200.jpeg)
+
+{{< figure src="L1250998x-1200.jpeg" link="L1250998x-1200.jpeg" >}}
 
 If possible I don’t want to repeat what I did yesterday, I don’t want to play what I already know. So says Mabumi Yamaguchi.
 
-![](L1260002x-1200.jpeg)
+{{< figure src="L1260002x-1200.jpeg" link="L1260002x-1200.jpeg" >}}
+
 “The ideal is to create from scratch each time. Of course, that’s impossible, so if I can do it just a few percent, that’s good. Even if it’s just a few percent, if I do that every time I play live and keep it going over a long time, a little bit of my personality will emerge, don’t you think?”
 
 These humble words represent his character well. Spoken shyly and haltingly, it is hard to believe they come from a maestro who has maintained a presence at the core of Japanese jazz for half a century through many famous performances and recordings.
-![](L1260006x-1200.jpeg)
+
+{{< figure src="L1260006x-1200.jpeg" link="L1260006x-1200.jpeg" >}}
 
 There is a certain quality common to truly compelling artists and creators, not just with jazz musicians. You may not see the signs of the hardships they endured through the accumulated years of severe training. Their demeanor is gentle and not arrogant.
 
-![](L1260011x-1200.jpeg)
+{{< figure src="L1260011x-1200.jpeg" link="L1260011x-1200.jpeg" >}}
+
 Even when you hear their actual story, it’s rare to sense the strange hardships experienced by performers in the upper levels of their field. Perhaps there’s an aesthetic that makes it embarrassing to express difficulties through words, or maybe they don’t really think that they have suffered through hardships.
 
 I’ve seen this in many artists and creators, and in my experience, Mabumi is of that type.
@@ -87,7 +94,7 @@ Akiomi Hirano (Days of Delight)
 
 Founder/Producer
 
-{{< figure src="L1260016x-1200.jpeg" >}}
+{{< figure src="L1260016x-1200.jpeg" link="L1260016x-1200.jpeg" >}}
 
 
 ## Viento by Mabumi Yamaguchi {#viento-by-mabumi-yamaguchi}

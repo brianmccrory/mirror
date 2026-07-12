@@ -14,15 +14,19 @@ aliases = ["/archive/kenichiro-shinzawa-piano-works/", "/p/kenichiro-shinzawa-pi
 
 Ideal for peaceful, calming piano, Ken’ichiro Shinzawa’s _Piano Works_ features seven original compositions with a sweet purity in the musical message.
 
-![](L1200162-1024.jpg)
+{{< figure src="L1200162-1024.jpg" link="L1200162-1024.jpg" >}}
+
 The slow, melodic music conveys a pure innocence, almost evoking Japanese Studio Ghibli movies with scenes of happy animated characters walking through peaceful woods and resting on hillsides. With song titles like “Gentle Breeze” and “Quiet Leaves”, the pianist may have been in a similar state of mind when composing these piano sketches.
 
 The songs are well-structured and composed, calming and easily listenable, with no jagged corners or dissonant harmonics distracting from the relaxed mood. There is a slight Bill Evans feeling, with traces of melodies resembling songs that the famous jazz pianist was known for, like subtle hints of homage. One song, the 12-minute “Above the Sky”, contrasts with the generally serene mood and builds slowly with wild excitement, resembling a long Keith Jarrett-style vamping piano solo.
-![](L1200163-1024.jpg)
 
-![](L1200164-1024.jpg)
-![](L1200165-1024.jpg)
-![](L1110922-1024.jpg)
+{{< figure src="L1200163-1024.jpg" link="L1200163-1024.jpg" >}}
+
+{{< figure src="L1200164-1024.jpg" link="L1200164-1024.jpg" >}}
+
+{{< figure src="L1200165-1024.jpg" link="L1200165-1024.jpg" >}}
+
+{{< figure src="L1110922-1024.jpg" link="L1110922-1024.jpg" >}}
 
 
 ## Piano Works by Ken’ichiro Shinzawa {#piano-works-by-ken-ichiro-shinzawa}

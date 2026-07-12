@@ -15,18 +15,21 @@ aliases = ["/archive/akane-matsumoto-ayumi-koketsu-trust/", "/p/akane-matsumoto-
 
 _Trust_ is a 2024 release from the duo of pianist Akane Matsumoto and saxophonist Ayumi Koketsu. These two musicians are leaders of their own combos, members of other groups, and also friends and working bandmates for many years running. The pair have gathered a lot of performance experience from live shows and tours taken together and have developed a deep connection between their musical instincts. Surprisingly, _Trust_ is the first album they’ve recorded together. This serendipitously timed release also commemorates twelve years of their working together, a number that is meaningful in Japan for its significance in cyclic durations and milestones, symbolizing the closing of loops and the start of new stages. Perhaps it can be said that trust grows over time, and it’s wise not to rush it.
 
-![](L1280714x-1200.jpeg)
+{{< figure src="L1280714x-1200.jpeg" link="L1280714x-1200.jpeg" >}}
+
 Matsumoto and Koketsu’s/ Trust/ includes seven tracks of sax and piano duo arrangements and runs at about 41 minutes. The selection is drawn from material they admire and are very familiar with. This includes some of their favorite songs and composers such as Tom Harrell, Richard Rodgers, Enrico Pieranunzi, and Lee Konitz. Speaking of Konitz, sax player Koketsu has an affinity for and a likeness to alto sax players like Art Pepper and Lee Konitz. One of her albums is simply titled _[Art](https://www.jazzofjapan.com/archive/ayumi-koketsu-art)_, and the Matsumoto/Koketsu duo has been known to play certain tunes from the Lee Konitz/Lennie Tristano cool jazz repertoire including “Subconscious-Lee”, “Wow”, and Konitz’s “Stephanie”, which opens this album.
 
 Full videos for three of the album’s tracks are available online (#1 “Stephanie”, #2 “Border Line”, and #4 “Chet”) and show the actual performance recording made for this album, and the three other videos feature the duo in an equally captivating live setting (links to the videos are included below).
-![](L1280721x-1200.jpeg)
+
+{{< figure src="L1280721x-1200.jpeg" link="L1280721x-1200.jpeg" >}}
 
 As a duo, the mood of the music departs just a bit from Matsumoto’s trademark happy bebop virtuosity — her heroes being Oscar Peterson and Phineas Newborn Jr. — and Koketsu’s wide-ranging, modern edge. They are clearly comfortable and confident together, alternately leading, following, or playing simultaneously, and trading positions intuitively without needing to rely on standard waypoints or signals. With the familiarity and skill that the duo has built together over the years, their sense of time, tone, jazz phrasing, and playing fills the air with subdued hues and room-filling colors, languidly refreshed like a cat stretching out of a nap.
 
-![](L1280694x-1200.jpeg)
+{{< figure src="L1280694x-1200.jpeg" link="L1280694x-1200.jpeg" >}}
+
 That’s not to say it’s all romantic ballads and sleepy atmospheres. As a single album, the moods are all of a piece, conveying integrity, solidarity, and belief. It’s music that is refined, soft, and fresh, but can be dreamily veiled (#4 “Chet”) and hauntingly moody (#7 “Spartacus Love Theme”) at times as well. The selection of music performed with indisputable skill and wisdom makes their playing intimate, comfortable, and familiar. It’s a perfect fit for the theme of _Trust_ that this album embodies.
 
-{{< figure src="L1280700x-1200.jpeg" >}}
+{{< figure src="L1280700x-1200.jpeg" link="L1280700x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -70,7 +73,7 @@ This is a ballad made famous by Bill Evans’ beautiful performance. The soft, g
 
 A twelve-year path walked together, carefully listening to and harmonizing with each other’s sound. As musicians on a long and challenging journey, uncovering the secret to expressing the wonders of music. It’s nothing other than “Trust.”
 
-{{< figure src="L1280705x-1200.jpeg" >}}
+{{< figure src="L1280705x-1200.jpeg" link="L1280705x-1200.jpeg" >}}
 
 
 ## Trust by Akane Matsumoto &amp; Ayumi Koketsu {#trust-by-akane-matsumoto-and-ayumi-koketsu}

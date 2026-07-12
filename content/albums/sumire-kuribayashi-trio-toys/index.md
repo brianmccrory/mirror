@@ -15,18 +15,21 @@ aliases = ["/archive/sumire-kuribayashi-trio-toys/", "/p/sumire-kuribayashi-trio
 
 _Toys_ is pianist Sumire Kuribayashi’s debut leader album from 2014. Since then, the spirited musician has been on a tear, with several more leader albums released from her own projects as well as collaborations with a variety of Japanese and international musicians.
 
-![](L1230287x-1200.jpeg)
+{{< figure src="L1230287x-1200.jpeg" link="L1230287x-1200.jpeg" >}}
+
 With _Toys_, Kuribayashi plays nine tracks on the forty-eight-minute album, with five of her own songs and four beloved covers arranged together in a lively display of her musical vision. Whatever _Toys_ may mean as a concept title (hinted at in the Obi Notes), it’s a playful album that works as a perfect medium for her musical worldview.
 
 Some of the most melodically striking and immediately felt songs on the album are Kuribayashi’s own originals. Of these five songs, “Forest and an Elf” is fluid and magical, “Grand Line” is busy yet delicate, “Flying Toys” is sparkling and exciting, “W.M.P.” is bluesily modal and modern, and “Somethin’ Warm” is patient, pretty, and sincere. The medium tempo and straight-eights time feel color the songs with modern finesse and understated power. What’s clear in each is that Kuribayashi thinks through her compositions, not only the mechanics of structure and form, but how she wants them to imaginatively feel, how the players should think about them, and where she wants them to go.
-![](L1230288x-1200.jpeg)
+
+{{< figure src="L1230288x-1200.jpeg" link="L1230288x-1200.jpeg" >}}
 
 Her selection of the four cover songs also demonstrates her consideration for balance and respect. She brings together songs from distinct planes of influence, from the worldwide megapop stars U2, to the sweet lyricism of Bill Evans, to the current-day Japanese vibraphonist and musical peer Reiko Yamamoto, to a deep cut from the much-loved bop pianist Sonny Clark.
 
-![](L1230289x-1200.jpeg)
+{{< figure src="L1230289x-1200.jpeg" link="L1230289x-1200.jpeg" >}}
+
 “I Still Don’t Know What I’m Looking For” is down-home groovy, “Letter to Evan” is comfortably plush, “That Blue Bird” is tender and engrossing, and “Minor Meeting”, as the last cut on the album, hooks listeners and leaves them ready to hear more from Sumire Kuribayashi’s toy trove.
 
-{{< figure src="L1230290x-1200.jpeg" >}}
+{{< figure src="L1230290x-1200.jpeg" link="L1230290x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -92,7 +95,7 @@ _From the fresh, twenty-first century label “Somethin’ Cool” comes the pop
 
 _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu (drums)_
 
-{{< figure src="L1240155x-1200.jpeg" >}}
+{{< figure src="L1240155x-1200.jpeg" link="L1240155x-1200.jpeg" >}}
 
 
 ## Toys by Sumire Kuribayashi Trio {#toys-by-sumire-kuribayashi-trio}

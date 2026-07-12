@@ -14,13 +14,17 @@ aliases = ["/archive/bungalow-past-life/", "/p/bungalow-past-life/"]
 
 The jazz group Bungalow displays their original approach to modern art jazz on their second album, _Past Life_, from 2013. As a jazz quartet featuring airy alto sax and piano, double bass, and drums, the group incorporates creative musical elements such as the use of Indian tabla drums and subtle sound effects and processing, a bit similar to the style of the Swedish jazz group E.S.T.
 
-![](L1200188-1024.jpg)
+{{< figure src="L1200188-1024.jpg" link="L1200188-1024.jpg" >}}
+
 Bungalow’s compositions are in focus here, and like modern songwriting from Wayne Shorter, the music differs from standard jazz patterns with interesting, well-constructed songs, featuring elements of upbeat swing, poetic and meditative calm, visceral rock and organically looping riffs, embellished with searching melodies and smart improvisation played brilliantly. This is well-balanced and addictive modern jazz that weaves deep musical grooves with imaginative compositions and skillful playing, reflecting future-facing sounds built on traditional music from _Past Life_.
 
-![](L1200189-1024.jpg)
-![](L1200190-1024.jpg)
-![](L1200192-1024.jpg)
-![](L1120184-1024.jpg)
+{{< figure src="L1200189-1024.jpg" link="L1200189-1024.jpg" >}}
+
+{{< figure src="L1200190-1024.jpg" link="L1200190-1024.jpg" >}}
+
+{{< figure src="L1200192-1024.jpg" link="L1200192-1024.jpg" >}}
+
+{{< figure src="L1120184-1024.jpg" link="L1120184-1024.jpg" >}}
 
 
 ## Past Life by Bungalow {#past-life-by-bungalow}

@@ -14,23 +14,28 @@ aliases = ["/archive/banda-feliz-boa-viagem/", "/p/banda-feliz-boa-viagem/"]
 
 Banda Feliz is a group of Tokyo musicians playing festive Brazilian music, originals and covers, centered around Makiyo Sakai’s robust and jazzy flute playing. Her lighter-than-air flute sound is buoyed by her full six-piece palette with trombone, guitar, piano, bass, and drums, and the group’s voices happily join the melodies at times for extra oomph.
 
-![](L1230504x-1200.jpeg)
+{{< figure src="L1230504x-1200.jpeg" link="L1230504x-1200.jpeg" >}}
+
 Happiness is integral to the band’s sound, even evident in the artist name and album title, roughly translated as _cheerful, joyful, happy band_ and _bon voyage_.
 
 With upbeat rhythms, effervescent melodies, and playful interplay, many of the songs stir the soul with positivity through poppy Latin rhythms and kinetic energy: #1 “Sunda Land”, #2 “Água e Peixes”, and #3 “Neste Pais” (with a jazzier feel heading toward Chick Corea or Joe Henderson-type territory) start the album with a great introduction of the band’s flavorful dynamics.
-![](L1230380x-1200.jpeg)
+
+{{< figure src="L1230380x-1200.jpeg" link="L1230380x-1200.jpeg" >}}
 
 Slower bossas and poetic reflections also enter the mix through the slow romance of #4 “Outono de Ipanema” and the lonely longing of #8 “Sinto Saudade de Você”. Laid-back relaxation shines on a vaguely retro Herb Alpert-esque confection #5 “Bolo de Chocolate” and the cinematically heavy #6 “Ao no Kanata”.
 
-![](L1230381x-1200.jpeg)
+{{< figure src="L1230381x-1200.jpeg" link="L1230381x-1200.jpeg" >}}
+
 Yet the indefatigable spirit returns in bold for several of the last songs, with the actively cute #7 “Samba de ReRe”, the brisk vamps of #9 “Cesar”, and the lighthearted and lovely last track #10 “Mackey”, to leave listeners uplifted with full spirits and good vibes.
 
 **Makiyo Sakai, Flutist/composer**
-![](L1230382x-1200.jpeg)
+
+{{< figure src="L1230382x-1200.jpeg" link="L1230382x-1200.jpeg" >}}
 
 Makiyo Sakai was born in Otsu City and started playing the flute at age 11, studying under Yumiko Furuya, Naohiro Yamakoshi, and Haruyuki Nakatsukasa and with a foundation of classical music education at school. She began to win awards at competitions, and she performed in front of audiences in solo concerts and as an orchestra member. Her flute education continued at Osaka Kyoiku National University, and later in Boston and Tokyo.
 
-![](L1230383x-1200.jpeg)
+{{< figure src="L1230383x-1200.jpeg" link="L1230383x-1200.jpeg" >}}
+
 Her early releases include _Silver Painting_ (Pony Canyon, 2016), the Jazz Lady Project’s _Cinema Lovers_ (King Records, Jazz Lady Project, 2017) and _Pictures at the Exhibition_ (Pony Canyon, 2018).
 
 Further album releases continued and led to this release, _Boa Viagem_ (Feliz Records, 2020) with her Brazilian band Banda Feliz. Ever active, she stays busy with an abundance of live performances, composing, and releasing new albums both with her groups and other musicians.
@@ -93,7 +98,7 @@ Makiyo Sakai is this band’s founder. In addition to acting as manager for the 
 
 The long-awaited first album from “Banda Feliz”, a unit formed of top musicians playing music from the world of Brazilian music! A collection of original gems played with lively rhythms and beautiful harmonies.
 
-{{< figure src="L1240167x-1200.jpeg" >}}
+{{< figure src="L1240167x-1200.jpeg" link="L1240167x-1200.jpeg" >}}
 
 
 ## Boa Viagem by Banda Feliz {#boa-viagem-by-banda-feliz}

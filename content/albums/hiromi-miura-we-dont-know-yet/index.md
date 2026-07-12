@@ -14,17 +14,21 @@ aliases = ["/archive/hiromi-miura-we-dont-know-yet/", "/p/hiromi-miura-we-dont-k
 
 Modern jazz albums like saxophonist Hiromi Miura’s _We Don’t Know Yet_ occupy a special place, offering original compositions with creative elements which remain in the mind and call for repeated listens. Performed with consummate skill from the New York- and Japan-based musicians, the album offers five of Miura’s songs and two cover songs, focusing on intricate modern compositions and interpretations.
 
-![](L1200268-1024.jpg)
+{{< figure src="L1200268-1024.jpg" link="L1200268-1024.jpg" >}}
+
 Miura’s creative songwriting takes on challenges like constructing sweet melodies over shadowy harmonic intervals, odd-metered rhythms, and subtle dynamic changes, also using less tangible influences from snowy weather to fantasy and space. The album was recorded at a time when reflecting on those uncertain moments between transitions, not knowing what will come next but bravely moving forward.
 
 The playing from the members is aligned and empathetic, skillfully balancing intellect and emotion. Miura’s playing on both alto and soprano saxes is somewhat reminiscent of the playing of jazz musicians like Warne Marsh or Lee Konitz, with vertical ladder-like lines and mellow improvisation where melodic patterns are embroidered into designs of notes like stars aligning in the sky.
-![](L1200269-1024.jpg)
+
+{{< figure src="L1200269-1024.jpg" link="L1200269-1024.jpg" >}}
 
 Following the five original jazz pieces, an attention-grabbing jazz blues is performed by cleverly overlaying Joe Henderson’s “Isotope” and Thelonious Monk’s “Evidence”, and the album closes peacefully with quiet shades of Japan on “Yama”, a beautiful ballad written by jazz pianist Bruce Barth.
 
-![](L1200271-1024.jpg)
-![](L1200273-1024.jpg)
-![](L1120170-1024.jpg)
+{{< figure src="L1200271-1024.jpg" link="L1200271-1024.jpg" >}}
+
+{{< figure src="L1200273-1024.jpg" link="L1200273-1024.jpg" >}}
+
+{{< figure src="L1120170-1024.jpg" link="L1120170-1024.jpg" >}}
 
 
 ## We Don’t Know Yet by Hiromi Miura {#we-don-t-know-yet-by-hiromi-miura}

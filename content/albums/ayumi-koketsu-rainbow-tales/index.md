@@ -15,15 +15,19 @@ aliases = ["/archive/ayumi-koketsu-rainbow-tales/", "/p/ayumi-koketsu-rainbow-ta
 
 Saxophonist Ayumi Koketsu creates exciting modern jazz on her third album _Rainbow Tales_ from 2012, where she leads of group of accomplished Norwegian musicians on a modern-sounding recording.
 
-![](L1200179-1024.jpg)
+{{< figure src="L1200179-1024.jpg" link="L1200179-1024.jpg" >}}
+
 The session was beautifully captured at the famous Rainbow Studios in Oslo, where the European-label ECM sound seems to influence the session under Koketsu’s leadership and virtuosity. With crystal clear sax and cymbals riding above the warm, full piano and deep wood bass, this style is particularly noticeable on “Mikazuki” (Crescent Moon), a folk/rock-like tune reminiscent of Keith Jarrett.
 
 The album contains a nice balance on its eleven songs. Along with three swinging original numbers, Koketsu also picks some jazz standards including a lovely “Bewitched”, a driving “Summertime”, a Paul Desmond-like “When Joanna Loved Me”, Lennie Tristano’s “Two Not One”, and Ornette Coleman’s “Bird Food”. Throughout, Koketsu’s versatile bop playing and improvisation are on display, along with exquisite modern solos from the pianist and a sharp rhythm section elevating the sound and color spectrum.
-![](L1200180-1024.jpg)
 
-![](L1200181-1024.jpg)
-![](L1200187-1024.jpg)
-![](L1110684-003-1024.jpg)
+{{< figure src="L1200180-1024.jpg" link="L1200180-1024.jpg" >}}
+
+{{< figure src="L1200181-1024.jpg" link="L1200181-1024.jpg" >}}
+
+{{< figure src="L1200187-1024.jpg" link="L1200187-1024.jpg" >}}
+
+{{< figure src="L1110684-003-1024.jpg" link="L1110684-003-1024.jpg" >}}
 
 
 ## Rainbow Tales by Ayumi Koketsu {#rainbow-tales-by-ayumi-koketsu}

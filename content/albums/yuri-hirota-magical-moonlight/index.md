@@ -15,18 +15,21 @@ aliases = ["/archive/yuri-hirota-magical-moonlight/", "/p/yuri-hirota-magical-mo
 
 Yuri Hirota’s album _Magical Moonlight_ was released in 2017 as a petite jazz gallery of some of her favorite songs and original compositions songs. These are played by pianist Hirota with her group,“Quartet Tsukino no Sampo” (月夜の散歩), which roughly translates to _The Walk on a Moonlight Night Quartet_.
 
-![](L1220509x-1200.jpeg)
+{{< figure src="L1220509x-1200.jpeg" link="L1220509x-1200.jpeg" >}}
+
 Although this is a slightly older album, [Hirota announced recently](http://miss.blog20.fc2.com/blog-entry-900.html) that this album and her earlier release _Flea Circus_ (2015) were now available on streaming platforms, making this a good time to refresh this short article about the album.
 
 _Magical Moonlight_ is a full release on the shorter side, a quick play-through of eight songs that runs for about 36 minutes. It’s an easy-going affair, a stroll through good old-fashioned sounding jazz. The nostalgia is enhanced by the group’s format, a quartet made up of Hirota on piano, Daisei Mii on violin and viola, Yusuke “Kilin” Sato on bass, and Gen Date on conga/percussion. A fifth musician, guitarist Yuichiro Hiraoka, joins as a special guest on three tracks, adding more close-up tangibility to the group’s grounded sweetness.
-![](L1220512x-1200.jpeg)
+
+{{< figure src="L1220512x-1200.jpeg" link="L1220512x-1200.jpeg" >}}
 
 The eight songs are arranged by pianist Hirota, and three were composed by her. Overall the songs have a pleasantly throwback feel. Track #1 “Pepe le moko” is a languid start with a Parisian atmosphere that leads to a cute waltz with #2 “Furuhon-ya no Waltz”. #3 “C’est si bon” is that well-known French _chanson_, and #4 “Doggy Rhumba” is an uptempo rhumba version of Chopin’s “Minute Waltz” (_aka_ “Waltz of the Puppy”).
 
-![](L1220516x-1200.jpeg)
+{{< figure src="L1220516x-1200.jpeg" link="L1220516x-1200.jpeg" >}}
+
 For track #5, the Japanese _min'yō_ folk song “Tanko Bushi” gets the “Ahmad Jamal ‘Poinciana’” treatment. The old classic #6 “Into Each Life Some Rain Must Fall” is simply cheerful. #7, Hirota’s “Ron Zaca Party” is played like a festive party arising from the wordplay of “Ron Zacapa”, a premium Guatamalan rum. Finally, the last track #8 “Can’t Take My Eyes Off You” is a sentimental stride piano with a dusty saloon vibe, smoky, sultry, and comfortable.
 
-{{< figure src="L1220517x-1200.jpeg" >}}
+{{< figure src="L1220517x-1200.jpeg" link="L1220517x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -34,7 +37,8 @@ For track #5, the Japanese _min'yō_ folk song “Tanko Bushi” gets the “Ahm
 _(Translated from Yuri Hirota’s original Japanese liner notes.)_
 
 Notes on a moonlit walk.
-![](L1220522x-1200.jpeg)
+
+{{< figure src="L1220522x-1200.jpeg" link="L1220522x-1200.jpeg" >}}
 
 **1.Pépé le Moko - Yuri Hirota**
 
@@ -74,7 +78,7 @@ Dedicated to the great rum from Guatamala. Drink it, and it’ll make you want t
 
 A killer tune from the 1980s disco era done with a vaudeville arrangement. Don’t skip the shocking finale!
 
-{{< figure src="L1220519x-1200.jpeg" >}}
+{{< figure src="L1220519x-1200.jpeg" link="L1220519x-1200.jpeg" >}}
 
 
 ## Magical Moonlight by Yuri Hirota {#magical-moonlight-by-yuri-hirota}

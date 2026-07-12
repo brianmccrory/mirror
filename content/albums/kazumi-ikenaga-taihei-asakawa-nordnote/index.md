@@ -15,23 +15,28 @@ aliases = ["/archive/kazumi-ikenaga-taihei-asakawa-nordnote/", "/p/kazumi-ikenag
 
 _NordNode_ is a 2020 album from drummer Kazumi Ikenaga and pianist Taihei Asakawa, with ten tracks and fifty-five minutes of music performed with care, maturity, and a strong bond between the two musicians.
 
-![](L1250217x-1200.jpeg)
+{{< figure src="L1250217x-1200.jpeg" link="L1250217x-1200.jpeg" >}}
+
 This album captures a directly connected musical conversation between drummer Kazumi Ikenaga and pianist Taihei Asakawa. A duo made up of drums and piano is not a very common format in jazz, but it is a format that really shows how, like with the circular yin-yang symbol, the two musicians fit perfectly together and fill out the space as if thinking, moving, and playing as one.
 
 (As an aside, this duo format also provides a nice complementary subject to follow the previously introduced [Yuki Ito bass solo album](https://www.jazzofjapan.com/archive/yuki-ito-retattanni-no-mori), as the three instruments complete the customary jazz trio format of piano, bass, and drums!)
-![](L1250223x-1200.jpeg)
+
+{{< figure src="L1250223x-1200.jpeg" link="L1250223x-1200.jpeg" >}}
 
 Indeed, this drums and piano two-person format does allow for a great degree of listening and reacting by the pair as each player listens intently to the other. This makes the music seem like an extremely tuned-in conversation that naturally expands and flows, centered around each composition like both favorite and improvised topics to speak about.
 
-![](L1250229x-1200.jpeg)
+{{< figure src="L1250229x-1200.jpeg" link="L1250229x-1200.jpeg" >}}
+
 On _NordNote_, these topics include seven evocative originals (six by Asakawa, one by Ikenaga) and three simply beautiful covers. Through it all, the overarching theme of _nord_ (north) colors the canvas and directs the flow.
 
 Ikenaga, like drummers Paul Motian and Jon Christensen, has an approach that expands the drumset much beyond straightforward time-keeping and common jazz patterns, turning the use of sticks, brushes, percussion instruments, and the whole set with artful silence and pauses like the negative space between words or in art. This all works excellently for creating substantial textures and upfront ambience through his melodic playing.
-![](L1250235x-1200.jpeg)
+
+{{< figure src="L1250235x-1200.jpeg" link="L1250235x-1200.jpeg" >}}
 
 With pianist Asakawa, Ikenaga has a complementary and equal partner, one who fills out the songs’ natural melodic and harmonic parts like great lyrical players Bill Evans and Keith Jarrett. (To that point, Asakawa’s recent live solo recording _[Waltz For Debby](https://www.jazzofjapan.com/archive/taihei-asakawa-waltz-for-debby)_ summons the spirit of those famous Village Vanguard Bill Evans Trio live albums, and this album’s #9 “In Love In Vain” has the addictive swing feel of the [Keith Jarrett Trio version of that song](https://youtu.be/Ro0dS5IcPUk?si=eeopnE1I71ax3bwG), quite a high bar to match.)
 
-![](L1250239x-1200.jpeg)
+{{< figure src="L1250239x-1200.jpeg" link="L1250239x-1200.jpeg" >}}
+
 Much like melodic improvisation, the two musicians simultaneously decide how to keep time, play rubato, open up, add shading, pause, or build — a meeting of minds in concentration and creation. The typical roles even seem to be switched at times, when Asakawa’s piano keeps time steady and the Ikenaga’s drums, cymbals, and percussion sounds color in the spaces with softness and delicacy.
 
 This amazing music does speak for itself, and words just scratch the surface of the art here. Suffice it to say it’s captivating music, patient and radiant, ethereal and tender, and a joy to listen to these two musicians create together. The following translated liner notes provide additional context and thoughts from the two musicians.
@@ -136,7 +141,7 @@ DPA 4006-TL x 2
 <li value="3">Audio interface RME Fireface UC</li>
 </ol>
 
-{{< figure src="L1250242x-1200.jpeg" >}}
+{{< figure src="L1250242x-1200.jpeg" link="L1250242x-1200.jpeg" >}}
 
 
 ## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa {#nordnote-by-kazumi-ikenaga-and-taihei-asakawa}

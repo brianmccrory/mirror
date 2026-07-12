@@ -14,15 +14,19 @@ aliases = ["/archive/manabu-ohishi-trio-wish/", "/p/manabu-ohishi-trio-wish/"]
 
 From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label’s concept of “hand-made jazz” features jazz music which one could describe as having Japanese attention to detail and craftsmanship with European touches. On _Wish_, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.
 
-![](L1200151-1024.jpg)
+{{< figure src="L1200151-1024.jpg" link="L1200151-1024.jpg" >}}
+
 Ohishi’s strength as a romantic melodist is evident as the opening notes from the piano sound, heavy with sentimentality. His vibrant improvisations often unspool with passion, as if he is pushing notes out physically from the piano, squeezing out as much expression and emotion as possible.
 
 Another moving feature is Ohishi’s lovely reharmonization of popular standards, here with “My Foolish Heart” and “What A Wonderful World”, adding alluring deepness to these ballads.
-![](L1200152-1024.jpg)
 
-![](L1200154-1024.jpg)
-![](L1200157-1024.jpg)
-![](L1120054-1024.jpeg)
+{{< figure src="L1200152-1024.jpg" link="L1200152-1024.jpg" >}}
+
+{{< figure src="L1200154-1024.jpg" link="L1200154-1024.jpg" >}}
+
+{{< figure src="L1200157-1024.jpg" link="L1200157-1024.jpg" >}}
+
+{{< figure src="L1120054-1024.jpeg" link="L1120054-1024.jpeg" >}}
 
 
 ## Wish by Manabu Ohishi Trio {#wish-by-manabu-ohishi-trio}

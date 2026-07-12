@@ -14,15 +14,18 @@ aliases = ["/archive/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/", "/
 
 _Boundary_ is the 2018 release from the trio of pianist Megumi Yonezawa, bassist Masa Kamaguchi, and drummer Ken Kobayashi. This album is the result of a suddenly booked recording session in Brooklyn while bassist Kamaguchi was temporarily in town and playing with the New York-resident pianist and drummer. Their live performance inspired a producer to arrange a trio recording while the opportunity was available.
 
-![](L1250013x-1200.jpeg)
+{{< figure src="L1250013x-1200.jpeg" link="L1250013x-1200.jpeg" >}}
+
 Open and experimental, the music on the album is 66 minutes of improvisation. The songs are a loosely-structured dialogue between the three members as they play freely using prompts and suggestions to one another, responding in the moment to what they are hearing from others and imagining within themselves.
 
 Most of the ten tracks are original songs which, in the spirit of free jazz, may have been unrehearsed sketches explored (or completely improvised) for the first time in the studio. The intuition of the musicians through their ears and experience guides them to create music that is abstract but not formless. There are sounds and structures that color outside of the lines, but that are controlled musically and not overly chaotic.
-![](L1250022x-1200.jpeg)
+
+{{< figure src="L1250022x-1200.jpeg" link="L1250022x-1200.jpeg" >}}
 
 The music flows like untethered explorations in space as the three members seek to coordinate and unite their musical impulses, feelings, and thoughts into unified musical ideas from track to track, or within each track as the moments strike and ideas take shape. It’s liberating and fascinating to listen to, and ceding control to the music and allowing it to lead is a good idea. As the music avoids mainstream patterns, some jazz fans may find this music challenging and it may not be for everyone. Although, what is?
 
-![](L1250027x-1200.jpeg)
+{{< figure src="L1250027x-1200.jpeg" link="L1250027x-1200.jpeg" >}}
+
 Similarly, it also must also be challenging for experienced jazz musicians such as these to determinedly avoid the common movements and phrases that rise, like habits, unbidden to their minds and fingers and which must be suppressed in service of the freedom that their music is pointed towards.
 
 A trek through the tracks describes the album’s moods, as abstract and spontaneous as those might be. The music starts with the opener #1 “Boundary”, which seems to play with the idea of reaching a point of allowed travel, a limit, and seeing what happens when that edge is crossed or examined up close. Notes travel like a mosaic of crazed glass with small fragments of chaos to provide an indication of things to come, and the boundary is crossed from a safe location towards an energized and possibly dangerous adventure.
@@ -50,7 +53,7 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 >
 > This is not a traditional free jazz CD—and it is obviously not a straight-ahead jazz CD. It is also not an attempt to meld the two together. It is not anyone showing off their chops. Also, no one sounds like they are trying to prove anything. What is so beautiful about this CD is that it is really, really honest. Really. This trio knows music but is open to throwing their preconceptions out and seeing where things go. This is an honest statement. Sit back and enjoy the ride. — Matthew Shipp
 
-{{< figure src="IMG_20240527_092056342-1200.jpeg" >}}
+{{< figure src="IMG_20240527_092056342-1200.jpeg" link="IMG_20240527_092056342-1200.jpeg" >}}
 
 
 ## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi {#boundary-by-megumi-yonezawa-masa-kamaguchi-ken-kobayashi}

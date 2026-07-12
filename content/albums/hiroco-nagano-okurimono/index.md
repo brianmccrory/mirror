@@ -14,11 +14,13 @@ aliases = ["/archive/hiroco-nagano-okurimono/", "/p/hiroco-nagano-okurimono/"]
 
 _Okurimono_ is a two-track release from vocalist Hiroco Nagano with pianist Seiji Endo. On the first track, the duo takes a relaxed approach to the beautiful jazz ballad “Someone To Watch Over Me”. On track two, guitarist Arata Umahara joins in on “Okurimono”, an original song written by Endo with Japanese lyrics penned by Nagano.
 
-![](L1180447-1024.jpg)
+{{< figure src="L1180447-1024.jpg" link="L1180447-1024.jpg" >}}
+
 Although there are only two tracks here, the music serves to whet the appetite and showcase the sweet, sensitive music crafted with love and care.
 
-![](L1180448-1024.jpg)
-![](L1180449-1024.jpg)
+{{< figure src="L1180448-1024.jpg" link="L1180448-1024.jpg" >}}
+
+{{< figure src="L1180449-1024.jpg" link="L1180449-1024.jpg" >}}
 
 
 ## Okurimono by Hiroco Nagano {#okurimono-by-hiroco-nagano}

@@ -14,14 +14,17 @@ aliases = ["/archive/rie-taguchi-gift/", "/p/rie-taguchi-gift/"]
 
 Vocalist Rie Taguchi leads a swinging sextet on her first full-length album, _The Gift_.
 
-![](L1180796-1024.jpg)
+{{< figure src="L1180796-1024.jpg" link="L1180796-1024.jpg" >}}
+
 Her sultry voice seems to crack smiles and reminisce on old times as she dips and sways through the music. Popular standards such as “I Wish You Love” and “I’ve Got You Under My Skin” convey her cheerful energy, hearkening back at times to a type of Las Vegas showroom jazz. Her bright charm describes a sparkling smile, perhaps even a tipsy grin as she gracefully sings the notes.
 
 The album features delightful arrangements by Seiji Endo along with Taguchi’s pop-oriented originals. The music starts in full swing with a riveting “The Lady is a Tramp”, and finishes up the set with a warm “Close to You” followed by the vocalist quietly playing piano and singing her song “Voices”.
-![](L1180798-1024.jpg)
 
-![](L1180801-1024.jpg)
-![](L1180803-1024.jpg)
+{{< figure src="L1180798-1024.jpg" link="L1180798-1024.jpg" >}}
+
+{{< figure src="L1180801-1024.jpg" link="L1180801-1024.jpg" >}}
+
+{{< figure src="L1180803-1024.jpg" link="L1180803-1024.jpg" >}}
 
 
 ## The Gift by Rie Taguchi {#the-gift-by-rie-taguchi}

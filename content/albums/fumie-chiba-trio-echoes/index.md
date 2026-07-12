@@ -15,10 +15,11 @@ aliases = ["/archive/fumie-chiba-trio-echoes/", "/p/fumie-chiba-trio-echoes/"]
 
 _Echoes_ is the title of the second album from the Fumie Chiba Trio, made up of pianist and composer Fumie Chiba, bassist Tetsuji Koji, and drummer Kaoru Suzuki. This forty-nine minute album from 2013 contains ten original songs from Chiba and includes eight songs played by the trio and two for solo piano. Chiba’s trio playing style is modern contemporary jazz with rock-leaning straight beats and composed bridges, interludes, and heavy vamps that all add extra flair around melodies and jazz improvisation.
 
-![](L1220740x-1200.jpeg)
+{{< figure src="L1220740x-1200.jpeg" link="L1220740x-1200.jpeg" >}}
+
 _Echos_ follows her debut recording _[Tip of Dream](https://www.jazzofjapan.com/archive/fumie-chiba-trio-tip-of-dream)_ (2009) and solidly establishes Chiba’s focus on original compositions evocative playing continued on her later albums [_Roguequeue_](https://www.jazzofjapan.com/archive/fumie-chiba-rougequeue) (2015), _[Beautiful Days](https://www.jazzofjapan.com/archive/fumie-chiba-beautiful-days)_ (2017), and _[Canvas](https://www.jazzofjapan.com/archive/fnk-canvas)_ (2022).
 
-{{< figure src="L1220742x-1200.jpeg" >}}
+{{< figure src="L1220742x-1200.jpeg" link="L1220742x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -28,12 +29,14 @@ _(Translated from Fumie Chiba’s original Japanese liner notes.)_
 1.echo
 
 Echo imagines a trio that reverberates and dissipates together and is often played at the beginning of our performances. This song received a finalist song award in the 2012 John Lennon Songwriting Contest.
-![](L1220744x-1200.jpeg)
+
+{{< figure src="L1220744x-1200.jpeg" link="L1220744x-1200.jpeg" >}}
 
 2.dawn
 
 As my train headed towards a place I was visiting for the first time, I had complex feelings of anticipation and anxiety mixed together. The dawn sky gradually moved from the east, overflowing with bright colors. I wrote about that time combined with my scenes from my imagination.
-![](L1220745x-1200.jpeg)
+
+{{< figure src="L1220745x-1200.jpeg" link="L1220745x-1200.jpeg" >}}
 
 3.snow
 
@@ -87,7 +90,7 @@ Currently performing as a regular member of Shimpei Ruike’s band as well as wi
 
 Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. Received a scholarship in 1997 to attend the Boston Berklee College of Music. Obtained an artist visa and performed at events including a reception party for former American Vice-President Al Gore and as the opening act for Ray Charles. Returned to Japan in 2001 and is currently active in the Tokyo area as a member of groups including the instrumental band RF and Takeshi Nakatsuka’s support band.
 
-{{< figure src="L1220747x-1200.jpeg" >}}
+{{< figure src="L1220747x-1200.jpeg" link="L1220747x-1200.jpeg" >}}
 
 
 ## Echoes by Fumie Chiba Trio {#echoes-by-fumie-chiba-trio}

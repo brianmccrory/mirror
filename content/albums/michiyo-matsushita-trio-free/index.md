@@ -15,11 +15,13 @@ aliases = ["/archive/michiyo-matsushita-trio-free/", "/p/michiyo-matsushita-trio
 
 _Free_ is the third album from the Michiyo Matsushita Trio. With the members active in their individual recording and playing schedules in Japan and internationally, they have continued to play together regularly as the Michiyo Matsushita Trio. Still, it had been 13 years since their previous 2011 release _Prayer for Peace_ (and half that since Matsushita’s 2018 solo album [_Sally Gardens_](https://www.jazzofjapan.com/archive/michiyo-matsushita-sally-gardens/)), so fans of the trio were pleasantly surprised to hear of this new offering coming out last year. As with the previous trio albums, old friends and long-running members Show Kudo on bass and Ryo Saito on drums join pianist Michiyo “Michiyon” Matsushita.
 
-![](L1290240x-1200.jpeg)
+{{< figure src="L1290240x-1200.jpeg" link="L1290240x-1200.jpeg" >}}
+
 _Free_ is an 11-track, 57-minute album full of  Matsushita’s original music. The rhythms of jazz swing, Latin (including Spanish and Brazilian), smooth R&amp;B, funk, and club jazz are the framework upon which Matsushita’s imaginative music is built and which the trio brings to life through their intuitively locked-in playing.
 
 About the title _Free_: While brief and open to interpretation, the short and sweet album title may present some puzzles. First and easiest to clear up, no, this album is not free of charge. Though it was funny to see, at the trio’s live shows, a stack of these CDs for sale with the label _Free_ prominently displayed on top, and wonder how to take the word printed right there on the cover — _(wait, are these actually free for the taking? No, Matsushita explained after a laugh, they cost 3000 yen each!_
-![](L1290247x-1200.jpeg)
+
+{{< figure src="L1290247x-1200.jpeg" link="L1290247x-1200.jpeg" >}}
 
 Also, as another point of possible confusion, the type of music on this album is not _free_ as in designating the genre of free jazz. These compositions are all well-structured original ideas from Matsushita, embodying her imaginative personality and dedication to writing catchy music. The songs are wonderfully arranged with a solid jazz backbone enhanced by cool fusion stylings, laid-back beats, Wayne Shorter-esque innovation, and Horace Silver-like Latin/swing conjunctions and switch-ups.
 
@@ -31,7 +33,7 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 
 \#6 “Exoplanet” is a darker hue of swing/Latin bop jazz construction built for Matsushita’s solo piano improv. #7 “Harujion” (ハルジオン, _spring fleabane, a white and yellow flower_) is a quiet ballad, sweet and subtle. #8 “Unity of Mind”, like “Exoplanet”, has swing/Latin sections like Horace Silver, with intense hard bop rhythms and modern touches. #9 “Kiyoshi no Hiru” (きよしこの昼, _silent day_) is a medium-tempo 4/4 swing, light and nimble, with a straight-played chamber-like classical or march feel, with jazz standard constructions a la the Modern Jazz Quartet. The dynamic #10 “SR Brothers” (S and R for Show and Ryo) is an uptempo outing with adventurous time-meter shifts between pulse-racing swing and laid-back funk grooves (and, a very short free jazz section, there it is!). Lastly, track #11 “Ame no Koe” (雨の声, _voice of the rain_) is a meditative ballad where the ambient sounds of water linger in the beginning and end of the piece to bookend a folky Ghibli-hued warmth, leaving us free to imagine what comes after this happy farewell.
 
-{{< figure src="L1290249x-1200.jpeg" >}}
+{{< figure src="L1290249x-1200.jpeg" link="L1290249x-1200.jpeg" >}}
 
 
 ## Free by Michiyo Matsushita Trio {#free-by-michiyo-matsushita-trio}

@@ -14,14 +14,17 @@ aliases = ["/archive/baby-brothers-bb/", "/p/baby-brothers-bb/"]
 
 The living music from vocal a cappella groups can be inspiring and soothing in turbulent times, with voices layered in harmony and synchronized timing for direct connections with each other and the audience. The five-piece group Baby Brothers from Tokyo released their debut _Bb_ in 2007 with their well-arranged jazz, R&amp;B, and hymn-like traditionals. With only their voices and no other instruments, the quality of vocal organic vibrations can powerfully connect with reassuring joy through a skillful, very human communal experience.
 
-![](L1200605-1024.jpg)
+{{< figure src="L1200605-1024.jpg" link="L1200605-1024.jpg" >}}
+
 Happy and hopeful, the album’s jazz numbers include swinging tunes “Over the Rainbow”, “Take Five”, “Almost Like Being in Love”, and “Night in Tunisia”, performed with lush arrangements and nice decorations like vocal bass lines, beats, and horn imitations, used tastefully and not overdone. One can imagine the members’ uplifting smiles and movements as they work together to resonate voices in position.
 
 In addition to the jazz tunes, other genres perfectly suited to Baby Brothers include R&amp;B, spiritual and traditional music, including Al Jarreau’s “Could You Believe”, the reverent “Lamb of God”, and the folk song “The Water is Wide”, working together to raise the inspirational quality of the album. All songs are performed in English, save the last tune “Furusato”, a wistfully beautiful reminiscence about home and the love remaining there.
-![](L1200606-1024.jpg)
 
-![](L1200609-1024.jpg)
-![](L1200610-1024.jpg)
+{{< figure src="L1200606-1024.jpg" link="L1200606-1024.jpg" >}}
+
+{{< figure src="L1200609-1024.jpg" link="L1200609-1024.jpg" >}}
+
+{{< figure src="L1200610-1024.jpg" link="L1200610-1024.jpg" >}}
 
 
 ## Bb by Baby Brothers {#bb-by-baby-brothers}

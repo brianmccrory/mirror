@@ -14,14 +14,17 @@ aliases = ["/archive/ami-fukui-trio-new-journey/", "/p/ami-fukui-trio-new-journe
 
 Ami Fukui’s third album _New Journey_ grabs the listener’s attention with colorful, immersive songs, 11 well-crafted originals played with exciting energy and vigor.
 
-![](L1190042-1024.jpg)
+{{< figure src="L1190042-1024.jpg" link="L1190042-1024.jpg" >}}
+
 Much of the music builds on strong rhythms and bassline hooks (credit given to Kudo and Fukumori, whose brightness and expert rhythms fit the music perfectly), over which catchy melodies soar.
 
 Throughout the album, surprises and discoveries often surface – bonus interludes, doubled-up lines, coordinated syncopation, even some voice and handclaps - compositional embellishments that demonstrate Fukui’s dedication to careful songwriting which pleases the listener. The result: lush music that grooves with fun, pure and simple.
-![](L1190046-1024.jpg)
 
-![](L1190050x-1024.jpeg)
-![](L1190053-1024.jpg)
+{{< figure src="L1190046-1024.jpg" link="L1190046-1024.jpg" >}}
+
+{{< figure src="L1190050x-1024.jpeg" link="L1190050x-1024.jpeg" >}}
+
+{{< figure src="L1190053-1024.jpg" link="L1190053-1024.jpg" >}}
 
 
 ## New Journey by Ami Fukui Trio {#new-journey-by-ami-fukui-trio}

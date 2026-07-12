@@ -14,11 +14,13 @@ aliases = ["/archive/toshihiko-inoue-vayu/", "/p/toshihiko-inoue-vayu/"]
 
 _Vayu_ captures a solo saxophone performance from veteran jazz player Toshihiko Inoue in 2006, released in 2016.
 
-![](L1180766-1024.jpg)
+{{< figure src="L1180766-1024.jpg" link="L1180766-1024.jpg" >}}
+
 Originally planned as an indoor solo performance, the fine spring weather lured Toshihiko Inoue outside to perform in a garden terrace. Surrounded by nature, Inoue’s music conveys gentleness and introspection, even inspiring birds to sing along with his mellow sounds. Quiet outdoor noises, the creaking of wood, and other ambient sounds create a peaceful mood as a recording which facilitates an absorbing experience.
 
 As Inoue plays through the five songs on this album, the listener is transported to that spring day to commune with nature and Inoue’s spirit. A legendary player for over 40 years, Toshihiko Inoue’s influence on jazz lives on, with his songs and groups continuing to be appreciated.
-![](L1180769-1024.jpg)
+
+{{< figure src="L1180769-1024.jpg" link="L1180769-1024.jpg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -37,7 +39,7 @@ This was unearthed from a simple audio recording and certainly not high-quality 
 
 We would like to thank everyone who helped us in releasing this.
 
-{{< figure src="L1180895-1024.jpg" >}}
+{{< figure src="L1180895-1024.jpg" link="L1180895-1024.jpg" >}}
 
 
 ## Vayu by Toshihiko Inoue {#vayu-by-toshihiko-inoue}

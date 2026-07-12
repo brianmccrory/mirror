@@ -8,36 +8,36 @@ draft = false
 aliases = ["/archive/jazz-spots-of-japan/", "/p/jazz-spots-of-japan/"]
 [cover]
   image = "P1040163-1024.jpeg"
-  caption = ""
+  caption = "Jazz & Coffee Yuri Since 1968 in Nagoya"
   relative = true
 +++
 
 This is a brief overview of some of the general types of places that you may find in Japan, to help you learn more about and find the places you may want to visit.
 
-{{< figure src="IMG_20230309_190710881-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>JJ Soul with Mikiko Nagatake, Ryuichi Ishikawa, and Kira Sota at Gate One in 2023" >}}
+{{< figure src="IMG_20230309_190710881-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>JJ Soul with Mikiko Nagatake, Ryuichi Ishikawa, and Kira Sota at Gate One in 2023" link="IMG_20230309_190710881-1024.jpeg" >}}
 
 
 ## Variations of Jazz Spots {#variations-of-jazz-spots}
 
 There are many types of jazz spots in Japan. By _jazz spots_, I mean jazz clubs, jazz joints, jazz rooms, jazz spaces, jazz places… basically anywhere that jazz is featured as a draw or essential feature of the establishment.
 
-{{< figure src="IMG_20230225_135643116-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Coffee Bigaku in 2023" >}}
+{{< figure src="IMG_20230225_135643116-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Coffee Bigaku in 2023" link="IMG_20230225_135643116-1024.jpeg" >}}
 
 Some commonly found jazz environments include:
 
-{{< figure src="IMG_20230419_215524270-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Gauche Davinci with Hiyoruki Yokota, Hideaki Hori, Noboru Ando, and Kazuaki Yokoyama at Apple Jump in 2023" >}}
+{{< figure src="IMG_20230419_215524270-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Gauche Davinci with Hiyoruki Yokota, Hideaki Hori, Noboru Ando, and Kazuaki Yokoyama at Apple Jump in 2023" link="IMG_20230419_215524270-1024.jpeg" >}}
 
 -   Dimly-lit bars
 -   Bright jazz cafes
 -   Casual hole-in-the-wall joints
 
-{{< figure src="IMG_4345-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazz CDs at Dug in 2007" >}}
+{{< figure src="IMG_4345-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazz CDs at Dug in 2007" link="IMG_4345-1024.jpeg" >}}
 
 -   Spacious clubs
 -   Fancy restaurants
 -   Mini-theater listening rooms
 
-{{< figure src="IMG_1153-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>At the Cafe Cotton Club session in 2009" >}}
+{{< figure src="IMG_1153-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>At the Cafe Cotton Club session in 2009" link="IMG_1153-1024.jpeg" >}}
 
 -   Classroom-style sessions
 
@@ -215,4 +215,4 @@ Here are some helpful sites that contain club directories or related information
 
 _If you know of other good resources, please let me know by replying to the newsletter email or in post comments._
 
-{{< figure src="IMG_20230223_223038898x-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Cafe Cotton Club in Takadanobaba in 2023" >}}
+{{< figure src="IMG_20230223_223038898x-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Cafe Cotton Club in Takadanobaba in 2023" link="IMG_20230223_223038898x-1024.jpeg" >}}

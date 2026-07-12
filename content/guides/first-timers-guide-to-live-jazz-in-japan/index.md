@@ -9,52 +9,53 @@ draft = false
 aliases = ["/archive/first-timers-guide-to-live-jazz-in-japan/", "/p/first-timers-guide-to-live-jazz-in-japan/"]
 [cover]
   image = "DSC_9546-1200.jpeg"
-  caption = ""
+  caption = "Japanese figures in kimono look out from a bridge"
   relative = true
 +++
 
-{{< figure src="IMG_20230315_135350313-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Sign for Tokyo Club written as 東京倶楽部" >}}
+{{< figure src="IMG_20230315_135350313-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Sign for Tokyo Club written as 東京倶楽部" link="IMG_20230315_135350313-1200.jpeg" >}}
 
 
 ## Introduction {#introduction}
 
 There are some common impressions of hurdles that newcomers need to overcome with live jazz performances, and challenges with jazz in general for beginners. Jazz bars and clubs can seem hard to enter, especially on your own, and for the first time. What is the payment system? What music, and from which albums, is being played? Is it written down music, pure improvisation, noise? What’s a performance versus a jam session? When do I clap?
 
-{{< figure src="IMG_0438-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Sometime jazz club money" >}}
+{{< figure src="IMG_0438-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Sometime jazz club money" link="IMG_0438-1200.jpeg" >}}
 
 This article is aimed to help first timers navigate the world of jazz spots in Japan, with Tokyo as a base example. I hope it is also interesting for anyone who wants to know more about what it’s like to be experience live jazz music in Japan.
 
-![](IMG_00001495-1200.jpeg)
+{{< figure src="IMG_00001495-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Sign at Salt Peanuts in 2014 showing opening times (early Sunday hours of 6:00pm to 8:30pm), musicians (Nomoto Harumi Live Trio+1), live charge (1500 yen), table charge (500 yen), drink prices (500 yen and up), and minimum charge of 2500 yen (live charge + table charge + drink orders)" link="IMG_00001495-1200.jpeg" >}}
+
 The topics in this article include glossaries of useful terms used in the Japanese jazz universe, what preparations to make and know about before going, and what happens at the venues. Finally, the last section of this article presents a descriptive example in narrative form of what it is like to go to a jazz club in Japan for the first time.
 
 ---
 
-{{< figure src="IMG_0635-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>A lineup of Scotch bottles" >}}
+{{< figure src="IMG_0635-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>A lineup of Scotch bottles" link="IMG_0635-1200.jpeg" >}}
 
-{{< figure src="IMG_20140629_190626x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Arriving at Salt Peanuts" >}}
+{{< figure src="IMG_20140629_190626x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Arriving at Salt Peanuts" link="IMG_20140629_190626x-1200.jpeg" >}}
 
 
 ## Basic Lingo {#basic-lingo}
 
 For some helpful terms that appear in Japanese jazz, here is a brief list of common words and phrases. Japanese translations are included to help when searching for or looking at venue websites and online information.
 
-{{< figure src="L1110125-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Entering Salt Peanuts" >}}
+{{< figure src="L1110125-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Entering Salt Peanuts" link="L1110125-1200.jpeg" >}}
 
 **Useful Terms:**
 
-{{< figure src="L1090278-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Stage area at Salt Peanuts" >}}
+{{< figure src="L1090278-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Stage area at Salt Peanuts" link="L1090278-1200.jpeg" >}}
 
 -   **Jazz**: ジャズ (_jazu_)
 -   **Musician**: ミュージシャン (_myūjishan_)
 -   **J Jazz**: J・ジャズ (_j jazu_) Japanese jazz: [What’s J Jazz?](https://www.jazzofjapan.com/archive/whats-j-jazz)
 
-{{< figure src="IMG_20181206_201024241-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Snacks at Salt Peanuts" >}}
+{{< figure src="IMG_20181206_201024241-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Snacks at Salt Peanuts" link="IMG_20181206_201024241-1200.jpeg" >}}
 
 -   **Live**: ライブ (_raibu_) or ライヴ (_raivu_) Live music, often shortened to just “live” in Japan. Live performance concerts and events.
 -   **Stage**: ステージ (_sutēji_) A set, as in “1st stage” and “2nd stage” used to show the starting times for each set
 -   **Leader live**: リーダーライブ (_rīdā raibu_) A performance with the specified musician as the leader, the main artist, the key musician, or the star for the night’s event. Jazz musicians often perform with many groups concurrently, in many group formats such as duos and trios, and can be  side-musicians or co-stars just as often as leaders. Using the term **leader live** for certain concerts highlights their main, signature performances as recommended and helps to elevate the visibility of those events.
 
-{{< figure src="IMG_20181209_201859627-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Catching a live performance at Salt Peanuts" >}}
+{{< figure src="IMG_20181209_201859627-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Catching a live performance at Salt Peanuts" link="IMG_20181209_201859627-1200.jpeg" >}}
 
 -   **Jam session**: ジャムセッション (_jamu sesshon_) A relaxed gathering of community musicians made up of amateurs, students, and professional musicians who gather together to practice jazz songs and improvisation using common jazz standards. Informal but organized. Also called jazz session. ジャズセッション (_jazu sesshon_).
 -   **Session**: セッション (_sesshon_) Usually means jam session, but sometimes used for an informal jazz performance centered around a leader or theme.
@@ -449,4 +450,4 @@ Finally, you ask the barmaster how much your bill comes to. He tells you while h
 
 This covers some of the common patterns and information that I’ve collected over years of absorbing Japanese jazz culture. Let me know what you think, if I missed anything, or whatever you have to add. Is there anything you would like to know more about? Send me a message or leave a comment, and I will try to cover what I can in future articles. In the meantime, the next article will go into more detail about how to choose the right jazz spot to suit your taste.
 
-{{< figure src="L1110128-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Now Playing at Salt Peanuts" >}}
+{{< figure src="L1110128-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Now Playing at Salt Peanuts" link="L1110128-1200.jpeg" >}}

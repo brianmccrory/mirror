@@ -14,15 +14,19 @@ aliases = ["/archive/takako-yamada-flow-of-time/", "/p/takako-yamada-flow-of-tim
 
 Takako Yamada’s _The Flow of Time_ features 11 original compositions from the pianist, a bold collection of exciting moods and modern compositions in adventurous style.
 
-![](L1200224-1024.jpg)
+{{< figure src="L1200224-1024.jpg" link="L1200224-1024.jpg" >}}
+
 Starting assertively with a modern jazz/rock feel, electric guitar and acoustic piano lay out high opening stakes for an album filled with dramatic creativity. The songs explore moments of musical sensitivity, relaxed swing, Monkish joy and freedom, and bluesy contemplation, with full sounds of crystal piano tones, warm electric guitar, bright drum work and deep, dark bass anchoring the group sound.
 
 For added variety, a wonderfully plaintive trumpet is present on several tracks and provides a sweet organic mellowness. Adding to the mix, some of the more magical parts of the album feature the lush instrumentation of ethereal tabla drums, interlude-like sections with a deep and exotic meditative tinge.
-![](L1200225-1024.jpg)
 
-![](L1200226-1024.jpg)
-![](L1200232-1024.jpg)
-![](L1110574-1024.jpg)
+{{< figure src="L1200225-1024.jpg" link="L1200225-1024.jpg" >}}
+
+{{< figure src="L1200226-1024.jpg" link="L1200226-1024.jpg" >}}
+
+{{< figure src="L1200232-1024.jpg" link="L1200232-1024.jpg" >}}
+
+{{< figure src="L1110574-1024.jpg" link="L1110574-1024.jpg" >}}
 
 
 ## The Flow of Time by Takako Yamada {#the-flow-of-time-by-takako-yamada}

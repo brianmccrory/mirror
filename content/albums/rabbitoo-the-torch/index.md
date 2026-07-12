@@ -15,15 +15,17 @@ aliases = ["/archive/rabbitoo-the-torch/", "/p/rabbitoo-the-torch/"]
 
 Opening with a single-tone drone, electronic jazz music group Rabbitoo continues their retro-futuristic sound on their second album /The Torch /from 2016.
 
-![](L1230323x-1024.jpeg)
+{{< figure src="L1230323x-1024.jpeg" link="L1230323x-1024.jpeg" >}}
+
 Digital and analog sounds swirl and mix through Motohiko Ichino’s guitar, laden with textural effects and deploying modern music and rhythms alongside carefully tuned sound and static in an audiophile’s frame. This is vibe-setting music that wouldn’t be out of place in a fan playlist of lofi study beats or on the edges of a digital-future jazz collection.
 
 _The Torch/’s nine songs explore territory that blends digital and analog sound, with effects and filters added to the saxophone and guitar as they play looping patterns over the webs of modulated synths, drums, and bass. Alongside the spacey orbits, as on Rabbitoo’s first album /[National Anthem of Unknown Country](https://www.jazzofjapan.com/archive/rabbitoo-national-anthem-of-unknown)_, there are also comforting echoes of old-fashioned primal humanness inhabiting the frequencies as well.
-![](L1230324x-1024.jpeg)
+
+{{< figure src="L1230324x-1024.jpeg" link="L1230324x-1024.jpeg" >}}
 
 Listening to this album creates these sorts of impressions: _A visual prism broadcasting waves…Monochrome soundtrack music, comfortably robotic/human labwork…Layers of melodic interlace cascading down Escher staircases…Sinister underground synth beat, chewy notes, and floating sound waves…A drifting mix of clouds and snowflakes…Bubbling and frothing uptempo odd-meter club beat…Sliding westward roots to country…Circular spiraling groove a la Medeski Martin &amp; Wood…Slow slices of sound intersecting and reflecting…_
 
-{{< figure src="L1230325x-1024.jpeg" >}}
+{{< figure src="L1230325x-1024.jpeg" link="L1230325x-1024.jpeg" >}}
 
 
 ## The Torch by Rabbitoo {#the-torch-by-rabbitoo}

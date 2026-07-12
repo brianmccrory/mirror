@@ -14,13 +14,15 @@ aliases = ["/archive/yoshihito-p-koizumi-by-coincidence/", "/p/yoshihito-p-koizu
 
 Jazz, soul, and funk bassist Yoshihito “P” Koizumi is an active member of a number of Japanese jazz groups and events, and the 2011 album _By Coincidence_ marks his debut release as “P-Project” featuring Jun Miyakawa on keyboards and Kohzo Komori on drums. With nine tracks and a running time of 34 minutes, the album is full of funky beats, laid-back grooves, retroesque electronic keyboards, and slick bass lines.
 
-![](L1200556-1024.jpg)
+{{< figure src="L1200556-1024.jpg" link="L1200556-1024.jpg" >}}
+
 Inspiring an easy-go-lucky party mood, the short songs are all of a piece, several even with unassuming titles such as “Sound Check”, “Track”, “Jam 1”, “Jam 2”, and “Jam 3”. It’s easy to put on the album, kick back, and let the music flow and invigorate the mood without any worries.
 
 While session leader and bassist Koizimi states that the recording was not originally intended to be an official release but perhaps a demo tape or similar, the album was released as a memento of the spontaneity of the date. Many of the tracks are improvisational jams will all but basic structures undetermined, yet the spirit of fun with slick rhythms and exuberant grooves smoothly pours from the tracks.
-![](L1200557-1024.jpg)
 
-{{< figure src="L1200564-1024.jpg" >}}
+{{< figure src="L1200557-1024.jpg" link="L1200557-1024.jpg" >}}
+
+{{< figure src="L1200564-1024.jpg" link="L1200564-1024.jpg" >}}
 
 
 ## By Coincidence by Yoshihito “P” Koizumi P-Project {#by-coincidence-by-yoshihito-p-koizumi-p-project}

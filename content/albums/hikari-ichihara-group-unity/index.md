@@ -15,15 +15,17 @@ aliases = ["/archive/hikari-ichihara-group-unity/", "/p/hikari-ichihara-group-un
 
 _Unity_ is the sixth album from trumpeter Hikari Ichihara and the second album from the Hikari Ichihara Group band name, following their excellent debut release _[Move On](https://www.jazzofjapan.com/archive/hikari-ichihara-group-move-on)_ from 2010. _Unity_, released in 2011, features nine original songs and a playtime of fifty-six minutes.
 
-![](L1230308x-1200.jpeg)
+{{< figure src="L1230308x-1200.jpeg" link="L1230308x-1200.jpeg" >}}
+
 The music on this album is straight-ahead jazz built on the familiar format of trumpet-sax-piano-bass-drums hard-bop quintets. The playing style has a modern jazz feel with a mix of swing beats and straight-eights that is rooted in an energetic, soulful style, the kind that fans of Jazz Messengers and similar classic Blue Note era albums will find immediately appealing.
 
 Adding to the attraction is the group’s new material composed by the members of this band. This is solid contemporary jazz, modern with a base of expressive hard bop, exciting ad-libbing, and fun arrangements. Many songs are straightforward soloing showcases that swing with fun and energy, but there are also slower pieces and ballads where Ichihara’s mellow trumpet and flugelhorn lines especially shine. Despite having her name in the group, Ichihara is an equal partner, and above all, she is gracious about sharing the spotlight. Much of the time, she does not take the first solo slot, and even skips her turn on some tunes to let her partners take the lead, or uses her turn for trading interactions with saxophone or drums.
-![](L1230310x-1200.jpeg)
+
+{{< figure src="L1230310x-1200.jpeg" link="L1230310x-1200.jpeg" >}}
 
 Ichihara’s six excellent compositions cover a great range from swinging good-feeling fun (#1 “Coati”, #2 “Dorje’s Life”, #6 “Brain Weather”, #9 “The Laughing Stock”) to delicately moody (#7 “SCHEMA”) and sinister (#4 “Doom”). Adding to the palette is a composition each from pianist Hideaki Hori (the beautifully atmospheric #3 “Oslo”), saxophonist Ryosuke Asai (the soaring #8 “Toki”), and bassist Kunpei Nakabaya, whose two-part suite #5 “Sink - Flow” is an evocative highlight on the album. The selection of these songs shows Ichihara’s range and her taste in shaping the mood and attitude of the project, all strengthened by the group’s well-put-together ensemble sound that was very attuned and responsive after touring together and honing their musical craft.
 
-{{< figure src="L1230312x-1200.jpeg" >}}
+{{< figure src="L1230312x-1200.jpeg" link="L1230312x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -31,7 +33,8 @@ Ichihara’s six excellent compositions cover a great range from swinging good-f
 _(Translated from Hikari Ichihara’s original Japanese liner notes.)_
 
 **1 Coati**
-![](L1230313x-1200.jpeg)
+
+{{< figure src="L1230313x-1200.jpeg" link="L1230313x-1200.jpeg" >}}
 
 Coati is another name for the animal called a “civet”. One night, there was a loud rumbling noise coming from the attic of the house where I live. I wondered if this was the “raccoon dog” civet that I’ve heard a lot about on talk shows recently, so I immediately called an extermination company to get a quote, which was a whopping 100,000 yen. Oh great, someone’s living in my house without permission and won’t leave unless I pay 100,000 yen… I was pretty dejected. I complained about this on the popular Twitter platform, and someone suggested the brilliant idea of writing a song called “Civet” in order to earn 10,000 yen in royalties. That’s why I wrote this song. Of course, “Civet” was too straightforward, so I chose a different title. In the end, the problem was revealed to be rats, and the bill was 40,000 yen… so that’s three more songs for me to write. For now, please check out “Coati”.
 
@@ -73,7 +76,7 @@ Thanks to your support, we were able to release our second album under the name 
 
 Ichihara Hikari
 
-{{< figure src="L1240153x-1200.jpeg" >}}
+{{< figure src="L1240153x-1200.jpeg" link="L1240153x-1200.jpeg" >}}
 
 
 ## Unity by Hikari Ichihara Group {#unity-by-hikari-ichihara-group}

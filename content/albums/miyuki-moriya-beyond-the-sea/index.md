@@ -15,10 +15,11 @@ aliases = ["/archive/miyuki-moriya-beyond-the-sea/", "/p/miyuki-moriya-beyond-th
 
 _Beyond the Sea_ is saxophonist Miyuki Moriya’s fourth album as a leader, which she released in 2024 with her regular quartet of Mamoru Ishida (piano), Junichi Sato (bass), and Sohnosuke Imaizumi (drums). This album contains nine tracks over sixty-eight minutes and features mostly originals from the saxophonist, with two specially selected cover songs from Japanese jazz musicians that influenced her most in her jazz life.
 
-![](L1260162x-1200.jpeg)
+{{< figure src="L1260162x-1200.jpeg" link="L1260162x-1200.jpeg" >}}
+
 One of those personal heroes is saxophonist Kosuke Mine, who joins the group as a special guest and adds his engagingly vibrant tenor sax sound on five of the nine tracks. Those include two of the album’s peaks for excitement (the edge-of-your-seat #2 “Flip a Coin” and the funkily thrillseeking #5 “Maverick”) as well as Mine’s introspective ballad #7 “After the Checkout” where the two saxes converse over melancholy piano chords to set a dramatic scene.
 
-{{< figure src="L1260166x-1200.jpeg" >}}
+{{< figure src="L1260166x-1200.jpeg" link="L1260166x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -26,19 +27,23 @@ One of those personal heroes is saxophonist Kosuke Mine, who joins the group as 
 _(Translated from Miyuki Moriya’s original Japanese liner notes.)_
 
 As always, thank you for picking up and listening to this album.
-![](L1260183x-1200.jpeg)
+
+{{< figure src="L1260183x-1200.jpeg" link="L1260183x-1200.jpeg" >}}
 
 Although _Beyond the Sea_ is my fourth album as a leader, it feels like a continuation of my first album _[Cat’s Cradle](https://www.jazzofjapan.com/archive/miyuki-moriya-cats-cradle)_ which I released in 2010. For this new recording, there are songs that I’ve been working on for years, new songs written for this album, and two songs by musicians whom I respect greatly. Since this is fully packed with nine songs (at over an hour!) I hope that you stick with me through to the end.
 
-![](L1260185x-1200.jpeg)
+{{< figure src="L1260185x-1200.jpeg" link="L1260185x-1200.jpeg" >}}
+
 About the musicians, two have been with me for close to twenty years and played on my first album: pianist Mamoru Ishida and drummer Sohnosuke Imaizumi. Bassist Junichi Sato has been with this band since April 2021. Incidentally, being able to meet him was a trigger to making this album.
 
 This time we were also joined by a special guest, the beloved saxophone player Kosuke Mine, who I have endless respect for both musically and as a human being.
-![](L1260195x-1200.jpeg)
+
+{{< figure src="L1260195x-1200.jpeg" link="L1260195x-1200.jpeg" >}}
 
 When I was still a youngster in my early twenties (yes, there was such a time… haha) and a total beginner in jazz, I was looked after by the owner of a local jazz spot called Swing House in my hometown of Takamatsu. One day, a regular customer told me “Kosuke Mine is coming here, and you definitely should hear him!” So, when he came to perform as a touring member with guitarist Yoshiaki Masuo, that’s when I first met and heard Mine-san. (Mine-san probably doesn’t remember that time, but ever since then, he has been incredibly kind and wonderful to me!) I bought his /[Major to Minor](https://www.jazzofjapan.com/archive/kohsuke-mine-quintet-major-to-minor) /album at the time, and it’s continuously been one of my favorites. To be honest, I only knew about bebop then, so it was a bit of a challenge at first. But every now and then, I would pull out the record, listen to it, and think “Wow, this is really, really cool!” And, the more I continued to play jazz, the more captivated I became by his sound and his playing. A few years later in Tokyo, I was able to meet Mine-san again, and I even stood on the same stage as him. The fact that the day finally came when I could play with him on my own leader album is truly like a dream come true. I feel very blessed.
 
-![](L1260200x-1200.jpeg)
+{{< figure src="L1260200x-1200.jpeg" link="L1260200x-1200.jpeg" >}}
+
 I’ll briefly introduce the songs.
 
 1.  Cicada’s Blues (Miyuki Moriya)
@@ -88,7 +93,7 @@ At the beginning of these liner notes, I mentioned that this album feels like a 
 
 The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor player Kosuke Mine as a special guest on her summer album that is making a splash.
 
-{{< figure src="L1260206x-1200.jpeg" >}}
+{{< figure src="L1260206x-1200.jpeg" link="L1260206x-1200.jpeg" >}}
 
 
 ## Beyond the Sea by Miyuki Moriya {#beyond-the-sea-by-miyuki-moriya}

@@ -14,11 +14,13 @@ aliases = ["/archive/bungalow-you-already-know/", "/p/bungalow-you-already-know/
 
 On Bungalow’s fourth album _You Already Know_ (2017), the modern jazz group does what they do best with creative jazz, new ideas, and textured sounds. This album is rich with catchy ideas and incorporates elements of jazz groove, free jazz, Indian tabla drums, and electronic sound effects.
 
-![](L1180441-1024.jpg)
+{{< figure src="L1180441-1024.jpg" link="L1180441-1024.jpg" >}}
+
 _You Already Know_ is part of the band’s series of adventurous and atmospheric releases filled with strong hooks and compelling rhythms. While vamps and percussion anchor the music, shifting tempos, primal folk elements, dreamy improvisation, and some noise effects also factor in on tracks such as “Gravity Snap”, “Imagined Winter”, and the graceful title track. Whether you already know Bungalow’s music or not, this music does take you places.
 
-![](L1180443-1024.jpg)
-![](L1180442-1024.jpg)
+{{< figure src="L1180443-1024.jpg" link="L1180443-1024.jpg" >}}
+
+{{< figure src="L1180442-1024.jpg" link="L1180442-1024.jpg" >}}
 
 
 ## You Already Know by Bungalow {#you-already-know-by-bungalow}

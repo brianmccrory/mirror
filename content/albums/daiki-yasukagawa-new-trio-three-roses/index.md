@@ -15,15 +15,18 @@ aliases = ["/archive/daiki-yasukagawa-new-trio-three-roses/", "/p/daiki-yasukaga
 
 Renowned jazz bassist Daiki Yasukagawa is actively engaged in a variety of fascinating projects within the Japanese jazz scene. One of those, the Daiki Yasukagawa New Trio, released their first recording with this 2022 album, _The Three Roses_.
 
-![](L1240988x-1200.jpeg)
+{{< figure src="L1240988x-1200.jpeg" link="L1240988x-1200.jpeg" >}}
+
 The trio’s music and production are in good hands, being led by the veteran bassist and lecturer who consistently appears in live performances and recordings. Yasukagawa has also been running his own music label, D-musica, for many years, uniquely spotlighting select musicians from the Japanese jazz music scene, including some of his albums as well.
 
 Balancing the years scale, the New Trio is filled out by two young up-and-coming musicians. At the time of the recording, pianist Sora Ichikawa and drummer Yota Tsukada were only 23 and 22 years old, respectively. Despite their relative youth and freshness, their skills and sound portray a deep appreciation and study of jazz music.
-![](L1240992x-1200.jpeg)
+
+{{< figure src="L1240992x-1200.jpeg" link="L1240992x-1200.jpeg" >}}
 
 The album contains eleven tracks, ten original compositions and one rearranged cover. Six of the originals are by Yasukagawa, and two each come from Ichikawa and Tsukada. The one cover song (also arranged by Yasukagawa) is the poignant anti-oppression anthem “Dona Dona” by Sholom Secunda, the composer of “Bei Mir Bist Du Schön”.
 
-![](L1240999x-1200.jpeg)
+{{< figure src="L1240999x-1200.jpeg" link="L1240999x-1200.jpeg" >}}
+
 The music gets straight to the point in delivering new jazz from a new trio. That is, the songs don’t stray too far from the conventional modern jazz piano trio sound and format. They swing as they are interesting and fun, groovy, or delicate as the individual tracks require.
 
 Yet, the music is spiced with enough new changes and the appropriate moods (whether solid walking, gentle lightness, straight-ahead jazz with twists, somber reflections, or modern mellow grooves) to highlight the imagination and ambition of the young players fused with the experience and leadership of Yasukagawa.
@@ -35,7 +38,7 @@ The bassist’s six contributions comfortably span these and other territories, 
 
 Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 2022 with 23-year-old pianist Sora Ichikawa and 22-year-old drummer Yota Tsukada. A combination of originality and the backbone of orthodox jazz, the story is told through 11 songs interwoven with creative compositions from the young and energetic musicians and the increasingly passionate and sensitive playing of Yasukagawa—a memorable debut album.
 
-{{< figure src="L1250006x-1200.jpeg" >}}
+{{< figure src="L1250006x-1200.jpeg" link="L1250006x-1200.jpeg" >}}
 
 
 ## The Three Roses by Daiki Yasukagawa New Trio {#the-three-roses-by-daiki-yasukagawa-new-trio}

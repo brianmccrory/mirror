@@ -16,12 +16,15 @@ aliases = ["/archive/junichiro-ohkuchi-trio-invisible/", "/p/junichiro-ohkuchi-t
 
 Accomplished pianist Junichiro Ohkuchi leads a trio of solid veterans in the straight-ahead jazz tradition on his 2016 album _Invisible_. The trio works well together, demonstrating the equal partnership and careful intercommunication that occurs between professional jazz musicians. Evident throughout is a confident sense of risky looseness, with complete control of timing and notes, each member supporting and energizing one another.
 
-![](L1180595x-1024.jpeg)
+{{< figure src="L1180595x-1024.jpeg" link="L1180595x-1024.jpeg" >}}
+
 The pianist Ohkuchi contributes three original songs (the opener is a highlight) with other tunes by Andrew Hill, Bill Evans, Thelonious Monk, Duke Ellington, and others – undoubtedly influences on Ohkuchi’s piano style. The result is a skilled piano trio having a great time making high-caliber jazz.
 
-![](L1180596x-1024.jpeg)
-![](L1180599x-1024.jpeg)
-![](IMG_20231009_083254235x-1024.jpeg)
+{{< figure src="L1180596x-1024.jpeg" link="L1180596x-1024.jpeg" >}}
+
+{{< figure src="L1180599x-1024.jpeg" link="L1180599x-1024.jpeg" >}}
+
+{{< figure src="IMG_20231009_083254235x-1024.jpeg" link="IMG_20231009_083254235x-1024.jpeg" >}}
 
 
 ## Invisible by Junichiro Ohkuchi Trio {#invisible-by-junichiro-ohkuchi-trio}

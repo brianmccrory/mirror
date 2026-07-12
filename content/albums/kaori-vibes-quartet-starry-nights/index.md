@@ -15,19 +15,22 @@ aliases = ["/archive/kaori-vibes-quartet-starry-nights/", "/p/kaori-vibes-quarte
 
 _Starry Nights_ is the latest album from the Kaori Vibes Quartet. This is leader Kaori Nakajima’s third album with her group, following her _[Flying Mind](https://www.jazzofjapan.com/archive/kaori-vibes-quartet-flying-mind)_ and /[Cross Point](https://www.jazzofjapan.com/archive/kaori-vibes-quartet-cross-point) /releases. On her debut album, Nakajima’s quartet previously went by Vangy!!, a charming name that combines the V from vibraphone with an initial from each musician, and decorated with two mallet-like exclamation points… though, four “!!!!” would also work, as Nakajima impressively plays the instrument with two mallets in each hand in the style of famous modern jazz vibists Bobby Hutcherson and Gary Burton.
 
-![](L1230269x-1024.jpeg)
+{{< figure src="L1230269x-1024.jpeg" link="L1230269x-1024.jpeg" >}}
+
 On KVQ’s _Starry Nights_, Nakajima’s bell-like tones and warm vibrato take center stage on ten new original songs with straight-ahead jazz, uptempo bebop, and heartwarming ballads. Her music (she contributes most of the original songwriting on this album, as on her previous two releases) is charming and fun, imbued with positivity and cheer.
 
 Whether on the sunny opener “Through the Lights”, the mysterious “Echo of Stars”, or the rapid-fire “Dispel It!”, there’s a stellar lightness beaming through the music. This grace belies the strenuous effort Nakajima puts into her performance, pounding soul and muscle through the mallets to the instrument’s metal bars. It’s a seemingly bottomless reservoir of energy that is quite apparent at Nakajima’s dynamic live shows, where she transforms the heavy, challenging instrument into a limitless musical fountain that produces soaring streams of gravity-defying notes.
-![](L1230270x-1024.jpeg)
 
-{{< figure src="L1230271x-1024.jpeg" >}}
+{{< figure src="L1230270x-1024.jpeg" link="L1230270x-1024.jpeg" >}}
+
+{{< figure src="L1230271x-1024.jpeg" link="L1230271x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
 
 _(Excerpted and translated from the original Japanese liner notes written by Kaori Nakajima.)_
-![](L1230272x-1024.jpeg)
+
+{{< figure src="L1230272x-1024.jpeg" link="L1230272x-1024.jpeg" >}}
 
 1.  Through the Lights
 
@@ -69,7 +72,7 @@ My second album included the recording of “Cross Point”, a song written as s
 
 At the end of 2020, on the day before my birthday, my beloved grandfather passed away. He lived a full life to 96 years old. Whenever he opened his mouth it was to make jokes, and the neighborhood children, facility staff, and others were always filled with smiles around him. He was always a sunny person. While thinking about my grandfather I sat at the piano and reflected back on the incredibly fun memories, and with naturally happy and honest feelings I tried to write this song. I chose a title that symbolizes sunshine in the language of flowers.
 
-{{< figure src="L1240169x-1024.jpeg" >}}
+{{< figure src="L1240169x-1024.jpeg" link="L1240169x-1024.jpeg" >}}
 
 
 ## Starry Nights by Kaori Vibes Quartet {#starry-nights-by-kaori-vibes-quartet}

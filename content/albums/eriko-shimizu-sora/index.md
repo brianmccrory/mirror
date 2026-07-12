@@ -14,13 +14,15 @@ aliases = ["/archive/eriko-shimizu-sora/", "/p/eriko-shimizu-sora/"]
 
 Pianist Eriko Shimizu’s _Sora_ is her debut album from 2010 on which she leads her jazz combo through seven songs featuring original and colorful arrangements. Shimizu performs with her piano trio augmented with special guests percussionist Saori Sendo, who supplies bells, chimes, and elemental sounds not typically found in jazz piano trios, and saxophonist Toshihiko Inoue who joins on a few tracks.
 
-![](L1200403-1024.jpg)
+{{< figure src="L1200403-1024.jpg" link="L1200403-1024.jpg" >}}
+
 With two exceptions, the songs are all originals including four from Shimizu. The pianist’s concepts mostly explore modern jazz territory taken at a medium pace with a light rock/country feel and fleeting moments of abstract color, as if influenced by a certain period of Keith Jarrett’s music. The title track “Sora” (_sky_) rolls along comfortably and brings to mind calm nature scenes while opening with rain and wind effects for atmosphere. The music continues smoothly into the bluesy noirish “Out of the Blue”, again invoking images of nature as if materialized out of the blue sky. Shimizu’s “Cat Trucks” is playfully Monkish, and “Terra” heightens the mood even more with simmering modal jazz and by adding Toshihiko Inoue’s Jan Garbarek-style soprano sax embellishments.
 
 Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” jaunts along at a swinging uptempo pace, and the album closes tenderly with a emotional rendition of the Japanese traditional folk song “Furusato”.
-![](L1200404-1024.jpg)
 
-{{< figure src="L1200405-1024.jpg" >}}
+{{< figure src="L1200404-1024.jpg" link="L1200404-1024.jpg" >}}
+
+{{< figure src="L1200405-1024.jpg" link="L1200405-1024.jpg" >}}
 
 
 ## Sora by Eriko Shimizu {#sora-by-eriko-shimizu}

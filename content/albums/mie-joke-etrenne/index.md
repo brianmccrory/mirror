@@ -14,15 +14,19 @@ aliases = ["/archive/mie-joke-etrenne/", "/p/mie-joke-etrenne/"]
 
 Jazz vocalist Mie Joké’s 2018 release _Etrenne_ is a fun and fancy swing jazz outing, a fresh throwback to classic vocal jazz recordings. Like the best of jazz lover’s disks, this collection hits the mark with a great selection of familiar jazz standards performed with a loving touch.
 
-![](L1220358-1024.jpg)
+{{< figure src="L1220358-1024.jpg" link="L1220358-1024.jpg" >}}
+
 Vocalist Joké purrs atop her jazz group with a confident grace, a breathy tank of soulful emotion and romance. Her solidly swinging jazz combos feature accomplished veteran musicians, with a different group performing for “Side A” and “Side B of the recording as if on a classic jazz vinyl LP.
 
 The music is done right, with an honest, straight-ahead vision, swinging and sliding through jazz standards like “Cheek to Cheek”, “Fly Me To The Moon”, and “Caravan” with tender authenticity. Aside from jazz, a few bonus pop songs add to the variety with “Can’t Take My Eyes Off You” and “Still Crazy After All These Years.”
-![](L1220335-1024.jpg)
 
-![](L1220337-1024.jpg)
-![](L1220341-1024.jpg)
-![](L1220343-1024.jpg)
+{{< figure src="L1220335-1024.jpg" link="L1220335-1024.jpg" >}}
+
+{{< figure src="L1220337-1024.jpg" link="L1220337-1024.jpg" >}}
+
+{{< figure src="L1220341-1024.jpg" link="L1220341-1024.jpg" >}}
+
+{{< figure src="L1220343-1024.jpg" link="L1220343-1024.jpg" >}}
 
 
 ## Etrenne by Mie Joké {#etrenne-by-mie-joké}

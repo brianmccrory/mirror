@@ -14,14 +14,17 @@ aliases = ["/archive/mayuko-katakura-echoes-of-three/", "/p/mayuko-katakura-echo
 
 Pianist Mayuko Katakura’s 2015 album _The Echoes of Three_ captures an exciting reunion of old friends whose strong connections and shared history result in a high-level trio session. With plenty of speedy McCoy Tyner angularism and Monkish spontaneity, Katakura spurs the trio on, delivering a great balance of compositional planning with in-the-moment abandon.
 
-![](L1180989-1024.jpg)
+{{< figure src="L1180989-1024.jpg" link="L1180989-1024.jpg" >}}
+
 The first five tracks are back-to-back originals, starting with the contemplative “Echo” leading into the bouncing “Into Somewhere” (based on the standard “Out Of Nowhere”), the exquisite “A Dancer’s Melancholy” (also performed on her 2010 recording Faith), a fiery group improvisation “At The Studio (Reunion)”, and the modern “Directions”, honoring influences from jazz pianists Mulgrew Miller and Geri Allen.
 
 The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping “Pinocchio” (Wayne Shorter), and a sweet interpretation of Duke Pearson’s ballad “You Know I Care”, before closing with another original, “A Barfly’s Hope”, a swinging, striding song written for the pianist Elmo Hope.
-![](L1180993-1024.jpg)
 
-![](L1190001-1024.jpg)
-![](L1190012-1024.jpg)
+{{< figure src="L1180993-1024.jpg" link="L1180993-1024.jpg" >}}
+
+{{< figure src="L1190001-1024.jpg" link="L1190001-1024.jpg" >}}
+
+{{< figure src="L1190012-1024.jpg" link="L1190012-1024.jpg" >}}
 
 
 ## The Echoes of Three by Mayuko Katakura {#the-echoes-of-three-by-mayuko-katakura}

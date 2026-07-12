@@ -15,18 +15,21 @@ aliases = ["/archive/hitomi-aikawa-sweet/", "/p/hitomi-aikawa-sweet/"]
 
 _Sweet_ is the title of percussionist Hitomi Aikawa’s debut album. It was recorded and released in Japan in 2018 and contains fourteen of her compositions. A multi-instrumentalist, Aikawa plays various instruments on the songs and is joined on many of them by special guests Masaki Hayashi and Eri Uenoyama on piano, Hiroshi Suzuki on woodwinds, and Megumi Hattori on vibraphone.
 
-![](L1290178x-1200.jpeg)
+{{< figure src="L1290178x-1200.jpeg" link="L1290178x-1200.jpeg" >}}
+
 As for the instruments Hitomi Aikawa is using on each track, the details are not listed on the CD or in the liner notes. However, clues can be found on her website, where a list of her percussion collection is displayed, and it can be fun to use your ear to try and figure out which instruments are producing the sounds you hear as you listen to _Sweet_. Her large percussion collection numbers in the dozens and ranges from mallet instruments (vibraphone, marimba, xylophone, glockenspiel), hand drums (djembe, cajón, congas, bongos, timbales), tambourines, castanets, triangle, cymbals, chimes, blocks, Afro-Latin instruments, and many others.
 
 The track listing lays the songs out in an interesting sequence. There are a number of tracks were Aikawa plays alone, using different  drum and percussion instruments for brief interstitial-style episodes lasting anywhere from seventeen seconds to just over a minute. In this way, tracks #1, 3, 5, 7, and 10 act as brief intermissions, like scenes changes between her longer songs. In these brief sketches, Aikawa creates rhythmic ambiance in an effective and transitionally interesting way.
-![](L1290181x-1200.jpeg)
+
+{{< figure src="L1290181x-1200.jpeg" link="L1290181x-1200.jpeg" >}}
 
 Most of the album consists of her other, longer composed songs, averaging about four to five minutes each. It is on these songs where Aikawa has her special guests join her to make up a different format from song to song — not only do the guests change, but she herself switches between different instruments, like Afro-Peruvian cajón, hand drums, cymbals, chimes and bells, and marimba, vibraphone, and xylophone. Aikawa and her guests combine duo and trio forms such as Aikawa plus piano (Masaki Hayashi and Eri Uenoyama), Aikawa plus alto sax/soprano sax/clarinet (Hiroshi Suzuki), and Aikawa plus vibraphone (Megumi Hattori). Some of these group-based highlights are found on track #2 “Silver Children” with its ancient folk style melody with subtle jazz elements, the exciting 11-beat meter #4 “Basilisk” with its tricky shapes and lines, the refreshing early morning sound of #6 “Earth-colored Gem” (where Aikawa plays mallets, piano, and all other instruments alone), the dramatic and adventurous #8 “elk”, and the entrancing #9 “I’m good more.”
 
-![](L1290188x-1200.jpeg)
+{{< figure src="L1290188x-1200.jpeg" link="L1290188x-1200.jpeg" >}}
+
 The final four short songs make up a suite starting with track #11. Here, the wordplay hidden in the album title finally clicks: _suite/sweet_. In addition, the title of each short song in the suite (“Choice” [チョイス], “Alfort” [アルフォート], “Marie” [マリー], and “Galbo” [ガルボ]) is also cleverly chosen, as each song names a famous Japanese sweet, a brand of chocolate or butter cookies and biscuits commonly seen in supermarkets and Japanese convenience stores. Inspired by the sweets, Aikawa uses them as appetizing musical ingredients for creating musical visions out of them. #11 “Choice” is straight-laced with bubbling heat, #12 “Alfort” is a folky up-and-down march, #13 “Marie” is dreamy and melancholy, and #14 “Galbo” is a swift jazz-classical quickstep to the exit.
 
-{{< figure src="L1290193x-1200.jpeg" >}}
+{{< figure src="L1290193x-1200.jpeg" link="L1290193x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -34,7 +37,8 @@ The final four short songs make up a suite starting with track #11. Here, the wo
 _(Translated from Hitomi Aikawa’s original Japanese liner notes.)_
 
 **01. Sand** (砂, _suna_)
-![](L1290198x-1200.jpeg)
+
+{{< figure src="L1290198x-1200.jpeg" link="L1290198x-1200.jpeg" >}}
 
 A gray town.<br />
 Children are running around in a cloud of dust.
@@ -111,7 +115,7 @@ Thank you very much.
 
 Hitomi Aikawa
 
-{{< figure src="L1290203x-1200.jpeg" >}}
+{{< figure src="L1290203x-1200.jpeg" link="L1290203x-1200.jpeg" >}}
 
 
 ## Sweet by Hitomi Aikawa {#sweet-by-hitomi-aikawa}

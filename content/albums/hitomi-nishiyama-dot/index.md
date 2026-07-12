@@ -15,15 +15,18 @@ aliases = ["/archive/hitomi-nishiyama-dot/", "/p/hitomi-nishiyama-dot/"]
 
 _Dot_ is the 2023 album by pianist/composer Hitomi Nishiyama. Until this week’s release of _Echo_, _Dot_ was her latest album; _Echo_ is _Dot_ ’s twin, recorded with the same members and during the same sessions.
 
-![](L1250301x-1200.jpeg)
+{{< figure src="L1250301x-1200.jpeg" link="L1250301x-1200.jpeg" >}}
+
 Nishiyama has released many great albums since 2004, and yet it is tempting to call this significant _Dot_ her masterpiece. As a prolific composer with consistent album releases over two decades, many peaks have been reached. _Dot_ forges into some bold new territory, and successfully so.
 
 With an acoustic piano trio as a base, Nishiyama’s concepts are wider, open, more abstract. Four tracks feature a piano/bass/drums trio, and five tracks add clarinet, violin, and saxophone/flute for extra layers of artistic splashes. The sextet, with wind and strings, paints dappled backdrops and textured backgrounds on her canvas, and at a few particular moments, even converges as the ethereal resonance of metal fatigue and shearing.
-![](L1250311x-1200.jpeg)
+
+{{< figure src="L1250311x-1200.jpeg" link="L1250311x-1200.jpeg" >}}
 
 Although not purely ambient nor experimental, some of her music on _Dot_ verges more in that direction with ECM-style touches than ever before. As an example, regular in-time rhythms played by drummer Noritake are balanced with long periods of free and abstract swashes of sound, fluid spaciousness reminiscent of Paul Motian.
 
-![](L1250320x-1200.jpeg)
+{{< figure src="L1250320x-1200.jpeg" link="L1250320x-1200.jpeg" >}}
+
 Take the beginning, with dreamy blossoming and dissolving on track #1 “Turtledove” and continuing into the hypnotic spell of track #2 “Dot”, a steady drum beat doesn’t appear until the last third of the absorbing, multi-part second track. “Dot” (available to listen to in a video included below) starts with a moderated stream of repeated piano notes, played like the careful picking of a single guitar string. It’s almost like a guitar riff, chugging and shifting through four frets to build the four-pitch melody with an embedded offset. Nishiyama’s attraction to heavy metal music likely influenced her here, as with her separate acoustic jazz piano trio project [N.H.O.R.H.M.](https://www.jazzofjapan.com/archive/nhorhm-extra-edition) which focuses on heavy metal covers.
 
 This riff-based approach is subtle and not overplayed, but also appears on another highlight, track #8 “Baroness”. With an edgily modern, semi-medieval feel, lightly crunching chords turn around four corners similarly to set up a riff, the harmonic frame for a melody to play out in graceful curves and more repeated-note dot patterns.
@@ -40,7 +43,7 @@ What about _Dot_? Is this innocent word a hidden theme or message for the album?
 
 There are also the dot-like sequences of melody in some of the songs. And, there is the single extended note that ends the album, the last note of “Lighthouse” played in unison by the sextet, a fading dot beamed out to show the way home.
 
-{{< figure src="L1250332x-1200.jpeg" >}}
+{{< figure src="L1250332x-1200.jpeg" link="L1250332x-1200.jpeg" >}}
 
 
 ## Dot by Hitomi Nishiyama {#dot-by-hitomi-nishiyama}

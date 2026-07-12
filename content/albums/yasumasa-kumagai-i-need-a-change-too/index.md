@@ -16,19 +16,22 @@ aliases = ["/archive/yasumasa-kumagai-i-need-a-change-too/", "/p/yasumasa-kumaga
 
 Yasumasa Kumagai’s debut album from 2008, _I Need a Change, Too_, establishes his J Jazz hip hop concept with force: From the shocking pink cover art and the unexpected electronic soulful beats of the brief opening track “I.N.T.R.O.”, the album takes thrilling twists and turns through jazz laced with groove, centered on a powerfully soulful and vibrant modern jazz piano trio.
 
-![](L1200454x-1200.jpeg)
+{{< figure src="L1200454x-1200.jpeg" link="L1200454x-1200.jpeg" >}}
+
 Fun and catchy but with a serious musical depth, the music covers both cool and bittersweet moods, at times evoking influences from Robert Glasper’s style of gospel-inspired hip-hop jazz. Kumagai’s songwriting skill and precision playing make for a high-quality J Jazz album, full of soul and passion rooted in authentic jazz with ultra-modern sharpness.
 
 Kumagai’s original songs fill the album, along with a cover of the R&amp;B song “I Wanna Know” and a reworked version of Sonny Rollins’s “St. Thomas”, built on an extended tease vamp breaking into high-intensity jazz changes. Most of the songs feature the piano trio, with guest players including alto sax on two tracks, trumpet on one, and a duo track featuring piano with a talented beatbox vocalist as well.
-![](L1200455x-1200.jpeg)
 
-{{< figure src="L1200456x-1200.jpeg" >}}
+{{< figure src="L1200455x-1200.jpeg" link="L1200455x-1200.jpeg" >}}
+
+{{< figure src="L1200456x-1200.jpeg" link="L1200456x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
 
 _(A translation of Tabu Zombie’s original Japanese liner notes.)_
-![](L1200459x-1200.jpeg)
+
+{{< figure src="L1200459x-1200.jpeg" link="L1200459x-1200.jpeg" >}}
 
 Yasumasa Kumagai. I first heard his name about one year ago.
 
@@ -42,7 +45,7 @@ The type of jazz that evolved in Japan’s mixture culture has again been subdiv
 
 Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 
-{{< figure src="IMG_20150124_102116-1024.jpg" >}}
+{{< figure src="IMG_20150124_102116-1024.jpg" link="IMG_20150124_102116-1024.jpg" >}}
 
 
 ## I Need a Change, Too by Yasumasa Kumagai {#i-need-a-change-too-by-yasumasa-kumagai}

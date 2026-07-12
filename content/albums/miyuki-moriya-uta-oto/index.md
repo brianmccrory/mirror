@@ -15,21 +15,25 @@ aliases = ["/archive/miyuki-moriya-uta-oto/", "/p/miyuki-moriya-uta-oto/"]
 
 _Uta Oto_ from sax player Miyuki Moriya is a modern jazz album full of emotion and spirit… a bit spiritual, even. The music created by Moriya’s trio ranges from brooding and wistful, to simple cheer, folk, free, and comforting. As the music plays the mood passes from somber strife to resurgence like a theme hinted at in the liner notes, a story of rejuvenation through musical inspiration and partnership.
 
-![](L1230575x-1024.jpeg)
+{{< figure src="L1230575x-1024.jpeg" link="L1230575x-1024.jpeg" >}}
+
 In addition to playing original jazz with her long-running quartet, Moriya has also led less common formations including drummer-less trios (with sax, piano, bass), bass-less trios (sax, piano, drums), and chord-less trios (sax, bass, drums), as well as groups focused on the music of famous Japanese jazz musicians and composers.
 
 On _Uta Oto_, Moriya leads a drum-less trio with pianist Nobumasa Tanaka and bassist Hiroshi Yoshino, generating a different energy with a loose, round sound without a standard quartet’s rhythmic drum hits and cymbal crashes, but a group that still creates locked-in rhythms and explosive energy when the music calls for it.
-![](L1230577x-1024.jpeg)
+
+{{< figure src="L1230577x-1024.jpeg" link="L1230577x-1024.jpeg" >}}
 
 The seven tracks feature four originals, two songs by German composer Kurt Weill, and a Mongolian folk song. Soaring with authentic feelings, Miyuki’s originals: “Uta Oto” (beautiful sadness), “Art Nouveau” (lighthearted strolling), “M’s Dilemma” (wild whimsy), and “Sora wo Miru” (relaxing soulfulness). These distinctly original songs are set off by the two relatively darker Weill compositions with their staid tango and slow jazz shadows, and the atmospheric folk music with some natural and expertly wielded improvisation.
 
-![](L1230579x-1024.jpeg)
+{{< figure src="L1230579x-1024.jpeg" link="L1230579x-1024.jpeg" >}}
+
 The album’s path through Moriya’s originals, traversing through two adjacent Weill songs and folk music, hints at a storytelling arc, from the multi-fold prologue through to hummable innocence, darker corners, free dissonance, human roots, and a final embrace by a soulful waltz. This journey and destination is like being welcomed to rest, comforting with feelings of home and hope. The sense of a spiritual aspect is not overt, but more like an undercurrent of soulfulness and a connection to nature displayed in both structured performance and unrestrained playing, and reinforced by the personal story laid out in the liner notes.
 
 As for the album title and the uncommon word 詠音 (うたおと, _Uta Oto_), this is similar to everyday words for singing or reading (歌う, 読む). However, this word holds a deep and beautiful meaning as the sound of poetic reading from the heart with its melodic sounds or even chanting voices. This can be related to traditional Japanese poetic forms like haiku and tanka that convey deep meaning in few words with themes of nature, change, emotion, and contemplation. It adds an interesting dimension to this album, as it also makes its meaningful musical statement in poetic and soulful ways.
-![](L1230584x-1024.jpeg)
 
-{{< figure src="L1230588x-1024.jpeg" >}}
+{{< figure src="L1230584x-1024.jpeg" link="L1230584x-1024.jpeg" >}}
+
+{{< figure src="L1230588x-1024.jpeg" link="L1230588x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -37,7 +41,8 @@ As for the album title and the uncommon word 詠音 (うたおと, _Uta Oto_), t
 _(Translated from Miyuki Moriya’s original Japanese liner notes.)_
 
 Thank you everyone for picking up and listening to this album.
-![](L1230587x-1024.jpeg)
+
+{{< figure src="L1230587x-1024.jpeg" link="L1230587x-1024.jpeg" >}}
 
 I’ve been thinking about all sorts of things every day since the unimaginable coronavirus pandemic began at the end of 2019. I myself caught the virus in November 2020 and was hospitalized for ten days after being infected.
 
@@ -117,7 +122,7 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 >
 > Remembering you, so far away
 
-{{< figure src="L1240163x-1024.jpeg" >}}
+{{< figure src="L1240163x-1024.jpeg" link="L1240163x-1024.jpeg" >}}
 
 
 ## Uta Oto by Miyuki Moriya {#uta-oto-by-miyuki-moriya}

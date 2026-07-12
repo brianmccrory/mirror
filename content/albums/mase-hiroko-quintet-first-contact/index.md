@@ -14,18 +14,21 @@ aliases = ["/archive/mase-hiroko-quintet-first-contact/", "/p/mase-hiroko-quinte
 
 “Hard bop jazz aimed towards the universe” might be a good way to introduce soprano saxophonist Hiroko Mase’s debut album _First Contact_ from 2020. Together with her double-sax quintet, the album features ten of her original songs in a vibrant arrangement of energetic hard-swinging and mid-tempo songs brimming with atmospheric layers.
 
-![](L1230617x-1024.jpeg)
+{{< figure src="L1230617x-1024.jpeg" link="L1230617x-1024.jpeg" >}}
+
 The opening song “First Contact” together with #4 “Spinning Petals” (a live version is included in a video below) and #9 “Have Fun”!” prop up the album’s core jazz tentpoles with straight-ahead frameworks reminiscent of the sound of Art Blakey and the Jazz Messengers and Cannonball Adderley’s bands: energetic rhythm sections that frame unleashed improvisation from double horn front-lines.
 
 Even more sides of Mase’s thought-through compositional ideas are evident on tracks like “Resurrection”, “Dimensional Door”, and the two-part “A Blue Green Planet I &amp; II”. These pieces are modern and forward-looking, setting moods of otherworldliness and transcendence with uniquely mysterious and exploratory elements. On these, there is a sense of a cinematic spirit as with soulful Japanese westerns, especially in the catchy anthem “Resurrection” which was written during a period of illness for the composer.
-![](L1230618x-1024.jpeg)
+
+{{< figure src="L1230618x-1024.jpeg" link="L1230618x-1024.jpeg" >}}
 
 Mase’s compositional style and focused vision may invoke the legendary Wayne Shorter, who was fascinated by pop art and comic books, space, and the unknown. Also similar is the fact that Shorter, in addition to being an early member of the aforementioned Jazz Messengers, was a tenor sax player also known for distinctive soprano sax playing and his renowned compositional genius… whether or not Shorter is an explicit influence on Mase, it’s still interesting to find similarities.
 
-![](L1230619x-1024.jpeg)
+{{< figure src="L1230619x-1024.jpeg" link="L1230619x-1024.jpeg" >}}
+
 Concept albums in jazz are relatively rare, and while this album may not be considered a proper concept album with a storyline running through it (though her in-progress “Multiverse Suite” evolves the concept much more), there is definitely a strong theme and vision established here, from the colorful album design through to the fantastic music and elaborative song and liner notes. It’s clear that Hiroko Mase’s vision is also focused well beyond this first contact, expanding into her future through explorations with larger ensembles and various influences like Brazilian music, science fiction movies, and of course, the love for jazz that brings it all together.
 
-{{< figure src="L1230620x-1024.jpeg" >}}
+{{< figure src="L1230620x-1024.jpeg" link="L1230620x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -33,11 +36,13 @@ Concept albums in jazz are relatively rare, and while this album may not be cons
 _(Translated version of Hiroko Mase’s liner notes, originally in Japanese.)_
 
 When I was in music college, I heard Lester Young’s records. That was the first time I heard the music called jazz, and I can still remember what a monumental impact it had on me. What a world! After graduating, I spent every day working insanely hard to become a tenor sax player. But sadly, my chronic scoliosis got so bad that I was forced to quit performing. I stepped away from my beloved music and focused on recuperation for about 4 to 5 years. To me, jazz was such great music that when I heard it, it was hard to suppress the urge to play, so I forced myself not to listen to any music at all during that period.
-![](L1230622x-1024.jpeg)
+
+{{< figure src="L1230622x-1024.jpeg" link="L1230622x-1024.jpeg" >}}
 
 At that time, there was a senior colleague who always encouraged me: Shoko Yamagishi, the leader of the band I played in before my hiatus. She planned a live performance featuring my original songs. Another senior colleague whom I had met for the first time substituted for me, Eiji Otogawa.
 
-![](L1230623x-1024.jpeg)
+{{< figure src="L1230623x-1024.jpeg" link="L1230623x-1024.jpeg" >}}
+
 From my seat in the audience, I completely enjoyed the Shoko Yamagishi Quintet, and my appreciation for the musicians and the audience was unending.
 
 Year by year my health improved, and a year after my recovery I was married to Eiji Otogawa. All things considered, I am indebted to Shoko Yamagishi. Thank you so much, Shoko!
@@ -118,7 +123,7 @@ My journey of exploring music has just begun. Building these projects together w
 
 _September 2020_
 
-{{< figure src="L1240180x-1024.jpeg" >}}
+{{< figure src="L1240180x-1024.jpeg" link="L1240180x-1024.jpeg" >}}
 
 
 ## First Contact by Mase Hiroko Quintet {#first-contact-by-mase-hiroko-quintet}

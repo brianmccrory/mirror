@@ -15,29 +15,35 @@ aliases = ["/archive/harumi-nomoto-trio-anitya/", "/p/harumi-nomoto-trio-anitya/
 
 _Anitya_ is pianist Harumi Nomoto’s fourth trio record, released in 2025. It’s been a decade-plus since the trio’s previous release [_Virgo_ (2014)](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-virgo), with their earlier albums released as far back as 2007 and 2002, so it was a thrilling surprise when plans for a new recording were announced at one of their live shows early last year. The anticipation from their loyal fans rose in 2025 as the trio scheduled more concerts before the recording, to fine-tune the new songs and oil the performance gears at live concerts around Tokyo. Following that, _Anitya_ was quickly recorded over two days in June and released in December 2025 right in the midst of a busy holiday season.
 
-![](L1330730x-1200.jpeg)
+{{< figure src="L1330730x-1200.jpeg" link="L1330730x-1200.jpeg" >}}
+
 The 45-minute album contains all original compositions from the pianist, eight new songs in her consistently original but true-to-jazz-roots style that incorporates different rhythms, influences, and cultures. The trio members — Harumi Nomoto on acoustic piano, Ryoji Orihara on fretless electric bass, and Sohnozuke Imaizumi on drums — are the same as 2014’s _Virgo_, and they gel perfectly as a fun, intuitive, and locked-in trio playing a variety of Nomoto’s compositions and great picks from the standard jazz canon.
 
 The album starts with track #1 “Double Touch” with an immediate shift into Nomoto’s style of creative, straight-ahead piano trio jazz. Unexpected accents written into the melody pique curiosity with a feeling of near-imbalance that is rooted in the solid ground of unshakable groove. This sets the mood for a special loose-but-tight feeling in the music, one that displays the skill and excellence the musicians bring together through puzzle-piece coordination and trust.
-![](L1330737x-1200.jpeg)
+
+{{< figure src="L1330737x-1200.jpeg" link="L1330737x-1200.jpeg" >}}
 
 \#2 “Seiran” could be heard as a dichotomy of J-Jazz, where the intro and outro sections serve up a smooth club jazz/hip hop posture surrounding an inner core of medium-tempo good ol’ jazz blues.
 
-![](L1330713x-1200.jpeg)
+{{< figure src="L1330713x-1200.jpeg" link="L1330713x-1200.jpeg" >}}
+
 \#3 “Sudoku” is a song built on a musical challenge as Nomoto arranges twelve notes and twelve chords of the chromatic scale into a hopscotch framework of music. (This puzzle formulation is reminiscent in jazz of Bill Evans’ “T.T.T. (Twelve Tone Tune)” and, in Japanese jazz, Hitomi Nishiyama’s “T.C.T. (Twelve Chord Tune)”.) With Orihara and Imaizumi covering the foundation, Nomoto’s adlibs through most of the song with a wildly unconstrained yet carefully controlled solo. As with many of the moments on this album, the trio walks a tightrope of concentration and relaxation, where only their familiarity, intuition, and skills keep them aloft in the air as they improvise spontaneously.
 
 Track #4 “Cucumber Man” is a happy groove jam in the direction of Herbie Hancock hard bop and New Orleans-style funk, filled with the brightness of three jazz musicians settling in for some fun.
-![](L1330696x-1200.jpeg)
+
+{{< figure src="L1330696x-1200.jpeg" link="L1330696x-1200.jpeg" >}}
 
 \#5 “Guitar no Yo Ni” is another smooth offering that brings laid-back comfort with a rock/hip-hop beat to the fore, similar to the intro and outro of #2 “Seiran”. Some sounds from Nomoto’s earlier releases and also in this style, particularly [_Belinda_ (2007)](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-belinda) with its emotionally stirring loops of chords-to-chord wrinkles on certain progressions with deep groove drum beats.
 
-![](L1330702x-1200.jpeg)
+{{< figure src="L1330702x-1200.jpeg" link="L1330702x-1200.jpeg" >}}
+
 Track #6 is the title track “Anitya”, a forward-learning modern jazz song that grabs the attention with its sharp writing and performance.
 
 The last two tracks, #7 “Warm Winter” and #8 “Jacques”, work nicely together as a pair of songs to wrap things up, guiding the listener out gently and lovingly. As the album starts to close, the sounds are slower and more tranquil, as if luring us into a deeper state of peace, an extended goodbye. “Warm Winter” sets a lovely and sweet mood as Nomoto plays expressively throughout the song. The closing track “Jacques” dives even further for a darker feeling of intensity with peace, an immense tidal blue expanse that surrounds and supports everything.
-![](L1330708x-1200.jpeg)
 
-{{< figure src="L1330741x-1200.jpeg" >}}
+{{< figure src="L1330708x-1200.jpeg" link="L1330708x-1200.jpeg" >}}
+
+{{< figure src="L1330741x-1200.jpeg" link="L1330741x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -76,7 +82,7 @@ If I recall correctly, around the time the coronavirus had started spreading, th
 
 I created this song while imagining waves coming in and going out. I borrowed the name from the legendary diver Jacques Mayol, who loved the sea around Tateyama in his later years.
 
-{{< figure src="L1330746x-1200.jpeg" >}}
+{{< figure src="L1330746x-1200.jpeg" link="L1330746x-1200.jpeg" >}}
 
 
 ## Anitya by Harumi Nomoto Trio {#anitya-by-harumi-nomoto-trio}

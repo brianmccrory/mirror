@@ -15,18 +15,21 @@ aliases = ["/archive/akane-matsumoto-little-girl-blue/", "/p/akane-matsumoto-lit
 
 Akane Matsumoto’s solo piano album _Little Girl Blue_ from 2022 is full of good moods and good vibes, definitely different from any downcast implications that the album title may imply. A comfortable 42 minutes of traditional jazz standards from the 1930s-60s, this is feel-good music, happy jazz with a heartfelt beat, and even the most melancholy song, “Too Late Now”, is more likely to evoke a wistful smile than sorrowful tears.
 
-![](L1230248x-1024.jpeg)
+{{< figure src="L1230248x-1024.jpeg" link="L1230248x-1024.jpeg" >}}
+
 As the music hops along through the tracks, many lighthearted, expressive, pretty, and sweet moments emerge, as Matsumoto mixes rubato passages, mid-tempo swing grooves, and joyful touches of stride piano and blues to keep toes tapping and spirits buoyed. For melodic and catchy choices, the music of the influential Richard Rodgers is prominently featured on three tunes: “Little Girl Blue”, “Spring is Here”, and “My Romance”.
 
 The final tracks in particular (“My Romance”, “Sugar Ray”, and “Hymn to Freedom”) are upliftingly brimming, and also shine a light on two more of Matsumoto’s piano heroes, Phineas Newborn Jr. and Oscar Peterson. Peterson’s music is featured with two songs (the lovely “Laurentide Waltz” and “Hymn to Freedom” with its bursting fireworks of spirit) and is regularly heard at Matsumoto’s live shows as well. As for the stained-glass ornateness of Phineas Newborn Jr.’s “Sugar Ray”, Matsumoto brilliantly uses the music’s rhythmic shifts, bass thumps, and flowing licks to evoke the distinct parts of a piano trio alone on solo piano. Incidentally, true to form, Akane Mastumoto’s first album was called “Falling in Love With Phineas”, an album that was recorded while she was still in her teenage years.
-![](L1230249x-1024.jpeg)
+
+{{< figure src="L1230249x-1024.jpeg" link="L1230249x-1024.jpeg" >}}
 
 The simple black-and-white of the album design featuring line art illustrations is also worth mentioning. Definitely a far cry from typical jazz album covers conveying smoky coolness and serious expressions, _Little Girl Blue_ highlights another side of pianist Akane Matsumoto. Her visual artistry with simple, honest drawings stands apart from other more reserved or attitudinally imposing covers… including her own more glamorous album covers as seen on this album’s _obi_. In addition to the old-fashioned scene of happy bunnies with flowers and a gramophone on the cover, the inside booklet contains more illustrations from the pianist with bunnies surrounded by favorite books, balloons, or flowers, and cooking, playing, or traveling while wearing fancy clothes.
 
-![](L1230251x-1024.jpeg)
+{{< figure src="L1230251x-1024.jpeg" link="L1230251x-1024.jpeg" >}}
+
 Matsumoto’s musical art is perhaps of a kind with these detailed black-and-white drawings, as the intricate fluidity and good-natured warmth of her spirit are also given life through the black-and-white keys of her piano. In both mediums, the soft lines, gentle shading, and nimble accents of Matsumoto’s art overflow with optimism and expressiveness, wide-armed and embracing the world.
 
-{{< figure src="L1230250x-1024.jpeg" >}}
+{{< figure src="L1230250x-1024.jpeg" link="L1230250x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -85,7 +88,7 @@ My grandfather was interned in Siberia for four years after the war. He would of
 
 This song was written during the civil rights movement, and it must have become a great support to all the people who were trying to regain the freedom that is often taken for granted. This is a powerful message from Peterson, a wish for a peaceful and free world.
 
-{{< figure src="L1240157x-1024.jpeg" >}}
+{{< figure src="L1240157x-1024.jpeg" link="L1240157x-1024.jpeg" >}}
 
 
 ## Little Girl Blue by Akane Matsumoto {#little-girl-blue-by-akane-matsumoto}

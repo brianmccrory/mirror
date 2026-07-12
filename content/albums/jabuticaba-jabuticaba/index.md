@@ -15,15 +15,18 @@ aliases = ["/archive/jabuticaba-jabuticaba/", "/p/jabuticaba-jabuticaba/"]
 
 _Jabuticaba_ is the self-titled debut record from pianist Mikiko Nagatake and saxophonist Nami Kano, two players active in the modern-day Japanese jazz scene as leaders of their own groups and members of other projects. Here on this 2021 release, these kindred spirits play eight songs, four originals and four reinterpreted cover songs from legends Carla Bley, Lee Konitz, and others.
 
-![](L1230375x-1024.jpeg)
+{{< figure src="L1230375x-1024.jpeg" link="L1230375x-1024.jpeg" >}}
+
 Based in jazz but extending beyond the genre, the music contains a great mix of moods: creatively jaunty, dark and brooding, fanciful, quirky, gentle and sensitive. The personality of the duo surfaces in fun and sensitive ways as the duo moves intuitively through shades of color, mood, and style.
 
 A first-time listener’s ears will no doubt perk up on tracks #1, #3, #5, and #8, songs that are filled with moments of bright energy, whimsy, speedy cool jazz, and funky soul. Yet the music is heightened by the balance offered by the other tracks through slowly captivating ballads, fantastical edifices, and intimately beautiful playing from the two musicians which blooms with repeated and attentive listening.
-![](L1230376x-1024.jpeg)
+
+{{< figure src="L1230376x-1024.jpeg" link="L1230376x-1024.jpeg" >}}
 
 Of pianist Nagatake’s two evocative and memorable contributions, #2 “Sakuragochi” recalls [her duo album with Tetsuji Yoshida](https://www.jazzofjapan.com/archive/tetsuji-yoshida-and-mikiko-nagatake) with its poignant moods and heavy riffs, while her #8 “Along With You, Sunnyman” skillfully lays out the good-feeling catchy hooks and grooves based on the pianist’s appreciation for Stevie Wonder-like positivity.
 
-![](L1230378x-1200.jpeg)
+{{< figure src="L1230378x-1200.jpeg" link="L1230378x-1200.jpeg" >}}
+
 Nagatake and Kano’s playing on the saxophonist’s compositions #6 “Foggy Mind” and #7 “Mysterious Dress” feature some of the most exquisitely performed music on the record. These two songs are played consecutively, continuously linked through Nagatake’s piano which infuses the music with wisps of Debussy and Duke Ellington while Kano’s emotionally intense melodies arise bravely and flow gracefully.
 
 
@@ -125,7 +128,7 @@ The fact that we were able to record in the turbulent year 2020 is also largely 
 
 _Jabuticaba  Mikiko Nagatake  Nami Kano_
 
-{{< figure src="IMG_20230414_121556486x-1024.jpeg" >}}
+{{< figure src="IMG_20230414_121556486x-1024.jpeg" link="IMG_20230414_121556486x-1024.jpeg" >}}
 
 
 ## Jabuticaba by Jabuticaba {#jabuticaba-by-jabuticaba}

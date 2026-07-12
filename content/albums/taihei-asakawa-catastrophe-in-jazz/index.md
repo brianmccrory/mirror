@@ -14,20 +14,25 @@ aliases = ["/archive/taihei-asakawa-catastrophe-in-jazz/", "/p/taihei-asakawa-ca
 
 Jazz pianist Taihei Asakawa pushes boundaries on his 2011 release _Catastrophe in Jazz_.
 
-![](L1200201-1024.jpg)
+{{< figure src="L1200201-1024.jpg" link="L1200201-1024.jpg" >}}
+
 This modern jazz piano trio album is a fascinating one, balancing moments of furious musical fire, where rapid melodic lines are played as if by electric guitar, alongside slower melancholic moments of pianistic beauty, heavy with emotion.
 
 The 12 original songs on this album range from hot to cool, exploring clever odd-metered structures, modern lyrical European-style jazz, energetic rapid-fire aggression, classical piano sounds, moments of meditative reflection, and even quirky hiphop-influenced jazz pop.
-![](L1200202-1024.jpg)
+
+{{< figure src="L1200202-1024.jpg" link="L1200202-1024.jpg" >}}
 
 Enhancing the compositional texture of this album is Asakawa’s use of instrumental arrangement. In addition to the typical modern jazz piano/bass/drums trio format on most songs here, Asakawa also employs a spacier, floating piano/drums duet at times, with other songs featuring Asakawa’s moving solo piano to great dramatic effect (“Nostalgia”, “Elegy”).
 
-![](L1200207-1024.jpg)
+{{< figure src="L1200207-1024.jpg" link="L1200207-1024.jpg" >}}
+
 With virtuosity and compositional strength on display, the care and attention dedicated here, far from being an accidental catastrophe, results in a musical outpouring of creative modern jazz with high repeat-value listenability.
 
-![](L1200208-1024.jpg)
-![](L1200209-1024.jpg)
-![](L1110981-1024.jpg)
+{{< figure src="L1200208-1024.jpg" link="L1200208-1024.jpg" >}}
+
+{{< figure src="L1200209-1024.jpg" link="L1200209-1024.jpg" >}}
+
+{{< figure src="L1110981-1024.jpg" link="L1110981-1024.jpg" >}}
 
 
 ## Catastrophe in Jazz by Taihei Asakawa {#catastrophe-in-jazz-by-taihei-asakawa}

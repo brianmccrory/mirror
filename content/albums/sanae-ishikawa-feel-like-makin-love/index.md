@@ -14,19 +14,25 @@ aliases = ["/archive/sanae-ishikawa-feel-like-makin-love/", "/p/sanae-ishikawa-f
 
 Tokyo-based jazz singer Sanae Ishikawa sings from her heart, presenting her full, confident voice on choice jazz standards with her 2007 debut _Feel Like Makin’ Love_.
 
-![](L1200193-1024.jpg)
+{{< figure src="L1200193-1024.jpg" link="L1200193-1024.jpg" >}}
+
 Her beautiful, crystal-clear delivery resonates with an easy joyfulness and charm, yet can also reflect depths of dramatic emotion to moving effect. Building on the strength of her veteran backup musicians, her innate jazz timing elevates the performance and welcomes the listener straight into the music.
 
 Her self-described “juicy voice” is powerful with natural buoyancy and shimmering vibrations, and her impressively clear pronunciation adds another level of quality to this enjoyable session.
-![](L1200194-1024.jpg)
+
+{{< figure src="L1200194-1024.jpg" link="L1200194-1024.jpg" >}}
 
 This 12-track album is well-rounded and arranged like a live performance, with five standard jazz swing numbers (including “Cheek to Cheek”, “Our Love Is Here To Stay”, “All Of Me”), Latin/bossa songs (“How Insensitive”, “Antonio’s Song”, …), slower ballads (“Blame It On My Youth”, …), and the title song done in a groovy, soulful style.
 
-![](L1200196-1024.jpg)
-![](L1200197-1024.jpg)
-![](L1200198-1024.jpg)
-![](IMG_20150318_153927-1200.jpeg)
-![](IMG_20150318_153942-001-1200.jpeg)
+{{< figure src="L1200196-1024.jpg" link="L1200196-1024.jpg" >}}
+
+{{< figure src="L1200197-1024.jpg" link="L1200197-1024.jpg" >}}
+
+{{< figure src="L1200198-1024.jpg" link="L1200198-1024.jpg" >}}
+
+{{< figure src="IMG_20150318_153927-1200.jpeg" link="IMG_20150318_153927-1200.jpeg" >}}
+
+{{< figure src="IMG_20150318_153942-001-1200.jpeg" link="IMG_20150318_153942-001-1200.jpeg" >}}
 
 
 ## Feel Like Makin’ Love by Sanae Ishikawa {#feel-like-makin-love-by-sanae-ishikawa}

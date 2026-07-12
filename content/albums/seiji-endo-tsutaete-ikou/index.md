@@ -14,13 +14,15 @@ aliases = ["/archive/seiji-endo-tsutaete-ikou/", "/p/seiji-endo-tsutaete-ikou/"]
 
 In memory of the lives taken by the devastating Tohoku earthquake and tsunami of March 11, 2011, three musicians formed the _Tsutaete Ikou_ project. Pianist Seiji Endo and vocalists Hiroco Nagano and Shinya Nitta were touched by the brave and kindhearted students they met at a benefit concert, children who became an inspiration for the musicians.
 
-![](L1180630x-1024.jpeg)
+{{< figure src="L1180630x-1024.jpeg" link="L1180630x-1024.jpeg" >}}
+
 “Tsutaete Ikou” is the resulting heart-warming anthem, dedicated to strengthening the spirit of survivors and helping to soothe painful memories. The title echoes a stone monument at Ishinomaki high school which promises to tell their story forever. After disasters such as this, one may feel hopeless individually, yet the act of remembering together, passing the message on, and uniting with music does wonders to support the spirit.
 
 The CD contains three versions of the song “Tsutaete Ikou”, and proceeds were donated to affected disaster areas and educational funds for children.
-![](L1180631x-1024.jpeg)
 
-{{< figure src="L1180632x-1024.jpeg" >}}
+{{< figure src="L1180631x-1024.jpeg" link="L1180631x-1024.jpeg" >}}
+
+{{< figure src="L1180632x-1024.jpeg" link="L1180632x-1024.jpeg" >}}
 
 
 ## Tsutaete Ikou by Seiji Endo {#tsutaete-ikou-by-seiji-endo}

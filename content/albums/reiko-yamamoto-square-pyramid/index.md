@@ -14,23 +14,28 @@ aliases = ["/archive/reiko-yamamoto-square-pyramid/", "/p/reiko-yamamoto-square-
 
 Reiko Yamamoto’s _The Square Pyramid_ is a jazz record built around her vivid and precise vibraphone sound. With excitement heightened by the targeted force and agility of four mallets striking and bouncing on the metal bars, the crystal clear and warmly sustained sounds of Yamamoto’s instrument pull the listener into the heart of the colorful structure through her compelling compositions.
 
-![](L1260027x-1200.jpeg)
+{{< figure src="L1260027x-1200.jpeg" link="L1260027x-1200.jpeg" >}}
+
 Written in Japanese, Reiko Yamamoto’s name is 山本玲子. _Reiko_ (玲子) contains the kanji character 玲 which represents the sound of jewels and is used in several aural words invoking tinkling and chiming sounds. Whether or not that character had a direct influence on the musician’s life, it’s an appropriately fitting context for her masterful playing of this brilliantly translucent instrument.
 
 All of the songs are by the group leader Yamamoto, whose musical ideas are let loose on the nine tracks’ creative arrangements and solos. The music is typically modern sounding with mostly straight-eight rhythms adorned with interesting meters, melodic placements, and musical structures.
-![](L1260033x-1200.jpeg)
+
+{{< figure src="L1260033x-1200.jpeg" link="L1260033x-1200.jpeg" >}}
 
 Joining Yamamoto is her “Square Pyramid” quartet (distinguished from her previous two “Tempus Fugit” swing/bop quartet albums) featuring Sumire Kuribayashi on piano, Keisuke Furuki on bass, and Hiro Kimura on drums.
 
-![](L1260055x-1200.jpeg)
+{{< figure src="L1260055x-1200.jpeg" link="L1260055x-1200.jpeg" >}}
+
 The flow of the album is like a three-act storytelling arc, with thrilling action in acts one and three and calm respites in the middle. The opening is all excitement delivered through the propulsion of heart-racing notes on #1 “Vibrant Line” and #2 “Midnight Blue”.
 
 Next, the mellow #3 “Staring at the Rain” and the melancholic #4 “Missing Piece” are both pretty creations placed to introduce different moods and moments of peaceful reflection.
-![](L1260062x-1200.jpeg)
+
+{{< figure src="L1260062x-1200.jpeg" link="L1260062x-1200.jpeg" >}}
 
 Nestled in the middle of the album is a set of three conceptually linked tracks: #5 “Piano Songs No. 2”, #6 “Piano Songs No. 3”, and #7 “Short Stories No. 5”.
 
-![](L1260050x-1200.jpeg)
+{{< figure src="L1260050x-1200.jpeg" link="L1260050x-1200.jpeg" >}}
+
 These three songs examine more sides of the tinkling gem (or faces of the pyramid) and showcase compositional traces of classical, progressive, folk, rock, and mystery, with a lyrical touch resembling a poetic, possibly Jethro Tull-ish, personality.
 
 Incidentally, more numbers from the Piano Songs and Short Stories series appear on Yamamoto’s other musical projects and albums including Sumireiko, Yamako, Jazz Resort, and Magnolia _(coming up in future articles here)_.
@@ -87,7 +92,7 @@ The long-awaited all-originals release from the new band debut.
 
 Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (Terasima Records), participated in genre-crossing collaborations, and has become known for the endless possibilities of her vibraphone sound. She now releases a full album of her original compositions fully unleashing her well-established compositional and arrangement techniques. Throughout jazz history from swing to hard bop, fusion, and contemporary genres, the vibraphone has produced many songs and has been incorporated into many bands as a novel instrument. Here again, a new part of this history will be recorded.
 
-{{< figure src="L1260068x-1200.jpeg" >}}
+{{< figure src="L1260068x-1200.jpeg" link="L1260068x-1200.jpeg" >}}
 
 
 ## The Square Pyramid by Reiko Yamamoto {#the-square-pyramid-by-reiko-yamamoto}

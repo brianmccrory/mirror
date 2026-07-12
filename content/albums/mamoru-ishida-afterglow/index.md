@@ -15,23 +15,27 @@ aliases = ["/archive/mamoru-ishida-afterglow/", "/p/mamoru-ishida-afterglow/"]
 
 _Afterglow_ is the latest recording from pianist Mamoru Ishida, released in 2023 and recorded in 2022 with his trio featuring Ryohei Komaki on bass and Kaito Nakamura on drums. The sixty-four minute, ten-track album is filled with his original compositions and is his first leader album in twelve years, although he’s stayed active with live shows and other recording sessions throughout. Days of Delight, the new Japanese record label, set the direction of having a trio format with Ishida’s originals and describes the situation glowingly in the liner notes.
 
-![](L1250946x-1200.jpeg)
+{{< figure src="L1250946x-1200.jpeg" link="L1250946x-1200.jpeg" >}}
+
 Ishida’s compositions and playing contain a great balance of tradition and novelty. His style clearly reflects both the influence of and reverence for the great legends of jazz piano, but much like his fondness for wordplay and puns, he adds fine touches and subtle changes to his music to avoid playing simple imitations of jazz in the past. As an example, in several of his tunes, the chord changes or melody turn in slightly unexpected directions, intelligently and not jarringly so, with a catchy exuberance or in graduated shadings.
 
 A quick description of the tracks and album flow includes the patient and thematic #1 “Minor”, the springy joyfulness of #2 “Chatchar”, the serious and touching nature of  #3 “Donfattan” _(a portmanteau of Tokyo jazz bars [Donfan](https://www.jazzofjapan.com/archive/donfan) and Manhattan)_, the pretty and bobbing #4 “Crucian Carp Waltz”, the goofy good-naturedness of #5 “Mr. Airhead”, the start-and-stop dreaminess of #6 “Leo”, the laidback smoky bossa of #7 “Afterglow”, the jazz-standardish purity of #8 “SMNY-EKD”, the curiosity and back-and-forth steps of #9 “Pia-Tamu” _(possibly referring to pianist-Tamura, plus “Ah Um” perhaps)_, and the good old blues groove of #10 “Blues for AH”.
-![](L1250947x-1200.jpeg)
+
+{{< figure src="L1250947x-1200.jpeg" link="L1250947x-1200.jpeg" >}}
 
 The style is exquisite straight-ahead piano trio jazz with modern touches, at times bringing in influences from Hancock and Corea, Thelonious Monk, Vince Guaraldi, Charles Mingus, and Red Garland in the compositional choices and the trio’s playing. Along with the controlled moments of patient prettiness and lovely ballads are mid- and up-tempo brightness, jazz that is freewheeling and bouncing in pure pleasure. Ishida’s creative ad-libbing is original and comfortable, spontaneously flowing while in control.
 
-![](L1250910x-1200.jpeg)
+{{< figure src="L1250910x-1200.jpeg" link="L1250910x-1200.jpeg" >}}
+
 Likewise, the occasional moments when a quote of a familiar theme pops up, or when listeners are draped in blankets of notes or swept up into a high-note range, are all the more effective as ideas develop and an overall effect of dynamism and real-time improvisation is achieved.
 
 As for Days of Delight, this new label was created to promote Japanese jazz in a new era. It’s a project dedicated to the sound of Japanese jazz delivered through the curation of authentic jazz currently being played in Japan. Built on this foundation, the label strives to renew the feeling of the great era of 1970s Japan, when Japanese jazz was carving out new territory through originality and landmark recordings.
-![](L1250917x-1200.jpeg)
+
+{{< figure src="L1250917x-1200.jpeg" link="L1250917x-1200.jpeg" >}}
 
 Label founder and producer Akiomi Hirano’s liner notes for _Afterglow_ are fittingly illuminating of this direction for jazz, as well as Ishida’s skills: his unique presence, neat way of speaking and playing, individuality, refinement, and poetic sentiment. And above all, how Ishida doesn’t play notes without thinking, but stays calm, concentrates, and maintains control over the big picture.
 
-{{< figure src="L1250919x-1200.jpeg" >}}
+{{< figure src="L1250919x-1200.jpeg" link="L1250919x-1200.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -39,7 +43,8 @@ Label founder and producer Akiomi Hirano’s liner notes for _Afterglow_ are fit
 _(Translated from excerpts of Akiomi Hirano’s original Japanese liner notes.)_
 
 …
-![](L1250923x-1200.jpeg)
+
+{{< figure src="L1250923x-1200.jpeg" link="L1250923x-1200.jpeg" >}}
 
 In fact, he is the pianist who is most removed from the style of playing by rote, temporarily filling up the space with patterns or scales. There is never the sense of playing something without meaning, or getting carried away and just goofing around.
 
@@ -79,7 +84,7 @@ This is jazz pianist Mamoru Ishida’s most important priority.
 
 …
 
-{{< figure src="L1250960x-1200.jpeg" >}}
+{{< figure src="L1250960x-1200.jpeg" link="L1250960x-1200.jpeg" >}}
 
 
 ## Afterglow by Mamoru Ishida {#afterglow-by-mamoru-ishida}

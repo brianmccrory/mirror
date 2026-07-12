@@ -15,11 +15,13 @@ aliases = ["/archive/akihiro-yoshimoto-takashi-sugawa-oxymoron/", "/p/akihiro-yo
 
 _Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](https://www.jazzofjapan.com/archive/apollo) in Tokyo, Japan, and released that recording as this album in 2017.
 
-![](L1260974x-1200.jpeg)
+{{< figure src="L1260974x-1200.jpeg" link="L1260974x-1200.jpeg" >}}
+
 Through the album’s eleven tracks and thirty-six minutes, Yoshimoto and Sugawa play free jazz and experimental music that pushes beyond the boundaries of standard jazz. The pair avoids the more easily identifiable trademarks of conventional music and songwriting to chase the free-flowing exchange of spontaneous ideas and sounds with few limits imposed.
 
 The ingredients are Yoshimoto on soprano sax and clarinet, Sugawa on cello and contrabass, and beautiful inspiration. The result is filled with eccentric and atonal aspects: wild flights of notes punctuated with wavering drones, careful twining of improvised melodies, and knife-edge slices of notes forming and dissipating in unsettling conditions.
-![](L1260979x-1200.jpeg)
+
+{{< figure src="L1260979x-1200.jpeg" link="L1260979x-1200.jpeg" >}}
 
 That said, it’s not an album full of noise or ambient effects (though [the Bandcamp page for the album](https://oxymoronduo.bandcamp.com/album/oxymoron) does include the tags _ambient_ and _dark ambient_, along with _jazz_, _contemporary jazz,_ and _freejazz_). Horn notes fly around in unpredictable paths, pouring phrases into the air while low notes percolate, bass notes pop and ring, and bowed strings expose eerie terrains.
 
@@ -39,7 +41,7 @@ The three-part “Mokume” series (tracks #4, #8, and #10) has a particular imp
 
 The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a trio as the sax and bass are joined by piccolo trumpet (played by Niran Dasika). Playful mayhem is entertained as the trio balances on a tightrope of unity and disarray. Roaming improvisation leads to unintelligible scrambles of speech and juggling of squeaks, pitches, and volume before ending with a satisfyingly clear, slightly bluesy conclusion.
 
-{{< figure src="L1260992x-1200.jpeg" >}}
+{{< figure src="L1260992x-1200.jpeg" link="L1260992x-1200.jpeg" >}}
 
 
 ## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa {#oxymoron-by-akihiro-yoshimoto-and-takashi-sugawa}

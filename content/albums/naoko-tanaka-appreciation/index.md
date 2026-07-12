@@ -15,15 +15,18 @@ aliases = ["/archive/naoko-tanaka-appreciation/", "/p/naoko-tanaka-appreciation/
 
 _Appreciation_ is pianist and composer Naoko Tanaka’s 2022 jazz release, her latest in a series of exciting new albums from young Japanese musicians. Several of her previous leader albums (_Home_, _I Fall In Love Too Easily_, _Memories_) featured her piano trio as a trio, which _Appreciation_ also does. But this release also brings in the expert sounds of horn players Yoshiro Okazaki (trumpet), Takayuki Sato (alto sax), and Mabumi Yamaguchi (tenor sax) for three songs. In the rhythm section with the sparkling star are her regular trio members Koji Yasuda on bass and Masanori Ando on drums.
 
-![](L1230260x-1024.jpeg)
+{{< figure src="L1230260x-1024.jpeg" link="L1230260x-1024.jpeg" >}}
+
 The jazz performance and original compositions on this album are focused on a few themes. One, perhaps most important and reflected in the title, is the sense of gratitude that Tanaka feels for others: her companions, musical partners, and no doubt her listeners and supporters as well.
 
 Another goal for the pianist was to release an album full of her original songs. This includes one of her popular live show attractions, her tune “M.T.”, a fascinating uptempo swing number dedicated to and invoking certain comic book reptile heroes.
-![](L1230261x-1024.jpeg)
+
+{{< figure src="L1230261x-1024.jpeg" link="L1230261x-1024.jpeg" >}}
 
 In addition, there are other perfectly swung tunes, respectful of tradition while pushing forward with new songs and talent. Highlights include the rolling rhythms and skipping frolic of #1 “Hydrangea Flower”, the solid and inventive title track #4 “Appreciation”, and the cool mellowness of #5 “Aries”, aiming to be unbound by genre limits to appeal to all.
 
-![](L1230263x-1024.jpeg)
+{{< figure src="L1230263x-1024.jpeg" link="L1230263x-1024.jpeg" >}}
+
 Tying it all up in a lovely bow is the final track (and the only cover song on the album), #9 “Konomichi”, played by Tanaka as a soulful piano solo that captures a sentimental fondness in lovely light colors like the so many purple, pink, and blue flowers surrounding her in the cover image.
 
 
@@ -73,7 +76,7 @@ This is one of the songs I wrote during a period of two months when I couldn’t
 
 I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had an idyllic image for a long time. I feel that there is something in common in the jazz spirit, of being proud of your hometown and where you came from. It’s a song that my grandfather loves and one that I always feel close to.
 
-{{< figure src="L1230264x-1024.jpeg" >}}
+{{< figure src="L1230264x-1024.jpeg" link="L1230264x-1024.jpeg" >}}
 
 
 ## Appreciation by Naoko Tanaka {#appreciation-by-naoko-tanaka}

@@ -14,14 +14,17 @@ aliases = ["/archive/ryosuke-hashizume-group-wordless/", "/p/ryosuke-hashizume-g
 
 _Wordless_ is Ryosuke Hashizume’s first album released in Japan in 2006, kicking off a rewarding series of modern and absorbing albums from this jazz saxophonist’s stellar group.
 
-![](L1200727-1024.jpg)
+{{< figure src="L1200727-1024.jpg" link="L1200727-1024.jpg" >}}
+
 Through his modern music, with a clean recording sound and deep reverb, the style of ECM and similar European jazz music is brought to mind. Hashizume’s group for this album is a quartet built on sax, electric guitar, fretless electric bass, and drums, and creates a sound that is both organic and electric, sleekly modern. Hashizume also uses effects to loop his sax on a few tracks, heightening the otherworldly effect on portions of the album.
 
 With a length of 72 minutes spread out over ten tracks, the songs breathe and bloom with energy, pushing towards fusion jazz through graceful melodies riding over sharp beats and beguiling frameworks. Song titles include “Face”, “Seven Four”, and “Cycles”, where the music ranges from cool with futuristic floating qualities to sparse, freeish poems and mysterious, rocking adventures, each song offering up a thematic musical drama, thoughtfully constructed and stylishly executed.
-![](L1200728-1024.jpg)
 
-![](L1200731-1024.jpg)
-![](L1200733-1024.jpg)
+{{< figure src="L1200728-1024.jpg" link="L1200728-1024.jpg" >}}
+
+{{< figure src="L1200731-1024.jpg" link="L1200731-1024.jpg" >}}
+
+{{< figure src="L1200733-1024.jpg" link="L1200733-1024.jpg" >}}
 
 
 ## Wordless by Ryosuke Hashizume Group {#wordless-by-ryosuke-hashizume-group}

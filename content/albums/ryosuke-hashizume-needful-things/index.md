@@ -14,15 +14,17 @@ aliases = ["/archive/ryosuke-hashizume-needful-things/", "/p/ryosuke-hashizume-n
 
 Four accomplished musicians reunite for _Needful Things_, a live recording of original compositions, bewitching music with a touching beauty.
 
-![](L1180765-1024.jpg)
+{{< figure src="L1180765-1024.jpg" link="L1180765-1024.jpg" >}}
+
 Starting with a slow build-up of sounds and chant-like effects, the songs develop deeply, breathing traces of folk, pop, and contemporary jazz into melancholy themes. Without drums or percussion, the quartet is able to create a slightly floating feeling, while the players’ steady pulse keeps the time anchored, subtle yet solidly unwavering.
 
 The players evoke a calm confidence together, creating music that grooves with tension and release, mixing solemnity with hopefulness, freedom with structure… a distinctively lovely product from these dedicated musicians.
-![](L1180764-1024.jpg)
+
+{{< figure src="L1180764-1024.jpg" link="L1180764-1024.jpg" >}}
 
 Recorded live at Jalan Jalan in Wakayama, Japan on November 22-23, 2008.
 
-{{< figure src="L1180761-1024.jpg" >}}
+{{< figure src="L1180761-1024.jpg" link="L1180761-1024.jpg" >}}
 
 
 ## Needful Things by Ryosuke Hashizume {#needful-things-by-ryosuke-hashizume}

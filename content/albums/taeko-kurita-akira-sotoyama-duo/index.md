@@ -15,17 +15,19 @@ aliases = ["/archive/taeko-kurita-akira-sotoyama-duo/", "/p/taeko-kurita-akira-s
 
 Pianist Taeko Kurita and drummer Akira Sotoyama present us with _Duo_, a 2024 live album recorded in 2023 at "Shicho Shitsu" (Listening Room), an experimental music venue in Tokyo's Jimbocho district. In true improvisational form, the duo met with minimal prearrangements in order to let the mood, music, room, and audience guide their performance. The concert becomes a selection of ten of pianist Kurita's compositions, framed by the piano and decorated by the drums.
 
-![](L1280909x-1200.jpeg)
+{{< figure src="L1280909x-1200.jpeg" link="L1280909x-1200.jpeg" >}}
+
 Most of the song titles are in Japanese, and language-attuned readers may notice that several of the songs end in the character 川 (_kawa_), meaning river. Kurita has a habit of naming songs after rivers in Japan, and her recent album _SOLO 5_ (2023) even features a complete tracklist of ten songs named after rivers. Her profile explains, "I like crossing rivers. I like composing and I'm not good at coming up with song titles, so I often use the names of rivers as titles." One of the songs from _SOLO 5_, "Karaborigawa", is also included on this album. Like rivers, her music can flow and weave, smoothly drifting or rushing along depending on the environment. Here the environment is an unpredictable live setting with the banks, shapes, wind, and silt of Sotoyama's rhythms.
 
 On _Duo_, Kurita and Sotoyama perform together in a fun and flexible way. Here, the roles are generally such that the pianist sets up the musical and rhythmic framework using a foundation of bass lines, chords, and melodies tied to her original compositions. Activated by her lead, Sotoyama's drums impishly strike and clatter, following or pushing the pulse elastically, stopping on a dime, and restarting on a whim. If this sounds like a familiar style, last week's [Melodies: _Melodies_](http://www.jazzofjapan.com/archive/melodies-melodies) also featured Sotoyama's creative drumming style.
-![](L1280920x-1200.jpeg)
+
+{{< figure src="L1280920x-1200.jpeg" link="L1280920x-1200.jpeg" >}}
 
 Now, on to the music itself. The album begins with track #1 "Hand of Time", a fanciful rumbling experiment that quickly settles into melodic tumbles at a steady rhythm. Next, #2 "Heso" (navel) is a jovial winding and blur. #3 “Kumagawa” (the first river song on _Duo_) is splashing piano and risk-taking drums skirting the edges. #4 “Karaborigawa”  (the second river song) is a delicate piano construction with spurring drum punctuations. #5 “Gyoraisen Game” (Torpedo Boat Game, a retro board game along the lines of Battleship and bowling) is mid-to-uptempo bouncing improvisation.
 
 Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano groove with drums playing all around it. #7 “Tenryuugawa” (the third river song) is movement all over, wild striking and settling into a blissful groove. #8 “Jun” assembles from wavering rumbles into one of the catchiest songs on the album (there is also a great solo piano version of this song on Kurita’s _Ko-tsu-ko-tsu_ from 2012). #9 “Changement F” is a bouncy march where the up-and-down piano notes are offset by Sotoyama's particularly playful drum splatters, coloring outside of the lines with wide dynamics and time. Lastly, #10 “Kyou no Sabi, Ashita no Tabi” (Today’s Solitude/Loneliness, Tomorrow’s Journey) is hummably lighthearted, slightly bluesy with a simple beauty.
 
-{{< figure src="L1280923x-1200.jpeg" >}}
+{{< figure src="L1280923x-1200.jpeg" link="L1280923x-1200.jpeg" >}}
 
 
 ## Duo by Taeko Kurita &amp; Akira Sotoyama {#duo-by-taeko-kurita-and-akira-sotoyama}

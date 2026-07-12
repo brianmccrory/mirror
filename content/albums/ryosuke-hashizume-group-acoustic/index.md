@@ -15,17 +15,21 @@ aliases = ["/archive/ryosuke-hashizume-group-acoustic/", "/p/ryosuke-hashizume-g
 
 The title of the album _Acoustic Fluid_ from the Ryosuke Hashizume Group captures the essence of moving, flowing sounds that fill up this music. Like most of Hashizume’s albums and live shows, his original compositions are featured on this 2012 album, his sixth release. Throughout /Acoustic Fluid/’s nine tracks, the five-member group expands these charts with push-and-pull activity, like waves on water or breaths of air.
 
-![](L1200739x-1024.jpeg)
+{{< figure src="L1200739x-1024.jpeg" link="L1200739x-1024.jpeg" >}}
+
 The music on this album alternates between slow, free sketches and mid-tempo modern jazz. The slower tracks are beautifully patient, somewhat open-ended with room for the group to pulse and grow organically while trekking through the movements.
 
 Whether on the undertow of “Current”, the storytelling of “The Color of Silence”, or the tranquil, soft “Home”, the slower numbers are soundscapes for creating acoustic moods, a vaguely _Blade Runner_ Vangelis-esque setting of future nostalgia. The recorded warmth of the instruments adds to this with a dynamic mix of warbling guitar, artistically nimble drums, fluidly echoey sax, the magnetic attraction of fretless electric bass, and full, graceful piano.
-![](L1200738x-1024.jpeg)
+
+{{< figure src="L1200738x-1024.jpeg" link="L1200738x-1024.jpeg" >}}
 
 Among the slower songs, the mid-tempo songs are latched to frames in motion through riffs, loops, or steady rhythms on which longer themes develop. Songs like “Last Moon Nearly Full”, “Conversations with Moore”, and “The Last Day of Summer” thrill with emotional, shapeshifting suspense through the peaks and valleys of the compositions layered with individual improvisation. Throughout, the album is a chimera of imagination, a satisfying journey from the initial pull of the opening “Current” to the last welcome of “Home”.
 
-![](L1200740x-1024.jpeg)
-![](L1200746x-1024.jpeg)
-![](L1120134-1024.jpeg)
+{{< figure src="L1200740x-1024.jpeg" link="L1200740x-1024.jpeg" >}}
+
+{{< figure src="L1200746x-1024.jpeg" link="L1200746x-1024.jpeg" >}}
+
+{{< figure src="L1120134-1024.jpeg" link="L1120134-1024.jpeg" >}}
 
 
 ## Acoustic Fluid by Ryosuke Hashizume Group {#acoustic-fluid-by-ryosuke-hashizume-group}

@@ -13,7 +13,8 @@ aliases = ["/archive/minoru-yoshiki-soulstation-path-of-hope/", "/p/minoru-yoshi
 +++
 
 > Special Guest Contribution // Press Release
-> ![](soulstation-flierJPG-1024.jpg)
+>
+> {{< figure src="soulstation-flierJPG-1024.jpg" link="soulstation-flierJPG-1024.jpg" >}}
 >
 > The birth of a world of visual sound!
 >
@@ -33,7 +34,7 @@ aliases = ["/archive/minoru-yoshiki-soulstation-path-of-hope/", "/p/minoru-yoshi
 >
 > June 2019 (Reiwa 1)
 
-{{< figure src="cdjkt02-1024.jpg" >}}
+{{< figure src="cdjkt02-1024.jpg" link="cdjkt02-1024.jpg" >}}
 
 
 ## Path of Hope by Minoru Yoshiki Soulstation {#path-of-hope-by-minoru-yoshiki-soulstation}

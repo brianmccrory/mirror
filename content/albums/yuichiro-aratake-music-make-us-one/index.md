@@ -14,14 +14,17 @@ aliases = ["/archive/yuichiro-aratake-music-make-us-one/", "/p/yuichiro-aratake-
 
 Yuichiro Aratake continues to express his compassionate vision with _Music Make Us One_, a live concert recorded in 2010 and released in a CD/DVD package. Through six songs, the 40-minute album features his expanded piano trio spotlighting harmonica, vocals, and an eight-member string section.
 
-![](L1210248x-1024.jpeg)
+{{< figure src="L1210248x-1024.jpeg" link="L1210248x-1024.jpeg" >}}
+
 Two of the six songs are instrument-based tracks that feature Aratake’s expressive playing that supports bluesy harmonica playing together and warm string arrangements. Vocalist Ryutaro Makino joins on the other four songs, including Aratake’s “Family” and “Say We Love”. The violins, violas, and cellos in the string section add a classy texture to much of the album and, together with the song selection and arrangements, shifts the music into orchestral pop territory. The recorded live sound also captures the expansive feeling of a large stage and concert hall filled with an audience of fans.
 
 In addition to bluesy songs, romantic ballads, and pop, the album’s jazzier moments include Makino singing Ellington’s “It Don’t Mean a Thing (If It Ain’t Got That Swing)” at a quick finger-snapping pace. Another listener favorite is Aratake’s own “Yuyake (Red Sunset)” with its modern Latin character and irresistible rhythm.
-![](L1210277x-1024.jpeg)
 
-![](L1210284x-1024.jpeg)
-![](L1210289x-1024.jpeg)
+{{< figure src="L1210277x-1024.jpeg" link="L1210277x-1024.jpeg" >}}
+
+{{< figure src="L1210284x-1024.jpeg" link="L1210284x-1024.jpeg" >}}
+
+{{< figure src="L1210289x-1024.jpeg" link="L1210289x-1024.jpeg" >}}
 
 
 ## Music Make Us One by Yuichiro Aratake {#music-make-us-one-by-yuichiro-aratake}

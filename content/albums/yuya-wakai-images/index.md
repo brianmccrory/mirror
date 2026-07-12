@@ -14,17 +14,21 @@ aliases = ["/archive/yuya-wakai-images/", "/p/yuya-wakai-images/"]
 
 Joyful notes flow effortlessly from pianist Yuya Wakai as he confidently opens his solo piano album _Images_.
 
-![](L1200174-1024.jpg)
+{{< figure src="L1200174-1024.jpg" link="L1200174-1024.jpg" >}}
+
 His catchy exuberance is on display as he flies colorfully through chords reminiscent of Keith Jarrett’s fluid style. On ballads such as the charming “Easy To Love” and heartfelt “Over The Rainbow”, Wakai plays with a loving touch.
 
 Different sides of standard jazz and solo piano are portrayed among the eleven tracks. Exciting drama builds with a rock-ish, upbeat “Better Days Ahead” (Pat Metheny) and a pop exploration of “Great Day” (Paul McCartney) which evokes music Brad Mehldau might offer. A moving cover of a Japanese animation theme, “Aimo Tori No Hito” is included, played in a sad yet hopeful mood with deep meaning.
-![](L1200175-1024.jpg)
+
+{{< figure src="L1200175-1024.jpg" link="L1200175-1024.jpg" >}}
 
 Related to the album title (and perhaps also alluding to Debussy’s classical work for piano), Wakai’s own classical exploration “Afterimages” tells a dreamlike story, painting a canvas with vivid abstract modernism. Finally, the pianist closes the album gently with “Duke Ellington’s Sound Of Love”, played like a soft lullaby.
 
-![](L1200177-1024.jpg)
-![](L1200178-1024.jpg)
-![](IMG_20150326_125526-002-1024.jpg)
+{{< figure src="L1200177-1024.jpg" link="L1200177-1024.jpg" >}}
+
+{{< figure src="L1200178-1024.jpg" link="L1200178-1024.jpg" >}}
+
+{{< figure src="IMG_20150326_125526-002-1024.jpg" link="IMG_20150326_125526-002-1024.jpg" >}}
 
 
 ## Images by Yuya Wakai {#images-by-yuya-wakai}

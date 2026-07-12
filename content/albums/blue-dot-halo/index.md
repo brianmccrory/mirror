@@ -14,20 +14,23 @@ aliases = ["/archive/blue-dot-halo/", "/p/blue-dot-halo/"]
 
 United by a stellar theme of the universe, the Tokyo jazz quartet Blue Dot explores stars and galaxies on their debut album _Halo_ from 2016.
 
-![](L1220113-1024.jpg)
+{{< figure src="L1220113-1024.jpg" link="L1220113-1024.jpg" >}}
+
 Through ten songs tuned to the mysteries of space and time, the music is solidly modern and positively charged. Tokyo-based drummer Makoto Takeshi leads a quartet consisting of sax, piano, bass, and drums, with original songs supplied by all members of the group.
 
 The energetic opener, “Sturm und Drang” (by pianist Tamashi Goto) is a sharp-edge sprint through modern jazz, while “Bird” (by bassist Goro Takano) is a creative and mesmerizing tune, soft and deep, inspired by dreams of flying.
-![](L1220108-1024.jpg)
+
+{{< figure src="L1220108-1024.jpg" link="L1220108-1024.jpg" >}}
 
 With strong appeal to the universe theme, Rikitake’s “Andromeda” is a gentle, peaceful ode to the wonders of space, while “Echo of Stars” (Tamashi Goto) is a darker, ECM-style mysteriously brooding adventure.
 
-![](L1220157-1024.jpg)
+{{< figure src="L1220157-1024.jpg" link="L1220157-1024.jpg" >}}
+
 In a memorable closer, the vocalist Maki Fujimura is featured on the last tune “Moon”, a sweet song with Japanese lyrics.
 
 Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-rock, quirky uptempo funk, and snappy Latin beats, all infused with a sense of open-eyed wonder and appreciation for nature and life on this blue dot of a planet.
 
-{{< figure src="L1220160-1024.jpg" >}}
+{{< figure src="L1220160-1024.jpg" link="L1220160-1024.jpg" >}}
 
 
 ## Halo by Blue Dot {#halo-by-blue-dot}

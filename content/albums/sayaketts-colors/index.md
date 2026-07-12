@@ -14,13 +14,17 @@ aliases = ["/archive/sayaketts-colors/", "/p/sayaketts-colors/"]
 
 At times light and carefree, yet also deeply and seriously musical, Sayaka Kishi’s “pure music” spirit shines beautifully on _Colors_. While the pianist is a vibrant part of many collaborations covering standard jazz, pop, classical, and Latin fusion among others, here with her group Sayaketts the trio focuses on a fusion of electric funky jazz and R&amp;B pop music amid calmer moments and heart-warming pop-styled piano jazz.
 
-![](L1200417-1024.jpg)
+{{< figure src="L1200417-1024.jpg" link="L1200417-1024.jpg" >}}
+
 About half of the 13 songs on this album are upbeat, funky, and energized with the sounds of keyboards, piano, electric bass, and drums: glittery music full of energetic live and rock beats. Aside from the fun jams, other songs are charmingly cute and positive (“Iris”, “GAME”) with others crafted to be deeply serious and dramatic scene-stealing compositions (“Dilemma”, “Tegami”, “Toki No Itazura”, “Guzen No Waltz”). While the mood shifts are frequent, the variety of colors explored leaves a rich and lasting impression of fun, welcoming, and engaging music.
 
-![](L1200418-1024.jpg)
-![](L1200421-1024.jpg)
-![](L1200424-1024.jpg)
-![](L1120080-1024.jpg)
+{{< figure src="L1200418-1024.jpg" link="L1200418-1024.jpg" >}}
+
+{{< figure src="L1200421-1024.jpg" link="L1200421-1024.jpg" >}}
+
+{{< figure src="L1200424-1024.jpg" link="L1200424-1024.jpg" >}}
+
+{{< figure src="L1120080-1024.jpg" link="L1120080-1024.jpg" >}}
 
 
 ## Colors by Sayaketts {#colors-by-sayaketts}

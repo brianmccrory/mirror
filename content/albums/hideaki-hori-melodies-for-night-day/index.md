@@ -15,21 +15,25 @@ aliases = ["/archive/hideaki-hori-melodies-for-night-day/", "/p/hideaki-hori-mel
 
 As a companion piece to the previous article on [Hideaki Hori’s ](https://www.jazzofjapan.com/archive/hideaki-hori-horizon)/[Horizon](https://www.jazzofjapan.com/archive/hideaki-hori-horizon)/, this follow-up post introduces the pianist’s recent solo album _Melodies for Night &amp; Day_ from 2022. Posting about the same musician in succession here is rare but somewhat appropriate, as this new album also pairs well with the pianist’s debut album from the previous article, marking a twenty-year milestone and a total of twenty albums released under his name in those years.
 
-![](L1230639x-1024.jpeg)
+{{< figure src="L1230639x-1024.jpeg" link="L1230639x-1024.jpeg" >}}
+
 Releasing twenty albums as a leader and many more as a sideman (with groups like Paris Match, M-Swift, and Dreams Come True, and musicians like saxophonist Wataru Hamasaki, trumpeter Hikari Ichihara, vocalist Maki Fujimura, and many others) is certainly prolific. In fact, since _Melodies for Night &amp; Day_, Hori’s also released a new duo album with bassist Yosuke Inoue several months ago, and there are rumors of a new trio album in the works for next year.
 
 This milestone album is also his first solo piano album. It is a two-disc release with a “day side” and a “night side” featuring twenty songs (that magic number again), ten each of original compositions and covers. Hori combines swing, bebop, ballads, and some pop tunes on these originals and covers, with virtuosic skill incorporating familiar, perfectly interpreted melodies, unendingly fluent improvisation with naturally-timed chord layers and bass line figures adding fullness and variety.
-![](L1230640x-1024.jpeg)
+
+{{< figure src="L1230640x-1024.jpeg" link="L1230640x-1024.jpeg" >}}
 
 For this album, Hori selected always-pleasing jazz standards like “How High the Moon”, “Taking a Chance on Love”, “Moon River”, and “Just One Of Those Things”. These familiar tunes provide a comfortable, relaxing setting for Hori’s extremely tuneful and musically pleasing piano playing, always honoring the music while seeming to inhabit the ears of the listeners to know what to play and when for maximum enjoyment. Sting’s “Englishman in New York” even gets the Hori solo piano treatment, played here with a wistful, light pop touch that carries you along effortlessly.
 
-![](L1230641x-1024.jpeg)
+{{< figure src="L1230641x-1024.jpeg" link="L1230641x-1024.jpeg" >}}
+
 Nestled among these covers are Hori’s original compositions including his uplifting “A Song for U_U”, a nostalgic “Seascape From the Nossapu”, a heartful “Prayer for Peace”, and a frisky “Rough Sketch”, all album highlights each with their own distinct personalities. He even incorporates the sound of his Encounter quartet on solo piano with his band’s energetic live favorite “Traveler”.
 
 The pianist’s reflective liner notes, translated below, go into greater storytelling detail about his personal history, how this album came about, and what it means to him.
-![](L1230642x-1024.jpeg)
 
-{{< figure src="L1230643x-1024.jpeg" >}}
+{{< figure src="L1230642x-1024.jpeg" link="L1230642x-1024.jpeg" >}}
+
+{{< figure src="L1230643x-1024.jpeg" link="L1230643x-1024.jpeg" >}}
 
 
 ## Liner Notes {#liner-notes}
@@ -74,7 +78,7 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 
 (Hideaki Hori)
 
-{{< figure src="L1240168x-1024.jpeg" >}}
+{{< figure src="L1240168x-1024.jpeg" link="L1240168x-1024.jpeg" >}}
 
 
 ## Melodies for Night &amp; Day by Hideaki Hori {#melodies-for-night-and-day-by-hideaki-hori}

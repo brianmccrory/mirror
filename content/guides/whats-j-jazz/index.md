@@ -8,29 +8,30 @@ draft = false
 aliases = ["/archive/whats-j-jazz/", "/p/whats-j-jazz/"]
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
-  caption = ""
+  caption = "Japanese jazz magazines and coffee"
   relative = true
 +++
 
-{{< figure src="L1060938-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Singer Rie Taguchi's Birthday Live at Satin Doll in 2013" >}}
+{{< figure src="L1060938-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Singer Rie Taguchi's Birthday Live at Satin Doll in 2013" link="L1060938-1024.jpeg" >}}
 
 
 ## What’s J Jazz? {#what-s-j-jazz}
 
 _J Jazz_, or Japanese Jazz, is a classification label found in sections of some record and CD shops in Japan. These are sections that record stores use to spotlight and organize albums from Japanese jazz musicians. By separating the Japanese artists’ albums from the general jazz section, both local and overseas customers who are visiting Japan can more easily find unfamiliar Japanese jazz albums.
 
-{{< figure src="L1160717-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Emiko Voice album release at Disk Union Shinjuku in-store performance in 2017" >}}
+{{< figure src="L1160717-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Emiko Voice album release at Disk Union Shinjuku in-store performance in 2017" link="L1160717-1024.jpeg" >}}
 
 This is especially helpful for travelers with limited time who want to find and obtain these albums quickly. A favorite spot to browse the current _J Jazz_ offerings in Tokyo is [Disk Union “Jazz Tokyo”](https://diskunion.net/shop/ct/jazz_tokyo) near Ochanomizu station. There are many second-hand offerings there as well, providing a great way to stock up on lower-priced albums.
 
-![](P1040523-1024.jpeg)
+{{< figure src="P1040523-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Shakuhachi musician in 2010" link="P1040523-1024.jpeg" >}}
+
 Of course, this is also great for local Japanese musicians, whose works are made more visible and supported in this spotlight, rather than being scattered among the shelves with the general jazz catalog.
 
 As a side note, the term _J Jazz_ was also used as the original title of this website. Launched in January 2018, this site was titled “J Jazz: Modern Jazz from Japan”, but I changed the name in January 2022 to “Jazz of Japan” for simplicity and clarity. Also note that sometimes the term _J Jazz_ is used for fusion/groovy funk/dance beats with horns/electronics/loops, or club jazz, but that may be limited to a specific subgenre. For general use here, _J Jazz_ stands for any type of jazz and related music from Japan or by Japanese musicians. There’s also an interesting project called _J Jazz: Deep Modern Jazz from Japan_, which highlights jazz recordings from earlier generations of jazz in Japan—it looks and sounds great.
 
-{{< figure src="P1010456-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazznin magazine in Japan" >}}
+{{< figure src="P1010456-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazznin magazine in Japan" link="P1010456-1024.jpeg" >}}
 
-{{< figure src="DSC_7225-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Singer Ayako Taira at Yoyogi Naru in 2007" >}}
+{{< figure src="DSC_7225-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Singer Ayako Taira at Yoyogi Naru in 2007" link="DSC_7225-1024.jpeg" >}}
 
 
 ## J Jazz as a Sub-Genre {#j-jazz-as-a-sub-genre}
@@ -114,4 +115,4 @@ Of course, this may all seem quite limited so don’t get the wrong idea. Not al
 
 My own impressions of Japanese jazz have been gathered through attending countless live performances as a member of the audience. Often, at many of these events, I’m able to meet and speak with the musicians personally. In addition, I’ve attended many jazz jam sessions, where amateurs and professionals gather to play standard songs together for practice and for fun. Based on these experiences, to the above naturally incomplete list of qualities, I would add these personal impressions: the jazz of Japan is impressive, supportive, humble, challenging, amazing, friendly, and most of all, music that swings, swerves, lifts, surprises, and makes you feel good to hear it.
 
-{{< figure src="DSC_0320-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Pianist Yuichiro Aratake at Independence in 2008" >}}
+{{< figure src="DSC_0320-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Pianist Yuichiro Aratake at Independence in 2008" link="DSC_0320-1024.jpeg" >}}

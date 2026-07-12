@@ -14,14 +14,17 @@ aliases = ["/archive/atomi-hamada-this-is-atomi/", "/p/atomi-hamada-this-is-atom
 
 Jazz singer Atomi Hamada releases _This is Atomi_, a five-track debut featuring songs she has loved as jazz instrumental standards. Here, using her voice as an instrument, she adds a fresh dimension to songs that some listeners may have heard only instrumentally before.
 
-![](L1190142-1024.jpg)
+{{< figure src="L1190142-1024.jpg" link="L1190142-1024.jpg" >}}
+
 This is intimate, close-quarters jazz, with piano and bass backing up the vocals for a soft mellow mood.
 
 Starting with a quiet dynamic, Hamada sings a wistful “Round Midnight” before moving to a relaxed “Speak No Evil” and a cheery “All The Things You Are”. She wraps up the five-track album with a catchy “Ladies in Mercedes” and a reconstructed “Confirmation” to close the set on a bebop high.
-![](L1190145-1024.jpg)
 
-![](L1190148-1024.jpg)
-![](L1190159-1024.jpg)
+{{< figure src="L1190145-1024.jpg" link="L1190145-1024.jpg" >}}
+
+{{< figure src="L1190148-1024.jpg" link="L1190148-1024.jpg" >}}
+
+{{< figure src="L1190159-1024.jpg" link="L1190159-1024.jpg" >}}
 
 
 ## This is Atomi by Atomi Hamada {#this-is-atomi-by-atomi-hamada}

@@ -14,13 +14,15 @@ aliases = ["/archive/sachiko-ikuta-trio-haru/", "/p/sachiko-ikuta-trio-haru/"]
 
 A jazz pianist who balances lyricism with boldness, Sachiko Ikuta leads a piano trio on _Haru No Kaze (Spring Wind)_ from 2012. Legendary jazz trumpeter Terumasa Hino also joins on two songs, adding an adventurous splash of avant-garde improvisation to the album.
 
-![](L1180787-1024.jpg)
+{{< figure src="L1180787-1024.jpg" link="L1180787-1024.jpg" >}}
+
 Starting with the title track “Haru No Kaze”, the sense of an overture is felt through the light Japanese touches of a sweet melody which turns into the whirling winds of a solid jazz piano trio locking into a tune together. The next track, “Last Tango In Paris”, introduces a mood of evocative drama and intrigue with a relaxed beat.
 
 The album’s nine songs feature classic jazz standards, songs by Bills Evans and Thelonious Monk, two original compositions, and a charming reconstruction of “Twinkle Twinkle Little Star” which swings gracefully. Ikuta even puts her well-rounded solo piano on display with a confident rendition of “Everything Happens To Me”, showcasing her dedication to the tradition of great jazz pianists.
-![](L1180788-1024.jpg)
 
-{{< figure src="L1180790-1024.jpg" >}}
+{{< figure src="L1180788-1024.jpg" link="L1180788-1024.jpg" >}}
+
+{{< figure src="L1180790-1024.jpg" link="L1180790-1024.jpg" >}}
 
 
 ## Haru No Kaze by Sachiko Ikuta Trio {#haru-no-kaze-by-sachiko-ikuta-trio}

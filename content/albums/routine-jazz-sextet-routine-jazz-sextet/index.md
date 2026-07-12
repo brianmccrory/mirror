@@ -14,18 +14,23 @@ aliases = ["/archive/routine-jazz-sextet-routine-jazz-sextet/", "/p/routine-jazz
 
 _Routine Jazz Sextet_ from 2008 promotes genuine jazz from Tokyo with the flavor of 1950/60’s era jazz giants such as Horace Silver and Art Blakey &amp; the Jazz Messengers. Not just a throwback, the band honors the musical legacy while incorporating the youthful, modern sound and mindset of current jazz players from Japan.
 
-![](L1230058-1024.jpg)
+{{< figure src="L1230058-1024.jpg" link="L1230058-1024.jpg" >}}
+
 Perhaps not well-known among standard jazz fans, the Routine Jazz Label from famed producer and DJ Kei Kobayashi gained international renown with “club jazz” compilations such as Schema, Deja Vu, and Ricky-Tick, beat-oriented music remixed with jazz and bossa nova samples for dance clubs and trance-leaning airwaves.
 
 Here, Kobayashi joins forces with Takehiko Komine (owner of respected Tokyo jazz club Nardis) to produce “Routine Jazz Sextet”, a tongue-in-cheek comment on his popular club jazz albums, advertised as a “genuine jazz from Tokyo” response to popular club jazz. While straightforward jazz, in one way this is a crossover album, picking songs from the hard bop era that relate to samples and music used in club jazz.
-![](L1230060-1024.jpg)
+
+{{< figure src="L1230060-1024.jpg" link="L1230060-1024.jpg" >}}
 
 With nine tracks over 39 minutes, the music is propulsive, boiling and full of energy. Most of the songs run at around four minutes, straight-ahead showcases for the horn arrangements and improvisations, as well as the unflagging power of the rhythm section which steams through the tracks. The songs include a nice blend of selections from America and Europe, bringing to mind the sounds of Cannonball Adderley, Wayne Shorter, and Ray Bryant, and of course the aforementioned hard bop giants Art Blakey and Horace Silver. Routine in name only, this is wholly enjoyable from start to finish.
 
-![](L1230066-1024.jpg)
-![](L1230067-1024.jpg)
-![](L1230069-1024.jpg)
-![](L1230065-1024.jpg)
+{{< figure src="L1230066-1024.jpg" link="L1230066-1024.jpg" >}}
+
+{{< figure src="L1230067-1024.jpg" link="L1230067-1024.jpg" >}}
+
+{{< figure src="L1230069-1024.jpg" link="L1230069-1024.jpg" >}}
+
+{{< figure src="L1230065-1024.jpg" link="L1230065-1024.jpg" >}}
 
 
 ## Routine Jazz Sextet by Routine Jazz Sextet {#routine-jazz-sextet-by-routine-jazz-sextet}

@@ -14,11 +14,15 @@ aliases = ["/archive/miki-hirose-scratch/", "/p/miki-hirose-scratch/"]
 
 Trumpeter Miki Hirose’s _Scratch_ from 2013 sizzles with energy, fueled by impeccable trumpet lines fronting a jazz quintet on this outing. Extra propulsion is garnered from the addition of congas on three of the seven tracks, with funky, Latin, and modern New York jazz vibrations coming together for a satisfying balance of cerebral and physical stimulation. Boiling turbulence, confident swagger, and well-thought out ideas burst acrobatically from the tracks, scratching the itch for flashy yet discerning music.
 
-![](L1200655-1024.jpg)
-![](L1200658-1024.jpg)
-![](L1200659-1024.jpg)
-![](L1200661-1024.jpg)
-![](IMG_20150324_123553-1024.jpg)
+{{< figure src="L1200655-1024.jpg" link="L1200655-1024.jpg" >}}
+
+{{< figure src="L1200658-1024.jpg" link="L1200658-1024.jpg" >}}
+
+{{< figure src="L1200659-1024.jpg" link="L1200659-1024.jpg" >}}
+
+{{< figure src="L1200661-1024.jpg" link="L1200661-1024.jpg" >}}
+
+{{< figure src="IMG_20150324_123553-1024.jpg" link="IMG_20150324_123553-1024.jpg" >}}
 
 
 ## Scratch by Miki Hirose {#scratch-by-miki-hirose}

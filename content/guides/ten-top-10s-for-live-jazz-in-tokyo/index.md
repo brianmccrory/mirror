@@ -8,13 +8,14 @@ draft = false
 aliases = ["/archive/ten-top-10s-for-live-jazz-in-tokyo/", "/p/ten-top-10s-for-live-jazz-in-tokyo/"]
 [cover]
   image = "IMG_20190629_212549307-1200.jpeg"
-  caption = ""
+  caption = "Jazz cat figurines at Manhattan jazz club in Tokyo"
   relative = true
 +++
 
 _“I’m going to be in Tokyo for a few days and want to catch some live jazz… where should I go? Let me know the best places for live jazz…”_
 
-![](L1080141-1200.jpeg)
+{{< figure src="L1080141-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>A cocktail at Yoyogi Naru jazz bar in Tokyo" link="L1080141-1200.jpeg" >}}
+
 _“Sure! Here are the Top 10 best jazz clubs, bars, and venues for live music around Tokyo, with links to homepages, maps, and articles.” If only it were that simple…_
 
 ---
@@ -509,4 +510,4 @@ Sites with club directories and information about jazz in Japan:
 
 ---
 
-{{< figure src="IMG_20180929_191626262-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Lots of listeners squeeze into a jam-packed live performance at P’s Bar in Tokyo" >}}
+{{< figure src="IMG_20180929_191626262-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Lots of listeners squeeze into a jam-packed live performance at P’s Bar in Tokyo" link="IMG_20180929_191626262-1200.jpeg" >}}

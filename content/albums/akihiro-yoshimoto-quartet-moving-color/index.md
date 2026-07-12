@@ -16,15 +16,18 @@ aliases = ["/archive/akihiro-yoshimoto-quartet-moving-color/", "/p/akihiro-yoshi
 
 _Moving Color_ is the second album from saxophonist Akihiro Yoshimoto and his quartet. With eight original songs drawn from his palette, he blends serious musical exploration and improvisation with elements of modernity, jazz tradition, and a bit of humor. Strength in composition and group cohesion is clear: the quartet plays confidently, as if they are disclosing a secret bit by bit, modestly exhibiting their skills yet playing with brimming energy and a locked-together sense of where they are going.
 
-![](L1200500-1024.jpg)
+{{< figure src="L1200500-1024.jpg" link="L1200500-1024.jpg" >}}
+
 The tracks are solidly modern jazz tunes, with sizzling improvisation from Yoshimoto and pianist Choulai melodically laying out fiery, stimulating lines. There are a few moments of avant-garde exploration, where Sugawa’s bowed bass is used extremely effectively.
 
 A brooding atmosphere arises on #4 “Nostalgic Farm” and especially #7 “Ice Castle”, where a museum-like calm settles, foreboding and somewhat Nordic with its dark, chilling sound. There’s even a bit of goofy humor on two songs (#2 “The Mystery of Onion Rings” and #6 “Reminiscing About Banana Beer”), where Monkish exuberance and swing add a loose, jolly balance to the album.
-![](L1200502-1024.jpg)
+
+{{< figure src="L1200502-1024.jpg" link="L1200502-1024.jpg" >}}
 
 The two longest tracks, #5 “Sabaku No Akari” and #8 “Water Drops”, build patiently. These two compositions portray Yoshimoto’s thoughtful and edgy songwriting strength, masterfully refined in balancing honed compositions with space for group dynamics and spontaneity.
 
-![](L1200221-1024.jpg)
+{{< figure src="L1200221-1024.jpg" link="L1200221-1024.jpg" >}}
+
 These tracks and #3 “Possom” also summon a sense of Wayne Shorter’s modern quartet. This is exciting jazz with unextinguishable energy powered locomotively by drummer Ishiwaka and bassist Sugawa. All throughout, Yoshimoto’s liquid tenor swings over the chords like a daredevil trapeze artist, flowing and moving colorfully in impressive patterns.
 
 
@@ -58,7 +61,7 @@ The shape of Akihiro Yoshimoto Quartet, which has achieved remarkable growth, wa
 
 _Toshihiko Hoshino 星野利彦 / Music Writer_
 
-{{< figure src="L1200509-1024.jpg" >}}
+{{< figure src="L1200509-1024.jpg" link="L1200509-1024.jpg" >}}
 
 
 ## Moving Color by Akihiro Yoshimoto Quartet {#moving-color-by-akihiro-yoshimoto-quartet}

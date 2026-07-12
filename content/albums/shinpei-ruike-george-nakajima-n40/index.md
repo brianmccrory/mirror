@@ -45,6 +45,4 @@ _Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 {{< youtube pYi27kjmEMc >}}
 
--   Excerpt from track #1: “Nearness of you” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Nearness of you”](/audio/#mix-4)

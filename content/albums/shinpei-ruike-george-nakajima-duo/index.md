@@ -59,6 +59,4 @@ _Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 {{< youtube ojfvmRfqrqE >}}
 
--   Excerpt from track #4: “Plus fort que nous” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #4: [“Plus fort que nous”](/audio/#mix-9)

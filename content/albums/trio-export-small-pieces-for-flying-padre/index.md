@@ -50,6 +50,4 @@ _Japanese names: リンヘイテツ Rin Heitetsu 古木佳祐 Furuki Keisuke 服
 
 -   [Trio Export 63 live performance 2](https://www.instagram.com/p/B1ZOTIvHnJD/?utm_source=ig_web_copy_link)
 
--   Excerpt from track #1: “Track 1” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #1: [“Track 1”](/audio/#mix-6)

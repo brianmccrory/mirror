@@ -47,6 +47,4 @@ _Japanese names: 金澤英明 Kanazawa Hideaki 栗林すみれ Kuribayashi Sumir
 
 {{< youtube pbo8gq466iw >}}
 
--   Excerpt from track #1: “Mary Hartman, Mary Hartman” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“Mary Hartman, Mary Hartman”](/audio/#mix-5)

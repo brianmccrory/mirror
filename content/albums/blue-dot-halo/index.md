@@ -52,6 +52,4 @@ _Japanese names: 力武誠 Rikitake Makoto 後藤魂 Goto Tamashi 杉本匡教 S
 
 {{< youtube O0_aFlO6s4A >}}
 
--   Excerpt from track #1: “Sturm Und Drang” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Sturm Und Drang”](/audio/#mix-4)

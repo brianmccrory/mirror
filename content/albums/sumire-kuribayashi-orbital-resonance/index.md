@@ -70,6 +70,4 @@ _Japanese names: 栗林すみれ Kuribayashi Sumire 市野元彦 Ichino Motohiko
 
 {{< youtube u1gUES-EX7Y >}}
 
--   Excerpt from track #5: “Yell” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #5: [“Yell”](/audio/#mix-15)

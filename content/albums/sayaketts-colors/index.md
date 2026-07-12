@@ -44,6 +44,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 鴻野暁司 Kohno Satoshi 中川喜博 
 
 {{< youtube WB36Gz5SGrQ >}}
 
--   Excerpt from track #8: “ビチグソロック (_Bichiguso Rock_)” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #8: [“ビチグソロック (_Bichiguso Rock_)”](/audio/#mix-3)

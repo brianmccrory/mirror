@@ -47,6 +47,4 @@ _Japanese names: エミコヴォイス Emiko Voice 太田惠資 Ohta Keisuke 阿
 
 {{< youtube DnDuVwB7ppA >}}
 
--   Excerpt from track #6: “Chovendo na Roseira” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #6: [“Chovendo na Roseira”](/audio/#mix-9)

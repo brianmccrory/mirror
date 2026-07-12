@@ -46,6 +46,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 国分航一 Kuniwake Koichi 川村成
 
 {{< youtube uM2ZZek_viI >}}
 
--   Excerpt from track #1: “11th Door” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“11th Door”](/audio/#mix-4)

@@ -51,6 +51,4 @@ _Japanese names: 藤村麻紀 Fujimura Maki 堀秀彰 Hori Hideaki_
 
 {{< youtube oU004sMm7rE >}}
 
--   Excerpt from track #1: “Ray” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Ray”](/audio/#mix-4)

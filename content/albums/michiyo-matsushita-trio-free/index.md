@@ -89,9 +89,7 @@ _Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤�
 
 {{< youtube S7N1WrR7Kj0 >}}
 
--   Excerpt from track #1: “La Tierra” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #1: [“La Tierra”](/audio/#mix-13)
 
 
 ## Other Links {#other-links}

@@ -44,6 +44,4 @@ _Japanese names: 浅川太平 Asakawa Taihei_
 
 {{< youtube dwlx_AA7Xws >}}
 
--   Excerpt from track #1: “My Foolish Heart” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“My Foolish Heart”](/audio/#mix-4)

@@ -40,6 +40,4 @@ _Japanese names: 早川由紀子 Hayakawa Yukiko 西川輝正 Nishikawa Terumasa
 
 {{< youtube dIkN4WlWMSA >}}
 
--   Excerpt from track #1: “Mirage” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Mirage”](/audio/#mix-7)

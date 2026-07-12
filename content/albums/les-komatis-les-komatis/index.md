@@ -47,6 +47,4 @@ _Japanese names: ノビー Nobie 太田朱美 Ohta Akemi 片倉真由子 Katakur
 
 -   [Audio samples from bowz.shop-pro.jp](http://bowz.shop-pro.jp/?pid=86156320)
 
--   Excerpt from track #1: “Spur” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“Spur”](/audio/#mix-2)

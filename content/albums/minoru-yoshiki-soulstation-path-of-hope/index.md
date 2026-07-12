@@ -54,6 +54,4 @@ _Japanese names: 吉木稔 Yoshiki Minoru 祖田修 Soda Osamu 森田修史 Mori
 
 {{< youtube rTuWX4XE1Gs >}}
 
--   Excerpt from track #1: “Zi-Zi 1” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“Zi-Zi 1”](/audio/#mix-5)

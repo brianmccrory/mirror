@@ -91,6 +91,4 @@ _Japanese names: 福井亜実 Fukui Ami 安田幸司 Yasuda Koji 今泉総之輔
 
 {{< youtube zdJyxQTEfdE >}}
 
--   Excerpt from track #4: “再見-ZAI JIAN (_Rewatch-ZAI JIAN_)” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #4: [“再見-ZAI JIAN (_Rewatch-ZAI JIAN_)”](/audio/#mix-8)

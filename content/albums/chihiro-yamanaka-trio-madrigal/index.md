@@ -55,6 +55,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube 5Gtt1rxO-R8 >}}
 
--   Excerpt from track #2: “Living Time Event V” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #2: [“Living Time Event V”](/audio/#mix-7)

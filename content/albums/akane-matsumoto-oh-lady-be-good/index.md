@@ -115,6 +115,4 @@ _Japanese names: 松本茜 Matsumoto Akane 川村竜 Kawamura Ryu 広瀬潤次 H
 
 {{< youtube NtKXfGDoI40 >}}
 
--   Excerpt from track #1: “Oh,Lady Be Good” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #1: [“Oh,Lady Be Good”](/audio/#mix-12)

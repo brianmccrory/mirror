@@ -40,6 +40,4 @@ _Japanese names: 山野友佳子 Yamano Yukako_
 
 {{< youtube 4_PEprS8H4Y >}}
 
--   Excerpt from track #7: “Luna” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #7: [“Luna”](/audio/#mix-8)

@@ -46,6 +46,4 @@ _Japanese names: マイコ maiko 宮野弘紀 Miyano Hiroki 伊藤志宏 Ito Shi
 
 {{< youtube fkurRIE5V1o >}}
 
--   Excerpt from track #8: “Three” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #8: [“Three”](/audio/#mix-5)

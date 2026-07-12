@@ -41,6 +41,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 清野拓巳 Seino Takumi 浜村
 
 ## Audio and Video {#audio-and-video}
 
--   Excerpt from track #1: “Stone Pavement” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“Stone Pavement”](/audio/#mix-2)

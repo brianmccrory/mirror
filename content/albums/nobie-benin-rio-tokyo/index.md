@@ -51,6 +51,4 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi_
 
 {{< youtube oC0JKyAlfHI >}}
 
--   Excerpt from track #1: “Karibu” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Karibu”](/audio/#mix-4)

@@ -172,6 +172,4 @@ _Japanese names: 山口裕之 Yamaguchi Hiroyuki ませひろこ Mase Hiroko 石
 
 {{< youtube 5qg1BZ8qowE >}}
 
--   Excerpt from track #1: “For George” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #1: [“For George”](/audio/#mix-14)

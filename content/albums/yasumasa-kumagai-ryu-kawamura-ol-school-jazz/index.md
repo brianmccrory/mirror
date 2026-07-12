@@ -46,6 +46,4 @@ _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu_
 
 {{< youtube pACk2C8Tbk4 >}}
 
--   Excerpt from track #11: “Blues” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #11: [“Blues”](/audio/#mix-11)

@@ -54,6 +54,4 @@ _Japanese names: 栗田妙子 Kurita Taeko 外山明 Sotoyama Akira_
 
 {{< youtube p3cMObWTow0 >}}
 
--   Excerpt from track #1: “Hand Of Time” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #1: [“Hand Of Time”](/audio/#mix-13)

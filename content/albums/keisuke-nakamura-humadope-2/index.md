@@ -61,6 +61,4 @@ _Japanese names: 中村恵介 Nakamura Keisuke 吉本章紘 Yoshimoto Akihiro �
 
 {{< youtube ND6aiihDv_g >}}
 
--   Excerpt from track #7: “Sense Of Mission” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #7: [“Sense Of Mission”](/audio/#mix-10)

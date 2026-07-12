@@ -87,6 +87,4 @@ _Japanese names: 加納奈実 Kano Nami 杉本智和 Sugimoto Tomokazu 石田衛
 
 {{< youtube nIBoybd41gQ >}}
 
--   Excerpt from track #2: “Le Bourgeon” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #2: [“Le Bourgeon”](/audio/#mix-10)

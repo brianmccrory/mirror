@@ -63,6 +63,4 @@ _Japanese names: 福井亜実 Fukui Ami 小泉P克人 Koizumi Yoshihito “P” 
 
 {{< youtube BObrGkxHSbo >}}
 
--   Excerpt from track #4: “Absinthe” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #4: [“Absinthe”](/audio/#mix-3)

@@ -38,6 +38,4 @@ _Japanese names: 松下美千代 Matsushita Michiyo_
 
 {{< youtube WHpbPho3v2Y >}}
 
--   Excerpt from track #1: “Sally Gardens” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“Sally Gardens”](/audio/#mix-3)

@@ -118,6 +118,4 @@ _Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
 
 {{< youtube pyrVnZnrcu0 >}}
 
--   Excerpt from track #7: “Please Send Me Someone To Love” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #7: [“Please Send Me Someone To Love”](/audio/#mix-9)

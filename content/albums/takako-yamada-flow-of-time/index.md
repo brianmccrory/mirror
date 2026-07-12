@@ -53,6 +53,4 @@ _Japanese names: 山田貴子 Yamada Takako 類家心平 Ruike Shinpei 安田幸
 
 {{< youtube YMeVmtrxIGo >}}
 
--   Excerpt from track #1: “ランドスケープ (_Landscape_)” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“ランドスケープ (_Landscape_)”](/audio/#mix-3)

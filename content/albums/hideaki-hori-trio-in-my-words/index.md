@@ -48,6 +48,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 安ヵ川大樹 Yasukagawa Daiki_
 
 {{< youtube AJDUjvNkeeg >}}
 
--   Excerpt from track #1: “This is New” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“This is New”](/audio/#mix-5)

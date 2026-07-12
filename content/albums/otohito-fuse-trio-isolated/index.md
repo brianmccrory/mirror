@@ -69,6 +69,4 @@ _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗
 
 {{< youtube MdQPNmye6fg >}}
 
--   Excerpt from track #3: “NARROW AND WIDE” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #3: [“NARROW AND WIDE”](/audio/#mix-11)

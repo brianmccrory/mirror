@@ -71,9 +71,7 @@ _Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishi
 
 {{< youtube wbXwM6XTBEU >}}
 
--   Excerpt from track #2: “825” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #2: [“825”](/audio/#mix-10)
 
 
 ## Other Links {#other-links}

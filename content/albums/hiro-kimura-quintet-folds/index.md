@@ -117,6 +117,4 @@ _Japanese names: 木村紘 Kimura Hiro 竹田一彦 Takeda Kazuhiko 広瀬未来
 
 {{< youtube MYuW23qicoE >}}
 
--   Excerpt from track #2: “Face To Face” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #2: [“Face To Face”](/audio/#mix-8)

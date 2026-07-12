@@ -47,6 +47,4 @@ _Japanese names: 宮脇裕子 Miyawaki Yuko 伴田裕 Handa Yutaka 栗田妙子 
 
 {{< youtube AwS9X3VLXf4 >}}
 
--   Excerpt from track #1: “SAKURA” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #1: [“SAKURA”](/audio/#mix-6)

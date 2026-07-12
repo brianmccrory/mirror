@@ -128,6 +128,4 @@ _Japanese names: 伊東佑季 Ito Yuki_
 
 -   [Album tracks #1, 3, and 4 on streaming music services](https://artist.landr.com/music/628810853540)
 
--   Excerpt from track #2: “Nature Boy” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #2: [“Nature Boy”](/audio/#mix-11)

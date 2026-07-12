@@ -179,6 +179,4 @@ _Japanese names: 小林洋子 Kobayashi Yoko 池長和美 Ikenaga Kazumi_
 
 {{< youtube JGkvGp9ugKM >}}
 
--   Excerpt from track #4: “Mrs.Hummingbird” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #4: [“Mrs.Hummingbird”](/audio/#mix-14)

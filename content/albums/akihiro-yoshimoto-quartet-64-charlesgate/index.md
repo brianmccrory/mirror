@@ -49,6 +49,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro 治田七海 Haruta Nanami 林�
 
 {{< youtube Mz5qo6VVTXg >}}
 
--   Excerpt from track #1: “Funny Book” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #1: [“Funny Book”](/audio/#mix-9)

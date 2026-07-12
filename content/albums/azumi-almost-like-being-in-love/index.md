@@ -47,6 +47,4 @@ _Japanese names: あづみ Azumi 生田さち子 Ikuta Sachiko 荒玉哲郎 Arat
 
 {{< youtube 66XO6e998Us >}}
 
--   Excerpt from track #1: “ｵｰﾙﾓｽﾄ・ﾋﾞｰｲﾝｸﾞ・ｲﾝ・ﾗｳﾞ (_Almost Like Being in Love_)” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“ｵｰﾙﾓｽﾄ・ﾋﾞｰｲﾝｸﾞ・ｲﾝ・ﾗｳﾞ (_Almost Like Being in Love_)”](/audio/#mix-5)

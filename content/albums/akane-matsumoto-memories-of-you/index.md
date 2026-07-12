@@ -48,6 +48,4 @@ _Japanese names: 松本茜 Matsumoto Akane_
 
 {{< youtube g9eNuWnekmg >}}
 
--   Excerpt from track #1: “Memories of You” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Memories of You”](/audio/#mix-7)

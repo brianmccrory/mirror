@@ -44,6 +44,4 @@ _Japanese names: 井上ゆかり Inoue Yukari_
 
 {{< youtube c2jwF_F8kFI >}}
 
--   Excerpt from track #13: “いつか王子様が (_Someday My Prince Will Come_)” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #13: [“いつか王子様が (_Someday My Prince Will Come_)”](/audio/#mix-6)

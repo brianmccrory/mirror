@@ -100,6 +100,4 @@ _Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀�
 
 -   [Audio playlist for all tracks on this album](https://youtube.com/playlist?list=OLAK5uy_mTf-vG31l55T7M7hS1p6vuoGJ5PzFdRNM)
 
--   Excerpt from track #9: “The Laughing Stock” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #9: [“The Laughing Stock”](/audio/#mix-13)

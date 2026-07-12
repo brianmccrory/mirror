@@ -68,6 +68,4 @@ _Japanese names: 永武幹子 Nagatake Mikiko_
 
 {{< youtube Ton4bJxQ1HE >}}
 
--   Excerpt from track #6: “Green Chimneys” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #6: [“Green Chimneys”](/audio/#mix-9)

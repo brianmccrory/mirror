@@ -45,6 +45,4 @@ _Japanese names: 福井亜実 Fukui Ami 工藤精 Kudo Show 福森康 Fukumori Y
 
 {{< youtube bmnIeFGJIYM >}}
 
--   Excerpt from track #6: “ニュー・ジャーニー (_New Journey_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #6: [“ニュー・ジャーニー (_New Journey_)”](/audio/#mix-2)

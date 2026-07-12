@@ -104,6 +104,4 @@ _Japanese names: 堀秀彰 Hori Hideaki_
 
 {{< youtube lCUnlorFH1E >}}
 
--   Excerpt from track #5: “A song for U_U” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #5: [“A song for U_U”](/audio/#mix-10)

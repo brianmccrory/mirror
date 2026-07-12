@@ -142,6 +142,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 
 {{< youtube u0dLThgxvTQ >}}
 
--   Excerpt from track #6: “Loudvik” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #6: [“Loudvik”](/audio/#mix-10)

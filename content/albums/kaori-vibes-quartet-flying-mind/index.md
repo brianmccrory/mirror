@@ -43,6 +43,4 @@ _Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yo
 
 {{< youtube LKmSesjiEBQ >}}
 
--   Excerpt from track #1: “Flying Mind” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Flying Mind”](/audio/#mix-1)

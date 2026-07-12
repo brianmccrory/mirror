@@ -85,9 +85,7 @@ _Japanese names: 佐藤浩一 Sato Koichi 市野元彦 Ichino Motohiko 甲斐正
 
 {{< youtube LBeN8B04tGM >}}
 
--   Excerpt from track #10: “May Song” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #10: [“May Song”](/audio/#mix-11)
 
 
 ## Other Links {#other-links}

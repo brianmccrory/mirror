@@ -67,6 +67,4 @@ _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyo
 
 {{< youtube X77EDDcUFO4 >}}
 
--   Excerpt from track #1: “My Favorite Things” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“My Favorite Things”](/audio/#mix-10)

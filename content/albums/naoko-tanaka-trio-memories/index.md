@@ -48,6 +48,4 @@ _Japanese names: 田中菜緒子 Tanaka Naoko 安田幸司 Yasuda Koji 安藤正
 
 {{< youtube WxALugIHpPI >}}
 
--   Excerpt from track #1: “Sailing” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Sailing”](/audio/#mix-7)

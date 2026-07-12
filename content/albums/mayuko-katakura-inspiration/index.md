@@ -46,6 +46,4 @@ _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 {{< youtube O3V34fItd8Y >}}
 
--   Excerpt from track #1: “ブルース・フォー・タイナー (_Blues For Tyner_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“ブルース・フォー・タイナー (_Blues For Tyner_)”](/audio/#mix-2)

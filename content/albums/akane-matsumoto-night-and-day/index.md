@@ -42,6 +42,4 @@ _Japanese names: 松本茜 Matsumoto Akane_
 
 {{< youtube LrFCN5QiBT0 >}}
 
--   Excerpt from track #1: “Night&amp;Day” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Night&amp;Day”](/audio/#mix-1)

@@ -121,6 +121,4 @@ _Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 
 
 {{< youtube RvpIx3-77Ms >}}
 
--   Excerpt from track #2: “Long way to go” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #2: [“Long way to go”](/audio/#mix-13)

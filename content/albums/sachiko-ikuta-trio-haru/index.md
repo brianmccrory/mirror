@@ -43,6 +43,4 @@ _Japanese names: 生田さち子 Ikuta Sachiko 金澤英明 Kanazawa Hideaki 石
 
 {{< youtube pIkMEHuNDDs >}}
 
--   Excerpt from track #1: “春の風 (_Spring Breeze_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“春の風 (_Spring Breeze_)”](/audio/#mix-2)

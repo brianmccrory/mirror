@@ -44,6 +44,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘
 
 {{< youtube PAoCKNGeD-I >}}
 
--   Excerpt from track #5: “ミラード・ミラー (_Mirrored Mirror_)” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #5: [“ミラード・ミラー (_Mirrored Mirror_)”](/audio/#mix-3)

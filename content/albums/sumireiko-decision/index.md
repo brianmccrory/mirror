@@ -56,6 +56,4 @@ _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire_
 
 -   [Sumireiko: _Decision_ (six-song digital album version on Bandcamp)](https://sumireiko.bandcamp.com/album/decision)
 
--   Excerpt from track #1: “Lull In The Rain” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #1: [“Lull In The Rain”](/audio/#mix-14)

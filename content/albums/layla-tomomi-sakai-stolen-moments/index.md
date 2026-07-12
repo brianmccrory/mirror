@@ -59,6 +59,4 @@ _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraok
 
 {{< youtube id=HmqV-9IIqdo start=2304 >}}
 
--   Excerpt from track #1: “Stolen Moments” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #1: [“Stolen Moments”](/audio/#mix-13)

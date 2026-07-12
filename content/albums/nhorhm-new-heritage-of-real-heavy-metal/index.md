@@ -232,9 +232,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 
 {{< youtube U0Qa6GC1T-A >}}
 
--   Excerpt from track #6: “Upper Levels” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #6: [“Upper Levels”](/audio/#mix-13)
 
 
 ## Other Links {#other-links}

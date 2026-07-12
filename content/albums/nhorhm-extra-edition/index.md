@@ -64,9 +64,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 
 {{< youtube ETthmCh9DyU >}}
 
--   Excerpt from track #1: “Galaxies” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“Galaxies”](/audio/#mix-5)
 
 
 ## Other Links {#other-links}

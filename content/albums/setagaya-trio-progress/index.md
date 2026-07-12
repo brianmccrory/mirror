@@ -74,6 +74,4 @@ _Japanese names: 高橋佑成 Takahashi Yusei 岩見継吾 Iwami Keigo 吉良創
 
 {{< youtube STPZjXpWuQY >}}
 
--   Excerpt from track #2: “Metsa” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #2: [“Metsa”](/audio/#mix-13)

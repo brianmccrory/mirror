@@ -74,6 +74,4 @@ _Japanese names: 山田貴子 Yamada Takako 清水昭好 Shimizu Akiyoshi 大村
 
 -   [Full playlist for this album](https://youtube.com/playlist?list=OLAK5uy_klccSjVFfD9uZn6PJUYu3V7es2IoTI-R4)
 
--   Excerpt from track #7: “Hill Road-坂道- (_Hill Road-Sakamichi-_)” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #7: [“Hill Road-坂道- (_Hill Road-Sakamichi-_)”](/audio/#mix-14)

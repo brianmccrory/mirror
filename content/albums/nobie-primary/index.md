@@ -84,6 +84,4 @@ _Japanese names: ノビー Nobie 大口純一郎 Ohkuchi Junichiro 伊藤志宏 
 
 {{< youtube BoSUkTmq9Yg >}}
 
--   Excerpt from track #4: “Loop” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #4: [“Loop”](/audio/#mix-11)

@@ -108,6 +108,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ C
 
 -   [Streaming version of _Blending Tone_ (Bandcamp digital album)](https://yoshiquartet.bandcamp.com/album/blending-tone)
 
--   Excerpt from track #1: “di di” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #1: [“di di”](/audio/#mix-15)

@@ -45,6 +45,4 @@ _Japanese names: 山野友佳子 Yamano Yukako_
 
 {{< youtube lXLppj6OGTg >}}
 
--   Excerpt from track #3: “キャサリンの憂鬱 (_Katherine's Melancholy_)” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #3: [“キャサリンの憂鬱 (_Katherine's Melancholy_)”](/audio/#mix-9)

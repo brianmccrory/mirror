@@ -48,6 +48,4 @@ _Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 {{< youtube nimLiOrT4-0 >}}
 
--   Excerpt from track #1: “ウィズ・メイ (_With May_)” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“ウィズ・メイ (_With May_)”](/audio/#mix-3)

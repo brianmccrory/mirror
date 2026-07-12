@@ -55,6 +55,4 @@ _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武
 
 {{< youtube ApPERBU1nKo >}}
 
--   Excerpt from track #8: “After Tours” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #8: [“After Tours”](/audio/#mix-10)

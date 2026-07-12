@@ -48,6 +48,4 @@ _Japanese names: 大石学 Ohishi Manabu_
 
 {{< youtube Bgm0qg6goPI >}}
 
--   Excerpt from track #2: “Hisyo[^]” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #2: [“Hisyo[^]”](/audio/#mix-6)

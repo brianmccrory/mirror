@@ -50,6 +50,4 @@ _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyo
 
 {{< youtube ta31Crs7Q-Q >}}
 
--   Excerpt from track #1: “Over The Rainbow” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #1: [“Over The Rainbow”](/audio/#mix-6)

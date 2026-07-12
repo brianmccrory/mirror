@@ -48,6 +48,4 @@ _Japanese names: 松本茜 Matsumoto Akane_
 
 {{< youtube 30rFEmCXY64 >}}
 
--   Excerpt from track #1: “プレイング (_Playing_)” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“プレイング (_Playing_)”](/audio/#mix-4)

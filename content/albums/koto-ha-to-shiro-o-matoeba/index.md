@@ -306,6 +306,4 @@ _Japanese names: 土屋絢子 Tsuchiya Ayako 津嘉山梢 Tsukayama Kozue 伊東
 
 {{< youtube 5Srg_bYrSok >}}
 
--   Excerpt from track #5: “Vocalise” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #5: [“Vocalise”](/audio/#mix-13)

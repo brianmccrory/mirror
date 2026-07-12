@@ -46,6 +46,4 @@ _Japanese names: 原大力 Hara Dairiki 池田篤 Ikeda Atsushi 米木康志 Yon
 
 {{< youtube ZNpKR9WaT8o >}}
 
--   Excerpt from track #1: “Four In One” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“Four In One”](/audio/#mix-2)

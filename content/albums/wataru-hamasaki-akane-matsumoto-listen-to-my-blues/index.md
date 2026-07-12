@@ -102,6 +102,4 @@ _Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane_
 
 {{< youtube Tt8U1x0SZR4 >}}
 
--   Excerpt from track #1: “Listen to my Blues” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #1: [“Listen to my Blues”](/audio/#mix-15)

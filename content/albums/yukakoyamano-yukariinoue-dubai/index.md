@@ -51,6 +51,4 @@ _Japanese names: 山野友佳子 Yamano Yukako 井上ゆかり Inoue Yukari_
 
 {{< youtube XTbuu5CImlk >}}
 
--   Excerpt from track #5: “Victory” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #5: [“Victory”](/audio/#mix-8)

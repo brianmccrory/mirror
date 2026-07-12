@@ -63,6 +63,4 @@ _Japanese names: 成田祐一 Narita Yuichi_
 
 {{< youtube HdchZBiNYcY >}}
 
--   Excerpt from track #4: “No Return” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #4: [“No Return”](/audio/#mix-9)

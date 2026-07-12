@@ -114,6 +114,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
 
 {{< youtube cmhz9V9di5I >}}
 
--   Excerpt from track #8: “Fifteen Years” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #8: [“Fifteen Years”](/audio/#mix-9)

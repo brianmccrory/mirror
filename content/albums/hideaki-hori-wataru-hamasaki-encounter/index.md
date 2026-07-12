@@ -122,6 +122,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 浜崎航 Hamasaki Wataru 高瀬裕 Taka
 
 {{< youtube -7ZDCjtbPEM >}}
 
--   Excerpt from track #6: “Hanauta” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #6: [“Hanauta”](/audio/#mix-12)

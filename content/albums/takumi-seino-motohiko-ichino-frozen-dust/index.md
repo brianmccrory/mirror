@@ -76,6 +76,4 @@ _Japanese names: 清野拓巳 Seino Takumi 市野元彦 Ichino Motohiko_
 
 {{< youtube iVBf4ldR0To >}}
 
--   Excerpt from track #1: “Frozen Dust” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“Frozen Dust”](/audio/#mix-10)

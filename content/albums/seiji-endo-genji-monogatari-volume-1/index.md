@@ -44,6 +44,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 {{< youtube ZggxZ80F7ec >}}
 
--   Excerpt from track #1: “桐壺(桐壺更衣)(きりつぼ・きりつぼのこうい) (_Kiritsubo (Kiritsubo changing clothes) (Kiritsubo/Kiritsubo no Koi)_)” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“桐壺(桐壺更衣)(きりつぼ・きりつぼのこうい) (_Kiritsubo (Kiritsubo changing clothes) (Kiritsubo/Kiritsubo no Koi)_)”](/audio/#mix-4)

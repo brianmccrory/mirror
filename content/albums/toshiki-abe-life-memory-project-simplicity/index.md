@@ -63,6 +63,4 @@ _Japanese names: 阿部俊貴 Abe Toshiki 岸淑香 Kishi Sayaka 森永哲則 Mo
 
 {{< youtube QTafj_z4mhk >}}
 
--   Excerpt from track #7: “Caravan” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #7: [“Caravan”](/audio/#mix-14)

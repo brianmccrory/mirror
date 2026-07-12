@@ -93,6 +93,4 @@ _Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yo
 
 {{< youtube JYhCLqVa1-U >}}
 
--   Excerpt from track #1: “Through the lights” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #1: [“Through the lights”](/audio/#mix-9)

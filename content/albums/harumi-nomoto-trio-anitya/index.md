@@ -122,6 +122,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総
 
 -   [Full album (Apple)](https://music.apple.com/us/album/anitya/1848681100)
 
--   Excerpt from track #1: “Double touch” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #1: [“Double touch”](/audio/#mix-14)

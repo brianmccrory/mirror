@@ -48,6 +48,4 @@ _Japanese names: 秋元直子 Akimoto Naoko 遠藤征志 Endo Seiji 清水昭好
 
 {{< youtube _Q8Ad6ZYl_A >}}
 
--   Excerpt from track #7: “Fly me to the moon” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #7: [“Fly me to the moon”](/audio/#mix-8)

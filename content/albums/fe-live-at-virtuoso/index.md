@@ -58,6 +58,4 @@ _Japanese names: 池戸祐太 Ikedo Yuta 大村亘 Omura Ko 古木佳祐 Furuki 
 
 {{< youtube HLdibCEDBqw >}}
 
--   Excerpt from track #3: “Sheepwash” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #3: [“Sheepwash”](/audio/#mix-13)

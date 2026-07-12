@@ -145,6 +145,4 @@ _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki 鈴木広志 S
 
 {{< youtube s4E7GWlQ4fU >}}
 
--   Excerpt from track #1: “砂 (_Sand_)” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #1: [“砂 (_Sand_)”](/audio/#mix-14)

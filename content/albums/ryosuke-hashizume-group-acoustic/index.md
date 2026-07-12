@@ -55,6 +55,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 織
 
 {{< youtube 0ikWlV2HT_c >}}
 
--   Excerpt from track #3: “Conversations with Moore” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #3: [“Conversations with Moore”](/audio/#mix-9)

@@ -77,6 +77,4 @@ _Japanese names: 中嶋錠二 Nakajima George 吉田豊 Yoshida Yutaka 安藤正
 
 {{< youtube DC8nNt00Lcg >}}
 
--   Excerpt from track #3: “First touch” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #3: [“First touch”](/audio/#mix-8)

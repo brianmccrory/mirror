@@ -40,6 +40,4 @@ _Japanese names: 柳隼一 Yanagi Shunichi 柴田亮 Shibata Ryo 金森もとい
 
 {{< youtube 4OmuGFXKNlc >}}
 
--   Excerpt from track #7: “渋谷の交差点 (_Shibuya Crossing_)” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #7: [“渋谷の交差点 (_Shibuya Crossing_)”](/audio/#mix-6)

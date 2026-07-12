@@ -48,6 +48,4 @@ _Japanese names: 山田拓児 Yamada Takuji 阿部大輔 Abe Daisuke_
 
 {{< youtube VvKdrLMgPsY >}}
 
--   Excerpt from track #1: “In A Reverse Way” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“In A Reverse Way”](/audio/#mix-1)

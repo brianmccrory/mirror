@@ -44,6 +44,4 @@ _Japanese names: 金子雄太 Kaneko Yuta 小沼ようすけ Onuma Yosuke 大槻
 
 {{< youtube VQ-m3v3mE2E >}}
 
--   Excerpt from track #1: “Street Lights” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Street Lights”](/audio/#mix-7)

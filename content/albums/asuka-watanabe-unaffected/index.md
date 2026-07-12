@@ -144,6 +144,4 @@ _Japanese names: 渡辺明日香 Watanabe Asuka 吉岡秀晃 Yoshioka Hideaki �
 
 -   [Album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_kQNVi7rxVpybmTE7_7EKzwV5xgfm9LXO8)
 
--   Excerpt from track #3: “Let's Do It” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #3: [“Let's Do It”](/audio/#mix-15)

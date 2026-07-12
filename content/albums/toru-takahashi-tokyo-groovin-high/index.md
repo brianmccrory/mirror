@@ -173,6 +173,4 @@ _Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 O
 
 {{< youtube A-AiNoUAe9g >}}
 
--   Excerpt from track #7: “Don’t Take Your Love From Me” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #7: [“Don’t Take Your Love From Me”](/audio/#mix-14)

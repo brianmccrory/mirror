@@ -45,6 +45,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋
 
 {{< youtube z9mOOA055Lw >}}
 
--   Excerpt from track #1: “Face” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #1: [“Face”](/audio/#mix-6)

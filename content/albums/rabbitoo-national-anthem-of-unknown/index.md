@@ -56,6 +56,4 @@ _Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐�
 
 {{< youtube EAQOixCBy-o >}}
 
--   Excerpt from track #6: “subliminal sublimation” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #6: [“subliminal sublimation”](/audio/#mix-5)

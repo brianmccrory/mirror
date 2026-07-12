@@ -81,9 +81,7 @@ _Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川
 
 {{< youtube KzeQhysOrRo >}}
 
--   Excerpt from track #3: “Short Stories No.6” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #3: [“Short Stories No.6”](/audio/#mix-12)
 
 
 ## Other Links {#other-links}

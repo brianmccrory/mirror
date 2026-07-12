@@ -126,6 +126,4 @@ _Japanese names: 東かおる Azuma Kaoru_
 
 -   [Kaoru Azuma: _Footprints in New York_ full album playlist](https://youtube.com/playlist?list=OLAK5uy_m5poZoAzlbHXUdyPvZUAwVYEMjP62LjuY)
 
--   Excerpt from track #4: “Another Yes Or No” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #4: [“Another Yes Or No”](/audio/#mix-14)

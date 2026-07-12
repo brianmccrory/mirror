@@ -108,6 +108,4 @@ _Japanese names: 廣田ゆり Hirota Yuri 三井大生 Mii Daisei 佐藤きり�
 
 -   [Full playlist (Spotify)](https://open.spotify.com/album/1o8xdLRAWfZIE6tS8lDeU7)
 
--   Excerpt from track #5: “炭坑節(Tanko Bushi)” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #5: [“炭坑節(Tanko Bushi)”](/audio/#mix-14)

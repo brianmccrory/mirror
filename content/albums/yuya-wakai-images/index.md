@@ -46,6 +46,4 @@ _Japanese names: 若井優也 Wakai Yuya_
 
 {{< youtube q5gpBi0RSFw >}}
 
--   Excerpt from track #1: “There Will Never Be Another You” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“There Will Never Be Another You”](/audio/#mix-3)

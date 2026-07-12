@@ -47,6 +47,4 @@ _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 西山瞳 Nishiyama Hitomi マ
 
 -   [Full album (YouTube playlist)](https://youtube.com/playlist?list=PLmlm0LsExgrykKovdpFK5QjIFrSj9MX55)
 
--   Excerpt from track #8: “飛び立つ水鳥 (_Waterfowl Taking Flight_)” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #8: [“飛び立つ水鳥 (_Waterfowl Taking Flight_)”](/audio/#mix-14)

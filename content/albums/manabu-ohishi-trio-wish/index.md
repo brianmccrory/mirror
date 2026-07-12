@@ -46,6 +46,4 @@ _Japanese names: 大石学 Ohishi Manabu_
 
 {{< youtube muxhlGhBnIQ >}}
 
--   Excerpt from track #1: “I'm Yours” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“I'm Yours”](/audio/#mix-2)

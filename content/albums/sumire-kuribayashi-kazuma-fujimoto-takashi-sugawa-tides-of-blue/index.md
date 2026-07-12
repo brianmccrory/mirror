@@ -179,6 +179,4 @@ _Japanese names: 栗林すみれ Kuribayashi Sumire 藤本一馬 Fujimoto Kazuma
 
 {{< youtube xyaf3MoQNNA >}}
 
--   Excerpt from track #2: “The Ways To Come Back Home Again” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #2: [“The Ways To Come Back Home Again”](/audio/#mix-14)

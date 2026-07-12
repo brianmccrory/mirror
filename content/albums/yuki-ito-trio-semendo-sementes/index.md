@@ -55,6 +55,4 @@ _Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Ki
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mqtI2uWsmirCLUn6NRbiqfkwTDDaSTh9U)
 
--   Excerpt from track #1: “Aderante” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #1: [“Aderante”](/audio/#mix-15)

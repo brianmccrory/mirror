@@ -106,6 +106,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 岸徹至 Kishi Tetsuyuki 橋本学 Hash
 
 {{< youtube NElX1mESFzU >}}
 
--   Excerpt from track #7: “Sliding Doors” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #7: [“Sliding Doors”](/audio/#mix-10)

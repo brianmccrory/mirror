@@ -49,9 +49,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 
 {{< youtube bEaAs7MVJwU >}}
 
--   Excerpt from track #4: “Unfolding Universe” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #4: [“Unfolding Universe”](/audio/#mix-2)
 
 
 ## Other Links {#other-links}

@@ -60,6 +60,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 山田玲 Yamada Akira 安ヵ川大樹 Y
 
 -   [D-musica page for this album with audio samples](https://d-musica.co.jp/?p=508)
 
--   Excerpt from track #1: “I Miss the Blue Sky” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #1: [“I Miss the Blue Sky”](/audio/#mix-11)

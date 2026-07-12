@@ -54,6 +54,4 @@ _Japanese names: 栗田妙子 Kurita Taeko_
 
 -   [Full album playlist](https://youtube.com/playlist?list=PLqdDZxjet1CiUK2IUGss5_DWNj1l0Xy_b)
 
--   Excerpt from track #4: “北に生まれ (_Born In The North_)” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #4: [“北に生まれ (_Born In The North_)”](/audio/#mix-13)

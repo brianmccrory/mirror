@@ -64,6 +64,4 @@ _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 市川空 Ichikawa Sora 塚田
 
 -   [D-musica page with album information and audio samples](https://d-musica.co.jp/?p=316)
 
--   Excerpt from track #1: “Wunderbarland” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #1: [“Wunderbarland”](/audio/#mix-12)

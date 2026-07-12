@@ -138,6 +138,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube irGVn0y6j7U >}}
 
--   Excerpt from track #4: “Take Me in Your Arms” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #4: [“Take Me in Your Arms”](/audio/#mix-14)

@@ -165,6 +165,4 @@ _Japanese names: ませひろこ Mase Hiroko 音川英二 Otogawa Eiji 田中信
 
 {{< youtube j4k29PfaRyc >}}
 
--   Excerpt from track #1: “First Contact” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“First Contact”](/audio/#mix-10)

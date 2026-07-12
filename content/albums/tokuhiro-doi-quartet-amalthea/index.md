@@ -51,6 +51,4 @@ _Japanese names: 土井徳浩 Doi Tokuhiro 佐藤浩一 Sato Koichi 本川悠平
 
 {{< youtube 2nAD7YEQN-E >}}
 
--   Excerpt from track #1: “Years” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Years”](/audio/#mix-4)

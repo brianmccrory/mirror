@@ -100,6 +100,4 @@ _Japanese names: 佐藤洋祐 Sato Yosuke 中嶋錠二 Nakajima George エマ Em
 
 {{< youtube vB3exIDNqeA >}}
 
--   Excerpt from track #4: “Stablemates” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #4: [“Stablemates”](/audio/#mix-13)

@@ -48,6 +48,4 @@ _Japanese names: 柳隼一 Yanagi Shunichi 金森もとい Kanamori Motoi 服部
 
 {{< youtube 7GIJFom1jeo >}}
 
--   Excerpt from track #1: “I can't fly” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #1: [“I can't fly”](/audio/#mix-8)

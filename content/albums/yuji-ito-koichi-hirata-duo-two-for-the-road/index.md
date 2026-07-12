@@ -80,6 +80,4 @@ _Japanese names: 伊藤勇司 Ito Yuji 平田晃一 Hirata Koichi 峰厚介 Mine
 
 {{< youtube 3Og9kY3Fr88 >}}
 
--   Excerpt from track #4: “Full House” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #4: [“Full House”](/audio/#mix-13)

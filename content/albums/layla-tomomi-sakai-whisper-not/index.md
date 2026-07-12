@@ -40,6 +40,4 @@ _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraok
 
 {{< youtube BjmrJjxJ-fw >}}
 
--   Excerpt from track #4: “whisper not” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #4: [“whisper not”](/audio/#mix-7)

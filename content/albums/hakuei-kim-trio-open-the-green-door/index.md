@@ -44,6 +44,4 @@ _Japanese names: ハクエイ・キム Kim Hakuei_
 
 {{< youtube 82QZVEGryso >}}
 
--   Excerpt from track #1: “OFFER REFUSED” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“OFFER REFUSED”](/audio/#mix-3)

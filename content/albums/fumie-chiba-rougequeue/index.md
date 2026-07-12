@@ -65,6 +65,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suz
 
 -   [Audio samples of #1 “Rougequeue” and #4 “Backstroke”](https://fumiechiba.com/music.html)
 
--   Excerpt from track #2: “ringlight” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #2: [“ringlight”](/audio/#mix-12)

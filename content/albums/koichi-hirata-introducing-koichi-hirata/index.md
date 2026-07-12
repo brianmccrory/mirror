@@ -126,6 +126,4 @@ _Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yo
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mNDCBx6zojqr_KB9hOjiR0EL6OP-m0UJk)
 
--   Excerpt from track #4: “These Are Soulful Days” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #4: [“These Are Soulful Days”](/audio/#mix-15)

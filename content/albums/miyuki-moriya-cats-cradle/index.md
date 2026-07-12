@@ -42,6 +42,4 @@ _Japanese names: 守谷美由貴 Moriya Miyuki 石田衛 Ishida Mamoru かむろ
 
 ## Audio and Video {#audio-and-video}
 
--   Excerpt from track #1: “Tuck Box” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #1: [“Tuck Box”](/audio/#mix-6)

@@ -62,9 +62,7 @@ _Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田
 
 -   [Ghost Peak 1 (Ghost Peak’s first album](https://shinjimiyazaki.bandcamp.com/album/ghost-peak-1)
 
--   Excerpt from track #2: “A Goat Climbs A Peak” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #2: [“A Goat Climbs A Peak”](/audio/#mix-12)
 
 
 ## Other Links {#other-links}

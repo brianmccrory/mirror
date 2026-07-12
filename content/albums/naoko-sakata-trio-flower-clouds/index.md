@@ -52,6 +52,4 @@ _Japanese names: 坂田尚子 Sakata Naoko_
 
 {{< youtube n2qa8uz_ycE >}}
 
--   Excerpt from track #2: “Mane” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #2: [“Mane”](/audio/#mix-7)

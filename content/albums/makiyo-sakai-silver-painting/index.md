@@ -136,6 +136,4 @@ _Japanese names: 酒井麻生代 Sakai Makiyo 納谷嘉彦 Naya Yoshihiko 俵山
 
 {{< youtube R8wM4rOXYsg >}}
 
--   Excerpt from track #9: “シチリアーノ (_Siciliano_)” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #9: [“シチリアーノ (_Siciliano_)”](/audio/#mix-12)

@@ -48,6 +48,4 @@ _Japanese names: 山野友佳子 Yamano Yukako 納浩一 Osamu Koichi 藤井学 
 
 {{< youtube fA0kHQ8h_EM >}}
 
--   Excerpt from track #1: “Over Parents” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“Over Parents”](/audio/#mix-3)

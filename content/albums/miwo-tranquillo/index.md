@@ -76,6 +76,4 @@ _Japanese names: 石田衛 Ishida Mamoru 安ヵ川大樹 Yasukagawa Daiki 関根
 
 {{< youtube em2OGdp0_j8 >}}
 
--   Excerpt from track #4: “Desafinado” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #4: [“Desafinado”](/audio/#mix-11)

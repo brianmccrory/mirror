@@ -131,6 +131,4 @@ _Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山
 
 {{< youtube qi9gfZEATMs >}}
 
--   Excerpt from track #1: “Autumn Leaves” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #1: [“Autumn Leaves”](/audio/#mix-12)

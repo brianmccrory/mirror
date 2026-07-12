@@ -135,6 +135,4 @@ _Japanese names: 永武幹子 Nagatake Mikiko 大村亘 Omura Ko_
 
 {{< youtube NDAXZTeDaZM >}}
 
--   Excerpt from track #1: “Savichara” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“Savichara”](/audio/#mix-10)

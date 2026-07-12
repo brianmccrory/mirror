@@ -136,9 +136,7 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 
 {{< youtube 7nTgk3jYni4 >}}
 
--   Excerpt from track #6: “Hommage” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #6: [“Hommage”](/audio/#mix-10)
 
 
 ## Other Links {#other-links}

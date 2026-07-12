@@ -70,6 +70,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 N
 
 {{< youtube jqCsbpZRdOg >}}
 
--   Excerpt from track #3: “ザ・ライダー (_The Rider_)” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #3: [“ザ・ライダー (_The Rider_)”](/audio/#mix-11)

@@ -65,9 +65,7 @@ _Japanese names: 福盛進也 Fukumori Shinya_
 
 -   [Playlist for this album (YouTube)](https://youtube.com/playlist?list=OLAK5uy_ljfkfUdYIJpQzK3RgjP4Q8ldpD7RqFmXM)
 
--   Excerpt from track #3: “Ai San San” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #3: [“Ai San San”](/audio/#mix-13)
 
 
 ## Other Links {#other-links}

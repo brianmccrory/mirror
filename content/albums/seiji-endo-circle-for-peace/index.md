@@ -40,6 +40,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 {{< youtube ayIRWG2Kb08 >}}
 
--   Excerpt from track #1: “Circle For Peace” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Circle For Peace”](/audio/#mix-1)

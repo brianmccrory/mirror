@@ -42,6 +42,4 @@ _Japanese names: 小杉敏 Kosugi Satoshi 岡崎好朗 Okazaki Yoshiro 元岡一
 
 {{< youtube mKf9_Mg3gEk >}}
 
--   Excerpt from track #1: “Monk's Dream” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Monk's Dream”](/audio/#mix-1)

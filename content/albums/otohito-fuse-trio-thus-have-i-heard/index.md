@@ -181,6 +181,4 @@ _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗
 
 -   [Full Playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_l2LCXj7mVOduNOekqfOxaavTQIVbbYmTs)
 
--   Excerpt from track #7: “We Can Hardly See” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #7: [“We Can Hardly See”](/audio/#mix-15)

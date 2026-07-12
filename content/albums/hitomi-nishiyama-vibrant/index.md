@@ -50,6 +50,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi_
 
 {{< youtube 1n53wq_KFWk >}}
 
--   Excerpt from track #3: “Recollection” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #3: [“Recollection”](/audio/#mix-8)

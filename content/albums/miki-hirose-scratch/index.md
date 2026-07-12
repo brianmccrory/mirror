@@ -45,6 +45,4 @@ _Japanese names: 広瀬未来 Hirose Miki 百々徹 Dodo Toru_
 
 {{< youtube 1kizkvPJKAY >}}
 
--   Excerpt from track #1: “スクラッチ (_Scratch_)” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“スクラッチ (_Scratch_)”](/audio/#mix-7)

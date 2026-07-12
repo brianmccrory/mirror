@@ -121,6 +121,4 @@ _Japanese names: 酒井麻生代 Sakai Makiyo 池田雅明 Ikeda Masaaki 小畑�
 
 {{< youtube 87z-l_MKNw8 >}}
 
--   Excerpt from track #3: “Neste Pais” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #3: [“Neste Pais”](/audio/#mix-11)

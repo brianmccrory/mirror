@@ -45,6 +45,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 {{< youtube -iqn0TSqzKg >}}
 
--   Excerpt from track #4: “Libertango” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #4: [“Libertango”](/audio/#mix-7)

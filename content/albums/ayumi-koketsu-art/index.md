@@ -48,6 +48,4 @@ _Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 {{< youtube AwOOED-1C2Q >}}
 
--   Excerpt from track #1: “クール・バニー (_Cool Bunny_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“クール・バニー (_Cool Bunny_)”](/audio/#mix-1)

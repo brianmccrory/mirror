@@ -48,6 +48,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube ittfMkakJCo >}}
 
--   Excerpt from track #7: “Balkan Tale” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #7: [“Balkan Tale”](/audio/#mix-6)

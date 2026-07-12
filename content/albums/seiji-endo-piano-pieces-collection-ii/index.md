@@ -69,6 +69,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 -   [Apple Music link for this album](https://music.apple.com/us/album/%E9%81%A0%E8%97%A4%E5%BE%81%E5%BF%97%E5%B0%8F%E6%9B%B2%E9%9B%86-ii/1727298478)
 
--   Excerpt from track #9: “Erica” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #9: [“Erica”](/audio/#mix-12)

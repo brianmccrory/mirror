@@ -51,6 +51,4 @@ _Japanese names: 多田誠司 Tada Seiji_
 
 {{< youtube LEzJqz_YJPs >}}
 
--   Excerpt from track #1: “Workout” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“Workout”](/audio/#mix-5)

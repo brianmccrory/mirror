@@ -73,6 +73,4 @@ _Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 T
 
 {{< youtube OchRJuddkX0 >}}
 
--   Excerpt from track #1: “A Foggy Day” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #1: [“A Foggy Day”](/audio/#mix-8)

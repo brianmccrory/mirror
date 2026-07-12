@@ -44,6 +44,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐
 
 {{< youtube n4N_Sa0tyeM >}}
 
--   Excerpt from track #1: “Still” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Still”](/audio/#mix-1)

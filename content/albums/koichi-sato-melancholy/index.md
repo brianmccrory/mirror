@@ -47,6 +47,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 土井徳浩 Doi Tokuhiro 市野元彦
 
 {{< youtube HU3XNXucB0Q >}}
 
--   Excerpt from track #1: “The Railway Station” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“The Railway Station”](/audio/#mix-1)

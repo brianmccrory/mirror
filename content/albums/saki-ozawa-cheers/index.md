@@ -80,6 +80,4 @@ _Japanese names: 小沢咲希 Ozawa Saki 安田幸司 Yasuda Koji 粟谷巧 Away
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=PLkMuVISai0HmQsPv4ziKYHOKpiD2B5xUv)
 
--   Excerpt from track #5: “Something Like That” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #5: [“Something Like That”](/audio/#mix-15)

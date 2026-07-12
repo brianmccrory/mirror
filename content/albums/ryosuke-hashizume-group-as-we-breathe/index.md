@@ -92,9 +92,7 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋
 
 {{< youtube Mf2qe0wqQ4o >}}
 
--   Excerpt from track #3: “Sign” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #3: [“Sign”](/audio/#mix-14)
 
 
 ## Other Links {#other-links}

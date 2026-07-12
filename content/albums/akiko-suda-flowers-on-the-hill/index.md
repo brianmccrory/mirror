@@ -47,6 +47,4 @@ _Japanese names: 須田晶子 Suda Akiko 成田祐一 Narita Yuichi 安田幸司
 
 {{< youtube iHzqt_13hO0 >}}
 
--   Excerpt from track #1: “Flowers On The Hill” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Flowers On The Hill”](/audio/#mix-1)

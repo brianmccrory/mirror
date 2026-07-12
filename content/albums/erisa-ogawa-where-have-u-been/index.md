@@ -83,6 +83,4 @@ _Japanese names: 小川恵理紗 Ogawa Erisa 瀬田創太 Seta Sota 森田悠介
 
 -   [Erisa Ogawa’s website videos (older)](https://erisa321.wixsite.com/erisaogawa/musics)
 
--   Excerpt from track #7: “Punk” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #7: [“Punk”](/audio/#mix-11)

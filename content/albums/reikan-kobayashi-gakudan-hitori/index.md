@@ -44,6 +44,4 @@ _Japanese names: 小林鈴勘 Kobayashi Reikan_
 
 {{< youtube rN5wMa7WJOc >}}
 
--   Excerpt from track #6: “Ghost's Tear” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #6: [“Ghost's Tear”](/audio/#mix-6)

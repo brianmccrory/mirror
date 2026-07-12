@@ -48,6 +48,4 @@ _Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀�
 
 {{< youtube JV_7YAx3mCA >}}
 
--   Excerpt from track #1: “やみくろ (_Dark Black_)” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“やみくろ (_Dark Black_)”](/audio/#mix-4)

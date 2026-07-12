@@ -71,6 +71,4 @@ _Japanese names: 中村海斗 Nakamura Kaito 佐々木梨子 Sasaki Riko 布施�
 
 -   [Full album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_lbhg1TDcVn4dTjRn299Fo03m2-Qrw6DyM)
 
--   Excerpt from track #3: “バルバロ (_Barbaro_)” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #3: [“バルバロ (_Barbaro_)”](/audio/#mix-13)

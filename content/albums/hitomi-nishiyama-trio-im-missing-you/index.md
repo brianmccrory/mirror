@@ -99,6 +99,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Ka
 
 {{< youtube LIqX0QymLo4 >}}
 
--   Excerpt from track #8: “I'm missing you” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #8: [“I'm missing you”](/audio/#mix-13)

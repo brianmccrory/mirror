@@ -56,6 +56,4 @@ _Japanese names: 国貞雅子 Kunisada Masako 森下滋 Morishita Shigeru 荻原
 
 {{< youtube awL_5LXeMeI >}}
 
--   Excerpt from track #8: “For All We Know” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #8: [“For All We Know”](/audio/#mix-7)

@@ -114,6 +114,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suz
 
 {{< youtube 1GdvWX9zNYo >}}
 
--   Excerpt from track #2: “dawn” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #2: [“dawn”](/audio/#mix-14)

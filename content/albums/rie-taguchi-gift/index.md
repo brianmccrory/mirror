@@ -48,6 +48,4 @@ _Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 T
 
 {{< youtube id=4oURhuaWyh4 start=2m43s >}}
 
--   Excerpt from track #1: “The Lady Is A Tramp” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“The Lady Is A Tramp”](/audio/#mix-2)

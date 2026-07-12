@@ -52,6 +52,4 @@ _Japanese names: 浅川太平 Asakawa Taihei 加藤真一 Kato Shinichi 橋本�
 
 {{< youtube Wmb_IN_3a-w >}}
 
--   Excerpt from track #1: “The Pioneer” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“The Pioneer”](/audio/#mix-3)

@@ -57,6 +57,4 @@ _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 橋本
 
 {{< youtube qmIjpprzmvk >}}
 
--   Excerpt from track #9: “Pressentimento” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #9: [“Pressentimento”](/audio/#mix-6)

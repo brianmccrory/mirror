@@ -43,6 +43,4 @@ _Japanese names: 吉田哲治 Yoshida Tetsuji 永武幹子 Nagatake Mikiko_
 
 {{< youtube LeYr3lFZORo >}}
 
--   Excerpt from track #3: “祈り (_Prayer_)” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #3: [“祈り (_Prayer_)”](/audio/#mix-9)

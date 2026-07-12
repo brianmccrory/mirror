@@ -105,6 +105,4 @@ _Japanese names: 石田衛 Ishida Mamoru 工藤精 Kudo Show 大村亘 Omura Ko_
 
 {{< youtube ec5XE4NHZXc >}}
 
--   Excerpt from track #2: “McMahons Point” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #2: [“McMahons Point”](/audio/#mix-9)

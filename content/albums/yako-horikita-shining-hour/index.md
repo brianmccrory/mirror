@@ -44,6 +44,4 @@ _Japanese names: 堀北やこ Horikita Yako 佐脇武則 Sawaki Takenori 出口�
 
 {{< youtube EColU1KjlxY >}}
 
--   Excerpt from track #11: “Under A Blanket Of Blue” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #11: [“Under A Blanket Of Blue”](/audio/#mix-5)

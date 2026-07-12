@@ -127,6 +127,4 @@ _Japanese names: 守谷美由貴 Moriya Miyuki 峰厚介 Mine Kosuke 石田衛 I
 
 -   [Audio for “Maverick”, track #5 on this album](https://music.youtube.com/watch?v=1TlkcRnKg2k)
 
--   Excerpt from track #2: “Flip a Coin” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #2: [“Flip a Coin”](/audio/#mix-12)

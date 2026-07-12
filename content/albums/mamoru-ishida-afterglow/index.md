@@ -108,9 +108,7 @@ _Japanese names: 石田衛 Ishida Mamoru 小牧良平 Komaki Ryohei 中村海斗
 
 {{< youtube id=_-z3hbrGxl8 start=143 >}}
 
--   Excerpt from track #2: “チャッチャー(Chatchar)” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #2: [“チャッチャー(Chatchar)”](/audio/#mix-11)
 
 
 ## Other Links {#other-links}

@@ -112,6 +112,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzu
 
 {{< youtube zS2NADPB0QI >}}
 
--   Excerpt from track #3: “走れ、走れメロス (_Run, run, Melos_)” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #3: [“走れ、走れメロス (_Run, run, Melos_)”](/audio/#mix-9)

@@ -143,6 +143,4 @@ _Japanese names: 秩父英里 Chichibu Eri 菊田邦裕 Kikuta Kunihiro デイ�
 
 {{< youtube HLOqBTOcJfA >}}
 
--   Excerpt from track #2: “The Sea -Seven Years Voyage-” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #2: [“The Sea -Seven Years Voyage-”](/audio/#mix-11)

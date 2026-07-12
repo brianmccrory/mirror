@@ -66,6 +66,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 N
 
 -   [Streaming services for this album](https://linkco.re/u7zvtsUN)
 
--   Excerpt from track #4: “Arrakis” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #4: [“Arrakis”](/audio/#mix-13)

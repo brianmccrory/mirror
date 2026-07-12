@@ -67,6 +67,4 @@ _Japanese names: 市野元彦 Ichino Motohiko 東保光 Toho Hikaru 嘉本信一
 
 {{< youtube w_6I6Ec5jmQ >}}
 
--   Excerpt from track #1: “Wrapped Up” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #1: [“Wrapped Up”](/audio/#mix-11)

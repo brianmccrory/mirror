@@ -179,6 +179,4 @@ _Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 生沼
 
 {{< youtube 324C9LF38AI >}}
 
--   Excerpt from track #12: “Yakusoku-Yakusoku-” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #12: [“Yakusoku-Yakusoku-”](/audio/#mix-10)

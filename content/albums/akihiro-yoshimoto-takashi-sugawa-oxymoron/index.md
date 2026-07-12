@@ -63,6 +63,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニ�
 
 -   [Album audio on Bandcamp](https://oxymoronduo.bandcamp.com/album/oxymoron)
 
--   Excerpt from track #4: “Mokume #1” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #4: [“Mokume #1”](/audio/#mix-11)

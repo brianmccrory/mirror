@@ -45,6 +45,4 @@ _Japanese names: 加藤真一 Kato Shinichi 佐藤允彦 Sato Masahiko_
 
 {{< youtube wj7AhGAxHfk >}}
 
--   Excerpt from track #1: “Old Diary” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Old Diary”](/audio/#mix-7)

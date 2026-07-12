@@ -153,6 +153,4 @@ _Japanese names: エミコヴォイス Emiko Voice 柳原由佳 Yanagihara Yuka_
 
 -   [Archive video of a live-streamed Enyana performance from 2020, with “Rabo de Nube”, “Águas de Março”, “Alfonsina y el Mar” (tr. 2), “Sai Dessa” (tr. 3), “Los Pajaros Perdidos” (tr. 4), and “Forró Brasil” (tr. 5)](https://www.youtube.com/live/m2JZihv8mes?t=1062)
 
--   Excerpt from track #8: “Poinciana” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #8: [“Poinciana”](/audio/#mix-12)

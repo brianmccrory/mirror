@@ -42,6 +42,4 @@ _Japanese names: 小泉P克人 Koizumi Yoshihito “P” 宮川純 Miyakawa Jun 
 
 {{< youtube 92l3SdCSd30 >}}
 
--   Excerpt from track #1: “JB's Poem” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“JB's Poem”](/audio/#mix-7)

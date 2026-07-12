@@ -129,6 +129,4 @@ _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki_
 
 {{< youtube Ed0KubWWSFA >}}
 
--   Excerpt from track #1: “Marigold” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #1: [“Marigold”](/audio/#mix-15)

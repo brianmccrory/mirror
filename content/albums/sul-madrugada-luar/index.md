@@ -52,6 +52,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 小林宏衣 Kobayashi Hiroe_
 
 {{< youtube VuPqiUUVQ_Y >}}
 
--   Excerpt from track #1: “Primavera De Batata” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #1: [“Primavera De Batata”](/audio/#mix-9)

@@ -62,6 +62,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総
 
 {{< youtube J7Mp74TCldo >}}
 
--   Excerpt from track #6: “Do re mi” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #6: [“Do re mi”](/audio/#mix-4)

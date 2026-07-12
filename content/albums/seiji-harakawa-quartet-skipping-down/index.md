@@ -53,6 +53,4 @@ _Japanese names: 原川誠司 Harakawa Seiji 田窪寛之 Takubo Hiroyuki 金森
 
 {{< youtube 9i1_hPTl1kI >}}
 
--   Excerpt from track #5: “I've Never Been In Love Before” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #5: [“I've Never Been In Love Before”](/audio/#mix-9)

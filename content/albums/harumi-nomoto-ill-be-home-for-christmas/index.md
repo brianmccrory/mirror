@@ -59,6 +59,4 @@ _Japanese names: 野本晴美 Nomoto Harumi_
 
 {{< youtube qBkOmrzqaPA >}}
 
--   Excerpt from track #1: “O little town of Bethlehem” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #1: [“O little town of Bethlehem”](/audio/#mix-14)

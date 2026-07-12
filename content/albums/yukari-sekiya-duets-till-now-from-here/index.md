@@ -117,6 +117,4 @@ _Japanese names: 関谷友加里 Sekiya Yukari かみむら泰一 Kamimura Taiic
 
 -   [This album on streaming platforms](https://linkco.re/16brfqTz)
 
--   Excerpt from track #107: “Canja” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #107: [“Canja”](/audio/#mix-15)

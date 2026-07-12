@@ -117,6 +117,4 @@ _Japanese names: 斉田佳子 Saita Yoshiko_
 
 {{< youtube 3cajafPM6nc >}}
 
--   Excerpt from track #2: “I Will Wait For You” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #2: [“I Will Wait For You”](/audio/#mix-11)

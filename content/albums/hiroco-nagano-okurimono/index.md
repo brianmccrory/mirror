@@ -40,6 +40,4 @@ _Japanese names: 永野寛子 Nagano Hiroco 遠藤征志 Endo Seiji 梅原新 Um
 
 {{< youtube W4NWcQnXS64 >}}
 
--   Excerpt from track #1: “Someone To Watch Over Me” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Someone To Watch Over Me”](/audio/#mix-1)

@@ -54,6 +54,4 @@ _Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 {{< youtube dtb6KCpL-tE >}}
 
--   Excerpt from track #1: “ワッツ・ネクスト？ (_What’s Next?_)” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“ワッツ・ネクスト？ (_What’s Next?_)”](/audio/#mix-3)

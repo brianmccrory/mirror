@@ -48,6 +48,4 @@ _Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山
 
 {{< youtube YhQnfXHlBVg >}}
 
--   Excerpt from track #7: “Metro Maniac” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #7: [“Metro Maniac”](/audio/#mix-6)

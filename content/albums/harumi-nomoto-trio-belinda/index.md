@@ -60,6 +60,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Y
 
 {{< youtube fRSPPoJzMrw >}}
 
--   Excerpt from track #2: “7up” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #2: [“7up”](/audio/#mix-6)

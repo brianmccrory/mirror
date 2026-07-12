@@ -98,6 +98,4 @@ _Japanese names: 辛島文雄 Karashima Fumio_
 
 {{< youtube ugFsMN6ePuA >}}
 
--   Excerpt from track #5: “Brilliant Darkness” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #5: [“Brilliant Darkness”](/audio/#mix-15)

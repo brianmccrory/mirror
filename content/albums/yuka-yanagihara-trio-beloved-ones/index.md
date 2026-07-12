@@ -57,6 +57,4 @@ _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武
 
 {{< youtube ZcBH5MLBNpk >}}
 
--   Excerpt from track #1: “Snowflake” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #1: [“Snowflake”](/audio/#mix-12)

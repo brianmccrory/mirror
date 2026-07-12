@@ -88,6 +88,4 @@ _Japanese names: 浅利史花 Asari Fumika 中牟礼貞則 Nakamure Sadanori 小
 
 {{< youtube mxHgcDx51CE >}}
 
--   Excerpt from track #1: “Triste” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #1: [“Triste”](/audio/#mix-9)

@@ -103,6 +103,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 {{< youtube GgfB0DMq9SI >}}
 
--   Excerpt from track #1: “Sun,Moon and Children Smile” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #1: [“Sun,Moon and Children Smile”](/audio/#mix-3)

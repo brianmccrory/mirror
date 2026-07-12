@@ -44,6 +44,4 @@ _Japanese names: 浜田亜東実 Hamada Atomi 野波桃 Nonami Momo 水谷浩章
 
 {{< youtube Okl0bUUC9Z0 >}}
 
--   Excerpt from track #3: “オール・ザ・シングス・ユー・アー (_All the Things You Are_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #3: [“オール・ザ・シングス・ユー・アー (_All the Things You Are_)”](/audio/#mix-2)

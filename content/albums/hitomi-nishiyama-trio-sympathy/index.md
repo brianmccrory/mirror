@@ -52,9 +52,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 
 {{< youtube OHW5hbGSByo >}}
 
--   Excerpt from track #1: “Sympathy” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Sympathy”](/audio/#mix-4)
 
 
 ## Other Links {#other-links}

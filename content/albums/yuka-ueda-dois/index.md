@@ -55,6 +55,4 @@ _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原
 
 {{< youtube 2MHUgYgV4uE >}}
 
--   Excerpt from track #1: “Meu Escudo” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #1: [“Meu Escudo”](/audio/#mix-7)

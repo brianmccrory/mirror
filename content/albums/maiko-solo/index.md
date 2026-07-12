@@ -44,6 +44,4 @@ _Japanese names: マイコ maiko_
 
 {{< youtube VIXWYIHwUnE >}}
 
--   Excerpt from track #9: “Improvisation” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #9: [“Improvisation”](/audio/#mix-6)

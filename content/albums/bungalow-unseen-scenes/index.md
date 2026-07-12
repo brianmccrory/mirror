@@ -43,6 +43,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘
 
 ## Audio and Video {#audio-and-video}
 
--   Excerpt from track #1: “ダンシング・エレファント (_Dancing Elephant_)” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #1: [“ダンシング・エレファント (_Dancing Elephant_)”](/audio/#mix-8)

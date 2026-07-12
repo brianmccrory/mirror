@@ -44,6 +44,4 @@ _Japanese names: 新澤健一郎 Shinzawa Ken'ichiro_
 
 {{< youtube 99CzcQx9Kb0 >}}
 
--   Excerpt from track #1: “２つの命 Two Lives” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“２つの命 Two Lives”](/audio/#mix-2)

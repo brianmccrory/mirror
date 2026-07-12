@@ -47,6 +47,4 @@ _Japanese names: 福田重男 Fukuda Shigeo 布川俊樹 Nunokawa Toshiki_
 
 {{< youtube 2yVbZjY7y1c >}}
 
--   Excerpt from track #7: “How Deep Is The Ocean” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #7: [“How Deep Is The Ocean”](/audio/#mix-8)

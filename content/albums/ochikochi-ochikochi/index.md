@@ -80,6 +80,4 @@ _Japanese names: かみむら泰一 Kamimura Taiichi 是安則克 Koreyasu Norik
 
 {{< youtube oGTbfjXK6Qs >}}
 
--   Excerpt from track #5: “メユメユ Meyu-meyu” [mix #15](https://www.jazzofjapan.com/archive/audio/#mix-15)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-15">}}
+-   Excerpt from track #5: [“メユメユ Meyu-meyu”](/audio/#mix-15)

@@ -66,6 +66,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube 9xWegng0moE >}}
 
--   Excerpt from track #1: “カン・ビロン・ヴリュ・ダンセ (_Can biron velue danse_)” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“カン・ビロン・ヴリュ・ダンセ (_Can biron velue danse_)”](/audio/#mix-10)

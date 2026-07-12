@@ -111,6 +111,4 @@ _Japanese names: 八木隆幸 Yagi Takayuki_
 
 {{< youtube _KiyjtDRyfM >}}
 
--   Excerpt from track #5: “Kyoto Tower” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #5: [“Kyoto Tower”](/audio/#mix-7)

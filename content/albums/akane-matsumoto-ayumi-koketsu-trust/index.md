@@ -112,6 +112,4 @@ _Japanese names: 松本茜 Matsumoto Akane 纐纈歩美 Koketsu Ayumi_
 
 {{< youtube tSOocCLBI3Q >}}
 
--   Excerpt from track #3: “Spring Is Here” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #3: [“Spring Is Here”](/audio/#mix-13)

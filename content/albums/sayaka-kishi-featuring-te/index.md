@@ -46,6 +46,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi 黒沢綾 Ku
 
 {{< youtube FB0v5wlC3wo >}}
 
--   Excerpt from track #1: “up to you” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“up to you”](/audio/#mix-1)

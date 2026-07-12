@@ -82,6 +82,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ C
 
 {{< youtube IG8jxrYenzg >}}
 
--   Excerpt from track #5: “Sabaku No Akari” [mix #3](https://www.jazzofjapan.com/archive/audio/#mix-3)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-3">}}
+-   Excerpt from track #5: [“Sabaku No Akari”](/audio/#mix-3)

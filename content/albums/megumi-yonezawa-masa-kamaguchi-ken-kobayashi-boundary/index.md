@@ -75,9 +75,7 @@ _Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi
 
 {{< youtube EK_m681ZWa0 >}}
 
--   Excerpt from track #10: “Nostalgio” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #10: [“Nostalgio”](/audio/#mix-12)
 
 
 ## Other Links {#other-links}

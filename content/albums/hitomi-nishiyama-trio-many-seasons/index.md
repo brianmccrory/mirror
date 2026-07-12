@@ -42,6 +42,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi_
 
 {{< youtube rRCe_sFD-cU >}}
 
--   Excerpt from track #1: “フラッド (_Flood_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“フラッド (_Flood_)”](/audio/#mix-1)

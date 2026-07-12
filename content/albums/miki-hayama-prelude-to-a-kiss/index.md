@@ -52,6 +52,4 @@ _Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 {{< youtube GLwlp2M6c_M >}}
 
--   Excerpt from track #1: “Beatrice” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“Beatrice”](/audio/#mix-5)

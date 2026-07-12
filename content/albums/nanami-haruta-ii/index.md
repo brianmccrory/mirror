@@ -86,6 +86,4 @@ _Japanese names: 治田七海 Haruta Nanami 吉本章紘 Yoshimoto Akihiro 片�
 
 {{< youtube tZWMpPLhPno >}}
 
--   Excerpt from track #1: “1965” [mix #10](https://www.jazzofjapan.com/archive/audio/#mix-10)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-10">}}
+-   Excerpt from track #1: [“1965”](/audio/#mix-10)

@@ -37,6 +37,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 {{< youtube oY8PypPVPuY >}}
 
--   Excerpt from track #1: “Asymmetry” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“Asymmetry”](/audio/#mix-1)

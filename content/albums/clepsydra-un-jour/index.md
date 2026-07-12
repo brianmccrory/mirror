@@ -91,6 +91,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko 佐藤芳明 Sato Yoshiaki 林正�
 
 {{< youtube id=A9da1TZF3v8 start=1139 >}}
 
--   Excerpt from track #1: “息吹 (_Breath_)” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #1: [“息吹 (_Breath_)”](/audio/#mix-11)

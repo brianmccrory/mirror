@@ -45,6 +45,4 @@ _Japanese names: エミコヴォイス Emiko Voice スガダイロー Suga Dairo
 
 {{< youtube IktVtSTtgH0 >}}
 
--   Excerpt from track #8: “コンファメーション (_Confirmation_)” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #8: [“コンファメーション (_Confirmation_)”](/audio/#mix-6)

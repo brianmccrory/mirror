@@ -42,6 +42,4 @@ _Japanese names: 片倉真由子 Katakura Mayuko_
 
 {{< youtube fZN7_53Irfk >}}
 
--   Excerpt from track #1: “ミセス・パーカー・オブ ＫＣ (_Mrs. Parker of KC_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“ミセス・パーカー・オブ ＫＣ (_Mrs. Parker of KC_)”](/audio/#mix-1)

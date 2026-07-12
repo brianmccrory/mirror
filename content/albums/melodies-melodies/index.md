@@ -54,9 +54,7 @@ _Japanese names: 市野元彦 Ichino Motohiko 津上研太 Tsugami Kenta 謝明�
 
 {{< youtube Z7eZiGptqfM >}}
 
--   Excerpt from track #1: “Conversation and Confession” [mix #13](https://www.jazzofjapan.com/archive/audio/#mix-13)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-13">}}
+-   Excerpt from track #1: [“Conversation and Confession”](/audio/#mix-13)
 
 
 ## Other Links {#other-links}

@@ -164,9 +164,7 @@ _Japanese names: 池長和美 Ikenaga Kazumi 浅川太平 Asakawa Taihei_
 
 {{< youtube 15-bnW1CE8s >}}
 
--   Excerpt from track #5: “Saenk kun dit hoved du blomst” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #5: [“Saenk kun dit hoved du blomst”](/audio/#mix-11)
 
 
 ## Other Links {#other-links}

@@ -87,6 +87,4 @@ _Japanese names: 池長和美 Ikenaga Kazumi_
 
 {{< youtube OvMzoUtS5NI >}}
 
--   Excerpt from track #2: “トゥーサム (_Twosome_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #2: [“トゥーサム (_Twosome_)”](/audio/#mix-1)

@@ -80,6 +80,4 @@ _Japanese names: 大村亘 Omura Ko_
 
 -   [Full album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_nHklo6bjpsN_CVWXtvBR7Rp7FkA5iJsD0)
 
--   Excerpt from track #5: “Groove for Clyde” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #5: [“Groove for Clyde”](/audio/#mix-14)

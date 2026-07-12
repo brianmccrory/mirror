@@ -50,6 +50,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 織原良次 Orihara Ryoji 山田玲 Yam
 
 {{< youtube UQTR60p8qyE >}}
 
--   Excerpt from track #1: “DON PAPA” [mix #5](https://www.jazzofjapan.com/archive/audio/#mix-5)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-5">}}
+-   Excerpt from track #1: [“DON PAPA”](/audio/#mix-5)

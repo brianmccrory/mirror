@@ -121,9 +121,7 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka
 
 -   [Album streams (TuneCore Japan)](https://linkco.re/gMGSQuCY)
 
--   Excerpt from track #2: “おわりとはじまり (_The end and the beginning_)” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #2: [“おわりとはじまり (_The end and the beginning_)”](/audio/#mix-12)
 
 
 ## Other Links {#other-links}

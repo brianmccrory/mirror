@@ -104,6 +104,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐
 
 -   [Audio for Ryosuke Hashizume Group’s “The Last Day of Summer”](https://soundcloud.com/hashizume-ryosuke/the-last-day-of-summer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
--   Excerpt from track #3: “Slumber” [mix #12](https://www.jazzofjapan.com/archive/audio/#mix-12)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-12">}}
+-   Excerpt from track #3: [“Slumber”](/audio/#mix-12)

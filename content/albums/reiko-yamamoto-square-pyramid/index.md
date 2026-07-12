@@ -117,6 +117,4 @@ _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire 
 
 {{< youtube lUyzdNa9SC8 >}}
 
--   Excerpt from track #1: “Vibrant Line” [mix #11](https://www.jazzofjapan.com/archive/audio/#mix-11)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-11">}}
+-   Excerpt from track #1: [“Vibrant Line”](/audio/#mix-11)

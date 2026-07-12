@@ -109,6 +109,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 馬場孝喜 Baba Takayoshi_
 
 {{< youtube HS5JB0buDyk >}}
 
--   Excerpt from track #6: “Frontier” [mix #14](https://www.jazzofjapan.com/archive/audio/#mix-14)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-14">}}
+-   Excerpt from track #6: [“Frontier”](/audio/#mix-14)

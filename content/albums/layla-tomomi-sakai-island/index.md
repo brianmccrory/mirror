@@ -51,6 +51,4 @@ _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraok
 
 {{< youtube id=xZjA59QRfj8 start=159 >}}
 
--   Excerpt from track #1: “Only Trust Your Heart” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #1: [“Only Trust Your Heart”](/audio/#mix-4)

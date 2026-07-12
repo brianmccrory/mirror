@@ -41,6 +41,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘
 
 {{< youtube Ix3_wC-YqP0 >}}
 
--   Excerpt from track #1: “サンタ・クルズ (_Santa Cruz_)” [mix #1](https://www.jazzofjapan.com/archive/audio/#mix-1)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-1">}}
+-   Excerpt from track #1: [“サンタ・クルズ (_Santa Cruz_)”](/audio/#mix-1)

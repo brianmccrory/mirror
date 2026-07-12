@@ -46,6 +46,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube cHvC_A7tFbU >}}
 
--   Excerpt from track #1: “OUTSIDE BY THE SWING” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #1: [“OUTSIDE BY THE SWING”](/audio/#mix-8)

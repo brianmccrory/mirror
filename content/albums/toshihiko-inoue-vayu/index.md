@@ -59,6 +59,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko_
 
 -   [Audio samples](http://bowz.shop-pro.jp/?pid=109653244)
 
--   Excerpt from track #1: “Fireworks” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #1: [“Fireworks”](/audio/#mix-2)

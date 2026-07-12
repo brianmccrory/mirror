@@ -75,6 +75,4 @@ _Japanese names: 前田真梨子 Maeda Mariko 海堀弘太 Kaihori Kota 寺尾�
 
 {{< youtube lrBK-s0-n2c >}}
 
--   Excerpt from track #2: “Frida” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #2: [“Frida”](/audio/#mix-8)

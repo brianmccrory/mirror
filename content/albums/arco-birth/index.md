@@ -47,6 +47,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 {{< youtube NCsYA0F41S4 >}}
 
--   Excerpt from track #3: “Fiesta” [mix #6](https://www.jazzofjapan.com/archive/audio/#mix-6)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-6">}}
+-   Excerpt from track #3: [“Fiesta”](/audio/#mix-6)

@@ -44,6 +44,4 @@ _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 {{< youtube q8n6M2iDD8g >}}
 
--   Excerpt from track #3: “ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)” [mix #2](https://www.jazzofjapan.com/archive/audio/#mix-2)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-2">}}
+-   Excerpt from track #3: [“ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)”](/audio/#mix-2)

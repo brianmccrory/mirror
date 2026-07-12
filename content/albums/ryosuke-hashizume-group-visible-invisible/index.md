@@ -44,6 +44,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐
 
 {{< youtube uY5A-3jph-o >}}
 
--   Excerpt from track #4: “Cycles” [mix #4](https://www.jazzofjapan.com/archive/audio/#mix-4)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-4">}}
+-   Excerpt from track #4: [“Cycles”](/audio/#mix-4)

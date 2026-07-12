@@ -49,6 +49,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さお
 
 {{< youtube R6vuPsUzibI >}}
 
--   Excerpt from track #2: “Choro de Tremolo” [mix #7](https://www.jazzofjapan.com/archive/audio/#mix-7)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-7">}}
+-   Excerpt from track #2: [“Choro de Tremolo”](/audio/#mix-7)

@@ -110,6 +110,4 @@ _Japanese names: 松本茜 Matsumoto Akane_
 
 {{< youtube T93GC7846UU >}}
 
--   Excerpt from track #3: “Laurentide Waltz” [mix #9](https://www.jazzofjapan.com/archive/audio/#mix-9)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-9">}}
+-   Excerpt from track #3: [“Laurentide Waltz”](/audio/#mix-9)

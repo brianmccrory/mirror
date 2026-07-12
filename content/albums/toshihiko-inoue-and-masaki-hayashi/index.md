@@ -43,6 +43,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko 林正樹 Hayashi Masaki_
 
 {{< youtube 4TJBI__ULOc >}}
 
--   Excerpt from track #2: “Goteborg” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #2: [“Goteborg”](/audio/#mix-8)

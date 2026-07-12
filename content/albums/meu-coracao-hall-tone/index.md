@@ -55,6 +55,4 @@ _Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro_
 
 {{< youtube mncD6W_Ybu0 >}}
 
--   Excerpt from track #15: “サイ・デッサ (_Sai Dessa_)” [mix #8](https://www.jazzofjapan.com/archive/audio/#mix-8)
-
-{{<audio src="https://www.jazzofjapan.com/archive/audio/#mix-8">}}
+-   Excerpt from track #15: [“サイ・デッサ (_Sai Dessa_)”](/audio/#mix-8)

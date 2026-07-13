@@ -36,6 +36,7 @@ theme = "PaperMod"
   showWordCount = false
   hideAuthor = false
   disableSpecial1stPost = true
+  ShowFullTextinRSS = true
   [params.homeInfoParams]
   Title = "Welcome to Jazz of Japan"
   Content ="""

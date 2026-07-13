@@ -6,7 +6,7 @@ keywords = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hito
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Tomomi Oda", "小田朋美", "Takayoshi Baba", "馬場孝喜", "Hikari Ichihara", "市原ひかり", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/nhorhm-new-heritage-of-real-heavy-metal/", "/p/nhorhm-new-heritage-of-real-heavy-metal/"]
+aliases = ["/p/nhorhm-new-heritage-of-real-heavy-metal/"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
   caption = ""
@@ -235,7 +235,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 -   Excerpt from track #6: [“Upper Levels”](/audio/#mix-13)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [NHORHM Information](https://nhorhm.tumblr.com/)
 

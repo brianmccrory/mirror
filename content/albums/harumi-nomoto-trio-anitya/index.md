@@ -6,7 +6,7 @@ keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belin
 tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/harumi-nomoto-trio-anitya/", "/p/harumi-nomoto-trio-anitya/"]
+aliases = ["/p/harumi-nomoto-trio-anitya/"]
 [cover]
   image = "harumi-nomoto-trio-anitya-460.jpeg"
   caption = ""

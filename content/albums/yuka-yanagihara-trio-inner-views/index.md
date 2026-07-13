@@ -6,7 +6,7 @@ keywords = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yuka-yanagihara-trio-inner-views/", "/p/yuka-yanagihara-trio-inner-views/"]
+aliases = ["/p/yuka-yanagihara-trio-inner-views/"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
   caption = ""

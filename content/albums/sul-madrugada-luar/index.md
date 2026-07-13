@@ -6,7 +6,7 @@ keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "
 tags = ["Sayaka Kishi", "岸淑香", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sul-madrugada-luar/", "/p/sul-madrugada-luar/"]
+aliases = ["/p/sul-madrugada-luar/"]
 [cover]
   image = "sul-madrugada-luar-460.jpeg"
   caption = ""

@@ -7,7 +7,7 @@ keywords = ["kanmachi-63"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/kanmachi-63/", "/p/kanmachi-63/"]
+aliases = ["/p/kanmachi-63/"]
 [cover]
   image = "IMG_20190517_213722719-1200.jpeg"
   caption = "Live jazz at Kanmachi 63 with Hitomi Nishiyama (piano), Kazumi Ikenaga (drums), and Yasuhiko “Hachi” Sato (bass) in May 2019"
@@ -39,3 +39,9 @@ Another thoughtful gesture is a benefit for non-alcohol drinkers and daytime tee
 {{< figure src="IMG_20190514_194548902-1200.jpeg" link="IMG_20190514_194548902-1200.jpeg" >}}
 
 {{< figure src="IMG_20190515_164057284-1200.jpeg" link="IMG_20190515_164057284-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Kanmachi 63’s website](http://kanmachi63.blog.fc2.com/)
+-   [Located near Kannai and Bashamichi stations in Yokohama, Japan](https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5)

@@ -6,7 +6,7 @@ keywords = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichih
 tags = ["Tokuhiro Doi", "土井徳浩", "Akihiro Nishiguchi", "西口明宏", "Yu Kuga", "陸悠", "Miki Hirose", "広瀬未来", "Takuya Kuroda", "黒田卓也", "Hirotsugu Sakemoto", "酒本廣継", "Shigetaka Ikemoto", "池本茂貴", "Jun Miyakawa", "宮川純", "Kunpei Nakabayashi", "中林薫平", "Tomo Kanno", "菅野知明"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/kunpei-nakabayashi-orchestra-circles/", "/p/kunpei-nakabayashi-orchestra-circles/"]
+aliases = ["/p/kunpei-nakabayashi-orchestra-circles/"]
 [cover]
   image = "kunpei-nakabayashi-orchestra-circles-460.jpeg"
   caption = ""

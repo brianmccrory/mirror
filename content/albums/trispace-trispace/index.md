@@ -6,7 +6,7 @@ keywords = ["trispace-trispace"]
 tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshitaka Yamashita", "山下佳孝"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/trispace-trispace/", "/p/trispace-trispace/"]
+aliases = ["/p/trispace-trispace/"]
 [cover]
   image = "trispace-trispace-460.jpeg"
   caption = ""

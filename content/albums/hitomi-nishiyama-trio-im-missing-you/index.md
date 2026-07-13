@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-i
 tags = ["Hitomi Nishiyama", "西山瞳", "Mitsuaki Hara", "原満章", "Tsutomu Kawauchi", "川内努", "Satoshi Otani", "大谷訓史", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-trio-im-missing-you/", "/p/hitomi-nishiyama-trio-im-missing-you/"]
+aliases = ["/p/hitomi-nishiyama-trio-im-missing-you/"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
   caption = ""

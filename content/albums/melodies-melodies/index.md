@@ -6,7 +6,7 @@ keywords = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torc
 tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Minyen Hsieh", "謝明諺", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/melodies-melodies/", "/p/melodies-melodies/"]
+aliases = ["/p/melodies-melodies/"]
 [cover]
   image = "melodies-melodies-460.jpeg"
   caption = ""
@@ -57,7 +57,7 @@ _Japanese names: 市野元彦 Ichino Motohiko 津上研太 Tsugami Kenta 謝明�
 -   Excerpt from track #1: [“Conversation and Confession”](/audio/#mix-13)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Album information](https://www.motohikoichino.com/melodies)
 

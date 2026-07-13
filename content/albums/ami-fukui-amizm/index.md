@@ -7,7 +7,7 @@ lastmod = 2024-04-20
 tags = ["Ami Fukui", "福井亜実", "Yoshihito “P” Koizumi", "小泉P克人", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ami-fukui-amizm/", "/p/ami-fukui-amizm/"]
+aliases = ["/p/ami-fukui-amizm/"]
 [cover]
   image = "amifukui-amizm-460.jpeg"
   caption = ""

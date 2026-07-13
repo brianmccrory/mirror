@@ -6,7 +6,7 @@ keywords = ["masako-kunisada-wonderful-life"]
 tags = ["Masako Kunisada", "国貞雅子", "Shigeru Morishita", "森下滋", "Ryo Ogihara", "荻原亮", "Shinichi Sato", "佐藤慎一", "Manabu Fujii", "藤井学"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/masako-kunisada-wonderful-life/", "/p/masako-kunisada-wonderful-life/"]
+aliases = ["/p/masako-kunisada-wonderful-life/"]
 [cover]
   image = "masakokunisada-wonderful-460.jpeg"
   caption = ""

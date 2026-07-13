@@ -6,7 +6,7 @@ keywords = ["yudo-matsuo-bonanza"]
 tags = ["Yudo Matsuo", "松尾由堂", "Junichiro Ohkuchi", "大口純一郎", "Yoshimasa Otsuka", "大塚義将", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yudo-matsuo-quartet-songs-in-motion/", "/p/yudo-matsuo-quartet-songs-in-motion/"]
+aliases = ["/p/yudo-matsuo-quartet-songs-in-motion/"]
 [cover]
   image = "yudo-matsuo-quartet-songs-in-motion-460.jpeg"
   caption = ""

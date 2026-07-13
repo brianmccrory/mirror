@@ -6,7 +6,7 @@ keywords = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-e
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/seiji-endo-piano-pieces-collection-ii/", "/p/seiji-endo-piano-pieces-collection-ii/"]
+aliases = ["/p/seiji-endo-piano-pieces-collection-ii/"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-ii-460.jpeg"
   caption = ""

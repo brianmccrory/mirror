@@ -7,7 +7,7 @@ keywords = ["ps-bar"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/ps-bar/", "/p/ps-bar/"]
+aliases = ["/p/ps-bar/"]
 [cover]
   image = "IMG_20140806_212248-1024.jpeg"
   caption = "Jazz musicians and customers crowd into the cozy P's Bar for hot jazz."
@@ -27,3 +27,9 @@ At P’s Bar, the first set typically starts or 7:20 pm, or earlier on holidays 
 Because this bar is so tiny with a very at-home feeling, it’s an excellent choice where the very reasonable cost of admission and drinks justify the up-close and personal setting. It feels like a neighborhood hangout where, if you are open to it, you can quickly bond with the other people there.
 
 {{< figure src="IMG_20140813_191253-1024.jpeg" link="IMG_20140813_191253-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [P's Bar’s website](https://psbar.net/)
+-   [Located near Ikebukuro station in Tokyo, Japan](https://goo.gl/maps/DLC2nmUgpRHJC5hj9)

@@ -6,7 +6,7 @@ keywords = ["megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"]
 tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマグチ", "Ken Kobayashi", "小林健"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/", "/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/"]
+aliases = ["/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/"]
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
   caption = ""
@@ -79,7 +79,7 @@ _Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi
 -   Excerpt from track #10: [“Nostalgio”](/audio/#mix-12)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Album introduction by NY label ESP-Disk’](http://www.espdisk.com/5023.html)
 

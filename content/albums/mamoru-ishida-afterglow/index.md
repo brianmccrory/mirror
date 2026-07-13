@@ -6,7 +6,7 @@ keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-i
 tags = ["Mamoru Ishida", "石田衛", "Ryohei Komaki", "小牧良平", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/mamoru-ishida-afterglow/", "/p/mamoru-ishida-afterglow/"]
+aliases = ["/p/mamoru-ishida-afterglow/"]
 [cover]
   image = "mamoru-ishida-afterglow-460.jpeg"
   caption = ""
@@ -111,7 +111,7 @@ _Japanese names: 石田衛 Ishida Mamoru 小牧良平 Komaki Ryohei 中村海斗
 -   Excerpt from track #2: [“チャッチャー(Chatchar)”](/audio/#mix-11)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Days of Delight record label](https://daysofdelight-music.amebaownd.com/)
 

@@ -7,7 +7,7 @@ keywords = ["thelonious"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/thelonious/", "/p/thelonious/"]
+aliases = ["/p/thelonious/"]
 [cover]
   image = "IMG_20250303_200615544-1200.jpeg"
   caption = "Mamoru Ishida (piano), Kenji Yoshitake (bass), and Minori Yagino (drums) at Thelonious in March 2025"
@@ -108,3 +108,9 @@ After the first three years, Thelonious moved to a second location nearby, opera
 {{< figure src="IMG_20240414_171219821_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 33: </span>Welcome to Thelonious (daytime)" link="IMG_20240414_171219821_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20250303_190553430-1200.jpeg" caption="<span class=\"figure-number\">Figure 34: </span>Welcome to Thelonious (nighttime)" link="IMG_20250303_190553430-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Thelonious’s website](https://thelonious-hp.jimdofree.com/)
+-   [Located near Higashi-nakano and Ochiai stations in Tokyo, Japan](https://maps.app.goo.gl/uwQm138qQ5RsMqDs6)

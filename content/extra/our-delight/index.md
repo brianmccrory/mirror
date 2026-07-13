@@ -7,7 +7,7 @@ keywords = ["our-delight"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/our-delight/", "/p/our-delight/"]
+aliases = ["/p/our-delight/"]
 [cover]
   image = "IMG_20170210_210301-1024.jpeg"
   caption = "A front-row corner table positioned right up near the on-stage drum set."
@@ -27,3 +27,9 @@ Screen monitors are also hung in various locations to show the musicians from di
 _Update: Our Delight permanently closed and reopened as [Re.Delight](https://redelight.jp/) under new management in October 2024. In April 2026, Re.Delight suddenly closed, but the venue [reopened again as Our Delight](https://ourdelight.blog.jp/archives/91315489.html) in May 2026._
 
 {{< figure src="IMG_20230304_131813809-1024.jpeg" link="IMG_20230304_131813809-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Our Delight’s website](http://ourdelight.blog.jp/)
+-   [Located near Warabi station in Saitama, Japan](https://goo.gl/maps/RubwbvnkQoVS1tGT7)

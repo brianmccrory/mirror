@@ -7,7 +7,7 @@ keywords = ["nardis"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/nardis/", "/p/nardis/"]
+aliases = ["/p/nardis/"]
 [cover]
   image = "IMG_20240325_200215138_HDR-1200.jpeg"
   caption = "JAZZ BAR   Nardis   CAFÉ"
@@ -59,3 +59,9 @@ Congratulations are also due to Nardis and Komine-san, as Nardis, having origina
 {{< figure src="IMG_20230413_220221858-1200.jpeg" caption="<span class=\"figure-number\">Figure 15: </span>Counter at Nardis" link="IMG_20230413_220221858-1200.jpeg" >}}
 
 {{< figure src="L1280363-1200.jpeg" caption="<span class=\"figure-number\">Figure 16: </span>Welcome to Nardis" link="L1280363-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Nardis’s website](http://knardis.com/)
+-   [Located near Kashiwa station in Kashiwa, Japan](https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8)

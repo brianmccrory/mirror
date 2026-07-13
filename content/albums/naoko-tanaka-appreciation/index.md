@@ -6,7 +6,7 @@ keywords = ["protean-protean", "naoko-tanaka-trio-memories", "daiki-yasukagawa-t
 tags = ["Naoko Tanaka", "田中菜緒子", "Yoshiro Okazaki", "岡崎好朗", "Takayuki Sato", "佐藤敬幸", "Mabumi Yamaguchi", "山口真文", "Koji Yasuda", "安田幸司", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/naoko-tanaka-appreciation/", "/p/naoko-tanaka-appreciation/"]
+aliases = ["/p/naoko-tanaka-appreciation/"]
 [cover]
   image = "naoko-tanaka-appreciation-460.jpeg"
   caption = ""

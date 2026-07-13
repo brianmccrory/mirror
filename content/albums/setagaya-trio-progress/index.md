@@ -6,7 +6,7 @@ keywords = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-f
 tags = ["Yusei Takahashi", "高橋佑成", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/setagaya-trio-progress/", "/p/setagaya-trio-progress/"]
+aliases = ["/p/setagaya-trio-progress/"]
 [cover]
   image = "setagaya-trio-progress-460.jpeg"
   caption = ""

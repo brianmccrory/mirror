@@ -6,7 +6,7 @@ keywords = ["layla-tomomi-sakai-island"]
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一", "Toshio Miki", "三木俊雄", "Masaru Okuyama", "奥山勝", "Satoshi Ishikawa", "石川智", "Matsumonica", "マツモニカ", "Norihito Nagasawa", "長澤紀仁"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/layla-tomomi-sakai-island/", "/p/layla-tomomi-sakai-island/"]
+aliases = ["/p/layla-tomomi-sakai-island/"]
 [cover]
   image = "laylatomomisakai-island-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-
 tags = ["Kazumi Ikenaga", "池長和美", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/kazumi-ikenaga-taihei-asakawa-nordnote/", "/p/kazumi-ikenaga-taihei-asakawa-nordnote/"]
+aliases = ["/p/kazumi-ikenaga-taihei-asakawa-nordnote/"]
 [cover]
   image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
   caption = ""
@@ -167,6 +167,6 @@ _Japanese names: 池長和美 Ikenaga Kazumi 浅川太平 Asakawa Taihei_
 -   Excerpt from track #5: [“Saenk kun dit hoved du blomst”](/audio/#mix-11)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [NordNote](https://nordnote.official.ec)

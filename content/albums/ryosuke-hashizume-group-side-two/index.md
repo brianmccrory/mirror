@@ -6,7 +6,7 @@ keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-thing
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ryosuke-hashizume-group-side-two/", "/p/ryosuke-hashizume-group-side-two/"]
+aliases = ["/p/ryosuke-hashizume-group-side-two/"]
 [cover]
   image = "ryo-hashizume-side-two-460.jpeg"
   caption = ""

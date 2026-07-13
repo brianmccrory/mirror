@@ -6,7 +6,7 @@ keywords = ["toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/toshihiko-inoue-vayu/", "/p/toshihiko-inoue-vayu/"]
+aliases = ["/p/toshihiko-inoue-vayu/"]
 [cover]
   image = "toshihikoinoue-vayu-460.jpeg"
   caption = ""

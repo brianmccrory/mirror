@@ -6,7 +6,7 @@ keywords = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie
 tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka", "田中信正", "Mayuko Katakura", "片倉真由子", "Kiichiro Komobuchi", "コモブチキイチロウ", "Yoichi Okabe", "岡部洋一"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/nobie-takayoshi-baba-owari-to-hajimari/", "/p/nobie-takayoshi-baba-owari-to-hajimari/"]
+aliases = ["/p/nobie-takayoshi-baba-owari-to-hajimari/"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
   caption = ""
@@ -124,6 +124,6 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka
 -   Excerpt from track #2: [“おわりとはじまり (_The end and the beginning_)”](/audio/#mix-12)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Owari to Hajimari website](https://www.nobiebaba.com/)

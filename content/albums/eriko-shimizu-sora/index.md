@@ -6,7 +6,7 @@ keywords = ["eriko-shimizu-sora"]
 tags = ["Eriko Shimizu", "清水絵理子", "Toshihiko Inoue", "井上淑彦", "Saori Sendo", "仙道さおり", "Kunpei Nakabayashi", "中林薫平", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/eriko-shimizu-sora/", "/p/eriko-shimizu-sora/"]
+aliases = ["/p/eriko-shimizu-sora/"]
 [cover]
   image = "erikoshimizu-sora-460.jpeg"
   caption = ""

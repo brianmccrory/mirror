@@ -6,7 +6,7 @@ keywords = ["mase-hiroko-quintet-first-contact"]
 tags = ["Hiroko Mase", "ませひろこ", "Eiji Otogawa", "音川英二", "Nobumasa Tanaka", "田中信正", "Kosuke Ochiai", "落合康介", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/mase-hiroko-quintet-first-contact/", "/p/mase-hiroko-quintet-first-contact/"]
+aliases = ["/p/mase-hiroko-quintet-first-contact/"]
 [cover]
   image = "mase-hiroko-quintet-first-contact-460.jpeg"
   caption = ""

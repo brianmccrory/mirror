@@ -6,7 +6,7 @@ keywords = ["someday"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/someday/", "/p/someday/"]
+aliases = ["/p/someday/"]
 [cover]
   image = "IMG_2354-1200.jpeg"
   caption = "Ryuichiro Tonozuka (flugelhorn) and Osamu Kawakami (bass) at Someday in December 2008"
@@ -30,3 +30,9 @@ Also, assuming that the name _Someday_ is a reference to the popular jazz standa
 _Note: Someday moved from its previous Shinjuku-Sanchome location in Jan 2025. Someday is now located near Asakusa._
 
 {{< figure src="IMG_0046-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Welcome to Someday" link="IMG_0046-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Someday’s website](http://someday.net/)
+-   [Located near Asakusa/Tawaramachi and Kuramae stations in Tokyo, Japan](https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7)

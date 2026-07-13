@@ -7,7 +7,7 @@ keywords = ["cochi"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/cochi/", "/p/cochi/"]
+aliases = ["/p/cochi/"]
 [cover]
   image = "IMG_20190614_213430448-1024.jpeg"
   caption = "The Hisatsugu Suzuki Quartet playing at Cochi in 2019"
@@ -29,3 +29,9 @@ Like other tiny spots in Tokyo, there are times when all seats at Cochi are fill
 {{< figure src="IMG_20230429_190909988-1024.jpeg" link="IMG_20230429_190909988-1024.jpeg" >}}
 
 {{< figure src="IMG_20181109_191906250_BURST001-1024.jpeg" link="IMG_20181109_191906250_BURST001-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Cochi’s website](http://www.jazz-cochi.com)
+-   [Located near Koiwa station in Tokyo, Japan](https://goo.gl/maps/p1qvVio7ZLWceChZA)

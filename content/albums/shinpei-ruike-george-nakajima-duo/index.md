@@ -6,7 +6,7 @@ keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-tou
 tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/shinpei-ruike-george-nakajima-duo/", "/p/shinpei-ruike-george-nakajima-duo/"]
+aliases = ["/p/shinpei-ruike-george-nakajima-duo/"]
 [cover]
   image = "shinpeiruike-georgenakajima-duo-460.jpeg"
   caption = ""

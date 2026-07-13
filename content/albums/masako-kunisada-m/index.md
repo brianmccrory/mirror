@@ -6,7 +6,7 @@ keywords = ["masako-kunisada-m"]
 tags = ["Masako Kunisada", "国貞雅子", "Manabu Ohishi", "大石学", "M-oto", "エムオート"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/masako-kunisada-m/", "/p/masako-kunisada-m/"]
+aliases = ["/p/masako-kunisada-m/"]
 [cover]
   image = "masakokunisada-m-460.jpeg"
   caption = ""

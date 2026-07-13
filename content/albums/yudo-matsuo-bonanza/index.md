@@ -6,7 +6,7 @@ keywords = ["yudo-matsuo-bonanza"]
 tags = ["Yudo Matsuo", "松尾由堂", "Keisuke Nakamura", "中村恵介", "Ryoji Orihara", "織原良次", "Yasushi Fukumori", "福森康", "Takeru Yamazaki", "ヤマザキタケル"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yudo-matsuo-bonanza/", "/p/yudo-matsuo-bonanza/"]
+aliases = ["/p/yudo-matsuo-bonanza/"]
 [cover]
   image = "yudomatsuo-bonanza-460.jpeg"
   caption = ""

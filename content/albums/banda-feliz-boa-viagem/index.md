@@ -6,7 +6,7 @@ keywords = ["banda-feliz-boa-viagem"]
 tags = ["Makiyo Sakai", "酒井麻生代", "Masaaki Ikeda", "池田雅明", "Kazuhiko Obata", "小畑和彦", "Minoru Kato", "加藤実", "Kiichiro Komobuchi", "コモブチキイチロウ", "Satoshi Ishikawa", "石川智"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/banda-feliz-boa-viagem/", "/p/banda-feliz-boa-viagem/"]
+aliases = ["/p/banda-feliz-boa-viagem/"]
 [cover]
   image = "banda-feliz-boa-viagem-460.jpeg"
   caption = ""

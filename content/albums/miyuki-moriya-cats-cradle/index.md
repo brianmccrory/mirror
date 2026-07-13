@@ -6,7 +6,7 @@ keywords = ["miyuki-moriya-cats-cradle"]
 tags = ["Miyuki Moriya", "守谷美由貴", "Mamoru Ishida", "石田衛", "Kohei Kamuro", "かむろ耕平", "Hiroshi Ikejiri", "池尻洋史", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/miyuki-moriya-cats-cradle/", "/p/miyuki-moriya-cats-cradle/"]
+aliases = ["/p/miyuki-moriya-cats-cradle/"]
 [cover]
   image = "miyukimoriya-cats-460.jpeg"
   caption = ""

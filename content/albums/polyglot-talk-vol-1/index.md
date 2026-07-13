@@ -6,7 +6,7 @@ keywords = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past
 tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘", "Hiroyuki Ishikawa", "石川広行"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/polyglot-talk-vol-1/", "/p/polyglot-talk-vol-1/"]
+aliases = ["/p/polyglot-talk-vol-1/"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
   caption = ""
@@ -74,6 +74,6 @@ _Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishi
 -   Excerpt from track #2: [“825”](/audio/#mix-10)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Polyglot: Talk, Vol. 1 (Steve Barry website)](https://www.stevebarrymusic.com/polyglot-talk-vol-1)

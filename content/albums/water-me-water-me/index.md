@@ -6,7 +6,7 @@ keywords = ["water-me-water-me"]
 tags = ["Ayako Taira", "平良亜矢子", "Noriko Kotani", "小谷のりこ", "Norihiko Kawakubo", "川久保典彦", "Yohei Tanaka", "田中洋平", "Tomohiro Ota", "大田智洋"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/water-me-water-me/", "/p/water-me-water-me/"]
+aliases = ["/p/water-me-water-me/"]
 [cover]
   image = "waterme-waterme-460.jpeg"
   caption = ""

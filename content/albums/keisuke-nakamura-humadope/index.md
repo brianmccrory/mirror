@@ -6,7 +6,7 @@ keywords = ["keisuke-nakamura-humadope"]
 tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Nishiguchi", "西口明宏", "Akane Matsumoto", "松本茜", "Motoi Kanamori", "金森もとい", "Yasushi Fukumori", "福森康", "Mamoru Ishida", "石田衛", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/keisuke-nakamura-humadope/", "/p/keisuke-nakamura-humadope/"]
+aliases = ["/p/keisuke-nakamura-humadope/"]
 [cover]
   image = "keisukenakamura-humadope-460.jpeg"
   caption = ""

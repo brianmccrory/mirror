@@ -6,7 +6,7 @@ keywords = ["akiko-suda-flowers-on-the-hill"]
 tags = ["Akiko Suda", "須田晶子", "Yuichi Narita", "成田祐一", "Koji Yasuda", "安田幸司", "Yu Kudo", "工藤悠", "Nao Teraya", "寺屋ナオ", "Toyomi Kobayashi", "小林豊美"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/akiko-suda-flowers-on-the-hill/", "/p/akiko-suda-flowers-on-the-hill/"]
+aliases = ["/p/akiko-suda-flowers-on-the-hill/"]
 [cover]
   image = "akikosuda-flowersonthehill-460.jpeg"
   caption = ""

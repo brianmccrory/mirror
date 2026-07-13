@@ -6,7 +6,7 @@ keywords = ["nhorhm-extra-edition"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/nhorhm-extra-edition/", "/p/nhorhm-extra-edition/"]
+aliases = ["/p/nhorhm-extra-edition/"]
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
   caption = ""
@@ -68,6 +68,6 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 -   Excerpt from track #1: [“Galaxies”](/audio/#mix-5)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [New Heritage Of Real Heavy Metal](https://nhorhm.tumblr.com/)

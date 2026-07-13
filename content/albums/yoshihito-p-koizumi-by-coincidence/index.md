@@ -6,7 +6,7 @@ keywords = ["yoshihito-p-koizumi-by-coincidence"]
 tags = ["Yoshihito “P” Koizumi", "小泉P克人", "Jun Miyakawa", "宮川純", "Kohzo Komori", "小森耕造"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yoshihito-p-koizumi-by-coincidence/", "/p/yoshihito-p-koizumi-by-coincidence/"]
+aliases = ["/p/yoshihito-p-koizumi-by-coincidence/"]
 [cover]
   image = "yoshihitopkoizumi-bycoin-460.jpeg"
   caption = ""

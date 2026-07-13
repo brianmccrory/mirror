@@ -7,7 +7,7 @@ keywords = ["koen-dori-classics"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/koen-dori-classics/", "/p/koen-dori-classics/"]
+aliases = ["/p/koen-dori-classics/"]
 [cover]
   image = "L1080597x-1200.jpeg"
   caption = "Ryoji Orihara (electric fretless bass) Group with Akemi Ohta (flute), Yuya Wakai (piano), and Manabu Hashimoto (drums) at Koen Dori Classics in 2014"
@@ -37,3 +37,11 @@ During performances, photo-taking is allowed as long as shutter sounds are muted
 {{< figure src="IMG_20240322_184059008-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Preparations before opening" link="IMG_20240322_184059008-1200.jpeg" >}}
 
 {{< figure src="IMG_20240322_191923505-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Koen Dori Classics" link="IMG_20240322_191923505-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Koen-Dori Classics’s website](http://koendoriclassics.com/)
+-   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/s5XtxuwwMhzCATwv9)
+
+_Note: Koen-Dori Classics is temporarily closed and may reopen in a new location._

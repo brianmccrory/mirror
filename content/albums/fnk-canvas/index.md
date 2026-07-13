@@ -6,7 +6,7 @@ keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
 tags = ["Fumie Chiba", "千葉史絵", "Nao Teraya", "寺屋ナオ", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/fnk-canvas/", "/p/fnk-canvas/"]
+aliases = ["/p/fnk-canvas/"]
 [cover]
   image = "fnk-canvas-460.jpeg"
   caption = ""

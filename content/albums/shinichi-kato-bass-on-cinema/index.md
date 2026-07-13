@@ -6,7 +6,7 @@ keywords = ["shinichi-kato-bass-on-cinema"]
 tags = ["Shinichi Kato", "加藤真一", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/shinichi-kato-bass-on-cinema/", "/p/shinichi-kato-bass-on-cinema/"]
+aliases = ["/p/shinichi-kato-bass-on-cinema/"]
 [cover]
   image = "shinichikato-bassoncinema-460.jpeg"
   caption = ""

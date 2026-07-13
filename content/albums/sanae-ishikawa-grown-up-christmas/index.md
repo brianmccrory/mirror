@@ -6,7 +6,7 @@ keywords = ["sanae-ishikawa-grown-up-christmas"]
 tags = ["Sanae Ishikawa", "石川早苗", "Takayoshi Baba", "馬場孝喜", "Hideaki Hori", "堀秀彰", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sanae-ishikawa-grown-up-christmas/", "/p/sanae-ishikawa-grown-up-christmas/"]
+aliases = ["/p/sanae-ishikawa-grown-up-christmas/"]
 [cover]
   image = "sanaeishikawa-grownup-460.jpeg"
   caption = ""

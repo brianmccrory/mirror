@@ -6,7 +6,7 @@ keywords = ["mayuko-katakura-faith"]
 tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/mayuko-katakura-faith/", "/p/mayuko-katakura-faith/"]
+aliases = ["/p/mayuko-katakura-faith/"]
 [cover]
   image = "mayukokatakura-faith-460.jpeg"
   caption = ""

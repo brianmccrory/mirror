@@ -6,7 +6,7 @@ keywords = ["satoshi-kosugi-bass-on-times"]
 tags = ["Satoshi Kosugi", "小杉敏", "Yoshiro Okazaki", "岡崎好朗", "Kazuhide Motooka", "元岡一英", "Shinji Hashimoto", "橋本信二", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/satoshi-kosugi-bass-on-times/", "/p/satoshi-kosugi-bass-on-times/"]
+aliases = ["/p/satoshi-kosugi-bass-on-times/"]
 [cover]
   image = "satoshikosugi-bassontimes-460.jpeg"
   caption = ""

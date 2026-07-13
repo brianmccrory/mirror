@@ -6,7 +6,7 @@ keywords = ["yukiko-hayakawa-trio-gallery"]
 tags = ["Yukiko Hayakawa", "早川由紀子", "Terumasa Nishikawa", "西川輝正", "Keiichiro Uemura", "上村計一郎"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yukiko-hayakawa-trio-gallery/", "/p/yukiko-hayakawa-trio-gallery/"]
+aliases = ["/p/yukiko-hayakawa-trio-gallery/"]
 [cover]
   image = "yukiko-hayakawa-gallery-460.jpeg"
   caption = ""

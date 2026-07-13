@@ -6,7 +6,7 @@ keywords = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hikari-ichihara-group-unity/", "/p/hikari-ichihara-group-unity/"]
+aliases = ["/p/hikari-ichihara-group-unity/"]
 [cover]
   image = "hikari-ichihara-group-unity-460.jpeg"
   caption = ""

@@ -7,7 +7,7 @@ keywords = ["donfan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/donfan/", "/p/donfan/"]
+aliases = ["/p/donfan/"]
 [cover]
   image = "P1020108-1024.jpeg"
   caption = "Jazz quartet with pianist Harumi Nomoto at Donfan in 2009"
@@ -23,3 +23,9 @@ The musicians are top-notch and depending on the performers you may be amazed at
 {{< figure src="P1080636-1024.jpeg" link="P1080636-1024.jpeg" >}}
 
 {{< figure src="P1020104-1024.jpeg" link="P1020104-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Donfan’s website](https://www.jazzdonfan.com/)
+-   [Located near Otsuka station in Tokyo, Japan](https://maps.app.goo.gl/2zZgXB5T3XnFXNSD7)

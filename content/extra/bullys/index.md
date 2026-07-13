@@ -7,7 +7,7 @@ keywords = ["bullys"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/bullys/", "/p/bullys/"]
+aliases = ["/p/bullys/"]
 [cover]
   image = "IMG_20181116_230632667x-1024.jpeg"
   caption = "Vocalist Akiko Suda performs at Bully's in 2018"
@@ -25,3 +25,11 @@ Bully’s is a great, simple place with an easy atmosphere and good music. A var
 {{< figure src="IMG_20181208_205807194-1024.jpeg" link="IMG_20181208_205807194-1024.jpeg" >}}
 
 {{< figure src="IMG_20181116_194827292_HDR-1024.jpeg" link="IMG_20181116_194827292_HDR-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Bully's’s website](http://bullys.starfree.jp/)
+-   [Located near Yotsuya Sanchome and Akebonobashi stations in Tokyo, Japan](https://goo.gl/maps/5fwPSz25CmpXSu1fA)
+
+_Note: Bully's has permanently closed._

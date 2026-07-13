@@ -6,7 +6,7 @@ keywords = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nish
 tags = ["maiko", "マイコ", "Shikou Ito", "伊藤志宏", "Yuki Ito", "伊東佑季", "Kazuma Fujimoto", "藤本一馬", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/maiko-reminiscence/", "/p/maiko-reminiscence/"]
+aliases = ["/p/maiko-reminiscence/"]
 [cover]
   image = "maiko-reminiscence-460.jpeg"
   caption = ""

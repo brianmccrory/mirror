@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympath
 tags = ["Yoko Kobayashi", "小林洋子", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/the-third-tribe-nearly-dusk/", "/p/the-third-tribe-nearly-dusk/"]
+aliases = ["/p/the-third-tribe-nearly-dusk/"]
 [cover]
   image = "the-third-tribe-nearly-dusk-460.jpeg"
   caption = ""

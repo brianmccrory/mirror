@@ -7,7 +7,7 @@ keywords = ["natural"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/natural/", "/p/natural/"]
+aliases = ["/p/natural/"]
 [cover]
   image = "L1270458-1200.jpeg"
   caption = "Seiji Endo at Natural in January 2025"
@@ -59,3 +59,9 @@ Natural’s rule on photos is like many other venues and displayed (in Japanese)
 {{< figure src="L1270455-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Hamburg plate at Natural" link="L1270455-1200.jpeg" >}}
 
 {{< figure src="L1270450-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Natural" link="L1270450-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Natural’s website](https://musicsalon-natural.jp/)
+-   [Located near Mitaka station in Tokyo, Japan](https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6)

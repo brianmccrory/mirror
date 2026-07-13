@@ -7,7 +7,7 @@ keywords = ["no-room-for-squares"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/no-room-for-squares/", "/p/no-room-for-squares/"]
+aliases = ["/p/no-room-for-squares/"]
 [cover]
   image = "IMG_20230325_233326128-1024.jpeg"
   caption = "Winding down after an energetic live jazz show at No Room for Squares."
@@ -31,3 +31,9 @@ Another sign of the creative effort put forth by No Room for Squares, the bar al
 {{< figure src="IMG_20230325_185930891x-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Welcome" link="IMG_20230325_185930891x-1024.jpeg" >}}
 
 {{< figure src="IMG_20230325_190051950-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Drink Coca-Cola in bottles" link="IMG_20230325_190051950-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [No Room for Squares’s website](https://www.nrfsbar.com/)
+-   [Located near Shimo-kitazawa station in Tokyo, Japan](https://maps.app.goo.gl/ARoF5s7kJ4kRb2v89)

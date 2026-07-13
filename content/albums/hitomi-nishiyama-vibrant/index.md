@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-vibrant"]
 tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-vibrant/", "/p/hitomi-nishiyama-vibrant/"]
+aliases = ["/p/hitomi-nishiyama-vibrant/"]
 [cover]
   image = "hitomi-nishiyama-vibrant-460.jpeg"
   caption = ""

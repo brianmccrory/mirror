@@ -6,7 +6,7 @@ keywords = ["ghost-peak-goat-on-a-peak", "melodies-melodies", "yuko-miyawaki-son
 tags = ["Taeko Kurita", "栗田妙子", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/taeko-kurita-akira-sotoyama-duo/", "/p/taeko-kurita-akira-sotoyama-duo/"]
+aliases = ["/p/taeko-kurita-akira-sotoyama-duo/"]
 [cover]
   image = "taeko-kurita-akira-sotoyama-duo-460.jpeg"
   caption = ""

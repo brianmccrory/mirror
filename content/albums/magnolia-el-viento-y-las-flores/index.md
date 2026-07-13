@@ -6,7 +6,7 @@ keywords = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views",
 tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hitomi Aikawa", "相川瞳"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/magnolia-el-viento-y-las-flores/", "/p/magnolia-el-viento-y-las-flores/"]
+aliases = ["/p/magnolia-el-viento-y-las-flores/"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
   caption = ""
@@ -84,6 +84,6 @@ _Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川
 -   Excerpt from track #3: [“Short Stories No.6”](/audio/#mix-12)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [JazzTokyo review, interview, and photos (Japanese)](https://jazztokyo.org/reviews/cd-dvd-review/post-80616/)

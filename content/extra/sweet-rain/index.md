@@ -7,7 +7,7 @@ keywords = ["sweet-rain"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/sweet-rain/", "/p/sweet-rain/"]
+aliases = ["/p/sweet-rain/"]
 [cover]
   image = "IMG_20181025_213656820_BURST000_COVER-1200.jpeg"
   caption = "Emiko Voice’s Carta Trio with Koichi Sato (piano) and Keita Okada (drums) at Sweet Rain in October 2018"
@@ -45,3 +45,9 @@ Billed as a “Nakano jazz dining bar” (Nakano is a station and district in To
 {{< figure src="IMG_20240406_202606831-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Sweet Rain Spanish-style omelette" link="IMG_20240406_202606831-1200.jpeg" >}}
 
 {{< figure src="IMG_20240406_190751457_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Sweet Rain" link="IMG_20240406_190751457_HDR-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Sweet Rain’s website](http://jazzsweetrain.com/)
+-   [Located near Nakano station in Tokyo, Japan](https://maps.app.goo.gl/Zjt2FT9kcF7taMSf6)

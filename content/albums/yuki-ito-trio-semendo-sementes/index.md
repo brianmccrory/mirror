@@ -6,7 +6,7 @@ keywords = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
 tags = ["Yuki Ito", "伊東佑季", "Yuka Yanagihara", "柳原由佳", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yuki-ito-trio-semendo-sementes/", "/p/yuki-ito-trio-semendo-sementes/"]
+aliases = ["/p/yuki-ito-trio-semendo-sementes/"]
 [cover]
   image = "yuki-ito-trio-semendo-sementes-460.jpeg"
   caption = ""

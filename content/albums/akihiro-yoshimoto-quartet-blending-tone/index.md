@@ -6,7 +6,7 @@ keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takuya Sakazaki", "坂崎拓也", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/akihiro-yoshimoto-quartet-blending-tone/", "/p/akihiro-yoshimoto-quartet-blending-tone/"]
+aliases = ["/p/akihiro-yoshimoto-quartet-blending-tone/"]
 [cover]
   image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihi
 tags = ["Shinji Miyazaki", "宮崎真司", "Natsuki Tamura", "田村夏樹", "Taeko Kurita", "栗田妙子", "Hiroaki Mizutani", "水谷浩章"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ghost-peak-goat-on-a-peak/", "/p/ghost-peak-goat-on-a-peak/"]
+aliases = ["/p/ghost-peak-goat-on-a-peak/"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
   caption = ""
@@ -65,6 +65,6 @@ _Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田
 -   Excerpt from track #2: [“A Goat Climbs A Peak”](/audio/#mix-12)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Album info](https://semwstore.base.shop/items/81158611)

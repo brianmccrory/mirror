@@ -7,7 +7,7 @@ keywords = ["bigboy"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/bigboy/", "/p/bigboy/"]
+aliases = ["/p/bigboy/"]
 [cover]
   image = "IMG_20250314_140915677-1200.jpeg"
   caption = "Bigboy’s right exterior"
@@ -66,3 +66,9 @@ There are two menus for daytime and bar time, with a two-hour gap separating the
 Recently, there appears to be an increase in visitors to Bigboy, possibly due to a general rise in tourism and the resulting number of jazz fans and tourists seeking something special and unique. Bigboy may be one of the better-known jazz cafes in mid-Tokyo, and although it’s a specialized jazz listening venue, it’s not an overly intense or deeply underground _kissa_-style jazz haunt that could be intimidating to the jazz curious. The increased audience may also be due to advertisements and business cards for Bigboy showing up at jazz-related haunts like the nearby [Disk Union “Jazz Tokyo”](https://diskunion.net/shop/ct/jazz_tokyo) near Ochanomizu Station, an excellent spot to pick up current and used offerings from Japanese jazz musicians in their J Jazz sections.
 
 {{< figure src="L1280281-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Welcome to Bigboy" link="L1280281-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Bigboy’s website](http://jazzbigboy.sakura.ne.jp/)
+-   [Located near Jimbocho station in Tokyo, Japan](https://maps.app.goo.gl/cRufi21d1DPe8eC46)

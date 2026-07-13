@@ -7,7 +7,7 @@ keywords = ["first-timers-guide-to-live-jazz-in-japan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/first-timers-guide-to-live-jazz-in-japan/", "/p/first-timers-guide-to-live-jazz-in-japan/"]
+aliases = ["/p/first-timers-guide-to-live-jazz-in-japan/"]
 [cover]
   image = "DSC_9546-1200.jpeg"
   caption = "Japanese figures in kimono look out from a bridge"

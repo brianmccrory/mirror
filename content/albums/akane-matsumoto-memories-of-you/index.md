@@ -6,7 +6,7 @@ keywords = ["akane-matsumoto-memories-of-you"]
 tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/akane-matsumoto-memories-of-you/", "/p/akane-matsumoto-memories-of-you/"]
+aliases = ["/p/akane-matsumoto-memories-of-you/"]
 [cover]
   image = "akanematsumoto-memories-460.jpeg"
   caption = ""

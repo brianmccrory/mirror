@@ -6,7 +6,7 @@ keywords = ["akane-matsumoto-night-and-day"]
 tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/akane-matsumoto-night-and-day/", "/p/akane-matsumoto-night-and-day/"]
+aliases = ["/p/akane-matsumoto-night-and-day/"]
 [cover]
   image = "akanematsumoto-night-460.jpeg"
   caption = ""

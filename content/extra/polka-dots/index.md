@@ -7,7 +7,7 @@ keywords = ["polka-dots"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/polka-dots/", "/p/polka-dots/"]
+aliases = ["/p/polka-dots/"]
 [cover]
   image = "IMG_20190521_210948036-1024.jpeg"
   caption = "Saxophonist Kunikazu Tanaka and pianist Sayaka Kishi performing at Polka Dots in 2019."
@@ -25,3 +25,9 @@ With a small and friendly shop like this, it is easy to get to mingle with the m
 {{< figure src="IMG_20230308_190409381-1024.jpeg" link="IMG_20230308_190409381-1024.jpeg" >}}
 
 {{< figure src="IMG_20190521_191530506-1024.jpeg" link="IMG_20190521_191530506-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Polka Dots’s website](http://www.jazz-polkadots.com/)
+-   [Located near Shinjuku-sanchome station in Tokyo, Japan](https://goo.gl/maps/rv5vBeoQ3iQbW7Rx8)

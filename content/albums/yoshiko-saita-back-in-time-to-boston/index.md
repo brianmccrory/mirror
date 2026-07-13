@@ -6,7 +6,7 @@ keywords = ["yoshiko-saita-back-in-time-to-boston"]
 tags = ["Yoshiko Saita", "斉田佳子", "Kenny Werner", "Grégoire Maret"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yoshiko-saita-back-in-time-to-boston/", "/p/yoshiko-saita-back-in-time-to-boston/"]
+aliases = ["/p/yoshiko-saita-back-in-time-to-boston/"]
 [cover]
   image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
   caption = ""

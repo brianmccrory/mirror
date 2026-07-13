@@ -7,7 +7,7 @@ keywords = ["bon-courage"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/bon-courage/", "/p/bon-courage/"]
+aliases = ["/p/bon-courage/"]
 [cover]
   image = "L1230211-1024.jpeg"
   caption = "Ami Fukui on piano and Fumika Asari on guitar at Bon Courage in 2023"
@@ -49,3 +49,9 @@ However, at Bon Courage, “photo time” begins for the encore or last song of 
 _Note: Bon Courage moved to a new location near Yotsuya station in January 2026._
 
 {{< figure src="L1240459-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Welcome to Bon Courage" link="L1240459-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Bon Courage’s website](https://bon-courage.tokyo/)
+-   [Located near Yotsuya station in Tokyo, Japan](https://maps.app.goo.gl/JBEjhHP82RqaDjZV6)

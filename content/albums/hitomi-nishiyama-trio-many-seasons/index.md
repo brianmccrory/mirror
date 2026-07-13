@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-many-seasons"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-trio-many-seasons/", "/p/hitomi-nishiyama-trio-many-seasons/"]
+aliases = ["/p/hitomi-nishiyama-trio-many-seasons/"]
 [cover]
   image = "hitominishiyama-manyseasons-460.jpeg"
   caption = ""

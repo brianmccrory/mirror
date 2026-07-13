@@ -7,7 +7,7 @@ keywords = ["all-of-me"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/all-of-me/", "/p/all-of-me/"]
+aliases = ["/p/all-of-me/"]
 [cover]
   image = "L1000733-1024.jpeg"
   caption = "A night of jazz standards at All of Me in 2012."
@@ -19,3 +19,9 @@ All of Me is a classy and dependable jazz joint in rowdy Roppongi. Many live sho
 This bar is also famous for all-night live shows and jam sessions on selected Fridays and Saturdays, starting just after midnight until about 3:00 am. Check the schedule for details.
 
 {{< figure src="L1040378-1024.jpeg" link="L1040378-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [All of Me’s website](https://allofmeclub.net/)
+-   [Located near Roppongi and Nogizaka stations in Tokyo, Japan](https://goo.gl/maps/qXRVNNMVGG2jv1aS6)

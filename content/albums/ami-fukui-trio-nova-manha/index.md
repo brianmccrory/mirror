@@ -6,7 +6,7 @@ keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-n
 tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ami-fukui-trio-nova-manha/", "/p/ami-fukui-trio-nova-manha/"]
+aliases = ["/p/ami-fukui-trio-nova-manha/"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
   caption = ""
@@ -139,6 +139,6 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 -   Excerpt from track #6: [“Hommage”](/audio/#mix-10)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Online yoga lessons link provided by Ami Fukui](https://mosh.jp/services/93414)

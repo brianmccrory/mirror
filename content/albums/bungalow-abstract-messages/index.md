@@ -6,7 +6,7 @@ keywords = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unsee
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Ko Omura", "大村亘", "Isabeau Hansen", "Gordon Richter"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/bungalow-abstract-messages/", "/p/bungalow-abstract-messages/"]
+aliases = ["/p/bungalow-abstract-messages/"]
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
   caption = ""

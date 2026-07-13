@@ -6,7 +6,7 @@ keywords = ["sayaka-kishi-trio-life-is-too-great"]
 tags = ["Sayaka Kishi", "岸淑香", "Ryoji Orihara", "織原良次", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sayaka-kishi-trio-life-is-too-great/", "/p/sayaka-kishi-trio-life-is-too-great/"]
+aliases = ["/p/sayaka-kishi-trio-life-is-too-great/"]
 [cover]
   image = "sayakakishi-lifeis-460.jpeg"
   caption = ""

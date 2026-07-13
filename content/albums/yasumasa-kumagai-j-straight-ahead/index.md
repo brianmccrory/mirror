@@ -7,7 +7,7 @@ lastmod = 2025-09-20
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Yosuke Inoue", "井上陽介", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yasumasa-kumagai-j-straight-ahead/", "/p/yasumasa-kumagai-j-straight-ahead/"]
+aliases = ["/p/yasumasa-kumagai-j-straight-ahead/"]
 [cover]
   image = "yasumasakumagai-jstraightahead-460.jpeg"
   caption = ""

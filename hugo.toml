@@ -10,8 +10,8 @@ theme = "PaperMod"
   
 [permalinks]
 [permalinks.page]
-  albums = "/:slug/"
-  extra = "/:slug/"
+  albums = "/archive/:slug/" # to maintain buttondown urls for now
+  extra = "/archive/:slug/" # to maintain buttondown urls for now
 #  clubs = "/club/:slug/"
 #  guides = "/club/:slug/"
 #  blog = '/blog/:year/:month/:slug/' # for the "behind the scenes" posts
@@ -30,13 +30,19 @@ theme = "PaperMod"
   description = 'Introducing modern-day jazz of Japan through albums, musicians, and clubs'
   defaultTheme = "auto"
   disableThemeToggle = true
-#  mainSections = ["albums"]
   mainSections = ["albums", "extra"]
 #  mainSections = ["albums", "clubs", "guides"]
   showReadingTime = false
   showWordCount = false
   hideAuthor = false
   disableSpecial1stPost = true
+  [params.homeInfoParams]
+  Title = "Welcome to Jazz of Japan"
+  Content ="""
+This is an experimental mirror site for <a href="https://www.jazzofjapan.com">Jazz of Japan</a>. The latest articles are shown below, and you can use the links in the menu above to dig into the archives. You can subscribe to <a href="https://buttondown.com/jazzofjapan">newsletter</a> by entering your email here:
+{{< subscribe-form >}}
+"""
+
   [params.footer]
     text = 'Since 2018 · <a href="/index.xml">RSS feed</a>'
   [params.cover]
@@ -102,12 +108,12 @@ theme = "PaperMod"
   url = "/archive/"
   weight = 5
 [[menu.main]]
-  name = "Search"
-  url = "/search/"
-  weight = 6
-[[menu.main]]
   name = "About"
   url = "/about/"
+  weight = 6
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
   weight = 7
 [[menu.main]]
   name = "Subscribe"

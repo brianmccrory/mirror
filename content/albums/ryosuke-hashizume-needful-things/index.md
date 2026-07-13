@@ -6,7 +6,7 @@ keywords = ["ryosuke-hashizume-needful-things"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Takumi Seino", "清野拓巳", "Masako Hamamura", "浜村昌子", "Yasutaka Yorozu", "萬恭隆"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ryosuke-hashizume-needful-things/", "/p/ryosuke-hashizume-needful-things/"]
+aliases = ["/p/ryosuke-hashizume-needful-things/"]
 [cover]
   image = "ryosukehashizume-needfulthings-460.jpeg"
   caption = ""

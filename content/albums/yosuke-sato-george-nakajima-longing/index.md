@@ -6,7 +6,7 @@ keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-tou
 tags = ["Yosuke Sato", "佐藤洋祐", "George Nakajima", "中嶋錠二", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yosuke-sato-george-nakajima-longing/", "/p/yosuke-sato-george-nakajima-longing/"]
+aliases = ["/p/yosuke-sato-george-nakajima-longing/"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
   caption = ""

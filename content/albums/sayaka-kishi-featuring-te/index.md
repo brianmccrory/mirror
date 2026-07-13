@@ -6,7 +6,7 @@ keywords = ["sayaka-kishi-featuring-te"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sayaka-kishi-featuring-te/", "/p/sayaka-kishi-featuring-te/"]
+aliases = ["/p/sayaka-kishi-featuring-te/"]
 [cover]
   image = "sayakakishi-featte-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["emiko-voice-x-suga-dairo-phase-2"]
 tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロー"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/emiko-voice-x-suga-dairo-phase-2/", "/p/emiko-voice-x-suga-dairo-phase-2/"]
+aliases = ["/p/emiko-voice-x-suga-dairo-phase-2/"]
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
   caption = ""

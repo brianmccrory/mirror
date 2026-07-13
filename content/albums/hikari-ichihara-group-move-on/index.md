@@ -6,7 +6,7 @@ keywords = ["hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hikari-ichihara-group-move-on/", "/p/hikari-ichihara-group-move-on/"]
+aliases = ["/p/hikari-ichihara-group-move-on/"]
 [cover]
   image = "hikariichihara-moveon-460.jpeg"
   caption = ""

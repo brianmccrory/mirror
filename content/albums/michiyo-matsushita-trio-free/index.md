@@ -6,7 +6,7 @@ keywords = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-f
 tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/michiyo-matsushita-trio-free/", "/p/michiyo-matsushita-trio-free/"]
+aliases = ["/p/michiyo-matsushita-trio-free/"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
   caption = ""
@@ -92,7 +92,7 @@ _Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤�
 -   Excerpt from track #1: [“La Tierra”](/audio/#mix-13)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Disk Union shop](https://diskunion.net/jazz/ct/detail/1008903294)
 

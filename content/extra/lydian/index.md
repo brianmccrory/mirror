@@ -7,7 +7,7 @@ keywords = ["lydian"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/lydian/", "/p/lydian/"]
+aliases = ["/p/lydian/"]
 [cover]
   image = "left-right-crop-2048.jpeg"
   caption = "The Nami Kano Quartet at Lydian in 2017"
@@ -41,7 +41,15 @@ As for the mysterious-sounding name Lydian, jazz musicians will likely recognize
 {{< figure src="IMG_20170816_190519-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Lydian" link="IMG_20170816_190519-1024.jpeg" >}}
 
 
-## Other Links {#other-links}
+## Information {#information}
+
+-   [Lydian’s website](http://jazzlydian.com/)
+-   [Located near Ogawamachi and Awajicho stations in Tokyo, Japan](https://maps.app.goo.gl/M2WPY32A5h91Yfvg6)
+
+_Note: Lydian has permanently closed._
+
+
+## Links {#links}
 
 -   [Archived website snapshots](https://web.archive.org/web/20220525202735/http://jazzlydian.com/index.html)
 

@@ -6,7 +6,7 @@ keywords = ["bungalow-metropolitan-oasis"]
 tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/bungalow-metropolitan-oasis/", "/p/bungalow-metropolitan-oasis/"]
+aliases = ["/p/bungalow-metropolitan-oasis/"]
 [cover]
   image = "bungalow-metropolitan-460.jpeg"
   caption = ""

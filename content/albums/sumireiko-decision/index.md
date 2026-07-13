@@ -6,7 +6,7 @@ keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi
 tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sumireiko-decision/", "/p/sumireiko-decision/"]
+aliases = ["/p/sumireiko-decision/"]
 [cover]
   image = "sumireiko-decision-460.jpeg"
   caption = ""

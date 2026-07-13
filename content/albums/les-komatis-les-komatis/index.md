@@ -6,7 +6,7 @@ keywords = ["les-komatis-les-komatis"]
 tags = ["Nobie", "ノビー", "Akemi Ohta", "太田朱美", "Mayuko Katakura", "片倉真由子", "Nobumasa Yamada", "山田ノブマサ"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/les-komatis-les-komatis/", "/p/les-komatis-les-komatis/"]
+aliases = ["/p/les-komatis-les-komatis/"]
 [cover]
   image = "leskomatis-leskomatis-460.jpeg"
   caption = ""

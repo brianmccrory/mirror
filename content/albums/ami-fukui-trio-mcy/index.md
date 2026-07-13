@@ -6,7 +6,7 @@ keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-n
 tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太", "Kouki"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ami-fukui-trio-mcy/", "/p/ami-fukui-trio-mcy/"]
+aliases = ["/p/ami-fukui-trio-mcy/"]
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
   caption = ""

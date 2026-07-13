@@ -6,7 +6,7 @@ keywords = ["koichi-sato-embryo"]
 tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/shinya-fukumori-trio-for-2-akis/", "/p/shinya-fukumori-trio-for-2-akis/"]
+aliases = ["/p/shinya-fukumori-trio-for-2-akis/"]
 [cover]
   image = "shinya-fukumori-trio-for-2-akis-460.jpeg"
   caption = ""
@@ -68,7 +68,7 @@ _Japanese names: 福盛進也 Fukumori Shinya_
 -   Excerpt from track #3: [“Ai San San”](/audio/#mix-13)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [ECM Records](https://ecmrecords.com/product/for-2-akis-shinya-fukumori-trio/)
 

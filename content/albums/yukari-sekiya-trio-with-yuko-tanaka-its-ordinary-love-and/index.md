@@ -6,7 +6,7 @@ keywords = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takas
 tags = ["Yukari Sekiya", "関谷友加里", "Yuko Tanaka", "田中ゆうこ", "Michihiro Morisada", "森定道広", "Tatsuya Hashimoto", "橋本達哉"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/", "/p/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/"]
+aliases = ["/p/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/"]
 [cover]
   image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
   caption = ""

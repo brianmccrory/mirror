@@ -7,7 +7,7 @@ keywords = ["naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/naru/", "/p/naru/"]
+aliases = ["/p/naru/"]
 [cover]
   image = "IMG_4184-1200.jpeg"
   caption = "Fumio Karashima (piano) and Ryu Kawamura (bass) at Naru in May 2007 # shows NARU sign"
@@ -57,3 +57,9 @@ While at Naru, you may also notice the manager Hiro-san, a tall, besuited man wh
 {{< figure src="IMG_20240307_190804069_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Reaching Naru" link="IMG_20240307_190804069_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20240307_190816699_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Naru" link="IMG_20240307_190816699_HDR-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Naru’s website](http://ocha-naru.com/)
+-   [Located near Ochanomizu station in Tokyo, Japan](https://maps.app.goo.gl/kPfEyFtbnvdbD1sS7)

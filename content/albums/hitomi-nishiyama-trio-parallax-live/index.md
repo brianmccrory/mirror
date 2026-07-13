@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-parallax-live"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Takuya Sakazaki", "坂崎拓也", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-trio-parallax-live/", "/p/hitomi-nishiyama-trio-parallax-live/"]
+aliases = ["/p/hitomi-nishiyama-trio-parallax-live/"]
 [cover]
   image = "hitominishiyama-parallax-live-460.jpeg"
   caption = ""

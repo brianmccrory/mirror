@@ -6,7 +6,7 @@ keywords = ["whats-j-jazz"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/whats-j-jazz/", "/p/whats-j-jazz/"]
+aliases = ["/p/whats-j-jazz/"]
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
   caption = "Japanese jazz magazines and coffee"

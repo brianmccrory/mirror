@@ -6,7 +6,7 @@ keywords = ["fumio-karashima-trio-its-just-beginning"]
 tags = ["Fumio Karashima", "辛島文雄", "Yosuke Inoue", "井上陽介", "Shingo Okudaira", "奥平慎吾"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/fumio-karashima-trio-its-just-beginning/", "/p/fumio-karashima-trio-its-just-beginning/"]
+aliases = ["/p/fumio-karashima-trio-its-just-beginning/"]
 [cover]
   image = "fumiokarashima-beginning-460.jpeg"
   caption = ""

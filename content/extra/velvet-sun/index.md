@@ -7,7 +7,7 @@ keywords = ["velvet-sun"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/velvet-sun/", "/p/velvet-sun/"]
+aliases = ["/p/velvet-sun/"]
 [cover]
   image = "L1240615-1200.jpeg"
   caption = "Stage area at Velvet Sun"
@@ -57,3 +57,9 @@ There is usually a nice discount offered if an online reservation was made at le
 {{< figure src="L1270613-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Trees’ life at Velvet Sun" link="L1270613-1200.jpeg" >}}
 
 {{< figure src="IMG_20240510_204408861_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Velvet Sun" link="IMG_20240510_204408861_HDR-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Velvet Sun’s website](http://www.velvetsun.jp/)
+-   [Located near Ogikubo and Asagaya stations in Tokyo, Japan](https://maps.app.goo.gl/AVGAMKrjVta4HitX9)

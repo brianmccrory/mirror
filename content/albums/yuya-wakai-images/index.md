@@ -6,7 +6,7 @@ keywords = ["yuya-wakai-images"]
 tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/yuya-wakai-images/", "/p/yuya-wakai-images/"]
+aliases = ["/p/yuya-wakai-images/"]
 [cover]
   image = "yuyawakai-images-460.jpeg"
   caption = ""

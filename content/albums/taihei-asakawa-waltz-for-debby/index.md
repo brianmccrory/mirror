@@ -6,7 +6,7 @@ keywords = ["taihei-asakawa-waltz-for-debby"]
 tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/taihei-asakawa-waltz-for-debby/", "/p/taihei-asakawa-waltz-for-debby/"]
+aliases = ["/p/taihei-asakawa-waltz-for-debby/"]
 [cover]
   image = "taiheiasakawa-waltz-460.jpeg"
   caption = ""

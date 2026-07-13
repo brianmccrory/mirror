@@ -6,7 +6,7 @@ keywords = ["meu-coracao-a-tempo"]
 tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎", "Ken'ichiro Shinzawa", "新澤健一郎", "Cokky", "コッキー", "Kiyotaka Kuroda", "黒田清高", "Yasuhiro Yoshigaki", "芳垣安洋"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/meu-coracao-a-tempo/", "/p/meu-coracao-a-tempo/"]
+aliases = ["/p/meu-coracao-a-tempo/"]
 [cover]
   image = "meucoracao-atempo-460.jpeg"
   caption = ""

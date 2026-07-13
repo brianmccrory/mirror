@@ -6,7 +6,7 @@ keywords = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-n
 tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/", "/p/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/"]
+aliases = ["/p/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
   caption = ""

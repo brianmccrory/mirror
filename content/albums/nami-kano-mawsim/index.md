@@ -6,7 +6,7 @@ keywords = ["jabuticaba-jabuticaba"]
 tags = ["Nami Kano", "加納奈実", "Tomokazu Sugimoto", "杉本智和", "Mamoru Ishida", "石田衛", "Sota Kira", "吉良創太", "maiko", "マイコ", "Orie Hirayama", "平山織絵", "Shoko Mochiyama", "持山翔子"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/nami-kano-mawsim/", "/p/nami-kano-mawsim/"]
+aliases = ["/p/nami-kano-mawsim/"]
 [cover]
   image = "nami-kano-mawsim-460.jpeg"
   caption = ""

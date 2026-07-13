@@ -6,7 +6,7 @@ keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-tri
 tags = ["Chihiro Yamanaka", "山中千尋", "Vicente Archer", "Kendrick Scott"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/chihiro-yamanaka-abyss/", "/p/chihiro-yamanaka-abyss/"]
+aliases = ["/p/chihiro-yamanaka-abyss/"]
 [cover]
   image = "chihiro-yamanaka-abyss-460.jpeg"
   caption = ""

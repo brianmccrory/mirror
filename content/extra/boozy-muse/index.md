@@ -7,7 +7,7 @@ keywords = ["boozy-muse"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/boozy-muse/", "/p/boozy-muse/"]
+aliases = ["/p/boozy-muse/"]
 [cover]
   image = "L1050863-1024.jpeg"
   caption = "Vocalist Ami Hirai singing at Boozy Muse in 2013"
@@ -29,3 +29,11 @@ On special occasions such as CD release anniversary celebrations and similar eve
 {{< figure src="L1150539-1024.jpeg" link="L1150539-1024.jpeg" >}}
 
 {{< figure src="P1040711-1024.jpeg" link="P1040711-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Boozy Muse’s website](https://www.boozy-muse.com/)
+-   [Located near Okubo and Shin-okubo stations in Tokyo, Japan](https://goo.gl/maps/eY1SMnyxKtPzqR1CA)
+
+_Note: Boozy Muse has permanently closed._

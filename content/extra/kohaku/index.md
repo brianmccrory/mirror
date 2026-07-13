@@ -7,7 +7,7 @@ keywords = ["kohaku"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/kohaku/", "/p/kohaku/"]
+aliases = ["/p/kohaku/"]
 [cover]
   image = "IMG_20230405_200313739-1024.jpeg"
   caption = "The Joe Rosenberg Trio with Kosuke Ochiai and Ko Omura in 2023"
@@ -29,3 +29,9 @@ Battling the party atmosphere that may carry in from the environment, a good rem
 Kohaku’s menu lists beers, whisky, custom sangria drinks, and original blend coffee that is a nod to the space’s former cafe business using Udagawa coffee beans. For those split between caffeine and alcohol, there is a tempting homemade coffee shochu on the menu. There are also some food offerings, including a special year-round _oden_ set.
 
 {{< figure src="IMG_20230405_195654613x-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Welcome to Kohaku" link="IMG_20230405_195654613x-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Kohaku’s website](https://www.udagawacafe.com/kohaku/)
+-   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9)

@@ -7,7 +7,7 @@ keywords = ["organ-jazz-club-abecafe"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/organ-jazz-club-abecafe/", "/p/organ-jazz-club-abecafe/"]
+aliases = ["/p/organ-jazz-club-abecafe/"]
 [cover]
   image = "IMG_20251004_203751695_HDR-1200.jpeg"
   caption = "Daisuke Kawai on organ Otsuki Hidenobu Kalta Otsuki on drums at Organ Jazz Club Abecafe in 2025"
@@ -47,3 +47,9 @@ Jazz organ is the name of the game here, yet on certain nights, the organ rests 
 {{< figure src="IMG_20251004_190549970-1200.jpeg" caption="<span class=\"figure-number\">Figure 11: </span>Organ Jazz Club Abecafe, open, welcome" link="IMG_20251004_190549970-1200.jpeg" >}}
 
 {{< figure src="IMG_20251004_204004569_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Welcome to Organ Jazz Club Abecafe" link="IMG_20251004_204004569_HDRx-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Organ Jazz Club Abecafe’s website](https://ojcabecafe.jimdofree.com/)
+-   [Located near Numabukuro station in Tokyo, Japan](https://maps.app.goo.gl/e8juDsiGhmfmaZVq6)

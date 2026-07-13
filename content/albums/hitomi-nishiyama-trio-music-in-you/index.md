@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-music-in-you"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-trio-music-in-you/", "/p/hitomi-nishiyama-trio-music-in-you/"]
+aliases = ["/p/hitomi-nishiyama-trio-music-in-you/"]
 [cover]
   image = "hitominishiyama-musicinyou-460.jpeg"
   caption = ""
@@ -53,7 +53,7 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 -   Excerpt from track #4: [“Unfolding Universe”](/audio/#mix-2)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Thread sculpture (used as cover art) by Akiko Ikeuchi](http://akikoikeuchi.silk.to/)
 

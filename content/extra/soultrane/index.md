@@ -7,7 +7,7 @@ keywords = ["soultrane"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/soultrane/", "/p/soultrane/"]
+aliases = ["/p/soultrane/"]
 [cover]
   image = "L1170949x-1024.jpeg"
   caption = "A friendly jazz jam at Soultrane in 2017"
@@ -27,3 +27,9 @@ As for the stage area, a baby grand piano, double bass, and drum set stand up ag
 With a capacity for perhaps 20 to 30 people, Soultrane provides a friendly and easygoing atmosphere for catching local jazz musicians. Ambitious amateur jazz players may even choose to join the frequent open jazz jam sessions which cost around 2500 to 3000 yen.
 
 {{< figure src="IMG_20170916_142635x-1024.jpeg" link="IMG_20170916_142635x-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Soultrane’s website](https://soultrane.jp/)
+-   [Located near Asakusa station in Tokyo, Japan](https://goo.gl/maps/FetvnRf2yCTkUQez7)

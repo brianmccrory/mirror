@@ -7,7 +7,7 @@ keywords = ["knuttel-house"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/knuttel-house/", "/p/knuttel-house/"]
+aliases = ["/p/knuttel-house/"]
 [cover]
   image = "IMG_20230319_154246554-1024.jpeg"
   caption = "Tetsuji Yoshida and Mikiko Nagatake performing at Knuttel House in March 2023"
@@ -25,3 +25,9 @@ The space is simply furnished with about a dozen chairs spread around some table
 {{< figure src="L1230401-1024.jpeg" link="L1230401-1024.jpeg" >}}
 
 {{< figure src="IMG_20230319_142038918_HDR-1024.jpeg" link="IMG_20230319_142038918_HDR-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Knuttel House’s website](https://knuttelhouse.com/)
+-   [Located near Asakusa and Iriya stations in Tokyo, Japan](https://goo.gl/maps/QT7k3i5WPeHH8ndP9)

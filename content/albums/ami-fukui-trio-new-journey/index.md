@@ -6,7 +6,7 @@ keywords = ["ami-fukui-trio-new-journey"]
 tags = ["Ami Fukui", "福井亜実", "Show Kudo", "工藤精", "Yasushi Fukumori", "福森康", "Akiko Suda", "須田晶子"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ami-fukui-trio-new-journey/", "/p/ami-fukui-trio-new-journey/"]
+aliases = ["/p/ami-fukui-trio-new-journey/"]
 [cover]
   image = "amifukui-newjourney-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["miwo-tranquillo"]
 tags = ["MIWO", "Mamoru Ishida", "石田衛", "Daiki Yasukagawa", "安ヵ川大樹", "Akira Sekine", "関根彰良"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/miwo-tranquillo/", "/p/miwo-tranquillo/"]
+aliases = ["/p/miwo-tranquillo/"]
 [cover]
   image = "miwo-tranquillo-460.jpeg"
   caption = ""

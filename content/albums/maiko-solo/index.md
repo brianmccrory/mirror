@@ -6,7 +6,7 @@ keywords = ["maiko-solo"]
 tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/maiko-solo/", "/p/maiko-solo/"]
+aliases = ["/p/maiko-solo/"]
 [cover]
   image = "maiko-solo-460.jpeg"
   caption = ""

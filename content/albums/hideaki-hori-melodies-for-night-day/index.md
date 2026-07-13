@@ -6,7 +6,7 @@ keywords = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-ho
 tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hideaki-hori-melodies-for-night-day/", "/p/hideaki-hori-melodies-for-night-day/"]
+aliases = ["/p/hideaki-hori-melodies-for-night-day/"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
   caption = ""

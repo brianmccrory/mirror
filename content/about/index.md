@@ -23,7 +23,7 @@ In addition to albums, in some articles I also explore the world of Japanese jaz
 
 By subscribing to the newsletter, you won’t have to worry about missing anything. Each new edition goes directly to your inbox, and you can unsubscribe or resubscribe easily at any time.
 
-<iframe scrolling="no" style="width: 100% !important; height: 220px; border: 1px #ccc solid !important;" src="https://buttondown.com/jazzofjapan?as_embed=true"></iframe>
+{{< subscribe-form >}}
 
 ---
 

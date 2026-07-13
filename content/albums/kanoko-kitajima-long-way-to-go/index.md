@@ -6,7 +6,7 @@ keywords = ["fumika-asari-introducin"]
 tags = ["Kanoko Kitajima", "北島佳乃子", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/kanoko-kitajima-long-way-to-go/", "/p/kanoko-kitajima-long-way-to-go/"]
+aliases = ["/p/kanoko-kitajima-long-way-to-go/"]
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
   caption = ""

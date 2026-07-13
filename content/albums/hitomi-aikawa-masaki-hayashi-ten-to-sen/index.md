@@ -6,7 +6,7 @@ keywords = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-a
 tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-aikawa-masaki-hayashi-ten-to-sen/", "/p/hitomi-aikawa-masaki-hayashi-ten-to-sen/"]
+aliases = ["/p/hitomi-aikawa-masaki-hayashi-ten-to-sen/"]
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
   caption = ""

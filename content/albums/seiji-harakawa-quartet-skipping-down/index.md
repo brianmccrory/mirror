@@ -6,7 +6,7 @@ keywords = ["seiji-harakawa-quartet-skipping-down"]
 tags = ["Seiji Harakawa", "原川誠司", "Hiroyuki Takubo", "田窪寛之", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/seiji-harakawa-quartet-skipping-down/", "/p/seiji-harakawa-quartet-skipping-down/"]
+aliases = ["/p/seiji-harakawa-quartet-skipping-down/"]
 [cover]
   image = "seiji-harakawa-skipping-down-460.jpeg"
   caption = ""

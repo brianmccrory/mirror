@@ -6,7 +6,7 @@ keywords = ["miki-hayama-prelude-to-a-kiss"]
 tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Eric McPherson"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/miki-hayama-prelude-to-a-kiss/", "/p/miki-hayama-prelude-to-a-kiss/"]
+aliases = ["/p/miki-hayama-prelude-to-a-kiss/"]
 [cover]
   image = "mikihayama-prelude-460.jpeg"
   caption = ""

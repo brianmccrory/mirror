@@ -6,7 +6,7 @@ keywords = ["daiki-yasukagawa-trio-kanmai"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/daiki-yasukagawa-trio-kanmai/", "/p/daiki-yasukagawa-trio-kanmai/"]
+aliases = ["/p/daiki-yasukagawa-trio-kanmai/"]
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
   caption = ""

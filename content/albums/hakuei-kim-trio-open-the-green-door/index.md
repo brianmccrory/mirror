@@ -6,7 +6,7 @@ keywords = ["hakuei-kim-trio-open-the-green-door"]
 tags = ["Hakuei Kim", "ハクエイ・キム", "Ben “Donny” Waples", "Dave Goodman"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hakuei-kim-trio-open-the-green-door/", "/p/hakuei-kim-trio-open-the-green-door/"]
+aliases = ["/p/hakuei-kim-trio-open-the-green-door/"]
 [cover]
   image = "hakueikim-open-460.jpeg"
   caption = ""

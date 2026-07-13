@@ -6,7 +6,7 @@ keywords = ["azumi-almost-like-being-in-love", "naoko-akimoto-no-one-else", "yak
 tags = ["Asuka Watanabe", "渡辺明日香", "Hideaki Yoshioka", "吉岡秀晃", "Koji Yamashita", "山下弘治", "Yoshitaka Uematsu", "植松良高"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/asuka-watanabe-unaffected/", "/p/asuka-watanabe-unaffected/"]
+aliases = ["/p/asuka-watanabe-unaffected/"]
 [cover]
   image = "asuka-watanabe-unaffected-460.jpeg"
   caption = ""

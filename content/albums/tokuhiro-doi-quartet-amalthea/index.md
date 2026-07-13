@@ -6,7 +6,7 @@ keywords = ["tokuhiro-doi-quartet-amalthea"]
 tags = ["Tokuhiro Doi", "土井徳浩", "Koichi Sato", "佐藤浩一", "Yuhei Honkawa", "本川悠平", "Tomoyuki Konno", "紺野智之"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/tokuhiro-doi-quartet-amalthea/", "/p/tokuhiro-doi-quartet-amalthea/"]
+aliases = ["/p/tokuhiro-doi-quartet-amalthea/"]
 [cover]
   image = "tokuhirodoi-amalthea-460.jpeg"
   caption = ""

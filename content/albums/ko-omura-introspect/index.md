@@ -6,7 +6,7 @@ keywords = ["ko-omura-introspect"]
 tags = ["Hakuei Kim", "ハクエイ・キム", "Koichi Sato", "佐藤浩一", "Mamoru Ishida", "石田衛", "Koji Yasuda", "安田幸司", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/ko-omura-introspect/", "/p/ko-omura-introspect/"]
+aliases = ["/p/ko-omura-introspect/"]
 [cover]
   image = "koomura-introspect-460.jpeg"
   caption = ""

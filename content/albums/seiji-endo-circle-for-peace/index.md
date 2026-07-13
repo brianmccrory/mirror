@@ -6,7 +6,7 @@ keywords = ["seiji-endo-circle-for-peace"]
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/seiji-endo-circle-for-peace/", "/p/seiji-endo-circle-for-peace/"]
+aliases = ["/p/seiji-endo-circle-for-peace/"]
 [cover]
   image = "seijiendo-circle-460.jpeg"
   caption = ""

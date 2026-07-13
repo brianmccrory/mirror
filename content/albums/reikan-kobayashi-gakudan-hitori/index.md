@@ -6,7 +6,7 @@ keywords = ["reikan-kobayashi-gakudan-hitori"]
 tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/reikan-kobayashi-gakudan-hitori/", "/p/reikan-kobayashi-gakudan-hitori/"]
+aliases = ["/p/reikan-kobayashi-gakudan-hitori/"]
 [cover]
   image = "reikankobayashi-gakudan-460.jpeg"
   caption = ""

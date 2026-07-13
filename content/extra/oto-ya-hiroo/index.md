@@ -7,7 +7,7 @@ keywords = ["oto-ya-hiroo"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/oto-ya-hiroo/", "/p/oto-ya-hiroo/"]
+aliases = ["/p/oto-ya-hiroo/"]
 [cover]
   image = "L1270548x-1200.jpeg"
   caption = "Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025"
@@ -45,3 +45,9 @@ For a completely different setting than the atmosphere of dark and smoky jazz ba
 {{< figure src="L1270554-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Oto-ya Hiroo schedule board for January 2025" link="L1270554-1200.jpeg" >}}
 
 {{< figure src="IMG_20250119_152626777-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Oto-ya Hiroo" link="IMG_20250119_152626777-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Oto-ya Hiroo’s website](http://hiroo-plaza.com/event/sound.html)
+-   [Located near Hiroo station in Tokyo, Japan](https://maps.app.goo.gl/aeYabBAquKJoUTtP6)

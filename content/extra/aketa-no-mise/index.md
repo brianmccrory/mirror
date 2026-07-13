@@ -7,7 +7,7 @@ keywords = ["aketa-no-mise"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/aketa-no-mise/", "/p/aketa-no-mise/"]
+aliases = ["/p/aketa-no-mise/"]
 [cover]
   image = "L1280616x-1200.jpeg"
   caption = "Welcome to Aketa no Mise"
@@ -63,3 +63,9 @@ One last aside about this bar’s name:When translated to English, “Aketa no M
 Outside of written context, the spelling for “Aketa” can be both 明田, from his name Aketagawa, and 開けた, from _aketa_. _Aketa_ is the past tense of the verb to open, _akeru_ (あける). The middle word _no_ is the possessive marker in Japanese, like _’s_ in English. _Mise_ (店) is store or shop. So, with some imagination, _Aketa no Mise_ (アケタの店) could be interpreted as _“The Open Shop”_ or _“The Store that Opened”_, in a roughed-up grammar sort of way. Ok sure... but the letters for _Aketa_ in the signage are written in _katakana_ (アケタ) rather than hiragana (あけた) or even kanji (開けた, etc), reinforcing the impression that this is really a name rather than a common verb when used here. The spelling for “Aketa” can be both 明田, from his name _Aketagawa_, and 開けた, from _aketa_, opened.
 
 {{< figure src="IMG_20251021_194117273-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Shoji Aketagawa 1950/10/23 - 2024/11/16" link="IMG_20251021_194117273-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Aketa no Mise’s website](http://www.aketa.org/)
+-   [Located near Nishi-Ogikubo station in Tokyo, Japan](https://maps.app.goo.gl/Jcith9dPnrXGgDd29)

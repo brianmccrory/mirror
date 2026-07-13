@@ -6,7 +6,7 @@ keywords = ["aquapit-aquapit"]
 tags = ["Yuta Kaneko", "金子雄太", "Yosuke Onuma", "小沼ようすけ", "Hidenobu “Kalta” Otsuki", "大槻“KALTA”英宣"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/aquapit-aquapit/", "/p/aquapit-aquapit/"]
+aliases = ["/p/aquapit-aquapit/"]
 [cover]
   image = "aquapit-aquapit-460.jpeg"
   caption = ""

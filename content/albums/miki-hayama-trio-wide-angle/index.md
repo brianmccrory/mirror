@@ -6,7 +6,7 @@ keywords = ["miki-hayama-trio-wide-angle"]
 tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor Lewis"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/miki-hayama-trio-wide-angle/", "/p/miki-hayama-trio-wide-angle/"]
+aliases = ["/p/miki-hayama-trio-wide-angle/"]
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
   caption = ""

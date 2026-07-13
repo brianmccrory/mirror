@@ -7,7 +7,7 @@ keywords = ["satin-doll"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/satin-doll/", "/p/satin-doll/"]
+aliases = ["/p/satin-doll/"]
 [cover]
   image = "L1060938x-1200.jpeg"
   caption = "Rie Taguchi's Birthday Live with Mai Suzuki and Mayumi Miyata at Satin Doll in 2013"
@@ -56,3 +56,11 @@ Although the business has relocated several times and was able to continue opera
 The staff will all continue to do our best to create fulfilling times out of the remaining performances, as we are linked through dreams of praying for the sprouting of new life.
 
 {{< figure src="IMG_20190617_185258865-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Satin Doll" link="IMG_20190617_185258865-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Satin Doll’s website](https://satin-doll.jp)
+-   [Located near Roppongi station in Tokyo, Japan](https://maps.app.goo.gl/VzN6f5fHgt6evXN8A)
+
+_Note: Satin Doll has permanently closed._

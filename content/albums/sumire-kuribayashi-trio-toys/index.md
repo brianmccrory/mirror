@@ -6,7 +6,7 @@ keywords = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Shinichi Kato", "加藤真一", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/sumire-kuribayashi-trio-toys/", "/p/sumire-kuribayashi-trio-toys/"]
+aliases = ["/p/sumire-kuribayashi-trio-toys/"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
   caption = ""

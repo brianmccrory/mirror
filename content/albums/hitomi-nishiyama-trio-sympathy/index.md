@@ -6,7 +6,7 @@ keywords = ["hitomi-nishiyama-trio-sympathy"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hitomi-nishiyama-trio-sympathy/", "/p/hitomi-nishiyama-trio-sympathy/"]
+aliases = ["/p/hitomi-nishiyama-trio-sympathy/"]
 [cover]
   image = "hitominishiyama-sympathy-460.jpeg"
   caption = ""
@@ -56,6 +56,6 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 -   Excerpt from track #1: [“Sympathy”](/audio/#mix-4)
 
 
-## Other Links {#other-links}
+## Links {#links}
 
 -   [Thread sculpture (used as cover art) by Akiko Ikeuchi](http://akikoikeuchi.silk.to/)

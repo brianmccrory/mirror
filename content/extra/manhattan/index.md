@@ -7,7 +7,7 @@ keywords = ["manhattan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/manhattan/", "/p/manhattan/"]
+aliases = ["/p/manhattan/"]
 [cover]
   image = "IMG_20251010_190904141_HDR-1200.jpeg"
   caption = "Jazz & Live Manhattan 3F Jazz School"
@@ -79,3 +79,9 @@ A last note on finding this spot: With a name like “Manhattan”, online searc
 {{< figure src="IMG_20251010_191000459_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 18: </span>Jazzy &amp; Sentimental Manhattan" link="IMG_20251010_191000459_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20190629_210905687-1200.jpeg" caption="<span class=\"figure-number\">Figure 19: </span>Welcome to Manhattan" link="IMG_20190629_210905687-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Manhattan’s website](http://www.ateliermw.com/manhattan/)
+-   [Located near Asagaya station in Tokyo, Japan](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA)

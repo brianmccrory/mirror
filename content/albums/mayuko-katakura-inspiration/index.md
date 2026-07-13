@@ -6,7 +6,7 @@ keywords = ["mayuko-katakura-inspiration"]
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carl Allen"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/mayuko-katakura-inspiration/", "/p/mayuko-katakura-inspiration/"]
+aliases = ["/p/mayuko-katakura-inspiration/"]
 [cover]
   image = "mayukokatakura-inspiration-460.jpeg"
   caption = ""

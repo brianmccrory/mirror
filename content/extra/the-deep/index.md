@@ -7,7 +7,7 @@ keywords = ["the-deep"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/the-deep/", "/p/the-deep/"]
+aliases = ["/p/the-deep/"]
 [cover]
   image = "L1140712-1024.jpeg"
   caption = "Vocalist Akiko Suda and pianist Yuichi Narita playing at The Deep in 2016."
@@ -27,3 +27,9 @@ This jazz room is simply furnished with a grand piano in the center surrounded b
 Previously there was also a weekly midnight session on Fridays and holidays which ran from around 11 pm until 3 am, for those interested in watching or joining the band for a song or two. Mostly featuring jazz tunes, vocalists or instrumentalists are welcome, or anyone who just wants to stay and listen to a variety of musicians having fun and singing their hearts out. _(This overnight session has been canceled since the pandemic, but hopefully may return in the future.)_
 
 {{< figure src="IMG_20230310_201040729-1024.jpeg" link="IMG_20230310_201040729-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [The Deep’s website](https://jazz-thedeep.com/)
+-   [Located near Ginza and Shimbashi stations in Tokyo, Japan](https://goo.gl/maps/iCGjmYzcJ1TnkLcj9)

@@ -7,7 +7,7 @@ keywords = ["yoyogi-naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/yoyogi-naru/", "/p/yoyogi-naru/"]
+aliases = ["/p/yoyogi-naru/"]
 [cover]
   image = "L1150335-1024.jpeg"
   caption = "Vocalist Rie Taguchi sings jazz standards and originals with violist Noriko Satomi and pianist Seiji Endo (August 2016)"
@@ -29,3 +29,9 @@ For those jazz fans who prefer small groups featuring jazz vocals, this bar defi
 This bar occupies a nice space in the jazz bar world of Tokyo because it is not too casual, but not too strict or expensive either. A great compromise of mid-range prices with a high-class yet comfortable atmosphere, as you may notice from the elegant mama-san, Misako-san, and her professional staff.
 
 {{< figure src="P1080813-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Club owner Misako-san’s birthday party with Mie Joke (vocals), Yukari Inoue (piano), Noriko Satomi (violin), and others at Yoyogi Naru (November 2011)" link="P1080813-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Yoyogi Naru’s website](https://yoyogi-naru.com/)
+-   [Located near Yoyogi station in Tokyo, Japan](https://maps.app.goo.gl/DAEH69ppHQCE49cZA)

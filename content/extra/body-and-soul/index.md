@@ -7,7 +7,7 @@ keywords = ["body-and-soul"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/body-and-soul/", "/p/body-and-soul/"]
+aliases = ["/p/body-and-soul/"]
 [cover]
   image = "P1020263-1024.jpeg"
   caption = "Guitarist Shinji Hashimoto and his band at Body & Soul in 2009"
@@ -29,3 +29,9 @@ Body &amp; Soul is a perfect choice for both diehard jazz and more casual listen
 {{< figure src="P1040084-1024.jpeg" link="P1040084-1024.jpeg" >}}
 
 {{< figure src="DSC_8761-1024.jpeg" link="DSC_8761-1024.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Body &amp; Soul’s website](https://www.bodyandsoul.co.jp/)
+-   [Located near Shibuya and Harajuku stations in Tokyo, Japan](https://maps.app.goo.gl/PVgKKnMY2Ktc3ZiVA)

@@ -7,7 +7,7 @@ keywords = ["on-a-slow-boat-to"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/on-a-slow-boat-to/", "/p/on-a-slow-boat-to/"]
+aliases = ["/p/on-a-slow-boat-to/"]
 [cover]
   image = "L1280249x-1200.jpeg"
   caption = "On A Slow Boat To...’s entrance"
@@ -71,3 +71,9 @@ Live performances at _On A Slow Boat To..._ are irregular but savored, and advan
 {{< figure src="IMG_20240316_183815626_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 20: </span>Sign at On A Slow Boat To..." link="IMG_20240316_183815626_HDRx-1200.jpeg" >}}
 
 {{< figure src="IMG_20240307_175322730_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 21: </span>Welcome to On A Slow Boat To..." link="IMG_20240307_175322730_HDRx-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [On A Slow Boat To…’s website](https://slwboat.com/)
+-   [Located near Jimbocho and Ochanomizu stations in Tokyo, Japan](https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8)

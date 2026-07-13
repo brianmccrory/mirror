@@ -6,7 +6,7 @@ keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-tri
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard", "John Carlini"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/chihiro-yamanaka-lach-doch-mal/", "/p/chihiro-yamanaka-lach-doch-mal/"]
+aliases = ["/p/chihiro-yamanaka-lach-doch-mal/"]
 [cover]
   image = "chihiro-yamanaka-lach-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "
 tags = ["Hideaki Hori", "堀秀彰", "Wataru Hamasaki", "浜崎航", "Hiroshi Takase", "高瀬裕", "Junji Hirose", "広瀬潤次", "Satoshi Takino", "滝野聡"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/hideaki-hori-wataru-hamasaki-encounter/", "/p/hideaki-hori-wataru-hamasaki-encounter/"]
+aliases = ["/p/hideaki-hori-wataru-hamasaki-encounter/"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
   caption = ""

@@ -6,7 +6,7 @@ keywords = ["fumie-chiba-beautiful-days"]
 tags = ["Fumie Chiba", "千葉史絵", "Mitsuru Tanaka", "田中充", "Shunosuke Ishikawa", "石川周之介", "Aya Kurosawa", "黒沢綾", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/fumie-chiba-beautiful-days/", "/p/fumie-chiba-beautiful-days/"]
+aliases = ["/p/fumie-chiba-beautiful-days/"]
 [cover]
   image = "fumiechiba-beautifuldays-460.jpeg"
   caption = ""

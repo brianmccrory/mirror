@@ -6,7 +6,7 @@ keywords = ["tetsuji-yoshida-and-mikiko-nagatake"]
 tags = ["Tetsuji Yoshida", "吉田哲治", "Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/tetsuji-yoshida-and-mikiko-nagatake/", "/p/tetsuji-yoshida-and-mikiko-nagatake/"]
+aliases = ["/p/tetsuji-yoshida-and-mikiko-nagatake/"]
 [cover]
   image = "tetsujiyoshida-mikikonagatake-knuttel-460.jpeg"
   caption = ""

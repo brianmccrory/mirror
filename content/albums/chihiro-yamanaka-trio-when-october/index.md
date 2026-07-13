@@ -6,7 +6,7 @@ keywords = ["chihiro-yamanaka-trio-when-october"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/chihiro-yamanaka-trio-when-october/", "/p/chihiro-yamanaka-trio-when-october/"]
+aliases = ["/p/chihiro-yamanaka-trio-when-october/"]
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
   caption = ""

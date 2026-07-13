@@ -6,7 +6,7 @@ keywords = ["baby-brothers-bb"]
 tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
-aliases = ["/archive/baby-brothers-bb/", "/p/baby-brothers-bb/"]
+aliases = ["/p/baby-brothers-bb/"]
 [cover]
   image = "babybrothers-bbcover-460.jpeg"
   caption = ""

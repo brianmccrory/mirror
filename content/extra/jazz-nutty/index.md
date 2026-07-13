@@ -7,7 +7,7 @@ keywords = ["jazz-nutty"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/archive/jazz-nutty/", "/p/jazz-nutty/"]
+aliases = ["/p/jazz-nutty/"]
 [cover]
   image = "IMG_20240501_174529147_HDR-1200.jpeg"
   caption = "Speakers guard the entrance at Jazz Nutty"
@@ -83,3 +83,9 @@ The website for Jazz Nutty is a blog with monthly updates. Along with informatio
 After each month’s theme is announced, a second post follows and lists some of the albums being featured and played that month.
 
 {{< figure src="IMG_20240501_180254906-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Tracklisting and back cover art on the LP version of Chick Corea's Now He Sings, Now He Sobs" link="IMG_20240501_180254906-1200.jpeg" >}}
+
+
+## Information {#information}
+
+-   [Jazz Nutty’s website](https://ameblo.jp/jazznutty/)
+-   [Located near Wadeda station in Tokyo, Japan](https://maps.app.goo.gl/cjPMA8GYFSpVdH6B6)

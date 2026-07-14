@@ -6,7 +6,6 @@ keywords = ["aquapit-aquapit"]
 tags = ["Yuta Kaneko", "金子雄太", "Yosuke Onuma", "小沼ようすけ", "Hidenobu “Kalta” Otsuki", "大槻“KALTA”英宣"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/aquapit-aquapit/"]
 [cover]
   image = "aquapit-aquapit-460.jpeg"
   alt = "Cover art of Aquapit by Aquapit"

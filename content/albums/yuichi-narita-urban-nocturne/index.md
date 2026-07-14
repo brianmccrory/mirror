@@ -6,7 +6,6 @@ keywords = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuichi-narita-urban-nocturne/"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
   alt = "Cover art of Urban Nocturne by Yuichi Narita"

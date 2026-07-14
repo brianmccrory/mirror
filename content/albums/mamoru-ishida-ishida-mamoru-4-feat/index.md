@@ -6,7 +6,6 @@ keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamur
 tags = ["Mamoru Ishida", "石田衛", "Mike Rivett", "Show Kudo", "工藤精", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mamoru-ishida-ishida-mamoru-4-feat/"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
   alt = "Cover art of Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida"

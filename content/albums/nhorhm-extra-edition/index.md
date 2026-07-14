@@ -6,7 +6,6 @@ keywords = ["nhorhm-extra-edition"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/nhorhm-extra-edition/"]
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"

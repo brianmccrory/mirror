@@ -7,7 +7,6 @@ keywords = ["klavier"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/klavier/"]
 [cover]
   image = "IMG_20251011_205209873-1200.jpeg"
   caption = "Stage area and portrait of Ron Carter painted by Klavier’s Chika Toyota (October 2025)"

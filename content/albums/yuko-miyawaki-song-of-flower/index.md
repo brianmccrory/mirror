@@ -6,7 +6,6 @@ keywords = ["yuko-miyawaki-song-of-flower"]
 tags = ["Yuko Miyawaki", "宮脇裕子", "Yutaka Handa", "伴田裕", "Taeko Kurita", "栗田妙子", "Yutaka Kaido", "カイドーユタカ", "Masashi Tomikawa", "冨川政嗣", "Junichiro Ohkuchi", "大口純一郎"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuko-miyawaki-song-of-flower/"]
 [cover]
   image = "yukomiyawaki-songof-460.jpeg"
   alt = "Cover art of Song of Flower by Yuko Miyawaki"

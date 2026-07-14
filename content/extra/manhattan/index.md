@@ -7,7 +7,6 @@ keywords = ["manhattan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/manhattan/"]
 [cover]
   image = "IMG_20251010_190904141_HDR-1200.jpeg"
   caption = "Jazz & Live Manhattan 3F Jazz School"

@@ -7,7 +7,6 @@ lastmod = 2024-05-16
 tags = ["Mabumi Yamaguchi", "山口真文", "Yoshitaka Shoji", "東海林由孝", "Misato Okumura", "奥村美里", "Ryohei Komaki", "小牧良平", "Nobuyuki Komatsu", "小松伸之"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mabumi-yamaguchi-let-your-mind-alone/"]
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
   alt = "Cover art of Let Your Mind Alone by Mabumi Yamaguchi"

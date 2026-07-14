@@ -6,7 +6,6 @@ keywords = ["ryosuke-hashizume-group-wordless"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Manabu Hashimoto", "橋本学", "Ryoji Orihara", "織原良次"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ryosuke-hashizume-group-wordless/"]
 [cover]
   image = "ryosukehashizume-wordless-460.jpeg"
   alt = "Cover art of Wordless by Ryosuke Hashizume Group"

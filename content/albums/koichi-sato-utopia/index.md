@@ -6,7 +6,6 @@ keywords = ["koichi-sato-utopia"]
 tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/koichi-sato-utopia/"]
 [cover]
   image = "koichisato-utopia-460.jpeg"
   alt = "Cover art of Utopia by Koichi Sato"

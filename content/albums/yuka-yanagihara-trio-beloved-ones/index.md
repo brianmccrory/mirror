@@ -6,7 +6,6 @@ keywords = ["yuka-yanagihara-trio-inner-views"]
 tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuka-yanagihara-trio-beloved-ones/"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
   alt = "Cover art of Beloved Ones by Yuka Yanagihara Trio"

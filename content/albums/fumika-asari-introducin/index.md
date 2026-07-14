@@ -6,7 +6,6 @@ keywords = ["fumika-asari-introducin"]
 tags = ["Fumika Asari", "浅利史花", "Sadanori Nakamure", "中牟礼貞則", "Satoshi Kosugi", "小杉敏", "Daiki Mishima", "三嶋大輝", "Mamoru Ishida", "石田衛", "Kanoko Kitajima", "北島佳乃子", "Hiro Kimura", "木村紘", "Yusuke Yaginuma", "柳沼佑育", "Akane Ezawa", "江澤茜", "Itsumi Komano", "駒野逸美"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/fumika-asari-introducin/"]
 [cover]
   image = "fumika-asari-introducin-460.jpeg"
   alt = "Cover art of Introducin’ by Fumika Asari"

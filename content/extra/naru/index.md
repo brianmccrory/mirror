@@ -7,7 +7,6 @@ keywords = ["naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/naru/"]
 [cover]
   image = "IMG_4184-1200.jpeg"
   caption = "Fumio Karashima (piano) and Ryu Kawamura (bass) at Naru in May 2007 # shows NARU sign"

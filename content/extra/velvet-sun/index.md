@@ -7,7 +7,6 @@ keywords = ["velvet-sun"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/velvet-sun/"]
 [cover]
   image = "L1240615-1200.jpeg"
   caption = "Stage area at Velvet Sun"

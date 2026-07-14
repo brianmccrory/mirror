@@ -7,7 +7,6 @@ keywords = ["on-a-slow-boat-to"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/on-a-slow-boat-to/"]
 [cover]
   image = "L1280249x-1200.jpeg"
   caption = "On A Slow Boat To...’s entrance"

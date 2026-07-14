@@ -7,7 +7,6 @@ keywords = ["lydian"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/lydian/"]
 [cover]
   image = "left-right-crop-2048.jpeg"
   caption = "The Nami Kano Quartet at Lydian in 2017"

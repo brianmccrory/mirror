@@ -7,7 +7,6 @@ keywords = ["birdland"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/birdland/"]
 [cover]
   image = "L1090119-1024.jpeg"
   caption = "The Nami Kano Quartet playing at Birdland in 2014."

@@ -6,7 +6,6 @@ keywords = ["chihiro-yamanaka-trio-madrigal"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/chihiro-yamanaka-trio-madrigal/"]
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
   alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"

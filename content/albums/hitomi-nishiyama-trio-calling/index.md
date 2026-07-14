@@ -6,7 +6,6 @@ keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-i
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hitomi-nishiyama-trio-calling/"]
 [cover]
   image = "hitomi-nishiyama-trio-calling-460.jpeg"
   alt = "Cover art of Calling by Hitomi Nishiyama Trio"

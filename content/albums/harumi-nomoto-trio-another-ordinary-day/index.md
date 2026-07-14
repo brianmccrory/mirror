@@ -6,7 +6,6 @@ keywords = ["harumi-nomoto-trio-another-ordinary-day"]
 tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tommy Campbell", "Masayuki Tawarayama", "俵山昌之", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/harumi-nomoto-trio-another-ordinary-day/"]
 [cover]
   image = "haruminomoto-another-460.jpeg"
   alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"

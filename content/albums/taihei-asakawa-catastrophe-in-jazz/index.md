@@ -6,7 +6,6 @@ keywords = ["taihei-asakawa-catastrophe-in-jazz"]
 tags = ["Taihei Asakawa", "浅川太平", "Shinichi Kato", "加藤真一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/taihei-asakawa-catastrophe-in-jazz/"]
 [cover]
   image = "taiheiasakawa-catas-460.jpeg"
   alt = "Cover art of Catastrophe in Jazz by Taihei Asakawa"

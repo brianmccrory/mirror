@@ -7,7 +7,6 @@ keywords = ["ps-bar"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/ps-bar/"]
 [cover]
   image = "IMG_20140806_212248-1024.jpeg"
   caption = "Jazz musicians and customers crowd into the cozy P's Bar for hot jazz."

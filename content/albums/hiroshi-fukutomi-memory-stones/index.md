@@ -6,7 +6,6 @@ keywords = ["hiroshi-fukutomi-memory-stones"]
 tags = ["Hiroshi Fukutomi", "福冨博", "Koichi Sato", "佐藤浩一", "Koji Yasuda", "安田幸司", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hiroshi-fukutomi-memory-stones/"]
 [cover]
   image = "hiroshi-fukutomi-memory-stones-460.jpeg"
   alt = "Cover art of Memory Stones by Hiroshi Fukutomi"

@@ -6,7 +6,6 @@ keywords = ["harumi-nomoto-trio-virgo"]
 tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔", "Makiko Sugawara", "菅原牧子", "Nao Sakamoto", "坂本直"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/harumi-nomoto-trio-virgo/"]
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
   alt = "Cover art of Virgo by Harumi Nomoto Trio"

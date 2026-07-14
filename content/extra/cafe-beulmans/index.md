@@ -7,7 +7,6 @@ keywords = ["cafe-beulmans"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/cafe-beulmans/"]
 [cover]
   image = "IMG_20181117_150312893_HDR-1024.jpeg"
   caption = "Erisa Ogawa and Ayaha Amamiya at Cafe Beulmans in 2018"

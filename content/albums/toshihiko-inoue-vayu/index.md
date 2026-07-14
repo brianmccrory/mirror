@@ -6,7 +6,6 @@ keywords = ["toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/toshihiko-inoue-vayu/"]
 [cover]
   image = "toshihikoinoue-vayu-460.jpeg"
   alt = "Cover art of Vayu by Toshihiko Inoue"

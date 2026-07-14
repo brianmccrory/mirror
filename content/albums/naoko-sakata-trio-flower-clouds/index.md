@@ -6,7 +6,6 @@ keywords = ["naoko-sakata-trio-flower-clouds"]
 tags = ["Naoko Sakata", "坂田尚子", "Anton Blomgren", "Johan Birgenius"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/naoko-sakata-trio-flower-clouds/"]
 [cover]
   image = "naokosakata-flowerclouds-460.jpeg"
   alt = "Cover art of Flower Clouds by Naoko Sakata Trio"

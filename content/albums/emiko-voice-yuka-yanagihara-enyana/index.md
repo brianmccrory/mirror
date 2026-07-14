@@ -6,7 +6,6 @@ keywords = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-co
 tags = ["Emiko Voice", "エミコヴォイス", "Yuka Yanagihara", "柳原由佳"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/emiko-voice-yuka-yanagihara-enyana/"]
 [cover]
   image = "emiko-voice-yuka-yanagihara-enyana-460.jpeg"
   alt = "Cover art of Enyana by Emiko Voice & Yuka Yanagihara"

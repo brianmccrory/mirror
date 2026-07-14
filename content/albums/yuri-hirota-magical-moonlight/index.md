@@ -6,7 +6,6 @@ keywords = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layl
 tags = ["Yuri Hirota", "廣田ゆり", "Daisei Mii", "三井大生", "Kilin Sato", "佐藤きりん", "Gen Date", "伊達弦", "Yuichiro Hiraoka", "平岡遊一郎"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuri-hirota-magical-moonlight/"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
   alt = "Cover art of Magical Moonlight by Yuri Hirota"

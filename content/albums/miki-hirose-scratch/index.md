@@ -6,7 +6,6 @@ keywords = ["miki-hirose-scratch"]
 tags = ["Miki Hirose", "広瀬未来", "Xavier Perez", "Toru Dodo", "百々徹", "Aiden O’Donnell", "Jerome Jennings", "Mauricio Herrera"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/miki-hirose-scratch/"]
 [cover]
   image = "mikihirose-scratch-460.jpeg"
   alt = "Cover art of Scratch by Miki Hirose"

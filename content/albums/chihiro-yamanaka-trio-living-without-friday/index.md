@@ -6,7 +6,6 @@ keywords = ["chihiro-yamanaka-trio-living-without-friday"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/chihiro-yamanaka-trio-living-without-friday/"]
 [cover]
   image = "chihiroyamanaka-living-460.jpeg"
   alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"

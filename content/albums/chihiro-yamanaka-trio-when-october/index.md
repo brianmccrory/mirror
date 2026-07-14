@@ -6,7 +6,6 @@ keywords = ["chihiro-yamanaka-trio-when-october"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/chihiro-yamanaka-trio-when-october/"]
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
   alt = "Cover art of When October Goes by Chihiro Yamanaka Trio"

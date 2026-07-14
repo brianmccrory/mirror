@@ -6,7 +6,6 @@ keywords = ["yukako-yamano-3rd-stage"]
 tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yukako-yamano-3rd-stage/"]
 [cover]
   image = "yukakoyamano-third-460.jpeg"
   alt = "Cover art of 3rd Stage by Yukako Yamano"

@@ -7,7 +7,6 @@ keywords = ["aketa-no-mise"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/aketa-no-mise/"]
 [cover]
   image = "L1280616x-1200.jpeg"
   caption = "Welcome to Aketa no Mise"

@@ -7,7 +7,6 @@ keywords = ["somethin"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/somethin/"]
 [cover]
   image = "IMG_20190611_210428751-1200.jpeg"
   caption = "A session at Somethin' in 2019"

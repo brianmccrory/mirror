@@ -6,7 +6,6 @@ keywords = ["layla-tomomi-sakai-whisper-not"]
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/layla-tomomi-sakai-whisper-not/"]
 [cover]
   image = "layla-tomomi-sakai-whisper-460.jpeg"
   alt = "Cover art of Whisper Not by Layla Tomomi Sakai"

@@ -6,7 +6,6 @@ keywords = ["duo-tremolo-resonance"]
 tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Sendo", "仙道さおり", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/duo-tremolo-resonance/"]
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
   alt = "Cover art of Resonance by Duo Tremolo"

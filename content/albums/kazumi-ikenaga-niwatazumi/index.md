@@ -7,7 +7,6 @@ lastmod = 2023-11-17
 tags = ["Kazumi Ikenaga", "池長和美", "Christian Vuust", "Jakob Buchanan", "Soren Dahl Jeppesen", "Klaus Nørgaard"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/kazumi-ikenaga-niwatazumi/"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
   alt = "Cover art of Niwatazumi by Kazumi Ikenaga"

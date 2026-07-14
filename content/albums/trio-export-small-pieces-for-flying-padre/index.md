@@ -6,7 +6,6 @@ keywords = ["trio-export-small-pieces-for-flying-padre"]
 tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/trio-export-small-pieces-for-flying-padre/"]
 [cover]
   image = "trioexport-smallpieces-460.jpeg"
   alt = "Cover art of Small Pieces for Flying Padre by Trio Export 63.1.0.X"

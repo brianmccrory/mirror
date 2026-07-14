@@ -7,7 +7,6 @@ keywords = ["into-the-blue"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/into-the-blue/"]
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"
   caption = "The cool interior at Into the Blue with instruments on high."

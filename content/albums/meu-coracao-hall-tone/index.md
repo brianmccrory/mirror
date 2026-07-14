@@ -6,7 +6,6 @@ keywords = ["meu-coracao-hall-tone"]
 tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/meu-coracao-hall-tone/"]
 [cover]
   image = "meucoracao-halltone-460.jpeg"
   alt = "Cover art of Hall Tone by Meu Coracao"

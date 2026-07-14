@@ -7,7 +7,6 @@ lastmod = 2024-04-13
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/seiji-endo-sakura-meditation/"]
 [cover]
   image = "seijiendo-sakura-460.jpeg"
   alt = "Cover art of Sakura Meditation by Seiji Endo"

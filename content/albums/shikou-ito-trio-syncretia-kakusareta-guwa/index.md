@@ -6,7 +6,6 @@ keywords = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 tags = ["Shikou Ito", "伊藤志宏", "Benisuke Sakai", "坂井紅介", "Gen Ogimi", "大儀見元"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/shikou-ito-trio-syncretia-kakusareta-guwa/"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
   alt = "Cover art of Kakusareta Guwa by Shikou Ito Trio Syncretia"

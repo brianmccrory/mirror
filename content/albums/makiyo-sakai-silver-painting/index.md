@@ -6,7 +6,6 @@ keywords = ["banda-feliz-boa-viagem"]
 tags = ["Makiyo Sakai", "酒井麻生代", "Yoshihiko Naya", "納谷嘉彦", "Masayuki Tawarayama", "俵山昌之", "Akira Yamada", "山田玲", "Jun Kimura", "木村純"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/makiyo-sakai-silver-painting/"]
 [cover]
   image = "makiyo-sakai-silver-painting-460.jpeg"
   alt = "Cover art of Silver Painting by Makiyo Sakai"

@@ -6,7 +6,6 @@ keywords = ["atomi-hamada-this-is-atomi"]
 tags = ["Atomi Hamada", "浜田亜東実", "Momo Nonami", "野波桃", "Hiroaki Mizutani", "水谷浩章"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/atomi-hamada-this-is-atomi/"]
 [cover]
   image = "atomihamada-thisis-460.jpeg"
   alt = "Cover art of This is Atomi by Atomi Hamada"

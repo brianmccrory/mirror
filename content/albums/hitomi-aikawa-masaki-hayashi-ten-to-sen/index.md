@@ -6,7 +6,6 @@ keywords = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-a
 tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hitomi-aikawa-masaki-hayashi-ten-to-sen/"]
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
   alt = "Cover art of Ten to Sen by Hitomi Aikawa & Masaki Hayashi"

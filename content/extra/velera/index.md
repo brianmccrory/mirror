@@ -7,7 +7,6 @@ keywords = ["velera"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/velera/"]
 [cover]
   image = "IMG_20190613_210528443_HDRx-1200.jpeg"
   caption = "Akiko Suda (vocals) and Yuichi Narita (piano) as “Botan” at Velera (June 2019)"

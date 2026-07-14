@@ -7,7 +7,6 @@ keywords = ["independence"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/independence/"]
 [cover]
   image = "L1000565-1024.jpeg"
   caption = "Maki Fujimura with the Yuichiro Aratake Trio at Independence in 2012"

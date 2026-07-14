@@ -6,7 +6,6 @@ keywords = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "ta
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Sora Ichikawa", "市川空", "Yota Tsukada", "塚田陽太"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/daiki-yasukagawa-new-trio-three-roses/"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
   alt = "Cover art of The Three Roses by Daiki Yasukagawa New Trio"

@@ -6,7 +6,6 @@ keywords = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haru
 tags = ["Saki Ozawa", "小沢咲希", "Koji Yasuda", "安田幸司", "Takumi Awaya", "粟谷巧", "Yusuke Yaginuma", "柳沼佑育", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/saki-ozawa-cheers/"]
 [cover]
   image = "saki-ozawa-cheers-460.jpeg"
   alt = "Cover art of Cheers by Saki Ozawa"

@@ -6,7 +6,6 @@ keywords = ["protean-protean"]
 tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan Yoshikawa", "吉川弾"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/protean-protean/"]
 [cover]
   image = "protean-protean-460.jpeg"
   alt = "Cover art of Protean by Protean"

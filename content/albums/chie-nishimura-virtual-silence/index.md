@@ -6,7 +6,6 @@ keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acousti
 tags = ["Chie Nishimura", "西村知恵", "Ryoji Orihara", "織原良次", "May Inoue", "井上銘", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/chie-nishimura-virtual-silence/"]
 [cover]
   image = "chie-nishimura-virtual-silence-460.jpeg"
   alt = "Cover art of Virtual Silence by Chie Nishimura"

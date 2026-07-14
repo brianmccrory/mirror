@@ -6,7 +6,6 @@ keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-naka
 tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/otohito-fuse-trio-thus-have-i-heard/"]
 [cover]
   image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
   alt = "Cover art of Thus Have I Heard by Otohito Fuse Trio"

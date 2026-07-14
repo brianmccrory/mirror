@@ -6,7 +6,6 @@ keywords = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
 tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Yoshimoto", "吉本章紘", "Ami Ogaeri", "魚返明未", "Motoi Kanamori", "金森もとい", "Ittetsu Takemura", "竹村一哲"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/keisuke-nakamura-humadope-2/"]
 [cover]
   image = "keisuke-nakamura-humadope-2-460.jpeg"
   alt = "Cover art of Humadope 2 by Keisuke Nakamura"

@@ -7,7 +7,6 @@ keywords = ["alfie"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/alfie/"]
 [cover]
   image = "P1060603-1024.jpeg"
   caption = "The Harumi Nomoto trio playing at Alfie in 2011."

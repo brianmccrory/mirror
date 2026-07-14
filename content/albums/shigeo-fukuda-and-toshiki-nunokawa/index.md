@@ -6,7 +6,6 @@ keywords = ["shigeo-fukuda-and-toshiki-nunokawa"]
 tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/shigeo-fukuda-and-toshiki-nunokawa/"]
 [cover]
   image = "fukuda-nunokawa-childhood-460.jpeg"
   alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"

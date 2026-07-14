@@ -6,7 +6,6 @@ keywords = ["seiji-tada-workout"]
 tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny Washington"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/seiji-tada-workout/"]
 [cover]
   image = "seijitada-workout-460.jpeg"
   alt = "Cover art of Workout!! by Seiji Tada"

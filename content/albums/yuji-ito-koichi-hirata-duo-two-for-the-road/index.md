@@ -6,7 +6,6 @@ keywords = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura
 tags = ["Yuji Ito", "伊藤勇司", "Koichi Hirata", "平田晃一", "Kosuke Mine", "峰厚介", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuji-ito-koichi-hirata-duo-two-for-the-road/"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
   alt = "Cover art of Two for the Road by Yuji Ito & Koichi Hirata Duo"

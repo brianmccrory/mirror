@@ -6,7 +6,6 @@ keywords = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-kataku
 tags = ["Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mayuko-katakura-duality-of-my-soul/"]
 [cover]
   image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
   alt = "Cover art of The Duality of My Soul by Mayuko Katakura"

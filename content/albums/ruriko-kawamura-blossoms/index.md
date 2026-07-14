@@ -6,7 +6,6 @@ keywords = ["ruriko-kawamura-blossoms"]
 tags = ["Ruriko Kawamura", "河村留理子", "Seiji Endo", "遠藤征志", "Noriko Satomi", "里見紀子", "Akira Sekine", "関根彰良"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ruriko-kawamura-blossoms/"]
 [cover]
   image = "rurikokawamura-blossoms-460.jpeg"
   alt = "Cover art of Blossoms by Ruriko Kawamura"

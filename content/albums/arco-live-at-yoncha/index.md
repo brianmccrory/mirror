@@ -6,7 +6,6 @@ keywords = ["arco-live-at-yoncha"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/arco-live-at-yoncha/"]
 [cover]
   image = "arco-liveatyoncha-460.jpeg"
   alt = "Cover art of Live At Yoncha by Arco"

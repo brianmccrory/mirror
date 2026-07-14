@@ -6,7 +6,6 @@ keywords = ["koichi-sato-melancholy"]
 tags = ["Koichi Sato", "佐藤浩一", "Tokuhiro Doi", "土井徳浩", "Motohiko Ichino", "市野元彦", "Harutoshi Ito", "伊藤ハルトシ", "Hiroki Chiba", "千葉広樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/koichi-sato-melancholy/"]
 [cover]
   image = "koichisato-melancholy-460.jpeg"
   alt = "Cover art of Melancholy of a Journey by Koichi Sato"

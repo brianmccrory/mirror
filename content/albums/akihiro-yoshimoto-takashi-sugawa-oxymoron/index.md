@@ -6,7 +6,6 @@ keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Takashi Sugawa", "須川崇志", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akihiro-yoshimoto-takashi-sugawa-oxymoron/"]
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
   alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"

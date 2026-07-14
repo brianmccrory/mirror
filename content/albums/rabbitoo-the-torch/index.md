@@ -6,7 +6,6 @@ keywords = ["rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy"]
 tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "Koichi Sato", "佐藤浩一", "Hiroki Chiba", "千葉広樹", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/rabbitoo-the-torch/"]
 [cover]
   image = "rabbitoo-torch-460.jpeg"
   alt = "Cover art of The Torch by Rabbitoo"

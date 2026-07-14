@@ -7,7 +7,6 @@ keywords = ["apple-jump"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/apple-jump/"]
 [cover]
   image = "L1030595x-1200.jpeg"
   caption = "Hideaki Hori (piano) Trio with Yuhei Honkawa (bass) and Gaku Hasegawa (drums) at Apple Jump in November 2012"

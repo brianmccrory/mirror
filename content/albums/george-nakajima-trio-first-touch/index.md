@@ -6,7 +6,6 @@ keywords = ["george-nakajima-trio-first-touch"]
 tags = ["George Nakajima", "中嶋錠二", "Yutaka Yoshida", "吉田豊", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/george-nakajima-trio-first-touch/"]
 [cover]
   image = "george-nakajima-first-touch-460.jpeg"
   alt = "Cover art of First Touch by George Nakajima Trio"

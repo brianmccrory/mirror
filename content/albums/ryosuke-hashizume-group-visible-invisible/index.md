@@ -6,7 +6,6 @@ keywords = ["ryosuke-hashizume-group-visible-invisible"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ryosuke-hashizume-group-visible-invisible/"]
 [cover]
   image = "ryosukehashizume-visible-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"

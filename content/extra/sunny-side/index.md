@@ -7,7 +7,6 @@ keywords = ["sunny-side"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/sunny-side/"]
 [cover]
   image = "L1270509-1200.jpeg"
   caption = "Otonai (訪ヒ) Quartet with Mitsuru Tanaka (trumpet), Fumie Chiba (piano), Yujiro Shimine (bass), and Kaoru Suzuki (drums) at Sunny Side in January 2025"

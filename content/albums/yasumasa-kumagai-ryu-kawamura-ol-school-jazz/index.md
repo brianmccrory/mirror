@@ -6,7 +6,6 @@ keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "ya
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz/"]
 [cover]
   image = "yasumasakumagai-ryukawamura-olschool-460.jpeg"
   alt = "Cover art of Ol’ School Jazz by Yasumasa Kumagai & Ryu Kawamura"

@@ -7,7 +7,6 @@ keywords = ["b-flat"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/b-flat/"]
 [cover]
   image = "L1170438-1024.jpeg"
   caption = "Maiko (violin), Hitomi Nishiyama (piano), Daiki Yasukagawa (bass), and Manabu Hashimoto (drums) at B-flat in 2017"

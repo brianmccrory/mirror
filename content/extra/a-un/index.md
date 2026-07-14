@@ -7,7 +7,6 @@ keywords = ["a-un"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/a-un/"]
 [cover]
   image = "IMG_0589-1024.jpeg"
   caption = "Vocalist Kunie Kai and pianist Yuichiro Aratake at A-Un in 2008"

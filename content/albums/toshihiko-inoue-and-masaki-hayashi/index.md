@@ -6,7 +6,6 @@ keywords = ["toshihiko-inoue-and-masaki-hayashi"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/toshihiko-inoue-and-masaki-hayashi/"]
 [cover]
   image = "toshihikoinoue-mistral-460.jpeg"
   alt = "Cover art of Mistral by Toshihiko Inoue & Masaki Hayashi"

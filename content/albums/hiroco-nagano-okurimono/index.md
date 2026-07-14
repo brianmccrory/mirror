@@ -6,7 +6,6 @@ keywords = ["hiroco-nagano-okurimono"]
 tags = ["Hiroco Nagano", "永野寛子", "Seiji Endo", "遠藤征志", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hiroco-nagano-okurimono/"]
 [cover]
   image = "hiroconagano-okurimono-460.jpeg"
   alt = "Cover art of Okurimono by Hiroco Nagano"

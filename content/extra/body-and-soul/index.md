@@ -7,7 +7,6 @@ keywords = ["body-and-soul"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/body-and-soul/"]
 [cover]
   image = "P1020263-1024.jpeg"
   caption = "Guitarist Shinji Hashimoto and his band at Body & Soul in 2009"

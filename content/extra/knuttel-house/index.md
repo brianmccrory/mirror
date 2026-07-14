@@ -7,7 +7,6 @@ keywords = ["knuttel-house"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/knuttel-house/"]
 [cover]
   image = "IMG_20230319_154246554-1024.jpeg"
   caption = "Tetsuji Yoshida and Mikiko Nagatake performing at Knuttel House in March 2023"

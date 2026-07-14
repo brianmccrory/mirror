@@ -7,7 +7,6 @@ keywords = ["cochi"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/cochi/"]
 [cover]
   image = "IMG_20190614_213430448-1024.jpeg"
   caption = "The Hisatsugu Suzuki Quartet playing at Cochi in 2019"

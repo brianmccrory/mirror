@@ -6,7 +6,6 @@ keywords = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-co
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一馬", "Takashi Sugawa", "須川崇志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue/"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
   alt = "Cover art of Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa"

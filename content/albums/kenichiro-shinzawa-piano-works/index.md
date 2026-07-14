@@ -6,7 +6,6 @@ keywords = ["kenichiro-shinzawa-piano-works"]
 tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/kenichiro-shinzawa-piano-works/"]
 [cover]
   image = "kenichiroshinzawa-pianoworks-460.jpeg"
   alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"

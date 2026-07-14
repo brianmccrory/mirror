@@ -6,7 +6,6 @@ keywords = ["bungalow-past-life"]
 tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/bungalow-past-life/"]
 [cover]
   image = "bungalow-pastlife-460.jpeg"
   alt = "Cover art of Past Life by Bungalow"

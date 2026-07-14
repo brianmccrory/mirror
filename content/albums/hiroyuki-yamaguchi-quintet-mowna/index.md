@@ -6,7 +6,6 @@ keywords = ["mase-hiroko-quintet-first-contact"]
 tags = ["Hiroyuki Yamaguchi", "山口裕之", "Hiroko Mase", "ませひろこ", "Hinata Ishii", "石井ひなた", "Toshihiko Kohno", "紅野智彦", "Tomoyuki Okabe", "岡部朋幸"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hiroyuki-yamaguchi-quintet-mowna/"]
 [cover]
   image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
   alt = "Cover art of Mowna by Hiroyuki Yamaguchi Quintet"

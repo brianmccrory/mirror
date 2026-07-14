@@ -6,7 +6,6 @@ keywords = ["ami-fukui-trio-urban-clutter"]
 tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ami-fukui-trio-urban-clutter/"]
 [cover]
   image = "amifukui-urbanclutter-460.jpeg"
   alt = "Cover art of Urban Clutter by Ami Fukui Trio"

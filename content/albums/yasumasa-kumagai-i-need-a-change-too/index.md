@@ -7,7 +7,6 @@ lastmod = 2024-03-23
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Koji Yasuda", "安田幸司", "Shunsuke Umino", "海野俊輔", "Afra", "あふら", "Shinobu Ishizaki", "石崎忍", "Tabu Zombie", "タブゾンビ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yasumasa-kumagai-i-need-a-change-too/"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
   alt = "Cover art of I Need a Change, Too by Yasumasa Kumagai"

@@ -6,7 +6,6 @@ keywords = ["hara-dairiki-trio-youve-changed"]
 tags = ["Dairiki Hara", "原大力", "Atsushi Ikeda", "池田篤", "Yasushi Yoneki", "米木康志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hara-dairiki-trio-youve-changed/"]
 [cover]
   image = "haradairiki-youvechanged-460.jpeg"
   alt = "Cover art of You’ve Changed by Hara Dairiki Trio"

@@ -7,7 +7,6 @@ keywords = ["barbra"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/barbra/"]
 [cover]
   image = "L1030324-1024.jpeg"
   caption = "Vocalist Reika JJ and pianist Seiji Endo performing at Barbra in 2012"

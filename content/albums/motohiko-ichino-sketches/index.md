@@ -6,7 +6,6 @@ keywords = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-fr
 tags = ["Motohiko Ichino", "市野元彦", "Hikaru Toho", "東保光", "Shinichiro Kamoto", "嘉本信一郎", "Taiichi Kamimura", "かみむら泰一"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/motohiko-ichino-sketches/"]
 [cover]
   image = "motohiko-ichino-sketches-460.jpeg"
   alt = "Cover art of Sketches by Motohiko Ichino"

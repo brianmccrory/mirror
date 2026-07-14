@@ -6,7 +6,6 @@ keywords = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you
 tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akane-matsumoto-little-girl-blue/"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
   alt = "Cover art of Little Girl Blue by Akane Matsumoto"

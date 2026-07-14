@@ -6,7 +6,6 @@ keywords = ["takayuki-yagi-new-departure"]
 tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay Anderson", "Billy Drummond"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/takayuki-yagi-new-departure/"]
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
   alt = "Cover art of New Departure by Takayuki Yagi"

@@ -7,7 +7,6 @@ keywords = ["cafe-cotton-club"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/cafe-cotton-club/"]
 [cover]
   image = "IMG_20251111_204631406_HDR-1200.jpeg"
   caption = "Cafe Cotton Club in Takadanobaba, Tokyo (November 2025)"

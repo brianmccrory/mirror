@@ -6,7 +6,6 @@ keywords = ["hiromi-miura-we-dont-know-yet"]
 tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoichi Zakota", "座小田諒一", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hiromi-miura-we-dont-know-yet/"]
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
   alt = "Cover art of We Don’t Know Yet by Hiromi Miura"

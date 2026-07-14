@@ -6,7 +6,6 @@ keywords = ["megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"]
 tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマグチ", "Ken Kobayashi", "小林健"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/"]
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
   alt = "Cover art of Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi"

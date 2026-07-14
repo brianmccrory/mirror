@@ -6,7 +6,6 @@ keywords = ["daiki-yasukagawa-trio-trios-ii"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Taihei Asakawa", "浅川太平", "Hitomi Nishiyama", "西山瞳", "Naoko Tanaka", "田中菜緒子", "Mamoru Ishida", "石田衛", "Ryo Noritake", "則武諒", "Yuto Hirase", "平瀬祐人", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/daiki-yasukagawa-trio-trios-ii/"]
 [cover]
   image = "daikiyasukagawa-trios2-460.jpeg"
   alt = "Cover art of Trios II by Daiki Yasukagawa Trio"

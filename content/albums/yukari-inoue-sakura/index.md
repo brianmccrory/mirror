@@ -6,7 +6,6 @@ keywords = ["yukari-inoue-sakura"]
 tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yukari-inoue-sakura/"]
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
   alt = "Cover art of Sakura by Yukari Inoue"

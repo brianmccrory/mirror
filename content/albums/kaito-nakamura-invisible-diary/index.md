@@ -6,7 +6,6 @@ keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
 tags = ["Kaito Nakamura", "中村海斗", "Riko Sasaki", "佐々木梨子", "Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Ippei Kato", "加藤一平"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/kaito-nakamura-invisible-diary/"]
 [cover]
   image = "kaito-nakamura-invisible-diary-460.jpeg"
   alt = "Cover art of Invisible Diary by Kaito Nakamura"

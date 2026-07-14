@@ -6,7 +6,6 @@ keywords = ["arco-birth"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/arco-birth/"]
 [cover]
   image = "arco-birth-460.jpeg"
   alt = "Cover art of Birth by Arco"

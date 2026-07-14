@@ -6,7 +6,6 @@ keywords = ["sohnosuke-imaizumi-rin"]
 tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和広", "Kazuhiro Tamura", "田村和大", "BLAHMUZIK", "ブラムジック"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/sohnosuke-imaizumi-rin/"]
 [cover]
   image = "sohnosukeimaizumi-rin-460.jpeg"
   alt = "Cover art of Rin by Sohnosuke Imaizumi"

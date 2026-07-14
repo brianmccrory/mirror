@@ -7,7 +7,6 @@ keywords = ["no-room-for-squares"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/no-room-for-squares/"]
 [cover]
   image = "IMG_20230325_233326128-1024.jpeg"
   caption = "Winding down after an energetic live jazz show at No Room for Squares."

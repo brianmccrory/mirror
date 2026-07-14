@@ -6,7 +6,6 @@ keywords = ["yuya-wakai-images"]
 tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/otohito-fuse-trio-isolated/"]
 [cover]
   image = "otohito-fuse-trio-isolated-460.jpeg"
   alt = "Cover art of Isolated by Otohito Fuse Trio"

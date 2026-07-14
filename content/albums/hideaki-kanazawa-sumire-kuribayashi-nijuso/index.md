@@ -6,7 +6,6 @@ keywords = ["hideaki-kanazawa-sumire-kuribayashi-nijuso"]
 tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hideaki-kanazawa-sumire-kuribayashi-nijuso/"]
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
   alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"

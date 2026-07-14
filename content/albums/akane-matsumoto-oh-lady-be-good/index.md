@@ -6,7 +6,6 @@ keywords = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "
 tags = ["Akane Matsumoto", "松本茜", "Ryu Kawamura", "川村竜", "Junji Hirose", "広瀬潤次"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akane-matsumoto-oh-lady-be-good/"]
 [cover]
   image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
   alt = "Cover art of Oh, Lady Be Good by Akane Matsumoto"

@@ -6,7 +6,6 @@ keywords = ["michiyo-matsushita-sally-gardens"]
 tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/michiyo-matsushita-sally-gardens/"]
 [cover]
   image = "michiyomatsushita-sally-460.jpeg"
   alt = "Cover art of Sally Gardens by Michiyo Matsushita"

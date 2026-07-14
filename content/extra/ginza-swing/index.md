@@ -7,7 +7,6 @@ keywords = ["ginza-swing"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/ginza-swing/"]
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"
   caption = "Ginza Swing jazz club"

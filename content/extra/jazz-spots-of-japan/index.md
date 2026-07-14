@@ -6,7 +6,6 @@ keywords = ["jazz-spots-of-japan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/jazz-spots-of-japan/"]
 [cover]
   image = "P1040163-1024.jpeg"
   caption = "Jazz & Coffee Yuri Since 1968 in Nagoya"

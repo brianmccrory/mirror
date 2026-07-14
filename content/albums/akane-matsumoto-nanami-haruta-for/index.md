@@ -6,7 +6,6 @@ keywords = ["akane-matsumoto-nanami-haruta-for"]
 tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akane-matsumoto-nanami-haruta-for/"]
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
   alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"

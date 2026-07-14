@@ -7,7 +7,6 @@ keywords = ["donfan"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/donfan/"]
 [cover]
   image = "P1020108-1024.jpeg"
   caption = "Jazz quartet with pianist Harumi Nomoto at Donfan in 2009"

@@ -6,7 +6,6 @@ keywords = ["hitomi-nishiyama-trio-music-in-you"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hitomi-nishiyama-trio-music-in-you/"]
 [cover]
   image = "hitominishiyama-musicinyou-460.jpeg"
   alt = "Cover art of Music in You by Hitomi Nishiyama Trio"

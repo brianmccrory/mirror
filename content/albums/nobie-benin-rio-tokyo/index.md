@@ -6,7 +6,6 @@ keywords = ["nobie-benin-rio-tokyo"]
 tags = ["Nobie", "ノビー", "Lionel Loueke", "Toninho Horta", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/nobie-benin-rio-tokyo/"]
 [cover]
   image = "nobie-benin-460.jpeg"
   alt = "Cover art of Bénin Rio Tokyo by Nobie"

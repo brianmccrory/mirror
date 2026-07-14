@@ -6,7 +6,6 @@ keywords = ["ten-top-10s-for-live-jazz-in-tokyo"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/ten-top-10s-for-live-jazz-in-tokyo/"]
 [cover]
   image = "IMG_20190629_212549307-1200.jpeg"
   caption = "Jazz cat figurines at Manhattan jazz club in Tokyo"

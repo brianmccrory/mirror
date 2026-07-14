@@ -6,7 +6,6 @@ keywords = ["tcq-memories-of-t"]
 tags = ["Shawna Yang", "Naoko Tanaka", "田中菜緒子", "Daiki Yasukagawa", "安ヵ川大樹", "Takeshi Sakamoto", "坂本健志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/tcq-memories-of-t/"]
 [cover]
   image = "tcq-memoriesoft-460.jpeg"
   alt = "Cover art of Memories of T by TCQ"

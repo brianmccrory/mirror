@@ -6,7 +6,6 @@ keywords = ["yukakoyamano-yukariinoue-dubai"]
 tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yukakoyamano-yukariinoue-dubai/"]
 [cover]
   image = "yukakoyamano-dubai-460.jpeg"
   alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"

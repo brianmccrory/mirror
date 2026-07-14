@@ -6,7 +6,6 @@ keywords = ["hideaki-hori-trio-in-my-words"]
 tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gene Jackson"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hideaki-hori-trio-in-my-words/"]
 [cover]
   image = "hideakihori-inmywords-460.jpeg"
   alt = "Cover art of In My Words by Hideaki Hori Trio"

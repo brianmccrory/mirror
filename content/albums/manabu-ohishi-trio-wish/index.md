@@ -6,7 +6,6 @@ keywords = ["manabu-ohishi-trio-wish"]
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/manabu-ohishi-trio-wish/"]
 [cover]
   image = "manabuohishi-wish-460.jpeg"
   alt = "Cover art of Wish by Manabu Ohishi Trio"

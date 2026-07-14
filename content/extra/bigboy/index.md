@@ -7,7 +7,6 @@ keywords = ["bigboy"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/bigboy/"]
 [cover]
   image = "IMG_20250314_140915677-1200.jpeg"
   caption = "Bigboy’s right exterior"

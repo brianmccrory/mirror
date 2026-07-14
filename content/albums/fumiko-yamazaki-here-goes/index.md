@@ -6,7 +6,6 @@ keywords = ["fumiko-yamazaki-here-goes"]
 tags = ["Fumiko Yamazaki", "山崎ふみこ", "Keizo Kawano", "河野啓三", "Shingo Tanaka", "田中晋吾", "Takashi Saito", "齋藤たかし"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/fumiko-yamazaki-here-goes/"]
 [cover]
   image = "fumiko-yamazaki-here-460.jpeg"
   alt = "Cover art of Here Goes! by Fumiko Yamazaki"

@@ -6,7 +6,6 @@ keywords = ["maki-fujimura-best-wishes"]
 tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/maki-fujimura-best-wishes/"]
 [cover]
   image = "makifujimura-best-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"

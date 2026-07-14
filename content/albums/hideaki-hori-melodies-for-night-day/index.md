@@ -6,7 +6,6 @@ keywords = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-ho
 tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hideaki-hori-melodies-for-night-day/"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
   alt = "Cover art of Melodies for Night & Day by Hideaki Hori"

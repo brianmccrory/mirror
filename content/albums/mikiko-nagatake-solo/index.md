@@ -6,7 +6,6 @@ keywords = ["tetsuji-yoshida-and-mikiko-nagatake"]
 tags = ["Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mikiko-nagatake-solo/"]
 [cover]
   image = "mikiko-nagatake-solo-460.jpeg"
   alt = "Cover art of Solo by Mikiko Nagatake"

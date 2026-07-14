@@ -7,7 +7,6 @@ keywords = ["paco"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/paco/"]
 [cover]
   image = "IMG_20181110_190247665-1024.jpeg"
   caption = "LiLi Vocal, pianist Takuya Ozaki, and guitarist Hiroyoshi Horie sharing a laugh during their jazz set."

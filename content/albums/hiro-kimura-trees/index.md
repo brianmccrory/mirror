@@ -6,7 +6,6 @@ keywords = ["reiko-yamamoto-square-pyramid", "fumika-asari-introducin", "hiro-ki
 tags = ["Akiha Nakashima", "中島朱葉", "Kohei Ando", "安藤康平", "Mao Sone", "曽根麻央", "Mamoru Ishida", "石田衛", "Naoko Tanaka", "田中菜緒子", "Keisuke Furuki", "古木佳祐", "Yuji Ito", "伊藤勇司", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hiro-kimura-trees/"]
 [cover]
   image = "hiro-kimura-trees-460.jpeg"
   alt = "Cover art of Trees by Hiro Kimura"

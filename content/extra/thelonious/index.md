@@ -7,7 +7,6 @@ keywords = ["thelonious"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/thelonious/"]
 [cover]
   image = "IMG_20250303_200615544-1200.jpeg"
   caption = "Mamoru Ishida (piano), Kenji Yoshitake (bass), and Minori Yagino (drums) at Thelonious in March 2025"

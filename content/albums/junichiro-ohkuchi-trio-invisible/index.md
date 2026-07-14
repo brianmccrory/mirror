@@ -7,7 +7,6 @@ lastmod = 2024-03-01
 tags = ["Junichiro Ohkuchi", "大口純一郎", "Yasushi Yoneki", "米木康志", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/junichiro-ohkuchi-trio-invisible/"]
 [cover]
   image = "junichiroohkuchi-invisible-460.jpeg"
   alt = "Cover art of Invisible by Junichiro Ohkuchi Trio"

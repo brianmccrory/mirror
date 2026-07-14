@@ -6,7 +6,6 @@ keywords = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-e
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/seiji-endo-piano-pieces-collection/"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-460.jpeg"
   alt = "Cover art of Piano Pieces Collection by Seiji Endo"

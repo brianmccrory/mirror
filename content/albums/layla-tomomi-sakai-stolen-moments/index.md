@@ -6,7 +6,6 @@ keywords = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island"]
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一", "Hideaki Nakaji", "中路英明", "Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/layla-tomomi-sakai-stolen-moments/"]
 [cover]
   image = "layla-tomomi-sakai-stolen-moments-460.jpeg"
   alt = "Cover art of Stolen Moments by Layla Tomomi Sakai"

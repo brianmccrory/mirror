@@ -6,7 +6,6 @@ keywords = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-h
 tags = ["Takumi Seino", "清野拓巳", "Motohiko Ichino", "市野元彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/takumi-seino-motohiko-ichino-frozen-dust/"]
 [cover]
   image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
   alt = "Cover art of Frozen Dust by Takumi Seino & Motohiko Ichino"

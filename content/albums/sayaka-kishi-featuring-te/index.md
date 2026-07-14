@@ -6,7 +6,6 @@ keywords = ["sayaka-kishi-featuring-te"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/sayaka-kishi-featuring-te/"]
 [cover]
   image = "sayakakishi-featte-460.jpeg"
   alt = "Cover art of Featuring Te by Sayaka Kishi"

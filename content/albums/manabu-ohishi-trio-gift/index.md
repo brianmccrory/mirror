@@ -6,7 +6,6 @@ keywords = ["manabu-ohishi-trio-gift"]
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/manabu-ohishi-trio-gift/"]
 [cover]
   image = "manabuohishi-gift-460.jpeg"
   alt = "Cover art of Gift by Manabu Ohishi Trio"

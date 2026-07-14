@@ -6,7 +6,6 @@ keywords = ["blue-dot-halo"]
 tags = ["Makoto Rikitake", "力武誠", "Tamashi Goto", "後藤魂", "Masanori Sugimoto", "杉本匡教", "Goro Katano", "片野吾朗", "Maki Fujimura", "藤村麻紀"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/blue-dot-halo/"]
 [cover]
   image = "bluedot-halo-460.jpeg"
   alt = "Cover art of Halo by Blue Dot"

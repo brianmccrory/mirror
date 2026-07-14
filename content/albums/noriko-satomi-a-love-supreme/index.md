@@ -6,7 +6,6 @@ keywords = ["noriko-satomi-a-love-supreme"]
 tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Shin Kamimura", "上村信", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/noriko-satomi-a-love-supreme/"]
 [cover]
   image = "norikosatomi-lovesupreme-460.jpeg"
   alt = "Cover art of A Love Supreme by Noriko Satomi"

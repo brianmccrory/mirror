@@ -6,7 +6,6 @@ keywords = ["hitomi-nishiyama-trio-sympathy"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hitomi-nishiyama-trio-sympathy/"]
 [cover]
   image = "hitominishiyama-sympathy-460.jpeg"
   alt = "Cover art of Sympathy by Hitomi Nishiyama Trio"

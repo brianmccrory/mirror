@@ -6,7 +6,6 @@ keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-i
 tags = ["Mamoru Ishida", "石田衛", "Ryohei Komaki", "小牧良平", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mamoru-ishida-afterglow/"]
 [cover]
   image = "mamoru-ishida-afterglow-460.jpeg"
   alt = "Cover art of Afterglow by Mamoru Ishida"

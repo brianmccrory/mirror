@@ -6,7 +6,6 @@ keywords = ["taihei-asakawa-waltz-for-debby"]
 tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/taihei-asakawa-waltz-for-debby/"]
 [cover]
   image = "taiheiasakawa-waltz-460.jpeg"
   alt = "Cover art of Waltz for Debby by Taihei Asakawa"

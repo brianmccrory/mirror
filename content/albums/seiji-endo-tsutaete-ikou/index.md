@@ -6,7 +6,6 @@ keywords = ["seiji-endo-tsutaete-ikou"]
 tags = ["Hiroco Nagano", "永野寛子", "Shinya Nitta", "仁田真也", "Seiji Endo", "遠藤征志", "Yasuhiro Hasegawa", "長谷川泰弘", "Yoshiyuki Nakaya", "中屋啓之", "Arata Umehara", "梅原新"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/seiji-endo-tsutaete-ikou/"]
 [cover]
   image = "seijiendo-tsutaeteikou-460.jpeg"
   alt = "Cover art of Tsutaete Ikou by Seiji Endo"

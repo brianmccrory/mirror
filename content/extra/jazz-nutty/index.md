@@ -7,7 +7,6 @@ keywords = ["jazz-nutty"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/jazz-nutty/"]
 [cover]
   image = "IMG_20240501_174529147_HDR-1200.jpeg"
   caption = "Speakers guard the entrance at Jazz Nutty"

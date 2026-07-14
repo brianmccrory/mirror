@@ -6,7 +6,6 @@ keywords = ["akane-matsumoto-playing-new-york"]
 tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akane-matsumoto-playing-new-york/"]
 [cover]
   image = "akanematsumoto-playing-460.jpeg"
   alt = "Cover art of Playing New York by Akane Matsumoto"

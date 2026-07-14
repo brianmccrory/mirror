@@ -6,7 +6,6 @@ keywords = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mik
 tags = ["Mikiko Nagatake", "永武幹子", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太", "Kosuke Mine", "峰厚介", "Eiichi Hayashi", "林栄一"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mikiko-nagatake-trio-breathe-beneath-the-sun/"]
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
   alt = "Cover art of Breathe Beneath the Sun by Mikiko Nagatake Trio"

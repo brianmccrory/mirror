@@ -6,7 +6,6 @@ keywords = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
 tags = ["Takako Yamada", "山田貴子", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/takako-yamada-trio-live-at-the-moment/"]
 [cover]
   image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
   alt = "Cover art of Live at The Moment by Takako Yamada Trio"

@@ -6,7 +6,6 @@ keywords = ["yuya-wakai-images"]
 tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuya-wakai-images/"]
 [cover]
   image = "yuyawakai-images-460.jpeg"
   alt = "Cover art of Images by Yuya Wakai"

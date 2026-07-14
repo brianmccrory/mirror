@@ -2,7 +2,7 @@ baseURL = 'https://mirror2.jazzofjapan.com/'
 locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
-disableAliases = true # use http redirects (see below)
+# disableAliases = true # not currently setting aliases (but see redirects below)
 
 [taxonomies]
   tag = "tags" # disable categories by not including here

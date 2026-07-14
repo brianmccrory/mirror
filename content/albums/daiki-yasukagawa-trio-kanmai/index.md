@@ -6,7 +6,6 @@ keywords = ["daiki-yasukagawa-trio-kanmai"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/daiki-yasukagawa-trio-kanmai/"]
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
   alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"

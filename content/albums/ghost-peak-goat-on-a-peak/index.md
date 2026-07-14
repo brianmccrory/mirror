@@ -6,7 +6,6 @@ keywords = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihi
 tags = ["Shinji Miyazaki", "宮崎真司", "Natsuki Tamura", "田村夏樹", "Taeko Kurita", "栗田妙子", "Hiroaki Mizutani", "水谷浩章"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ghost-peak-goat-on-a-peak/"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
   alt = "Cover art of The Goat on a Peak by Ghost Peak"

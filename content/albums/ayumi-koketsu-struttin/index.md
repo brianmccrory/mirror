@@ -6,7 +6,6 @@ keywords = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto
 tags = ["Ayumi Koketsu", "纐纈歩美", "Yoshihiko Naya", "納谷嘉彦", "Masayuki Tawarayama", "俵山昌之", "Mark Taylor"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/ayumi-koketsu-struttin/"]
 [cover]
   image = "ayumi-koketsu-struttin-460.jpeg"
   alt = "Cover art of Struttin’ by Ayumi Koketsu"

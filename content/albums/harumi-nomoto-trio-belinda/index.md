@@ -6,7 +6,6 @@ keywords = ["harumi-nomoto-trio-belinda"]
 tags = ["Harumi Nomoto", "野本晴美", "Noboru Ando", "安東昇", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/harumi-nomoto-trio-belinda/"]
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
   alt = "Cover art of Belinda by Harumi Nomoto Trio"

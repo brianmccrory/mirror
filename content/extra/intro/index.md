@@ -7,7 +7,6 @@ keywords = ["intro"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/intro/"]
 [cover]
   image = "P1040487-1024.jpeg"
   caption = "Jazz jam at Intro in 2010"

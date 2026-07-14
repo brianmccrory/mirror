@@ -7,7 +7,6 @@ keywords = ["natural"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/natural/"]
 [cover]
   image = "L1270458-1200.jpeg"
   caption = "Seiji Endo at Natural in January 2025"

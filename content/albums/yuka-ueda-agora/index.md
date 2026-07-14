@@ -6,7 +6,6 @@ keywords = ["yuka-ueda-agora"]
 tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuka-ueda-agora/"]
 [cover]
   image = "yukaueda-agora-460.jpeg"
   alt = "Cover art of Agora by Yuka Ueda"

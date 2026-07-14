@@ -7,7 +7,6 @@ keywords = ["blue-note-tokyo"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/blue-note-tokyo/"]
 [cover]
   image = "IMG_20240313_172834458_HDR-1200.jpeg"
   caption = "Welcome to Blue Note Tokyo"

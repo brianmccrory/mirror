@@ -6,7 +6,6 @@ keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-ch
 tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/fumie-chiba-trio-echoes/"]
 [cover]
   image = "fumie-chiba-trio-echoes-460.jpeg"
   alt = "Cover art of Echoes by Fumie Chiba Trio"

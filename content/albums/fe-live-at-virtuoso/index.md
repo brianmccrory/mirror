@@ -6,7 +6,6 @@ keywords = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past
 tags = ["Yuta Ikedo", "池戸祐太", "Ko Omura", "大村亘", "Keisuke Furuki", "古木佳祐", "Shinobu Ishizaki", "石崎忍"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/fe-live-at-virtuoso/"]
 [cover]
   image = "fe-live-at-virtuoso-460.jpeg"
   alt = "Cover art of Live at Virtuoso by Fe"

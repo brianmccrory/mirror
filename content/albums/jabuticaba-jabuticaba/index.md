@@ -6,7 +6,6 @@ keywords = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 tags = ["Mikiko Nagatake", "永武幹子", "Nami Kano", "加納奈実", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/jabuticaba-jabuticaba/"]
 [cover]
   image = "jabuticaba-jabuticaba-460.jpeg"
   alt = "Cover art of Jabuticaba by Jabuticaba"

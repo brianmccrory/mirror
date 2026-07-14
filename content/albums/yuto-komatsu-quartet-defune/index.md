@@ -6,7 +6,6 @@ keywords = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki
 tags = ["Yuto Komatsu", "小松悠人", "Mikiko Nagatake", "永武幹子", "Daisuke Ijichi", "伊地知大輔", "Makoto Rikitake", "力武誠"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuto-komatsu-quartet-defune/"]
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
   alt = "Cover art of Defune by Yuto Komatsu Quartet"

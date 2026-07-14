@@ -6,7 +6,6 @@ keywords = ["yuka-ueda-dois"]
 tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ryoji Orihara", "織原良次", "Nobuyuki Komatsu", "小松伸之", "Shinji Hashimoto", "橋本信二", "Jo da Babylonia", "ジョー・ダ・バビロニア"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yuka-ueda-dois/"]
 [cover]
   image = "yukaueda-dois-460.jpeg"
   alt = "Cover art of Dois by Yuka Ueda"

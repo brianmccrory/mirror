@@ -7,7 +7,6 @@ keywords = ["jazzspot-j"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/jazzspot-j/"]
 [cover]
   image = "DSC_5408-1200.jpeg"
   caption = "Jazzspot J jazz live on New Year’s Eve 2006"

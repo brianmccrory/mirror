@@ -7,7 +7,6 @@ keywords = ["hot-house"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/hot-house/"]
 [cover]
   image = "L1040205-1024.jpeg"
   caption = "Kohsuke Mine plays with Akane Matsumoto at Hot House in 2012."

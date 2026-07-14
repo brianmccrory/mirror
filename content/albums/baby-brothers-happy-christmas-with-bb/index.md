@@ -6,7 +6,6 @@ keywords = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/baby-brothers-happy-christmas-with-bb/"]
 [cover]
   image = "babybrothers-happy-christmas-460.jpeg"
   alt = "Cover art of Happy Christmas with Bb by Baby Brothers"

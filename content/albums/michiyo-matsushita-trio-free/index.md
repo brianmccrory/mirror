@@ -6,7 +6,6 @@ keywords = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-f
 tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/michiyo-matsushita-trio-free/"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
   alt = "Cover art of Free by Michiyo Matsushita Trio"

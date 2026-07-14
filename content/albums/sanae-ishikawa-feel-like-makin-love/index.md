@@ -6,7 +6,6 @@ keywords = ["sanae-ishikawa-feel-like-makin-love"]
 tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shinji Hashimoto", "橋本信二", "Daisuke Toi", "トオイダイスケ", "Satoshi Kosugi", "小杉敏", "Cecil Monroe"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/sanae-ishikawa-feel-like-makin-love/"]
 [cover]
   image = "sanaeishikawa-feellike-460.jpeg"
   alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"

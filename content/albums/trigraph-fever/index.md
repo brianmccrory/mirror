@@ -6,7 +6,6 @@ keywords = ["trigraph-fever"]
 tags = ["Takayoshi Baba", "馬場孝喜", "Reikan Kobayashi", "小林鈴勘", "Sanae Ishikawa", "石川早苗", "Ryoji Orihara", "織原良次", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/trigraph-fever/"]
 [cover]
   image = "trigraph-fever-460.jpeg"
   alt = "Cover art of Fever by Trigraph"

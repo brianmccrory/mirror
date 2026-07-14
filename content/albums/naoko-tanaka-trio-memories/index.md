@@ -6,7 +6,6 @@ keywords = ["naoko-tanaka-trio-memories"]
 tags = ["Naoko Tanaka", "田中菜緒子", "Koji Yasuda", "安田幸司", "Masanori Ando", "安藤正則", "Yoshiro Okazaki", "岡崎好朗", "Daiki Yasukagawa", "安ヵ川大樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/naoko-tanaka-trio-memories/"]
 [cover]
   image = "naokotanaka-memories-460.jpeg"
   alt = "Cover art of Memories by Naoko Tanaka Trio"

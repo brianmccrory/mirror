@@ -6,7 +6,6 @@ keywords = ["rie-taguchi-the-gift-ii"]
 tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada", "多田誠司", "Noriko Satomi", "里見紀子", "Mitsukuni Tanabe", "田辺充邦", "Yusuke Nakaishi", "仲石裕介", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/rie-taguchi-the-gift-ii/"]
 [cover]
   image = "rietaguchi-gift-ii-460.jpeg"
   alt = "Cover art of The Gift II by Rie Taguchi"

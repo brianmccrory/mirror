@@ -6,7 +6,6 @@ keywords = ["taihei-asakawa-trio-touch-of-winter"]
 tags = ["Taihei Asakawa", "浅川太平", "Daiki Yasukagawa", "安ヵ川大樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/taihei-asakawa-trio-touch-of-winter/"]
 [cover]
   image = "taiheiasakawa-touch-460.jpeg"
   alt = "Cover art of Touch of Winter by Taihei Asakawa Trio"

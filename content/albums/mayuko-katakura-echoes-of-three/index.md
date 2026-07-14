@@ -6,7 +6,6 @@ keywords = ["mayuko-katakura-echoes-of-three"]
 tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士", "Carmen Intorre Jr."]
 categories = ["albums"]
 draft = false
-aliases = ["/p/mayuko-katakura-echoes-of-three/"]
 [cover]
   image = "mayukokatakura-echoes-460.jpeg"
   alt = "Cover art of The Echoes of Three by Mayuko Katakura"

@@ -7,7 +7,6 @@ keywords = ["sometime"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/sometime/"]
 [cover]
   image = "L1030851-1024.jpeg"
   caption = "Guitarist Yudo Matsuo with Bonanza in 2012"

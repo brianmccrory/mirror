@@ -6,7 +6,6 @@ keywords = ["akihiro-yoshimoto-quartet-64-charlesgate"]
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Nanami Haruta", "治田七海", "Raiga Hayashi", "林頼我", "Makoto Togashi", "冨樫マコト"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akihiro-yoshimoto-quartet-64-charlesgate/"]
 [cover]
   image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
   alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"

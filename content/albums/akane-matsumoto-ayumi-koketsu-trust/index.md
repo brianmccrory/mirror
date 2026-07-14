@@ -6,7 +6,6 @@ keywords = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "
 tags = ["Akane Matsumoto", "松本茜", "Ayumi Koketsu", "纐纈歩美"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akane-matsumoto-ayumi-koketsu-trust/"]
 [cover]
   image = "akane-matsumoto-ayumi-koketsu-trust-460.jpeg"
   alt = "Cover art of Trust by Akane Matsumoto & Ayumi Koketsu"

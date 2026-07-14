@@ -6,7 +6,6 @@ keywords = ["shinpei-ruike-george-nakajima-n40"]
 tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/shinpei-ruike-george-nakajima-n40/"]
 [cover]
   image = "ruike-nakajima-n40-460.jpeg"
   alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"

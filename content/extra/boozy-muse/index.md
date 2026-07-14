@@ -7,7 +7,6 @@ keywords = ["boozy-muse"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/boozy-muse/"]
 [cover]
   image = "L1050863-1024.jpeg"
   caption = "Vocalist Ami Hirai singing at Boozy Muse in 2013"

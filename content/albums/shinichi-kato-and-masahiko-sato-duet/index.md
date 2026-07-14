@@ -6,7 +6,6 @@ keywords = ["shinichi-kato-and-masahiko-sato-duet"]
 tags = ["Shinichi Kato", "加藤真一", "Masahiko Sato", "佐藤允彦"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/shinichi-kato-and-masahiko-sato-duet/"]
 [cover]
   image = "kato-sato-duet-460.jpeg"
   alt = "Cover art of Duet by Shinichi Kato & Masahiko Sato"

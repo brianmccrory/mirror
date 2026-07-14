@@ -6,7 +6,6 @@ keywords = ["shunichi-yanagi-trio-slope"]
 tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Masatsugu Hattori", "服部正嗣"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/shunichi-yanagi-trio-slope/"]
 [cover]
   image = "shunichi-yanagi-slope-460.jpeg"
   alt = "Cover art of Slope by Shunichi Yanagi Trio"

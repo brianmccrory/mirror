@@ -6,7 +6,6 @@ keywords = ["tetsuji-yoshida-and-mikiko-nagatake"]
 tags = ["Tetsuji Yoshida", "吉田哲治", "Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/tetsuji-yoshida-and-mikiko-nagatake/"]
 [cover]
   image = "tetsujiyoshida-mikikonagatake-knuttel-460.jpeg"
   alt = "Cover art of Live at Knuttel House by Tetsuji Yoshida & Mikiko Nagatake Duo"

@@ -6,7 +6,6 @@ keywords = ["yasumasa-kumagai-pray"]
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜", "Kohzo Komori", "小森耕造", "DJ Passo"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/yasumasa-kumagai-pray/"]
 [cover]
   image = "yasumasakumagai-pray-460.jpeg"
   alt = "Cover art of Pray by Yasumasa Kumagai"

@@ -7,7 +7,6 @@ keywords = ["dug"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/dug/"]
 [cover]
   image = "P1010446-1024.jpeg"
   caption = "Relaxing with great music and atmosphere in a dark corner of Dug"

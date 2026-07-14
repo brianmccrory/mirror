@@ -6,7 +6,6 @@ keywords = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "m
 tags = ["Hideaki Hori", "堀秀彰", "Tetsuyuki Kishi", "岸徹至", "Manabu Hashimoto", "橋本学", "Nobuyuki Komatsu", "小松伸之", "Hideki Kawamura", "河村英樹"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/hideaki-hori-horizon/"]
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
   alt = "Cover art of Horizon by Hideaki Hori"

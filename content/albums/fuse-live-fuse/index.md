@@ -6,7 +6,6 @@ keywords = ["fuse-live-fuse"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/fuse-live-fuse/"]
 [cover]
   image = "fuse-live-460.jpeg"
   alt = "Cover art of Live Fuse by Fuse"

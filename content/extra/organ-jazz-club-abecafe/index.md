@@ -7,7 +7,6 @@ keywords = ["organ-jazz-club-abecafe"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/organ-jazz-club-abecafe/"]
 [cover]
   image = "IMG_20251004_203751695_HDR-1200.jpeg"
   caption = "Daisuke Kawai on organ Otsuki Hidenobu Kalta Otsuki on drums at Organ Jazz Club Abecafe in 2025"

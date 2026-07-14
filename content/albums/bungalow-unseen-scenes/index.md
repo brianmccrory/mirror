@@ -6,7 +6,6 @@ keywords = ["bungalow-unseen-scenes"]
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/bungalow-unseen-scenes/"]
 [cover]
   image = "bungalow-unseen-460.jpeg"
   alt = "Cover art of Unseen Scenes by Bungalow"

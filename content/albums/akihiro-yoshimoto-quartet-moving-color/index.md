@@ -7,7 +7,6 @@ lastmod = 2024-04-06
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takashi Sugawa", "須川崇志", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/akihiro-yoshimoto-quartet-moving-color/"]
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
   alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"

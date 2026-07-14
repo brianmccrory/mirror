@@ -7,7 +7,6 @@ keywords = ["jz-brat"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/jz-brat/"]
 [cover]
   image = "P1030831-1024.jpeg"
   caption = "The fashionably understated entrance to JZ Brat"

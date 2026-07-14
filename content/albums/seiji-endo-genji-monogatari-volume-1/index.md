@@ -6,7 +6,6 @@ keywords = ["seiji-endo-genji-monogatari-volume-1"]
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/seiji-endo-genji-monogatari-volume-1/"]
 [cover]
   image = "seijiendo-genji-460.jpeg"
   alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"

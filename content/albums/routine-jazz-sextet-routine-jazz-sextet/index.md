@@ -6,7 +6,6 @@ keywords = ["routine-jazz-sextet-routine-jazz-sextet"]
 tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wataru Hamasaki", "浜崎航", "Taku Akiyama", "秋山卓", "Koichi Sato", "佐藤浩一", "Haruhisa Takamichi", "高道晴久"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/routine-jazz-sextet-routine-jazz-sextet/"]
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
   alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"

@@ -6,7 +6,6 @@ keywords = ["maiko-trio-live-three"]
 tags = ["maiko", "マイコ", "Hiroki Miyano", "宮野弘紀", "Shikou Ito", "伊藤志宏"]
 categories = ["albums"]
 draft = false
-aliases = ["/p/maiko-trio-live-three/"]
 [cover]
   image = "maikotrio-three-460.jpeg"
   alt = "Cover art of Live! Three by Maiko Trio"

@@ -7,7 +7,6 @@ keywords = ["satin-doll"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/satin-doll/"]
 [cover]
   image = "L1060938x-1200.jpeg"
   caption = "Rie Taguchi's Birthday Live with Mai Suzuki and Mayumi Miyata at Satin Doll in 2013"

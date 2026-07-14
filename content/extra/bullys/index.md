@@ -7,7 +7,6 @@ keywords = ["bullys"]
 tags = [""]
 categories = ["extra"]
 draft = false
-aliases = ["/p/bullys/"]
 [cover]
   image = "IMG_20181116_230632667x-1024.jpeg"
   caption = "Vocalist Akiko Suda performs at Bully's in 2018"

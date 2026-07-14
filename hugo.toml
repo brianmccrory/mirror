@@ -2,22 +2,20 @@ baseURL = 'https://mirror2.jazzofjapan.com/'
 locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  
+disableAliases = true # use http redirects (see below)
+
 [taxonomies]
   tag = "tags" # disable categories by not including here
   
 [permalinks]
-[permalinks.page]
-  albums = "/archive/:slug/" # to maintain buttondown urls for now
-  extra = "/archive/:slug/" # to maintain buttondown urls for now
-#  clubs = "/club/:slug/"
-#  guides = "/club/:slug/"
-#  blog = '/blog/:year/:month/:slug/' # for the "behind the scenes" posts
+  [permalinks.page]
+    albums = "/archive/:slug/" # to maintain buttondown urls for now
+    extra = "/archive/:slug/" # to maintain buttondown urls for now
+#    clubs = "/club/:slug/"
+#    guides = "/club/:slug/"
+#    blog = '/blog/:year/:month/:slug/' # for the "behind the scenes" posts
 
-# replaced below by params.pagination, used in list.html
-# [pagination]
+# [pagination] # replaced below by params.pagination used by list.html
 #   pagerSize = 30
 
 [markup]
@@ -45,7 +43,7 @@ This is an experimental mirror site for <a href="https://www.jazzofjapan.com">Ja
 """
 
   [params.footer]
-    text = 'Since 2018 · <a href="/index.xml">RSS feed</a>'
+    text = 'Since 2018 · <a href="/index.xml">RSS</a>'
   [params.cover]
     hidden = false
     hiddenInList = false
@@ -120,3 +118,19 @@ This is an experimental mirror site for <a href="https://www.jazzofjapan.com">Ja
   name = "Subscribe"
   url = "https://www.jazzofjapan.com"
   weight = 8
+
+
+# Redirect via _redirects file (server-side, http, supported by cloudflare), not hugo redirects (client-side, html)
+[mediaTypes]
+  [mediaTypes.'text/redirects']
+    delimiter = ''
+
+[outputFormats]
+  [outputFormats.redirects]
+    baseName = '_redirects'
+    isPlainText = true
+    mediaType = 'text/redirects'
+    root = true
+
+[outputs]
+  home = ['html', 'redirects', 'rss', 'json']

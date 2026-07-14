@@ -26,7 +26,7 @@ The first three tracks lead off by displaying curiosity and fun, rich, mellow mu
 {{< figure src="L1230447x-1024.jpeg" link="L1230447x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Fumie Chiba.)_
 
@@ -87,7 +87,7 @@ The reminiscence of a short and simple motif appears several times. From the alb
 {{< figure src="L1230453x-1024.jpeg" link="L1230453x-1024.jpeg" >}}
 
 
-## Canvas by FNK {#canvas-by-fnk}
+## Canvas by FNK
 
 -   [Fumie Chiba](/tags/fumie-chiba) - piano
 -   [Nao Teraya](/tags/nao-teraya) - guitar
@@ -98,7 +98,7 @@ Released in 2022 on Fumie Chiba as UR-003.
 _Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzuki Kaoru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Prologue”, track #1 on this album:](https://youtu.be/n4uoyclzy54)
 
@@ -112,4 +112,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzu
 
 {{< youtube zS2NADPB0QI >}}
 
--   Excerpt from track #3: [“走れ、走れメロス (_Run, run, Melos_)”](/audio/#mix-9)
+-   [Excerpt from track #3: “走れ、走れメロス (_Run, run, Melos_)”](/audio/#mix-9)

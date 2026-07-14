@@ -28,7 +28,7 @@ Track #6 “Teoribata” is a slower song written for bassist Orihara to shine p
 {{< figure src="L1230225x-1200.jpeg" link="L1230225x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -174,14 +174,14 @@ He began playing clarinet when he joined the brass band in middle school. He pla
 He became a professional musician at 17 years of age by training in big bands and R&amp;B groups. In 1980, he joined the Yosuke Yamashita Trio as “Plus One”, and a concert recorded during their ‘83 European Tour was released as a live recording. In 1990, he formed his own band MAZURU and released an album under that name which was well received. To this day, he is active and widely recognized as one of Japan’s top alto players, and his inimitable sound is an essential part of groups including the Takeshi Shibuya Orchestra, Fumio Itabashi’s band, and Akihiro Ishiwatari’s Mull House. In 2012, he released GATOS Meeting’s self-titled album featuring his three-horn arrangements. In July 2015, in the culmination of his work as an arranger, he led the 13-piece Eiichi Hayashi MAZURU Hokkaido Orchestra where he was showered with applause from large crowds of free jazz fans who gathered all over Hokkaido. Among his numerous releases, his representative work includes _de-ga-show_, _Monk’s Mood_, _Oto no Tsubu_, _MAZURU no Yume_, _Mori no Hito_, _Birds and Bees_, and _Tsuru_.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 “The music was inspiring, and there were many moments that touched my heart directly. I love that kind of music.” Yoshiaki Masuo
 
 {{< figure src="L1240173x-1200.jpeg" link="L1240173x-1200.jpeg" >}}
 
 
-## Breathe Beneath the Sun by Mikiko Nagatake Trio {#breathe-beneath-the-sun-by-mikiko-nagatake-trio}
+## Breathe Beneath the Sun by Mikiko Nagatake Trio
 
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -194,7 +194,7 @@ Released in 2022 on Owl Wing Record as OWL-041.
 _Japanese names: 永武幹子 Nagatake Mikiko 織原良次 Orihara Ryoji 吉良創太 Kira Sota 峰厚介 Mine Kosuke 林栄一 Hayashi Eiichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Not Even Heaven Knows” (track #2):](https://youtu.be/rl9yh7TGpwE)
 
@@ -220,4 +220,4 @@ _Japanese names: 永武幹子 Nagatake Mikiko 織原良次 Orihara Ryoji 吉良�
 
 {{< youtube 0i-uQ9GLBO0 >}}
 
--   Excerpt from track #1: [“Introduction -Breathe Beneath the Sun-”](/audio/#mix-14)
+-   [Excerpt from track #1: “Introduction -Breathe Beneath the Sun-”](/audio/#mix-14)

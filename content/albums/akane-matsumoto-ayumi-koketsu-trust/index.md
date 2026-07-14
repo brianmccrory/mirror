@@ -32,7 +32,7 @@ That’s not to say it’s all romantic ballads and sleepy atmospheres. As a sin
 {{< figure src="L1280700x-1200.jpeg" link="L1280700x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Akane Matsumoto and Ayumi Koketsu’s original Japanese liner notes.)_
 
@@ -69,14 +69,14 @@ There’s a place I always visit whenever I go back to my hometown. Near my hous
 This is a ballad made famous by Bill Evans’ beautiful performance. The soft, gentle sound of alto sax elevates the striking melody. I’ve shared the stage with Ayumi countless times, and we’ve lived through the same period in music together. For me, the term “sworn friends” is a perfect fit. We’ve continued our work while supporting, accepting, and complimenting one another. The deep understanding of what is important to each of us and the many heartfelt discussions we’ve had may just be the source of strength for our music. For twelve years we’ve been pursuing the goal of striving to make our music better and better, together. This album is both a culmination of that, as well as a new starting point for the next stage. (Akane Matsumoto)
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 A twelve-year path walked together, carefully listening to and harmonizing with each other’s sound. As musicians on a long and challenging journey, uncovering the secret to expressing the wonders of music. It’s nothing other than “Trust.”
 
 {{< figure src="L1280705x-1200.jpeg" link="L1280705x-1200.jpeg" >}}
 
 
-## Trust by Akane Matsumoto &amp; Ayumi Koketsu {#trust-by-akane-matsumoto-and-ayumi-koketsu}
+## Trust by Akane Matsumoto &amp; Ayumi Koketsu
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 -   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
@@ -86,7 +86,7 @@ Released in 2024 on Concept Record as CR-18.
 _Japanese names: 松本茜 Matsumoto Akane 纐纈歩美 Koketsu Ayumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Stephanie”, track #1 on this album:](https://youtu.be/a4YOjhT2hYg)
 
@@ -112,4 +112,4 @@ _Japanese names: 松本茜 Matsumoto Akane 纐纈歩美 Koketsu Ayumi_
 
 {{< youtube tSOocCLBI3Q >}}
 
--   Excerpt from track #3: [“Spring Is Here”](/audio/#mix-13)
+-   [Excerpt from track #3: “Spring Is Here”](/audio/#mix-13)

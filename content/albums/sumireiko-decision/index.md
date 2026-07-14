@@ -38,7 +38,7 @@ The title track #6 “Decision” is a multi-part suite whose sections introduce
 {{< figure src="L1300349x-1200.jpeg" link="L1300349x-1200.jpeg" >}}
 
 
-## Decision by Sumireiko {#decision-by-sumireiko}
+## Decision by Sumireiko
 
 -   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
@@ -48,7 +48,7 @@ Released in 2020 on Sumireiko as Decision.
 _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/Ld9PzJLe9M4)
 
@@ -56,4 +56,4 @@ _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire_
 
 -   [Sumireiko: _Decision_ (six-song digital album version on Bandcamp)](https://sumireiko.bandcamp.com/album/decision)
 
--   Excerpt from track #1: [“Lull In The Rain”](/audio/#mix-14)
+-   [Excerpt from track #1: “Lull In The Rain”](/audio/#mix-14)

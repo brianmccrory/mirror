@@ -34,7 +34,7 @@ Here are some too-brief glances at the overall album flow: The thirty-seven minu
 {{< figure src="L1270667x-1200.jpeg" link="L1270667x-1200.jpeg" >}}
 
 
-## The Goat on a Peak by Ghost Peak {#the-goat-on-a-peak-by-ghost-peak}
+## The Goat on a Peak by Ghost Peak
 
 -   [Shinji Miyazaki](/tags/shinji-miyazaki) - guitar
 -   [Natsuki Tamura](/tags/natsuki-tamura) - trumpet
@@ -46,7 +46,7 @@ Released in 2023 on Stereo Equipment Music Works as SEMW-04.
 _Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田妙子 Kurita Taeko 水谷浩章 Mizutani Hiroaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Shinji Miyazaki playing “Ghost Peak” in 2022:](https://youtu.be/nRLIgCJEAiA)
 
@@ -62,9 +62,9 @@ _Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田
 
 -   [Ghost Peak 1 (Ghost Peak’s first album](https://shinjimiyazaki.bandcamp.com/album/ghost-peak-1)
 
--   Excerpt from track #2: [“A Goat Climbs A Peak”](/audio/#mix-12)
+-   [Excerpt from track #2: “A Goat Climbs A Peak”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [Album info](https://semwstore.base.shop/items/81158611)

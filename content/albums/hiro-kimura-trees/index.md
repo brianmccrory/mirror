@@ -32,7 +32,7 @@ While this is a drummer-led album, Kimura shares the stage generously with all o
 {{< figure src="L1250827x-1200.jpeg" link="L1250827x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hiro Kimura’s original Japanese liner notes.)_
 
@@ -87,7 +87,7 @@ _Hiro Kimura_
 {{< figure src="L1250843x-1200.jpeg" link="L1250843x-1200.jpeg" >}}
 
 
-## Trees by Hiro Kimura {#trees-by-hiro-kimura}
+## Trees by Hiro Kimura
 
 -   [Akiha Nakashima](/tags/akiha-nakashima) - alto sax, soprano sax (#2, 4, 5, 8)
 -   [Kohei Ando](/tags/kohei-ando) - alto sax, soprano sax (#1, 3, 4, 7, 9)
@@ -103,7 +103,7 @@ Released in 2021 on KINO Records as KIN-001.
 _Japanese names: 中島朱葉 Nakashima Akiha 安藤康平 Ando Kohei 曽根麻央 Sone Mao 石田衛 Ishida Mamoru 田中菜緒子 Tanaka Naoko 古木佳祐 Furuki Keisuke 伊藤勇司 Ito Yuji 木村紘 Kimura Hiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Winter Pillow”, track #1 on this album:](https://youtu.be/ZnWDOCe_MQg)
 
@@ -123,4 +123,4 @@ _Japanese names: 中島朱葉 Nakashima Akiha 安藤康平 Ando Kohei 曽根麻�
 
 -   [Album stream (Songlink/Odesli)](https://album.link/us/i/1583910860)
 
--   Excerpt from track #4: [“Updraft”](/audio/#mix-12)
+-   [Excerpt from track #4: “Updraft”](/audio/#mix-12)

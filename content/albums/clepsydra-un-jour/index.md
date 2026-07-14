@@ -36,7 +36,7 @@ The pages of the Clepsydra storybook flit creatively through adventurous, wistfu
 Clepsydra’s _Un Jour /includes eight songs by Toshihiko Inoue, two by Masaki Hayashi, and one by Yoshiaki Sato. Other than this album, their recorded legacy consists of a live concert DVD with five songs from /Un Jour_ which can viewed through a video link below.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The first album from Toshihiko Inoue’s “Clepsydra”.
 
@@ -57,7 +57,7 @@ The first album from Toshihiko Inoue’s “Clepsydra”.
 {{< figure src="IMG_20231011_165841096x-1200.jpeg" link="IMG_20231011_165841096x-1200.jpeg" >}}
 
 
-## Un Jour by Clepsydra {#un-jour-by-clepsydra}
+## Un Jour by Clepsydra
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
 -   [Yoshiaki Sato](/tags/yoshiaki-sato) - accordion, clavietta, chorus
@@ -69,7 +69,7 @@ Released in 2011 on Casnet Music as CSNT-8006.
 _Japanese names: 井上淑彦 Inoue Toshihiko 佐藤芳明 Sato Yoshiaki 林正樹 Hayashi Masaki 仙道さおり Sendo Saori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of #3 “Little Tree”:](https://youtu.be/Fm_s3Qq5R8Q)
 
@@ -91,4 +91,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko 佐藤芳明 Sato Yoshiaki 林正�
 
 {{< youtube id=A9da1TZF3v8 start=1139 >}}
 
--   Excerpt from track #1: [“息吹 (_Breath_)”](/audio/#mix-11)
+-   [Excerpt from track #1: “息吹 (_Breath_)”](/audio/#mix-11)

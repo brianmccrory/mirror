@@ -42,7 +42,7 @@ Naturally, the spotlight focuses on Satomi as the main lead performer, and while
 {{< figure src="L1240867x-1200.jpeg" link="L1240867x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Noriko Satomi’s original Japanese liner notes.)_
 
@@ -145,7 +145,7 @@ As an arranger for strings, she’s worked on songs by m-flo, TOKU, and others, 
 {{< figure src="L1240860x-1200.jpeg" link="L1240860x-1200.jpeg" >}}
 
 
-## Project-N by Noriko Satomi {#project-n-by-noriko-satomi}
+## Project-N by Noriko Satomi
 
 -   [Noriko Satomi](/tags/noriko-satomi) - violin
 -   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
@@ -157,7 +157,7 @@ Released in 2017 on Altered Records as ALTVN-1001.
 _Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 生沼邦夫 Oinuma Kunio 大坂昌彦 Osaka Masahiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpt from “Norinori”, track #1 on this album:](https://youtu.be/U8pcEmMfwv8)
 
@@ -179,4 +179,4 @@ _Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 生沼
 
 {{< youtube 324C9LF38AI >}}
 
--   Excerpt from track #12: [“Yakusoku-Yakusoku-”](/audio/#mix-10)
+-   [Excerpt from track #12: “Yakusoku-Yakusoku-”](/audio/#mix-10)

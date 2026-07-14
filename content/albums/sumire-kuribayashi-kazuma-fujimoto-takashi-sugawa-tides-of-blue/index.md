@@ -22,7 +22,7 @@ The album brims with brilliant acoustic music full of clear harmonies and patien
 {{< figure src="L1300748x-1200.jpeg" link="L1300748x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Akiomi Hirano’s original Japanese liner notes.)_
 
@@ -143,7 +143,7 @@ It may be that only _athletes_ can create a _new overall picture_ imbued with th
 Founder/Producer
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa _Tides of Blue_ <br />
 A gathering of three musicians who know the virtues of acoustic music well! <br />
@@ -154,7 +154,7 @@ An unparalleled chemistry created by leading personalities in the Japanese jazz 
 {{< figure src="L1300807x-1200.jpeg" link="L1300807x-1200.jpeg" >}}
 
 
-## Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa {#tides-of-blue-by-sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa}
+## Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
 
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
 -   [Kazuma Fujimoto](/tags/kazuma-fujimoto) - guitar
@@ -165,7 +165,7 @@ Released in 2025 on Days of Delight as DOD-051.
 _Japanese names: 栗林すみれ Kuribayashi Sumire 藤本一馬 Fujimoto Kazuma 須川崇志 Sugawa Takashi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/VuBMFJOrOUo)
 
@@ -179,4 +179,4 @@ _Japanese names: 栗林すみれ Kuribayashi Sumire 藤本一馬 Fujimoto Kazuma
 
 {{< youtube xyaf3MoQNNA >}}
 
--   Excerpt from track #2: [“The Ways To Come Back Home Again”](/audio/#mix-14)
+-   [Excerpt from track #2: “The Ways To Come Back Home Again”](/audio/#mix-14)

@@ -34,7 +34,7 @@ In addition to providing a glimpse into the modern working trio in Tokyo’s cur
 {{< figure src="L1220845-1024.jpg" link="L1220845-1024.jpg" >}}
 
 
-## Trios II by Daiki Yasukagawa Trio {#trios-ii-by-daiki-yasukagawa-trio}
+## Trios II by Daiki Yasukagawa Trio
 
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano (#1, 2)
@@ -50,10 +50,10 @@ Released in 2015 on D-Musica as DMCD-28.
 _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 浅川太平 Asakawa Taihei 西山瞳 Nishiyama Hitomi 田中菜緒子 Tanaka Naoko 石田衛 Ishida Mamoru 則武諒 Noritake Ryo 平瀬祐人 Hirase Yuto 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Daiki Yasukagawa Trio video for Trios II:](https://youtu.be/bYYrAPfr9Fg)
 
 {{< youtube bYYrAPfr9Fg >}}
 
--   Excerpt from track #1: [“Tonight”](/audio/#mix-5)
+-   [Excerpt from track #1: “Tonight”](/audio/#mix-5)

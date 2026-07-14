@@ -30,7 +30,7 @@ Filling out the package is one original song, the comfortable home base of a gro
 {{< figure src="L1230298x-1200.jpeg" link="L1230298x-1200.jpeg" >}}
 
 
-## Ol’ School Jazz by Yasumasa Kumagai &amp; Ryu Kawamura {#ol-school-jazz-by-yasumasa-kumagai-and-ryu-kawamura}
+## Ol’ School Jazz by Yasumasa Kumagai &amp; Ryu Kawamura
 
 -   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
 -   [Ryu Kawamura](/tags/ryu-kawamura) - bass
@@ -40,10 +40,10 @@ Released in 2009 on Anturtle Tune as ANTX-4005.
 _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “All the Things You Are”, track #5 from this album:](https://youtu.be/pACk2C8Tbk4)
 
 {{< youtube pACk2C8Tbk4 >}}
 
--   Excerpt from track #11: [“Blues”](/audio/#mix-11)
+-   [Excerpt from track #11: “Blues”](/audio/#mix-11)

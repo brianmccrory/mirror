@@ -28,7 +28,7 @@ Throughout, a sense of lightness and ease persists throughout the recording. Whi
 {{< figure src="L1240818x-1200.jpeg" link="L1240818x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translation of Tomoyuki Hoshino’s original Japanese liner notes.)_
 
@@ -59,7 +59,7 @@ _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calenda
 {{< figure src="L1240831x-1200.jpeg" link="L1240831x-1200.jpeg" >}}
 
 
-## Tranquillo by Miwo {#tranquillo-by-miwo}
+## Tranquillo by Miwo
 
 -   [MIWO](/tags/miwo) - vocal
 -   [Mamoru Ishida](/tags/mamoru-ishida) - piano
@@ -71,10 +71,10 @@ Released in 2020 on Musica Fortunata as MF-001.
 _Japanese names: 石田衛 Ishida Mamoru 安ヵ川大樹 Yasukagawa Daiki 関根彰良 Sekine Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/em2OGdp0_j8)
 
 {{< youtube em2OGdp0_j8 >}}
 
--   Excerpt from track #4: [“Desafinado”](/audio/#mix-11)
+-   [Excerpt from track #4: “Desafinado”](/audio/#mix-11)

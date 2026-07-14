@@ -30,7 +30,7 @@ Along with standard jazz tunes including “I Got Rhythm”, “La Fiesta”, an
 {{< figure src="L1220448-1024.jpg" link="L1220448-1024.jpg" >}}
 
 
-## Sakura by Yukari Inoue {#sakura-by-yukari-inoue}
+## Sakura by Yukari Inoue
 
 -   [Yukari Inoue](/tags/yukari-inoue) - piano
 
@@ -39,10 +39,10 @@ Released in 2012 on Silver Fingers/Roving Spirits as RKCJ-2053.
 _Japanese names: 井上ゆかり Inoue Yukari_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yukari Inoue Trio performing “Triste”:](https://youtu.be/c2jwF_F8kFI)
 
 {{< youtube c2jwF_F8kFI >}}
 
--   Excerpt from track #13: [“いつか王子様が (_Someday My Prince Will Come_)”](/audio/#mix-6)
+-   [Excerpt from track #13: “いつか王子様が (_Someday My Prince Will Come_)”](/audio/#mix-6)

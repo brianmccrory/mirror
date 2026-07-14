@@ -30,7 +30,7 @@ The well-arranged album flows with vim and vigor, music devoted to satisfying li
 {{< figure src="L1220414-1024.jpg" link="L1220414-1024.jpg" >}}
 
 
-## My Soul Meeting by Motoi Kanamori {#my-soul-meeting-by-motoi-kanamori}
+## My Soul Meeting by Motoi Kanamori
 
 -   [Motoi Kanamori](/tags/motoi-kanamori) - bass
 -   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
@@ -43,10 +43,10 @@ Released in 2018 on Laplace Records as LPDCD-103.
 _Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山田玲 Yamada Akira 寺久保エレナ Terakubo Erena 吉本章紘 Yoshimoto Akihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/YhQnfXHlBVg)
 
 {{< youtube YhQnfXHlBVg >}}
 
--   Excerpt from track #7: [“Metro Maniac”](/audio/#mix-6)
+-   [Excerpt from track #7: “Metro Maniac”](/audio/#mix-6)

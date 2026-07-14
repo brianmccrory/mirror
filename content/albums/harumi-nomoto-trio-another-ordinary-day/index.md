@@ -30,7 +30,7 @@ In addition to these three jazz covers, three originals by Nomoto and two origin
 {{< figure src="L1110913-1024.jpeg" link="L1110913-1024.jpeg" >}}
 
 
-## Another Ordinary Day by Harumi Nomoto Trio {#another-ordinary-day-by-harumi-nomoto-trio}
+## Another Ordinary Day by Harumi Nomoto Trio
 
 -   [Harumi Nomoto](/tags/harumi-nomoto) - piano
 -   [Norihide Shioda](/tags/norihide-shioda) - bass (#1, 2, 3, 4, 8)
@@ -43,10 +43,10 @@ Released in 2002 on Venus Records as TKCV-35311.
 _Japanese names: 野本晴美 Nomoto Harumi 塩田哲嗣 Shioda Norihide 俵山昌之 Tawarayama Masayuki 江藤良人 Eto Yoshihito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Stardust”, track #8 on the album:](https://youtu.be/wTKRK5kxDPY)
 
 {{< youtube wTKRK5kxDPY >}}
 
--   Excerpt from track #1: [“マイ・シャイニング・アワー (_My Shining Hour_)”](/audio/#mix-8)
+-   [Excerpt from track #1: “マイ・シャイニング・アワー (_My Shining Hour_)”](/audio/#mix-8)

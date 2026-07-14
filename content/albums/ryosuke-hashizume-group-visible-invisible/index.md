@@ -26,7 +26,7 @@ With six songs ranging from eight to 16 minutes each, the music breathes with li
 {{< figure src="L1200757-1024.jpg" link="L1200757-1024.jpg" >}}
 
 
-## _Visible/Invisible_ by Ryosuke Hashizume Group {#visible-invisible-by-ryosuke-hashizume-group}
+## _Visible/Invisible_ by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor, soprano saxophones
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -39,10 +39,10 @@ Released in 2013 on Apollo Sounds as APLS-1304.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/uY5A-3jph-o)
 
 {{< youtube uY5A-3jph-o >}}
 
--   Excerpt from track #4: [“Cycles”](/audio/#mix-4)
+-   [Excerpt from track #4: “Cycles”](/audio/#mix-4)

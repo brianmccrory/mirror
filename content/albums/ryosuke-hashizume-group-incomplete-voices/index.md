@@ -26,7 +26,7 @@ High-caliber musicianship and exquisite songcraft make this an absorbingly satis
 {{< figure src="../images/ryosuke-hashizume-group-incomplete-voices/L1180435-1024.JPG" link="../images/ryosuke-hashizume-group-incomplete-voices/L1180435-1024.JPG" >}}
 
 
-## Incomplete Voices by Ryosuke Hashizume Group {#incomplete-voices-by-ryosuke-hashizume-group}
+## Incomplete Voices by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor, soprano saxophones
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -39,10 +39,10 @@ Released in 2017 on Apollo Sounds as APLS1704.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with clips from the album:](https://youtu.be/n4N_Sa0tyeM)
 
 {{< youtube n4N_Sa0tyeM >}}
 
--   Excerpt from track #1: [“Still”](/audio/#mix-1)
+-   [Excerpt from track #1: “Still”](/audio/#mix-1)

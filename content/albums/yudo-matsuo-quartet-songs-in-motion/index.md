@@ -26,7 +26,7 @@ It’s also interesting to note that the category keywords tagged to the online 
 {{< figure src="L1320749x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inner fold" link="L1320749x-1200.jpeg" >}}
 
 
-## Sticker Notes {#sticker-notes}
+## Sticker Notes
 
 Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous phrases. This is guitarist Yudo Matsuo’s first album in six years, recorded with his perfect lineup for a quartet. Beautiful fingers race elegantly over his original songs that are brimming with ideas.
 
@@ -37,7 +37,7 @@ Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous
 {{< figure src="L1350325x-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Disc" link="L1350325x-1200.jpeg" >}}
 
 
-## Songs in Motion by Yudo Matsuo Quartet {#songs-in-motion-by-yudo-matsuo-quartet}
+## Songs in Motion by Yudo Matsuo Quartet
 
 -   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
 -   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano, Fender Rhodes
@@ -49,7 +49,7 @@ Released in 2018 on Song X Jazz as SONGX-055.
 _Japanese names: 松尾由堂 Matsuo Yudo 大口純一郎 Ohkuchi Junichiro 大塚義将 Otsuka Yoshimasa 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Time Thieves (track #5) - live version:](https://youtu.be/frSm8WOaNtM)
 
@@ -65,4 +65,4 @@ _Japanese names: 松尾由堂 Matsuo Yudo 大口純一郎 Ohkuchi Junichiro 大�
 
 -   [Digital album streaming/download (Bandcamp)](https://yudomatsuo.bandcamp.com/album/songs-in-motion)
 
--   Excerpt from track #2: [“Blue violet”](/audio/#mix-15)
+-   [Excerpt from track #2: “Blue violet”](/audio/#mix-15)

@@ -32,7 +32,7 @@ Concept albums in jazz are relatively rare, and while this album may not be cons
 {{< figure src="L1230620x-1024.jpeg" link="L1230620x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated version of Hiroko Mase’s liner notes, originally in Japanese.)_
 
@@ -127,7 +127,7 @@ _September 2020_
 {{< figure src="L1240180x-1024.jpeg" link="L1240180x-1024.jpeg" >}}
 
 
-## First Contact by Mase Hiroko Quintet {#first-contact-by-mase-hiroko-quintet}
+## First Contact by Mase Hiroko Quintet
 
 -   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
 -   [Eiji Otogawa](/tags/eiji-otogawa) - tenor saxophone
@@ -140,7 +140,7 @@ Released in 2020 on F.S.L. as FSCJ-0019.
 _Japanese names: ませひろこ Mase Hiroko 音川英二 Otogawa Eiji 田中信正 Tanaka Nobumasa 落合康介 Ochiai Kosuke 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpt from “Have Fun!”, track #9 on this album:](https://youtu.be/-foO02pjiAk)
 
@@ -166,4 +166,4 @@ _Japanese names: ませひろこ Mase Hiroko 音川英二 Otogawa Eiji 田中信
 
 {{< youtube j4k29PfaRyc >}}
 
--   Excerpt from track #1: [“First Contact”](/audio/#mix-10)
+-   [Excerpt from track #1: “First Contact”](/audio/#mix-10)

@@ -32,7 +32,7 @@ Through the themes and adlibs, the locked-in band seems to naturally push one an
 {{< figure src="L1340186x-1200.jpeg" link="L1340186x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Toshihiko Hoshino’s original Japanese liner notes.)_
 
@@ -57,14 +57,14 @@ The prenatal stirrings that I felt in November 2009 developed over a period of t
 _Toshihiko Hoshino 星野利彦 / Music Writer_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Young, fierce tenor saxophonist Akihiro Yoshimoto with his quartet releases his long awaited debut album _Blending Tone_!
 
 {{< figure src="L1340199x-1200.jpeg" link="L1340199x-1200.jpeg" >}}
 
 
-## Blending Tone by Akihiro Yoshimoto Quartet {#blending-tone-by-akihiro-yoshimoto-quartet}
+## Blending Tone by Akihiro Yoshimoto Quartet
 
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax
 -   [Aaron Choulai](/tags/aaron-choulai) - piano
@@ -76,7 +76,7 @@ Released in 2012 on Orbit Records as ORB-1001.
 _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 坂崎拓也 Sakazaki Takuya 石若駿 Ishiwaka Shun_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“How About This Cat?” (track #4) — live at Kamome quartet version (ts/p/b/d) #1:](https://youtu.be/IG8jxrYenzg)
 
@@ -108,4 +108,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ C
 
 -   [Streaming version of _Blending Tone_ (Bandcamp digital album)](https://yoshiquartet.bandcamp.com/album/blending-tone)
 
--   Excerpt from track #1: [“di di”](/audio/#mix-15)
+-   [Excerpt from track #1: “di di”](/audio/#mix-15)

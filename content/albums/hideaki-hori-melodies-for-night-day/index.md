@@ -36,7 +36,7 @@ The pianist’s reflective liner notes, translated below, go into greater storyt
 {{< figure src="L1230643x-1024.jpeg" link="L1230643x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hideaki Hori’s original Japanese liner notes.)_
 
@@ -81,7 +81,7 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 {{< figure src="L1240168x-1024.jpeg" link="L1240168x-1024.jpeg" >}}
 
 
-## Melodies for Night &amp; Day by Hideaki Hori {#melodies-for-night-and-day-by-hideaki-hori}
+## Melodies for Night &amp; Day by Hideaki Hori
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
 
@@ -90,7 +90,7 @@ Released in 2022 on Orbit Records as ORG-1006.
 _Japanese names: 堀秀彰 Hori Hideaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/3ErVtA8KvKY)
 
@@ -104,4 +104,4 @@ _Japanese names: 堀秀彰 Hori Hideaki_
 
 {{< youtube lCUnlorFH1E >}}
 
--   Excerpt from track #5: [“A song for U_U”](/audio/#mix-10)
+-   [Excerpt from track #5: “A song for U_U”](/audio/#mix-10)

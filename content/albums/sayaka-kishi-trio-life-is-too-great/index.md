@@ -34,7 +34,7 @@ On _Life Is Too Great_, Kishi’s tunes and performances are great and full of l
 {{< figure src="L1220693-1024.jpg" link="L1220693-1024.jpg" >}}
 
 
-## Life Is Too Great by Sayaka Kishi Trio {#life-is-too-great-by-sayaka-kishi-trio}
+## Life Is Too Great by Sayaka Kishi Trio
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard, keyharmonica, percussion
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -45,10 +45,10 @@ Released in 2019 on T-TOC Records as TTOC-0034.
 _Japanese names: 岸淑香 Kishi Sayaka 織原良次 Orihara Ryoji 山田玲 Yamada Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/UQTR60p8qyE)
 
 {{< youtube UQTR60p8qyE >}}
 
--   Excerpt from track #1: [“DON PAPA”](/audio/#mix-5)
+-   [Excerpt from track #1: “DON PAPA”](/audio/#mix-5)

@@ -48,7 +48,7 @@ Track #7 is “2009, Trio Song” (2009年トリオの歌, _2009 Nen Trio no Uta
 Finally, the last song is track #8, “Igusanian Blue”, a meditative song that develops slowly and deeply. This song’s shifting tonal centers and straightly fashioned melody seems to share some ancient DNA with Herbie Hancock’s composition “Maiden Voyage” (could the mysterious title “Igusanian Blue” somehow be an undecipherable reference to Herbie’s prior album _Empyrean Isles_?) Be that as it may, this final statement on the album wraps up the lengthy and atmospheric journey into the distance, near and far, of Ochikochi’s layered concepts of near and far, here and there, simple and complex.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Sound - Space - Resonance - Jazz
 
@@ -59,7 +59,7 @@ A recording of the distance, far and near (_ochikochi_), that is the musical per
 {{< figure src="L1340941x-1200.jpeg" link="L1340941x-1200.jpeg" >}}
 
 
-## Ochikochi by Ochikochi {#ochikochi-by-ochikochi}
+## Ochikochi by Ochikochi
 
 -   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor and soprano sax
 -   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu) - wood bass
@@ -70,7 +70,7 @@ Released in 2012 on K’s Project as KP-0001.
 _Japanese names: かみむら泰一 Kamimura Taiichi 是安則克 Koreyasu Norikatsu 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Aki-no-uta (song of autumn)” (track #2) - 2009 live performance:](https://youtu.be/Rn99sAq2Dlk)
 
@@ -80,4 +80,4 @@ _Japanese names: かみむら泰一 Kamimura Taiichi 是安則克 Koreyasu Norik
 
 {{< youtube oGTbfjXK6Qs >}}
 
--   Excerpt from track #5: [“メユメユ Meyu-meyu”](/audio/#mix-15)
+-   [Excerpt from track #5: “メユメユ Meyu-meyu”](/audio/#mix-15)

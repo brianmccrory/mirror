@@ -28,7 +28,7 @@ Aside from original compositions, the album also features the jazz standard “S
 {{< figure src="L1200818-1024.jpg" link="L1200818-1024.jpg" >}}
 
 
-## Zephyr by Zephyr {#zephyr-by-zephyr}
+## Zephyr by Zephyr
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano, tenor sax
 -   [Teiji Taguchi](/tags/teiji-taguchi) - acoustic guitar
@@ -39,10 +39,10 @@ Released in 2013 on What’s New Records as WNCJ-2249.
 _Japanese names: 井上淑彦 Inoue Toshihiko 田口悌治 Taguchi Teiji 天野丘 Amano Takashi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/NLQwWs7ho0U)
 
 {{< youtube NLQwWs7ho0U >}}
 
--   Excerpt from track #1: [“Fairly Woods”](/audio/#mix-4)
+-   [Excerpt from track #1: “Fairly Woods”](/audio/#mix-4)

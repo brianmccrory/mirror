@@ -32,7 +32,7 @@ Alongside these are songs with more direct titles, such as “Standing There”,
 {{< figure src="../images/hitomi-nishiyama-trio-music-in-you/L1210072-1024.JPG" link="../images/hitomi-nishiyama-trio-music-in-you/L1210072-1024.JPG" >}}
 
 
-## Music in You by Hitomi Nishiyama Trio {#music-in-you-by-hitomi-nishiyama-trio}
+## Music in You by Hitomi Nishiyama Trio
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
@@ -44,16 +44,16 @@ Released in 2011 on Meantone Records as MT-002.
 _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi 橋爪亮督 Hashizume Ryosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video with samples from this album:](https://youtu.be/bEaAs7MVJwU)
 
 {{< youtube bEaAs7MVJwU >}}
 
--   Excerpt from track #4: [“Unfolding Universe”](/audio/#mix-2)
+-   [Excerpt from track #4: “Unfolding Universe”](/audio/#mix-2)
 
 
-## Links {#links}
+## Links
 
 -   [Thread sculpture (used as cover art) by Akiko Ikeuchi](http://akikoikeuchi.silk.to/)
 

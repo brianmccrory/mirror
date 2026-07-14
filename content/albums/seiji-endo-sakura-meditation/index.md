@@ -27,7 +27,7 @@ Particularly striking are the two longest songs which develop slowly and powerfu
 {{< figure src="L1210406-1024.jpg" link="L1210406-1024.jpg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -84,7 +84,7 @@ With his delicate and rich tone colors and performances with a strong sense of s
 {{< figure src="L1110546-1024.jpg" link="L1110546-1024.jpg" >}}
 
 
-## Sakura Meditation by Seiji Endo {#sakura-meditation-by-seiji-endo}
+## Sakura Meditation by Seiji Endo
 
 -   [Seiji Endo](/tags/seiji-endo) - piano, composition
 
@@ -93,7 +93,7 @@ Released in 2012 on Concordia as CONR-002.
 _Japanese names: 遠藤征志 Endo Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Seiji Endo playing “Sakura Meditation”, track #4, live in 2013:](https://youtu.be/CrcbwOTOeSM)
 
@@ -103,4 +103,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 {{< youtube GgfB0DMq9SI >}}
 
--   Excerpt from track #1: [“Sun,Moon and Children Smile”](/audio/#mix-3)
+-   [Excerpt from track #1: “Sun,Moon and Children Smile”](/audio/#mix-3)

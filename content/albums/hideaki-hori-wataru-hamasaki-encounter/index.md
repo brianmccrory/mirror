@@ -38,7 +38,7 @@ While this article focuses on Hori and Hamasaki’s 2008 _Encounter_, it would b
 It’s also noteworthy that Encounter’s new album _Best Vol. 1_ also contains new versions of three songs from this album: “Sound of Ocean”, “My Heart”, and “Hanauta”.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hideaki Hori’s and Wataru Hamasaki’s original Japanese liner notes.)_
 
@@ -91,7 +91,7 @@ This is a gospel-style song dedicated to the inspiration for the title of this s
 {{< figure src="L1240166x-1200.jpeg" link="L1240166x-1200.jpeg" >}}
 
 
-## Encounter by Hideaki Hori &amp; Wataru Hamasaki {#encounter-by-hideaki-hori-and-wataru-hamasaki}
+## Encounter by Hideaki Hori &amp; Wataru Hamasaki
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
 -   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor &amp; soprano sax, flute
@@ -104,7 +104,7 @@ Released in 2008 on BQ Records as BQR-2043.
 _Japanese names: 堀秀彰 Hori Hideaki 浜崎航 Hamasaki Wataru 高瀬裕 Takase Hiroshi 広瀬潤次 Hirose Junji 滝野聡 Takino Satoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of #1 “ASK” from 2023:](https://youtu.be/SoAG90t93Fw)
 
@@ -122,4 +122,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 浜崎航 Hamasaki Wataru 高瀬裕 Taka
 
 {{< youtube -7ZDCjtbPEM >}}
 
--   Excerpt from track #6: [“Hanauta”](/audio/#mix-12)
+-   [Excerpt from track #6: “Hanauta”](/audio/#mix-12)

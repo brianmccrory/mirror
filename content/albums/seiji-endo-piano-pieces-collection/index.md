@@ -60,7 +60,7 @@ Most of the tracks on this album are given Japanese titles. Roughly translating 
 {{< figure src="L1240159x-1200.jpeg" link="L1240159x-1200.jpeg" >}}
 
 
-## Piano Pieces Collection by Seiji Endo {#piano-pieces-collection-by-seiji-endo}
+## Piano Pieces Collection by Seiji Endo
 
 -   [Seiji Endo](/tags/seiji-endo) - piano
 
@@ -69,10 +69,10 @@ Released in 2021 on Fair Play Records as FPCD-1011.
 _Japanese names: 遠藤征志 Endo Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Spotify link for this album](https://open.spotify.com/album/1Lyr8HA1UHj3lQldZw6DtT)
 
 -   [Apple Music link for this album](https://music.apple.com/us/album/%E9%81%A0%E8%97%A4%E5%BE%81%E5%BF%97%E5%B0%8F%E6%9B%B2%E9%9B%86/1605705185)
 
--   Excerpt from track #5: [“まことのことば (_True Word_)”](/audio/#mix-12)
+-   [Excerpt from track #5: “まことのことば (_True Word_)”](/audio/#mix-12)

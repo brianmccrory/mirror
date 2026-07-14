@@ -38,7 +38,7 @@ Label founder and producer Akiomi Hirano’s liner notes for _Afterglow_ are fit
 {{< figure src="L1250919x-1200.jpeg" link="L1250919x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from excerpts of Akiomi Hirano’s original Japanese liner notes.)_
 
@@ -87,7 +87,7 @@ This is jazz pianist Mamoru Ishida’s most important priority.
 {{< figure src="L1250960x-1200.jpeg" link="L1250960x-1200.jpeg" >}}
 
 
-## Afterglow by Mamoru Ishida {#afterglow-by-mamoru-ishida}
+## Afterglow by Mamoru Ishida
 
 -   [Mamoru Ishida](/tags/mamoru-ishida) - piano
 -   [Ryohei Komaki](/tags/ryohei-komaki) - bass
@@ -98,7 +98,7 @@ Released in 2023 on Days of Delight as DOD-039.
 _Japanese names: 石田衛 Ishida Mamoru 小牧良平 Komaki Ryohei 中村海斗 Nakamura Kaito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Mamoru Ishida Trio playing “Minor” live, track #1 on this album:](https://youtu.be/2lA7QGZyiww)
 
@@ -108,10 +108,10 @@ _Japanese names: 石田衛 Ishida Mamoru 小牧良平 Komaki Ryohei 中村海斗
 
 {{< youtube id=_-z3hbrGxl8 start=143 >}}
 
--   Excerpt from track #2: [“チャッチャー(Chatchar)”](/audio/#mix-11)
+-   [Excerpt from track #2: “チャッチャー(Chatchar)”](/audio/#mix-11)
 
 
-## Links {#links}
+## Links
 
 -   [Days of Delight record label](https://daysofdelight-music.amebaownd.com/)
 

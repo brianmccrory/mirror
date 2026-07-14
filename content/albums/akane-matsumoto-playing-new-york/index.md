@@ -32,7 +32,7 @@ At medium tempos, Matsumoto’s relaxed rhythmic sense is unerringly charming, p
 {{< figure src="L1210190-1024.jpg" link="L1210190-1024.jpg" >}}
 
 
-## Playing New York by Akane Matsumoto {#playing-new-york-by-akane-matsumoto}
+## Playing New York by Akane Matsumoto
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 -   [Nat Reeves](/tags/nat-reeves) - bass
@@ -43,10 +43,10 @@ Released in 2010 on TK Entertainment as QACK-35007.
 _Japanese names: 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Akane Matsumoto playing “My Dear” from this album:](https://youtu.be/30rFEmCXY64)
 
 {{< youtube 30rFEmCXY64 >}}
 
--   Excerpt from track #1: [“プレイング (_Playing_)”](/audio/#mix-4)
+-   [Excerpt from track #1: “プレイング (_Playing_)”](/audio/#mix-4)

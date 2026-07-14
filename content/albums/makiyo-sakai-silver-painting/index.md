@@ -52,7 +52,7 @@ As the album title suggests, these are ten scenes painted in silver by Sakai’s
 {{< figure src="L1260488x-1200.jpeg" link="L1260488x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from an excerpt of Masahisa Segawa’s original Japanese liner notes for this album. Segawa (1924-2021) was a highly influential and prominent Japanese jazz critic, historian, writer, and producer who wrote about and supported the jazz scene in Japan passionately for decades.)_
 
@@ -105,7 +105,7 @@ This is the third movement from _Suite Bergamaque_, a four-part piano solo piece
 {{< figure src="L1260491x-1200.jpeg" link="L1260491x-1200.jpeg" >}}
 
 
-## Silver Painting by Makiyo Sakai {#silver-painting-by-makiyo-sakai}
+## Silver Painting by Makiyo Sakai
 
 -   [Makiyo Sakai](/tags/makiyo-sakai) - flute
 -   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano/Rhodes
@@ -118,7 +118,7 @@ Released in 2016 on Pony Canyon as PCCY-30231.
 _Japanese names: 酒井麻生代 Sakai Makiyo 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki 山田玲 Yamada Akira 木村純 Kimura Jun_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for track #6 “Pavane Op. 50”:](https://youtu.be/7unmQGNpiTY)
 
@@ -136,4 +136,4 @@ _Japanese names: 酒井麻生代 Sakai Makiyo 納谷嘉彦 Naya Yoshihiko 俵山
 
 {{< youtube R8wM4rOXYsg >}}
 
--   Excerpt from track #9: [“シチリアーノ (_Siciliano_)”](/audio/#mix-12)
+-   [Excerpt from track #9: “シチリアーノ (_Siciliano_)”](/audio/#mix-12)

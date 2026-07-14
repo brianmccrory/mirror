@@ -38,7 +38,7 @@ The final track on the album, #8 “THE VENDING MACHINE - with DRINK music” is
 {{< figure src="L1250584x-1200.jpeg" link="L1250584x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Eri Chichibu’s original Japanese liner notes.)_
 
@@ -87,7 +87,7 @@ Japanese vending machines… cold drinks, _hot_ drinks, put a coin in and it imm
 {{< figure src="L1250597x-1200.jpeg" link="L1250597x-1200.jpeg" >}}
 
 
-## Crossing Reality by Eri Chichibu {#crossing-reality-by-eri-chichibu}
+## Crossing Reality by Eri Chichibu
 
 -   [Eri Chichibu](/tags/eri-chichibu) - piano, keyboard, extra instruments, composition
 -   [Kunihiro Kikuta](/tags/kunihiro-kikuta) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
@@ -113,7 +113,7 @@ Released in 2022 on ReBorn Wood as RBW-0024.
 _Japanese names: 秩父英里 Chichibu Eri 菊田邦裕 Kikuta Kunihiro デイビッド・ネグレテ Negrete David 西口明宏 Nishiguchi Akihiro 駒野逸美 Komano Itsumi 佐々木はるか Sasaki Haruka 苗代尚寬 Nawashiro Takahiro マーティ・ホロベック Holoubek Marty 石若駿 Ishiwaka Shun ミレナ・カサード Casado Milena 小池まどか Koike Madoka 八島珠子 Yashima Tamako レミー・ル・ブーフ Le Boeuf Remy 日高歓 Kan 林宏樹 Hayashi Hiroki 鈴木次郎 Suzuki Jiro 齋藤大陽 Saito Masaaki 福原雄太 Fukuhara Yuta_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/4EHdvD6lRqY)
 
@@ -143,4 +143,4 @@ _Japanese names: 秩父英里 Chichibu Eri 菊田邦裕 Kikuta Kunihiro デイ�
 
 {{< youtube HLOqBTOcJfA >}}
 
--   Excerpt from track #2: [“The Sea -Seven Years Voyage-”](/audio/#mix-11)
+-   [Excerpt from track #2: “The Sea -Seven Years Voyage-”](/audio/#mix-11)

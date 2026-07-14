@@ -32,7 +32,7 @@ This musical landscape shifts back and forth from dark, mellow, and mysterious (
 {{< figure src="L1250995x-1200.jpeg" link="L1250995x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from excerpts of Akiomi Hirano’s original Japanese liner notes.)_
 
@@ -97,7 +97,7 @@ Founder/Producer
 {{< figure src="L1260016x-1200.jpeg" link="L1260016x-1200.jpeg" >}}
 
 
-## Viento by Mabumi Yamaguchi {#viento-by-mabumi-yamaguchi}
+## Viento by Mabumi Yamaguchi
 
 -   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - soprano saxophone
 -   [Mayuko Katakura](/tags/mayuko-katakura) - piano
@@ -109,7 +109,7 @@ Released in 2023 on Days of Delight as DOD-040.
 _Japanese names: 山口真文 Yamaguchi Mabumi 片倉真由子 Katakura Mayuko 小牧良平 Komaki Ryohei 本田珠也 Honda Tamaya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/FOPkBh73CME)
 
@@ -119,10 +119,10 @@ _Japanese names: 山口真文 Yamaguchi Mabumi 片倉真由子 Katakura Mayuko �
 
 {{< youtube faBvDb1iHT4 >}}
 
--   Excerpt from track #5: [“True Face”](/audio/#mix-12)
+-   [Excerpt from track #5: “True Face”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [Days of Delight record label](https://daysofdelight-music.amebaownd.com/)
 

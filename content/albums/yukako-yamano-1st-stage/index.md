@@ -32,7 +32,7 @@ _1st Stage_ features Yukako Yamano on piano along with regular trio members mult
 {{< figure src="L1110742-1024.jpg" link="L1110742-1024.jpg" >}}
 
 
-## 1st Stage by Yukako Yamano {#1st-stage-by-yukako-yamano}
+## 1st Stage by Yukako Yamano
 
 -   [Yukako Yamano](/tags/yukako-yamano) - piano
 -   [Koichi Osamu](/tags/koichi-osamu) - bass
@@ -43,10 +43,10 @@ Released in 2013 on Yukako Yamano as YKRN-0001.
 _Japanese names: 山野友佳子 Yamano Yukako 納浩一 Osamu Koichi 藤井学 Fujii Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live performance from 2013 of “On A Sunny Moon”, track #6 on this album:](https://youtu.be/fA0kHQ8h_EM)
 
 {{< youtube fA0kHQ8h_EM >}}
 
--   Excerpt from track #1: [“Over Parents”](/audio/#mix-3)
+-   [Excerpt from track #1: “Over Parents”](/audio/#mix-3)

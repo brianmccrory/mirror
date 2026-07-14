@@ -32,7 +32,7 @@ For interested pianists and jazz musicians, Nishiyama also graciously provides s
 {{< figure src="L1270308x-1200.jpeg" link="L1270308x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hitomi Nishiyama’s and Hiroki Sugita’s original Japanese liner notes.)_
 
@@ -57,14 +57,14 @@ This album opens with “This I Promise You” and its theme of key changes and 
 _—Hiroki Sugita, June 2011_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in the International Songwriting Competition 2009 (ISC), one of the world’s largest composition contests. Her first album _I’m Missing You_, considered to be the origin of her career and international recognition, is finally here!
 
 {{< figure src="L1260619x-1200.jpeg" link="L1260619x-1200.jpeg" >}}
 
 
-## I’m Missing You by Hitomi Nishiyama Trio {#i-m-missing-you-by-hitomi-nishiyama-trio}
+## I’m Missing You by Hitomi Nishiyama Trio
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Mitsuaki Hara](/tags/mitsuaki-hara) - bass
@@ -77,7 +77,7 @@ Released in 2004 on Steps Records as VNTM-04001.
 _Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Kawauchi Tsutomu 大谷訓史 Otani Satoshi 清水勇博 Shimizu Takehiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/cqO8d1k5D1c)
 
@@ -99,4 +99,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Ka
 
 {{< youtube LIqX0QymLo4 >}}
 
--   Excerpt from track #8: [“I'm missing you”](/audio/#mix-13)
+-   [Excerpt from track #8: “I'm missing you”](/audio/#mix-13)

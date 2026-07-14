@@ -26,7 +26,7 @@ Favoring the slicker style popular in some modern jazz releases over the classic
 {{< figure src="L1200244-1024.jpg" link="L1200244-1024.jpg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Ami Fukui.)_
 
@@ -75,7 +75,7 @@ This is a song I wrote about 4 years ago which I rearranged for this recording. 
 {{< figure src="L1110630-1024.jpg" link="L1110630-1024.jpg" >}}
 
 
-## Urban Clutter by Ami Fukui Trio {#urban-clutter-by-ami-fukui-trio}
+## Urban Clutter by Ami Fukui Trio
 
 -   [Ami Fukui](/tags/ami-fukui) - piano
 -   [Koji Yasuda](/tags/koji-yasuda) - bass
@@ -86,10 +86,10 @@ Released in 2010 on Anturtle Analog Recordings as ANTX-4008.
 _Japanese names: 福井亜実 Fukui Ami 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for the song “Urban Clutter”, the last song on this album:](https://youtu.be/zdJyxQTEfdE)
 
 {{< youtube zdJyxQTEfdE >}}
 
--   Excerpt from track #4: [“再見-ZAI JIAN (_Rewatch-ZAI JIAN_)”](/audio/#mix-8)
+-   [Excerpt from track #4: “再見-ZAI JIAN (_Rewatch-ZAI JIAN_)”](/audio/#mix-8)

@@ -24,7 +24,7 @@ Although there are only two tracks here, the music serves to whet the appetite a
 {{< figure src="L1180449-1024.jpg" link="L1180449-1024.jpg" >}}
 
 
-## Okurimono by Hiroco Nagano {#okurimono-by-hiroco-nagano}
+## Okurimono by Hiroco Nagano
 
 -   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
 -   [Seiji Endo](/tags/seiji-endo) - piano
@@ -35,10 +35,10 @@ Released in 2017 on Music Art Records as MAR-1701.
 _Japanese names: 永野寛子 Nagano Hiroco 遠藤征志 Endo Seiji 梅原新 Umehara Arata_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for an album from Hiroco Nagano:](https://youtu.be/W4NWcQnXS64)
 
 {{< youtube W4NWcQnXS64 >}}
 
--   Excerpt from track #1: [“Someone To Watch Over Me”](/audio/#mix-1)
+-   [Excerpt from track #1: “Someone To Watch Over Me”](/audio/#mix-1)

@@ -26,7 +26,7 @@ Whether on the sunny opener “Through the Lights”, the mysterious “Echo of 
 {{< figure src="L1230271x-1024.jpeg" link="L1230271x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Excerpted and translated from the original Japanese liner notes written by Kaori Nakajima.)_
 
@@ -75,7 +75,7 @@ At the end of 2020, on the day before my birthday, my beloved grandfather passed
 {{< figure src="L1240169x-1024.jpeg" link="L1240169x-1024.jpeg" >}}
 
 
-## Starry Nights by Kaori Vibes Quartet {#starry-nights-by-kaori-vibes-quartet}
+## Starry Nights by Kaori Vibes Quartet
 
 -   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
 -   [Tamashi Goto](/tags/tamashi-goto) - piano
@@ -87,10 +87,10 @@ Released in 2021 on Urban Jazz as 151A-0027.
 _Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Official music video for “Hazy Days”, track #2 on this album:](https://youtu.be/JYhCLqVa1-U)
 
 {{< youtube JYhCLqVa1-U >}}
 
--   Excerpt from track #1: [“Through the lights”](/audio/#mix-9)
+-   [Excerpt from track #1: “Through the lights”](/audio/#mix-9)

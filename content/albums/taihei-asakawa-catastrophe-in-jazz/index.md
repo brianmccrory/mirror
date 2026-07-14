@@ -36,7 +36,7 @@ With virtuosity and compositional strength on display, the care and attention de
 {{< figure src="L1110981-1024.jpg" link="L1110981-1024.jpg" >}}
 
 
-## Catastrophe in Jazz by Taihei Asakawa {#catastrophe-in-jazz-by-taihei-asakawa}
+## Catastrophe in Jazz by Taihei Asakawa
 
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
 -   [Shinichi Kato](/tags/shinichi-kato) - bass
@@ -47,10 +47,10 @@ Released in 2011 on Roving Spirits as RKCJ-2046.
 _Japanese names: 浅川太平 Asakawa Taihei 加藤真一 Kato Shinichi 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpt from “Nostalgia”, track #3 on this album:](https://youtu.be/Wmb_IN_3a-w)
 
 {{< youtube Wmb_IN_3a-w >}}
 
--   Excerpt from track #1: [“The Pioneer”](/audio/#mix-3)
+-   [Excerpt from track #1: “The Pioneer”](/audio/#mix-3)

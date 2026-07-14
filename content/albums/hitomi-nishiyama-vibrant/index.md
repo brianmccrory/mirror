@@ -36,7 +36,7 @@ This is a solo piano album and its sound qualities are defined by the single ins
 {{< figure src="L1240177x-1024.jpeg" link="L1240177x-1024.jpeg" >}}
 
 
-## Vibrant by Hitomi Nishiyama {#vibrant-by-hitomi-nishiyama}
+## Vibrant by Hitomi Nishiyama
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 
@@ -45,10 +45,10 @@ Released in 2020 on Meantone Records as MT-08.
 _Japanese names: 西山瞳 Nishiyama Hitomi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with clips from this album:](https://youtu.be/1n53wq_KFWk)
 
 {{< youtube 1n53wq_KFWk >}}
 
--   Excerpt from track #3: [“Recollection”](/audio/#mix-8)
+-   [Excerpt from track #3: “Recollection”](/audio/#mix-8)

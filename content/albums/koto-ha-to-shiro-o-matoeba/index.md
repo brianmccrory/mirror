@@ -38,7 +38,7 @@ Speaking of odd-meter, the use of non-4/4 time signatures on _Shiro o Matoeba_ a
 {{< figure src="L1280868x-1200.jpeg" link="L1280868x-1200.jpeg" >}}
 
 
-## Lyrics {#lyrics}
+## Lyrics
 
 _(Lyrics transcribed from the liner notes, with English translations by me)_
 
@@ -277,7 +277,7 @@ _Lyrics: Ayako Tsuchiya  Music: Kozue Tsukayama_
 {{< figure src="L1320359x-1200.jpeg" link="L1320359x-1200.jpeg" >}}
 
 
-## Shiro o Matoeba by Koto ha, To {#shiro-o-matoeba-by-koto-ha-to}
+## Shiro o Matoeba by Koto ha, To
 
 -   [Ayako Tsuchiya](/tags/ayako-tsuchiya) - vocal
 -   [Kozue Tsukayama](/tags/kozue-tsukayama) - piano
@@ -288,7 +288,7 @@ Released in 2017 on KOTOHATO as KTHT-0001.
 _Japanese names: 土屋絢子 Tsuchiya Ayako 津嘉山梢 Tsukayama Kozue 伊東佑季 Ito Yuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for track #2 “Selene’s Dance”:](https://youtu.be/uYRYgvaF7zg)
 
@@ -306,4 +306,4 @@ _Japanese names: 土屋絢子 Tsuchiya Ayako 津嘉山梢 Tsukayama Kozue 伊東
 
 {{< youtube 5Srg_bYrSok >}}
 
--   Excerpt from track #5: [“Vocalise”](/audio/#mix-13)
+-   [Excerpt from track #5: “Vocalise”](/audio/#mix-13)

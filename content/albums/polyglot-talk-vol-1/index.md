@@ -32,7 +32,7 @@ To add to those, these are some very brief impressions, but by no means a substi
 {{< figure src="L1230571x-1024.jpeg" link="L1230571x-1024.jpeg" >}}
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 _(The notes printed on the obi are an excerpt from the liner notes.)_
 
@@ -45,7 +45,7 @@ _(The notes printed on the obi are an excerpt from the liner notes.)_
 {{< figure src="L1240158x-1024.jpeg" link="L1240158x-1024.jpeg" >}}
 
 
-## Talk, Vol. 1 by Polyglot {#talk-vol-dot-1-by-polyglot}
+## Talk, Vol. 1 by Polyglot
 
 -   [Steve Barry](/tags/steve-barry) - piano
 -   [Kosuke Ochiai](/tags/kosuke-ochiai) - bass
@@ -57,7 +57,7 @@ Released in 2020 on Studio Songs as YZSO-10104.
 _Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishikawa Hiroyuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Nagoya”, track #1 on this album:](https://youtu.be/ujTSIZMXZ0I)
 
@@ -71,9 +71,9 @@ _Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishi
 
 {{< youtube wbXwM6XTBEU >}}
 
--   Excerpt from track #2: [“825”](/audio/#mix-10)
+-   [Excerpt from track #2: “825”](/audio/#mix-10)
 
 
-## Links {#links}
+## Links
 
 -   [Polyglot: Talk, Vol. 1 (Steve Barry website)](https://www.stevebarrymusic.com/polyglot-talk-vol-1)

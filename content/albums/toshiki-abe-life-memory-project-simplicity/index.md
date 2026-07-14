@@ -38,7 +38,7 @@ I recently asked Toshiki Abe his about the memories he had of Life Memory Projec
 {{< figure src="IMG_20251019_074007936x-1200.jpeg" link="IMG_20251019_074007936x-1200.jpeg" >}}
 
 
-## The Simplicity by Toshiki Abe Life Memory Project {#the-simplicity-by-toshiki-abe-life-memory-project}
+## The Simplicity by Toshiki Abe Life Memory Project
 
 -   [Toshiki Abe](/tags/toshiki-abe) - saxophone
 -   [Sayaka Kishi](/tags/sayaka-kishi) - organ
@@ -49,7 +49,7 @@ Released in 2022 on Yokohama Reunion as YRCD-020.
 _Japanese names: 阿部俊貴 Abe Toshiki 岸淑香 Kishi Sayaka 森永哲則 Morinaga Tetsunori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of the recording of track #1 “The Simplicity”:](https://youtu.be/2uXXXIn5SgA)
 
@@ -63,4 +63,4 @@ _Japanese names: 阿部俊貴 Abe Toshiki 岸淑香 Kishi Sayaka 森永哲則 Mo
 
 {{< youtube QTafj_z4mhk >}}
 
--   Excerpt from track #7: [“Caravan”](/audio/#mix-14)
+-   [Excerpt from track #7: “Caravan”](/audio/#mix-14)

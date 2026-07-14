@@ -36,7 +36,7 @@ Throughout, Hayama’s piano is impressively quick, crystalline light without be
 {{< figure src="L1120179-1024.jpg" link="L1120179-1024.jpg" >}}
 
 
-## Prelude to a Kiss by Miki Hayama {#prelude-to-a-kiss-by-miki-hayama}
+## Prelude to a Kiss by Miki Hayama
 
 -   [Miki Hayama](/tags/miki-hayama) - piano
 -   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
@@ -47,10 +47,10 @@ Released in 2006 on Art Jazz Records as ARTCD-112.
 _Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Miki Hayama Trio performing “At the Key Point”, track two on this album:](https://youtu.be/GLwlp2M6c_M)
 
 {{< youtube GLwlp2M6c_M >}}
 
--   Excerpt from track #1: [“Beatrice”](/audio/#mix-5)
+-   [Excerpt from track #1: “Beatrice”](/audio/#mix-5)

@@ -30,7 +30,7 @@ From the first track “Sailing” a bracing, uplifting mood is established, exp
 {{< figure src="L1120025-1024.jpg" link="L1120025-1024.jpg" >}}
 
 
-## Memories by Naoko Tanaka Trio {#memories-by-naoko-tanaka-trio}
+## Memories by Naoko Tanaka Trio
 
 -   [Naoko Tanaka](/tags/naoko-tanaka) - piano
 -   [Koji Yasuda](/tags/koji-yasuda) - bass
@@ -43,10 +43,10 @@ Released in 2015 on D-neo Daiki Musica as DNCD-05.
 _Japanese names: 田中菜緒子 Tanaka Naoko 安田幸司 Yasuda Koji 安藤正則 Ando Masanori 岡崎好朗 Okazaki Yoshiro 安ヵ川大樹 Yasukagawa Daiki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Naoko Tanaka Trio performing live in 2018:](https://youtu.be/WxALugIHpPI)
 
 {{< youtube WxALugIHpPI >}}
 
--   Excerpt from track #1: [“Sailing”](/audio/#mix-7)
+-   [Excerpt from track #1: “Sailing”](/audio/#mix-7)

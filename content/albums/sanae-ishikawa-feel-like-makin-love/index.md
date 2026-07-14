@@ -36,7 +36,7 @@ This 12-track album is well-rounded and arranged like a live performance, with f
 {{< figure src="IMG_20150318_153942-001-1200.jpeg" link="IMG_20150318_153942-001-1200.jpeg" >}}
 
 
-## Feel Like Makin’ Love by Sanae Ishikawa {#feel-like-makin-love-by-sanae-ishikawa}
+## Feel Like Makin’ Love by Sanae Ishikawa
 
 -   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
 -   [Shigeo Fukuda](/tags/shigeo-fukuda) - piano, electric piano
@@ -50,7 +50,7 @@ Released in 2007 on Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow as MTCJ-
 _Japanese names: 石川早苗 Ishikawa Sanae 福田重男 Fukuda Shigeo 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke 小杉敏 Kosugi Satoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Tea For Two” from the album release performance:](https://youtu.be/H1atAzE62wY)
 
@@ -68,4 +68,4 @@ _Japanese names: 石川早苗 Ishikawa Sanae 福田重男 Fukuda Shigeo 橋本�
 
 {{< youtube bYr5CPRr91Y >}}
 
--   Excerpt from track #7: [“チーク・トゥ・チーク (_Cheek To Cheek_)”](/audio/#mix-3)
+-   [Excerpt from track #7: “チーク・トゥ・チーク (_Cheek To Cheek_)”](/audio/#mix-3)

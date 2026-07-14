@@ -24,7 +24,7 @@ As a drummer’s quartet, rhythm moderates the music delightfully, propulsive bu
 {{< figure src="../images/sumito-oi-sumitty-and-the-funfair/L1190079-1024.JPG" link="../images/sumito-oi-sumitty-and-the-funfair/L1190079-1024.JPG" >}}
 
 
-## Sumitty &amp; The Funfair by Sumito Oi {#sumitty-and-the-funfair-by-sumito-oi}
+## Sumitty &amp; The Funfair by Sumito Oi
 
 -   [Sumito Oi](/tags/sumito-oi) - drums
 -   [Toyomi Kobayashi](/tags/toyomi-kobayashi) - flute, alto flute, bass flute, Andes25F
@@ -36,10 +36,10 @@ Released in 2015 on S&amp;T Music as STMU-1001.
 _Japanese names: 大井澄東 Oi Sumito 小林豊美 Kobayashi Toyomi 佐藤浩一 Sato Koichi 工藤精 Kudo Show_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “Fascinating Rhythm”:](https://youtu.be/TP-bCigVMCA)
 
 {{< youtube TP-bCigVMCA >}}
 
--   Excerpt from track #1: [“Ferris Wheel”](/audio/#mix-2)
+-   [Excerpt from track #1: “Ferris Wheel”](/audio/#mix-2)

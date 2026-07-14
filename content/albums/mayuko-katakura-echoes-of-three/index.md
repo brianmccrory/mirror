@@ -28,7 +28,7 @@ The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping �
 {{< figure src="L1190012-1024.jpg" link="L1190012-1024.jpg" >}}
 
 
-## The Echoes of Three by Mayuko Katakura {#the-echoes-of-three-by-mayuko-katakura}
+## The Echoes of Three by Mayuko Katakura
 
 -   [Mayuko Katakura](/tags/mayuko-katakura) - piano
 -   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
@@ -39,10 +39,10 @@ Released in 2015 on 55 Records as JNCJ-5561.
 _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Mayuko Katakura playing Herbie Hancock’s “Speak Like A Child” in a duo setting from 2012:](https://youtu.be/q8n6M2iDD8g)
 
 {{< youtube q8n6M2iDD8g >}}
 
--   Excerpt from track #3: [“ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)”](/audio/#mix-2)
+-   [Excerpt from track #3: “ア・ダンサーズ・メランコリー (_A Dancer's Melancholy_)”](/audio/#mix-2)

@@ -52,7 +52,7 @@ The last movement, “Frontier”, shifts between free and solid time with sever
 Two more songs follow the six-part suite. #7 “Something I Can Do for You” is a lovely ballad that seems to relate indirectly some themes developed in the suite like memories of a dream. The last track, #8 “Still Moving...” revisits the oceanic tides implied in parts of the suite through a steady pulse and a double-note question of a melodic theme, alternatively comfortable and potentially threatening in its immense embrace.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hitomi Nishiyama’s original Japanese liner notes.)_
 
@@ -85,7 +85,7 @@ Much appreciation and thanks go out to everyone involved in the production of th
 西山瞳 Hitomi Nishiyama
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 A collection of songs crafted with overwhelming compositional sense.<br />
 A sublime duo of guitar and piano create and expand a magical sound space of two interweaving instruments!
@@ -93,7 +93,7 @@ A sublime duo of guitar and piano create and expand a magical sound space of two
 {{< figure src="L1220659x-1200.jpeg" link="L1220659x-1200.jpeg" >}}
 
 
-## Astrolabe by Hitomi Nishiyama {#astrolabe-by-hitomi-nishiyama}
+## Astrolabe by Hitomi Nishiyama
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Takayoshi Baba](/tags/takayoshi-baba) - guitar
@@ -103,10 +103,10 @@ Released in 2012 on Meantone Record as MT-003.
 _Japanese names: 西山瞳 Nishiyama Hitomi 馬場孝喜 Baba Takayoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/HS5JB0buDyk)
 
 {{< youtube HS5JB0buDyk >}}
 
--   Excerpt from track #6: [“Frontier”](/audio/#mix-14)
+-   [Excerpt from track #6: “Frontier”](/audio/#mix-14)

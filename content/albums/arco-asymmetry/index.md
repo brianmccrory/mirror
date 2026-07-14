@@ -22,7 +22,7 @@ Pianist Sayaki Kishi and cellist Mayumi Sano released their first album together
 {{< figure src="L1180445-1024.jpg" link="L1180445-1024.jpg" >}}
 
 
-## Asymmetry by Arco {#asymmetry-by-arco}
+## Asymmetry by Arco
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
 -   [Mayumi Sano](/tags/mayumi-sano) - cello
@@ -32,10 +32,10 @@ Released in 2017 on dandanorchestra as DAN-007.
 _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with samples from the album:](https://youtu.be/oY8PypPVPuY)
 
 {{< youtube oY8PypPVPuY >}}
 
--   Excerpt from track #1: [“Asymmetry”](/audio/#mix-1)
+-   [Excerpt from track #1: “Asymmetry”](/audio/#mix-1)

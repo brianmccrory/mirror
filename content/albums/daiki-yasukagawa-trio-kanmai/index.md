@@ -30,7 +30,7 @@ Opening with atmospheric space, unhurried and patient, the modern sound develops
 {{< figure src="L1220825-1024.jpg" link="L1220825-1024.jpg" >}}
 
 
-## Kanmai by Daiki Yasukagawa Trio {#kanmai-by-daiki-yasukagawa-trio}
+## Kanmai by Daiki Yasukagawa Trio
 
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -41,10 +41,10 @@ Released in 2012 on D-Neo Daiki Musica as DNCD-01.
 _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 佐藤浩一 Sato Koichi 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Daiki Yasukagawa Trio video for Kanmai:](https://youtu.be/xmxAhjXlaew)
 
 {{< youtube xmxAhjXlaew >}}
 
--   Excerpt from track #2: [“Long Ago and Far Away”](/audio/#mix-4)
+-   [Excerpt from track #2: “Long Ago and Far Away”](/audio/#mix-4)

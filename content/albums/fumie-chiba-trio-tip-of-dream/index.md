@@ -30,7 +30,7 @@ Along with the six original songs, Chiba’s reharmonizations and arrangements a
 {{< figure src="L1200535-1024.jpg" link="L1200535-1024.jpg" >}}
 
 
-## Tip of Dream by Fumie Chiba Trio {#tip-of-dream-by-fumie-chiba-trio}
+## Tip of Dream by Fumie Chiba Trio
 
 -   [Fumie Chiba](/tags/fumie-chiba) - piano
 -   [Koichi Kuniwake](/tags/koichi-kuniwake) - bass
@@ -41,10 +41,10 @@ Released in 2009 on TRL Music as TRL-0826.
 _Japanese names: 千葉史絵 Chiba Fumie 国分航一 Kuniwake Koichi 川村成史 Kawamura Shigehito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Fumie Chiba Trio live in 2019:](https://youtu.be/uM2ZZek_viI)
 
 {{< youtube uM2ZZek_viI >}}
 
--   Excerpt from track #1: [“11th Door”](/audio/#mix-4)
+-   [Excerpt from track #1: “11th Door”](/audio/#mix-4)

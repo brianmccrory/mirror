@@ -36,7 +36,7 @@ Track #5 “Spring” has the muted hopefulness of a timid flower blossoming slo
 {{< figure src="L1310929x-1200.jpeg" link="L1310929x-1200.jpeg" >}}
 
 
-## Melodies by Melodies {#melodies-by-melodies}
+## Melodies by Melodies
 
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, baritone guitar
 -   [Kenta Tsugami](/tags/kenta-tsugami) - alto saxophone
@@ -48,16 +48,16 @@ Released in 2025 on Ammonite Musique as AM-006.
 _Japanese names: 市野元彦 Ichino Motohiko 津上研太 Tsugami Kenta 謝明諺 Hsieh Minyen 外山明 Sotoyama Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with an excerpt from “Solid/Liquid”, track #6 on this album:](https://youtu.be/Z7eZiGptqfM)
 
 {{< youtube Z7eZiGptqfM >}}
 
--   Excerpt from track #1: [“Conversation and Confession”](/audio/#mix-13)
+-   [Excerpt from track #1: “Conversation and Confession”](/audio/#mix-13)
 
 
-## Links {#links}
+## Links
 
 -   [Album information](https://www.motohikoichino.com/melodies)
 

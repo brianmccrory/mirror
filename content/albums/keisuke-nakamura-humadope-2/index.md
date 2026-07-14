@@ -38,7 +38,7 @@ The whole album is filled with great moments, and picking favorites depends on t
 {{< figure src="L1240164x-1024.jpeg" link="L1240164x-1024.jpeg" >}}
 
 
-## Humadope 2 by Keisuke Nakamura {#humadope-2-by-keisuke-nakamura}
+## Humadope 2 by Keisuke Nakamura
 
 -   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax, flute
@@ -51,7 +51,7 @@ Released in 2019 on ANTXDEDE as ANTXDEDE-3105.
 _Japanese names: 中村恵介 Nakamura Keisuke 吉本章紘 Yoshimoto Akihiro 魚返明未 Ogaeri Ami 金森もとい Kanamori Motoi 竹村一哲 Takemura Ittetsu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video of “So Nice!”, track #3 on this album:](https://youtu.be/h3kR2nSvsCw)
 
@@ -61,4 +61,4 @@ _Japanese names: 中村恵介 Nakamura Keisuke 吉本章紘 Yoshimoto Akihiro �
 
 {{< youtube ND6aiihDv_g >}}
 
--   Excerpt from track #7: [“Sense Of Mission”](/audio/#mix-10)
+-   [Excerpt from track #7: “Sense Of Mission”](/audio/#mix-10)

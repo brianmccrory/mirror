@@ -30,7 +30,7 @@ As complex as the compositions may be, the recorded-live aspect brings tangible 
 {{< figure src="L1180645-1024.jpg" link="L1180645-1024.jpg" >}}
 
 
-## Live by Hitomi Nishiyama Trio “Parallax” {#live-by-hitomi-nishiyama-trio-parallax}
+## Live by Hitomi Nishiyama Trio “Parallax”
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Takuya Sakazaki](/tags/takuya-sakazaki) - bass
@@ -41,10 +41,10 @@ Released in 2016 on Meantone Records as MT-007.
 _Japanese names: 西山瞳 Nishiyama Hitomi 坂崎拓也 Sakazaki Takuya 清水勇博 Shimizu Takehiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video featuring the first two tracks, “Heavens Fall” and “Keys”:](https://youtu.be/zQPD6kEigIA)
 
 {{< youtube zQPD6kEigIA >}}
 
--   Excerpt from track #3: [“Move”](/audio/#mix-2)
+-   [Excerpt from track #3: “Move”](/audio/#mix-2)

@@ -26,7 +26,7 @@ This album was recorded in Stockholm with two Swedish musicians, befitting the g
 {{< figure src="../images/hitomi-nishiyama-trio-many-seasons/L1180628-1024.JPG" link="../images/hitomi-nishiyama-trio-many-seasons/L1180628-1024.JPG" >}}
 
 
-## Many Seasons by Hitomi Nishiyama Trio {#many-seasons-by-hitomi-nishiyama-trio}
+## Many Seasons by Hitomi Nishiyama Trio
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Hans Backenroth](/tags/hans-backenroth) - bass
@@ -37,10 +37,10 @@ Released in 2007 on Spice of Life as SOLJP-0005.
 _Japanese names: 西山瞳 Nishiyama Hitomi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of Hitomi Nishiyama’s track #3 “Sakira”:](https://youtu.be/rRCe_sFD-cU)
 
 {{< youtube rRCe_sFD-cU >}}
 
--   Excerpt from track #1: [“フラッド (_Flood_)”](/audio/#mix-1)
+-   [Excerpt from track #1: “フラッド (_Flood_)”](/audio/#mix-1)

@@ -38,7 +38,7 @@ Altogether this accessible album emits good vibrations and positive energy, shin
 {{< figure src="L1200968-1024.jpg" link="L1200968-1024.jpg" >}}
 
 
-## Wonderful Life by Masako Kunisada {#wonderful-life-by-masako-kunisada}
+## Wonderful Life by Masako Kunisada
 
 -   [Masako Kunisada](/tags/masako-kunisada) - vocal
 -   [Shigeru Morishita](/tags/shigeru-morishita) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
@@ -51,10 +51,10 @@ Released in 2012 on Urban Jazz as 151A-0005.
 _Japanese names: 国貞雅子 Kunisada Masako 森下滋 Morishita Shigeru 荻原亮 Ogihara Ryo 佐藤慎一 Sato Shinichi 藤井学 Fujii Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/awL_5LXeMeI)
 
 {{< youtube awL_5LXeMeI >}}
 
--   Excerpt from track #8: [“For All We Know”](/audio/#mix-7)
+-   [Excerpt from track #8: “For All We Know”](/audio/#mix-7)

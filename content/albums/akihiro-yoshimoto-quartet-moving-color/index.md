@@ -31,7 +31,7 @@ The two longest tracks, #5 “Sabaku No Akari” and #8 “Water Drops”, build
 These tracks and #3 “Possom” also summon a sense of Wayne Shorter’s modern quartet. This is exciting jazz with unextinguishable energy powered locomotively by drummer Ishiwaka and bassist Sugawa. All throughout, Yoshimoto’s liquid tenor swings over the chords like a daredevil trapeze artist, flowing and moving colorfully in impressive patterns.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Toshihiko Hoshino, music writer.)_
 
@@ -64,7 +64,7 @@ _Toshihiko Hoshino 星野利彦 / Music Writer_
 {{< figure src="L1200509-1024.jpg" link="L1200509-1024.jpg" >}}
 
 
-## Moving Color by Akihiro Yoshimoto Quartet {#moving-color-by-akihiro-yoshimoto-quartet}
+## Moving Color by Akihiro Yoshimoto Quartet
 
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
 -   [Aaron Choulai](/tags/aaron-choulai) - piano
@@ -76,10 +76,10 @@ Released in 2015 on MOR Records as MOR-1001.
 _Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 須川崇志 Sugawa Takashi 石若駿 Ishiwaka Shun_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Akihiro Quartet playing live in 2012:](https://youtu.be/IG8jxrYenzg)
 
 {{< youtube IG8jxrYenzg >}}
 
--   Excerpt from track #5: [“Sabaku No Akari”](/audio/#mix-3)
+-   [Excerpt from track #5: “Sabaku No Akari”](/audio/#mix-3)

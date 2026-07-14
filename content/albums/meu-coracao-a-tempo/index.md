@@ -26,7 +26,7 @@ The music grooves with creative arrangements and interesting effects, rooted by 
 {{< figure src="L1190136-1024.jpg" link="L1190136-1024.jpg" >}}
 
 
-## A Tempo by Meu Coracao {#a-tempo-by-meu-coracao}
+## A Tempo by Meu Coracao
 
 -   [Emiko Voice](/tags/emiko-voice) - vocals
 -   [Taro Sukegawa](/tags/taro-sukegawa) - acoustic &amp; electric guitar, cavaquinho
@@ -40,7 +40,7 @@ Released in 2016 on Eclectic Records as ECLC-101.
 _Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro 新澤健一郎 Shinzawa Ken'ichiro コッキー Cokky 黒田清高 Kuroda Kiyotaka 芳垣安洋 Yoshigaki Yasuhiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “Corrida De Jangada”, the third track on this album:](https://youtu.be/EDWnasfxIRw)
 
@@ -50,4 +50,4 @@ _Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro �
 
 {{< youtube -5KLQHihHgw >}}
 
--   Excerpt from track #1: [“Samba de uma nota so[']”](/audio/#mix-2)
+-   [Excerpt from track #1: “Samba de uma nota so[']”](/audio/#mix-2)

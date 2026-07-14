@@ -28,7 +28,7 @@ Two of the songs also feature guest percussionist Saori Sendo, and add rich rhyt
 {{< figure src="L1220665-1024.jpg" link="L1220665-1024.jpg" >}}
 
 
-## Resonance by Duo Tremolo {#resonance-by-duo-tremolo}
+## Resonance by Duo Tremolo
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano, voice and percussion on #11
 -   [Takayoshi Baba](/tags/takayoshi-baba) - guitar, voice on #11
@@ -40,7 +40,7 @@ Released in 2019 on Orbit Records as ORG-1004.
 _Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さおり Sendo Saori 黒沢綾 Kurosawa Aya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live performance of Friday Night at the Cadillac Club:](https://youtu.be/jm3tl3B2AWc)
 
@@ -50,4 +50,4 @@ _Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さお
 
 {{< youtube R6vuPsUzibI >}}
 
--   Excerpt from track #2: [“Choro de Tremolo”](/audio/#mix-7)
+-   [Excerpt from track #2: “Choro de Tremolo”](/audio/#mix-7)

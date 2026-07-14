@@ -42,7 +42,7 @@ In general, there’s a happy, relaxed feel that runs through the tracks. Three 
 {{< figure src="L1310558x-1200.jpeg" link="L1310558x-1200.jpeg" >}}
 
 
-## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo {#two-for-the-road-by-yuji-ito-and-koichi-hirata-duo}
+## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo
 
 -   [Yuji Ito](/tags/yuji-ito) - bass
 -   [Koichi Hirata](/tags/koichi-hirata) - guitar
@@ -54,7 +54,7 @@ Released in 2024 on NONET as NONET-3.
 _Japanese names: 伊藤勇司 Ito Yuji 平田晃一 Hirata Koichi 峰厚介 Mine Kosuke 柳沼佑育 Yaginuma Yusuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yuji Ito playing “Isfahan”:](https://youtu.be/hNgd_GnXNzI)
 
@@ -80,4 +80,4 @@ _Japanese names: 伊藤勇司 Ito Yuji 平田晃一 Hirata Koichi 峰厚介 Mine
 
 {{< youtube 3Og9kY3Fr88 >}}
 
--   Excerpt from track #4: [“Full House”](/audio/#mix-13)
+-   [Excerpt from track #4: “Full House”](/audio/#mix-13)

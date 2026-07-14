@@ -36,7 +36,7 @@ With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing 
 {{< figure src="L1250534x-1200.jpeg" link="L1250534x-1200.jpeg" >}}
 
 
-## Beloved Ones by Yuka Yanagihara Trio {#beloved-ones-by-yuka-yanagihara-trio}
+## Beloved Ones by Yuka Yanagihara Trio
 
 -   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
 -   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
@@ -47,7 +47,7 @@ Released in 2024 on Tomtom Cherry Music as TCM-2004.
 _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “All the Things You Are”, track #3 on this album:](https://youtu.be/M74EhQ9XlAE)
 
@@ -57,4 +57,4 @@ _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武
 
 {{< youtube ZcBH5MLBNpk >}}
 
--   Excerpt from track #1: [“Snowflake”](/audio/#mix-12)
+-   [Excerpt from track #1: “Snowflake”](/audio/#mix-12)

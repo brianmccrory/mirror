@@ -28,7 +28,7 @@ The album opens up with Inoue striking out alone on solo saxophone on the beauti
 {{< figure src="../images/toshihiko-inoue-and-masaki-hayashi/L1200905-1024.JPG" link="../images/toshihiko-inoue-and-masaki-hayashi/L1200905-1024.JPG" >}}
 
 
-## Mistral by Toshihiko Inoue &amp; Masaki Hayashi {#mistral-by-toshihiko-inoue-and-masaki-hayashi}
+## Mistral by Toshihiko Inoue &amp; Masaki Hayashi
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
 -   [Masaki Hayashi](/tags/masaki-hayashi) - piano
@@ -38,10 +38,10 @@ Released in 2013 on 78 Label as FNFY-06.
 _Japanese names: 井上淑彦 Inoue Toshihiko 林正樹 Hayashi Masaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Toshihiko Inoue and Masaki Hayashi playing “Zutto” with Clepsydra in 2011:](https://youtu.be/4TJBI__ULOc)
 
 {{< youtube 4TJBI__ULOc >}}
 
--   Excerpt from track #2: [“Goteborg”](/audio/#mix-8)
+-   [Excerpt from track #2: “Goteborg”](/audio/#mix-8)

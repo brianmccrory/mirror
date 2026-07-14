@@ -40,7 +40,7 @@ The final two tracks also remind us of Yamanaka’s fun and playful nature. In l
 {{< figure src="L1210713x-1024.jpeg" link="L1210713x-1024.jpeg" >}}
 
 
-## Lach Doch Mal by Chihiro Yamanaka {#lach-doch-mal-by-chihiro-yamanaka}
+## Lach Doch Mal by Chihiro Yamanaka
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Larry Grenadier](/tags/larry-grenadier) - bass
@@ -52,7 +52,7 @@ Released in 2006 on Verve as UCCJ-9077.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “One Step Up”:](https://youtu.be/t2hkf_u_Nv0)
 
@@ -66,4 +66,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube 9xWegng0moE >}}
 
--   Excerpt from track #1: [“カン・ビロン・ヴリュ・ダンセ (_Can biron velue danse_)”](/audio/#mix-10)
+-   [Excerpt from track #1: “カン・ビロン・ヴリュ・ダンセ (_Can biron velue danse_)”](/audio/#mix-10)

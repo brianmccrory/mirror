@@ -42,7 +42,7 @@ Nobie’s golden sweet voice is ever charming, deceptively soft but ultra dynami
 Like the album’s opener, the final song, track 11 “Komaku” (_eardrum_), departs slightly from the rest of the music. This parting song creates a wide open, ambient space for the album’s outro with lush guitar delays and effects drawing a spellbinding mood similar to her tune “Loop” on her debut album [Primary](https://www.jazzofjapan.com/archive/nobie/primary).
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Shinichi Tokunaga’s original Japanese liner notes.)_
 
@@ -75,7 +75,7 @@ Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of bal
 {{< figure src="L1270343x-1200.jpeg" link="L1270343x-1200.jpeg" >}}
 
 
-## Owari to Hajimari by Nobie &amp; Takayoshi Baba {#owari-to-hajimari-by-nobie-and-takayoshi-baba}
+## Owari to Hajimari by Nobie &amp; Takayoshi Baba
 
 -   [Nobie](/tags/nobie) - vocal/percussion/chorus
 -   [Takayoshi Baba](/tags/takayoshi-baba) - guitar/chorus
@@ -89,7 +89,7 @@ Released in 2023 on F.S.L. as FSCJ-0024.
 _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka Nobumasa 片倉真由子 Katakura Mayuko コモブチキイチロウ Komobuchi Kiichiro 岡部洋一 Okabe Yoichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/Q7GhHODuxa0)
 
@@ -121,9 +121,9 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka
 
 -   [Album streams (TuneCore Japan)](https://linkco.re/gMGSQuCY)
 
--   Excerpt from track #2: [“おわりとはじまり (_The end and the beginning_)”](/audio/#mix-12)
+-   [Excerpt from track #2: “おわりとはじまり (_The end and the beginning_)”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [Owari to Hajimari website](https://www.nobiebaba.com/)

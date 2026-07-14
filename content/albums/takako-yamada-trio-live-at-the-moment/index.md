@@ -36,7 +36,7 @@ The last song is one of Yamada’s original compositions, played as an encore fo
 As for the long-lasting power and admiration of jazz standards, pianist/writer [Ethan Iverson’s recent article on standards](https://iverson.substack.com/p/tt-457-core-repertoire-pt-2-standards) (and today’s [part 3)](https://open.substack.com/pub/iverson/p/tt-458-original-sheet-music-to-two), explains the term and provides many examples of how jazz musicians throughout history absorbed and transformed the original music and transformed the templates. His invaluable analysis includes four of the songs on this album: How the original sheet music for “I Should Care” landed with Thelonious Monk. The impact of “How Deep is the Ocean” on Bill Evans (and vice versa) and Chick Corea. The reinvention of “Yesterdays” by Art Tatum and John Scofield. How “All of You” touched Ahmad Jamal, Miles Davis, Bill Evans, Scott LaFaro, Wynton Kelly, and Herbie Hancock. Like all masterful jazz musicians, they left their individual stamps on the standards, using the medium of the compositions as launchpads for their explorations.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 _Live at The Moment_
 
@@ -47,7 +47,7 @@ Takako Yamada Trio
 {{< figure src="L1290237x-1200.jpeg" link="L1290237x-1200.jpeg" >}}
 
 
-## Live at The Moment by Takako Yamada Trio {#live-at-the-moment-by-takako-yamada-trio}
+## Live at The Moment by Takako Yamada Trio
 
 -   [Takako Yamada](/tags/takako-yamada) - piano
 -   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu) - bass
@@ -58,7 +58,7 @@ Released in 2024 on GoodNessPlus Records as GNPR-1195.
 _Japanese names: 山田貴子 Yamada Takako 清水昭好 Shimizu Akiyoshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “I Should Care” (track #1):](https://youtu.be/hIAAbsj4fAk)
 
@@ -74,4 +74,4 @@ _Japanese names: 山田貴子 Yamada Takako 清水昭好 Shimizu Akiyoshi 大村
 
 -   [Full playlist for this album](https://youtube.com/playlist?list=OLAK5uy_klccSjVFfD9uZn6PJUYu3V7es2IoTI-R4)
 
--   Excerpt from track #7: [“Hill Road-坂道- (_Hill Road-Sakamichi-_)”](/audio/#mix-14)
+-   [Excerpt from track #7: “Hill Road-坂道- (_Hill Road-Sakamichi-_)”](/audio/#mix-14)

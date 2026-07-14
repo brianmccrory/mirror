@@ -26,7 +26,7 @@ Although this is mostly a solo piano album spotlighting Kishi and her music, two
 {{< figure src="../images/sayaka-kishi-featuring-te/L1180438-1024.JPG" link="../images/sayaka-kishi-featuring-te/L1180438-1024.JPG" >}}
 
 
-## Featuring Te by Sayaka Kishi {#featuring-te-by-sayaka-kishi}
+## Featuring Te by Sayaka Kishi
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano
 -   [Mayumi Sano](/tags/mayumi-sano) - cello (#2, 5, 9)
@@ -37,7 +37,7 @@ Released in 2014 on Roving Spirits as RKC-8050.
 _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi 黒沢綾 Kurosawa Aya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A solo performance of track #3, “Inori Featuring Te”:](https://youtu.be/QWqyCeTpz-c)
 
@@ -47,4 +47,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi 黒沢綾 Ku
 
 {{< youtube FB0v5wlC3wo >}}
 
--   Excerpt from track #1: [“up to you”](/audio/#mix-1)
+-   [Excerpt from track #1: “up to you”](/audio/#mix-1)

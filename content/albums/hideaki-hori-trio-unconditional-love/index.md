@@ -30,7 +30,7 @@ The twelve songs include four originals by Hori (the funky “The Shell” and h
 {{< figure src="hideakihori-liveatnardis-live-1024.jpeg" link="hideakihori-liveatnardis-live-1024.jpeg" >}}
 
 
-## Unconditional Love by Hideaki Hori Trio {#unconditional-love-by-hideaki-hori-trio}
+## Unconditional Love by Hideaki Hori Trio
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
 -   [Yuhei Honkawa](/tags/yuhei-honkawa) - bass
@@ -41,10 +41,10 @@ Released in 2014 on BQ Records as BQR-2064/2065.
 _Japanese names: 堀秀彰 Hori Hideaki 本川悠平 Honkawa Yuhei 長谷川ガク Hasegawa Gaku_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A track from this album, the jazz standard “Up Jumped Spring”:](https://youtu.be/bvpbKSbeEhk)
 
 {{< youtube bvpbKSbeEhk >}}
 
--   Excerpt from track #3: [“Our Love Is Here To Stay”](/audio/#mix-3)
+-   [Excerpt from track #3: “Our Love Is Here To Stay”](/audio/#mix-3)

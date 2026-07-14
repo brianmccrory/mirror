@@ -40,7 +40,7 @@ The songs on _Live at Asakusa_ are original compositions by co-leaders Ikedo and
 {{< figure src="L1280692x-1200.jpeg" link="L1280692x-1200.jpeg" >}}
 
 
-## Live at Virtuoso by Fe {#live-at-virtuoso-by-fe}
+## Live at Virtuoso by Fe
 
 -   [Yuta Ikedo](/tags/yuta-ikedo) - guitar
 -   [Ko Omura](/tags/ko-omura) - drums
@@ -52,10 +52,10 @@ Released in 2021 on Virtuoso as VTS-006.
 _Japanese names: 池戸祐太 Ikedo Yuta 大村亘 Omura Ko 古木佳祐 Furuki Keisuke 石崎忍 Ishizaki Shinobu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of the live recording of “Invisible Essence”, track #1 on this album:](https://youtu.be/HLdibCEDBqw)
 
 {{< youtube HLdibCEDBqw >}}
 
--   Excerpt from track #3: [“Sheepwash”](/audio/#mix-13)
+-   [Excerpt from track #3: “Sheepwash”](/audio/#mix-13)

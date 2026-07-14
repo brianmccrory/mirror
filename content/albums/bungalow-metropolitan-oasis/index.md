@@ -26,7 +26,7 @@ Masahiro Yamamoto, an original member of Bungalow featured on their first two al
 {{< figure src="L1200916-1024.jpg" link="L1200916-1024.jpg" >}}
 
 
-## Metropolitan Oasis by Bungalow {#metropolitan-oasis-by-bungalow}
+## Metropolitan Oasis by Bungalow
 
 -   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto sax, soprano sax
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -38,10 +38,10 @@ Released in 2011 on Daiki Musica as DMCD-17.
 _Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Bungalow playing live in 2012:](https://youtu.be/1OVBks2vJ94)
 
 {{< youtube 1OVBks2vJ94 >}}
 
--   Excerpt from track #3: [“Underpass”](/audio/#mix-6)
+-   [Excerpt from track #3: “Underpass”](/audio/#mix-6)

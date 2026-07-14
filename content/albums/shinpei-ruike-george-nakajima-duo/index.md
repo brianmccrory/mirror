@@ -32,7 +32,7 @@ With eleven tracks running for about an hour, the majority of songs are interpre
 Also included are three wonderful originals from Ruike: the boiling cauldron of “Ambargris”, the pretty, fresh feelings in “Dear”, and the haunting and desolate “Vida”.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes visible in the photo above.)_
 
@@ -43,7 +43,7 @@ Shinpei Ruike
 {{< figure src="L1240175x-1024.jpeg" link="L1240175x-1024.jpeg" >}}
 
 
-## Duo by Shinpei Ruike &amp; George Nakajima {#duo-by-shinpei-ruike-and-george-nakajima}
+## Duo by Shinpei Ruike &amp; George Nakajima
 
 -   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
 -   [George Nakajima](/tags/george-nakajima) - piano
@@ -53,10 +53,10 @@ Released in 2022 on Core Port as RPOL-10012.
 _Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live recording of “Suiren”, track #10 on this album:](https://youtu.be/ojfvmRfqrqE)
 
 {{< youtube ojfvmRfqrqE >}}
 
--   Excerpt from track #4: [“Plus fort que nous”](/audio/#mix-9)
+-   [Excerpt from track #4: “Plus fort que nous”](/audio/#mix-9)

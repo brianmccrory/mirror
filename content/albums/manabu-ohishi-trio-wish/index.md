@@ -30,7 +30,7 @@ Another moving feature is Ohishi’s lovely reharmonization of popular standards
 {{< figure src="L1120054-1024.jpeg" link="L1120054-1024.jpeg" >}}
 
 
-## Wish by Manabu Ohishi Trio {#wish-by-manabu-ohishi-trio}
+## Wish by Manabu Ohishi Trio
 
 -   [Manabu Ohishi](/tags/manabu-ohishi) - piano
 -   [Jean-Philippe Viret](/tags/jean-philippe-viret) - bass
@@ -41,10 +41,10 @@ Released in 2010 on Atelier Sawano as AS-100.
 _Japanese names: 大石学 Ohishi Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A version of Ohishi’s song “Continuous Rain”:](https://youtu.be/muxhlGhBnIQ)
 
 {{< youtube muxhlGhBnIQ >}}
 
--   Excerpt from track #1: [“I'm Yours”](/audio/#mix-2)
+-   [Excerpt from track #1: “I'm Yours”](/audio/#mix-2)

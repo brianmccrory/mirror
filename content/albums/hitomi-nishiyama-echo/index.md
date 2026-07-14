@@ -36,7 +36,7 @@ Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, exp
 {{< figure src="L1280373x-1200.jpeg" link="L1280373x-1200.jpeg" >}}
 
 
-## Echo by Hitomi Nishiyama {#echo-by-hitomi-nishiyama}
+## Echo by Hitomi Nishiyama
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, compositions
 -   [Toru Nishijima](/tags/toru-nishijima) - bass
@@ -50,7 +50,7 @@ Released in 2024 on Meantone Records as MT-13.
 _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/noBKgt9Gu6E)
 
@@ -66,4 +66,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 N
 
 -   [Streaming services for this album](https://linkco.re/u7zvtsUN)
 
--   Excerpt from track #4: [“Arrakis”](/audio/#mix-13)
+-   [Excerpt from track #4: “Arrakis”](/audio/#mix-13)

@@ -30,7 +30,7 @@ The songs are well-structured and composed, calming and easily listenable, with 
 {{< figure src="L1110922-1024.jpg" link="L1110922-1024.jpg" >}}
 
 
-## Piano Works by Ken’ichiro Shinzawa {#piano-works-by-ken-ichiro-shinzawa}
+## Piano Works by Ken’ichiro Shinzawa
 
 -   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa) - piano, composition
 
@@ -39,10 +39,10 @@ Released in 2009 on Iceblue Records as IBRC-8001.
 _Japanese names: 新澤健一郎 Shinzawa Ken'ichiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Solo performance from Ken’ichiro Shinzawa:](https://youtu.be/99CzcQx9Kb0)
 
 {{< youtube 99CzcQx9Kb0 >}}
 
--   Excerpt from track #1: [“２つの命 Two Lives”](/audio/#mix-2)
+-   [Excerpt from track #1: “２つの命 Two Lives”](/audio/#mix-2)

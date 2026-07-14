@@ -24,7 +24,7 @@ As Inoue plays through the five songs on this album, the listener is transported
 {{< figure src="L1180769-1024.jpg" link="L1180769-1024.jpg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by F.S.L.)_
 
@@ -43,7 +43,7 @@ We would like to thank everyone who helped us in releasing this.
 {{< figure src="L1180895-1024.jpg" link="L1180895-1024.jpg" >}}
 
 
-## Vayu by Toshihiko Inoue {#vayu-by-toshihiko-inoue}
+## Vayu by Toshihiko Inoue
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - solo saxophone
 
@@ -52,7 +52,7 @@ Released in 2016 on Foot &amp; Shoe as FSCJ-0011.
 _Japanese names: 井上淑彦 Inoue Toshihiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Toshihiko Inoue playing solo saxophone live in 2012:](https://youtu.be/IbZM0UNlDZA)
 
@@ -60,4 +60,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko_
 
 -   [Audio samples](http://bowz.shop-pro.jp/?pid=109653244)
 
--   Excerpt from track #1: [“Fireworks”](/audio/#mix-2)
+-   [Excerpt from track #1: “Fireworks”](/audio/#mix-2)

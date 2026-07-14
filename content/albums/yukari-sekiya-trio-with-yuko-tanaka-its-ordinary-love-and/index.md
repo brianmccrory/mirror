@@ -28,7 +28,7 @@ Here’s a brief overview of the music. The absorbing opening track #1 “Stop c
 {{< figure src="L1340864x-1200.jpeg" link="L1340864x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -79,7 +79,7 @@ As hair flows softly<br />
 Just for two alone
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 it's ordinary love and... Yukari Sekiya Trio with Yuko Tanaka
 
@@ -90,7 +90,7 @@ Dec. 14, 2010   A live recording on the final night of the tour   The long-await
 {{< figure src="L1340891x-1200.jpeg" link="L1340891x-1200.jpeg" >}}
 
 
-## It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka {#it-s-ordinary-love-and-dot-dot-dot-by-yukari-sekiya-trio-with-yuko-tanaka}
+## It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka
 
 -   [Yukari Sekiya](/tags/yukari-sekiya) - piano
 -   [Yuko Tanaka](/tags/yuko-tanaka) - voice
@@ -102,7 +102,7 @@ Released in 2011 on Itazura Records as YUMO-713.
 _Japanese names: 関谷友加里 Sekiya Yukari 田中ゆうこ Tanaka Yuko 森定道広 Morisada Michihiro 橋本達哉 Hashimoto Tatsuya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/nJkdQCR6Wv4)
 
@@ -120,4 +120,4 @@ _Japanese names: 関谷友加里 Sekiya Yukari 田中ゆうこ Tanaka Yuko 森�
 
 {{< youtube zIRCmE3ynPY >}}
 
--   Excerpt from track #1: [“ストップ・コール (_Stop Call_)”](/audio/#mix-15)
+-   [Excerpt from track #1: “ストップ・コール (_Stop Call_)”](/audio/#mix-15)

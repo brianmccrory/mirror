@@ -26,7 +26,7 @@ While session leader and bassist Koizimi states that the recording was not origi
 {{< figure src="L1200564-1024.jpg" link="L1200564-1024.jpg" >}}
 
 
-## By Coincidence by Yoshihito “P” Koizumi P-Project {#by-coincidence-by-yoshihito-p-koizumi-p-project}
+## By Coincidence by Yoshihito “P” Koizumi P-Project
 
 -   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
 -   [Jun Miyakawa](/tags/jun-miyakawa) - keyboards
@@ -37,10 +37,10 @@ Released in 2011 on Peace Bass Records as PBRS-0001.
 _Japanese names: 小泉P克人 Koizumi Yoshihito “P” 宮川純 Miyakawa Jun 小森耕造 Komori Kohzo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video featuring Yoshihito “P” Koizumi from 2008:](https://youtu.be/92l3SdCSd30)
 
 {{< youtube 92l3SdCSd30 >}}
 
--   Excerpt from track #1: [“JB's Poem”](/audio/#mix-7)
+-   [Excerpt from track #1: “JB's Poem”](/audio/#mix-7)

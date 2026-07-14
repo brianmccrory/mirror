@@ -32,7 +32,7 @@ The first half of the album ranges through maiko’s violin arranged with differ
 From here, the album’s emotional directions turns further inward with slow to medium songs that embody the images conveyed by their titles: “Remininscence”, “Toi Kioku (_Distant Memories_)”, “Far away”, and “kiteki” all breathe with the feeling of nostalgic remembering and reflecting. As a final piece performed bravely alone and with a huge presence, Maiko plays track #9 “kiteki” as a violin solo, a heartfelt tribute to memories of her hometown shared intimately with her listeners.
 
 
-## Album Notes {#album-notes}
+## Album Notes
 
 _(Translated from [maiko’s online liner notes](https://jvmaiko.com/remi.html) for this album.)_
 
@@ -73,7 +73,7 @@ While thinking fondly of someplace remote, something far away...
 This is a song that was originally expanded from a motif that was born during a violin improvisation solo concert. There is the sound of a boat’s steam whistle somewhere in my memories. I recorded this song at the end of this album as I thought about my hometown.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Aya Kurosawa’s lyrics for track #4 “ふと、 (Suddenly,)” printed on the CD cover.)_
 
@@ -101,7 +101,7 @@ Confirming our linked memories
 February’s snow flurries, suddenly, burst forth
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Arriving somewhere warm<br />
 And the journey continues
@@ -113,7 +113,7 @@ This album was created upon a foundation of the many encounters that have shaped
 {{< figure src="L1290267x-1200.jpeg" link="L1290267x-1200.jpeg" >}}
 
 
-## Reminiscence by Maiko {#reminiscence-by-maiko}
+## Reminiscence by Maiko
 
 -   [maiko](/tags/maiko) - violin
 -   [Shikou Ito](/tags/shikou-ito) - piano (#1, 2, 3, 6, 7, 8)
@@ -126,7 +126,7 @@ Released in 2024 on GardenNotes Music as GNM-1026.
 _Japanese names: マイコ maiko 伊藤志宏 Ito Shikou 伊東佑季 Ito Yuki 藤本一馬 Fujimoto Kazuma 黒沢綾 Kurosawa Aya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpts from “Mirage” (track #1), “Windmill” (track #2), and “Rotating Sphere” (track #5):](https://youtu.be/sRehEEYv3wM)
 
@@ -172,4 +172,4 @@ _Japanese names: マイコ maiko 伊藤志宏 Ito Shikou 伊東佑季 Ito Yuki �
 
 {{< youtube EAASIXOQYS0 >}}
 
--   Excerpt from track #1: [“Mirage”](/audio/#mix-15)
+-   [Excerpt from track #1: “Mirage”](/audio/#mix-15)

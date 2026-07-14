@@ -30,7 +30,7 @@ With the essence of soft blues and pure whites like the album design itself, Azu
 {{< figure src="L1110901-1024.jpg" link="L1110901-1024.jpg" >}}
 
 
-## Almost Like Being in Love by Azumi {#almost-like-being-in-love-by-azumi}
+## Almost Like Being in Love by Azumi
 
 -   [Azumi](/tags/azumi) - vocal
 -   [Sachiko Ikuta](/tags/sachiko-ikuta) - piano
@@ -42,10 +42,10 @@ Released in 2010 on Jazz On Top Records as JOT-1009-1.
 _Japanese names: あづみ Azumi 生田さち子 Ikuta Sachiko 荒玉哲郎 Aratama Tetsuro 小前賢吾 Komae Kengo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Short clip of Azumi singing live in 2010:](https://youtu.be/66XO6e998Us)
 
 {{< youtube 66XO6e998Us >}}
 
--   Excerpt from track #1: [“ｵｰﾙﾓｽﾄ・ﾋﾞｰｲﾝｸﾞ・ｲﾝ・ﾗｳﾞ (_Almost Like Being in Love_)”](/audio/#mix-5)
+-   [Excerpt from track #1: “ｵｰﾙﾓｽﾄ・ﾋﾞｰｲﾝｸﾞ・ｲﾝ・ﾗｳﾞ (_Almost Like Being in Love_)”](/audio/#mix-5)

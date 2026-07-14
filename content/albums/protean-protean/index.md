@@ -28,7 +28,7 @@ Although this release is on the shorter side, it previews what is to come from T
 {{< figure src="../images/protean-protean/L1200374-1024.JPG" link="../images/protean-protean/L1200374-1024.JPG" >}}
 
 
-## Protean by Protean {#protean-by-protean}
+## Protean by Protean
 
 -   [Naoko Tanaka](/tags/naoko-tanaka) - piano
 -   [Naoyuki Seto](/tags/naoyuki-seto) - electric bass
@@ -39,7 +39,7 @@ Released in 2009 on Protean as Protean.
 _Japanese names: 田中菜緒子 Tanaka Naoko 瀬戸尚幸 Seto Naoyuki 吉川弾 Yoshikawa Dan_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live version of “Negotiater”, track #5 on this album:](https://youtu.be/wMLgnUZyQL0)
 
@@ -49,4 +49,4 @@ _Japanese names: 田中菜緒子 Tanaka Naoko 瀬戸尚幸 Seto Naoyuki 吉川�
 
 {{< youtube OOBh8KGrvbU >}}
 
--   Excerpt from track #6: [“the last train”](/audio/#mix-8)
+-   [Excerpt from track #6: “the last train”](/audio/#mix-8)

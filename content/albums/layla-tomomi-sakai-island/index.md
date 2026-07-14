@@ -30,7 +30,7 @@ While maintaining the calm atmosphere, three songs also feature Sakai singing wi
 {{< figure src="L1220612-1024.jpg" link="L1220612-1024.jpg" >}}
 
 
-## The Island by Layla Tomomi Sakai {#the-island-by-layla-tomomi-sakai}
+## The Island by Layla Tomomi Sakai
 
 -   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
 -   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar (#1, 3, 4, 5, 6)
@@ -46,10 +46,10 @@ Released in 2018 on Laydrunker Records as LAYLA-002.
 _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi 三木俊雄 Miki Toshio 奥山勝 Okuyama Masaru 石川智 Ishikawa Satoshi マツモニカ Matsumonica 長澤紀仁 Nagasawa Norihito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Layla Tomomi Sakai performing live in 2017:](https://youtu.be/xZjA59QRfj8)
 
 {{< youtube id=xZjA59QRfj8 start=159 >}}
 
--   Excerpt from track #1: [“Only Trust Your Heart”](/audio/#mix-4)
+-   [Excerpt from track #1: “Only Trust Your Heart”](/audio/#mix-4)

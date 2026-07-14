@@ -32,7 +32,7 @@ This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, des
 {{< figure src="L1210611-1024.jpg" link="L1210611-1024.jpg" >}}
 
 
-## Living Without Friday by Chihiro Yamanaka Trio {#living-without-friday-by-chihiro-yamanaka-trio}
+## Living Without Friday by Chihiro Yamanaka Trio
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Ray Parker](/tags/ray-parker) - bass
@@ -43,10 +43,10 @@ Released in 2001 on Atelier Sawano as AS-016.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Chihiro Yamanaka playing “Living Without Friday” live from 2013:](https://youtu.be/ittfMkakJCo)
 
 {{< youtube ittfMkakJCo >}}
 
--   Excerpt from track #7: [“Balkan Tale”](/audio/#mix-6)
+-   [Excerpt from track #7: “Balkan Tale”](/audio/#mix-6)

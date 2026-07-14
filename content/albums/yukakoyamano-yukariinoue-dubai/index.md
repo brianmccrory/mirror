@@ -32,7 +32,7 @@ The album’s five tracks add up to a brisk 23 minutes and relay a narrative wit
 {{< figure src="L1230140x-1024.jpeg" link="L1230140x-1024.jpeg" >}}
 
 
-## Dubai Suite by Yukako Yamano &amp; Yukari Inoue {#dubai-suite-by-yukako-yamano-and-yukari-inoue}
+## Dubai Suite by Yukako Yamano &amp; Yukari Inoue
 
 -   [Yukako Yamano](/tags/yukako-yamano) - piano
 -   [Yukari Inoue](/tags/yukari-inoue) - piano
@@ -42,7 +42,7 @@ Released in 2021 on Yukako Yamano as YKCJ-0006.
 _Japanese names: 山野友佳子 Yamano Yukako 井上ゆかり Inoue Yukari_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yukako Yamano and Yukari Inoue playing piano duet live in 2019:](https://youtu.be/p_er24Xc3GY)
 
@@ -52,4 +52,4 @@ _Japanese names: 山野友佳子 Yamano Yukako 井上ゆかり Inoue Yukari_
 
 {{< youtube XTbuu5CImlk >}}
 
--   Excerpt from track #5: [“Victory”](/audio/#mix-8)
+-   [Excerpt from track #5: “Victory”](/audio/#mix-8)

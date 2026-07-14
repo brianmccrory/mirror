@@ -28,7 +28,7 @@ Recorded live at Jalan Jalan in Wakayama, Japan on November 22-23, 2008.
 {{< figure src="L1180761-1024.jpg" link="L1180761-1024.jpg" >}}
 
 
-## Needful Things by Ryosuke Hashizume {#needful-things-by-ryosuke-hashizume}
+## Needful Things by Ryosuke Hashizume
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, clarinet, effects, voice
 -   [Takumi Seino](/tags/takumi-seino) - electric, acoustic guitars
@@ -40,6 +40,6 @@ Released in 2009 on Grapes Records as GPS-1206.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 清野拓巳 Seino Takumi 浜村昌子 Hamamura Masako 萬恭隆 Yorozu Yasutaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
--   Excerpt from track #1: [“Stone Pavement”](/audio/#mix-2)
+-   [Excerpt from track #1: “Stone Pavement”](/audio/#mix-2)

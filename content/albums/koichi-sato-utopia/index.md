@@ -28,7 +28,7 @@ The nine original songs on this album are full of lyrical freshness balanced wit
 {{< figure src="IMG_20150318_153908-1024.jpg" link="IMG_20150318_153908-1024.jpg" >}}
 
 
-## Utopia by Koichi Sato {#utopia-by-koichi-sato}
+## Utopia by Koichi Sato
 
 -   [Koichi Sato](/tags/koichi-sato) - piano
 -   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
@@ -39,10 +39,10 @@ Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.
 _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Koichi Sato playing live in 2010:](https://youtu.be/PAoCKNGeD-I)
 
 {{< youtube PAoCKNGeD-I >}}
 
--   Excerpt from track #5: [“ミラード・ミラー (_Mirrored Mirror_)”](/audio/#mix-3)
+-   [Excerpt from track #5: “ミラード・ミラー (_Mirrored Mirror_)”](/audio/#mix-3)

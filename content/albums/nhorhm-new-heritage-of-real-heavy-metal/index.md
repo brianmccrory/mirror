@@ -72,7 +72,7 @@ Track #10 “Green-Tinted Sixties Mind” (Mr. Big, _Lean Into It_, 1991) is all
 Much more is described in the liner notes, translated below. From Nishiyama’s NHORHM song selection process and preparations (and going to see some of these bands live as a fan for the full experience), to her careful reformatting, rewriting, and rearranging, a lot of effort and energy was devoted to this. It resulted in a finely imagined and perfected product through NHORHM’s fantastic performances and the final recording. There are even extended notes on Nishiyama’s blog that go into further detail. It all goes to show how seriously Nishiyama, Orihara, and Hashimoto took this project. It may have seemed like just a quirky whim at first, not only to Nishiyama and the project director, but even to listeners who glance skeptically as such a monstrous hybrid, or rather, a musical experiment. Nishiyama puts a lot of thought and work into her projects, into her playing, composing, releasing new albums, and communicating her thoughts, and the fans rejoice, whether jazz or metal or both or other.
 
 
-## _What is NWOBHM?_ {#what-is-nwobhm}
+## _What is NWOBHM?_
 
 Although I was a mildly rebellious kid in America who was heavily into ‘80s metal and “The Big Four” Metallica, Megadeth, Slayer, and Anthrax, the abbreviation NWOBHM ([New Wave of British Heavy Metal](https://en.wikipedia.org/wiki/New_wave_of_British_heavy_metal)) was not one I remember being familiar with. As far as _those bands from overseas_, I knew the obvious gods Iron Maiden (whom I also adored), and the British and European legends that would show up in videos on Headbangers Ball or through offers from Columbia Record Club: Motorhead, Judas Priest, Def Leppard, Diamond Head (who was specifically raised to my consciousness by Metallica’s cover of their song “Am I Evil” on _The $5.98 E.P.—Garage Days Re-Revisited_)... And this is even glossing over the likely more influential ‘70s with groundbreaking bands like Led Zeppelin, Black Sabbath and Ozzy (and “Iron Man” is later covered by NHORHM on _New Heritage of Real Heavy Metal II_...), Deep Purple, UFO, Budgie, Queen, Thin Lizzy, Scorpions, and on and on). In general, I didn’t distinguish too much between many American and overseas bands at the time, and this may have been why categories like NWOBHM passed me by. Apparently however, the youthful, raw, and energetic DIY influence of this New Wave (of British Heavy Metal) was definitely strongly felt in Europe, the Americas, and Japan—whether the abbreviation was prevalent as a category term or not—where the above-mentioned bands would sell out large arenas and influence Japanese metal bands like X Japan, Loudness, Bow Wow, and Ningen Isu.
 
@@ -81,7 +81,7 @@ There is some controversy and debate over whether the NWOBHM label is a legitima
 Enough of the history, and back to this NHORHM album.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the booklet quotes and Hitomi Nishiyama’s original Japanese liner notes.)_
 
@@ -166,7 +166,7 @@ And the melodicism of the accompaniment is even more interesting than the origin
 **鈴木ヤスナリオ Yasunario Suzuki (Koenji Metal Meshi)**
 
 
-## Extended Liner Notes {#extended-liner-notes}
+## Extended Liner Notes
 
 _As an extension of the liner notes, [Hitomi Nishiyama’s post on NHOHRM](http://blog.livedoor.jp/hitomipf79/archives/52341894.html) goes into more detail about this release. This page also contains links for Nishiyama’s track-by-track notes (links are in the 曲解説 section), with a few extra video links and behind-the-scenes photos of the recording. Some quick excerpts:_
 
@@ -183,7 +183,7 @@ _As an extension of the liner notes, [Hitomi Nishiyama’s post on NHOHRM](http:
 -   [Member Q&amp;A](http://blog.livedoor.jp/hitomipf79/archives/52344233.html) - Brief bios, influences, and recommendations from each member of NHORHM.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Groundbreaking! A jazz pianist releases a cover album of famous heavy metal songs!!!
 Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fujisaki&gt;
@@ -191,7 +191,7 @@ Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fu
 {{< figure src="L1310973x-1200.jpeg" link="L1310973x-1200.jpeg" >}}
 
 
-## New Heritage of Real Heavy Metal by NHORHM {#new-heritage-of-real-heavy-metal-by-nhorhm}
+## New Heritage of Real Heavy Metal by NHORHM
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -206,7 +206,7 @@ Released in 2015 on Apollo Sounds as APLS1905/APLS1510R.
 _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 小田朋美 Oda Tomomi 馬場孝喜 Baba Takayoshi 市原ひかり Ichihara Hikari 橋爪亮督 Hashizume Ryosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with #1 “In the Dead of the Night (U.K.)”, #6 “Upper Levels (Angra)”, #7 “Akumu no Rinbukyoku (Babymetal)”, and #4 “Skin O’ My Teeth (Megadeth)”:](https://youtu.be/GWBPgWJZSdI)
 
@@ -232,10 +232,10 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 
 {{< youtube U0Qa6GC1T-A >}}
 
--   Excerpt from track #6: [“Upper Levels”](/audio/#mix-13)
+-   [Excerpt from track #6: “Upper Levels”](/audio/#mix-13)
 
 
-## Links {#links}
+## Links
 
 -   [NHORHM Information](https://nhorhm.tumblr.com/)
 

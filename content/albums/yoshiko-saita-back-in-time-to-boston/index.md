@@ -36,7 +36,7 @@ Additionally, Saita also includes one original song of her own, her charming “
 {{< figure src="L1240590x-1200.jpeg" link="L1240590x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from an excerpt of the original Japanese liner notes. Part 1 is “About Yoshiko Saita” by Toshio Miki, and Part 3 is “The Sky and Wind of Boston” by Hiroshi Minami. The following is Part 2 by Yoshiko Saita.)_
 
@@ -85,7 +85,7 @@ I truly hope you enjoy this album, relaxing with time flowing _slowly_.
 {{< figure src="L1240600x-1200.jpeg" link="L1240600x-1200.jpeg" >}}
 
 
-## Back in Time to Boston by Yoshiko Saita {#back-in-time-to-boston-by-yoshiko-saita}
+## Back in Time to Boston by Yoshiko Saita
 
 -   [Yoshiko Saita](/tags/yoshiko-saita) - vocal
 -   [Kenny Werner](/tags/kenny-werner) - piano
@@ -96,7 +96,7 @@ Released in 2024 on Viva Sounds of DADA as VSDD-004.
 _Japanese names: 斉田佳子 Saita Yoshiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Come Rain or Come Shine”, track #1 on this album:](https://youtu.be/etdSK4mZG0Y)
 
@@ -118,4 +118,4 @@ _Japanese names: 斉田佳子 Saita Yoshiko_
 
 {{< youtube 3cajafPM6nc >}}
 
--   Excerpt from track #2: [“I Will Wait For You”](/audio/#mix-11)
+-   [Excerpt from track #2: “I Will Wait For You”](/audio/#mix-11)

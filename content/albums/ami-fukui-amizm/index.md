@@ -33,7 +33,7 @@ For example, at one point, a 30-second riff and drum feature is curiously insert
 On _Amizm_, Yasushi Fukumori’s hyper drumming and Yoshihito “P” Koizumi’s smooth and popping bass lines, together with Ami’s variety of keyboard sounds, go a long way in influencing the overall sound compared to Fukui’s other albums and trio formations: A spicy and intense dish served between her other richly sweet and delicious offerings.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 _(A translation of the album description on the obi.)_
 
@@ -42,7 +42,7 @@ It’s been about three years since the previous release _Urban Clutter_. The ne
 {{< figure src="IMG_20231010_075959487x-1200.jpeg" link="IMG_20231010_075959487x-1200.jpeg" >}}
 
 
-## Amizm by Ami Fukui {#amizm-by-ami-fukui}
+## Amizm by Ami Fukui
 
 -   [Ami Fukui](/tags/ami-fukui) - piano, Clavinet, Rhodes, CP-80, synth
 -   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
@@ -53,7 +53,7 @@ Released in 2013 on Peace Bass Records as PBRS-0002.
 _Japanese names: 福井亜実 Fukui Ami 小泉P克人 Koizumi Yoshihito “P” 福森康 Fukumori Yasushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Preview of Amizm live performance for Sound Olympic:](https://youtu.be/9obnJDFNu-A)
 
@@ -63,4 +63,4 @@ _Japanese names: 福井亜実 Fukui Ami 小泉P克人 Koizumi Yoshihito “P” 
 
 {{< youtube BObrGkxHSbo >}}
 
--   Excerpt from track #4: [“Absinthe”](/audio/#mix-3)
+-   [Excerpt from track #4: “Absinthe”](/audio/#mix-3)

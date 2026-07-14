@@ -44,7 +44,7 @@ Themes from these titles include nature, fantasy, and musical ideas, but taken a
 {{< figure src="L1320859x-1200.jpeg" link="L1320859x-1200.jpeg" >}}
 
 
-## Kakusareta Guwa by Shikou Ito Trio Syncretia {#kakusareta-guwa-by-shikou-ito-trio-syncretia}
+## Kakusareta Guwa by Shikou Ito Trio Syncretia
 
 -   [Shikou Ito](/tags/shikou-ito) - piano
 -   [Benisuke Sakai](/tags/benisuke-sakai) - bass
@@ -55,7 +55,7 @@ Released in 2025 on Musica Visionaire as MVSI-1003.
 _Japanese names: 伊藤志宏 Ito Shikou 坂井紅介 Sakai Benisuke 大儀見元 Ogimi Gen_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Studio recording from Shikou Ito Trio Syncretia’s 2017 album _毒ある寓話_ (Doku aru guwa) from 2018:](https://youtu.be/DSEItwXDvl8)
 
@@ -73,4 +73,4 @@ _Japanese names: 伊藤志宏 Ito Shikou 坂井紅介 Sakai Benisuke 大儀見�
 
 {{< youtube snvU-lEla8A >}}
 
--   Excerpt from track #1: [“朧月に谺す (_Look at the Moon_)”](/audio/#mix-15)
+-   [Excerpt from track #1: “朧月に谺す (_Look at the Moon_)”](/audio/#mix-15)

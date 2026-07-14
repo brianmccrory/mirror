@@ -32,7 +32,7 @@ In between the ballads, the songs lift from this foundation with the uptempo bop
 With a respectful length and a perfect song selection honoring great jazz musicians, George Nakajima’s _First Touch_ leaves a heartwarming impression with its modest yet stimulating approach, a compelling initial statement that tempts with future possibilities for sharing his gratifying music.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by George Nakajima.)_
 
@@ -61,7 +61,7 @@ _2021.4 George Nakajima_
 {{< figure src="L1230240x-1024.jpeg" link="L1230240x-1024.jpeg" >}}
 
 
-## First Touch by George Nakajima Trio {#first-touch-by-george-nakajima-trio}
+## First Touch by George Nakajima Trio
 
 -   [George Nakajima](/tags/george-nakajima) - piano
 -   [Yutaka Yoshida](/tags/yutaka-yoshida) - bass
@@ -72,10 +72,10 @@ Released in 2021 on Owl Wing Record as OWL-022.
 _Japanese names: 中嶋錠二 Nakajima George 吉田豊 Yoshida Yutaka 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/DC8nNt00Lcg)
 
 {{< youtube DC8nNt00Lcg >}}
 
--   Excerpt from track #3: [“First touch”](/audio/#mix-8)
+-   [Excerpt from track #3: “First touch”](/audio/#mix-8)

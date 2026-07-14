@@ -28,7 +28,7 @@ This album also includes free moments which leave the musical structure open com
 {{< figure src="L1200286-1024.jpg" link="L1200286-1024.jpg" >}}
 
 
-## Touch of Winter by Taihei Asakawa Trio {#touch-of-winter-by-taihei-asakawa-trio}
+## Touch of Winter by Taihei Asakawa Trio
 
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
@@ -39,10 +39,10 @@ Released in 2013 on D-musica Daiki Musica as DMCD-26.
 _Japanese names: 浅川太平 Asakawa Taihei 安ヵ川大樹 Yasukagawa Daiki 則武諒 Noritake Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album with album excerpts played live:](https://youtu.be/9UIC2PHbwgo)
 
 {{< youtube 9UIC2PHbwgo >}}
 
--   Excerpt from track #2: [“Dream Garden”](/audio/#mix-3)
+-   [Excerpt from track #2: “Dream Garden”](/audio/#mix-3)

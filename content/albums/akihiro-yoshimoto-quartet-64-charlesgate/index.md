@@ -32,7 +32,7 @@ The album also includes two shorter songs inserted like brief asides: Tracks #3 
 {{< figure src="L1240179x-1024.jpeg" link="L1240179x-1024.jpeg" >}}
 
 
-## 64 Charlesgate by Akihiro Yoshimoto Quartet {#64-charlesgate-by-akihiro-yoshimoto-quartet}
+## 64 Charlesgate by Akihiro Yoshimoto Quartet
 
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
 -   [Nanami Haruta](/tags/nanami-haruta) - trombone
@@ -44,10 +44,10 @@ Released in 2022 on Quint Co. Ltd. / Chitei Records as B102F.
 _Japanese names: 吉本章紘 Yoshimoto Akihiro 治田七海 Haruta Nanami 林頼我 Hayashi Raiga 冨樫マコト Togashi Makoto_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Akihiro Yoshimoto Quartet playing live in 2020 in support of his album “Moving Color”:](https://youtu.be/Mz5qo6VVTXg)
 
 {{< youtube Mz5qo6VVTXg >}}
 
--   Excerpt from track #1: [“Funny Book”](/audio/#mix-9)
+-   [Excerpt from track #1: “Funny Book”](/audio/#mix-9)

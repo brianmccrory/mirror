@@ -28,7 +28,7 @@ Track two features Ishikawa with “Soft Voice”, a four-part vocal group singi
 {{< figure src="L1220036-1024.jpg" link="L1220036-1024.jpg" >}}
 
 
-## Grown-up Christmas Gift by Sanae Ishikawa {#grown-up-christmas-gift-by-sanae-ishikawa}
+## Grown-up Christmas Gift by Sanae Ishikawa
 
 -   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
 -   [Takayoshi Baba](/tags/takayoshi-baba) - guitar
@@ -41,10 +41,10 @@ Released in 2018 on Sanae Ishikawa Seasonal Japanese Songbook Project as SJSP-00
 _Japanese names: 石川早苗 Ishikawa Sanae 馬場孝喜 Baba Takayoshi 堀秀彰 Hori Hideaki 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for Sanae Ishikawa’s “Everything”:](https://youtu.be/T9zM5f2Bcdg)
 
 {{< youtube T9zM5f2Bcdg >}}
 
--   Excerpt from track #1: [“クリスマス・メドレー (_Christmas Medley_)”](/audio/#mix-4)
+-   [Excerpt from track #1: “クリスマス・メドレー (_Christmas Medley_)”](/audio/#mix-4)

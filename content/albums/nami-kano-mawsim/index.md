@@ -50,7 +50,7 @@ As for the name _mawsim_ (_season_), Kano explained that in certain places the g
 {{< figure src="flyer-1200.jpeg" link="flyer-1200.jpeg" >}}
 
 
-## Mawsim by Nami Kano {#mawsim-by-nami-kano}
+## Mawsim by Nami Kano
 
 -   [Nami Kano](/tags/nami-kano) - alto/soprano saxophone, flute, duduk, chorus
 -   [Tomokazu Sugimoto](/tags/tomokazu-sugimoto) - basses, arrangement, programming, co-producer
@@ -65,7 +65,7 @@ Released in 2024 on Wave Records as WR-001.
 _Japanese names: 加納奈実 Kano Nami 杉本智和 Sugimoto Tomokazu 石田衛 Ishida Mamoru 吉良創太 Kira Sota マイコ maiko 平山織絵 Hirayama Orie 持山翔子 Mochiyama Shoko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with an excerpt from “Crepuscular Rays”, track #1 on this album:](https://youtu.be/3v528kCDXMU)
 
@@ -87,4 +87,4 @@ _Japanese names: 加納奈実 Kano Nami 杉本智和 Sugimoto Tomokazu 石田衛
 
 {{< youtube nIBoybd41gQ >}}
 
--   Excerpt from track #2: [“Le Bourgeon”](/audio/#mix-10)
+-   [Excerpt from track #2: “Le Bourgeon”](/audio/#mix-10)

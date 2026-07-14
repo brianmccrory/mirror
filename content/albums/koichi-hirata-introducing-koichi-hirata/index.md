@@ -22,7 +22,7 @@ This album is a live recording made at the popular, long-running Tokyo jazz club
 {{< figure src="L1360023x-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Back cover" link="L1360023x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Mikio Hasui’s original Japanese liner notes.)_
 
@@ -89,7 +89,7 @@ An original song written by trumpeter Blue Mitchell. It’s a cheerful calypso t
 A ballad composed in 1947 by Guy Wood. Lyrics were later added by Robert Mellin and it became known as a very popular ballad. The performance begins with the simple intro of a guitar solo from Hirota that brings out the beautiful melody genuinely with skillful harmonization that absolutely fascinates listeners. In the middle of the session, the performance ramps up to a jaunty medium tempo, and Hirata’s improvisation also begins to show his characteristic soulful side. Although it’s a staple ballad that is known by many people, here it becomes one that is filled with this quartet’s personality.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The eighth installment in the popular live stage recording series from Alfie, the long-running jazz club in Roppongi, is finally released. The eagerly-awaited debut album from Koichi Hirata in the orthodox style of jazz guitar!
 
@@ -98,7 +98,7 @@ Jazz guitarist Koichi Hirata is a current college student who has began to make 
 {{< figure src="L1360067x-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Disc" link="L1360067x-1200.jpeg" >}}
 
 
-## Introducing Koichi Hirata by Koichi Hirata {#introducing-koichi-hirata-by-koichi-hirata}
+## Introducing Koichi Hirata by Koichi Hirata
 
 -   [Koichi Hirata](/tags/koichi-hirata) - guitar
 -   [Mamoru Ishida](/tags/mamoru-ishida) - piano
@@ -110,7 +110,7 @@ Released in 2024 on Live at Alfie as AFCD-6008.
 _Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yoshida Yutaka 柳沼佑育 Yaginuma Yusuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“A Weaver of Dreams” (track #1):](https://youtu.be/9W9zo_Ms7EU)
 
@@ -126,4 +126,4 @@ _Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yo
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mNDCBx6zojqr_KB9hOjiR0EL6OP-m0UJk)
 
--   Excerpt from track #4: [“These Are Soulful Days”](/audio/#mix-15)
+-   [Excerpt from track #4: “These Are Soulful Days”](/audio/#mix-15)

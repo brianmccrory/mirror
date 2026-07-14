@@ -56,7 +56,7 @@ As a final, perhaps trivial, note, there is a brief out-of-place moment near the
 {{< figure src="L1240787x-1200.jpeg" link="L1240787x-1200.jpeg" >}}
 
 
-## Frozen Dust by Takumi Seino &amp; Motohiko Ichino {#frozen-dust-by-takumi-seino-and-motohiko-ichino}
+## Frozen Dust by Takumi Seino &amp; Motohiko Ichino
 
 -   [Takumi Seino](/tags/takumi-seino) - guitar
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -66,7 +66,7 @@ Released in 2011 on Voice of Silence as VOS-635.
 _Japanese names: 清野拓巳 Seino Takumi 市野元彦 Ichino Motohiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Takumi Seino and Motohiko Ichino playing live at Kanmachi 63 from 2012:](https://youtu.be/_8Iz8p779ek)
 
@@ -76,4 +76,4 @@ _Japanese names: 清野拓巳 Seino Takumi 市野元彦 Ichino Motohiko_
 
 {{< youtube iVBf4ldR0To >}}
 
--   Excerpt from track #1: [“Frozen Dust”](/audio/#mix-10)
+-   [Excerpt from track #1: “Frozen Dust”](/audio/#mix-10)

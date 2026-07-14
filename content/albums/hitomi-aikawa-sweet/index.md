@@ -32,7 +32,7 @@ The final four short songs make up a suite starting with track #11. Here, the wo
 {{< figure src="L1290193x-1200.jpeg" link="L1290193x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hitomi Aikawa’s original Japanese liner notes.)_
 
@@ -118,7 +118,7 @@ Hitomi Aikawa
 {{< figure src="L1290203x-1200.jpeg" link="L1290203x-1200.jpeg" >}}
 
 
-## Sweet by Hitomi Aikawa {#sweet-by-hitomi-aikawa}
+## Sweet by Hitomi Aikawa
 
 -   [Hitomi Aikawa](/tags/hitomi-aikawa) - percussion
 -   [Masaki Hayashi](/tags/masaki-hayashi) - piano (#2, 11, 13, 14)
@@ -131,7 +131,7 @@ Released in 2018 on Hitomi Aikawa as HICD-001.
 _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki 鈴木広志 Suzuki Hiroshi 服部恵 Hattori Megumi 上野山英里 Uenoyama Eri_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Hitomi Aikawa playing “Basilisk” (track #4) on piano, marimba, and percussion:](https://youtu.be/nr-b4K9LDGA)
 
@@ -145,4 +145,4 @@ _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki 鈴木広志 S
 
 {{< youtube s4E7GWlQ4fU >}}
 
--   Excerpt from track #1: [“砂 (_Sand_)”](/audio/#mix-14)
+-   [Excerpt from track #1: “砂 (_Sand_)”](/audio/#mix-14)

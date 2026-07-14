@@ -46,7 +46,7 @@ Tabla returns on #9 “Dattatreya” from Omura, where open ambiance and free ja
 The final track is Mooney’s “Maybe” (#10), a softly swaying tune with rich harmonies played in a comfortable bossa nova style with excellent improv spotlights, light brushes, and dashing drums for a lingering pleasant memory.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Excerpt of Davy Mooney’s words from the CD liner notes.)_
 
@@ -57,7 +57,7 @@ More album notes and song explanations for _The Word_ are available on Mooney’
 {{< figure src="L1320288x-1200.jpeg" link="L1320288x-1200.jpeg" >}}
 
 
-## The Word by Davy Mooney &amp; Ko Omura {#the-word-by-davy-mooney-and-ko-omura}
+## The Word by Davy Mooney &amp; Ko Omura
 
 -   [Davy Mooney](/tags/davy-mooney) - guitar
 -   [Ko Omura](/tags/ko-omura) - drums, tabla (#7, 9)
@@ -70,7 +70,7 @@ Released in 2025 on Sunnyside Communications as SSC-1764.
 _Japanese names: 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Sheep Wash” (track #1):](https://youtu.be/JCgrqKI___0)
 
@@ -80,4 +80,4 @@ _Japanese names: 大村亘 Omura Ko_
 
 -   [Full album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_nHklo6bjpsN_CVWXtvBR7Rp7FkA5iJsD0)
 
--   Excerpt from track #5: [“Groove for Clyde”](/audio/#mix-14)
+-   [Excerpt from track #5: “Groove for Clyde”](/audio/#mix-14)

@@ -28,7 +28,7 @@ On Pray, Kumagai’s trio opens with “Brotherhood”, setting up an atmospheri
 {{< figure src="IMG_20150128_151155-1024.jpg" link="IMG_20150128_151155-1024.jpg" >}}
 
 
-## Pray by Yasumasa Kumagai {#pray-by-yasumasa-kumagai}
+## Pray by Yasumasa Kumagai
 
 -   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
 -   [Ryu Kawamura](/tags/ryu-kawamura) - bass
@@ -40,10 +40,10 @@ Released in 2010 on Anturtle Tune as ANTX-4009.
 _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu 小森耕造 Komori Kohzo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live performance of “Yellow Tail”, the seventh track on the album:](https://youtu.be/yOxINRWXcDs)
 
 {{< youtube yOxINRWXcDs >}}
 
--   Excerpt from track #5: [“CHOIR'S GOT FIRED”](/audio/#mix-8)
+-   [Excerpt from track #5: “CHOIR'S GOT FIRED”](/audio/#mix-8)

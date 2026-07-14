@@ -28,7 +28,7 @@ Throughout the album, surprises and discoveries often surface – bonus interlud
 {{< figure src="L1190053-1024.jpg" link="L1190053-1024.jpg" >}}
 
 
-## New Journey by Ami Fukui Trio {#new-journey-by-ami-fukui-trio}
+## New Journey by Ami Fukui Trio
 
 -   [Ami Fukui](/tags/ami-fukui) - piano
 -   [Show Kudo](/tags/show-kudo) - double bass, electric bass
@@ -40,10 +40,10 @@ Released in 2016 on Diw The Grace as DG-1007.
 _Japanese names: 福井亜実 Fukui Ami 工藤精 Kudo Show 福森康 Fukumori Yasushi 須田晶子 Suda Akiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of the last track, “Burn Red”:](https://youtu.be/bmnIeFGJIYM)
 
 {{< youtube bmnIeFGJIYM >}}
 
--   Excerpt from track #6: [“ニュー・ジャーニー (_New Journey_)”](/audio/#mix-2)
+-   [Excerpt from track #6: “ニュー・ジャーニー (_New Journey_)”](/audio/#mix-2)

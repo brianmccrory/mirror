@@ -28,7 +28,7 @@ With a length of 72 minutes spread out over ten tracks, the songs breathe and bl
 {{< figure src="L1200733-1024.jpg" link="L1200733-1024.jpg" >}}
 
 
-## Wordless by Ryosuke Hashizume Group {#wordless-by-ryosuke-hashizume-group}
+## Wordless by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -40,10 +40,10 @@ Released in 2006 on Polystar Jazz Library as MTCJ-3031.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋本学 Hashimoto Manabu 織原良次 Orihara Ryoji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Ryosuke Hashizume Group performing live in 2016:](https://youtu.be/z9mOOA055Lw)
 
 {{< youtube z9mOOA055Lw >}}
 
--   Excerpt from track #1: [“Face”](/audio/#mix-6)
+-   [Excerpt from track #1: “Face”](/audio/#mix-6)

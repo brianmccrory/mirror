@@ -26,7 +26,7 @@ While most of the tracks are straightforward mid-tempo swingers, a few of tunes 
 {{< figure src="L1220621-1024.jpg" link="L1220621-1024.jpg" >}}
 
 
-## Shining Hour by Yako Horikita {#shining-hour-by-yako-horikita}
+## Shining Hour by Yako Horikita
 
 -   [Yako Horikita](/tags/yako-horikita) - vocal
 -   [Takenori Sawaki](/tags/takenori-sawaki) - alto saxophone
@@ -39,10 +39,10 @@ Released in 2017 on Kylym Records as KYLYM-0001.
 _Japanese names: 堀北やこ Horikita Yako 佐脇武則 Sawaki Takenori 出口誠 Deguchi Makoto 金子健 Kaneko Ken 山下暢彦 Yamashita Nobuhiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/EColU1KjlxY)
 
 {{< youtube EColU1KjlxY >}}
 
--   Excerpt from track #11: [“Under A Blanket Of Blue”](/audio/#mix-5)
+-   [Excerpt from track #11: “Under A Blanket Of Blue”](/audio/#mix-5)

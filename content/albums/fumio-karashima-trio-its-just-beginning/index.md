@@ -28,7 +28,7 @@ Three of Karashima’s originals are also included, with a funky Herbie Hancock-
 {{< figure src="L1200653-1024.jpg" link="L1200653-1024.jpg" >}}
 
 
-## It’s Just Beginning by Fumio Karashima Trio {#it-s-just-beginning-by-fumio-karashima-trio}
+## It’s Just Beginning by Fumio Karashima Trio
 
 -   [Fumio Karashima](/tags/fumio-karashima) - piano
 -   [Yosuke Inoue](/tags/yosuke-inoue) - bass
@@ -39,10 +39,10 @@ Released in 2004 on Pit Inn Music as VACM-1240.
 _Japanese names: 辛島文雄 Karashima Fumio 井上陽介 Inoue Yosuke 奥平慎吾 Okudaira Shingo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Fumio Karashima Trio performing “You and the Night and the Music”, the first track on this album:](https://youtu.be/dC-5imUSTZE)
 
 {{< youtube dC-5imUSTZE >}}
 
--   Excerpt from track #5: [“ミスター・Ｐ．Ｃ． (_Mr. P.C._)”](/audio/#mix-5)
+-   [Excerpt from track #5: “ミスター・Ｐ．Ｃ． (_Mr. P.C._)”](/audio/#mix-5)

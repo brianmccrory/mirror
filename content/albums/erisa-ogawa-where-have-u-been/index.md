@@ -40,7 +40,7 @@ Ogawa’s sunny personality rises from the music through to the design and music
 Following the plethora of musician switches, the final track #10 “Winter Moon” finds the flute quartet returning for a simply lovely track of slow magic, essences of mystical and wistful hope that leaves a mark in the perfect place, a graceful exit from a sparkling and fun jazz flute album.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 _The second album from ERiSA, a rising star in the jazz flute world and winner of the Grand Prize in the third Chigusa Awards!_
 
@@ -49,7 +49,7 @@ _Colorful pop-jazz that captures everything from her first debut up through now!
 {{< figure src="L1240950x-1200.jpeg" link="L1240950x-1200.jpeg" >}}
 
 
-## Where Have U Been? by Erisa Ogawa {#where-have-u-been-by-erisa-ogawa}
+## Where Have U Been? by Erisa Ogawa
 
 -   [Erisa Ogawa](/tags/erisa-ogawa) - flute
 -   [Sota Seta](/tags/sota-seta) - piano
@@ -70,7 +70,7 @@ Released in 2019 on Uplift Jazz Record as UJRC-19014.
 _Japanese names: 小川恵理紗 Ogawa Erisa 瀬田創太 Seta Sota 森田悠介 Morita Yusuke 柴田亮 Shibata Ryo 橋本歩 Hashimoto Ayumi 吉羽 一星 Yoshiba Issei 小泉哲夫 Koizumi Tetsuo 遠藤 定 Endo Jo 寺屋ナオ Teraya Nao 奥山勝 Okuyama Masaru 張替啓太 Harigai Keita ヤマザキタケル Yamazaki Takeru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with audio excerpts and scenes from the recording and photo shoot:](https://youtu.be/ei5EUC5ac_Q)
 
@@ -84,4 +84,4 @@ _Japanese names: 小川恵理紗 Ogawa Erisa 瀬田創太 Seta Sota 森田悠介
 
 -   [Erisa Ogawa’s website videos (older)](https://erisa321.wixsite.com/erisaogawa/musics)
 
--   Excerpt from track #7: [“Punk”](/audio/#mix-11)
+-   [Excerpt from track #7: “Punk”](/audio/#mix-11)

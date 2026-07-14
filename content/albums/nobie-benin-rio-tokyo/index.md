@@ -30,7 +30,7 @@ On the Tokyo section, Nobie performs an impressive acapella version of Dave Brub
 {{< figure src="L1220105-1024.jpg" link="L1220105-1024.jpg" >}}
 
 
-## Bénin Rio Tokyo by Nobie {#bénin-rio-tokyo-by-nobie}
+## Bénin Rio Tokyo by Nobie
 
 -   [Nobie](/tags/nobie) - vocal
 -   [Lionel Loueke](/tags/lionel-loueke) - guitar, vocals (#1-4)
@@ -42,7 +42,7 @@ Released in 2018 on Dear Heart as DBCW-3333.
 _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Nobie and Toninho Horta performing “Beijo Partido” live:](https://youtu.be/O8fBFtyDiVM)
 
@@ -52,4 +52,4 @@ _Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi_
 
 {{< youtube oC0JKyAlfHI >}}
 
--   Excerpt from track #1: [“Karibu”](/audio/#mix-4)
+-   [Excerpt from track #1: “Karibu”](/audio/#mix-4)

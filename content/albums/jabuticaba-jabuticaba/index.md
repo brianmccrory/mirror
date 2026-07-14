@@ -30,7 +30,7 @@ Of pianist Nagatake’s two evocative and memorable contributions, #2 “Sakurag
 Nagatake and Kano’s playing on the saxophonist’s compositions #6 “Foggy Mind” and #7 “Mysterious Dress” feature some of the most exquisitely performed music on the record. These two songs are played consecutively, continuously linked through Nagatake’s piano which infuses the music with wisps of Debussy and Duke Ellington while Kano’s emotionally intense melodies arise bravely and flow gracefully.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Transcribed from Nami Kano’s and Mikiko Nagatake’s original Japanese liner notes.)_
 
@@ -131,7 +131,7 @@ _Jabuticaba  Mikiko Nagatake  Nami Kano_
 {{< figure src="IMG_20230414_121556486x-1024.jpeg" link="IMG_20230414_121556486x-1024.jpeg" >}}
 
 
-## Jabuticaba by Jabuticaba {#jabuticaba-by-jabuticaba}
+## Jabuticaba by Jabuticaba
 
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 -   [Nami Kano](/tags/nami-kano) - saxophone
@@ -143,7 +143,7 @@ Released in 2021 on Owl Wing Record as OWL-020.
 _Japanese names: 永武幹子 Nagatake Mikiko 加納奈実 Kano Nami 織原良次 Orihara Ryoji 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with #3 “Wrong Key Donkey”, #4 “What Kind of Fool Am I?”, and a short interview:](https://youtu.be/veiP_6oxG8o)
 
@@ -161,4 +161,4 @@ _Japanese names: 永武幹子 Nagatake Mikiko 加納奈実 Kano Nami 織原良�
 
 {{< youtube -MIqyY5M4NA >}}
 
--   Excerpt from track #7: [“Mysterious Dress (Nami Kano)”](/audio/#mix-10)
+-   [Excerpt from track #7: “Mysterious Dress (Nami Kano)”](/audio/#mix-10)

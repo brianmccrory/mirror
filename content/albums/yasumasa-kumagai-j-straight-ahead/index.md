@@ -29,7 +29,7 @@ Aside from jazz recording, teaching, and keeping an active performance schedule,
 {{< figure src="L1180494x-1200.jpeg" link="L1180494x-1200.jpeg" >}}
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The first album release in five years!
 The more evolved sound of Kumagai explodes with a powerful rhythm section!
@@ -41,7 +41,7 @@ Born in 1979 in Mito, Ibaraki. He began playing piano at three years old and sta
 {{< figure src="IMG_20231009_080045647_HDRx-1200.jpeg" link="IMG_20231009_080045647_HDRx-1200.jpeg" >}}
 
 
-## J-Straight Ahead by Yasumasa Kumagai {#j-straight-ahead-by-yasumasa-kumagai}
+## J-Straight Ahead by Yasumasa Kumagai
 
 -   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
 -   [Yosuke Inoue](/tags/yosuke-inoue) - bass
@@ -52,7 +52,7 @@ Released in 2015 on Jazzy Bear Records as JZBR-0001.
 _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 井上陽介 Inoue Yosuke 大坂昌彦 Osaka Masahiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Chill Out” (track #4):](https://youtu.be/XZMv1q1wIDw)
 
@@ -66,4 +66,4 @@ _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 井上陽介 Inoue Yosuke �
 
 {{< youtube UN7LZaX2Fok >}}
 
--   Excerpt from track #1: [“Draft Beer”](/audio/#mix-1)
+-   [Excerpt from track #1: “Draft Beer”](/audio/#mix-1)

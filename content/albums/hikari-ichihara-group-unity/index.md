@@ -28,7 +28,7 @@ Ichihara’s six excellent compositions cover a great range from swinging good-f
 {{< figure src="L1230312x-1200.jpeg" link="L1230312x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hikari Ichihara’s original Japanese liner notes.)_
 
@@ -79,7 +79,7 @@ Ichihara Hikari
 {{< figure src="L1240153x-1200.jpeg" link="L1240153x-1200.jpeg" >}}
 
 
-## Unity by Hikari Ichihara Group {#unity-by-hikari-ichihara-group}
+## Unity by Hikari Ichihara Group
 
 -   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
 -   [Ryosuke Asai](/tags/ryosuke-asai) - alto saxophone
@@ -92,7 +92,7 @@ Released in 2011 on After Beat / Pony Canyon as PCCY-30187.
 _Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Coati”, track #1 on this album:](https://youtu.be/ICjqaquW-9w)
 
@@ -100,4 +100,4 @@ _Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀�
 
 -   [Audio playlist for all tracks on this album](https://youtube.com/playlist?list=OLAK5uy_mTf-vG31l55T7M7hS1p6vuoGJ5PzFdRNM)
 
--   Excerpt from track #9: [“The Laughing Stock”](/audio/#mix-13)
+-   [Excerpt from track #9: “The Laughing Stock”](/audio/#mix-13)

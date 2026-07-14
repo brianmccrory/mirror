@@ -34,7 +34,7 @@ With nine tracks over 39 minutes, the music is propulsive, boiling and full of e
 {{< figure src="L1230065-1024.jpg" link="L1230065-1024.jpg" >}}
 
 
-## Routine Jazz Sextet by Routine Jazz Sextet {#routine-jazz-sextet-by-routine-jazz-sextet}
+## Routine Jazz Sextet by Routine Jazz Sextet
 
 -   [Tomoyuki Konno](/tags/tomoyuki-konno) - drums
 -   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
@@ -48,10 +48,10 @@ Released in 2008 on Routine Records as RCJP-002.
 _Japanese names: 紺野智之 Konno Tomoyuki 類家心平 Ruike Shinpei 浜崎航 Hamasaki Wataru 秋山卓 Akiyama Taku 佐藤浩一 Sato Koichi 高道晴久 Takamichi Haruhisa_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for a related album from Routine Jazz Quintet:](https://youtu.be/ltWzjdsZsKo)
 
 {{< youtube ltWzjdsZsKo >}}
 
--   Excerpt from track #3: [“The Crosseyed Cat”](/audio/#mix-5)
+-   [Excerpt from track #3: “The Crosseyed Cat”](/audio/#mix-5)

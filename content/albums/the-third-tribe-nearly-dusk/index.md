@@ -18,7 +18,7 @@ _Almost Dusk_ is a 2019 album from the duo of pianist Yoko Kobayashi and drummer
 {{< figure src="L1300955x-1200.jpeg" link="L1300955x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes and commentary from Kazumi Ikenaga and Yoko Kobayashi.)_
 
@@ -139,7 +139,7 @@ _Kazumi Ikenaga_
 ---
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Here begins the history of a new musical tribe!!!<br />
 A prayer to the infinite universe, a completely new duo format and their shocking debut!!
@@ -147,7 +147,7 @@ A prayer to the infinite universe, a completely new duo format and their shockin
 {{< figure src="L1300991x-1200.jpeg" link="L1300991x-1200.jpeg" >}}
 
 
-## Nearly Dusk by The Third Tribe {#nearly-dusk-by-the-third-tribe}
+## Nearly Dusk by The Third Tribe
 
 -   [Yoko Kobayashi](/tags/yoko-kobayashi) - piano
 -   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
@@ -157,7 +157,7 @@ Released in 2019 on Timemachine Record as TMCD-1014.
 _Japanese names: 小林洋子 Kobayashi Yoko 池長和美 Ikenaga Kazumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for _Nearly Dusk_:](https://youtu.be/b4xXl1ipI0A)
 
@@ -179,4 +179,4 @@ _Japanese names: 小林洋子 Kobayashi Yoko 池長和美 Ikenaga Kazumi_
 
 {{< youtube JGkvGp9ugKM >}}
 
--   Excerpt from track #4: [“Mrs.Hummingbird”](/audio/#mix-14)
+-   [Excerpt from track #4: “Mrs.Hummingbird”](/audio/#mix-14)

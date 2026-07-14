@@ -42,7 +42,7 @@ Sakamoto also provides a special essay in the liner notes with background inform
 {{< figure src="L1220870-1024.jpg" link="L1220870-1024.jpg" >}}
 
 
-## Memories of T by TCQ {#memories-of-t-by-tcq}
+## Memories of T by TCQ
 
 -   [Shawna Yang](/tags/shawna-yang) - alto sax
 -   [Naoko Tanaka](/tags/naoko-tanaka) - piano
@@ -54,7 +54,7 @@ Released in 2017 on D-neo Daiki Musica as DNCD-13.
 _Japanese names: 田中菜緒子 Tanaka Naoko 安ヵ川大樹 Yasukagawa Daiki 坂本健志 Sakamoto Takeshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video of “Tokyo Image” for this album:](https://youtu.be/m1nElWd4VJA)
 
@@ -64,4 +64,4 @@ _Japanese names: 田中菜緒子 Tanaka Naoko 安ヵ川大樹 Yasukagawa Daiki �
 
 {{< youtube tfrg3oOZMpM >}}
 
--   Excerpt from track #2: [“G Island”](/audio/#mix-7)
+-   [Excerpt from track #2: “G Island”](/audio/#mix-7)

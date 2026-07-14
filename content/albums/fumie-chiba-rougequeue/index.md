@@ -36,7 +36,7 @@ Chiba returns to solo piano for #5 “Water Flower” (ending with a solo piano 
 {{< figure src="L1220760x-1200.jpeg" link="L1220760x-1200.jpeg" >}}
 
 
-## Rougequeue by Fumie Chiba {#rougequeue-by-fumie-chiba}
+## Rougequeue by Fumie Chiba
 
 -   [Fumie Chiba](/tags/fumie-chiba) - piano
 -   [Koji Tetsui](/tags/koji-tetsui) - bass on #1, 2, 4
@@ -51,7 +51,7 @@ Released in 2015 on Usagi Record as UR-001.
 _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 寺屋ナオ Teraya Nao 石田寛和 Ishida Hirokazu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Rougequeue”, track #1 on this album:](https://youtu.be/0imFyZmEaxk)
 
@@ -65,4 +65,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suz
 
 -   [Audio samples of #1 “Rougequeue” and #4 “Backstroke”](https://fumiechiba.com/music.html)
 
--   Excerpt from track #2: [“ringlight”](/audio/#mix-12)
+-   [Excerpt from track #2: “ringlight”](/audio/#mix-12)

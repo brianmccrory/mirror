@@ -30,7 +30,7 @@ Disc two continues in this vein and adds variation with several brighter mid- an
 {{< figure src="L1220071-1024.jpg" link="L1220071-1024.jpg" >}}
 
 
-## Waltz for Debby by Taihei Asakawa {#waltz-for-debby-by-taihei-asakawa}
+## Waltz for Debby by Taihei Asakawa
 
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano
 
@@ -39,10 +39,10 @@ Released in 2018 on Cortez Sound as CSJ0008.
 _Japanese names: 浅川太平 Asakawa Taihei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/dwlx_AA7Xws)
 
 {{< youtube dwlx_AA7Xws >}}
 
--   Excerpt from track #1: [“My Foolish Heart”](/audio/#mix-4)
+-   [Excerpt from track #1: “My Foolish Heart”](/audio/#mix-4)

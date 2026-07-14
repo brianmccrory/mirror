@@ -40,7 +40,7 @@ Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosi
 {{< figure src="L1260229x-1200.jpeg" link="L1260229x-1200.jpeg" >}}
 
 
-## El viento y las flores by Magnolia {#el-viento-y-las-flores-by-magnolia}
+## El viento y las flores by Magnolia
 
 -   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
 -   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
@@ -51,7 +51,7 @@ Released in 2022 on Magnolia as MGNL-0001.
 _Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川瞳 Aikawa Hitomi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live version of track #1 “La vos del viento” from Magnolia’s 2022 album release tour:](https://youtu.be/moaTsqjoR0U)
 
@@ -81,9 +81,9 @@ _Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川
 
 {{< youtube KzeQhysOrRo >}}
 
--   Excerpt from track #3: [“Short Stories No.6”](/audio/#mix-12)
+-   [Excerpt from track #3: “Short Stories No.6”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [JazzTokyo review, interview, and photos (Japanese)](https://jazztokyo.org/reviews/cd-dvd-review/post-80616/)

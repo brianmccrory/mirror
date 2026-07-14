@@ -32,7 +32,7 @@ Together with jazz and pop standards, Yamanaka also includes her upbeat jazz ver
 _When October Goes_ received numerous awards upon release, including four weeks at #1 on the HMV Weekly Modern Jazz Chart, 33 weeks at #1 on the HMV Yearly Modern Jazz Chart, and 2003 HMV Grand Prize Record of the Year for Best Japanese Jazz Album.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _This is a transcription of the CD liner notes written by Chihiro Yamanaka:_
 
@@ -65,7 +65,7 @@ _This is a transcription of the CD liner notes written by Chihiro Yamanaka:_
 {{< figure src="L1210627-1024.jpg" link="L1210627-1024.jpg" >}}
 
 
-## When October Goes by Chihiro Yamanaka Trio {#when-october-goes-by-chihiro-yamanaka-trio}
+## When October Goes by Chihiro Yamanaka Trio
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Larry Grenadier](/tags/larry-grenadier) - bass
@@ -76,10 +76,10 @@ Released in 2002 on Atelier Sawano as AS-025.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live performance of “Yagi Bushi”, the fourth track on this album:](https://youtu.be/IBqCrXr2_9I)
 
 {{< youtube IBqCrXr2_9I >}}
 
--   Excerpt from track #1: [“Taxi”](/audio/#mix-6)
+-   [Excerpt from track #1: “Taxi”](/audio/#mix-6)

@@ -26,7 +26,7 @@ Fuse composed all the songs for his trio, and in contrast to his previous releas
 {{< figure src="L1350837x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside case" link="L1350837x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Otohito Fuse’s original Japanese liner notes.)_
 
@@ -143,7 +143,7 @@ Living on the Kanto Plain, you can see the sun setting in the direction of Mount
 One day, right after the sun had set to to the ridgeline on the right of Mount Fuji, I saw a pale gray band of light rising from the summit and stretching towards the left. It must have been a shadow cast by the sun that was still setting on the west side of Mount Fuji. I felt that this sight was incredibly beautiful. I wanted to take a picture, but by the time I prepared my camera, the shadow had disappeared. On other days, the shadow never reappeared, even when the sun set in the same position. Perhaps it was related to the amount of dust in the air? But I had certainly seen that rising shadow. I keep dreaming of the day I can have a chance encounter with that shadow again, and today as well, I find my thoughts returning to Mount Fuji.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Otohito Fuse Trio’s second album, _Thus Have I Heard_.
 
@@ -156,7 +156,7 @@ Includes a 20-page booklet of photographs and writings.
 {{< figure src="L1350890x-1200.jpeg" caption="<span class=\"figure-number\">Figure 16: </span>Disc" link="L1350890x-1200.jpeg" >}}
 
 
-## Thus Have I Heard by Otohito Fuse Trio {#thus-have-i-heard-by-otohito-fuse-trio}
+## Thus Have I Heard by Otohito Fuse Trio
 
 -   [Otohito Fuse](/tags/otohito-fuse) - piano
 -   [Riku Takahashi](/tags/riku-takahashi) - bass
@@ -167,7 +167,7 @@ Released in 2025 on Otohito Fuse Music as OFM-002.
 _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗 Nakamura Kaito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for _Thus Have I Heard_ (album trailer):](https://youtu.be/9AlDMpB1mfw)
 
@@ -181,4 +181,4 @@ _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗
 
 -   [Full Playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_l2LCXj7mVOduNOekqfOxaavTQIVbbYmTs)
 
--   Excerpt from track #7: [“We Can Hardly See”](/audio/#mix-15)
+-   [Excerpt from track #7: “We Can Hardly See”](/audio/#mix-15)

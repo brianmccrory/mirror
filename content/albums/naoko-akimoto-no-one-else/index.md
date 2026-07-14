@@ -28,7 +28,7 @@ After the classy opener, the album continues with the title track “No One Else
 {{< figure src="L1200596x-1024.jpeg" link="L1200596x-1024.jpeg" >}}
 
 
-## No One Else by Naoko Akimoto {#no-one-else-by-naoko-akimoto}
+## No One Else by Naoko Akimoto
 
 -   [Naoko Akimoto](/tags/naoko-akimoto) - vocal
 -   [Seiji Endo](/tags/seiji-endo) - piano
@@ -43,10 +43,10 @@ Released in 2012 on Marmalade Records as MARM-0004.
 _Japanese names: 秋元直子 Akimoto Naoko 遠藤征志 Endo Seiji 清水昭好 Shimizu Akiyoshi 大村亘 Omura Ko 井上信平 Inoue Shinpei 松田靖弘 Matsuda Yasuhiro 類家心平 Ruike Shinpei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album featuring the song “Moondance”:](https://youtu.be/_Q8Ad6ZYl_A)
 
 {{< youtube _Q8Ad6ZYl_A >}}
 
--   Excerpt from track #7: [“Fly me to the moon”](/audio/#mix-8)
+-   [Excerpt from track #7: “Fly me to the moon”](/audio/#mix-8)

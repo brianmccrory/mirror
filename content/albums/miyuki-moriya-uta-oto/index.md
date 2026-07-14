@@ -36,7 +36,7 @@ As for the album title and the uncommon word 詠音 (うたおと, _Uta Oto_), t
 {{< figure src="L1230588x-1024.jpeg" link="L1230588x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Miyuki Moriya’s original Japanese liner notes.)_
 
@@ -125,7 +125,7 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 {{< figure src="L1240163x-1024.jpeg" link="L1240163x-1024.jpeg" >}}
 
 
-## Uta Oto by Miyuki Moriya {#uta-oto-by-miyuki-moriya}
+## Uta Oto by Miyuki Moriya
 
 -   [Miyuki Moriya](/tags/miyuki-moriya) - saxophone
 -   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
@@ -136,10 +136,10 @@ Released in 2021 on Coume Music as CUM-2101.
 _Japanese names: 守谷美由貴 Moriya Miyuki 田中信正 Tanaka Nobumasa 吉野弘志 Yoshino Hiroshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from all tracks on this album:](https://youtu.be/Qxn5qIfYOzk)
 
 {{< youtube Qxn5qIfYOzk >}}
 
--   Excerpt from track #1: [“詠音～うたおと～ (_Utaoto_)”](/audio/#mix-10)
+-   [Excerpt from track #1: “詠音～うたおと～ (_Utaoto_)”](/audio/#mix-10)

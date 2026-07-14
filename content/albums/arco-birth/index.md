@@ -32,7 +32,7 @@ Also featured on this well-crafted album of uplifting music is the icing on the 
 {{< figure src="L1220711-1024.jpg" link="L1220711-1024.jpg" >}}
 
 
-## Birth by Arco {#birth-by-arco}
+## Birth by Arco
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
 -   [Mayumi Sano](/tags/mayumi-sano) - cello
@@ -42,10 +42,10 @@ Released in 2019 on dandanorchestra as DAN-012.
 _Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance from Arco:](https://youtu.be/NCsYA0F41S4)
 
 {{< youtube NCsYA0F41S4 >}}
 
--   Excerpt from track #3: [“Fiesta”](/audio/#mix-6)
+-   [Excerpt from track #3: “Fiesta”](/audio/#mix-6)

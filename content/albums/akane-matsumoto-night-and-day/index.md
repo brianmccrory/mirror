@@ -26,7 +26,7 @@ Alongside classic and rearranged standards from Cole Porter, Irving Berlin, Bill
 {{< figure src="L1180424-1024.jpg" link="L1180424-1024.jpg" >}}
 
 
-## Night &amp; Day by Akane Matsumoto {#night-and-day-by-akane-matsumoto}
+## Night &amp; Day by Akane Matsumoto
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 -   [Peter Washington](/tags/peter-washington) - bass
@@ -37,10 +37,10 @@ Released in 2017 on Concept Record as CR07.
 _Japanese names: 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/LrFCN5QiBT0)
 
 {{< youtube LrFCN5QiBT0 >}}
 
--   Excerpt from track #1: [“Night&amp;Day”](/audio/#mix-1)
+-   [Excerpt from track #1: “Night&amp;Day”](/audio/#mix-1)

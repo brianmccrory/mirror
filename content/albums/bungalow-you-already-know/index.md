@@ -24,7 +24,7 @@ _You Already Know_ is part of the band’s series of adventurous and atmospheric
 {{< figure src="L1180442-1024.jpg" link="L1180442-1024.jpg" >}}
 
 
-## You Already Know by Bungalow {#you-already-know-by-bungalow}
+## You Already Know by Bungalow
 
 -   [Mike Rivett](/tags/mike-rivett) - Tenor Sax, Electronics
 -   [Koichi Sato](/tags/koichi-sato) - Piano, Fender Rhodes
@@ -36,10 +36,10 @@ Released in 2017 on Studio Songs as YZSO-10075.
 _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/Ix3_wC-YqP0)
 
 {{< youtube Ix3_wC-YqP0 >}}
 
--   Excerpt from track #1: [“サンタ・クルズ (_Santa Cruz_)”](/audio/#mix-1)
+-   [Excerpt from track #1: “サンタ・クルズ (_Santa Cruz_)”](/audio/#mix-1)

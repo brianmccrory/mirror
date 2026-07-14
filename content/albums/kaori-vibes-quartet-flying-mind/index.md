@@ -26,7 +26,7 @@ The magically mellow yet bright sounds of the vibraphone fill the tracks of this
 {{< figure src="L1180736-1024.jpg" link="L1180736-1024.jpg" >}}
 
 
-## Flying Mind by Kaori Vibes Quartet {#flying-mind-by-kaori-vibes-quartet}
+## Flying Mind by Kaori Vibes Quartet
 
 -   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
 -   [Tamashi Goto](/tags/tamashi-goto) - piano
@@ -38,10 +38,10 @@ Released in 2013 on Urban Jazz as 151A-0007.
 _Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The song “Perfume” performed as a duo from 2015:](https://youtu.be/LKmSesjiEBQ)
 
 {{< youtube LKmSesjiEBQ >}}
 
--   Excerpt from track #1: [“Flying Mind”](/audio/#mix-1)
+-   [Excerpt from track #1: “Flying Mind”](/audio/#mix-1)

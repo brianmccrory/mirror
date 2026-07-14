@@ -34,7 +34,7 @@ As a long-experienced bassist, Nakabayashi knows how to expertly deliver the ess
 {{< figure src="L1270979-closeup-1200.jpeg" link="L1270979-closeup-1200.jpeg" >}}
 
 
-## Circles by Kunpei Nakabayashi Orchestra {#circles-by-kunpei-nakabayashi-orchestra}
+## Circles by Kunpei Nakabayashi Orchestra
 
 -   [Tokuhiro Doi](/tags/tokuhiro-doi) - alto sax, flute, clarinet
 -   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, flute
@@ -52,7 +52,7 @@ Released in 2021 on KP-LAB as KP-0001.
 _Japanese names: 土井徳浩 Doi Tokuhiro 西口明宏 Nishiguchi Akihiro 陸悠 Kuga Yu 広瀬未来 Hirose Miki 黒田卓也 Kuroda Takuya 酒本廣継 Sakemoto Hirotsugu 池本茂貴 Ikemoto Shigetaka 宮川純 Miyakawa Jun 中林薫平 Nakabayashi Kunpei 菅野知明 Kanno Tomo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album with brief excerpts:](https://youtu.be/Yplc7pwQdyQ)
 
@@ -72,4 +72,4 @@ _Japanese names: 土井徳浩 Doi Tokuhiro 西口明宏 Nishiguchi Akihiro 陸�
 
 -   [Streaming/digital version of “Circles” (Bandcamp)](https://kp27music.bandcamp.com/album/circles)
 
--   Excerpt from track #6: [“Evenfall”](/audio/#mix-13)
+-   [Excerpt from track #6: “Evenfall”](/audio/#mix-13)

@@ -36,7 +36,7 @@ The combination of instruments is also fascinatingly varied. On the electronic t
 {{< figure src="IMG_20230412_193308037x-1024.jpeg" link="IMG_20230412_193308037x-1024.jpeg" >}}
 
 
-## Urban Nocturne by Yuichi Narita {#urban-nocturne-by-yuichi-narita}
+## Urban Nocturne by Yuichi Narita
 
 -   [Yuichi Narita](/tags/yuichi-narita) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
 
@@ -45,7 +45,7 @@ Released in 2021 on Coffee Table Records as COTA-001.
 _Japanese names: 成田祐一 Narita Yuichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Urban Nocturne I”, track #7 on this album:](https://youtu.be/Kq9xUSGHxBM)
 
@@ -63,4 +63,4 @@ _Japanese names: 成田祐一 Narita Yuichi_
 
 {{< youtube HdchZBiNYcY >}}
 
--   Excerpt from track #4: [“No Return”](/audio/#mix-9)
+-   [Excerpt from track #4: “No Return”](/audio/#mix-9)

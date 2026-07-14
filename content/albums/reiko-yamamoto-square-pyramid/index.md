@@ -44,7 +44,7 @@ Incidentally, more numbers from the Piano Songs and Short Stories series appear 
 The last two tracks, #8 “Black Forest” and #9 “That Blue Bird” seem to blend into each other and share some musical traits, (not to mention the background that these two tracks share, explained in the liner notes), confidently bringing the album to a close for a theatrical conclusion.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Reiko Yamamoto’s original Japanese liner notes.)_
 
@@ -85,7 +85,7 @@ After listening to the next song “That Blue Bird”, an artist imagined the mo
 The story “Blue Bird” describes how Tyltyl and Mytyl travel on a long journey searching for a blue bird and concludes with them finding that blue bird, which then flies away and ends the story. We may realize that happiness is always close to us but, just like the blue bird that flies away, can also disappear in a flash. Although I named this song after a story with quite a philosophical significance, this “Blue Bird”, at least for me, has brought a lot of happiness.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 A new page in the history of jazz vibraphone sound.
 
@@ -96,7 +96,7 @@ Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (T
 {{< figure src="L1260068x-1200.jpeg" link="L1260068x-1200.jpeg" >}}
 
 
-## The Square Pyramid by Reiko Yamamoto {#the-square-pyramid-by-reiko-yamamoto}
+## The Square Pyramid by Reiko Yamamoto
 
 -   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
@@ -108,7 +108,7 @@ Released in 2019 on Somethin’ Cool as SCOL-1032.
 _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire 古木佳祐 Furuki Keisuke 木村紘 Kimura Hiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “That Blue Bird”, track #9 on this album:](https://youtu.be/SEv4Ac_E-e0)
 
@@ -118,4 +118,4 @@ _Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire 
 
 {{< youtube lUyzdNa9SC8 >}}
 
--   Excerpt from track #1: [“Vibrant Line”](/audio/#mix-11)
+-   [Excerpt from track #1: “Vibrant Line”](/audio/#mix-11)

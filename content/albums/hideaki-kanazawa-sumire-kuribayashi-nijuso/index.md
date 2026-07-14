@@ -32,7 +32,7 @@ From the opening Ornette Coleman number “Mary Hartman, Mary Hartman”, the dr
 {{< figure src="L1220274-1024.jpg" link="L1220274-1024.jpg" >}}
 
 
-## Nijuso by Hideaki Kanazawa &amp; Sumire Kuribayashi {#nijuso-by-hideaki-kanazawa-and-sumire-kuribayashi}
+## Nijuso by Hideaki Kanazawa &amp; Sumire Kuribayashi
 
 -   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano, percussion
@@ -42,10 +42,10 @@ Released in 2017 on Roving Spirits as RKCJ-2063.
 _Japanese names: 金澤英明 Kanazawa Hideaki 栗林すみれ Kuribayashi Sumire_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Hideaki Kanazawa and Sumire Kuribayashi performing live in 2018:](https://youtu.be/pbo8gq466iw)
 
 {{< youtube pbo8gq466iw >}}
 
--   Excerpt from track #1: [“Mary Hartman, Mary Hartman”](/audio/#mix-5)
+-   [Excerpt from track #1: “Mary Hartman, Mary Hartman”](/audio/#mix-5)

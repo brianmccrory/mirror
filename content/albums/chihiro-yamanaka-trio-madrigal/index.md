@@ -34,7 +34,7 @@ This album hit #1 on the HMV Weekly Modern Jazz Chart and #2 on the HMV 2004 Yea
 {{< figure src="L1210650-1024.jpg" link="L1210650-1024.jpg" >}}
 
 
-## Madrigal by Chihiro Yamanaka Trio {#madrigal-by-chihiro-yamanaka-trio}
+## Madrigal by Chihiro Yamanaka Trio
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Larry Grenadier](/tags/larry-grenadier) - bass
@@ -46,7 +46,7 @@ Released in 2004 on Atelier Sawano as AS-038.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Salve Salgueiro from this album:](https://youtu.be/1EQImEWXunM)
 
@@ -56,4 +56,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube 5Gtt1rxO-R8 >}}
 
--   Excerpt from track #2: [“Living Time Event V”](/audio/#mix-7)
+-   [Excerpt from track #2: “Living Time Event V”](/audio/#mix-7)

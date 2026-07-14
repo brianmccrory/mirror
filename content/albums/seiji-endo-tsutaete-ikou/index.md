@@ -26,7 +26,7 @@ The CD contains three versions of the song “Tsutaete Ikou”, and proceeds wer
 {{< figure src="L1180632x-1024.jpeg" link="L1180632x-1024.jpeg" >}}
 
 
-## Tsutaete Ikou by Seiji Endo {#tsutaete-ikou-by-seiji-endo}
+## Tsutaete Ikou by Seiji Endo
 
 -   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
 -   [Shinya Nitta](/tags/shinya-nitta) - vocal
@@ -40,7 +40,7 @@ Released in 2015 on Music Art Records as MAR-1501.
 _Japanese names: 永野寛子 Nagano Hiroco 仁田真也 Nitta Shinya 遠藤征志 Endo Seiji 長谷川泰弘 Hasegawa Yasuhiro 中屋啓之 Nakaya Yoshiyuki 梅原新 Umehara Arata_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for the song “Tsutaete Ikou”:](https://youtu.be/23zd-3JgmV4)
 
@@ -50,9 +50,9 @@ _Japanese names: 永野寛子 Nagano Hiroco 仁田真也 Nitta Shinya 遠藤征�
 
 {{< youtube H7QlmnVCqMA >}}
 
--   Excerpt from track #1: [“伝えていこう (_Let's Tell It_)”](/audio/#mix-2)
+-   [Excerpt from track #1: “伝えていこう (_Let's Tell It_)”](/audio/#mix-2)
 
 
-## Links {#links}
+## Links
 
 -   [The Tsutaete Ikou project website, with piano score and lyrics](http://tsutaeteikopj.net/)

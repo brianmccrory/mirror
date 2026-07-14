@@ -26,7 +26,7 @@ Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” j
 {{< figure src="L1200405-1024.jpg" link="L1200405-1024.jpg" >}}
 
 
-## Sora by Eriko Shimizu {#sora-by-eriko-shimizu}
+## Sora by Eriko Shimizu
 
 -   [Eriko Shimizu](/tags/eriko-shimizu) - piano
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
@@ -39,7 +39,7 @@ Released in 2010 on Casnet as CSNT-8003.
 _Japanese names: 清水絵理子 Shimizu Eriko 井上淑彦 Inoue Toshihiko 仙道さおり Sendo Saori 中林薫平 Nakabayashi Kunpei 吉岡大輔 Yoshioka Daisuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/AGgOdMhmv30)
 
@@ -49,4 +49,4 @@ _Japanese names: 清水絵理子 Shimizu Eriko 井上淑彦 Inoue Toshihiko 仙�
 
 {{< youtube hWM8mchO_oE >}}
 
--   Excerpt from track #1: [“SORA”](/audio/#mix-6)
+-   [Excerpt from track #1: “SORA”](/audio/#mix-6)

@@ -28,7 +28,7 @@ In addition to her compelling horn playing, Miyawaki’s contributions also incl
 {{< figure src="L1110816-1024.jpg" link="L1110816-1024.jpg" >}}
 
 
-## Song of Flower by Yuko Miyawaki {#song-of-flower-by-yuko-miyawaki}
+## Song of Flower by Yuko Miyawaki
 
 -   [Yuko Miyawaki](/tags/yuko-miyawaki) - trumpet, flugelhorn
 -   [Yutaka Handa](/tags/yutaka-handa) - tenor sax
@@ -42,10 +42,10 @@ Released in 2011 on Coume Music as DQC-614.
 _Japanese names: 宮脇裕子 Miyawaki Yuko 伴田裕 Handa Yutaka 栗田妙子 Kurita Taeko カイドーユタカ Kaido Yutaka 冨川政嗣 Tomikawa Masashi 大口純一郎 Ohkuchi Junichiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yuko Miyawaki performing “Sakura” live in 2011:](https://youtu.be/AwS9X3VLXf4)
 
 {{< youtube AwS9X3VLXf4 >}}
 
--   Excerpt from track #1: [“SAKURA”](/audio/#mix-6)
+-   [Excerpt from track #1: “SAKURA”](/audio/#mix-6)

@@ -30,7 +30,7 @@ Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano g
 {{< figure src="L1280923x-1200.jpeg" link="L1280923x-1200.jpeg" >}}
 
 
-## Duo by Taeko Kurita &amp; Akira Sotoyama {#duo-by-taeko-kurita-and-akira-sotoyama}
+## Duo by Taeko Kurita &amp; Akira Sotoyama
 
 -   [Taeko Kurita](/tags/taeko-kurita) - piano
 -   [Akira Sotoyama](/tags/akira-sotoyama) - drums
@@ -40,7 +40,7 @@ Released in 2024 on Taeko Kurita as T59T-07.
 _Japanese names: 栗田妙子 Kurita Taeko 外山明 Sotoyama Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live video for “Gyoraisen Game”, track #5 on this album (live in 2021 at Sweet Rain):](https://youtu.be/DpWXkIFyX7c)
 
@@ -54,4 +54,4 @@ _Japanese names: 栗田妙子 Kurita Taeko 外山明 Sotoyama Akira_
 
 {{< youtube p3cMObWTow0 >}}
 
--   Excerpt from track #1: [“Hand Of Time”](/audio/#mix-13)
+-   [Excerpt from track #1: “Hand Of Time”](/audio/#mix-13)

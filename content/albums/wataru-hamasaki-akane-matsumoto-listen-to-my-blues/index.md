@@ -28,7 +28,7 @@ _Listen to My Blues_ contains ten songs, eight great jazz standards and covers w
 {{< figure src="L1340785x-1200.jpeg" link="L1340785x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Akane Matsumoto’s and Wataru Hamasaki’s original Japanese liner notes.)_
 
@@ -59,14 +59,14 @@ Finally, the bonus track “Someday My Prince Will Come” is a performance from
 _Wataru Hamasaki_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 An explosive pianist, a roaring horn. The mad rush of movement and rare presence of the full use of the saxophone family, from baritone to soprano, and even flute playing. An appetizing recording that fully expresses the allure of jazz and pulls listeners into a state of joy.
 
 {{< figure src="L1340802x-1200.jpeg" link="L1340802x-1200.jpeg" >}}
 
 
-## Listen to My Blues by Wataru Hamasaki &amp; Akane Matsumoto {#listen-to-my-blues-by-wataru-hamasaki-and-akane-matsumoto}
+## Listen to My Blues by Wataru Hamasaki &amp; Akane Matsumoto
 
 -   [Wataru Hamasaki](/tags/wataru-hamasaki) - saxophone
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
@@ -76,7 +76,7 @@ Released in 2025 on Concept Record as CR-21.
 _Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Listen to My Blues” (duo live, version 1):](https://youtu.be/AJORByi1s-4)
 
@@ -102,4 +102,4 @@ _Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane_
 
 {{< youtube Tt8U1x0SZR4 >}}
 
--   Excerpt from track #1: [“Listen to my Blues”](/audio/#mix-15)
+-   [Excerpt from track #1: “Listen to my Blues”](/audio/#mix-15)

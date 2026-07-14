@@ -28,7 +28,7 @@ There are eight original songs, four from Nishiyama and two each from Yasukagawa
 {{< figure src="L1340513x-1200.jpeg" link="L1340513x-1200.jpeg" >}}
 
 
-## The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko {#the-tree-of-life-by-daiki-yasukagawa-hitomi-nishiyama-maiko}
+## The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko
 
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
@@ -39,7 +39,7 @@ Released in 2019 on Daiki Musica D-neo as DNCD-18.
 _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 西山瞳 Nishiyama Hitomi マイコ maiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“A Day Before The Last Day Of Summer” (track #1):](https://youtu.be/MhsBKg_wHeg)
 
@@ -47,4 +47,4 @@ _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 西山瞳 Nishiyama Hitomi マ
 
 -   [Full album (YouTube playlist)](https://youtube.com/playlist?list=PLmlm0LsExgrykKovdpFK5QjIFrSj9MX55)
 
--   Excerpt from track #8: [“飛び立つ水鳥 (_Waterfowl Taking Flight_)”](/audio/#mix-14)
+-   [Excerpt from track #8: “飛び立つ水鳥 (_Waterfowl Taking Flight_)”](/audio/#mix-14)

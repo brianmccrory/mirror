@@ -30,7 +30,7 @@ The other album tracks include “Azure”, a dreamy, drifting tune from Duke El
 {{< figure src="L1230258x-1024.jpeg" link="L1230258x-1024.jpeg" >}}
 
 
-## Standard Trio by Emiko Voice {#standard-trio-by-emiko-voice}
+## Standard Trio by Emiko Voice
 
 -   [Emiko Voice](/tags/emiko-voice) - voice, percussions, kalimba
 -   [Keisuke Ohta](/tags/keisuke-ohta) - violin, voice
@@ -41,10 +41,10 @@ Released in 2022 on GardenNotes Music as GNM-1018.
 _Japanese names: エミコヴォイス Emiko Voice 太田惠資 Ohta Keisuke 阿部篤志 Abe Atsushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from this album:](https://youtu.be/DnDuVwB7ppA)
 
 {{< youtube DnDuVwB7ppA >}}
 
--   Excerpt from track #6: [“Chovendo na Roseira”](/audio/#mix-9)
+-   [Excerpt from track #6: “Chovendo na Roseira”](/audio/#mix-9)

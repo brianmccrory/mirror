@@ -30,7 +30,7 @@ Starting quietly, Endo and Kawamura perform a heartwarming version of “The Rai
 {{< figure src="L1220258-1024.jpg" link="L1220258-1024.jpg" >}}
 
 
-## Blossoms by Ruriko Kawamura {#blossoms-by-ruriko-kawamura}
+## Blossoms by Ruriko Kawamura
 
 -   [Ruriko Kawamura](/tags/ruriko-kawamura) - vocal
 -   [Seiji Endo](/tags/seiji-endo) - piano
@@ -42,7 +42,7 @@ Released in 2016 on LooLoo Entertainment Records as lulu001.
 _Japanese names: 河村留理子 Kawamura Ruriko 遠藤征志 Endo Seiji 里見紀子 Satomi Noriko 関根彰良 Sekine Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live version of Ruriko Kawamura singing “Down By The Salley Gardens” in 2011:](https://youtu.be/ndwBQvM3crE)
 
@@ -52,4 +52,4 @@ _Japanese names: 河村留理子 Kawamura Ruriko 遠藤征志 Endo Seiji 里見�
 
 {{< youtube MLVZe1ACNeA >}}
 
--   Excerpt from track #2: [“Nuovo Cinema Paradiso”](/audio/#mix-8)
+-   [Excerpt from track #2: “Nuovo Cinema Paradiso”](/audio/#mix-8)

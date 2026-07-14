@@ -24,7 +24,7 @@ On _Bubble Fish_, the jazz trio uses full chords and vital grooves on their comp
 {{< figure src="L1220282-1024.jpg" link="L1220282-1024.jpg" >}}
 
 
-## Bubble Fish by Shunichi Yanagi Trio {#bubble-fish-by-shunichi-yanagi-trio}
+## Bubble Fish by Shunichi Yanagi Trio
 
 -   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
 -   [Ryo Shibata](/tags/ryo-shibata) - drums
@@ -35,10 +35,10 @@ Released in 2012 on Truestar Entertainment as TSR-51102.
 _Japanese names: 柳隼一 Yanagi Shunichi 柴田亮 Shibata Ryo 金森もとい Kanamori Motoi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/4OmuGFXKNlc)
 
 {{< youtube 4OmuGFXKNlc >}}
 
--   Excerpt from track #7: [“渋谷の交差点 (_Shibuya Crossing_)”](/audio/#mix-6)
+-   [Excerpt from track #7: “渋谷の交差点 (_Shibuya Crossing_)”](/audio/#mix-6)

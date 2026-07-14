@@ -34,7 +34,7 @@ For this album, the physical environment is nature, a forest in a mountain regio
 Sonically as well, an album filled only with bass notes creates an environment different from everyday jazz albums. That difference helps the music stand out by offering a distinctive thirty minutes of music and a special experience with deep resonance.
 
 
-### Bass in Jazz {#bass-in-jazz}
+### Bass in Jazz
 
 It goes without saying that the deep bass note register and walking bass lines have been an important feature of jazz music through the years. It’s easy to associate jazz bass with the characteristic locked-in groove that, together with drums, delivers that propulsive, gravitational force that hooks listeners and doesn’t let go. Even so, casual listeners may overlook the bass, or “feel it but not hear it”, as bass lines can be overshadowed by louder and higher register instruments.
 
@@ -47,7 +47,7 @@ It’s easy to imagine that casual listeners may regard jazz bass as that big, c
 A solo bass album is a great opportunity to put this great instrument in the spotlight, expand those horizons, and bring it out from the background, to stand out with the standup bass.
 
 
-### Yuki Ito’s Solo Bass {#yuki-ito-s-solo-bass}
+### Yuki Ito’s Solo Bass
 
 Instead of exploring normal expectations like walking bass lines or bowed arco playing, Ito uses the bass as her voice to lyrically focus and improvise on the songs’ themes. The melodies that Ito plays are tenor or alto-like in their songful qualities, like a solo vocalist humming and vocalizing in those ranges. It’s a very musical approach where the sole instrument just happens to be solo bass.
 
@@ -60,14 +60,14 @@ Ito’s north star is the theme and feel of each song, so tricks for tricks’ s
 The album’s closing improvisation brings this to an excellent peak with a catalog of impromptu ideas like broken chord arpeggios, tremolo plucking, harmonics, pedal drones, and more, fitting the musical content without being overdone. There are even actual birds singing along with Ito’s notes, as if in accompaniment. This last track goes on for an elevated five minutes of misty adventure and certainly would have still been wonderful at twice that length or more.
 
 
-### The Recording {#the-recording}
+### The Recording
 
 The album was recorded in 2019 in Hokkaido at a recording studio located among birch trees in the mountains. Tracks #1-5 were recorded in the studio, and track #6 was recorded behind the studio, outside, making the most of the natural setting full of trees and birds (note the tune’s subtitle “Birdsong”).
 
 This birch-filled scene is shown on the cover photo with Ito and her bass, surrounded by trees with the chirps of birds as she becomes part of the environment to transform the experience into spontaneous music.
 
 
-### Compositions, Covers, and Improvisation {#compositions-covers-and-improvisation}
+### Compositions, Covers, and Improvisation
 
 With solo performances, tentative listeners may worry that a player’s complete control and freedom could result in unconstrained playing without limits leading to wildly free or abstract playing (of course, some listeners will love how that sounds!)
 
@@ -90,7 +90,7 @@ The last piece is track #6, “Free Improvisation ~Tori no Koe~”, a collection
 Overall, it’s an easily-returnable album for its unique moods and musical moments: low frequencies and skillful playing, clear themes with soothing melodies and spontaneous invention, and interesting music to absorb and wrap up in.
 
 
-### About the Title {#about-the-title}
+### About the Title
 
 The Japanese title printed on the album is interesting. レタッタッニの森 contains three parts and is written using the three writing systems in Japanese:
 
@@ -103,7 +103,7 @@ Also printed on the album are the words _retat-tat-ni kor nitay_, the title in t
 {{< figure src="L1240983x-1200.jpeg" link="L1240983x-1200.jpeg" >}}
 
 
-## Retattanni no Mori by Yuki Ito {#retattanni-no-mori-by-yuki-ito}
+## Retattanni no Mori by Yuki Ito
 
 -   [Yuki Ito](/tags/yuki-ito) - bass
 
@@ -112,7 +112,7 @@ Released in 2019 on Yuki Ito as YDM-001.
 _Japanese names: 伊東佑季 Ito Yuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Hinageshi”, track #1 on this album:](https://youtu.be/wn1XrObvtJ4)
 
@@ -128,4 +128,4 @@ _Japanese names: 伊東佑季 Ito Yuki_
 
 -   [Album tracks #1, 3, and 4 on streaming music services](https://artist.landr.com/music/628810853540)
 
--   Excerpt from track #2: [“Nature Boy”](/audio/#mix-11)
+-   [Excerpt from track #2: “Nature Boy”](/audio/#mix-11)

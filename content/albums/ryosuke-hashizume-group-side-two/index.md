@@ -50,7 +50,7 @@ The album opens on solid ground with light rhythms and a short repeated piano mo
 All this together makes 2014’s _Side Two_ a delight especially for diehard fans, as it becomes both an extension of the 2013 live album and of the 2012 studio album with three of the songs in alternate extended versions. These extended versions get more time to breathe with more life and patient development. For the listeners, more time to absorb and dwell in these aural environments. And for the musicians who recorded this live and in the moment, no doubt more time to enjoy the freedom to give and receive inspiration from each other, from the performance setting, and from the live audience who was silently tuned in and becoming part of the experience.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from an excerpt of Nozomi Hirano’s and Mitsutaka Nagira’s original Japanese liner notes.)_
 
@@ -83,7 +83,7 @@ Also, the sound of each instrument rings with a tone and texture that seems to h
 {{< figure src="L1110949-1200.jpeg" link="L1110949-1200.jpeg" >}}
 
 
-## Side Two by Ryosuke Hashizume Group {#side-two-by-ryosuke-hashizume-group}
+## Side Two by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor sax, loops
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -96,7 +96,7 @@ Released in 2014 on Apollo Sounds as APLS-1410.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/4QUUYC_JYk0)
 
@@ -104,4 +104,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐
 
 -   [Audio for Ryosuke Hashizume Group’s “The Last Day of Summer”](https://soundcloud.com/hashizume-ryosuke/the-last-day-of-summer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
--   Excerpt from track #3: [“Slumber”](/audio/#mix-12)
+-   [Excerpt from track #3: “Slumber”](/audio/#mix-12)

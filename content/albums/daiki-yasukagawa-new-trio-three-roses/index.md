@@ -34,14 +34,14 @@ Yet, the music is spiced with enough new changes and the appropriate moods (whet
 The bassist’s six contributions comfortably span these and other territories, and the younger two players also confidently contribute their own songs infused with their original personalities. The risk-taking spirit of youth is never extravagantly out of place here, though, and fits finely into the solid bedrock of jazz that Yasukagawa provides as the musical leader and mentor, no doubt, for his new trio.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 2022 with 23-year-old pianist Sora Ichikawa and 22-year-old drummer Yota Tsukada. A combination of originality and the backbone of orthodox jazz, the story is told through 11 songs interwoven with creative compositions from the young and energetic musicians and the increasingly passionate and sensitive playing of Yasukagawa—a memorable debut album.
 
 {{< figure src="L1250006x-1200.jpeg" link="L1250006x-1200.jpeg" >}}
 
 
-## The Three Roses by Daiki Yasukagawa New Trio {#the-three-roses-by-daiki-yasukagawa-new-trio}
+## The Three Roses by Daiki Yasukagawa New Trio
 
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
 -   [Sora Ichikawa](/tags/sora-ichikawa) - piano
@@ -52,7 +52,7 @@ Released in 2022 on Daiki Musika D-neo as DNCD-28.
 _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 市川空 Ichikawa Sora 塚田陽太 Tsukada Yota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpt from a live performance of #9 “The Three Roses”:](https://youtu.be/qDWBqRWcp0k)
 
@@ -64,4 +64,4 @@ _Japanese names: 安ヵ川大樹 Yasukagawa Daiki 市川空 Ichikawa Sora 塚田
 
 -   [D-musica page with album information and audio samples](https://d-musica.co.jp/?p=316)
 
--   Excerpt from track #1: [“Wunderbarland”](/audio/#mix-12)
+-   [Excerpt from track #1: “Wunderbarland”](/audio/#mix-12)

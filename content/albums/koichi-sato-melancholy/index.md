@@ -28,7 +28,7 @@ From this setting and throughout the rest of the album, beautiful music blossoms
 {{< figure src="L1180500-1024.jpg" link="L1180500-1024.jpg" >}}
 
 
-## Melancholy of a Journey by Koichi Sato {#melancholy-of-a-journey-by-koichi-sato}
+## Melancholy of a Journey by Koichi Sato
 
 -   [Koichi Sato](/tags/koichi-sato) - piano
 -   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet, bass clarinet
@@ -42,10 +42,10 @@ Released in 2016 on Song X Jazz as SONG X 038.
 _Japanese names: 佐藤浩一 Sato Koichi 土井徳浩 Doi Tokuhiro 市野元彦 Ichino Motohiko 伊藤ハルトシ Ito Harutoshi 千葉広樹 Chiba Hiroki 則武諒 Noritake Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio samples from the CD:](https://youtu.be/HU3XNXucB0Q)
 
 {{< youtube HU3XNXucB0Q >}}
 
--   Excerpt from track #1: [“The Railway Station”](/audio/#mix-1)
+-   [Excerpt from track #1: “The Railway Station”](/audio/#mix-1)

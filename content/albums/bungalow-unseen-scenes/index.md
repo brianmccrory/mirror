@@ -30,7 +30,7 @@ Notable tracks include the modern “Gauge”, the European fusion “Astir”, 
 {{< figure src="L1210100-1024.jpg" link="L1210100-1024.jpg" >}}
 
 
-## Unseen Scenes by Bungalow {#unseen-scenes-by-bungalow}
+## Unseen Scenes by Bungalow
 
 -   [Mike Rivett](/tags/mike-rivett) - tenor sax, electronics
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -42,6 +42,6 @@ Released in 2015 on Studio Songs as YZSO-10057.
 _Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
--   Excerpt from track #1: [“ダンシング・エレファント (_Dancing Elephant_)”](/audio/#mix-8)
+-   [Excerpt from track #1: “ダンシング・エレファント (_Dancing Elephant_)”](/audio/#mix-8)

@@ -32,7 +32,7 @@ An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effecti
 {{< figure src="L1110647-1024.jpg" link="L1110647-1024.jpg" >}}
 
 
-## M by Masako Kunisada {#m-by-masako-kunisada}
+## M by Masako Kunisada
 
 -   [Masako Kunisada](/tags/masako-kunisada) - vocal
 -   [Manabu Ohishi](/tags/manabu-ohishi) - all instruments, arrangements
@@ -43,10 +43,10 @@ Released in 2014 on Masaki Kunisada as M.
 _Japanese names: 国貞雅子 Kunisada Masako 大石学 Ohishi Manabu エムオート M-oto_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [An orchestral version of “Kono Mune No Furusato”, the last song on this album:](https://youtu.be/xQPSz5yOzEE)
 
 {{< youtube xQPSz5yOzEE >}}
 
--   Excerpt from track #8: [“From a distance”](/audio/#mix-4)
+-   [Excerpt from track #8: “From a distance”](/audio/#mix-4)

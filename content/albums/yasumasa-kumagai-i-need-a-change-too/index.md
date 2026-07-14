@@ -27,7 +27,7 @@ Kumagai’s original songs fill the album, along with a cover of the R&amp;B son
 {{< figure src="L1200456x-1200.jpeg" link="L1200456x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(A translation of Tabu Zombie’s original Japanese liner notes.)_
 
@@ -48,7 +48,7 @@ Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 {{< figure src="IMG_20150124_102116-1024.jpg" link="IMG_20150124_102116-1024.jpg" >}}
 
 
-## I Need a Change, Too by Yasumasa Kumagai {#i-need-a-change-too-by-yasumasa-kumagai}
+## I Need a Change, Too by Yasumasa Kumagai
 
 -   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
 -   [Koji Yasuda](/tags/koji-yasuda) - bass
@@ -62,10 +62,10 @@ Released in 2008 on Anturtle Tune as ANTX-4001.
 _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 安田幸司 Yasuda Koji 海野俊輔 Umino Shunsuke あふら Afra 石崎忍 Ishizaki Shinobu タブゾンビ Tabu Zombie_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yasumasa Kumagai Trio playing “Bolivia” live in 2017:](https://youtu.be/-kiz2K70Glg)
 
 {{< youtube -kiz2K70Glg >}}
 
--   Excerpt from track #2: [“iI Need achange,too”](/audio/#mix-3)
+-   [Excerpt from track #2: “iI Need achange,too”](/audio/#mix-3)

@@ -32,7 +32,7 @@ For track #5, the Japanese _min'yō_ folk song “Tanko Bushi” gets the “Ahm
 {{< figure src="L1220517x-1200.jpeg" link="L1220517x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Yuri Hirota’s original Japanese liner notes.)_
 
@@ -81,7 +81,7 @@ A killer tune from the 1980s disco era done with a vaudeville arrangement. Don�
 {{< figure src="L1220519x-1200.jpeg" link="L1220519x-1200.jpeg" >}}
 
 
-## Magical Moonlight by Yuri Hirota {#magical-moonlight-by-yuri-hirota}
+## Magical Moonlight by Yuri Hirota
 
 -   [Yuri Hirota](/tags/yuri-hirota) - piano &amp; arrangement
 -   [Daisei Mii](/tags/daisei-mii) - violin &amp; viola
@@ -94,7 +94,7 @@ Released in 2017 on Malt Oriental as MORI-0003.
 _Japanese names: 廣田ゆり Hirota Yuri 三井大生 Mii Daisei 佐藤きりん Sato Kilin 伊達弦 Date Gen 平岡遊一郎 Hiraoka Yuichiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “ぺぺ・ル・モコ”, track #1 on this album:](https://youtu.be/SVhdNAfJnGQ)
 
@@ -108,4 +108,4 @@ _Japanese names: 廣田ゆり Hirota Yuri 三井大生 Mii Daisei 佐藤きり�
 
 -   [Full playlist (Spotify)](https://open.spotify.com/album/1o8xdLRAWfZIE6tS8lDeU7)
 
--   Excerpt from track #5: [“炭坑節(Tanko Bushi)”](/audio/#mix-14)
+-   [Excerpt from track #5: “炭坑節(Tanko Bushi)”](/audio/#mix-14)

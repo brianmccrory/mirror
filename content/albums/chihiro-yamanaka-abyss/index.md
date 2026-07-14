@@ -42,7 +42,7 @@ Similar to the album’s four-song start with an unrelenting uptempo jazz style,
 What of the album title... why _Abyss_? What is the deep chasm, the dark pit of chaos that this album refers to? The introspective cover photo displays contemplation, but together with the album title and the Gothic lettering, there is a slight sense of foreboding. Yet, in counterpoint, this album avoids any risk of falling into the bottomless pit, as we are carried away by the winds of uptempo swing, twisty-turny piano solos that fly through the air, and the upliftingly novel arrangements that Yamanaka is so good at delivering.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -89,7 +89,7 @@ The striking sound of the organ runs in all directions over a Motown groove loop
 {{< figure src="L1210742x-1200.jpeg" link="L1210742x-1200.jpeg" >}}
 
 
-## Abyss by Chihiro Yamanaka {#abyss-by-chihiro-yamanaka}
+## Abyss by Chihiro Yamanaka
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Vicente Archer](/tags/vicente-archer) - bass
@@ -100,7 +100,7 @@ Released in 2007 on Verve as UCCJ-2060.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Lucky Southern” (track #1):](https://youtu.be/AEXOuLoFQhc)
 
@@ -138,4 +138,4 @@ _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 {{< youtube irGVn0y6j7U >}}
 
--   Excerpt from track #4: [“Take Me in Your Arms”](/audio/#mix-14)
+-   [Excerpt from track #4: “Take Me in Your Arms”](/audio/#mix-14)

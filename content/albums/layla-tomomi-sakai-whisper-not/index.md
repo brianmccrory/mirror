@@ -24,7 +24,7 @@ Buoyed by guitar chords and trumpet improvisation, Sakai’s voice emotes cleanl
 {{< figure src="L1220624-1024.jpg" link="L1220624-1024.jpg" >}}
 
 
-## Whisper Not by Layla Tomomi Sakai {#whisper-not-by-layla-tomomi-sakai}
+## Whisper Not by Layla Tomomi Sakai
 
 -   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
 -   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
@@ -35,10 +35,10 @@ Released in 2016 on Sakai Layla Tomomi as 1.
 _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live performance of Sakai Layla Tomomi:](https://youtu.be/BjmrJjxJ-fw)
 
 {{< youtube BjmrJjxJ-fw >}}
 
--   Excerpt from track #4: [“whisper not”](/audio/#mix-7)
+-   [Excerpt from track #4: “whisper not”](/audio/#mix-7)

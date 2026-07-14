@@ -36,7 +36,7 @@ One of the best things I can say about the music on _Skipping Down the Street_ i
 {{< figure src="L1240032x-1200.jpeg" link="L1240032x-1200.jpeg" >}}
 
 
-## Skipping Down the Street by Seiji Harakawa Quartet {#skipping-down-the-street-by-seiji-harakawa-quartet}
+## Skipping Down the Street by Seiji Harakawa Quartet
 
 -   [Seiji Harakawa](/tags/seiji-harakawa) - saxophone
 -   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
@@ -48,10 +48,10 @@ Released in 2020 on T &amp; A Music as SEI-001.
 _Japanese names: 原川誠司 Harakawa Seiji 田窪寛之 Takubo Hiroyuki 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live Performance of “Take Me Out to the Ball Game” by the Seiji Harakawa Quartet:](https://youtu.be/9i1_hPTl1kI)
 
 {{< youtube 9i1_hPTl1kI >}}
 
--   Excerpt from track #5: [“I've Never Been In Love Before”](/audio/#mix-9)
+-   [Excerpt from track #5: “I've Never Been In Love Before”](/audio/#mix-9)

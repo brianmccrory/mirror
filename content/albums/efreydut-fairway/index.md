@@ -46,12 +46,12 @@ This album is further enhanced by Omura’s tabla drumming on a few tracks, as w
 Omura and Mendenhall improvise a spiritual dance of rhythms and bass tones in the second half of #5 “Whispering Clouds / Nimbus”, and tablas also awaken the senses on the positively-charged adventure of #6 “Petrichor”, both unique and very different highlights on this colorful album.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(A translation of the original Japanese liner notes.)_
 
 
-### It’s so cool! {#it-s-so-cool}
+### It’s so cool!
 
 I was so moved the moment I heard Steven Sacco, one of New York’s top recording engineers, exclaim “It’s so cool!” while the trio performed at central Manhattan’s Sear Sound Studios. From deciding then to record them, the days that followed passed like a flash before my eyes.
 
@@ -118,7 +118,7 @@ In the field of economics, it refers to the liquidity of value. This song was wr
 {{< figure src="IMG_20240328_122839403-1200.jpeg" link="IMG_20240328_122839403-1200.jpeg" >}}
 
 
-## Fairway by eFreydut {#fairway-by-efreydut}
+## Fairway by eFreydut
 
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 -   [Ko Omura](/tags/ko-omura) - drumset, tabla
@@ -129,10 +129,10 @@ Released in 2024 on Tommy’s Record as TW-002.
 _Japanese names: 永武幹子 Nagatake Mikiko 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with an excerpt from “Liquidity”, track #10 on this album:](https://youtu.be/NDAXZTeDaZM)
 
 {{< youtube NDAXZTeDaZM >}}
 
--   Excerpt from track #1: [“Savichara”](/audio/#mix-10)
+-   [Excerpt from track #1: “Savichara”](/audio/#mix-10)

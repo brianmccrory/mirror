@@ -32,7 +32,7 @@ All the musician shine with visceral playing and a clean sound, with solos, duos
 {{< figure src="L1110427-1024.jpg" link="L1110427-1024.jpg" >}}
 
 
-## Bonanza by Yudo Matsuo {#bonanza-by-yudo-matsuo}
+## Bonanza by Yudo Matsuo
 
 -   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
 -   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
@@ -45,10 +45,10 @@ Released in 2012 on Coume Music as DQC-919.
 _Japanese names: 松尾由堂 Matsuo Yudo 中村恵介 Nakamura Keisuke 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi ヤマザキタケル Yamazaki Takeru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Bonanza performing “Loplop” live, the seventh track on this album:](https://youtu.be/Q20K_CbMosU)
 
 {{< youtube Q20K_CbMosU >}}
 
--   Excerpt from track #4: [“Wicked Wind”](/audio/#mix-5)
+-   [Excerpt from track #4: “Wicked Wind”](/audio/#mix-5)

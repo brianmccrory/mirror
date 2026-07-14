@@ -36,7 +36,7 @@ In addition, the duo thrills with arrangements of standards such as “Summertim
 {{< figure src="IMG_1519-1024.jpg" link="IMG_1519-1024.jpg" >}}
 
 
-## Best Wishes by Maki Fujimura {#best-wishes-by-maki-fujimura}
+## Best Wishes by Maki Fujimura
 
 -   [Maki Fujimura](/tags/maki-fujimura) - vocal
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
@@ -46,10 +46,10 @@ Released in 2013 on Maki Fujimura as MAKI.TV-0001.
 _Japanese names: 藤村麻紀 Fujimura Maki 堀秀彰 Hori Hideaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Maki Fujimura and Hideaki Hori performing “Caravan” live in 2017:](https://youtu.be/oU004sMm7rE)
 
 {{< youtube oU004sMm7rE >}}
 
--   Excerpt from track #1: [“Ray”](/audio/#mix-4)
+-   [Excerpt from track #1: “Ray”](/audio/#mix-4)

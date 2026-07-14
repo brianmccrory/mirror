@@ -26,7 +26,7 @@ The track listing consists of 10 songs, mostly originals from Yamada with three 
 {{< figure src="../images/takuji-yamada-lite-blue/L1180751-1024.JPG" link="../images/takuji-yamada-lite-blue/L1180751-1024.JPG" >}}
 
 
-## Lite Blue by Takuji Yamada {#lite-blue-by-takuji-yamada}
+## Lite Blue by Takuji Yamada
 
 -   [Takuji Yamada](/tags/takuji-yamada) - alto and soprano saxophones, bass clarinet
 -   [Danny Grissett](/tags/danny-grissett) - piano
@@ -39,7 +39,7 @@ Released in 2012 on D-Musica as DMCD-18.
 _Japanese names: 山田拓児 Yamada Takuji 阿部大輔 Abe Daisuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Takuji Yamada’s Folklore playing “In a Reverse Way” live:](https://youtu.be/w8-gfpFTbX8)
 
@@ -49,4 +49,4 @@ _Japanese names: 山田拓児 Yamada Takuji 阿部大輔 Abe Daisuke_
 
 {{< youtube VvKdrLMgPsY >}}
 
--   Excerpt from track #1: [“In A Reverse Way”](/audio/#mix-1)
+-   [Excerpt from track #1: “In A Reverse Way”](/audio/#mix-1)

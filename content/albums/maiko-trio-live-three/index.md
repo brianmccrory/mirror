@@ -26,7 +26,7 @@ With eight tracks, the songs range from colorful uptempo drama to sentimental wa
 {{< figure src="../images/maiko-trio-live-three/L1220317-1024.JPG" link="../images/maiko-trio-live-three/L1220317-1024.JPG" >}}
 
 
-## Live! Three by Maiko Trio {#live-three-by-maiko-trio}
+## Live! Three by Maiko Trio
 
 -   [maiko](/tags/maiko) - violin
 -   [Hiroki Miyano](/tags/hiroki-miyano) - guitar
@@ -37,7 +37,7 @@ Released in 2016 on The Glee as GPHR-16011.
 _Japanese names: マイコ maiko 宮野弘紀 Miyano Hiroki 伊藤志宏 Ito Shikou_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Eternally” performed live by maiko trio violin:](https://youtu.be/sfU_k84DDyg)
 
@@ -47,4 +47,4 @@ _Japanese names: マイコ maiko 宮野弘紀 Miyano Hiroki 伊藤志宏 Ito Shi
 
 {{< youtube fkurRIE5V1o >}}
 
--   Excerpt from track #8: [“Three”](/audio/#mix-5)
+-   [Excerpt from track #8: “Three”](/audio/#mix-5)

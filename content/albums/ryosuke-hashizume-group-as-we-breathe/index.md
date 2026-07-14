@@ -54,7 +54,7 @@ As seen in the track listing, there is an interesting use of self-reference in t
 {{< figure src="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" link="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" >}}
 
 
-## As We Breathe by Ryosuke Hashizume Group {#as-we-breathe-by-ryosuke-hashizume-group}
+## As We Breathe by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
@@ -68,7 +68,7 @@ Released in 2008 on BounDEE Jazz Library as DDCJ-13004/DDCJ-7004.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋本学 Hashimoto Manabu 織原良次 Orihara Ryoji 浜村昌子 Hamamura Masako 浅川太平 Asakawa Taihei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Ryosuke Hashizume Group playing #4 “Fraise” live](https://soundcloud.com/hashizume-ryosuke/fraise-live-track?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
@@ -92,9 +92,9 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋
 
 {{< youtube Mf2qe0wqQ4o >}}
 
--   Excerpt from track #3: [“Sign”](/audio/#mix-14)
+-   [Excerpt from track #3: “Sign”](/audio/#mix-14)
 
 
-## Links {#links}
+## Links
 
 -   [Ryosuke Hashizume store](https://ryohashizume.stores.jp/)

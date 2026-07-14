@@ -24,7 +24,7 @@ Apart from the lovely folk tunes and jazzy moments, over half of the songs on _S
 {{< figure src="L1210898-1024.jpeg" link="L1210898-1024.jpeg" >}}
 
 
-## Sally Gardens by Michiyo Matsushita {#sally-gardens-by-michiyo-matsushita}
+## Sally Gardens by Michiyo Matsushita
 
 -   [Michiyo Matsushita](/tags/michiyo-matsushita) - piano, melodion
 
@@ -33,10 +33,10 @@ Released in 2018 on Michiyo Matsushita as Sally Gardens.
 _Japanese names: 松下美千代 Matsushita Michiyo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/WHpbPho3v2Y)
 
 {{< youtube WHpbPho3v2Y >}}
 
--   Excerpt from track #1: [“Sally Gardens”](/audio/#mix-3)
+-   [Excerpt from track #1: “Sally Gardens”](/audio/#mix-3)

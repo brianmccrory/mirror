@@ -40,7 +40,7 @@ Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their
 {{< figure src="L1250673x-1200.jpeg" link="L1250673x-1200.jpeg" >}}
 
 
-## Banquet by Sayaka Kishi Trio {#banquet-by-sayaka-kishi-trio}
+## Banquet by Sayaka Kishi Trio
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano
 -   [Akira Yamada](/tags/akira-yamada) - drums
@@ -52,7 +52,7 @@ Released in 2024 on Daiki Musica as DNCD-32.
 _Japanese names: 岸淑香 Kishi Sayaka 山田玲 Yamada Akira 安ヵ川大樹 Yasukagawa Daiki 小林宏衣 Kobayashi Hiroe_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Sayaka Kishi Trio playing her composition “Kin no Bitou” in 2019:](https://youtu.be/Oto0e7hAqzQ)
 
@@ -60,4 +60,4 @@ _Japanese names: 岸淑香 Kishi Sayaka 山田玲 Yamada Akira 安ヵ川大樹 Y
 
 -   [D-musica page for this album with audio samples](https://d-musica.co.jp/?p=508)
 
--   Excerpt from track #1: [“I Miss the Blue Sky”](/audio/#mix-11)
+-   [Excerpt from track #1: “I Miss the Blue Sky”](/audio/#mix-11)

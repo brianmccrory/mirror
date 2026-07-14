@@ -30,7 +30,7 @@ In addition to straight-ahead locomotion, other angles are explored: wisps of fa
 {{< figure src="L1120060-1024.jpg" link="L1120060-1024.jpg" >}}
 
 
-## Wide Angle by Miki Hayama Trio {#wide-angle-by-miki-hayama-trio}
+## Wide Angle by Miki Hayama Trio
 
 -   [Miki Hayama](/tags/miki-hayama) - piano
 -   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
@@ -41,7 +41,7 @@ Released in 2009 on ART UNION/@jazz as ARTCD-114.
 _Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A track from this album, Tommy Flanagan’s “Freight Trane”:](https://youtu.be/t9wFu91ApdI)
 
@@ -55,4 +55,4 @@ _Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 {{< youtube dtb6KCpL-tE >}}
 
--   Excerpt from track #1: [“ワッツ・ネクスト？ (_What’s Next?_)”](/audio/#mix-3)
+-   [Excerpt from track #1: “ワッツ・ネクスト？ (_What’s Next?_)”](/audio/#mix-3)

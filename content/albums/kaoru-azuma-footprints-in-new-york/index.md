@@ -28,7 +28,7 @@ In addition to her singing of lyrics, Azuma’s oohs, ahhs, and scatting section
 {{< figure src="L1290997x-1200.jpeg" link="L1290997x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Ryu Yamamoto’s original Japanese liner notes.)_
 
@@ -55,7 +55,7 @@ As the album was recorded in New York, the clear, bright sound of the musicians 
 _Ryu Yamamoto_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 “Tender and sophisticated” as not heard before, a jazz vocal album with a new sense.
 
@@ -64,7 +64,7 @@ Here is an ambitious release from up-and-coming vocalist Kaoru Azuma, joined by 
 {{< figure src="L1300025x-1200.jpeg" link="L1300025x-1200.jpeg" >}}
 
 
-## Footprints in New York by Kaoru Azuma {#footprints-in-new-york-by-kaoru-azuma}
+## Footprints in New York by Kaoru Azuma
 
 -   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
 -   [Scott Reeves](/tags/scott-reeves) - alto flugelhorn &amp; trombone (track #6)
@@ -78,7 +78,7 @@ Released in 2008 on River East Music as REM-1002.
 _Japanese names: 東かおる Azuma Kaoru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [#1 “High Wire”:](https://youtu.be/u02ixkcKKzw)
 
@@ -126,4 +126,4 @@ _Japanese names: 東かおる Azuma Kaoru_
 
 -   [Kaoru Azuma: _Footprints in New York_ full album playlist](https://youtube.com/playlist?list=OLAK5uy_m5poZoAzlbHXUdyPvZUAwVYEMjP62LjuY)
 
--   Excerpt from track #4: [“Another Yes Or No”](/audio/#mix-14)
+-   [Excerpt from track #4: “Another Yes Or No”](/audio/#mix-14)

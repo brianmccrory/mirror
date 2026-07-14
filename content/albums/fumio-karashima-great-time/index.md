@@ -26,7 +26,7 @@ Karashima passed away in 2017 and leaves behind a lasting memory of incredible l
 {{< figure src="L1200673x-1200.jpeg" link="L1200673x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Transcribed text of Jin Nakahara’s original English liner notes from the CD, with light editing for readability and minor correction of typos.)_
 
@@ -81,7 +81,7 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 {{< figure src="IMG_4184-1200.jpeg" link="IMG_4184-1200.jpeg" >}}
 
 
-## Great Time by Fumio Karashima {#great-time-by-fumio-karashima}
+## Great Time by Fumio Karashima
 
 -   [Fumio Karashima](/tags/fumio-karashima) - piano
 -   [Jack DeJohnette](/tags/jack-dejohnette) - drums
@@ -92,10 +92,10 @@ Released in 2006 on Pit Inn Music as VACM-1277.
 _Japanese names: 辛島文雄 Karashima Fumio_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Fumio Karashima: _Great Time_ (full album audio):](https://youtu.be/ugFsMN6ePuA)
 
 {{< youtube ugFsMN6ePuA >}}
 
--   Excerpt from track #5: [“Brilliant Darkness”](/audio/#mix-15)
+-   [Excerpt from track #5: “Brilliant Darkness”](/audio/#mix-15)

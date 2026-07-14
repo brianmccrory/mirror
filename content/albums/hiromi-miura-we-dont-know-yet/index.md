@@ -32,7 +32,7 @@ Following the five original jazz pieces, an attention-grabbing jazz blues is per
 {{< figure src="L1120170-1024.jpg" link="L1120170-1024.jpg" >}}
 
 
-## We Don’t Know Yet by Hiromi Miura {#we-don-t-know-yet-by-hiromi-miura}
+## We Don’t Know Yet by Hiromi Miura
 
 -   [Hiromi Miura](/tags/hiromi-miura) - alto and soprano saxophone
 -   [Yago Vázquez](/tags/yago-vzquez) - piano
@@ -45,8 +45,8 @@ Released in 2013 on D-neo Daiki Musica as DNCD-03.
 _Japanese names: 三浦裕美 Miura Hiromi 座小田諒一 Zakota Ryoichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio samples from this album at D-Musica](https://www.d-musica.co.jp/release/neo/DNCD-03.html)
 
--   Excerpt from track #2: [“I Don't Know Yet”](/audio/#mix-5)
+-   [Excerpt from track #2: “I Don't Know Yet”](/audio/#mix-5)

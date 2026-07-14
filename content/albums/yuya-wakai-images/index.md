@@ -32,7 +32,7 @@ Related to the album title (and perhaps also alluding to Debussy’s classical w
 {{< figure src="IMG_20150326_125526-002-1024.jpg" link="IMG_20150326_125526-002-1024.jpg" >}}
 
 
-## Images by Yuya Wakai {#images-by-yuya-wakai}
+## Images by Yuya Wakai
 
 -   [Yuya Wakai](/tags/yuya-wakai) - piano
 
@@ -41,10 +41,10 @@ Released in 2013 on Mikorin Music as MM-002.
 _Japanese names: 若井優也 Wakai Yuya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yuya Wakai playing “All The Things You Are” in a jazz trio:](https://youtu.be/q5gpBi0RSFw)
 
 {{< youtube q5gpBi0RSFw >}}
 
--   Excerpt from track #1: [“There Will Never Be Another You”](/audio/#mix-3)
+-   [Excerpt from track #1: “There Will Never Be Another You”](/audio/#mix-3)

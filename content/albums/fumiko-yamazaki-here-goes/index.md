@@ -28,7 +28,7 @@ The poppy tracks are refreshing and positive, sounding suitable as light-hearted
 {{< figure src="../images/fumiko-yamazaki-here-goes/L1200544-1024.JPG" link="../images/fumiko-yamazaki-here-goes/L1200544-1024.JPG" >}}
 
 
-## Here Goes! by Fumiko Yamazaki {#here-goes-by-fumiko-yamazaki}
+## Here Goes! by Fumiko Yamazaki
 
 -   [Fumiko Yamazaki](/tags/fumiko-yamazaki) - vibes, percussion
 -   [Keizo Kawano](/tags/keizo-kawano) - piano, keyboard
@@ -40,10 +40,10 @@ Released in 2011 on T&amp;K Entertainment as QACK-35024.
 _Japanese names: 山崎ふみこ Yamazaki Fumiko 河野啓三 Kawano Keizo 田中晋吾 Tanaka Shingo 齋藤たかし Saito Takashi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video from a live performance of the song “One” by Fumiko Yamazaki:](https://youtu.be/hSs0lyZaMH0)
 
 {{< youtube hSs0lyZaMH0 >}}
 
--   Excerpt from track #2: [“ドナドナ (_Dona Dona_)”](/audio/#mix-7)
+-   [Excerpt from track #2: “ドナドナ (_Dona Dona_)”](/audio/#mix-7)

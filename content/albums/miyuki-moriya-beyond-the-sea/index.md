@@ -22,7 +22,7 @@ One of those personal heroes is saxophonist Kosuke Mine, who joins the group as 
 {{< figure src="L1260166x-1200.jpeg" link="L1260166x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Miyuki Moriya’s original Japanese liner notes.)_
 
@@ -89,14 +89,14 @@ At the beginning of these liner notes, I mentioned that this album feels like a 
 守谷美由貴  Miyuki Moriya
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor player Kosuke Mine as a special guest on her summer album that is making a splash.
 
 {{< figure src="L1260206x-1200.jpeg" link="L1260206x-1200.jpeg" >}}
 
 
-## Beyond the Sea by Miyuki Moriya {#beyond-the-sea-by-miyuki-moriya}
+## Beyond the Sea by Miyuki Moriya
 
 -   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax, soprano sax
 -   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (#2, 3, 5, 6, 7)
@@ -109,7 +109,7 @@ Released in 2024 on Coume Music as CUM-2401.
 _Japanese names: 守谷美由貴 Moriya Miyuki 峰厚介 Mine Kosuke 石田衛 Ishida Mamoru 佐藤潤一 Sato Junichi 今泉総之輔 Imaizumi Sohnosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Beyond the Sea”, track #6 on this album:](https://youtu.be/VxpDKSIXRyI)
 
@@ -127,4 +127,4 @@ _Japanese names: 守谷美由貴 Moriya Miyuki 峰厚介 Mine Kosuke 石田衛 I
 
 -   [Audio for “Maverick”, track #5 on this album](https://music.youtube.com/watch?v=1TlkcRnKg2k)
 
--   Excerpt from track #2: [“Flip a Coin”](/audio/#mix-12)
+-   [Excerpt from track #2: “Flip a Coin”](/audio/#mix-12)

@@ -36,7 +36,7 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 {{< figure src="L1290249x-1200.jpeg" link="L1290249x-1200.jpeg" >}}
 
 
-## Free by Michiyo Matsushita Trio {#free-by-michiyo-matsushita-trio}
+## Free by Michiyo Matsushita Trio
 
 -   [Michiyo Matsushita](/tags/michiyo-matsushita) - piano
 -   [Show Kudo](/tags/show-kudo) - bass
@@ -47,7 +47,7 @@ Released in 2024 on MUGI Record as MUGI-2408.
 _Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤良 Saito Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/de6o-PYzBOQ)
 
@@ -89,10 +89,10 @@ _Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤�
 
 {{< youtube S7N1WrR7Kj0 >}}
 
--   Excerpt from track #1: [“La Tierra”](/audio/#mix-13)
+-   [Excerpt from track #1: “La Tierra”](/audio/#mix-13)
 
 
-## Links {#links}
+## Links
 
 -   [Disk Union shop](https://diskunion.net/jazz/ct/detail/1008903294)
 

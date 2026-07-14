@@ -33,7 +33,7 @@ Like the music in the last song on the album, #8 “Plie ‘A Sublingual Castle�
 {{< figure src="L1280892x-1200.jpeg" link="L1280892x-1200.jpeg" >}}
 
 
-## Ko-tsu-ko-tsu by Taeko Kurita {#ko-tsu-ko-tsu-by-taeko-kurita}
+## Ko-tsu-ko-tsu by Taeko Kurita
 
 -   [Taeko Kurita](/tags/taeko-kurita) - piano
 
@@ -42,7 +42,7 @@ Released in 2012 on Kurita Taeko as MP-007.
 _Japanese names: 栗田妙子 Kurita Taeko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Jun”, track #1 on this album:](https://youtu.be/bR7fXj3j1bw)
 
@@ -54,4 +54,4 @@ _Japanese names: 栗田妙子 Kurita Taeko_
 
 -   [Full album playlist](https://youtube.com/playlist?list=PLqdDZxjet1CiUK2IUGss5_DWNj1l0Xy_b)
 
--   Excerpt from track #4: [“北に生まれ (_Born In The North_)”](/audio/#mix-13)
+-   [Excerpt from track #4: “北に生まれ (_Born In The North_)”](/audio/#mix-13)

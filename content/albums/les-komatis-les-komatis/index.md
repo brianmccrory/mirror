@@ -32,7 +32,7 @@ Les Komatis balances jazz, pop, and Latin with the album’s originals, comforta
 {{< figure src="IMG_20140811_213350_003-1024.jpg" link="IMG_20140811_213350_003-1024.jpg" >}}
 
 
-## Les Komatis by Les Komatis {#les-komatis-by-les-komatis}
+## Les Komatis by Les Komatis
 
 -   [Nobie](/tags/nobie) - vocal, voice, percussion
 -   [Akemi Ohta](/tags/akemi-ohta) - flute, alto flute, percussion, chorus
@@ -44,8 +44,8 @@ Released in 2015 on F.S.L as FSCJ-0007.
 _Japanese names: ノビー Nobie 太田朱美 Ohta Akemi 片倉真由子 Katakura Mayuko 山田ノブマサ Yamada Nobumasa_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio samples from bowz.shop-pro.jp](http://bowz.shop-pro.jp/?pid=86156320)
 
--   Excerpt from track #1: [“Spur”](/audio/#mix-2)
+-   [Excerpt from track #1: “Spur”](/audio/#mix-2)

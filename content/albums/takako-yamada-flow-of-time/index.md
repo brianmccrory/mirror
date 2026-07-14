@@ -30,7 +30,7 @@ For added variety, a wonderfully plaintive trumpet is present on several tracks 
 {{< figure src="L1110574-1024.jpg" link="L1110574-1024.jpg" >}}
 
 
-## The Flow of Time by Takako Yamada {#the-flow-of-time-by-takako-yamada}
+## The Flow of Time by Takako Yamada
 
 -   [Takako Yamada](/tags/takako-yamada) - piano
 -   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
@@ -44,7 +44,7 @@ Released in 2013 on GoodNessPlus Records as GNPR-1146.
 _Japanese names: 山田貴子 Yamada Takako 類家心平 Ruike Shinpei 安田幸司 Yasuda Koji 長谷川ガク Hasegawa Gaku 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from several songs on the album:](https://youtu.be/LEwFBygQg7k)
 
@@ -54,4 +54,4 @@ _Japanese names: 山田貴子 Yamada Takako 類家心平 Ruike Shinpei 安田幸
 
 {{< youtube YMeVmtrxIGo >}}
 
--   Excerpt from track #1: [“ランドスケープ (_Landscape_)”](/audio/#mix-3)
+-   [Excerpt from track #1: “ランドスケープ (_Landscape_)”](/audio/#mix-3)

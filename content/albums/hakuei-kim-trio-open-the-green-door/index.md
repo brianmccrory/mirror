@@ -28,7 +28,7 @@ Right from the opening track “Offer Refused”, Kim’s impressive hummingbird
 {{< figure src="L1200636-1024.jpg" link="L1200636-1024.jpg" >}}
 
 
-## Open the Green Door by Hakuei Kim Trio {#open-the-green-door-by-hakuei-kim-trio}
+## Open the Green Door by Hakuei Kim Trio
 
 -   [Hakuei Kim](/tags/hakuei-kim) - piano
 -   [Ben “Donny” Waples](/tags/ben-donny-waples) - double bass
@@ -39,10 +39,10 @@ Released in 2005 on DIW Records as DIW-631.
 _Japanese names: ハクエイ・キム Kim Hakuei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Hakuei Kim playing solo piano supporting his 2018 release “Resonance”:](https://youtu.be/82QZVEGryso)
 
 {{< youtube 82QZVEGryso >}}
 
--   Excerpt from track #1: [“OFFER REFUSED”](/audio/#mix-3)
+-   [Excerpt from track #1: “OFFER REFUSED”](/audio/#mix-3)

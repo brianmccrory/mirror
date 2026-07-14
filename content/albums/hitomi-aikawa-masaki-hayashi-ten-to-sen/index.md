@@ -57,7 +57,7 @@ Considering the art museum workshop, a likely first translation of _Ten To Sen_ 
 {{< figure src="L1350378x-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Booklet details pages" link="L1350378x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 >
 >
@@ -86,7 +86,7 @@ An incredibly pleasing 47 minutes from two brilliant musicians that I love <br /
 -- Yoshihide Otomo, musician
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The obi notes for _Ten to Sen_ are the same as the last two lines of the liner notes:
 
@@ -97,7 +97,7 @@ An incredibly pleasing 47 minutes from two brilliant musicians that I love <br /
 {{< figure src="L1350389x-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Disc" link="L1350389x-1200.jpeg" >}}
 
 
-## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi {#ten-to-sen-by-hitomi-aikawa-and-masaki-hayashi}
+## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi
 
 -   [Hitomi Aikawa](/tags/hitomi-aikawa) - marimba, percussion
 -   [Masaki Hayashi](/tags/masaki-hayashi) - piano
@@ -107,7 +107,7 @@ Released in 2025 on Hitomi Aikawa as HICD-002.
 _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Ten to Sen” (track #6) - Hitomi Aikawa solo marimba version from 2019:](https://youtu.be/YkdNOLJian4)
 
@@ -129,4 +129,4 @@ _Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki_
 
 {{< youtube Ed0KubWWSFA >}}
 
--   Excerpt from track #1: [“Marigold”](/audio/#mix-15)
+-   [Excerpt from track #1: “Marigold”](/audio/#mix-15)

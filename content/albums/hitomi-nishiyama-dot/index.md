@@ -46,7 +46,7 @@ There are also the dot-like sequences of melody in some of the songs. And, there
 {{< figure src="L1250332x-1200.jpeg" link="L1250332x-1200.jpeg" >}}
 
 
-## Dot by Hitomi Nishiyama {#dot-by-hitomi-nishiyama}
+## Dot by Hitomi Nishiyama
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Toru Nishijima](/tags/toru-nishijima) - bass
@@ -60,7 +60,7 @@ Released in 2023 on Meantone Records as MT-12.
 _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Dot”, track #2 on this album:](https://youtu.be/P6BX0t2EZ5E)
 
@@ -70,4 +70,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 N
 
 {{< youtube jqCsbpZRdOg >}}
 
--   Excerpt from track #3: [“ザ・ライダー (_The Rider_)”](/audio/#mix-11)
+-   [Excerpt from track #3: “ザ・ライダー (_The Rider_)”](/audio/#mix-11)

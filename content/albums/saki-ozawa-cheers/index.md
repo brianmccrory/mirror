@@ -34,7 +34,7 @@ Another highlight is #8 “M’s Mark”, a song that leans toward the hard bop 
 {{< figure src="L1290956x-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Obi" link="L1290956x-1200.jpeg" >}}
 
 
-## Online Liner Notes {#online-liner-notes}
+## Online Liner Notes
 
 _(Translated from the original Japanese online introduction to this album.)_
 
@@ -47,7 +47,7 @@ In addition to two famous jazz standards, the songs include her blues number “
 {{< figure src="L1290954x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Disc" link="L1290954x-1200.jpeg" >}}
 
 
-## Cheers! by Saki Ozawa {#cheers-by-saki-ozawa}
+## Cheers! by Saki Ozawa
 
 -   [Saki Ozawa](/tags/saki-ozawa) - piano
 -   [Koji Yasuda](/tags/koji-yasuda) - bass (tracks #1, 4, 5, 7)
@@ -60,7 +60,7 @@ Released in 2023 on ReBorn Wood as RBW-0027.
 _Japanese names: 小沢咲希 Ozawa Saki 安田幸司 Yasuda Koji 粟谷巧 Awaya Takumi 柳沼佑育 Yaginuma Yusuke エマ Ema_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Introduction” (track #1):](https://youtu.be/FO0KdWeslBE)
 
@@ -80,4 +80,4 @@ _Japanese names: 小沢咲希 Ozawa Saki 安田幸司 Yasuda Koji 粟谷巧 Away
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=PLkMuVISai0HmQsPv4ziKYHOKpiD2B5xUv)
 
--   Excerpt from track #5: [“Something Like That”](/audio/#mix-15)
+-   [Excerpt from track #5: “Something Like That”](/audio/#mix-15)

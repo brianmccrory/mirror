@@ -32,7 +32,7 @@ Finally, the lightly bouncing tune “For My Lady”, written by the grand harmo
 {{< figure src="L1230650x-1024.jpeg" link="L1230650x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Akane Matsumoto and Nanami Haruta.)_
 
@@ -87,7 +87,7 @@ By the way, when I happen to hum this song, I’m struck and transformed by the 
 {{< figure src="L1240171x-1024.jpeg" link="L1240171x-1024.jpeg" >}}
 
 
-## For My Lady by Akane Matsumoto &amp; Nanami Haruta {#for-my-lady-by-akane-matsumoto-and-nanami-haruta}
+## For My Lady by Akane Matsumoto &amp; Nanami Haruta
 
 -   [Nanami Haruta](/tags/nanami-haruta) - trombone
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
@@ -97,7 +97,7 @@ Released in 2023 on Concept Record as CR-17.
 _Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “I’ve Got A Crush On You”, track #1 on this album:](https://youtu.be/Pns3-PmEhAY)
 
@@ -119,4 +119,4 @@ _Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
 
 {{< youtube pyrVnZnrcu0 >}}
 
--   Excerpt from track #7: [“Please Send Me Someone To Love”](/audio/#mix-9)
+-   [Excerpt from track #7: “Please Send Me Someone To Love”](/audio/#mix-9)

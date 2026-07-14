@@ -28,7 +28,7 @@ Bungalow’s compositions are in focus here, and like modern songwriting from Wa
 {{< figure src="L1120184-1024.jpg" link="L1120184-1024.jpg" >}}
 
 
-## Past Life by Bungalow {#past-life-by-bungalow}
+## Past Life by Bungalow
 
 -   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto sax, soprano sax, tenor sax
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -40,10 +40,10 @@ Released in 2013 on Studio Songs as YZSO-10036.
 _Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of the title track “Past Life”:](https://youtu.be/fpzcz7PJN7w)
 
 {{< youtube fpzcz7PJN7w >}}
 
--   Excerpt from track #1: [“上昇気流 (_Updraft_)”](/audio/#mix-3)
+-   [Excerpt from track #1: “上昇気流 (_Updraft_)”](/audio/#mix-3)

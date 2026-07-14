@@ -48,7 +48,7 @@ One of Nishiyama’s goals for _Calling_ was to create music that is easily abso
 Moreover, _Calling_ perhaps also subtly hints of directions to come, themes and ideas that are further explored on her third release since then, 2023’s _Dot_. Incidentally, Hitomi Nishiyama just this week held an exciting live concert with her _Dot_ sextet recording members as an album-release event in Tokyo (more on this impactful _Dot_ in a future article). She also announced that a companion album to _Dot_ is upcoming and set for a fall 2024 release with the title _Echo_, another record to definitely look forward to.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(While there are no printed liner notes in the CD release, the following text is a translation of Hitomi Nishiyama’s “The Making of ‘Calling’”at [Hitomi Nishiyama 西山瞳『Calling』制作の経緯など from October 5, 2021](https://note.com/hitominishiyama/n/n7cd579d358fd?sub_rt=share_pw).)_
 
@@ -117,7 +117,7 @@ I’ve been asked “When is the CD release live show”, here and there and thr
 {{< figure src="L1240160x-1200.jpeg" link="L1240160x-1200.jpeg" >}}
 
 
-## Calling by Hitomi Nishiyama Trio {#calling-by-hitomi-nishiyama-trio}
+## Calling by Hitomi Nishiyama Trio
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
@@ -128,7 +128,7 @@ Released in 2021 on Meantone Records as MT-10.
 _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Folds of Paints”, track #8 on this album:](https://youtu.be/BYj2wBWA9gM)
 
@@ -142,4 +142,4 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhi
 
 {{< youtube u0dLThgxvTQ >}}
 
--   Excerpt from track #6: [“Loudvik”](/audio/#mix-10)
+-   [Excerpt from track #6: “Loudvik”](/audio/#mix-10)

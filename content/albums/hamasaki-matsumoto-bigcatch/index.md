@@ -36,7 +36,7 @@ Cover art by Akane Matsumoto (_dig those Big Catch big cats having a ball on the
 {{< figure src="IMG_20150318_161744-1024.jpg" link="IMG_20150318_161744-1024.jpg" >}}
 
 
-## Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio {#big-catch-by-wataru-hamasaki-meets-akane-matsumoto-trio}
+## Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio
 
 -   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor and soprano sax, flute
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
@@ -51,10 +51,10 @@ Released in 2013 on Concept Records as CR-01.
 _Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane 権上康志 Gonjyo Yasushi 竹田達彦 Takeda Tatsuhiko 日景修 Hikage Osamu 黒田和良 Kuroda Kazuyoshi 浅井良将 Asai Ryosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Music from the album “Big Catch”:](https://youtu.be/q-TOrjegB_o)
 
 {{< youtube q-TOrjegB_o >}}
 
--   Excerpt from track #1: [“BIG CATCH”](/audio/#mix-3)
+-   [Excerpt from track #1: “BIG CATCH”](/audio/#mix-3)

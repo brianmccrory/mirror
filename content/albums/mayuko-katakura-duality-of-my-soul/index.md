@@ -32,7 +32,7 @@ Finally, the last track #8 “Being Me” is a sweet and slow ballad, played wit
 {{< figure src="L1280813x-1200.jpeg" link="L1280813x-1200.jpeg" >}}
 
 
-## The Duality of My Soul by Mayuko Katakura {#the-duality-of-my-soul-by-mayuko-katakura}
+## The Duality of My Soul by Mayuko Katakura
 
 -   [Mayuko Katakura](/tags/mayuko-katakura) - piano
 -   [Takumi Awaya](/tags/takumi-awaya) - bass
@@ -43,6 +43,6 @@ Released in 2025 on Mayuko Katakura Music as MKM-001.
 _Japanese names: 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 田中徳崇 Tanaka Noritaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
--   Excerpt from track #2: [“The Duality Of My Soul”](/audio/#mix-13)
+-   [Excerpt from track #2: “The Duality Of My Soul”](/audio/#mix-13)

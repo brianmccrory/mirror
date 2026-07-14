@@ -28,7 +28,7 @@ The musicians’ love for classic jazz, decorated and fun arrangements, and jazz
 {{< figure src="L1320880x-1200.jpeg" link="L1320880x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Toru Takahashi’s original Japanese liner notes.)_
 
@@ -134,7 +134,7 @@ _Notes by Toru Takahashi_
 {{< figure src="L1320895x-1200.jpeg" link="L1320895x-1200.jpeg" >}}
 
 
-## Tokyo Groovin’ High! by Toru Takahashi {#tokyo-groovin-high-by-toru-takahashi}
+## Tokyo Groovin’ High! by Toru Takahashi
 
 -   [Toru Takahashi](/tags/toru-takahashi) - drums
 -   [Atsushi Ikeda](/tags/atsushi-ikeda) - alto sax (#1-5, 7)
@@ -151,7 +151,7 @@ Released in 2021 on T-Swing Music as TSM-0001.
 _Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 Okazaki Masanori 吉田桂一 Yoshida Keiichi 中村健吾 Nakamura Kengo 千北祐輔 Chigita Yusuke 佐津間純 Satsuma Jun 三遊亭小遊三 Sanyutei Koyuza 春風亭昇太 Shunputei Shota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Tokyo Groovin’ High” (track #1 behind the scenes excerpt):](https://youtu.be/K-PuB1MKKsU)
 
@@ -173,4 +173,4 @@ _Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 O
 
 {{< youtube A-AiNoUAe9g >}}
 
--   Excerpt from track #7: [“Don’t Take Your Love From Me”](/audio/#mix-14)
+-   [Excerpt from track #7: “Don’t Take Your Love From Me”](/audio/#mix-14)

@@ -22,7 +22,7 @@ Alto saxophonist Ayumi Koketsu released a sophisticated tribute to Art Pepper on
 {{< figure src="L1180457-1024.jpg" link="L1180457-1024.jpg" >}}
 
 
-## Art by Ayumi Koketsu {#art-by-ayumi-koketsu}
+## Art by Ayumi Koketsu
 
 -   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
 -   [Jeremy Manasia](/tags/jeremy-manasia) - piano
@@ -34,7 +34,7 @@ Released in 2016 on Pony Canyon as MYCJ-30653.
 _Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The track “Cool Bunny” from this release:](https://youtu.be/OuSFDMFZfcM)
 
@@ -48,4 +48,4 @@ _Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 {{< youtube AwOOED-1C2Q >}}
 
--   Excerpt from track #1: [“クール・バニー (_Cool Bunny_)”](/audio/#mix-1)
+-   [Excerpt from track #1: “クール・バニー (_Cool Bunny_)”](/audio/#mix-1)

@@ -24,7 +24,7 @@ This album consists of well-written original compositions with a few covers thro
 {{< figure src="L1180590-1024.jpg" link="L1180590-1024.jpg" >}}
 
 
-## Humadope by Keisuke Nakamura {#humadope-by-keisuke-nakamura}
+## Humadope by Keisuke Nakamura
 
 -   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
 -   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, soprano sax
@@ -39,10 +39,10 @@ Released in 2014 on M581 Records as SDR1401.
 _Japanese names: 中村恵介 Nakamura Keisuke 西口明宏 Nishiguchi Akihiro 松本茜 Matsumoto Akane 金森もとい Kanamori Motoi 福森康 Fukumori Yasushi 石田衛 Ishida Mamoru 石若駿 Ishiwaka Shun_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of track #4 “Round Table”:](https://youtu.be/T5bm8CoSgVY)
 
 {{< youtube T5bm8CoSgVY >}}
 
--   Excerpt from track #1: [“SPEED HARASSMENT”](/audio/#mix-1)
+-   [Excerpt from track #1: “SPEED HARASSMENT”](/audio/#mix-1)

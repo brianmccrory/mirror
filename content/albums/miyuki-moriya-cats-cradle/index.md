@@ -28,7 +28,7 @@ Sharply-crafted jazz with a modern spark particularly identifies Moriya’s musi
 {{< figure src="L1210517-1024.jpg" link="L1210517-1024.jpg" >}}
 
 
-## Cat’s Cradle by Miyuki Moriya {#cat-s-cradle-by-miyuki-moriya}
+## Cat’s Cradle by Miyuki Moriya
 
 -   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax
 -   [Mamoru Ishida](/tags/mamoru-ishida) - piano
@@ -41,6 +41,6 @@ Released in 2010 on Coume Music as DQC-565.
 _Japanese names: 守谷美由貴 Moriya Miyuki 石田衛 Ishida Mamoru かむろ耕平 Kamuro Kohei 池尻洋史 Ikejiri Hiroshi 今泉総之輔 Imaizumi Sohnosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
--   Excerpt from track #1: [“Tuck Box”](/audio/#mix-6)
+-   [Excerpt from track #1: “Tuck Box”](/audio/#mix-6)

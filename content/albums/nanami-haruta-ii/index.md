@@ -34,7 +34,7 @@ As for the potentially confusing title of _II_, this may be a bit of a head-scra
 {{< figure src="L1230374x-1024.jpeg" link="L1230374x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Kouichi Nishimatsu, executive producer.)_
 
@@ -63,7 +63,7 @@ Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 {{< figure src="L1240188x-1200.jpeg" link="L1240188x-1200.jpeg" >}}
 
 
-## II by Nanami Haruta {#ii-by-nanami-haruta}
+## II by Nanami Haruta
 
 -   [Nanami Haruta](/tags/nanami-haruta) - trombone
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
@@ -76,7 +76,7 @@ Released in 2022 on Media Stylist as MSC-9020.
 _Japanese names: 治田七海 Haruta Nanami 吉本章紘 Yoshimoto Akihiro 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 石若駿 Ishiwaka Shun_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/0PwJq224Tw4)
 
@@ -86,4 +86,4 @@ _Japanese names: 治田七海 Haruta Nanami 吉本章紘 Yoshimoto Akihiro 片�
 
 {{< youtube tZWMpPLhPno >}}
 
--   Excerpt from track #1: [“1965”](/audio/#mix-10)
+-   [Excerpt from track #1: “1965”](/audio/#mix-10)

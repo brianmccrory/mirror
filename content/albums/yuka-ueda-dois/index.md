@@ -32,7 +32,7 @@ As with her debut album _Agora_, the singer is supported by her familiar guitar 
 {{< figure src="L1110657-1024.jpg" link="L1110657-1024.jpg" >}}
 
 
-## Dois by Yuka Ueda {#dois-by-yuka-ueda}
+## Dois by Yuka Ueda
 
 -   [Yuka Ueda](/tags/yuka-ueda) - vocal
 -   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
@@ -46,7 +46,7 @@ Released in 2013 on Audio Fab Records as AFD-110.
 _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原良次 Orihara Ryoji 小松伸之 Komatsu Nobuyuki 橋本信二 Hashimoto Shinji ジョー・ダ・バビロニア Babylonia Jo da_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yuka Ueda performing live in 2015:](https://youtu.be/iHTm_rlRAn0)
 
@@ -56,4 +56,4 @@ _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原
 
 {{< youtube 2MHUgYgV4uE >}}
 
--   Excerpt from track #1: [“Meu Escudo”](/audio/#mix-7)
+-   [Excerpt from track #1: “Meu Escudo”](/audio/#mix-7)

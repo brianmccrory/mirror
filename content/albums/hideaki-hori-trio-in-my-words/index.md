@@ -32,7 +32,7 @@ Hori’s songwriting is also on display, with six originals (the crowd favorite 
 {{< figure src="L1220735-1024.jpg" link="L1220735-1024.jpg" >}}
 
 
-## In My Words by Hideaki Hori Trio {#in-my-words-by-hideaki-hori-trio}
+## In My Words by Hideaki Hori Trio
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
 -   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
@@ -43,10 +43,10 @@ Released in 2010 on Daiki Musica as DMCD-06.
 _Japanese names: 堀秀彰 Hori Hideaki 安ヵ川大樹 Yasukagawa Daiki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for track #7, “Winter Waltz”:](https://youtu.be/AJDUjvNkeeg)
 
 {{< youtube AJDUjvNkeeg >}}
 
--   Excerpt from track #1: [“This is New”](/audio/#mix-5)
+-   [Excerpt from track #1: “This is New”](/audio/#mix-5)

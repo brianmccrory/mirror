@@ -46,7 +46,7 @@ The last two tracks, #7 “Warm Winter” and #8 “Jacques”, work nicely toge
 {{< figure src="L1330741x-1200.jpeg" link="L1330741x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Harumi Nomoto’s original Japanese liner notes.)_
 
@@ -85,7 +85,7 @@ I created this song while imagining waves coming in and going out. I borrowed th
 {{< figure src="L1330746x-1200.jpeg" link="L1330746x-1200.jpeg" >}}
 
 
-## Anitya by Harumi Nomoto Trio {#anitya-by-harumi-nomoto-trio}
+## Anitya by Harumi Nomoto Trio
 
 -   [Harumi Nomoto](/tags/harumi-nomoto) - piano
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -96,7 +96,7 @@ Released in 2025 on Okra Record as MIKO-9001.
 _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Cucumber Man” (track #4) — live at Bon Courage, Tokyo, in February 2025:](https://youtu.be/k0SGcHYKv-8)
 
@@ -122,4 +122,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総
 
 -   [Full album (Apple)](https://music.apple.com/us/album/anitya/1848681100)
 
--   Excerpt from track #1: [“Double touch”](/audio/#mix-14)
+-   [Excerpt from track #1: “Double touch”](/audio/#mix-14)

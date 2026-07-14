@@ -30,7 +30,7 @@ Whether Japanese or American, in New York or Tokyo, the “This is Jazz!” spir
 {{< figure src="L1220631-1024.jpg" link="L1220631-1024.jpg" >}}
 
 
-## Workout!! by Seiji Tada {#workout-by-seiji-tada}
+## Workout!! by Seiji Tada
 
 -   [Seiji Tada](/tags/seiji-tada) - alto sax, flute, alto flute
 -   [Renee Rosnes](/tags/renee-rosnes) - piano
@@ -42,7 +42,7 @@ Released in 2018 on Studio TLive Records as STLR-018.
 _Japanese names: 多田誠司 Tada Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Seiji Tada performing live:](https://youtu.be/uMQYxgd5hUI)
 
@@ -52,4 +52,4 @@ _Japanese names: 多田誠司 Tada Seiji_
 
 {{< youtube LEzJqz_YJPs >}}
 
--   Excerpt from track #1: [“Workout”](/audio/#mix-5)
+-   [Excerpt from track #1: “Workout”](/audio/#mix-5)

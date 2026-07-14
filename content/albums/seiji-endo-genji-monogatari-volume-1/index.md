@@ -30,7 +30,7 @@ Set among these musical facets, the listener may also pick up hints to classical
 {{< figure src="seijiendo-genji-inside-1024.png" link="seijiendo-genji-inside-1024.png" >}}
 
 
-## Genji Monogatari Volume 1 by Seiji Endo {#genji-monogatari-volume-1-by-seiji-endo}
+## Genji Monogatari Volume 1 by Seiji Endo
 
 -   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
 
@@ -39,10 +39,10 @@ Released in 2018 on Nippon Acoustic Records as NARP-8015.
 _Japanese names: 遠藤征志 Endo Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Seiji Endo performing his composition “Sun, Moon and Children Smile” (from his “Sakura Meditation” album) in Indonesia in 2014:](https://youtu.be/ZggxZ80F7ec)
 
 {{< youtube ZggxZ80F7ec >}}
 
--   Excerpt from track #1: [“桐壺(桐壺更衣)(きりつぼ・きりつぼのこうい) (_Kiritsubo (Kiritsubo changing clothes) (Kiritsubo/Kiritsubo no Koi)_)”](/audio/#mix-4)
+-   [Excerpt from track #1: “桐壺(桐壺更衣)(きりつぼ・きりつぼのこうい) (_Kiritsubo (Kiritsubo changing clothes) (Kiritsubo/Kiritsubo no Koi)_)”](/audio/#mix-4)

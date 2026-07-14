@@ -36,7 +36,7 @@ Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([Jan
 {{< figure src="L1220645-1024.jpg" link="L1220645-1024.jpg" >}}
 
 
-## A Love Supreme by Noriko Satomi {#a-love-supreme-by-noriko-satomi}
+## A Love Supreme by Noriko Satomi
 
 -   [Noriko Satomi](/tags/noriko-satomi) - violin
 -   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
@@ -48,10 +48,10 @@ Released in 2019 on T-Toc Records as TTOC-0032.
 _Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 上村信 Kamimura Shin 大坂昌彦 Osaka Masahiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The official promotional video for Noriko Satomi’s “A Love Supreme”:](https://youtu.be/rCUIDNhxxQA)
 
 {{< youtube rCUIDNhxxQA >}}
 
--   Excerpt from track #1: [“至上の愛 パート1-承認 (_A Love Supreme Part 1- Approval_)”](/audio/#mix-5)
+-   [Excerpt from track #1: “至上の愛 パート1-承認 (_A Love Supreme Part 1- Approval_)”](/audio/#mix-5)

@@ -28,7 +28,7 @@ The album features delightful arrangements by Seiji Endo along with Taguchi’s 
 {{< figure src="L1180803-1024.jpg" link="L1180803-1024.jpg" >}}
 
 
-## The Gift by Rie Taguchi {#the-gift-by-rie-taguchi}
+## The Gift by Rie Taguchi
 
 -   [Rie Taguchi](/tags/rie-taguchi) - vocals, piano
 -   [Seiji Endo](/tags/seiji-endo) - piano, arrangements
@@ -43,10 +43,10 @@ Released in 2016 on Rose Happy Music as RHM002.
 _Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 Tada Seiji 里見紀子 Satomi Noriko 田辺充邦 Tanabe Mitsukuni 仲石裕介 Nakaishi Yusuke 山田玲 Yamada Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Television broadcast of Rie Taguchi singing in Tokyo:](https://youtu.be/4oURhuaWyh4)
 
 {{< youtube id=4oURhuaWyh4 start=2m43s >}}
 
--   Excerpt from track #1: [“The Lady Is A Tramp”](/audio/#mix-2)
+-   [Excerpt from track #1: “The Lady Is A Tramp”](/audio/#mix-2)

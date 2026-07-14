@@ -30,7 +30,7 @@ Along with jazz swing, the album also features bossa on “The Girl From Ipanema
 {{< figure src="IMG_20150118_175116-1024.jpg" link="IMG_20150118_175116-1024.jpg" >}}
 
 
-## Water Me! by Water Me! {#water-me-by-water-me}
+## Water Me! by Water Me!
 
 -   [Ayako Taira](/tags/ayako-taira) - vocal
 -   [Noriko Kotani](/tags/noriko-kotani) - vocal
@@ -43,6 +43,6 @@ Released in 2014 on Sunmoon Music as SMCD-0005.
 _Japanese names: 平良亜矢子 Taira Ayako 小谷のりこ Kotani Noriko 川久保典彦 Kawakubo Norihiko 田中洋平 Tanaka Yohei 大田智洋 Ota Tomohiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
--   Excerpt from track #1: [“Satin Doll”](/audio/#mix-7)
+-   [Excerpt from track #1: “Satin Doll”](/audio/#mix-7)

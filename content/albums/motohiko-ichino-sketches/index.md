@@ -32,7 +32,7 @@ Among the ten trio tracks are three songs and one short jam where saxophonist Ta
 {{< figure src="L1250149x-1200.jpeg" link="L1250149x-1200.jpeg" >}}
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Memories of scenes from the mind’s eye. Ten sketches of sound.
 
@@ -41,7 +41,7 @@ Motohiko Ichino was born in Kobe. He studied at Berklee College of Music under M
 {{< figure src="IMG_20240724_150641567_HDRx-1200.jpeg" link="IMG_20240724_150641567_HDRx-1200.jpeg" >}}
 
 
-## Sketches by Motohiko Ichino {#sketches-by-motohiko-ichino}
+## Sketches by Motohiko Ichino
 
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
 -   [Hikaru Toho](/tags/hikaru-toho) - acoustic bass
@@ -53,7 +53,7 @@ Released in 2007 on Ammonite Musique as AM-1001.
 _Japanese names: 市野元彦 Ichino Motohiko 東保光 Toho Hikaru 嘉本信一郎 Kamoto Shinichiro かみむら泰一 Kamimura Taiichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Tony”, track #2 on this album:](https://youtu.be/nOSEIctlr5Y)
 
@@ -67,4 +67,4 @@ _Japanese names: 市野元彦 Ichino Motohiko 東保光 Toho Hikaru 嘉本信一
 
 {{< youtube w_6I6Ec5jmQ >}}
 
--   Excerpt from track #1: [“Wrapped Up”](/audio/#mix-11)
+-   [Excerpt from track #1: “Wrapped Up”](/audio/#mix-11)

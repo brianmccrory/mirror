@@ -28,7 +28,7 @@ With nine original songs spanning jazz-rock, soft ballads, and a light EST and B
 {{< figure src="L1200357-1024.jpg" link="L1200357-1024.jpg" >}}
 
 
-## Trispace by Trispace {#trispace-by-trispace}
+## Trispace by Trispace
 
 -   [Yuichi Hayashi](/tags/yuichi-hayashi) - Piano, Composition
 -   [Morihiro Omura](/tags/morihiro-omura) - bass
@@ -39,10 +39,10 @@ Released in 2010 on Leccia Records / feel free products as LRTR-0004.
 _Japanese names: 林祐市 Hayashi Yuichi 大村守弘 Omura Morihiro 山下佳孝 Yamashita Yoshitaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Trispace on “Free Will”, the second track on this album:](https://youtu.be/OI2Rg7KwrZk)
 
 {{< youtube OI2Rg7KwrZk >}}
 
--   Excerpt from track #6: [“Peaceful Mind”](/audio/#mix-4)
+-   [Excerpt from track #6: “Peaceful Mind”](/audio/#mix-4)

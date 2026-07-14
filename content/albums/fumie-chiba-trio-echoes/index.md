@@ -22,7 +22,7 @@ _Echos_ follows her debut recording _[Tip of Dream](https://www.jazzofjapan.com/
 {{< figure src="L1220742x-1200.jpeg" link="L1220742x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Fumie Chiba’s original Japanese liner notes.)_
 
@@ -93,7 +93,7 @@ Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. R
 {{< figure src="L1220747x-1200.jpeg" link="L1220747x-1200.jpeg" >}}
 
 
-## Echoes by Fumie Chiba Trio {#echoes-by-fumie-chiba-trio}
+## Echoes by Fumie Chiba Trio
 
 -   [Fumie Chiba](/tags/fumie-chiba) - piano
 -   [Koji Tetsui](/tags/koji-tetsui) - bass
@@ -104,7 +104,7 @@ Released in 2013 on T-TOC Records Cadenza as CADE-0009.
 _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Echo” (track #1):](https://youtu.be/OANogc3bBtY)
 
@@ -114,4 +114,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suz
 
 {{< youtube 1GdvWX9zNYo >}}
 
--   Excerpt from track #2: [“dawn”](/audio/#mix-14)
+-   [Excerpt from track #2: “dawn”](/audio/#mix-14)

@@ -26,7 +26,7 @@ Differing from the first two releases, this album focuses on her work as a solo 
 {{< figure src="../images/yukako-yamano-3rd-stage/L1230168-1024.JPG" link="../images/yukako-yamano-3rd-stage/L1230168-1024.JPG" >}}
 
 
-## 3rd Stage by Yukako Yamano {#3rd-stage-by-yukako-yamano}
+## 3rd Stage by Yukako Yamano
 
 -   [Yukako Yamano](/tags/yukako-yamano) - piano
 
@@ -35,10 +35,10 @@ Released in 2017 on Yukako Yamano as YKRN-0003.
 _Japanese names: 山野友佳子 Yamano Yukako_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “Love Coke!”, the last song on this album:](https://youtu.be/4_PEprS8H4Y)
 
 {{< youtube 4_PEprS8H4Y >}}
 
--   Excerpt from track #7: [“Luna”](/audio/#mix-8)
+-   [Excerpt from track #7: “Luna”](/audio/#mix-8)

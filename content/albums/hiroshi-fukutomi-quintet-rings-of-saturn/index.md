@@ -32,7 +32,7 @@ Incidentally, Masahiro Yamamoto, along with Sato and Ikejiri, was a founding mem
 {{< figure src="L1230469x-1200.jpeg" link="L1230469x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Masato Maedomari’s original Japanese liner notes.)_
 
@@ -95,14 +95,14 @@ Hiroshi Ikejiri was born in Chiba in 1979. He started learning the Electone (Yam
 Born in Osaka in 1981, Ryo Shibata had a love for music at a young age and began learning drums at the age of 10. He entered the Koyo Conservatory of Music, and started to perform in jazz clubs in the Kansai region, accumulating experience by playing in various bands and genres. In early spring 2003, he entered Berklee College of Music. Starting in 2007 until graduation, he played in the select student band with tours in Oregon, California, and at the JVC Jazz Festival in New York City. In September of that same year, he played at the Monterey Jazz Festival in 2008 as part of the Berklee Monterey Quartet. Continuing his musical activity, in March 2008, he participated as first chair as part of the same group with the SF Jazz Collective led by Dave Douglas for a concert in Boston, and played at Boston’s Institute of Contemporary Art in August. He moved to Tokyo in September 2009 and began to actively perform around the Tokyo Metropolitan area. After returning to Japan, he performed twice with Simon Yu on tour in China, in 2008 and 2009. Also in 2009, he played at the Montreux Jazz Festival with Jeff Miles, winner of the Montreux Jazz Guitar Competition 2008, in addition to other activities performing on the world stage. He is a drummer who continues to build on his reputation with this album and the previous release from D-musica, Jun Fuyura’s _Exprimo_.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The resonance of five distinct personalities blossoms with a rich harmony.
 
 {{< figure src="L1240184x-1200.jpeg" link="L1240184x-1200.jpeg" >}}
 
 
-## Rings of Saturn by Hiroshi Fukutomi Quintet {#rings-of-saturn-by-hiroshi-fukutomi-quintet}
+## Rings of Saturn by Hiroshi Fukutomi Quintet
 
 -   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - guitar
 -   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto and soprano sax
@@ -115,7 +115,7 @@ Released in 2010 on D-musica as DMCD-04.
 _Japanese names: 福冨博 Fukutomi Hiroshi 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 柴田亮 Shibata Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Rings of Saturn” (track #1):](https://youtu.be/WM6NY6gZWvY)
 
@@ -131,4 +131,4 @@ _Japanese names: 福冨博 Fukutomi Hiroshi 山本昌広 Yamamoto Masahiro 佐�
 
 -   [Full album (Spotify)](https://open.spotify.com/album/0dq64CFzaPIwnOynklo6gG)
 
--   Excerpt from track #2: [“Lost And Found”](/audio/#mix-14)
+-   [Excerpt from track #2: “Lost And Found”](/audio/#mix-14)

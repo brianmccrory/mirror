@@ -32,7 +32,7 @@ After the long-awaited and popular release of _Struttin’_, Koketsu continued t
 {{< figure src="L1350786x-1200.jpeg" link="L1350786x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Naoko Shimada’s original Japanese liner notes.)_
 
@@ -107,7 +107,7 @@ This debut album from Ayumi is sure to create even more buzz going forward. List
 Naoko Shimada, Music Writer
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Her passion is jazz!
 
@@ -116,7 +116,7 @@ A talented woman makes her debut on the scene with her light yet intense perform
 {{< figure src="L1320996x-1200.jpeg" link="L1320996x-1200.jpeg" >}}
 
 
-## Struttin’ by Ayumi Koketsu {#struttin-by-ayumi-koketsu}
+## Struttin’ by Ayumi Koketsu
 
 -   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
 -   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano
@@ -128,7 +128,7 @@ Released in 2010 on Pony Canyon as MYCJ-30573.
 _Japanese names: 纐纈歩美 Koketsu Ayumi 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Kary’s Trance” - track #3:](https://youtu.be/R8ePJU2nyEQ)
 
@@ -148,4 +148,4 @@ _Japanese names: 纐纈歩美 Koketsu Ayumi 納谷嘉彦 Naya Yoshihiko 俵山�
 
 -   [Ayumi Koketsu: _Struttin’_ - full playlist](https://youtube.com/playlist?list=OLAK5uy_nK1Q8zozSah7DHvQohnvotxLIcbBJKAO0)
 
--   Excerpt from track #3: [“Karys Trance”](/audio/#mix-15)
+-   [Excerpt from track #3: “Karys Trance”](/audio/#mix-15)

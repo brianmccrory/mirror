@@ -32,7 +32,7 @@ Album highlights include the modern jazz beat of “Pirarucu”, the _soca_-insp
 {{< figure src="L1230329x-1024.jpeg" link="L1230329x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Yasumasa Kumagai.)_
 
@@ -91,7 +91,7 @@ That’s all for now. We appreciate your support as we continue to release new a
 {{< figure src="L1240176x-1024.jpeg" link="L1240176x-1024.jpeg" >}}
 
 
-## Last Resort by Yasumasa Kumagai &amp; J-Jazz Homies {#last-resort-by-yasumasa-kumagai-and-j-jazz-homies}
+## Last Resort by Yasumasa Kumagai &amp; J-Jazz Homies
 
 -   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
 -   [Miki Hirose](/tags/miki-hirose) - trumpet
@@ -103,7 +103,7 @@ Released in 2020 on Jazzy Bear as JZBR-0002.
 _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 広瀬未来 Hirose Miki 古木佳祐 Furuki Keisuke 山田玲 Yamada Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live version of “Pirarucu”, track #1 from this album:](https://youtu.be/RBMeLoHkgOg)
 
@@ -113,4 +113,4 @@ _Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 広瀬未来 Hirose Miki �
 
 {{< youtube pr7uvD0kkmM >}}
 
--   Excerpt from track #5: [“Apologetic Blues”](/audio/#mix-9)
+-   [Excerpt from track #5: “Apologetic Blues”](/audio/#mix-9)

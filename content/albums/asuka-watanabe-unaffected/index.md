@@ -26,7 +26,7 @@ _Unaffected_ is a 47-minute album with 11 tracks, most in the short-and-sweet ra
 {{< figure src="L1260854x-1200.jpeg" link="L1260854x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Yozo Iwanami’s original Japanese liner notes.)_
 
@@ -101,14 +101,14 @@ As mentioned above, **“Early Autumn”** is a song that was made famous by the
 岩浪洋三  _Yozo Iwanami_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 You’re invited to spend a sublime sophisticated time with mellow singing that is as smooth and gentle as silk and fragrant as a full-bodied wine! The debut album from a new jazz vocal star, Asuka Watanabe.
 
 {{< figure src="L1260895x-1200.jpeg" link="L1260895x-1200.jpeg" >}}
 
 
-## Unaffected by Asuka Watanabe {#unaffected-by-asuka-watanabe}
+## Unaffected by Asuka Watanabe
 
 -   [Asuka Watanabe](/tags/asuka-watanabe) - vocal
 -   [Hideaki Yoshioka](/tags/hideaki-yoshioka) - piano
@@ -120,7 +120,7 @@ Released in 2004 on What’s New Records as WNCJ-2135.
 _Japanese names: 渡辺明日香 Watanabe Asuka 吉岡秀晃 Yoshioka Hideaki 山下弘治 Yamashita Koji 植松良高 Uematsu Yoshitaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Just a Gigolo” - track #1 from this album:](https://youtu.be/RwVjfRAau08)
 
@@ -144,4 +144,4 @@ _Japanese names: 渡辺明日香 Watanabe Asuka 吉岡秀晃 Yoshioka Hideaki �
 
 -   [Album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_kQNVi7rxVpybmTE7_7EKzwV5xgfm9LXO8)
 
--   Excerpt from track #3: [“Let's Do It”](/audio/#mix-15)
+-   [Excerpt from track #3: “Let's Do It”](/audio/#mix-15)

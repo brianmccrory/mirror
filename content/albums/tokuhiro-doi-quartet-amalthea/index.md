@@ -30,7 +30,7 @@ The woody tone of the clarinet makes the music organic and present, breathy and 
 {{< figure src="../images/tokuhiro-doi-quartet-amalthea/L1200336-1024.JPG" link="../images/tokuhiro-doi-quartet-amalthea/L1200336-1024.JPG" >}}
 
 
-## Amalthea by Tokuhiro Doi Quartet {#amalthea-by-tokuhiro-doi-quartet}
+## Amalthea by Tokuhiro Doi Quartet
 
 -   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -42,7 +42,7 @@ Released in 2011 on D-musica Daiki Music as DMCD-15.
 _Japanese names: 土井徳浩 Doi Tokuhiro 佐藤浩一 Sato Koichi 本川悠平 Honkawa Yuhei 紺野智之 Konno Tomoyuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Several audio excerpts serving as an introduction to the Tokuhiro Doi Quartet live:](https://youtu.be/TXqhDCsXkYM)
 
@@ -52,4 +52,4 @@ _Japanese names: 土井徳浩 Doi Tokuhiro 佐藤浩一 Sato Koichi 本川悠平
 
 {{< youtube 2nAD7YEQN-E >}}
 
--   Excerpt from track #1: [“Years”](/audio/#mix-4)
+-   [Excerpt from track #1: “Years”](/audio/#mix-4)

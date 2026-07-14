@@ -30,7 +30,7 @@ The full band sound is balanced with small duo and trio moments such as on the b
 {{< figure src="L1280168x-1200.jpeg" link="L1280168x-1200.jpeg" >}}
 
 
-## Stolen Moments by Layla Tomomi Sakai {#stolen-moments-by-layla-tomomi-sakai}
+## Stolen Moments by Layla Tomomi Sakai
 
 -   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
 -   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
@@ -45,7 +45,7 @@ Released in 2019 on Laydrunker Records as Layla-003.
 _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi 中路英明 Nakaji Hideaki リンヘイテツ Rin Heitetsu 古木佳祐 Furuki Keisuke 斉藤良 Saito Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “You’re My Everything”, track #2 on this album:](https://youtu.be/SeWXw2FrsaE)
 
@@ -59,4 +59,4 @@ _Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraok
 
 {{< youtube id=HmqV-9IIqdo start=2304 >}}
 
--   Excerpt from track #1: [“Stolen Moments”](/audio/#mix-13)
+-   [Excerpt from track #1: “Stolen Moments”](/audio/#mix-13)

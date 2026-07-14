@@ -28,7 +28,7 @@ Track #8 “Soshu Yakyoku” (“Suzhou Nocturne”, 素週夜曲, _[video 1](ht
 {{< figure src="L1310098x-1200.jpeg" link="L1310098x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -67,7 +67,7 @@ From an early age, Ema has appeared in musicals and dramas, learning the joy and
 {{< figure src="L1310130x-1200.jpeg" link="L1310130x-1200.jpeg" >}}
 
 
-## Longing by Yosuke Sato &amp; George Nakajima {#longing-by-yosuke-sato-and-george-nakajima}
+## Longing by Yosuke Sato &amp; George Nakajima
 
 -   [Yosuke Sato](/tags/yosuke-sato) - sax
 -   [George Nakajima](/tags/george-nakajima) - piano
@@ -78,7 +78,7 @@ Released in 2023 on Pochizou as POCH-2308.
 _Japanese names: 佐藤洋祐 Sato Yosuke 中嶋錠二 Nakajima George エマ Ema_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live duo performance of “The Dolphin”, track #2 on this album:](https://youtu.be/KUcareCD3Yc)
 
@@ -100,4 +100,4 @@ _Japanese names: 佐藤洋祐 Sato Yosuke 中嶋錠二 Nakajima George エマ Em
 
 {{< youtube vB3exIDNqeA >}}
 
--   Excerpt from track #4: [“Stablemates”](/audio/#mix-13)
+-   [Excerpt from track #4: “Stablemates”](/audio/#mix-13)

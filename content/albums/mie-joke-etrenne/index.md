@@ -30,7 +30,7 @@ The music is done right, with an honest, straight-ahead vision, swinging and sli
 {{< figure src="L1220343-1024.jpg" link="L1220343-1024.jpg" >}}
 
 
-## Etrenne by Mie Joké {#etrenne-by-mie-joké}
+## Etrenne by Mie Joké
 
 -   [Mie Joké](/tags/mie-joke) - vocal
 -   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto) - piano (tr. #1-5)
@@ -46,10 +46,10 @@ Released in 2018 on Ultra Art Record as UA-1001.
 _Japanese names: 情家みえ Joké Mie 山本剛 Yamamoto Tsuyoshi 香川裕史 Kagawa Hiroshi 大隅寿男 Osumi Toshio 後藤浩二 Goto Koji 楠井五月 Kusui Satsuki 山田玲 Yamada Akira 浜崎航 Hamasaki Wataru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/dYNBHkCeMtI)
 
 {{< youtube dYNBHkCeMtI >}}
 
--   Excerpt from track #1: [“Cheek To Cheek”](/audio/#mix-5)
+-   [Excerpt from track #1: “Cheek To Cheek”](/audio/#mix-5)

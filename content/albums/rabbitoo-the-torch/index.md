@@ -28,7 +28,7 @@ Listening to this album creates these sorts of impressions: _A visual prism broa
 {{< figure src="L1230325x-1024.jpeg" link="L1230325x-1024.jpeg" >}}
 
 
-## The Torch by Rabbitoo {#the-torch-by-rabbitoo}
+## The Torch by Rabbitoo
 
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, keyboards
 -   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, flute, synthesizer, electronics
@@ -41,10 +41,10 @@ Released in 2016 on Song X Jazz as SONGX-036.
 _Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from the album:](https://youtu.be/kWrQY5hyP2k)
 
 {{< youtube kWrQY5hyP2k >}}
 
--   Excerpt from track #2: [“火のこどもたち (_Children Of Fire_)”](/audio/#mix-9)
+-   [Excerpt from track #2: “火のこどもたち (_Children Of Fire_)”](/audio/#mix-9)

@@ -26,7 +26,7 @@ Emiko’s voice is front-and-center and spans the gamut from quick instrumentesq
 {{< figure src="L1180433-1024.jpg" link="L1180433-1024.jpg" >}}
 
 
-## Carta by Emiko Voice {#carta-by-emiko-voice}
+## Carta by Emiko Voice
 
 -   [Emiko Voice](/tags/emiko-voice) - vocal
 -   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
@@ -41,7 +41,7 @@ Released in 2017 on Zipangu Label as ZIP-0058.
 _Japanese names: エミコヴォイス Emiko Voice 佐藤浩一 Sato Koichi 太田朱美 Ohta Akemi 会田桃子 Aida Momoko 谷殿明良 Tanidono Akira 西嶋徹 Nishijima Toru 岡田ケイタ Okada Keita_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/6iWm_Y87KZY)
 
@@ -51,4 +51,4 @@ _Japanese names: エミコヴォイス Emiko Voice 佐藤浩一 Sato Koichi 太�
 
 {{< youtube dfAxkOVFotc >}}
 
--   Excerpt from track #1: [“The Days Of Wine And Roses”](/audio/#mix-1)
+-   [Excerpt from track #1: “The Days Of Wine And Roses”](/audio/#mix-1)

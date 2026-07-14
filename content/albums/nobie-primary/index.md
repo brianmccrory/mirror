@@ -52,7 +52,7 @@ Similarly, on _Primary_, Nobie sings in Japanese for five tracks, English for th
 {{< figure src="IMG_20231012_081956616x-1200.jpeg" link="IMG_20231012_081956616x-1200.jpeg" >}}
 
 
-## Primary by Nobie {#primary-by-nobie}
+## Primary by Nobie
 
 -   [Nobie](/tags/nobie) - vocals, handclaps, microKORG, shaker
 -   [Toninho Horta](/tags/toninho-horta) - vocals &amp; acoustic guitars (#1, 11)
@@ -70,7 +70,7 @@ Released in 2011 on Anturtle Tune as ANTX-0721.
 _Japanese names: ノビー Nobie 大口純一郎 Ohkuchi Junichiro 伊藤志宏 Ito Shikou 小森耕造 Komori Kohzo 吉田サトシ Yoshida Satoshi 小泉P克人 Koizumi Yoshihito “P” 太宰百合 Dazai Yuri 石川智 Ishikawa Satoshi 佐野聡 Sano Satoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Nobie performing #1 “Shinkansen” live with Toninho Horta:](https://youtu.be/Mwq4S8XGDn0)
 
@@ -84,4 +84,4 @@ _Japanese names: ノビー Nobie 大口純一郎 Ohkuchi Junichiro 伊藤志宏 
 
 {{< youtube BoSUkTmq9Yg >}}
 
--   Excerpt from track #4: [“Loop”](/audio/#mix-11)
+-   [Excerpt from track #4: “Loop”](/audio/#mix-11)

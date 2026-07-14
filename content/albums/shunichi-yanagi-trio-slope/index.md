@@ -28,7 +28,7 @@ Some tunes like the grunge of the opener “I Can’t Fly” and the sad ballad 
 {{< figure src="L1220800-2-1024.jpeg" link="L1220800-2-1024.jpeg" >}}
 
 
-## Slope by Shunichi Yanagi Trio {#slope-by-shunichi-yanagi-trio}
+## Slope by Shunichi Yanagi Trio
 
 -   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
 -   [Motoi Kanamori](/tags/motoi-kanamori) - bass
@@ -39,7 +39,7 @@ Released in 2015 on GoodNessPlus Records as GNPR-1148.
 _Japanese names: 柳隼一 Yanagi Shunichi 金森もとい Kanamori Motoi 服部正嗣 Hattori Masatsugu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Shunichi Yanagi Trio playing “Days and Nights Waiting”:](https://youtu.be/os_mGVA67vs)
 
@@ -49,4 +49,4 @@ _Japanese names: 柳隼一 Yanagi Shunichi 金森もとい Kanamori Motoi 服部
 
 {{< youtube 7GIJFom1jeo >}}
 
--   Excerpt from track #1: [“I can't fly”](/audio/#mix-8)
+-   [Excerpt from track #1: “I can't fly”](/audio/#mix-8)

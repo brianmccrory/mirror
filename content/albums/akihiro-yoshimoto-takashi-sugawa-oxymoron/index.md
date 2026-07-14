@@ -44,7 +44,7 @@ The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a t
 {{< figure src="L1260992x-1200.jpeg" link="L1260992x-1200.jpeg" >}}
 
 
-## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa {#oxymoron-by-akihiro-yoshimoto-and-takashi-sugawa}
+## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa
 
 -   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - soprano sax, clarinet
 -   [Takashi Sugawa](/tags/takashi-sugawa) - cello, contrabass
@@ -55,7 +55,7 @@ Released in 2017 on MOR Records as MOR-1002.
 _Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニラン・ダシカ Dasika Niran_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpts from a live performance of Oxymoron Duo in 2021 at Velvet Sun in Tokyo, Japan:](https://youtu.be/YgOkigkcWes)
 
@@ -63,4 +63,4 @@ _Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニ�
 
 -   [Album audio on Bandcamp](https://oxymoronduo.bandcamp.com/album/oxymoron)
 
--   Excerpt from track #4: [“Mokume #1”](/audio/#mix-11)
+-   [Excerpt from track #4: “Mokume #1”](/audio/#mix-11)

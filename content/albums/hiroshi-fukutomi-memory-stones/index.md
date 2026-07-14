@@ -32,7 +32,7 @@ The final two tracks close the album with friendly, down-to-earth elements to th
 {{< figure src="L1230477x-1024.jpeg" link="L1230477x-1024.jpeg" >}}
 
 
-## Memory Stones by Hiroshi Fukutomi {#memory-stones-by-hiroshi-fukutomi}
+## Memory Stones by Hiroshi Fukutomi
 
 -   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - electric guitar, acoustic guitar, harmonica
 -   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
@@ -44,7 +44,7 @@ Released in 2014 on MOF Records as MOF-101.
 _Japanese names: 福冨博 Fukutomi Hiroshi 佐藤浩一 Sato Koichi 安田幸司 Yasuda Koji 則武諒 Noritake Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/UbK1eHLSeCw)
 
@@ -58,4 +58,4 @@ _Japanese names: 福冨博 Fukutomi Hiroshi 佐藤浩一 Sato Koichi 安田幸�
 
 -   [Audio for “Mawaru Sekai”, track #9 on this album](https://soundcloud.com/hiroshi-fukutomi/mawaru-sekai-memory-stones-2014?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
--   Excerpt from track #2: [“Minor King”](/audio/#mix-10)
+-   [Excerpt from track #2: “Minor King”](/audio/#mix-10)

@@ -28,7 +28,7 @@ Despite being his first album, Hori is definitely in the zone on _Horizon_, comf
 {{< figure src="L1230305x-1024.jpeg" link="L1230305x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Hideaki Hori.)_
 
@@ -87,7 +87,7 @@ January 10, 2023, Hideaki Hori
 {{< figure src="L1240151-1024.jpeg" link="L1240151-1024.jpeg" >}}
 
 
-## Horizon by Hideaki Hori {#horizon-by-hideaki-hori}
+## Horizon by Hideaki Hori
 
 -   [Hideaki Hori](/tags/hideaki-hori) - piano
 -   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi) - bass
@@ -100,10 +100,10 @@ Released in 2003 on BQ Records as BQR-2022.
 _Japanese names: 堀秀彰 Hori Hideaki 岸徹至 Kishi Tetsuyuki 橋本学 Hashimoto Manabu 小松伸之 Komatsu Nobuyuki 河村英樹 Kawamura Hideki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live trio performance of “Stop &amp; Go” from 2011:](https://youtu.be/NElX1mESFzU)
 
 {{< youtube NElX1mESFzU >}}
 
--   Excerpt from track #7: [“Sliding Doors”](/audio/#mix-10)
+-   [Excerpt from track #7: “Sliding Doors”](/audio/#mix-10)

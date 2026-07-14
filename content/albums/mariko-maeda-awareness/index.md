@@ -58,7 +58,7 @@ Given such fresh music, instead of summarizing the album overall with a few desc
 {{< figure src="L1240178x-1024.jpeg" link="L1240178x-1024.jpeg" >}}
 
 
-## Awareness by Mariko Maeda {#awareness-by-mariko-maeda}
+## Awareness by Mariko Maeda
 
 -   [Mariko Maeda](/tags/mariko-maeda) - trombone
 -   [Kota Kaihori](/tags/kota-kaihori) - piano, trumpet on #4
@@ -70,10 +70,10 @@ Released in 2023 on DoLuck Jazz as DLC-28.
 _Japanese names: 前田真梨子 Maeda Mariko 海堀弘太 Kaihori Kota 寺尾陽介 Terao Yosuke 柵木雄斗 Maseki Yuto_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/lrBK-s0-n2c)
 
 {{< youtube lrBK-s0-n2c >}}
 
--   Excerpt from track #2: [“Frida”](/audio/#mix-8)
+-   [Excerpt from track #2: “Frida”](/audio/#mix-8)

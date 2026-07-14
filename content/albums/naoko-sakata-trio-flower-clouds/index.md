@@ -36,7 +36,7 @@ All tracks are strong and balance each other well, with some highlights includin
 {{< figure src="L1220674-1024.jpg" link="L1220674-1024.jpg" >}}
 
 
-## Flower Clouds by Naoko Sakata Trio {#flower-clouds-by-naoko-sakata-trio}
+## Flower Clouds by Naoko Sakata Trio
 
 -   [Naoko Sakata](/tags/naoko-sakata) - piano
 -   [Anton Blomgren](/tags/anton-blomgren) - bass
@@ -47,10 +47,10 @@ Released in 2013 on Atelier Sawano as AS-129.
 _Japanese names: 坂田尚子 Sakata Naoko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “If I Could See You”, the first track on this album:](https://youtu.be/n2qa8uz_ycE)
 
 {{< youtube n2qa8uz_ycE >}}
 
--   Excerpt from track #2: [“Mane”](/audio/#mix-7)
+-   [Excerpt from track #2: “Mane”](/audio/#mix-7)

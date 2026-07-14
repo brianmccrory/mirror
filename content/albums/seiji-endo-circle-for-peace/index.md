@@ -26,7 +26,7 @@ Through sincerity depicted on the album cover and title, the concept is peace an
 {{< figure src="L1180878-1024.jpg" link="L1180878-1024.jpg" >}}
 
 
-## Circle for Peace by Seiji Endo {#circle-for-peace-by-seiji-endo}
+## Circle for Peace by Seiji Endo
 
 -   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
 
@@ -35,10 +35,10 @@ Released in 2016 on Nippon Acoustic Records, Inc as NARP-8009.
 _Japanese names: 遠藤征志 Endo Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Seiji Endo performing “Bara No Sasayaki” (Whispers of a Rose):](https://youtu.be/ayIRWG2Kb08)
 
 {{< youtube ayIRWG2Kb08 >}}
 
--   Excerpt from track #1: [“Circle For Peace”](/audio/#mix-1)
+-   [Excerpt from track #1: “Circle For Peace”](/audio/#mix-1)

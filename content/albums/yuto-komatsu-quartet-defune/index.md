@@ -28,7 +28,7 @@ Rounding out the album are the smooth-grooved #2 “Urban Night View”, the mel
 {{< figure src="L1330268x-1200.jpeg" link="L1330268x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Yuto Komatsu’s original Japanese liner notes.)_
 
@@ -101,7 +101,7 @@ I had thought that bursts were things that happened in the world of F1. Then, on
 {{< figure src="L1350595x-1200.jpeg" link="L1350595x-1200.jpeg" >}}
 
 
-## Defune by Yuto Komatsu Quartet {#defune-by-yuto-komatsu-quartet}
+## Defune by Yuto Komatsu Quartet
 
 -   [Yuto Komatsu](/tags/yuto-komatsu) - trumpet, flugelhorn
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
@@ -113,7 +113,7 @@ Released in 2025 on YK Offshore as “02”.
 _Japanese names: 小松悠人 Komatsu Yuto 永武幹子 Nagatake Mikiko 伊地知大輔 Ijichi Daisuke 力武誠 Rikitake Makoto_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for _Defune_:](https://youtu.be/HS8D_qbIE2g)
 
@@ -123,4 +123,4 @@ _Japanese names: 小松悠人 Komatsu Yuto 永武幹子 Nagatake Mikiko 伊地�
 
 {{< youtube 2hqbCHP1XCI >}}
 
--   Excerpt from track #1: [“Rising Sun”](/audio/#mix-15)
+-   [Excerpt from track #1: “Rising Sun”](/audio/#mix-15)

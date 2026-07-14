@@ -38,7 +38,7 @@ This album received the 1993 Japan Jazz Disc Award.
 {{< figure src="L1220719-1024.jpg" link="L1220719-1024.jpg" >}}
 
 
-## Major to Minor by Kohsuke Mine Quintet {#major-to-minor-by-kohsuke-mine-quintet}
+## Major to Minor by Kohsuke Mine Quintet
 
 -   [Kosuke Mine](/tags/kosuke-mine) - tenor saxophone
 -   [Kazumasa Akiyama](/tags/kazumasa-akiyama) - guitar
@@ -51,7 +51,7 @@ Released in 1993 on Verve Records as POCJ-1195.
 _Japanese names: 峰厚介 Mine Kosuke 秋山一将 Akiyama Kazumasa 大口純一郎 Ohkuchi Junichiro 岡田勉 Okada Tsutomu 古澤良治郎 Furusawa Ryojiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Kohsuke Mine performing “Blue Plum” live:](https://youtu.be/3wQtfncwoSg)
 
@@ -61,4 +61,4 @@ _Japanese names: 峰厚介 Mine Kosuke 秋山一将 Akiyama Kazumasa 大口純�
 
 {{< youtube mcOFpNauLDs >}}
 
--   Excerpt from track #1: [“Major to Minor”](/audio/#mix-7)
+-   [Excerpt from track #1: “Major to Minor”](/audio/#mix-7)

@@ -30,7 +30,7 @@ Other album highlights include music from the Italian classic _Cinema Paradiso_ 
 {{< figure src="L1220550-1024.jpg" link="L1220550-1024.jpg" >}}
 
 
-## Bass on Cinema by Shinichi Kato {#bass-on-cinema-by-shinichi-kato}
+## Bass on Cinema by Shinichi Kato
 
 -   [Shinichi Kato](/tags/shinichi-kato) - bass
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano, synthesizers, arrangements
@@ -40,10 +40,10 @@ Released in 2011 on Roving Spirits as RKCJ-2048.
 _Japanese names: 加藤真一 Kato Shinichi 浅川太平 Asakawa Taihei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Shinichi Kato and Taihei Asakawa performing live in 2008:](https://youtu.be/WyW0YU5h3Rw)
 
 {{< youtube WyW0YU5h3Rw >}}
 
--   Excerpt from track #1: [“Cavatina”](/audio/#mix-5)
+-   [Excerpt from track #1: “Cavatina”](/audio/#mix-5)

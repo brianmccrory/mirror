@@ -32,7 +32,7 @@ _The Gift II_ abounds in swing and grace with jazz standards including “A Fogg
 {{< figure src="L1230282-1024.jpeg" link="L1230282-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Rie Taguchi.)_
 
@@ -53,7 +53,7 @@ _Rie Taguchi_
 {{< figure src="L1240170x-1024.jpeg" link="L1240170x-1024.jpeg" >}}
 
 
-## The Gift II by Rie Taguchi {#the-gift-ii-by-rie-taguchi}
+## The Gift II by Rie Taguchi
 
 -   [Rie Taguchi](/tags/rie-taguchi) - vocal
 -   [Seiji Endo](/tags/seiji-endo) - piano, arrangments
@@ -68,10 +68,10 @@ Released in 2021 on Studio TLive Records as STLR-021.
 _Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 Tada Seiji 里見紀子 Satomi Noriko 田辺充邦 Tanabe Mitsukuni 仲石裕介 Nakaishi Yusuke 山田玲 Yamada Akira_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/OchRJuddkX0)
 
 {{< youtube OchRJuddkX0 >}}
 
--   Excerpt from track #1: [“A Foggy Day”](/audio/#mix-8)
+-   [Excerpt from track #1: “A Foggy Day”](/audio/#mix-8)

@@ -34,7 +34,7 @@ The final song, a solo piano rendition of “Moon Dance” (also played with the
 {{< figure src="L1240182x-1024.jpeg" link="L1240182x-1024.jpeg" >}}
 
 
-## Inner Views by Yuka Yanagihara Trio {#inner-views-by-yuka-yanagihara-trio}
+## Inner Views by Yuka Yanagihara Trio
 
 -   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
 -   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
@@ -45,7 +45,7 @@ Released in 2019 on Tomtom Cherry Music as TCM-2002.
 _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/Kme5xfjbtOc)
 
@@ -55,4 +55,4 @@ _Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武
 
 {{< youtube ApPERBU1nKo >}}
 
--   Excerpt from track #8: [“After Tours”](/audio/#mix-10)
+-   [Excerpt from track #8: “After Tours”](/audio/#mix-10)

@@ -32,7 +32,7 @@ Beyond the standard jazz repertoire, the seven-member group spreads its wings fu
 {{< figure src="L1240566x-1200.jpeg" link="L1240566x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Motoi Kanamori’s original Japanese liner notes.)_
 
@@ -93,7 +93,7 @@ The words “sea” and “ocean” both have the same meaning in Japanese as th
 It goes without saying that this is a famous song loved not only by jazz fans but by many people throughout the world. We performed this song as an encore for the live concert. I could only think of this song in light of the current situation, not only regarding the coronavirus, but with war, discrimination, and world instability in our modern times. As one who can only express themselves through music, I played this song with hope for a peaceful and beautiful world from now on. I think that the sound and minds of the group came together as one to deliver the best performance. Please enjoy it.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 A combination of daringly dashing piano trio and magnificently sweet strings.
 
@@ -102,7 +102,7 @@ A stunning 2-disc album that captures the stirring concert recorded live in high
 {{< figure src="IMG_20240409_111606162_HDRx-1200.jpeg" link="IMG_20240409_111606162_HDRx-1200.jpeg" >}}
 
 
-## The Live by Motoi Kanamori {#the-live-by-motoi-kanamori}
+## The Live by Motoi Kanamori
 
 -   [Motoi Kanamori](/tags/motoi-kanamori) - bass
 -   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
@@ -117,7 +117,7 @@ Released in 2023 on Laplace Records as LPDCD113-114.
 _Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山田玲 Yamada Akira 桜井大士 Sakurai Taishi 長谷川智恵 Hasegawa Chie 小澤恵 Ozawa Megumi 橋本專史 Hashimoto Atsushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Motoi Kanamori Trio playing “Lady Luck” live in 2021:](https://youtu.be/g54C0qonVLg)
 
@@ -131,4 +131,4 @@ _Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山
 
 {{< youtube qi9gfZEATMs >}}
 
--   Excerpt from track #1: [“Autumn Leaves”](/audio/#mix-12)
+-   [Excerpt from track #1: “Autumn Leaves”](/audio/#mix-12)

@@ -28,7 +28,7 @@ In addition to the jazz tunes, other genres perfectly suited to Baby Brothers in
 {{< figure src="L1200610-1024.jpg" link="L1200610-1024.jpg" >}}
 
 
-## Bb by Baby Brothers {#bb-by-baby-brothers}
+## Bb by Baby Brothers
 
 -   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
 -   [Monet](/tags/monet) - lead vocal, 2nd chorus
@@ -41,7 +41,7 @@ Released in 2007 on Bb Records as Bb.
 _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Baby Brothers singing “My Favorite Things” live:](https://youtu.be/pq0-EKoVgLQ)
 
@@ -51,4 +51,4 @@ _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyo
 
 {{< youtube ta31Crs7Q-Q >}}
 
--   Excerpt from track #1: [“Over The Rainbow”](/audio/#mix-6)
+-   [Excerpt from track #1: “Over The Rainbow”](/audio/#mix-6)

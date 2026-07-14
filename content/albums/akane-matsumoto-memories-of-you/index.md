@@ -32,7 +32,7 @@ The final two tracks feature the pianist in a more mellow mood, with a tribute t
 {{< figure src="L1210164-1024.jpg" link="L1210164-1024.jpg" >}}
 
 
-## Memories of You by Akane Matsumoto {#memories-of-you-by-akane-matsumoto}
+## Memories of You by Akane Matsumoto
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 -   [Peter Washington](/tags/peter-washington) - bass
@@ -43,10 +43,10 @@ Released in 2015 on Concept Records as CR-03.
 _Japanese names: 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/g9eNuWnekmg)
 
 {{< youtube g9eNuWnekmg >}}
 
--   Excerpt from track #1: [“Memories of You”](/audio/#mix-7)
+-   [Excerpt from track #1: “Memories of You”](/audio/#mix-7)

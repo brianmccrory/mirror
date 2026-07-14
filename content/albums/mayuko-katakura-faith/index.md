@@ -26,7 +26,7 @@ This straight-ahead jazz trio is marked by warmth between the musicians, who agr
 {{< figure src="../images/mayuko-katakura-faith/L1180723-1024.JPG" link="../images/mayuko-katakura-faith/L1180723-1024.JPG" >}}
 
 
-## Faith by Mayuko Katakura {#faith-by-mayuko-katakura}
+## Faith by Mayuko Katakura
 
 -   [Mayuko Katakura](/tags/mayuko-katakura) - piano
 -   [Rodney Whitaker](/tags/rodney-whitaker) - bass
@@ -37,10 +37,10 @@ Released in 2010 on Pony Canyon as MYCJ-30578.
 _Japanese names: 片倉真由子 Katakura Mayuko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “A Dancer’s Melancholy” from this album:](https://youtu.be/fZN7_53Irfk)
 
 {{< youtube fZN7_53Irfk >}}
 
--   Excerpt from track #1: [“ミセス・パーカー・オブ ＫＣ (_Mrs. Parker of KC_)”](/audio/#mix-1)
+-   [Excerpt from track #1: “ミセス・パーカー・オブ ＫＣ (_Mrs. Parker of KC_)”](/audio/#mix-1)

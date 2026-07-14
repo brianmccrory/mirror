@@ -30,7 +30,7 @@ Nakajima’s skillful piano provides the cool rhythmic and harmonic underpinning
 {{< figure src="L1120090-1024.jpg" link="L1120090-1024.jpg" >}}
 
 
-## N.40° by Shinpei Ruike &amp; George Nakajima {#n-dot-40-by-shinpei-ruike-and-george-nakajima}
+## N.40° by Shinpei Ruike &amp; George Nakajima
 
 -   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
 -   [George Nakajima](/tags/george-nakajima) - piano
@@ -40,10 +40,10 @@ Released in 2014 on Apollo Sounds as APLS-1403.
 _Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/pYi27kjmEMc)
 
 {{< youtube pYi27kjmEMc >}}
 
--   Excerpt from track #1: [“Nearness of you”](/audio/#mix-4)
+-   [Excerpt from track #1: “Nearness of you”](/audio/#mix-4)

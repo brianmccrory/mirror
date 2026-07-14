@@ -42,7 +42,7 @@ Her early releases include _Silver Painting_ (Pony Canyon, 2016), the Jazz Lady 
 Further album releases continued and led to this release, _Boa Viagem_ (Feliz Records, 2020) with her Brazilian band Banda Feliz. Ever active, she stays busy with an abundance of live performances, composing, and releasing new albums both with her groups and other musicians.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -95,14 +95,14 @@ This is an homage to the maestro César Camargo Mariano, the famous Brazilian pi
 Makiyo Sakai is this band’s founder. In addition to acting as manager for the band, she plays the flute spectacularly. I wrote this song for her, and it just seems to call out for lyrics and singing along. (Obata)
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 The long-awaited first album from “Banda Feliz”, a unit formed of top musicians playing music from the world of Brazilian music! A collection of original gems played with lively rhythms and beautiful harmonies.
 
 {{< figure src="L1240167x-1200.jpeg" link="L1240167x-1200.jpeg" >}}
 
 
-## Boa Viagem by Banda Feliz {#boa-viagem-by-banda-feliz}
+## Boa Viagem by Banda Feliz
 
 -   [Makiyo Sakai](/tags/makiyo-sakai) - flute
 -   [Masaaki Ikeda](/tags/masaaki-ikeda) - trombone
@@ -116,10 +116,10 @@ Released in 2020 on Feliz Record as FLZ-0001.
 _Japanese names: 酒井麻生代 Sakai Makiyo 池田雅明 Ikeda Masaaki 小畑和彦 Obata Kazuhiko 加藤実 Kato Minoru コモブチキイチロウ Komobuchi Kiichiro 石川智 Ishikawa Satoshi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/87z-l_MKNw8)
 
 {{< youtube 87z-l_MKNw8 >}}
 
--   Excerpt from track #3: [“Neste Pais”](/audio/#mix-11)
+-   [Excerpt from track #3: “Neste Pais”](/audio/#mix-11)

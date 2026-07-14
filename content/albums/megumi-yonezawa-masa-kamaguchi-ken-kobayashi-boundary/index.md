@@ -44,7 +44,7 @@ The second half of the album continues developing the trio’s improvised ideas 
 Finally, #10 “Nostalgio” brings the volume and temperature down as notes drop, disperse, and uncover a peaceful ballad in the ripples. That is, the unlisted standard “I Loves You, Porgy” fills the second half of this final track. This tender standard emerges to complete the album with an unfiltered return to standard form for a beautiful dénouement, transporting us back across the boundary, slowly and safely home.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Reproduced from the album liner notes written by Matthew Shipp)_
 
@@ -57,7 +57,7 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 {{< figure src="IMG_20240527_092056342-1200.jpeg" link="IMG_20240527_092056342-1200.jpeg" >}}
 
 
-## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi {#boundary-by-megumi-yonezawa-masa-kamaguchi-ken-kobayashi}
+## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi
 
 -   [Megumi Yonezawa](/tags/megumi-yonezawa) - piano
 -   [Masa Kamaguchi](/tags/masa-kamaguchi) - bass
@@ -68,7 +68,7 @@ Released in 2018 on ESP-Disk’ as ESP-5023.
 _Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi Masa 小林健 Kobayashi Ken_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Album stream (Bandcamp)](https://yonezawakamaguchikobayashi.bandcamp.com/album/boundary)
 
@@ -76,10 +76,10 @@ _Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi
 
 {{< youtube EK_m681ZWa0 >}}
 
--   Excerpt from track #10: [“Nostalgio”](/audio/#mix-12)
+-   [Excerpt from track #10: “Nostalgio”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [Album introduction by NY label ESP-Disk’](http://www.espdisk.com/5023.html)
 

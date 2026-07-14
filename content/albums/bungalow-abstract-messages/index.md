@@ -32,7 +32,7 @@ The next set of five tracks contains songs averaging six minutes each, several o
 Absorbing and hypnotic, this final album from Bungalow (or “Post Bungalow”, as named in one of their final videos) is a worthy end statement, weighty with experimental and melodic emotional output, radial waves tying up the frayed edges of modern obstacles and challenges into a new, beautiful mosaic.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Yo Nakagawa.)_
 
@@ -91,7 +91,7 @@ _中川ヨウ_ Yo Nakagawa /
 {{< figure src="L1240185x-1024.jpeg" link="L1240185x-1024.jpeg" >}}
 
 
-## Abstract Messages by Bungalow {#abstract-messages-by-bungalow}
+## Abstract Messages by Bungalow
 
 -   [Mike Rivett](/tags/mike-rivett) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
 -   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes, Wurlitzer, Minimoog
@@ -104,7 +104,7 @@ Released in 2020 on Studio Songs as YZSO-10109.
 _Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Entropy In Flux”, track #1 on this album:](https://youtu.be/461304UqSjY)
 
@@ -114,4 +114,4 @@ _Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
 
 {{< youtube cmhz9V9di5I >}}
 
--   Excerpt from track #8: [“Fifteen Years”](/audio/#mix-9)
+-   [Excerpt from track #8: “Fifteen Years”](/audio/#mix-9)

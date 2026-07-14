@@ -26,7 +26,7 @@ In addition to speed, Katakura’s confident jazz piano sense extends to bluesy 
 {{< figure src="L1180985-1024.jpg" link="L1180985-1024.jpg" >}}
 
 
-## Inspiration by Mayuko Katakura {#inspiration-by-mayuko-katakura}
+## Inspiration by Mayuko Katakura
 
 -   [Mayuko Katakura](/tags/mayuko-katakura) - piano
 -   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
@@ -37,7 +37,7 @@ Released in 2009 on Pony Canyon as MYCJ-30554.
 _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for the first track, “Blues for Tyner”:](https://youtu.be/-wUwJnLzUtk)
 
@@ -47,4 +47,4 @@ _Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 {{< youtube O3V34fItd8Y >}}
 
--   Excerpt from track #1: [“ブルース・フォー・タイナー (_Blues For Tyner_)”](/audio/#mix-2)
+-   [Excerpt from track #1: “ブルース・フォー・タイナー (_Blues For Tyner_)”](/audio/#mix-2)

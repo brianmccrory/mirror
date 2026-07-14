@@ -19,7 +19,7 @@ _Niwatazumi_ is a wonderful modern jazz record from drummer Kazumi Ikenaga and P
 {{< figure src="L1180426x-1024.jpeg" link="L1180426x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liners notes written by Kazumi Ikenaga.)_
 
@@ -68,7 +68,7 @@ This is composed of a simple melodic refrain that evokes a philosophical feeling
 {{< figure src="IMG_20231009_074319847_HDRx-1024.jpeg" link="IMG_20231009_074319847_HDRx-1024.jpeg" >}}
 
 
-## Niwatazumi by Kazumi Ikenaga {#niwatazumi-by-kazumi-ikenaga}
+## Niwatazumi by Kazumi Ikenaga
 
 -   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
 -   [Christian Vuust](/tags/christian-vuust) - tenor saxophone and clarinet
@@ -81,10 +81,10 @@ Released in 2017 on Cloud as DDCJ-4019.
 _Japanese names: 池長和美 Ikenaga Kazumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The title track “Niwatazumi”:](https://youtu.be/OvMzoUtS5NI)
 
 {{< youtube OvMzoUtS5NI >}}
 
--   Excerpt from track #2: [“トゥーサム (_Twosome_)”](/audio/#mix-1)
+-   [Excerpt from track #2: “トゥーサム (_Twosome_)”](/audio/#mix-1)

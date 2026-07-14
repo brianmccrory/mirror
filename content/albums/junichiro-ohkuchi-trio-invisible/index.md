@@ -27,7 +27,7 @@ The pianist Ohkuchi contributes three original songs (the opener is a highlight)
 {{< figure src="IMG_20231009_083254235x-1024.jpeg" link="IMG_20231009_083254235x-1024.jpeg" >}}
 
 
-## Invisible by Junichiro Ohkuchi Trio {#invisible-by-junichiro-ohkuchi-trio}
+## Invisible by Junichiro Ohkuchi Trio
 
 -   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
 -   [Yasushi Yoneki](/tags/yasushi-yoneki) - bass
@@ -38,7 +38,7 @@ Released in 2016 on Big Mouth Records as Invisible.
 _Japanese names: 大口純一郎 Ohkuchi Junichiro 米木康志 Yoneki Yasushi 本田珠也 Honda Tamaya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live video of the Junichiro Ohkuchi trio in 2021:](https://youtu.be/P0qRWH6fJ2Y)
 
@@ -48,4 +48,4 @@ _Japanese names: 大口純一郎 Ohkuchi Junichiro 米木康志 Yoneki Yasushi �
 
 {{< youtube yfDZiKgt6Jg >}}
 
--   Excerpt from track #1: [“Sopa de Ajo”](/audio/#mix-1)
+-   [Excerpt from track #1: “Sopa de Ajo”](/audio/#mix-1)

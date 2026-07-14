@@ -34,7 +34,7 @@ Beginning with an interlude on track ten, “Impro ~Invitation to My Songs~”, 
 {{< figure src="L1230368x-1024.jpeg" link="L1230368x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Mikiko Nagatake.)_
 
@@ -53,7 +53,7 @@ This album was recorded on solo piano in a one-room studio, and I’m extremely 
 {{< figure src="L1230367x-1024.jpeg" link="L1230367x-1024.jpeg" >}}
 
 
-## Solo by Mikiko Nagatake {#solo-by-mikiko-nagatake}
+## Solo by Mikiko Nagatake
 
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
 
@@ -62,10 +62,10 @@ Released in 2022 on Owl Wing Record as OWR-044.
 _Japanese names: 永武幹子 Nagatake Mikiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “My Shining Hour”, the first track on this album:](https://youtu.be/Ton4bJxQ1HE)
 
 {{< youtube Ton4bJxQ1HE >}}
 
--   Excerpt from track #6: [“Green Chimneys”](/audio/#mix-9)
+-   [Excerpt from track #6: “Green Chimneys”](/audio/#mix-9)

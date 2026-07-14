@@ -28,7 +28,7 @@ The final track, “One Blues”, ends the album cheerily with evocatively muted
 {{< figure src="L1230429x-1024.jpeg" link="L1230429x-1024.jpeg" >}}
 
 
-## Live at Knuttel House by Tetsuji Yoshida &amp; Mikiko Nagatake Duo {#live-at-knuttel-house-by-tetsuji-yoshida-and-mikiko-nagatake-duo}
+## Live at Knuttel House by Tetsuji Yoshida &amp; Mikiko Nagatake Duo
 
 -   [Tetsuji Yoshida](/tags/tetsuji-yoshida) - trumpet
 -   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
@@ -38,10 +38,10 @@ Released in 2021 on Yoshidamusic as NYAN-382.
 _Japanese names: 吉田哲治 Yoshida Tetsuji 永武幹子 Nagatake Mikiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Kototoi-dori”, track #1 on this album:](https://youtu.be/LeYr3lFZORo)
 
 {{< youtube LeYr3lFZORo >}}
 
--   Excerpt from track #3: [“祈り (_Prayer_)”](/audio/#mix-9)
+-   [Excerpt from track #3: “祈り (_Prayer_)”](/audio/#mix-9)

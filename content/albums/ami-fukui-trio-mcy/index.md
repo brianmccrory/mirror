@@ -46,7 +46,7 @@ The last full song on the album, #7 “Mohito”, is a great update of a popular
 The afterword, #8 “Baikin Concert” (a spontaneous and curious ode to _Baikinman_, a mischievous germ-based antagonist in the comic _Anpanman_), is a short, friendly postscript featuring her young nephew and his cute original song, only seconds long, but ending the album appropriately with a cute /owari/—“that’s it, all done!”
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Ami Fukui’s original Japanese liner notes.)_
 
@@ -121,7 +121,7 @@ I also would love to thank all the people who were involved and who lent us thei
 {{< figure src="IMG_20240607_083118626_HDRx-1200.jpeg" link="IMG_20240607_083118626_HDRx-1200.jpeg" >}}
 
 
-## MCY by Ami Fukui Trio {#mcy-by-ami-fukui-trio}
+## MCY by Ami Fukui Trio
 
 -   [Ami Fukui](/tags/ami-fukui) - piano
 -   [Keigo Iwami](/tags/keigo-iwami) - bass
@@ -133,7 +133,7 @@ Released in 2023 on MAM Records as MR-002.
 _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of #7 “Mohito” from 2021:](https://youtu.be/38RLeLwNw40)
 
@@ -147,4 +147,4 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 
 {{< youtube F-_vMyf9e_0 >}}
 
--   Excerpt from track #1: [“Voltex”](/audio/#mix-12)
+-   [Excerpt from track #1: “Voltex”](/audio/#mix-12)

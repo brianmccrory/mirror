@@ -32,7 +32,7 @@ Her selection of the four cover songs also demonstrates her consideration for ba
 {{< figure src="L1230290x-1200.jpeg" link="L1230290x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from an excerpt of jazz writer Fumiaki Fujimoto’s section of the original Japanese liner notes.)_
 
@@ -85,7 +85,7 @@ This is a ballad I wrote for all those who have supported me up to now and who h
 During college, I studied bebop and nothing else. At first, I didn’t quite get it, but now I’ve fallen in love with it. I picked this tune to pay tribute to those beboppers. The thumping, weighty intro is also in my style of sincere respect for what’s sometimes referred to by some as “Black Jazz”. I was feeling a little Oscar Peterson in the middle with the second riff played in unison.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 _Playing with the piano, toying with the notes, living in jazz._
 
@@ -98,7 +98,7 @@ _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu 
 {{< figure src="L1240155x-1200.jpeg" link="L1240155x-1200.jpeg" >}}
 
 
-## Toys by Sumire Kuribayashi Trio {#toys-by-sumire-kuribayashi-trio}
+## Toys by Sumire Kuribayashi Trio
 
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
 -   [Shinichi Kato](/tags/shinichi-kato) - bass
@@ -109,7 +109,7 @@ Released in 2014 on Somethin’ Cool as SCOL-1003.
 _Japanese names: 栗林すみれ Kuribayashi Sumire 加藤真一 Kato Shinichi 清水勇博 Shimizu Takehiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video excerpt from #1 “Forest and an Elf”:](https://youtu.be/j_A6v_0_res)
 
@@ -137,4 +137,4 @@ _Japanese names: 栗林すみれ Kuribayashi Sumire 加藤真一 Kato Shinichi �
 
 -   [Label page with audio samples](https://www.somethincooljazz.com/scol-1003)
 
--   Excerpt from track #3: [“グランド・ライン (_Grand Line_)”](/audio/#mix-11)
+-   [Excerpt from track #3: “グランド・ライン (_Grand Line_)”](/audio/#mix-11)

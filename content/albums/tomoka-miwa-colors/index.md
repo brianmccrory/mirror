@@ -22,7 +22,7 @@ The instrumental musicians get plenty of space for stretching out, with pianist 
 {{< figure src="L1190099x-1024.jpeg" link="L1190099x-1024.jpeg" >}}
 
 
-## Colors in Silence by Tomoka Miwa {#colors-in-silence-by-tomoka-miwa}
+## Colors in Silence by Tomoka Miwa
 
 -   [Tomoka Miwa](/tags/tomoka-miwa) - vocal
 -   [Yuichi Narita](/tags/yuichi-narita) - piano, keyboards
@@ -34,10 +34,10 @@ Released in 2015 on Tomoka Miwa as MUW-002.
 _Japanese names: 三輪知可 Miwa Tomoka 成田祐一 Narita Yuichi トオイダイスケ Toi Daisuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for a 2017 album from Tomoka Miwa:](https://youtu.be/ln7bWmGAxe8)
 
 {{< youtube ln7bWmGAxe8 >}}
 
--   Excerpt from track #2: [“Love dance”](/audio/#mix-2)
+-   [Excerpt from track #2: “Love dance”](/audio/#mix-2)

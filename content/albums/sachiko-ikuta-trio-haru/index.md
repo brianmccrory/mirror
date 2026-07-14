@@ -26,7 +26,7 @@ The album’s nine songs feature classic jazz standards, songs by Bills Evans an
 {{< figure src="L1180790-1024.jpg" link="L1180790-1024.jpg" >}}
 
 
-## Haru No Kaze by Sachiko Ikuta Trio {#haru-no-kaze-by-sachiko-ikuta-trio}
+## Haru No Kaze by Sachiko Ikuta Trio
 
 -   [Sachiko Ikuta](/tags/sachiko-ikuta) - piano
 -   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
@@ -38,10 +38,10 @@ Released in 2012 on Studio TLive Records as XQHG-1007.
 _Japanese names: 生田さち子 Ikuta Sachiko 金澤英明 Kanazawa Hideaki 石若駿 Ishiwaka Shun 日野皓正 Hino Terumasa_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Sachiko Ikuta Trio performing “Haru no Kaze”:](https://youtu.be/pIkMEHuNDDs)
 
 {{< youtube pIkMEHuNDDs >}}
 
--   Excerpt from track #1: [“春の風 (_Spring Breeze_)”](/audio/#mix-2)
+-   [Excerpt from track #1: “春の風 (_Spring Breeze_)”](/audio/#mix-2)

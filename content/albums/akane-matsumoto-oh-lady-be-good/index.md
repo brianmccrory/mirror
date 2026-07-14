@@ -36,7 +36,7 @@ As for the meaning of #4 “Pleiades”, the word refers to the Messier 45 star 
 {{< figure src="L1250705x-1200.jpeg" link="L1250705x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Akane Matsumoto’s original Japanese liner notes.)_
 
@@ -75,7 +75,7 @@ Bid adieu to a world of hardship and sorrow, and return home to a place where lo
 The scene is a park in London as night is being welcomed in. This is a love song that reminisces romantically about the meeting and parting of a couple. The story is illuminated through the beautiful voice of the nightingale’s song, as if the bird is watching over them. This is a masterpiece by the American composer Manning Sherwin and is beloved by many vocalists including Frank Sinatra, Anita O’Day, Nat King Cole, and Carmen McRae. It was included in the 1940 musical _New Faces_, a type of musical revue that centered on the enjoyment of song and dance rather than focusing on a clear storyline. The beautiful introductory section of this song is another of its charms. (_Akane Matsumoto_)
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Akane Matsumoto at the pinnacle of her evolution as a pianist and as a widely in-demand accompanist and backing musician.
 
@@ -86,7 +86,7 @@ Filled with the fun, the beauty, and the charm of the piano trio!!
 {{< figure src="L1250713x-1200.jpeg" link="L1250713x-1200.jpeg" >}}
 
 
-## Oh, Lady Be Good by Akane Matsumoto {#oh-lady-be-good-by-akane-matsumoto}
+## Oh, Lady Be Good by Akane Matsumoto
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 -   [Ryu Kawamura](/tags/ryu-kawamura) - bass
@@ -97,7 +97,7 @@ Released in 2019 on Concept Records as CR-12.
 _Japanese names: 松本茜 Matsumoto Akane 川村竜 Kawamura Ryu 広瀬潤次 Hirose Junji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from the first four tracks and a video of the recording of “Bye Bye Blackbird”:](https://youtu.be/hUnoKHwvRIA)
 
@@ -115,4 +115,4 @@ _Japanese names: 松本茜 Matsumoto Akane 川村竜 Kawamura Ryu 広瀬潤次 H
 
 {{< youtube NtKXfGDoI40 >}}
 
--   Excerpt from track #1: [“Oh,Lady Be Good”](/audio/#mix-12)
+-   [Excerpt from track #1: “Oh,Lady Be Good”](/audio/#mix-12)

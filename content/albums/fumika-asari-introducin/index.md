@@ -28,7 +28,7 @@ Other highlights include a comfortably swinging jazz quartet on “Bluesette”,
 {{< figure src="L1230277x-1024.jpeg" link="L1230277x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Hiro Yamanaka.)_
 
@@ -61,7 +61,7 @@ _Jazz journalist Hiro Yamanaka 山中弘行_
 {{< figure src="L1240149x-1024.jpeg" link="L1240149x-1024.jpeg" >}}
 
 
-## Introducin’ by Fumika Asari {#introducin-by-fumika-asari}
+## Introducin’ by Fumika Asari
 
 -   [Fumika Asari](/tags/fumika-asari) - guitar
 -   [Sadanori Nakamure](/tags/sadanori-nakamure) - guitar (#3)
@@ -79,7 +79,7 @@ Released in 2020 on ReBorn Wood as RBW-0018.
 _Japanese names: 浅利史花 Asari Fumika 中牟礼貞則 Nakamure Sadanori 小杉敏 Kosugi Satoshi 三嶋大輝 Mishima Daiki 石田衛 Ishida Mamoru 北島佳乃子 Kitajima Kanoko 木村紘 Kimura Hiro 柳沼佑育 Yaginuma Yusuke 江澤茜 Ezawa Akane 駒野逸美 Komano Itsumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Fumika Asari playing track #4 “Bluesette” with ceramic art by Mika Noguchi:](https://youtu.be/UsOBL4I0GSA)
 
@@ -89,4 +89,4 @@ _Japanese names: 浅利史花 Asari Fumika 中牟礼貞則 Nakamure Sadanori 小
 
 {{< youtube mxHgcDx51CE >}}
 
--   Excerpt from track #1: [“Triste”](/audio/#mix-9)
+-   [Excerpt from track #1: “Triste”](/audio/#mix-9)

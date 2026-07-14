@@ -30,7 +30,7 @@ Standard jazz is delivered through covers with a swing beat such as “I’ve Ne
 {{< figure src="L1220356-1024.jpg" link="L1220356-1024.jpg" >}}
 
 
-## Solo by Maiko {#solo-by-maiko}
+## Solo by Maiko
 
 -   [maiko](/tags/maiko) - violin
 
@@ -39,10 +39,10 @@ Released in 2018 on T-Toc Records as TTOC-0029.
 _Japanese names: マイコ maiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/VIXWYIHwUnE)
 
 {{< youtube VIXWYIHwUnE >}}
 
--   Excerpt from track #9: [“Improvisation”](/audio/#mix-6)
+-   [Excerpt from track #9: “Improvisation”](/audio/#mix-6)

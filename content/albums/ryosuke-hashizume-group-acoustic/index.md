@@ -32,7 +32,7 @@ Among the slower songs, the mid-tempo songs are latched to frames in motion thro
 {{< figure src="L1120134-1024.jpeg" link="L1120134-1024.jpeg" >}}
 
 
-## Acoustic Fluid by Ryosuke Hashizume Group {#acoustic-fluid-by-ryosuke-hashizume-group}
+## Acoustic Fluid by Ryosuke Hashizume Group
 
 -   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, effects
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
@@ -45,7 +45,7 @@ Released in 2012 on Tactile Sounds Records as TS-001.
 _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 佐藤浩一 Sato Koichi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “Last Moon Nearly Full”, track #2 on this album:](https://youtu.be/l8hat57hZYE)
 
@@ -55,4 +55,4 @@ _Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 織
 
 {{< youtube 0ikWlV2HT_c >}}
 
--   Excerpt from track #3: [“Conversations with Moore”](/audio/#mix-9)
+-   [Excerpt from track #3: “Conversations with Moore”](/audio/#mix-9)

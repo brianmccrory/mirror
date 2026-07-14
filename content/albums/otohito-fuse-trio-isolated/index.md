@@ -44,7 +44,7 @@ It’s impressive that such young players are already producing a mature, respec
 {{< figure src="L1240971x-1200.jpeg" link="L1240971x-1200.jpeg" >}}
 
 
-## Isolated by Otohito Fuse Trio {#isolated-by-otohito-fuse-trio}
+## Isolated by Otohito Fuse Trio
 
 -   [Otohito Fuse](/tags/otohito-fuse) - piano
 -   [Riku Takahashi](/tags/riku-takahashi) - bass
@@ -55,7 +55,7 @@ Released in 2024 on Otohito Fuse Music as OFM-001.
 _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗 Nakamura Kaito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/8ZlOttnD7BU)
 
@@ -69,4 +69,4 @@ _Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗
 
 {{< youtube MdQPNmye6fg >}}
 
--   Excerpt from track #3: [“NARROW AND WIDE”](/audio/#mix-11)
+-   [Excerpt from track #3: “NARROW AND WIDE”](/audio/#mix-11)

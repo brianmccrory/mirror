@@ -40,7 +40,7 @@ The wide range of years found in the song selection here brings something extra 
 {{< figure src="L1290388x-1200.jpeg" link="L1290388x-1200.jpeg" >}}
 
 
-## For 2 Akis by Shinya Fukumori Trio {#for-2-akis-by-shinya-fukumori-trio}
+## For 2 Akis by Shinya Fukumori Trio
 
 -   [Matthieu Bordenave](/tags/matthieu-bordenave) - saxophone
 -   [Walter Lang](/tags/walter-lang) - piano
@@ -51,7 +51,7 @@ Released in 2018 on ECM as ECM-2574.
 _Japanese names: 福盛進也 Fukumori Shinya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Hoshi Meguri No Uta”, track #1 on this album:](https://youtu.be/2oMf9f75gzs)
 
@@ -65,10 +65,10 @@ _Japanese names: 福盛進也 Fukumori Shinya_
 
 -   [Playlist for this album (YouTube)](https://youtube.com/playlist?list=OLAK5uy_ljfkfUdYIJpQzK3RgjP4Q8ldpD7RqFmXM)
 
--   Excerpt from track #3: [“Ai San San”](/audio/#mix-13)
+-   [Excerpt from track #3: “Ai San San”](/audio/#mix-13)
 
 
-## Links {#links}
+## Links
 
 -   [ECM Records](https://ecmrecords.com/product/for-2-akis-shinya-fukumori-trio/)
 

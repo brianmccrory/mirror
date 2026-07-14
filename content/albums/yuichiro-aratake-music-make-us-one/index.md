@@ -28,7 +28,7 @@ In addition to bluesy songs, romantic ballads, and pop, the album’s jazzier mo
 {{< figure src="L1210289x-1024.jpeg" link="L1210289x-1024.jpeg" >}}
 
 
-## Music Make Us One by Yuichiro Aratake {#music-make-us-one-by-yuichiro-aratake}
+## Music Make Us One by Yuichiro Aratake
 
 -   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
 -   [Kunio Oinuma](/tags/kunio-oinuma) - bass
@@ -49,7 +49,7 @@ Released in 2010 on Urban Jazz as 151A-0003.
 _Japanese names: 荒武裕一朗 Aratake Yuichiro 生沼邦夫 Oinuma Kunio 井上功一 Inoue Koichi 田中光栄 Tanaka Koei 牧野竜太郎 Makino Ryutaro 漆原直美 Urushibara Naomi 牛山玲名 Ushiyama Leina 志摩かなえ Shima Kanae 松田麻美 Matsuda Asami 富田大輔 Tomita Daisuke 佐藤良輔 Sato Ryosuke 白佐武史 Shirasa Takefumi 久保公人 Kubo Masato_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of “Yuyake”, track #4 on this album:](https://youtu.be/3JO3McFATjw)
 
@@ -59,4 +59,4 @@ _Japanese names: 荒武裕一朗 Aratake Yuichiro 生沼邦夫 Oinuma Kunio 井�
 
 {{< youtube hnCt-gGZj6o >}}
 
--   Excerpt from track #1: [“Sepia”](/audio/#mix-9)
+-   [Excerpt from track #1: “Sepia”](/audio/#mix-9)

@@ -36,7 +36,7 @@ It’s also worth mentioning that since the 2009 debut of Hall Tone, Meu Coracao
 {{< figure src="L1110589-1024.jpg" link="L1110589-1024.jpg" >}}
 
 
-## Hall Tone by Meu Coracao {#hall-tone-by-meu-coracao}
+## Hall Tone by Meu Coracao
 
 -   [Emiko Voice](/tags/emiko-voice) - vocal
 -   [Taro Sukegawa](/tags/taro-sukegawa) - guitar
@@ -46,7 +46,7 @@ Released in 2009 on Coo Records as COO-300.
 _Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A live version of “Pra Que Discutir Com Madame”, track #3 from this album:](https://youtu.be/6F9zwtzqIxM)
 
@@ -56,4 +56,4 @@ _Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro_
 
 {{< youtube mncD6W_Ybu0 >}}
 
--   Excerpt from track #15: [“サイ・デッサ (_Sai Dessa_)”](/audio/#mix-8)
+-   [Excerpt from track #15: “サイ・デッサ (_Sai Dessa_)”](/audio/#mix-8)

@@ -46,7 +46,7 @@ The next track #2 “The Search For Wholeness” lays out a calmer melody of pea
 {{< figure src="L1290434x-1200.jpeg" link="L1290434x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hiroyuki Yamaguchi’s original Japanese liner notes.)_
 
@@ -132,7 +132,7 @@ At a time when CDs that do not include famous songs may not sell well, and when 
 山口裕之 _Hiroyuki Yamaguchi_
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 Refined two-horn arrangements of melodies that will linger in the hearts of anyone who hears them
 
@@ -145,7 +145,7 @@ Hiroyuki Yamaguchi Quintet
 {{< figure src="L1290450x-1200.jpeg" link="L1290450x-1200.jpeg" >}}
 
 
-## Mowna by Hiroyuki Yamaguchi Quintet {#mowna-by-hiroyuki-yamaguchi-quintet}
+## Mowna by Hiroyuki Yamaguchi Quintet
 
 -   [Hiroyuki Yamaguchi](/tags/hiroyuki-yamaguchi) - bass
 -   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
@@ -158,7 +158,7 @@ Released in 2024 on What’s New Records as GWNJ-2036.
 _Japanese names: 山口裕之 Yamaguchi Hiroyuki ませひろこ Mase Hiroko 石井ひなた Ishii Hinata 紅野智彦 Kohno Toshihiko 岡部朋幸 Okabe Tomoyuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“The Search For Wholeness” (track #2) — live performance:](https://youtu.be/Yg_L8TuV_Fc)
 
@@ -172,4 +172,4 @@ _Japanese names: 山口裕之 Yamaguchi Hiroyuki ませひろこ Mase Hiroko 石
 
 {{< youtube 5qg1BZ8qowE >}}
 
--   Excerpt from track #1: [“For George”](/audio/#mix-14)
+-   [Excerpt from track #1: “For George”](/audio/#mix-14)

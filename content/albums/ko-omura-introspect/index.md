@@ -30,7 +30,7 @@ A creative aspect used on this recording is the collaboration of three pianists 
 {{< figure src="IMG_20150326_125425-1024.jpg" link="IMG_20150326_125425-1024.jpg" >}}
 
 
-## Introspect by Ko Omura {#introspect-by-ko-omura}
+## Introspect by Ko Omura
 
 -   [Hakuei Kim](/tags/hakuei-kim) - piano
 -   [Koichi Sato](/tags/koichi-sato) - piano
@@ -43,10 +43,10 @@ Released in 2011 on Daiki Musica as DMCD-12.
 _Japanese names: ハクエイ・キム Kim Hakuei 佐藤浩一 Sato Koichi 石田衛 Ishida Mamoru 安田幸司 Yasuda Koji 大村亘 Omura Ko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Excerpt of Ko Omura’s song “Slow Highway”, recorded live:](https://youtu.be/b1CBzM7vJsM)
 
 {{< youtube b1CBzM7vJsM >}}
 
--   Excerpt from track #5: [“Slow Highway”](/audio/#mix-3)
+-   [Excerpt from track #5: “Slow Highway”](/audio/#mix-3)

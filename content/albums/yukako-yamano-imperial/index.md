@@ -30,7 +30,7 @@ Yamano leads off _Imperial_ with “Symphony of Lights”, an adventurous compos
 {{< figure src="L1230169x-1024.jpeg" link="L1230169x-1024.jpeg" >}}
 
 
-## Imperial by Yukako Yamano {#imperial-by-yukako-yamano}
+## Imperial by Yukako Yamano
 
 -   [Yukako Yamano](/tags/yukako-yamano) - piano
 
@@ -39,10 +39,10 @@ Released in 2018 on Yukako Yamano as YKRN-0004.
 _Japanese names: 山野友佳子 Yamano Yukako_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “Yusha (Hero)”, track #2 on this album:](https://youtu.be/lXLppj6OGTg)
 
 {{< youtube lXLppj6OGTg >}}
 
--   Excerpt from track #3: [“キャサリンの憂鬱 (_Katherine's Melancholy_)”](/audio/#mix-9)
+-   [Excerpt from track #3: “キャサリンの憂鬱 (_Katherine's Melancholy_)”](/audio/#mix-9)

@@ -28,7 +28,7 @@ Much of the album moves at a slow or mid-tempo pace, a comfortable environment e
 {{< figure src="L1230634x-1024.jpeg" link="L1230634x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from excerpts of Kaoru Azuma’s and Hitomi Nishiyama’s original Japanese liner notes.)_
 
@@ -95,7 +95,7 @@ This is based on “Before Night Falls” from _[Many Seasons](https://www.jazzo
 {{< figure src="L1240130x-1024.jpeg" link="L1240130x-1024.jpeg" >}}
 
 
-## Faces by Kaoru Azuma / Hitomi Nishiyama {#faces-by-kaoru-azuma-hitomi-nishiyama}
+## Faces by Kaoru Azuma / Hitomi Nishiyama
 
 -   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, composition, arrangement
@@ -108,10 +108,10 @@ Released in 2020 on Meantone Records as MT-09.
 _Japanese names: 東かおる Azuma Kaoru 西山瞳 Nishiyama Hitomi 市野元彦 Ichino Motohiko 西嶋徹 Nishijima Toru 橋爪亮督 Hashizume Ryosuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/I7EnxiLN7ko)
 
 {{< youtube I7EnxiLN7ko >}}
 
--   Excerpt from track #8: [“J”](/audio/#mix-10)
+-   [Excerpt from track #8: “J”](/audio/#mix-10)

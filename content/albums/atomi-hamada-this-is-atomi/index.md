@@ -28,7 +28,7 @@ Starting with a quiet dynamic, Hamada sings a wistful “Round Midnight” befor
 {{< figure src="L1190159-1024.jpg" link="L1190159-1024.jpg" >}}
 
 
-## This is Atomi by Atomi Hamada {#this-is-atomi-by-atomi-hamada}
+## This is Atomi by Atomi Hamada
 
 -   [Atomi Hamada](/tags/atomi-hamada) - vocal
 -   [Momo Nonami](/tags/momo-nonami) - piano
@@ -39,10 +39,10 @@ Released in 2017 on Atomi Hamada as This is Atomi.
 _Japanese names: 浜田亜東実 Hamada Atomi 野波桃 Nonami Momo 水谷浩章 Mizutani Hiroaki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of track #4, “Ladies in Mercedes”:](https://youtu.be/Okl0bUUC9Z0)
 
 {{< youtube Okl0bUUC9Z0 >}}
 
--   Excerpt from track #3: [“オール・ザ・シングス・ユー・アー (_All the Things You Are_)”](/audio/#mix-2)
+-   [Excerpt from track #3: “オール・ザ・シングス・ユー・アー (_All the Things You Are_)”](/audio/#mix-2)

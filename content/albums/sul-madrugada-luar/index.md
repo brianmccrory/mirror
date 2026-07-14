@@ -36,7 +36,7 @@ Along with her songwriting, Kishi’s skill at juggling various instruments like
 {{< figure src="L1230518-1024.jpeg" link="L1230518-1024.jpeg" >}}
 
 
-## Luar by Sul Madrugada {#luar-by-sul-madrugada}
+## Luar by Sul Madrugada
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard
 -   [Hiroe Kobayashi](/tags/hiroe-kobayashi) - voice
@@ -46,10 +46,10 @@ Released in 2022 on River City Music Entertainment as RRCRK-220101.
 _Japanese names: 岸淑香 Kishi Sayaka 小林宏衣 Kobayashi Hiroe_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Early Samba”, track #7 on this album and the title of a four-song mini-album from Sul Madrugada:](https://youtu.be/VuPqiUUVQ_Y)
 
 {{< youtube VuPqiUUVQ_Y >}}
 
--   Excerpt from track #1: [“Primavera De Batata”](/audio/#mix-9)
+-   [Excerpt from track #1: “Primavera De Batata”](/audio/#mix-9)

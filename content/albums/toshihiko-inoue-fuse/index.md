@@ -46,7 +46,7 @@ Inoue and fuse followed up this album with their next album _Grasshopper_ in 200
 {{< figure src="L1340758x-1200.jpeg" link="L1340758x-1200.jpeg" >}}
 
 
-## Fuse by Toshihiko Inoue {#fuse-by-toshihiko-inoue}
+## Fuse by Toshihiko Inoue
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
 -   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
@@ -58,7 +58,7 @@ Released in 1999 on Ewe Records as EWCD-0010.
 _Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂井紅介 Sakai Benisuke 角田健 Tsunoda Ken_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Toshihiko Inoue Fuse playing “Breathe in-out” and “Zutto”:](https://youtu.be/hXTN_c_TIIA)
 
@@ -76,4 +76,4 @@ _Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂�
 
 {{< youtube n4ZqNxRNajs >}}
 
--   Excerpt from track #1: [“The last is the first”](/audio/#mix-15)
+-   [Excerpt from track #1: “The last is the first”](/audio/#mix-15)

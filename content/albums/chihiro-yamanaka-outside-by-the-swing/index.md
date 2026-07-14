@@ -30,7 +30,7 @@ Perfectly in line with the direct reference in the album title, pure, simple, st
 {{< figure src="L1210681x-1024.jpeg" link="L1210681x-1024.jpeg" >}}
 
 
-## Outside by the Swing by Chihiro Yamanaka {#outside-by-the-swing-by-chihiro-yamanaka}
+## Outside by the Swing by Chihiro Yamanaka
 
 -   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
 -   [Robert Hurst](/tags/robert-hurst) - bass
@@ -41,10 +41,10 @@ Released in 2005 on Verve as UCCJ-2040.
 _Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “I Will Wait”, track #2 from this album, with scenes from the recording session:](https://youtu.be/cHvC_A7tFbU)
 
 {{< youtube cHvC_A7tFbU >}}
 
--   Excerpt from track #1: [“OUTSIDE BY THE SWING”](/audio/#mix-8)
+-   [Excerpt from track #1: “OUTSIDE BY THE SWING”](/audio/#mix-8)

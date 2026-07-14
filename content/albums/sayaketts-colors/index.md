@@ -28,7 +28,7 @@ About half of the 13 songs on this album are upbeat, funky, and energized with t
 {{< figure src="L1120080-1024.jpg" link="L1120080-1024.jpg" >}}
 
 
-## Colors by Sayaketts {#colors-by-sayaketts}
+## Colors by Sayaketts
 
 -   [Sayaka Kishi](/tags/sayaka-kishi) - piano, Rhodes, keyboards, pianica
 -   [Satoshi Kohno](/tags/satoshi-kohno) - electric bass
@@ -39,10 +39,10 @@ Released in 2009 on Sayaketts as SKTS-001.
 _Japanese names: 岸淑香 Kishi Sayaka 鴻野暁司 Kohno Satoshi 中川喜博 Nakagawa Yoshihiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Sayaketts playing live in 2013:](https://youtu.be/WB36Gz5SGrQ)
 
 {{< youtube WB36Gz5SGrQ >}}
 
--   Excerpt from track #8: [“ビチグソロック (_Bichiguso Rock_)”](/audio/#mix-3)
+-   [Excerpt from track #8: “ビチグソロック (_Bichiguso Rock_)”](/audio/#mix-3)

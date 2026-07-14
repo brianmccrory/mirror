@@ -32,7 +32,7 @@ Plenty of peaceful space is also offered and balances the energy well, with the 
 {{< figure src="L1210321-1024.jpg" link="L1210321-1024.jpg" >}}
 
 
-## Virgo by Harumi Nomoto Trio {#virgo-by-harumi-nomoto-trio}
+## Virgo by Harumi Nomoto Trio
 
 -   [Harumi Nomoto](/tags/harumi-nomoto) - piano
 -   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass
@@ -45,7 +45,7 @@ Released in 2014 on Okra Record as MIKO-1009.
 _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke 菅原牧子 Sugawara Makiko 坂本直 Sakamoto Nao_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Album promo video #1:](https://youtu.be/W5JBcd_k7TI)
 
@@ -63,4 +63,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総
 
 {{< youtube J7Mp74TCldo >}}
 
--   Excerpt from track #6: [“Do re mi”](/audio/#mix-4)
+-   [Excerpt from track #6: “Do re mi”](/audio/#mix-4)

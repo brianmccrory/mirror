@@ -32,7 +32,7 @@ The overall album delivers an exciting variety of moods centered around a modern
 {{< figure src="L1180927-1024.jpg" link="L1180927-1024.jpg" >}}
 
 
-## Rin by Sohnosuke Imaizumi {#rin-by-sohnosuke-imaizumi}
+## Rin by Sohnosuke Imaizumi
 
 -   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
 -   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga) - bass
@@ -44,7 +44,7 @@ Released in 2015 on Flower Records as FLRC-070.
 _Japanese names: 今泉総之輔 Imaizumi Sohnosuke 須長和広 Sunaga Kazuhiro 田村和大 Tamura Kazuhiro ブラムジック BLAHMUZIK_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/4OYhhXa6Mp0)
 
@@ -54,4 +54,4 @@ _Japanese names: 今泉総之輔 Imaizumi Sohnosuke 須長和広 Sunaga Kazuhiro
 
 {{< youtube Yu_NSmcS14c >}}
 
--   Excerpt from track #1: [“Nag Champa”](/audio/#mix-2)
+-   [Excerpt from track #1: “Nag Champa”](/audio/#mix-2)

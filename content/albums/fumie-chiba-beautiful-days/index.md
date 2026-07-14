@@ -32,7 +32,7 @@ Most songs feature the full group, with songs for two piano trio and one solo pi
 {{< figure src="L1220772-1024.jpg" link="L1220772-1024.jpg" >}}
 
 
-## Beautiful Days by Fumie Chiba {#beautiful-days-by-fumie-chiba}
+## Beautiful Days by Fumie Chiba
 
 -   [Fumie Chiba](/tags/fumie-chiba) - piano
 -   [Mitsuru Tanaka](/tags/mitsuru-tanaka) - trumpet, flugelhorn
@@ -46,7 +46,7 @@ Released in 2017 on USAGI Records as UR-002.
 _Japanese names: 千葉史絵 Chiba Fumie 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 黒沢綾 Kurosawa Aya 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album release:](https://youtu.be/esoPD7qadpA)
 
@@ -56,4 +56,4 @@ _Japanese names: 千葉史絵 Chiba Fumie 田中充 Tanaka Mitsuru 石川周之�
 
 {{< youtube GnFuQOSKzUo >}}
 
--   Excerpt from track #8: [“Water Drops”](/audio/#mix-7)
+-   [Excerpt from track #8: “Water Drops”](/audio/#mix-7)

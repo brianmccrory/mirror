@@ -30,7 +30,7 @@ Overall, _Duet_ is a nice balance of absorbing and hazy music, swirling around t
 {{< figure src="../images/shinichi-kato-and-masahiko-sato-duet/L1220561-1024.JPG" link="../images/shinichi-kato-and-masahiko-sato-duet/L1220561-1024.JPG" >}}
 
 
-## Duet by Shinichi Kato &amp; Masahiko Sato {#duet-by-shinichi-kato-and-masahiko-sato}
+## Duet by Shinichi Kato &amp; Masahiko Sato
 
 -   [Shinichi Kato](/tags/shinichi-kato) - bass
 -   [Masahiko Sato](/tags/masahiko-sato) - piano
@@ -40,10 +40,10 @@ Released in 2001 on Nagel Heyer Records as CD-2017.
 _Japanese names: 加藤真一 Kato Shinichi 佐藤允彦 Sato Masahiko_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio of “Blues for Pluto”, track #10 from this album:](https://youtu.be/wj7AhGAxHfk)
 
 {{< youtube wj7AhGAxHfk >}}
 
--   Excerpt from track #1: [“Old Diary”](/audio/#mix-7)
+-   [Excerpt from track #1: “Old Diary”](/audio/#mix-7)

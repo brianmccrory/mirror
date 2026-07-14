@@ -30,7 +30,7 @@ Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspirat
 {{< figure src="L1110588-1024.jpg" link="L1110588-1024.jpg" >}}
 
 
-## Move On by Hikari Ichihara Group {#move-on-by-hikari-ichihara-group}
+## Move On by Hikari Ichihara Group
 
 -   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
 -   [Ryosuke Asai](/tags/ryosuke-asai) - alto sax
@@ -43,10 +43,10 @@ Released in 2010 on After Beat as PCCY-30157.
 _Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of Hikari Ichihara playing “Can You Repeat the Past” from the 2014 album “Dear Gatsby”:](https://youtu.be/JV_7YAx3mCA)
 
 {{< youtube JV_7YAx3mCA >}}
 
--   Excerpt from track #1: [“やみくろ (_Dark Black_)”](/audio/#mix-4)
+-   [Excerpt from track #1: “やみくろ (_Dark Black_)”](/audio/#mix-4)

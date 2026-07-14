@@ -38,7 +38,7 @@ This album is the third and final Fuse release with the original members. Sadly,
 {{< figure src="L1110527-1024.jpg" link="L1110527-1024.jpg" >}}
 
 
-## Live Fuse by Fuse {#live-fuse-by-fuse}
+## Live Fuse by Fuse
 
 -   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano sax, tenor sax
 -   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
@@ -50,15 +50,15 @@ Released in 2007 on Ewe Records as EWCD-0119.
 _Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂井紅介 Sakai Benisuke 角田健 Tsunoda Ken_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of Toshihiko Inoue performing with Fumio Karashima’s group:](https://youtu.be/6LjeLHYNhLQ)
 
 {{< youtube 6LjeLHYNhLQ >}}
 
--   Excerpt from track #1: [“Grasshopper”](/audio/#mix-6)
+-   [Excerpt from track #1: “Grasshopper”](/audio/#mix-6)
 
 
-## Links {#links}
+## Links
 
 -   [Fuse jazz](http://fusejazz.com/)

@@ -58,7 +58,7 @@ On disc 2, a guitar/piano/bass/drums quartet plays #11 “Hua” followed by #12
 {{< figure src="L1240137-1200.jpeg" link="L1240137-1200.jpeg" >}}
 
 
-## Embryo by Koichi Sato {#embryo-by-koichi-sato}
+## Embryo by Koichi Sato
 
 -   [Koichi Sato](/tags/koichi-sato) - piano, compositions, arrangements
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
@@ -75,7 +75,7 @@ Released in 2021 on Nagalu as NAGALU-003/004.
 _Japanese names: 佐藤浩一 Sato Koichi 市野元彦 Ichino Motohiko 甲斐正樹 Kai Masaki 福盛進也 Fukumori Shinya 伊藤彩 Ito Aya 梶谷裕子 Kajitani Yuko 吉田篤貴 Yoshida Atsuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album featuring “Aqua”, track #2 (disk 2):](https://youtu.be/amB5wLI7cWc)
 
@@ -85,9 +85,9 @@ _Japanese names: 佐藤浩一 Sato Koichi 市野元彦 Ichino Motohiko 甲斐正
 
 {{< youtube LBeN8B04tGM >}}
 
--   Excerpt from track #10: [“May Song”](/audio/#mix-11)
+-   [Excerpt from track #10: “May Song”](/audio/#mix-11)
 
 
-## Links {#links}
+## Links
 
 -   [More info and audio samples](https://www.nagalu.jp/embryo)

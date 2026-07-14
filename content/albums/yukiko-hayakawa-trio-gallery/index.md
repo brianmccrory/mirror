@@ -24,7 +24,7 @@ Recorded with a live and echoey sound, the trio locks in with opening tracks “
 {{< figure src="L1200620-1024.jpg" link="L1200620-1024.jpg" >}}
 
 
-## Gallery by Yukiko Hayakawa Trio {#gallery-by-yukiko-hayakawa-trio}
+## Gallery by Yukiko Hayakawa Trio
 
 -   [Yukiko Hayakawa](/tags/yukiko-hayakawa) - piano
 -   [Terumasa Nishikawa](/tags/terumasa-nishikawa) - bass
@@ -35,10 +35,10 @@ Released in 2008 on Ventain Records as VJYH-8461.
 _Japanese names: 早川由紀子 Hayakawa Yukiko 西川輝正 Nishikawa Terumasa 上村計一郎 Uemura Keiichiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Out of the Wind:](https://youtu.be/dIkN4WlWMSA)
 
 {{< youtube dIkN4WlWMSA >}}
 
--   Excerpt from track #1: [“Mirage”](/audio/#mix-7)
+-   [Excerpt from track #1: “Mirage”](/audio/#mix-7)

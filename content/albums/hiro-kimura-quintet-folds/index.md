@@ -38,7 +38,7 @@ This straight-ahead music combines respect for the art form with modern influenc
 {{< figure src="L1230440x-1024.jpeg" link="L1230440x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Hiro Kimura’s original Japanese liner notes.)_
 
@@ -99,7 +99,7 @@ Hiro Kimura
 {{< figure src="L1240162x-1024.jpeg" link="L1240162x-1024.jpeg" >}}
 
 
-## Folds by Hiro Kimura Quintet {#folds-by-hiro-kimura-quintet}
+## Folds by Hiro Kimura Quintet
 
 -   [Hiro Kimura](/tags/hiro-kimura) - drums
 -   [Kazuhiko Takeda](/tags/kazuhiko-takeda) - guitar
@@ -112,10 +112,10 @@ Released in 2023 on KINO Records as KIN-002.
 _Japanese names: 木村紘 Kimura Hiro 竹田一彦 Takeda Kazuhiko 広瀬未来 Hirose Miki 田中菜緒子 Tanaka Naoko 伊藤勇司 Ito Yuji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [The Hiro Kimura Quintet playing “Triste” from this album:](https://youtu.be/MYuW23qicoE)
 
 {{< youtube MYuW23qicoE >}}
 
--   Excerpt from track #2: [“Face To Face”](/audio/#mix-8)
+-   [Excerpt from track #2: “Face To Face”](/audio/#mix-8)

@@ -23,7 +23,7 @@ With eight original songs penned by Yamaguchi, the music is solid, confident, dr
 {{< figure src="L1220376x-1200.jpeg" link="L1220376x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translation of an excerpt from Yo Nakagawa’s original Japanese liner notes.)_
 
@@ -84,7 +84,7 @@ After finishing this album, Mabumi Yamaguchi said his appetite for composing was
 {{< figure src="L1220385x-1200.jpeg" link="L1220385x-1200.jpeg" >}}
 
 
-## Let Your Mind Alone by Mabumi Yamaguchi {#let-your-mind-alone-by-mabumi-yamaguchi}
+## Let Your Mind Alone by Mabumi Yamaguchi
 
 -   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - Tenor &amp; Soprano Sax
 -   [Yoshitaka Shoji](/tags/yoshitaka-shoji) - guitar
@@ -97,10 +97,10 @@ Released in 2017 on Spice of Life as SOLJP-0015.
 _Japanese names: 山口真文 Yamaguchi Mabumi 東海林由孝 Shoji Yoshitaka 奥村美里 Okumura Misato 小牧良平 Komaki Ryohei 小松伸之 Komatsu Nobuyuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Mabumi Yamaguchi quartet performing live in 2010:](https://youtu.be/l9tLbegpVpo)
 
 {{< youtube l9tLbegpVpo >}}
 
--   Excerpt from track #1: [“Sequel to a Dream”](/audio/#mix-5)
+-   [Excerpt from track #1: “Sequel to a Dream”](/audio/#mix-5)

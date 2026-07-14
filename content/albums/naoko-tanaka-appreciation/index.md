@@ -30,7 +30,7 @@ In addition, there are other perfectly swung tunes, respectful of tradition whil
 Tying it all up in a lovely bow is the final track (and the only cover song on the album), #9 “Konomichi”, played by Tanaka as a soulful piano solo that captures a sentimental fondness in lovely light colors like the so many purple, pink, and blue flowers surrounding her in the cover image.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Naoko Tanaka’s album liner notes originally in Japanese.)_
 
@@ -79,7 +79,7 @@ I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had
 {{< figure src="L1230264x-1024.jpeg" link="L1230264x-1024.jpeg" >}}
 
 
-## Appreciation by Naoko Tanaka {#appreciation-by-naoko-tanaka}
+## Appreciation by Naoko Tanaka
 
 -   [Naoko Tanaka](/tags/naoko-tanaka) - piano
 -   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet (#1, 4)
@@ -93,7 +93,7 @@ Released in 2022 on Naop Record as NT-0405.
 _Japanese names: 田中菜緒子 Tanaka Naoko 岡崎好朗 Okazaki Yoshiro 佐藤敬幸 Sato Takayuki 山口真文 Yamaguchi Mabumi 安田幸司 Yasuda Koji 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Hydrangea Flower”, track #1 on this album:](https://youtu.be/T1fjBVpjrHg)
 
@@ -107,4 +107,4 @@ _Japanese names: 田中菜緒子 Tanaka Naoko 岡崎好朗 Okazaki Yoshiro 佐�
 
 {{< youtube FkBmAqbMcPk >}}
 
--   Excerpt from track #3: [“M.T”](/audio/#mix-10)
+-   [Excerpt from track #3: “M.T”](/audio/#mix-10)

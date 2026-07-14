@@ -24,7 +24,7 @@ _Bass on Times_ is a 2009 album from jazz bassist Satoshi Kosugi, a well-known a
 {{< figure src="L1180550-1024.jpg" link="L1180550-1024.jpg" >}}
 
 
-## Bass on Times by Satoshi Kosugi {#bass-on-times-by-satoshi-kosugi}
+## Bass on Times by Satoshi Kosugi
 
 -   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass
 -   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet
@@ -37,10 +37,10 @@ Released in 2009 on Pax Box Press as PBP-0001.
 _Japanese names: 小杉敏 Kosugi Satoshi 岡崎好朗 Okazaki Yoshiro 元岡一英 Motooka Kazuhide 橋本信二 Hashimoto Shinji 江藤良人 Eto Yoshihito_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Satoshi Kosugi with Kanji Ohta and Kenichiro Murata playing “Chasin’ the Bird”:](https://youtu.be/mKf9_Mg3gEk)
 
 {{< youtube mKf9_Mg3gEk >}}
 
--   Excerpt from track #1: [“Monk's Dream”](/audio/#mix-1)
+-   [Excerpt from track #1: “Monk's Dream”](/audio/#mix-1)

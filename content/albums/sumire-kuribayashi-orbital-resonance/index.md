@@ -44,7 +44,7 @@ This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _O
 {{< figure src="L1340614x-1200.jpeg" link="L1340614x-1200.jpeg" >}}
 
 
-## Orbital Resonance by Sumire Kuribayashi {#orbital-resonance-by-sumire-kuribayashi}
+## Orbital Resonance by Sumire Kuribayashi
 
 -   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
@@ -56,7 +56,7 @@ Released in 2025 on Somethin’ Cool as SCOL-1078.
 _Japanese names: 栗林すみれ Kuribayashi Sumire 市野元彦 Ichino Motohiko キリー・アンダーソン Anderson Kyrie ニラン・ダシカ Dasika Niran_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for _Orbital Resonance_:](https://youtu.be/SdHwrnUpYlk)
 
@@ -70,4 +70,4 @@ _Japanese names: 栗林すみれ Kuribayashi Sumire 市野元彦 Ichino Motohiko
 
 {{< youtube u1gUES-EX7Y >}}
 
--   Excerpt from track #5: [“Yell”](/audio/#mix-15)
+-   [Excerpt from track #5: “Yell”](/audio/#mix-15)

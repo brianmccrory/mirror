@@ -34,7 +34,7 @@ Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-roc
 {{< figure src="L1220160-1024.jpg" link="L1220160-1024.jpg" >}}
 
 
-## Halo by Blue Dot {#halo-by-blue-dot}
+## Halo by Blue Dot
 
 -   [Makoto Rikitake](/tags/makoto-rikitake) - drums
 -   [Tamashi Goto](/tags/tamashi-goto) - piano
@@ -47,10 +47,10 @@ Released in 2016 on Blue Dot as Halo.
 _Japanese names: 力武誠 Rikitake Makoto 後藤魂 Goto Tamashi 杉本匡教 Sugimoto Masanori 片野吾朗 Katano Goro 藤村麻紀 Fujimura Maki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for Blue Dot:](https://youtu.be/O0_aFlO6s4A)
 
 {{< youtube O0_aFlO6s4A >}}
 
--   Excerpt from track #1: [“Sturm Und Drang”](/audio/#mix-4)
+-   [Excerpt from track #1: “Sturm Und Drang”](/audio/#mix-4)

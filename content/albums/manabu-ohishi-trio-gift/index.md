@@ -32,7 +32,7 @@ In addition to the original numbers, a cover of the jazz standard “Softly, As 
 {{< figure src="L1110797-1024.jpg" link="L1110797-1024.jpg" >}}
 
 
-## Gift by Manabu Ohishi Trio {#gift-by-manabu-ohishi-trio}
+## Gift by Manabu Ohishi Trio
 
 -   [Manabu Ohishi](/tags/manabu-ohishi) - piano, pianica
 -   [Jean-Philippe Viret](/tags/jean-philippe-viret) - bass
@@ -43,10 +43,10 @@ Released in 2012 on Atelier Sawano as AS-122.
 _Japanese names: 大石学 Ohishi Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [A different version of the Manabu Ohishi Trio with the album “Nebula”:](https://youtu.be/Bgm0qg6goPI)
 
 {{< youtube Bgm0qg6goPI >}}
 
--   Excerpt from track #2: [“Hisyo[^]”](/audio/#mix-6)
+-   [Excerpt from track #2: “Hisyo[^]”](/audio/#mix-6)

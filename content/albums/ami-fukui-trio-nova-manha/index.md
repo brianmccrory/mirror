@@ -40,7 +40,7 @@ Fukui’s musical concept on this album of serenity and calmness may even be inf
 Most of all though, the pianist’s attention to her compositions and her jazz piano trio is comfortable and balanced, right in the Goldilocks zone of being not too simple, not too complex, but feeling just right.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Ami Fukui’s original Japanese liner notes.)_
 
@@ -115,7 +115,7 @@ I wrote this song thinking about how fun it is to play with these kitties. The s
 {{< figure src="L1240186x-1024.jpeg" link="L1240186x-1024.jpeg" >}}
 
 
-## Nova Manhã by Ami Fukui Trio {#nova-manhã-by-ami-fukui-trio}
+## Nova Manhã by Ami Fukui Trio
 
 -   [Ami Fukui](/tags/ami-fukui) - piano
 -   [Keigo Iwami](/tags/keigo-iwami) - bass
@@ -126,7 +126,7 @@ Released in 2022 on MAM Records as MR-001.
 _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video with excerpts from “Nova manhã”, “Pra Machuchar Meu Coração”, and “Pexy”:](https://youtu.be/xwgK4zaU87I)
 
@@ -136,9 +136,9 @@ _Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Ki
 
 {{< youtube 7nTgk3jYni4 >}}
 
--   Excerpt from track #6: [“Hommage”](/audio/#mix-10)
+-   [Excerpt from track #6: “Hommage”](/audio/#mix-10)
 
 
-## Links {#links}
+## Links
 
 -   [Online yoga lessons link provided by Ami Fukui](https://mosh.jp/services/93414)

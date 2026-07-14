@@ -38,7 +38,7 @@ aliases = ["/p/minoru-yoshiki-soulstation-path-of-hope/"]
 {{< figure src="cdjkt02-1024.jpg" link="cdjkt02-1024.jpg" >}}
 
 
-## Path of Hope by Minoru Yoshiki Soulstation {#path-of-hope-by-minoru-yoshiki-soulstation}
+## Path of Hope by Minoru Yoshiki Soulstation
 
 -   [Minoru Yoshiki](/tags/minoru-yoshiki) - contrabass
 -   [Osamu Soda](/tags/osamu-soda) - piano
@@ -49,10 +49,10 @@ Released in 2019 on Urban Jazz as Path of Hope.
 _Japanese names: 吉木稔 Yoshiki Minoru 祖田修 Soda Osamu 森田修史 Morita Shuji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/rTuWX4XE1Gs)
 
 {{< youtube rTuWX4XE1Gs >}}
 
--   Excerpt from track #1: [“Zi-Zi 1”](/audio/#mix-5)
+-   [Excerpt from track #1: “Zi-Zi 1”](/audio/#mix-5)

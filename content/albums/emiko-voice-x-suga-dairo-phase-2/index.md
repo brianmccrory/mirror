@@ -30,7 +30,7 @@ Playful yet serious, the duo also covers mid-tempo and ballad tracks such as “
 {{< figure src="L1200769-1024.jpg" link="L1200769-1024.jpg" >}}
 
 
-## Phase 2 by Emiko Voice x Suga Dairo {#phase-2-by-emiko-voice-x-suga-dairo}
+## Phase 2 by Emiko Voice x Suga Dairo
 
 -   [Emiko Voice](/tags/emiko-voice) - vocal
 -   [Dairo Suga](/tags/dairo-suga) - piano
@@ -40,10 +40,10 @@ Released in 2009 on Cool Fool as CLFL-0003.
 _Japanese names: エミコヴォイス Emiko Voice スガダイロー Suga Dairo_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Emiko Voice and Dairo Suga performing “Honeysuckle Rose”:](https://youtu.be/IktVtSTtgH0)
 
 {{< youtube IktVtSTtgH0 >}}
 
--   Excerpt from track #8: [“コンファメーション (_Confirmation_)”](/audio/#mix-6)
+-   [Excerpt from track #8: “コンファメーション (_Confirmation_)”](/audio/#mix-6)

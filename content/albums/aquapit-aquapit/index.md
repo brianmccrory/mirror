@@ -28,7 +28,7 @@ This first album from Aquapit offers eleven original songs, all of a piece, jam 
 {{< figure src="L1200387-1024.jpg" link="L1200387-1024.jpg" >}}
 
 
-## Aquapit by Aquapit {#aquapit-by-aquapit}
+## Aquapit by Aquapit
 
 -   [Yuta Kaneko](/tags/yuta-kaneko) - Hammond B3 Organ
 -   [Yosuke Onuma](/tags/yosuke-onuma) - guitar
@@ -39,10 +39,10 @@ Released in 2011 on Mocloud Records as DDCZ-1758.
 _Japanese names: 金子雄太 Kaneko Yuta 小沼ようすけ Onuma Yosuke 大槻“KALTA”英宣 Otsuki Hidenobu “Kalta”_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio of the tune “Monologue”, track five on this album:](https://youtu.be/VQ-m3v3mE2E)
 
 {{< youtube VQ-m3v3mE2E >}}
 
--   Excerpt from track #1: [“Street Lights”](/audio/#mix-7)
+-   [Excerpt from track #1: “Street Lights”](/audio/#mix-7)

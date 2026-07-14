@@ -28,7 +28,7 @@ Following the eight live tracks, four studio-recorded songs include two finely-t
 {{< figure src="L1200615x-1024.jpeg" link="L1200615x-1024.jpeg" >}}
 
 
-## Happy Christmas with Bb by Baby Brothers {#happy-christmas-with-bb-by-baby-brothers}
+## Happy Christmas with Bb by Baby Brothers
 
 -   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
 -   [Monet](/tags/monet) - vocal
@@ -41,7 +41,7 @@ Released in 2007 on Baby Brothers as Side B.
 _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Take Five”:](https://youtu.be/T1OnGwSnlTE)
 
@@ -67,4 +67,4 @@ _Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyo
 
 {{< youtube X77EDDcUFO4 >}}
 
--   Excerpt from track #1: [“My Favorite Things”](/audio/#mix-10)
+-   [Excerpt from track #1: “My Favorite Things”](/audio/#mix-10)

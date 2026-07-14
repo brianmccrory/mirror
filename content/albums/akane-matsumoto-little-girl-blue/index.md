@@ -32,7 +32,7 @@ Matsumoto’s musical art is perhaps of a kind with these detailed black-and-whi
 {{< figure src="L1230250x-1024.jpeg" link="L1230250x-1024.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Akane Matsumoto.)_
 
@@ -91,7 +91,7 @@ This song was written during the civil rights movement, and it must have become 
 {{< figure src="L1240157x-1024.jpeg" link="L1240157x-1024.jpeg" >}}
 
 
-## Little Girl Blue by Akane Matsumoto {#little-girl-blue-by-akane-matsumoto}
+## Little Girl Blue by Akane Matsumoto
 
 -   [Akane Matsumoto](/tags/akane-matsumoto) - piano
 
@@ -100,7 +100,7 @@ Released in 2022 on Concept Records as CR-14.
 _Japanese names: 松本茜 Matsumoto Akane_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for “Little Girl Blue”, track #1 on this album:](https://youtu.be/XwR65NNVMqQ)
 
@@ -110,4 +110,4 @@ _Japanese names: 松本茜 Matsumoto Akane_
 
 {{< youtube T93GC7846UU >}}
 
--   Excerpt from track #3: [“Laurentide Waltz”](/audio/#mix-9)
+-   [Excerpt from track #3: “Laurentide Waltz”](/audio/#mix-9)

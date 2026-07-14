@@ -36,7 +36,7 @@ Lovers of Brazilian and Latin music will be delighted with songs such as “Reun
 {{< figure src="L1120175-1024.jpg" link="L1120175-1024.jpg" >}}
 
 
-## Agora by Yuka Ueda {#agora-by-yuka-ueda}
+## Agora by Yuka Ueda
 
 -   [Yuka Ueda](/tags/yuka-ueda) - vocal
 -   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
@@ -48,7 +48,7 @@ Released in 2011 on Audio Fab Records as AFD-106.
 _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video of Yuka Ueda singing “Pressentimento” live:](https://youtu.be/XuImtwehYYw)
 
@@ -58,4 +58,4 @@ _Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 橋本
 
 {{< youtube qmIjpprzmvk >}}
 
--   Excerpt from track #9: [“Pressentimento”](/audio/#mix-6)
+-   [Excerpt from track #9: “Pressentimento”](/audio/#mix-6)

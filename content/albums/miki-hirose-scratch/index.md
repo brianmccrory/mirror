@@ -26,7 +26,7 @@ Trumpeter Miki Hirose’s _Scratch_ from 2013 sizzles with energy, fueled by imp
 {{< figure src="IMG_20150324_123553-1024.jpg" link="IMG_20150324_123553-1024.jpg" >}}
 
 
-## Scratch by Miki Hirose {#scratch-by-miki-hirose}
+## Scratch by Miki Hirose
 
 -   [Miki Hirose](/tags/miki-hirose) - trumpet &amp; flugelhorn
 -   [Xavier Perez](/tags/xavier-perez) - tenor sax
@@ -40,10 +40,10 @@ Released in 2013 on Jazz Lab Records as JLR-1301.
 _Japanese names: 広瀬未来 Hirose Miki 百々徹 Dodo Toru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/1kizkvPJKAY)
 
 {{< youtube 1kizkvPJKAY >}}
 
--   Excerpt from track #1: [“スクラッチ (_Scratch_)”](/audio/#mix-7)
+-   [Excerpt from track #1: “スクラッチ (_Scratch_)”](/audio/#mix-7)

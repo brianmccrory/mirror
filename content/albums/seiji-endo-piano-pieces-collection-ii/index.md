@@ -50,7 +50,7 @@ Compared to the previous album, the songs are slightly longer here. The titles s
 {{< figure src="L1260310x-1200.jpeg" link="L1260310x-1200.jpeg" >}}
 
 
-## Piano Pieces Collection II by Seiji Endo {#piano-pieces-collection-ii-by-seiji-endo}
+## Piano Pieces Collection II by Seiji Endo
 
 -   [Seiji Endo](/tags/seiji-endo) - piano
 
@@ -59,7 +59,7 @@ Released in 2023 on Fair Play Records as FPCD-1013.
 _Japanese names: 遠藤征志 Endo Seiji_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/DfrFGbLU9gk)
 
@@ -69,4 +69,4 @@ _Japanese names: 遠藤征志 Endo Seiji_
 
 -   [Apple Music link for this album](https://music.apple.com/us/album/%E9%81%A0%E8%97%A4%E5%BE%81%E5%BF%97%E5%B0%8F%E6%9B%B2%E9%9B%86-ii/1727298478)
 
--   Excerpt from track #9: [“Erica”](/audio/#mix-12)
+-   [Excerpt from track #9: “Erica”](/audio/#mix-12)

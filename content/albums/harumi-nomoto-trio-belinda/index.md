@@ -32,7 +32,7 @@ As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the wa
 {{< figure src="IMG_20150128_151339_hdr-1024.jpg" link="IMG_20150128_151339_hdr-1024.jpg" >}}
 
 
-## Belinda by Harumi Nomoto Trio {#belinda-by-harumi-nomoto-trio}
+## Belinda by Harumi Nomoto Trio
 
 -   [Harumi Nomoto](/tags/harumi-nomoto) - piano, Fender Rhodes electric piano
 -   [Noboru Ando](/tags/noboru-ando) - bass
@@ -43,7 +43,7 @@ Released in 2007 on Anturtle Tune/BQ Records as BQR-2040.
 _Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Yoshioka Daisuke_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Harumi Nomoto solo piano improvisation for this recording:](https://youtu.be/PYRudJK4kp0)
 
@@ -61,4 +61,4 @@ _Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Y
 
 {{< youtube fRSPPoJzMrw >}}
 
--   Excerpt from track #2: [“7up”](/audio/#mix-6)
+-   [Excerpt from track #2: “7up”](/audio/#mix-6)

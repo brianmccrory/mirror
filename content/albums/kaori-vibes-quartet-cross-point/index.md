@@ -26,7 +26,7 @@ Starting with the high-energy “Cross Point”, the quartet explores directions
 {{< figure src="L1190226-1024.jpg" link="L1190226-1024.jpg" >}}
 
 
-## Cross Point by Kaori Vibes Quartet {#cross-point-by-kaori-vibes-quartet}
+## Cross Point by Kaori Vibes Quartet
 
 -   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
 -   [Tamashi Goto](/tags/tamashi-goto) - piano
@@ -38,10 +38,10 @@ Released in 2016 on Urban Jazz as 151A-0017.
 _Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Kaori Nakajima plays “At That Room”, the final song on this album:](https://youtu.be/Tvni2-L10GM)
 
 {{< youtube Tvni2-L10GM >}}
 
--   Excerpt from track #1: [“Cross Point”](/audio/#mix-2)
+-   [Excerpt from track #1: “Cross Point”](/audio/#mix-2)

@@ -36,7 +36,7 @@ _About the name: Perhaps an unwieldy moniker at first, NHORHM - New Heritage Of 
 {{< figure src="L1220785-1024.jpg" link="L1220785-1024.jpg" >}}
 
 
-## New Heritage of Real Heavy Metal -Extra Edition- by NHORHM {#new-heritage-of-real-heavy-metal-extra-edition-by-nhorhm}
+## New Heritage of Real Heavy Metal -Extra Edition- by NHORHM
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -47,7 +47,7 @@ Released in 2019 on Apollo Sounds as APLS1905.
 _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [NHORHM performing “Don’t Let It End”, track five on this album:](https://youtu.be/-AD0CDTKmOs)
 
@@ -65,9 +65,9 @@ _Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学
 
 {{< youtube ETthmCh9DyU >}}
 
--   Excerpt from track #1: [“Galaxies”](/audio/#mix-5)
+-   [Excerpt from track #1: “Galaxies”](/audio/#mix-5)
 
 
-## Links {#links}
+## Links
 
 -   [New Heritage Of Real Heavy Metal](https://nhorhm.tumblr.com/)

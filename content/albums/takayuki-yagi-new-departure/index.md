@@ -32,7 +32,7 @@ Whether playing with his horn mates or leading the trio, Yagi plays with unbridl
 {{< figure src="L1220399-1024.jpg" link="L1220399-1024.jpg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes written by Takayuki Yagi.)_
 
@@ -93,7 +93,7 @@ Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed
 {{< figure src="L1220403-1024.jpg" link="L1220403-1024.jpg" >}}
 
 
-## New Departure by Takayuki Yagi {#new-departure-by-takayuki-yagi}
+## New Departure by Takayuki Yagi
 
 -   [Takayuki Yagi](/tags/takayuki-yagi) - piano
 -   [Scott Wendholt](/tags/scott-wendholt) - trumpet (#1, 2, 3, 5)
@@ -106,10 +106,10 @@ Released in 2018 on JazzTOKYO RECORDS as JTRC-002.
 _Japanese names: 八木隆幸 Yagi Takayuki_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/_KiyjtDRyfM)
 
 {{< youtube _KiyjtDRyfM >}}
 
--   Excerpt from track #5: [“Kyoto Tower”](/audio/#mix-7)
+-   [Excerpt from track #5: “Kyoto Tower”](/audio/#mix-7)

@@ -36,7 +36,7 @@ With no liner notes to explain the music, the songs speak for themselves. It’s
 {{< figure src="L1280863x-1200.jpeg" link="L1280863x-1200.jpeg" >}}
 
 
-## Invisible Diary by Kaito Nakamura {#invisible-diary-by-kaito-nakamura}
+## Invisible Diary by Kaito Nakamura
 
 -   [Kaito Nakamura](/tags/kaito-nakamura) - drums
 -   [Riko Sasaki](/tags/riko-sasaki) - alto saxophone
@@ -49,7 +49,7 @@ Released in 2025 on MidVillage as MV-001.
 _Japanese names: 中村海斗 Nakamura Kaito 佐々木梨子 Sasaki Riko 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 加藤一平 Kato Ippei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Endless Spring Vacation”, track #1 on this album:](https://youtu.be/BFIU6qem0DE)
 
@@ -71,4 +71,4 @@ _Japanese names: 中村海斗 Nakamura Kaito 佐々木梨子 Sasaki Riko 布施�
 
 -   [Full album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_lbhg1TDcVn4dTjRn299Fo03m2-Qrw6DyM)
 
--   Excerpt from track #3: [“バルバロ (_Barbaro_)”](/audio/#mix-13)
+-   [Excerpt from track #3: “バルバロ (_Barbaro_)”](/audio/#mix-13)

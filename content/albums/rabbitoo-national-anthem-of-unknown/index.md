@@ -30,7 +30,7 @@ Definitely not following the typical jazz formula, this beat-centered music with
 {{< figure src="L1220809-1024.jpg" link="L1220809-1024.jpg" >}}
 
 
-## National Anthem of Unknown Country by Rabbitoo {#national-anthem-of-unknown-country-by-rabbitoo}
+## National Anthem of Unknown Country by Rabbitoo
 
 -   [Motohiko Ichino](/tags/motohiko-ichino) - guitars, keyboards
 -   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, electronics
@@ -43,7 +43,7 @@ Released in 2014 on SONG X JAZZ as SONG X 019.
 _Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Video for “Monkey’s Dream”, track #1 on this album:](https://youtu.be/vSNK6Ep7Eto)
 
@@ -57,4 +57,4 @@ _Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐�
 
 {{< youtube EAQOixCBy-o >}}
 
--   Excerpt from track #6: [“subliminal sublimation”](/audio/#mix-5)
+-   [Excerpt from track #6: “subliminal sublimation”](/audio/#mix-5)

@@ -32,7 +32,7 @@ The three originals include the slow and romantic Spanish love song #4 “Amapol
 {{< figure src="L1280778x-1200.jpeg" link="L1280778x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from the original Japanese liner notes.)_
 
@@ -45,7 +45,7 @@ They released their first album _Introducing Setagaya Trio_ in 2017, which was f
 {{< figure src="L1280792x-1200.jpeg" link="L1280792x-1200.jpeg" >}}
 
 
-## Progress by Setagaya Trio {#progress-by-setagaya-trio}
+## Progress by Setagaya Trio
 
 -   [Yusei Takahashi](/tags/yusei-takahashi) - piano
 -   [Keigo Iwami](/tags/keigo-iwami) - bass
@@ -56,7 +56,7 @@ Released in 2024 on Setagaya Trio as Progress.
 _Japanese names: 高橋佑成 Takahashi Yusei 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Live performance of “K.O.G.S.”, track #6 on this album:](https://youtu.be/VoHugnxC2XE)
 
@@ -74,4 +74,4 @@ _Japanese names: 高橋佑成 Takahashi Yusei 岩見継吾 Iwami Keigo 吉良創
 
 {{< youtube STPZjXpWuQY >}}
 
--   Excerpt from track #2: [“Metsa”](/audio/#mix-13)
+-   [Excerpt from track #2: “Metsa”](/audio/#mix-13)

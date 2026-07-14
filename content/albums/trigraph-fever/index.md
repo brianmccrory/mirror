@@ -34,7 +34,7 @@ In addition to jazz, Trigraph also features five of their well-crafted original 
 {{< figure src="../images/trigraph-fever/L1110813-1024.JPG" link="../images/trigraph-fever/L1110813-1024.JPG" >}}
 
 
-## Fever by Trigraph {#fever-by-trigraph}
+## Fever by Trigraph
 
 -   [Takayoshi Baba](/tags/takayoshi-baba) - guitar &amp; chorus
 -   [Reikan Kobayashi](/tags/reikan-kobayashi) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
@@ -47,7 +47,7 @@ Released in 2014 on Haru Records as HARU-20.
 _Japanese names: 馬場孝喜 Baba Takayoshi 小林鈴勘 Kobayashi Reikan 石川早苗 Ishikawa Sanae 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Trigraph performing the title track “Fever” live:](https://youtu.be/azRygsWNX04)
 
@@ -57,4 +57,4 @@ _Japanese names: 馬場孝喜 Baba Takayoshi 小林鈴勘 Kobayashi Reikan 石�
 
 {{< youtube nL9J2i5aJ20 >}}
 
--   Excerpt from track #1: [“It Might As Well Be Spring”](/audio/#mix-8)
+-   [Excerpt from track #1: “It Might As Well Be Spring”](/audio/#mix-8)

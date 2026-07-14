@@ -30,7 +30,7 @@ The album contains a nice balance on its eleven songs. Along with three swinging
 {{< figure src="L1110684-003-1024.jpg" link="L1110684-003-1024.jpg" >}}
 
 
-## Rainbow Tales by Ayumi Koketsu {#rainbow-tales-by-ayumi-koketsu}
+## Rainbow Tales by Ayumi Koketsu
 
 -   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
 -   [Svein Olav Herstad](/tags/svein-olav-herstad) - piano
@@ -42,10 +42,10 @@ Released in 2012 on Pony Canyon as MYCJ-30620.
 _Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Ayumi Koketsu performing “Near The Clouds” in a duo setting:](https://youtu.be/nimLiOrT4-0)
 
 {{< youtube nimLiOrT4-0 >}}
 
--   Excerpt from track #1: [“ウィズ・メイ (_With May_)”](/audio/#mix-3)
+-   [Excerpt from track #1: “ウィズ・メイ (_With May_)”](/audio/#mix-3)

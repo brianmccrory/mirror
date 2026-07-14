@@ -52,7 +52,7 @@ Particularly impactful, the last track #5 “Grief Runs Deep” starts with a he
 {{< figure src="L1250108x-1200.jpeg" link="L1250108x-1200.jpeg" >}}
 
 
-## Virtual Silence by Chie Nishimura {#virtual-silence-by-chie-nishimura}
+## Virtual Silence by Chie Nishimura
 
 -   [Chie Nishimura](/tags/chie-nishimura) - vocal
 -   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
@@ -64,7 +64,7 @@ Released in 2021 on en records as Virtual Silence / Chie Nishimura.
 _Japanese names: 西村知恵 Nishimura Chie 織原良次 Orihara Ryoji 井上銘 Inoue May 本田珠也 Honda Tamaya_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for #5 “Grief Runs Deep”:](https://youtu.be/0k8dcM8sAlE)
 
@@ -82,10 +82,10 @@ _Japanese names: 西村知恵 Nishimura Chie 織原良次 Orihara Ryoji 井上�
 
 {{< youtube dn7k-ePNVpc >}}
 
--   Excerpt from track #2: [“矛盾の街 (Vain Pursuit) (_City of Contradiction (Vain Pursuit)_)”](/audio/#mix-12)
+-   [Excerpt from track #2: “矛盾の街 (Vain Pursuit) (_City of Contradiction (Vain Pursuit)_)”](/audio/#mix-12)
 
 
-## Links {#links}
+## Links
 
 -   [Album introduction and song descriptions from bassist Ryoji Orihara](https://note.com/ryojiorihara/n/n2ca587e7aa8a)
 

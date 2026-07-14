@@ -42,7 +42,7 @@ Much like melodic improvisation, the two musicians simultaneously decide how to 
 This amazing music does speak for itself, and words just scratch the surface of the art here. Suffice it to say it’s captivating music, patient and radiant, ethereal and tender, and a joy to listen to these two musicians create together. The following translated liner notes provide additional context and thoughts from the two musicians.
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Taihei Asakawa’s and Kazumi Ikenaga’s original Japanese liner notes.)_
 
@@ -144,7 +144,7 @@ DPA 4006-TL x 2
 {{< figure src="L1250242x-1200.jpeg" link="L1250242x-1200.jpeg" >}}
 
 
-## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa {#nordnote-by-kazumi-ikenaga-and-taihei-asakawa}
+## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa
 
 -   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
 -   [Taihei Asakawa](/tags/taihei-asakawa) - piano
@@ -154,7 +154,7 @@ Released in 2020 on Time Machine Record as TMCD-1020.
 _Japanese names: 池長和美 Ikenaga Kazumi 浅川太平 Asakawa Taihei_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/tQst--qblg8)
 
@@ -164,9 +164,9 @@ _Japanese names: 池長和美 Ikenaga Kazumi 浅川太平 Asakawa Taihei_
 
 {{< youtube 15-bnW1CE8s >}}
 
--   Excerpt from track #5: [“Saenk kun dit hoved du blomst”](/audio/#mix-11)
+-   [Excerpt from track #5: “Saenk kun dit hoved du blomst”](/audio/#mix-11)
 
 
-## Links {#links}
+## Links
 
 -   [NordNote](https://nordnote.official.ec)

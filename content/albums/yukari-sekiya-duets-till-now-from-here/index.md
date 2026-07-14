@@ -38,7 +38,7 @@ Free playing aside, Sekiya leans strongly into her composer role for the most pa
 {{< figure src="L1330966x-1200.jpeg" link="L1330966x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 >
 >
@@ -67,7 +67,7 @@ Free playing aside, Sekiya leans strongly into her composer role for the most pa
 > Born in Osaka. She is a musician with a unique performance style that utilizes swells and pauses, who creates vivid, original songs that practically sing themselves. She works nationwide focusing on collaborations across genres with performers and artists from both Japan and overseas, her solo project “Out of the Window” which includes improvisation and landscape, seamlessly connecting and deepening improvisation and composition — the abstract and the concrete. Her music is adored, not only by music fans, but also in various fields as “music that shakes your emotions”.
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 There are no “thorns” in the piano she plays. That is not something with a hidden meaning. With accompanied tension, it is a pleasurable world that also contains a sense of “poison”. Through this album I want to keep an eye on the past and the future of this pianist who moves at will across the borders of free improvisation and coordinated, composed music.
 
@@ -76,7 +76,7 @@ There are no “thorns” in the piano she plays. That is not something with a h
 {{< figure src="L1330991x-1200.jpeg" link="L1330991x-1200.jpeg" >}}
 
 
-## Duets Till Now, From Here by Yukari Sekiya {#duets-till-now-from-here-by-yukari-sekiya}
+## Duets Till Now, From Here by Yukari Sekiya
 
 -   [Yukari Sekiya](/tags/yukari-sekiya) - piano
 -   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor &amp; soprano sax
@@ -93,7 +93,7 @@ Released in 2025 on Umishima Records as USM-001.
 _Japanese names: 関谷友加里 Sekiya Yukari かみむら泰一 Kamimura Taiichi 武井努 Takei Tsutomu 谷向柚美 Tanimukai Yuzumi 森下周央彌 Morishita Suomi 森定道広 Morisada Michihiro 大塚恵 Otsuka Megumi 甲斐正樹 Kai Masaki 光田じん Mitsuda Jin_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video #1 (Disc 1 excerpts):](https://youtu.be/R7wE5s0eKfc)
 
@@ -117,4 +117,4 @@ _Japanese names: 関谷友加里 Sekiya Yukari かみむら泰一 Kamimura Taiic
 
 -   [This album on streaming platforms](https://linkco.re/16brfqTz)
 
--   Excerpt from track #107: [“Canja”](/audio/#mix-15)
+-   [Excerpt from track #107: “Canja”](/audio/#mix-15)

@@ -28,7 +28,7 @@ _Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven 
 {{< figure src="L1260534x-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Inside case" link="L1260534x-1200.jpeg" >}}
 
 
-## Semendo Sementes by Yuki Ito Trio {#semendo-sementes-by-yuki-ito-trio}
+## Semendo Sementes by Yuki Ito Trio
 
 -   [Yuki Ito](/tags/yuki-ito) - bass
 -   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
@@ -39,7 +39,7 @@ Released in 2021 on Yuki Ito as YDM-002.
 _Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Kimura Hiro_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for _Semendo Sementes_ from Yuki Ito Trio:](https://youtu.be/mI5NDwMKxMo)
 
@@ -55,4 +55,4 @@ _Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Ki
 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mqtI2uWsmirCLUn6NRbiqfkwTDDaSTh9U)
 
--   Excerpt from track #1: [“Aderante”](/audio/#mix-15)
+-   [Excerpt from track #1: “Aderante”](/audio/#mix-15)

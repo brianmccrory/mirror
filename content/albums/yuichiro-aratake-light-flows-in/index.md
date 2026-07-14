@@ -28,7 +28,7 @@ In addition to solo piano, 3 of the 12 tracks feature duos: a piano and sax outi
 {{< figure src="L1210240-1024.jpg" link="L1210240-1024.jpg" >}}
 
 
-## The Light Flows In by Yuichiro Aratake {#the-light-flows-in-by-yuichiro-aratake}
+## The Light Flows In by Yuichiro Aratake
 
 -   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
 -   [Tamaya Honda](/tags/tamaya-honda) - drums (tr. #10)
@@ -40,10 +40,10 @@ Released in 2005 on S2S as SSDF-5006.
 _Japanese names: 荒武裕一朗 Aratake Yuichiro 本田珠也 Honda Tamaya 河村英樹 Kawamura Hideki 安東昇 Ando Noboru_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Yuichiro Aratake trio playing live in 2014:](https://youtu.be/ebEHjCZrLi8)
 
 {{< youtube ebEHjCZrLi8 >}}
 
--   Excerpt from track #1: [“I loves You,Porgy”](/audio/#mix-4)
+-   [Excerpt from track #1: “I loves You,Porgy”](/audio/#mix-4)

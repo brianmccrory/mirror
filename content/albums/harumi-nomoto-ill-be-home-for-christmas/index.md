@@ -40,7 +40,7 @@ Cheery and cozy, the spirit of jazz piano comes through each song on this album.
 {{< figure src="L1330635x-1200.jpeg" link="L1330635x-1200.jpeg" >}}
 
 
-## I’ll Be Home for Christmas by Harumi Nomoto {#i-ll-be-home-for-christmas-by-harumi-nomoto}
+## I’ll Be Home for Christmas by Harumi Nomoto
 
 -   [Harumi Nomoto](/tags/harumi-nomoto) - piano, Nord Stage EX
 
@@ -49,7 +49,7 @@ Released in 2023 on Okra Record as HTM-1224.
 _Japanese names: 野本晴美 Nomoto Harumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [“Merry Christmas Mr. Lawrence” (track #6) — live version:](https://youtu.be/I2czUYCH-Hk)
 
@@ -59,4 +59,4 @@ _Japanese names: 野本晴美 Nomoto Harumi_
 
 {{< youtube qBkOmrzqaPA >}}
 
--   Excerpt from track #1: [“O little town of Bethlehem”](/audio/#mix-14)
+-   [Excerpt from track #1: “O little town of Bethlehem”](/audio/#mix-14)

@@ -36,7 +36,7 @@ The presence of the fellow lyrical jazz pianist Bill Evans is also felt througho
 {{< figure src="L1110811-1024.jpg" link="L1110811-1024.jpg" >}}
 
 
-## Sympathy by Hitomi Nishiyama Trio {#sympathy-by-hitomi-nishiyama-trio}
+## Sympathy by Hitomi Nishiyama Trio
 
 -   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
 -   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
@@ -47,15 +47,15 @@ Released in 2013 on Meantone Records as MT-004.
 _Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Promotional video for this album:](https://youtu.be/OHW5hbGSByo)
 
 {{< youtube OHW5hbGSByo >}}
 
--   Excerpt from track #1: [“Sympathy”](/audio/#mix-4)
+-   [Excerpt from track #1: “Sympathy”](/audio/#mix-4)
 
 
-## Links {#links}
+## Links
 
 -   [Thread sculpture (used as cover art) by Akiko Ikeuchi](http://akikoikeuchi.silk.to/)

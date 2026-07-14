@@ -28,7 +28,7 @@ Along with the six jazz standards and covers, Kitajima also introduces four of h
 {{< figure src="L1270635x-1200.jpeg" link="L1270635x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Kanoko Kitajima’s original Japanese liner notes.)_
 
@@ -85,14 +85,14 @@ Harry Warren gave us more than 800 impressive compositions, including “The Mor
 北島佳乃子 Kitajima Kanoko
 
 
-## Obi Notes {#obi-notes}
+## Obi Notes
 
 A brilliant debut record from a pianist with a naturally sophisticated talent! You’re moved to smile with every note from all the songs… this is real jazz!
 
 {{< figure src="L1270653x-1200.jpeg" link="L1270653x-1200.jpeg" >}}
 
 
-## Long Way to Go by Kanoko Kitajima {#long-way-to-go-by-kanoko-kitajima}
+## Long Way to Go by Kanoko Kitajima
 
 -   [Kanoko Kitajima](/tags/kanoko-kitajima) - piano
 -   [Motoi Kanamori](/tags/motoi-kanamori) - bass
@@ -103,7 +103,7 @@ Released in 2019 on T&amp;A Music as Long Way to Go.
 _Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Soul Snappy”, track #1 on this album:](https://youtu.be/I8VMG5kMdG4)
 
@@ -121,4 +121,4 @@ _Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 
 
 {{< youtube RvpIx3-77Ms >}}
 
--   Excerpt from track #2: [“Long way to go”](/audio/#mix-13)
+-   [Excerpt from track #2: “Long way to go”](/audio/#mix-13)

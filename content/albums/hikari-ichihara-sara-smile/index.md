@@ -32,7 +32,7 @@ Pop and soft rock also get special attention from Ichihara’s band, complementi
 {{< figure src="L1200452x-1200.jpeg" link="L1200452x-1200.jpeg" >}}
 
 
-## Liner Notes {#liner-notes}
+## Liner Notes
 
 _(Translated from Shinya Takagi’s original Japanese liner notes.)_
 
@@ -95,7 +95,7 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 {{< figure src="IMG_20231011_171943883_HDRx-1200.jpeg" link="IMG_20231011_171943883_HDRx-1200.jpeg" >}}
 
 
-## Sara Smile by Hikari Ichihara {#sara-smile-by-hikari-ichihara}
+## Sara Smile by Hikari Ichihara
 
 -   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet &amp; flugelhorn
 -   [Adam Birnbaum](/tags/adam-birnbaum) - piano
@@ -109,7 +109,7 @@ Released in 2006 on Leafage Jazz as PCCY-60003.
 _Japanese names: 市原ひかり Ichihara Hikari_
 
 
-## Audio and Video {#audio-and-video}
+## Audio and Video
 
 -   [Audio for “Cleopatra’s Dream”, track #1 on this album:](https://youtu.be/5-yqoUpCn48)
 
@@ -123,4 +123,4 @@ _Japanese names: 市原ひかり Ichihara Hikari_
 
 {{< youtube XFVixKdrx5U >}}
 
--   Excerpt from track #6: [“Sara Smile”](/audio/#mix-11)
+-   [Excerpt from track #6: “Sara Smile”](/audio/#mix-11)

@@ -1,5 +1,6 @@
+{{- if site.IsDefault -}}
 /rss /index.xml 301
-{{ range .Site.RegularPages -}}
+{{ range hugo.Sites -}}
     {{- range $p := .Pages -}}
       {{- range .Aliases -}}
         {{- if findRE `\s` . -}}
@@ -8,4 +9,5 @@
         {{- printf "%s %s 301\n" . $p.RelPermalink -}}
       {{- end -}}
     {{- end -}}
+  {{- end -}}
 {{- end -}}

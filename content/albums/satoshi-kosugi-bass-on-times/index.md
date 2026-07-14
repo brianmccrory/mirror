@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/satoshi-kosugi-bass-on-times/"]
 [cover]
   image = "satoshikosugi-bassontimes-460.jpeg"
-  caption = ""
+  alt = "Cover art of Bass on Times by Satoshi Kosugi"
   relative = true
 +++
 

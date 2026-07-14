@@ -11,6 +11,7 @@ aliases = ["/p/alfie/"]
 [cover]
   image = "P1060603-1024.jpeg"
   caption = "The Harumi Nomoto trio playing at Alfie in 2011."
+  alt = "The Harumi Nomoto trio playing at Alfie in 2011."
   relative = true
 +++
 
@@ -23,7 +24,7 @@ Depending on any particular night you may hear vocal jazz, funk jazz, modern jaz
 {{< figure src="IMG_20181106_224737529-1024.jpeg" link="IMG_20181106_224737529-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Alfie’s website](http://alfie.tokyo/)
 -   [Located near Roppongi station in Tokyo, Japan](https://goo.gl/maps/zRJC3noVBR2VSv1R6)

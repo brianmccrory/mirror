@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuichi-narita-urban-nocturne/"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
-  caption = ""
+  alt = "Cover art of Urban Nocturne by Yuichi Narita"
   relative = true
 +++
 

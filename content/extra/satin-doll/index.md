@@ -11,6 +11,7 @@ aliases = ["/p/satin-doll/"]
 [cover]
   image = "L1060938x-1200.jpeg"
   caption = "Rie Taguchi's Birthday Live with Mai Suzuki and Mayumi Miyata at Satin Doll in 2013"
+  alt = "Rie Taguchi's Birthday Live with Mai Suzuki and Mayumi Miyata at Satin Doll in 2013"
   relative = true
 +++
 
@@ -37,7 +38,7 @@ Unfortunately, this long-running jazz spot will join the ranks of recent jazz ba
 {{< figure src="L1060953-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Vocalist Rie Taguchi at Satin Doll in 2013" link="L1060953-1200.jpeg" >}}
 
 
-## Notice Regarding the Closing of Satin Doll {#notice-regarding-the-closing-of-satin-doll}
+## Notice Regarding the Closing of Satin Doll
 
 Due to the influence of various circumstances, the Jazz Club Restaurant “Roppongi Satin Doll” will be closing permanently on June 30, 2024.
 
@@ -58,7 +59,7 @@ The staff will all continue to do our best to create fulfilling times out of the
 {{< figure src="IMG_20190617_185258865-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Satin Doll" link="IMG_20190617_185258865-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Satin Doll’s website](https://satin-doll.jp)
 -   [Located near Roppongi station in Tokyo, Japan](https://maps.app.goo.gl/VzN6f5fHgt6evXN8A)

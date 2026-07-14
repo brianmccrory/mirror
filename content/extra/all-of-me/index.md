@@ -11,6 +11,7 @@ aliases = ["/p/all-of-me/"]
 [cover]
   image = "L1000733-1024.jpeg"
   caption = "A night of jazz standards at All of Me in 2012."
+  alt = "A night of jazz standards at All of Me in 2012."
   relative = true
 +++
 
@@ -21,7 +22,7 @@ This bar is also famous for all-night live shows and jam sessions on selected Fr
 {{< figure src="L1040378-1024.jpeg" link="L1040378-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [All of Me’s website](https://allofmeclub.net/)
 -   [Located near Roppongi and Nogizaka stations in Tokyo, Japan](https://goo.gl/maps/qXRVNNMVGG2jv1aS6)

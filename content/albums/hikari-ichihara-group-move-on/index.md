@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hikari-ichihara-group-move-on/"]
 [cover]
   image = "hikariichihara-moveon-460.jpeg"
-  caption = ""
+  alt = "Cover art of Move On by Hikari Ichihara Group"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sumire-kuribayashi-orbital-resonance/"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
-  caption = ""
+  alt = "Cover art of Orbital Resonance by Sumire Kuribayashi"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/velera/"]
 [cover]
   image = "IMG_20190613_210528443_HDRx-1200.jpeg"
   caption = "Akiko Suda (vocals) and Yuichi Narita (piano) as “Botan” at Velera (June 2019)"
+  alt = "Akiko Suda (vocals) and Yuichi Narita (piano) as “Botan” at Velera (June 2019)"
   relative = true
 +++
 
@@ -61,7 +62,7 @@ Originally opened in 2016, Velera has been at the current Akasaka-mitsuka locati
 {{< figure src="IMG_20251023_184354672_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 18: </span>Welcome to Velera" link="IMG_20251023_184354672_HDR-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Velera’s website](http://velera.tokyo/)
 -   [Located near Akasaka-mitsuke station in Tokyo, Japan](https://maps.app.goo.gl/VaVAUimqvbkNYTJ37)

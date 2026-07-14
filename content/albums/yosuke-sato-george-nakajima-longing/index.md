@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yosuke-sato-george-nakajima-longing/"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
-  caption = ""
+  alt = "Cover art of Longing by Yosuke Sato & George Nakajima"
   relative = true
 +++
 

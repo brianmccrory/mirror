@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/takayuki-yagi-new-departure/"]
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
-  caption = ""
+  alt = "Cover art of New Departure by Takayuki Yagi"
   relative = true
 +++
 

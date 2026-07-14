@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yoshiko-saita-back-in-time-to-boston/"]
 [cover]
   image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
-  caption = ""
+  alt = "Cover art of Back in Time to Boston by Yoshiko Saita"
   relative = true
 +++
 

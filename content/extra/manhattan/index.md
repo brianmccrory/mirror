@@ -11,6 +11,7 @@ aliases = ["/p/manhattan/"]
 [cover]
   image = "IMG_20251010_190904141_HDR-1200.jpeg"
   caption = "Jazz & Live Manhattan 3F Jazz School"
+  alt = "Jazz & Live Manhattan 3F Jazz School"
   relative = true
 +++
 
@@ -81,7 +82,7 @@ A last note on finding this spot: With a name like “Manhattan”, online searc
 {{< figure src="IMG_20190629_210905687-1200.jpeg" caption="<span class=\"figure-number\">Figure 19: </span>Welcome to Manhattan" link="IMG_20190629_210905687-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Manhattan’s website](http://www.ateliermw.com/manhattan/)
 -   [Located near Asagaya station in Tokyo, Japan](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA)

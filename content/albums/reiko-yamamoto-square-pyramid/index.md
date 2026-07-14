@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/reiko-yamamoto-square-pyramid/"]
 [cover]
   image = "reiko-yamamoto-square-pyramid-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Square Pyramid by Reiko Yamamoto"
   relative = true
 +++
 

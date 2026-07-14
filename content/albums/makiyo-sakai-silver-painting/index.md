@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/makiyo-sakai-silver-painting/"]
 [cover]
   image = "makiyo-sakai-silver-painting-460.jpeg"
-  caption = ""
+  alt = "Cover art of Silver Painting by Makiyo Sakai"
   relative = true
 +++
 

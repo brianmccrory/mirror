@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/layla-tomomi-sakai-stolen-moments/"]
 [cover]
   image = "layla-tomomi-sakai-stolen-moments-460.jpeg"
-  caption = ""
+  alt = "Cover art of Stolen Moments by Layla Tomomi Sakai"
   relative = true
 +++
 

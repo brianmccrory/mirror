@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/eriko-shimizu-sora/"]
 [cover]
   image = "erikoshimizu-sora-460.jpeg"
-  caption = ""
+  alt = "Cover art of Sora by Eriko Shimizu"
   relative = true
 +++
 

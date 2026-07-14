@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/george-nakajima-trio-first-touch/"]
 [cover]
   image = "george-nakajima-first-touch-460.jpeg"
-  caption = ""
+  alt = "Cover art of First Touch by George Nakajima Trio"
   relative = true
 +++
 

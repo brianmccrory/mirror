@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/seiji-endo-piano-pieces-collection-ii/"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-ii-460.jpeg"
-  caption = ""
+  alt = "Cover art of Piano Pieces Collection II by Seiji Endo"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/the-deep/"]
 [cover]
   image = "L1140712-1024.jpeg"
   caption = "Vocalist Akiko Suda and pianist Yuichi Narita playing at The Deep in 2016."
+  alt = "Vocalist Akiko Suda and pianist Yuichi Narita playing at The Deep in 2016."
   relative = true
 +++
 
@@ -29,7 +30,7 @@ Previously there was also a weekly midnight session on Fridays and holidays whic
 {{< figure src="IMG_20230310_201040729-1024.jpeg" link="IMG_20230310_201040729-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [The Deep’s website](https://jazz-thedeep.com/)
 -   [Located near Ginza and Shimbashi stations in Tokyo, Japan](https://goo.gl/maps/iCGjmYzcJ1TnkLcj9)

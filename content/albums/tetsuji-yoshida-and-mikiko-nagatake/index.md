@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/tetsuji-yoshida-and-mikiko-nagatake/"]
 [cover]
   image = "tetsujiyoshida-mikikonagatake-knuttel-460.jpeg"
-  caption = ""
+  alt = "Cover art of Live at Knuttel House by Tetsuji Yoshida & Mikiko Nagatake Duo"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/takako-yamada-trio-live-at-the-moment/"]
 [cover]
   image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
-  caption = ""
+  alt = "Cover art of Live at The Moment by Takako Yamada Trio"
   relative = true
 +++
 

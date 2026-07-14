@@ -11,6 +11,7 @@ aliases = ["/p/on-a-slow-boat-to/"]
 [cover]
   image = "L1280249x-1200.jpeg"
   caption = "On A Slow Boat To...’s entrance"
+  alt = "On A Slow Boat To...’s entrance"
   relative = true
 +++
 
@@ -73,7 +74,7 @@ Live performances at _On A Slow Boat To..._ are irregular but savored, and advan
 {{< figure src="IMG_20240307_175322730_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 21: </span>Welcome to On A Slow Boat To..." link="IMG_20240307_175322730_HDRx-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [On A Slow Boat To…’s website](https://slwboat.com/)
 -   [Located near Jimbocho and Ochanomizu stations in Tokyo, Japan](https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8)

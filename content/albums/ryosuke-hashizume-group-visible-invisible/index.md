@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ryosuke-hashizume-group-visible-invisible/"]
 [cover]
   image = "ryosukehashizume-visible-460.jpeg"
-  caption = ""
+  alt = "Cover art of Best Wishes by Maki Fujimura"
   relative = true
 +++
 

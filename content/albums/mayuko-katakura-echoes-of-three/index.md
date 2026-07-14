@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mayuko-katakura-echoes-of-three/"]
 [cover]
   image = "mayukokatakura-echoes-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Echoes of Three by Mayuko Katakura"
   relative = true
 +++
 

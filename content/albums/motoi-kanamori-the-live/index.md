@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/motoi-kanamori-the-live/"]
 [cover]
   image = "motoi-kanamori-the-live-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Live by Motoi Kanamori"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/akihiro-yoshimoto-quartet-blending-tone/"]
 [cover]
   image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
-  caption = ""
+  alt = "Cover art of Blending Tone by Akihiro Yoshimoto Quartet"
   relative = true
 +++
 

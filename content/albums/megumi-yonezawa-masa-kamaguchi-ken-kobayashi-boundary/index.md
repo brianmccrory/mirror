@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/"]
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
-  caption = ""
+  alt = "Cover art of Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi"
   relative = true
 +++
 

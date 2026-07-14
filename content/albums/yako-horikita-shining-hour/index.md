@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yako-horikita-shining-hour/"]
 [cover]
   image = "yakohorikita-shininghour-460.jpeg"
-  caption = ""
+  alt = "Cover art of Shining Hour by Yako Horikita"
   relative = true
 +++
 

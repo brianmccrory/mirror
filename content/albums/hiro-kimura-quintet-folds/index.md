@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiro-kimura-quintet-folds/"]
 [cover]
   image = "hiro-kimura-folds-460.jpeg"
-  caption = ""
+  alt = "Cover art of Folds by Hiro Kimura Quintet"
   relative = true
 +++
 

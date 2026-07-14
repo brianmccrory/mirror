@@ -11,6 +11,7 @@ aliases = ["/p/cafe-beulmans/"]
 [cover]
   image = "IMG_20181117_150312893_HDR-1024.jpeg"
   caption = "Erisa Ogawa and Ayaha Amamiya at Cafe Beulmans in 2018"
+  alt = "Erisa Ogawa and Ayaha Amamiya at Cafe Beulmans in 2018"
   relative = true
 +++
 
@@ -23,7 +24,7 @@ This jazz spot hosts both daytime and evening events on specific days. While thi
 {{< figure src="IMG_20181117_130629418_HDR-1024.jpeg" link="IMG_20181117_130629418_HDR-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Cafe Beulmans’s website](https://cafebeulmans.com/)
 -   [Located near Seijogakuen-mae and Nakano-sakaue stations in Tokyo, Japan](https://goo.gl/maps/Aw7WKoHRBvCjF5Kn9)

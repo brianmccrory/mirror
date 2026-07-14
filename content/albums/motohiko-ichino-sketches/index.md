@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/motohiko-ichino-sketches/"]
 [cover]
   image = "motohiko-ichino-sketches-460.jpeg"
-  caption = ""
+  alt = "Cover art of Sketches by Motohiko Ichino"
   relative = true
 +++
 

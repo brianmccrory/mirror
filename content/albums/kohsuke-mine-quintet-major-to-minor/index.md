@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kohsuke-mine-quintet-major-to-minor/"]
 [cover]
   image = "kohsukemine-major-460.jpeg"
-  caption = ""
+  alt = "Cover art of Major to Minor by Kohsuke Mine Quintet"
   relative = true
 +++
 

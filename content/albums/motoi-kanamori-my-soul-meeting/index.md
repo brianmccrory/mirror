@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/motoi-kanamori-my-soul-meeting/"]
 [cover]
   image = "motoikanamori-mysoul-460.jpeg"
-  caption = ""
+  alt = "Cover art of My Soul Meeting by Motoi Kanamori"
   relative = true
 +++
 

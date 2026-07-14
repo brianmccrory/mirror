@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/toshiki-abe-life-memory-project-simplicity/"]
 [cover]
   image = "toshiki-abe-life-memory-project-simplicity-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Simplicity by Toshiki Abe Life Memory Project"
   relative = true
 +++
 
@@ -35,7 +35,7 @@ The songs stay immersed in that fun and funky swing jazz zone, sometimes alterna
 
 I recently asked Toshiki Abe his about the memories he had of Life Memory Project’s first album. Without hesitation, he responded about how fast they formed and recorded their first album, almost as one continuous action. The style and content of response reinforced the themes I had picked up on, that of forward-thinking, positive energy, and a hands-on, can-do attitude, all of which no doubt resulted in an instant simplicity of purpose.
 
-{{< figure src="IMG_20251019_074007936x-1200.jpeg" link="IMG_20251019_074007936x-1200.jpeg" >}}
+{{< figure src="IMG_20251019_074007936x-1200.jpeg" alt="Having just finished an autumn tour in Southern Japan, Toshiki Abe Life Memory Project is now working on releasing their second album ([[https://x.gd/woDAP][with a current crowdfunding campaign]]), due out next year." link="IMG_20251019_074007936x-1200.jpeg" >}}
 
 
 ## The Simplicity by Toshiki Abe Life Memory Project

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kazumi-ikenaga-taihei-asakawa-nordnote/"]
 [cover]
   image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
-  caption = ""
+  alt = "Cover art of NordNote by Kazumi Ikenaga & Taihei Asakawa"
   relative = true
 +++
 

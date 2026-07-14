@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yoshihito-p-koizumi-by-coincidence/"]
 [cover]
   image = "yoshihitopkoizumi-bycoin-460.jpeg"
-  caption = ""
+  alt = "Cover art of By Coincidence by Yoshihito “P” Koizumi P-Project"
   relative = true
 +++
 

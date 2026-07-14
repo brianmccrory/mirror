@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/layla-tomomi-sakai-whisper-not/"]
 [cover]
   image = "layla-tomomi-sakai-whisper-460.jpeg"
-  caption = ""
+  alt = "Cover art of Whisper Not by Layla Tomomi Sakai"
   relative = true
 +++
 

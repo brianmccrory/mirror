@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/daiki-yasukagawa-new-trio-three-roses/"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Three Roses by Daiki Yasukagawa New Trio"
   relative = true
 +++
 

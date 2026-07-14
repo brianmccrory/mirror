@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sumire-kuribayashi-trio-toys/"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
-  caption = ""
+  alt = "Cover art of Toys by Sumire Kuribayashi Trio"
   relative = true
 +++
 

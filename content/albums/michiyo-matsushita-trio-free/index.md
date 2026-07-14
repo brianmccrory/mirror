@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/michiyo-matsushita-trio-free/"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
-  caption = ""
+  alt = "Cover art of Free by Michiyo Matsushita Trio"
   relative = true
 +++
 

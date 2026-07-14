@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuichiro-aratake-light-flows-in/"]
 [cover]
   image = "yuichiroaratake-light-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Light Flows In by Yuichiro Aratake"
   relative = true
 +++
 

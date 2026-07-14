@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/masako-kunisada-wonderful-life/"]
 [cover]
   image = "masakokunisada-wonderful-460.jpeg"
-  caption = ""
+  alt = "Cover art of Wonderful Life by Masako Kunisada"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/naoko-akimoto-no-one-else/"]
 [cover]
   image = "naoko-akimoto-no-one-else-460.jpeg"
-  caption = ""
+  alt = "Cover art of No One Else by Naoko Akimoto"
   relative = true
 +++
 

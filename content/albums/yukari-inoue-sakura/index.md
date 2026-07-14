@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yukari-inoue-sakura/"]
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
-  caption = ""
+  alt = "Cover art of Sakura by Yukari Inoue"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuko-miyawaki-song-of-flower/"]
 [cover]
   image = "yukomiyawaki-songof-460.jpeg"
-  caption = ""
+  alt = "Cover art of Song of Flower by Yuko Miyawaki"
   relative = true
 +++
 

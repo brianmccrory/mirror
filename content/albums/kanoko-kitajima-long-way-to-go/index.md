@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kanoko-kitajima-long-way-to-go/"]
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
-  caption = ""
+  alt = "Cover art of Long Way to Go by Kanoko Kitajima"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/toshihiko-inoue-and-masaki-hayashi/"]
 [cover]
   image = "toshihikoinoue-mistral-460.jpeg"
-  caption = ""
+  alt = "Cover art of Mistral by Toshihiko Inoue & Masaki Hayashi"
   relative = true
 +++
 

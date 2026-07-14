@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/emiko-voice-x-suga-dairo-phase-2/"]
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
-  caption = ""
+  alt = "Cover art of Phase 2 by Emiko Voice x Suga Dairo"
   relative = true
 +++
 

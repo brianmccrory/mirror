@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuka-yanagihara-trio-inner-views/"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
-  caption = ""
+  alt = "Cover art of Inner Views by Yuka Yanagihara Trio"
   relative = true
 +++
 

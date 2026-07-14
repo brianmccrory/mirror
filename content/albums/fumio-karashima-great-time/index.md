@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/fumio-karashima-great-time/"]
 [cover]
   image = "fumio-karashima-great-time-460.jpeg"
-  caption = ""
+  alt = "Cover art of Great Time by Fumio Karashima"
   relative = true
 +++
 
@@ -64,11 +64,11 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 >
 > The first track is an original song dedicated to Jack “Like Blues For J.D.” and the unison of the trio makes it hard to believe that it is their first collaboration. What strikes the listener more than anything is the harmony of the sound that the three musicians’ performance creates, most evident perhaps in the second track, Karashima’s original piece, “Quiet Moment”. One by one the notes float crystalline from the piano, and the cymbal appears to sing as it retains enormous presence at even the smallest of volumes. Supporting all this is the crisp sound of the bass reply. The three musicians blend so seamlessly together that any listener would think that they were witnessing the three primary colors of music.
 >
-> {{< figure src="DSC_7292-1200.jpeg" link="DSC_7292-1200.jpeg" >}}
+> {{< figure src="DSC_7292-1200.jpeg" alt="The Fumio Karashima Trio live at Pit Inn in Tokyo (May 2007)" link="DSC_7292-1200.jpeg" >}}
 >
 > “Just Enough” is a Herbie Hancock piece which, amongst others, has been performed by Herbie with Grover Washington Jr. and also as a duet with Eliane Elias. Previous versions have been performed as slow ballads but here an up-tempo performance reveals a different side of the song.
 >
-> {{< figure src="DSC_7296-1200.jpeg" link="DSC_7296-1200.jpeg" >}}
+> {{< figure src="DSC_7296-1200.jpeg" alt="The Fumio Karashima Trio live at Pit Inn in Tokyo (May 2007)" link="DSC_7296-1200.jpeg" >}}
 >
 > With the forth track we return to Karashima’s original works: “Those Years” is a piece with a reminiscent flavor and is followed by “Brilliant Darkness” whose thrilling performance is matched by the perfect harmony of the three artists’ sound, and next is the impressive dry lyricism of “Stillness”. Listeners are likely to find this part of the album the most absorbing.
 >
@@ -78,7 +78,7 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 >
 > December 2005 Jin Nakahara
 
-{{< figure src="IMG_4184-1200.jpeg" link="IMG_4184-1200.jpeg" >}}
+{{< figure src="IMG_4184-1200.jpeg" alt="The Fumio Karashima Trio live at Naru in Tokyo (May 2007)" link="IMG_4184-1200.jpeg" >}}
 
 
 ## Great Time by Fumio Karashima

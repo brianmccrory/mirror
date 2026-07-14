@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hideaki-hori-trio-unconditional-love/"]
 [cover]
   image = "hideakihori-unconditional-460.jpeg"
-  caption = ""
+  alt = "Cover art of Unconditional Love by Hideaki Hori Trio"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/velvet-sun/"]
 [cover]
   image = "L1240615-1200.jpeg"
   caption = "Stage area at Velvet Sun"
+  alt = "Stage area at Velvet Sun"
   relative = true
 +++
 
@@ -59,7 +60,7 @@ There is usually a nice discount offered if an online reservation was made at le
 {{< figure src="IMG_20240510_204408861_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Velvet Sun" link="IMG_20240510_204408861_HDR-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Velvet Sun’s website](http://www.velvetsun.jp/)
 -   [Located near Ogikubo and Asagaya stations in Tokyo, Japan](https://maps.app.goo.gl/AVGAMKrjVta4HitX9)

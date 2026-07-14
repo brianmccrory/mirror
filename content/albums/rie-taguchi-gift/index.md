@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/rie-taguchi-gift/"]
 [cover]
   image = "rietaguchi-gift-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Gift by Rie Taguchi"
   relative = true
 +++
 

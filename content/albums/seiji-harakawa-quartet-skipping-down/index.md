@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/seiji-harakawa-quartet-skipping-down/"]
 [cover]
   image = "seiji-harakawa-skipping-down-460.jpeg"
-  caption = ""
+  alt = "Cover art of Skipping Down the Street by Seiji Harakawa Quartet"
   relative = true
 +++
 

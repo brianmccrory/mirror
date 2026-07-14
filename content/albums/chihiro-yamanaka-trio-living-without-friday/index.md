@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chihiro-yamanaka-trio-living-without-friday/"]
 [cover]
   image = "chihiroyamanaka-living-460.jpeg"
-  caption = ""
+  alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/miyuki-moriya-beyond-the-sea/"]
 [cover]
   image = "miyuki-moriya-beyond-the-sea-460.jpeg"
-  caption = ""
+  alt = "Cover art of Beyond the Sea by Miyuki Moriya"
   relative = true
 +++
 

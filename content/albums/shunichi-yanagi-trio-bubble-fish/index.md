@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shunichi-yanagi-trio-bubble-fish/"]
 [cover]
   image = "shunichiyanagi-bubblefish-460.jpeg"
-  caption = ""
+  alt = "Cover art of Bubble Fish by Shunichi Yanagi Trio"
   relative = true
 +++
 

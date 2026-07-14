@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kaito-nakamura-invisible-diary/"]
 [cover]
   image = "kaito-nakamura-invisible-diary-460.jpeg"
-  caption = ""
+  alt = "Cover art of Invisible Diary by Kaito Nakamura"
   relative = true
 +++
 

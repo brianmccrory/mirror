@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hitomi-nishiyama-trio-many-seasons/"]
 [cover]
   image = "hitominishiyama-manyseasons-460.jpeg"
-  caption = ""
+  alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
   relative = true
 +++
 

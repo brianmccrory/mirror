@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuichiro-aratake-music-make-us-one/"]
 [cover]
   image = "yuichiro-aratake-music-make-460.jpeg"
-  caption = ""
+  alt = "Cover art of Music Make Us One by Yuichiro Aratake"
   relative = true
 +++
 

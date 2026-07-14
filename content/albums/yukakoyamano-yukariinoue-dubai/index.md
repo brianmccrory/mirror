@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yukakoyamano-yukariinoue-dubai/"]
 [cover]
   image = "yukakoyamano-dubai-460.jpeg"
-  caption = ""
+  alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"
   relative = true
 +++
 

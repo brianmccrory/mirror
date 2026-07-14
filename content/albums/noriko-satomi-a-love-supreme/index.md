@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/noriko-satomi-a-love-supreme/"]
 [cover]
   image = "norikosatomi-lovesupreme-460.jpeg"
-  caption = ""
+  alt = "Cover art of A Love Supreme by Noriko Satomi"
   relative = true
 +++
 

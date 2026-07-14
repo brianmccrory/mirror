@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/minoru-yoshiki-soulstation-path-of-hope/"]
 [cover]
   image = "minoruyoshiki-soulstation-path-460.jpeg"
-  caption = ""
+  alt = "Cover art of Path of Hope by Minoru Yoshiki Soulstation"
   relative = true
 +++
 

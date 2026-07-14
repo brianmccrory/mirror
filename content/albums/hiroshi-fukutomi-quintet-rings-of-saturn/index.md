@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiroshi-fukutomi-quintet-rings-of-saturn/"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
-  caption = ""
+  alt = "Cover art of Rings of Saturn by Hiroshi Fukutomi Quintet"
   relative = true
 +++
 

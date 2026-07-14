@@ -11,6 +11,7 @@ aliases = ["/p/soultrane/"]
 [cover]
   image = "L1170949x-1024.jpeg"
   caption = "A friendly jazz jam at Soultrane in 2017"
+  alt = "A friendly jazz jam at Soultrane in 2017"
   relative = true
 +++
 
@@ -29,7 +30,7 @@ With a capacity for perhaps 20 to 30 people, Soultrane provides a friendly and e
 {{< figure src="IMG_20170916_142635x-1024.jpeg" link="IMG_20170916_142635x-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Soultrane’s website](https://soultrane.jp/)
 -   [Located near Asakusa station in Tokyo, Japan](https://goo.gl/maps/FetvnRf2yCTkUQez7)

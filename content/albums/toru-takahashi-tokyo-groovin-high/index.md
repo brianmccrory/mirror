@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/toru-takahashi-tokyo-groovin-high/"]
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
-  caption = ""
+  alt = "Cover art of Tokyo Groovin’ High! by Toru Takahashi"
   relative = true
 +++
 

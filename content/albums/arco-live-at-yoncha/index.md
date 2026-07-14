@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/arco-live-at-yoncha/"]
 [cover]
   image = "arco-liveatyoncha-460.jpeg"
-  caption = ""
+  alt = "Cover art of Live At Yoncha by Arco"
   relative = true
 +++
 

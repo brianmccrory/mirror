@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/tcq-memories-of-t/"]
 [cover]
   image = "tcq-memoriesoft-460.jpeg"
-  caption = ""
+  alt = "Cover art of Memories of T by TCQ"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/fumio-karashima-trio-its-just-beginning/"]
 [cover]
   image = "fumiokarashima-beginning-460.jpeg"
-  caption = ""
+  alt = "Cover art of It’s Just Beginning by Fumio Karashima Trio"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/tokuhiro-doi-quartet-amalthea/"]
 [cover]
   image = "tokuhirodoi-amalthea-460.jpeg"
-  caption = ""
+  alt = "Cover art of Amalthea by Tokuhiro Doi Quartet"
   relative = true
 +++
 

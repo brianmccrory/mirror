@@ -11,6 +11,7 @@ aliases = ["/p/paco/"]
 [cover]
   image = "IMG_20181110_190247665-1024.jpeg"
   caption = "LiLi Vocal, pianist Takuya Ozaki, and guitarist Hiroyoshi Horie sharing a laugh during their jazz set."
+  alt = "LiLi Vocal, pianist Takuya Ozaki, and guitarist Hiroyoshi Horie sharing a laugh during their jazz set."
   relative = true
 +++
 
@@ -25,7 +26,7 @@ Paco ranks well in the category of cheery and welcoming places for at-home jazz 
 {{< figure src="IMG_20170921_210913-1024.jpeg" link="IMG_20170921_210913-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Paco’s website](http://jazzspotpaco.blog100.fc2.com/)
 -   [Located near Kojimachi and Hanzomon stations in Tokyo, Japan](https://goo.gl/maps/NhZBvkY4Mm5BxjCk8)

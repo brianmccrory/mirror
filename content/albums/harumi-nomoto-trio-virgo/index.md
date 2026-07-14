@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/harumi-nomoto-trio-virgo/"]
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
-  caption = ""
+  alt = "Cover art of Virgo by Harumi Nomoto Trio"
   relative = true
 +++
 

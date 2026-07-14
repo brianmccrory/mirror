@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/reikan-kobayashi-gakudan-hitori/"]
 [cover]
   image = "reikankobayashi-gakudan-460.jpeg"
-  caption = ""
+  alt = "Cover art of Gakudan Hitori by Reikan Kobayashi"
   relative = true
 +++
 

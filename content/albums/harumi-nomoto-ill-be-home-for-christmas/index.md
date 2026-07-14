@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/harumi-nomoto-ill-be-home-for-christmas/"]
 [cover]
   image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
-  caption = ""
+  alt = "Cover art of I’ll Be Home for Christmas by Harumi Nomoto"
   relative = true
 +++
 

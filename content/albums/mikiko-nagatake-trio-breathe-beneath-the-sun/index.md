@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mikiko-nagatake-trio-breathe-beneath-the-sun/"]
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
-  caption = ""
+  alt = "Cover art of Breathe Beneath the Sun by Mikiko Nagatake Trio"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/salt-peanuts/"]
 [cover]
   image = "IMG_20240416_191848986_HDR-1200.jpeg"
   caption = "Salt Peanuts"
+  alt = "Salt Peanuts"
   relative = true
 +++
 
@@ -285,7 +286,7 @@ _Included here are 100+ more photos from Salt Peanuts taken between 2011-2024._
 {{< figure src="IMG_20230205_181505581-1200.jpeg" caption="<span class=\"figure-number\">Figure 117: </span>Salt Peanuts" link="IMG_20230205_181505581-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Salt Peanuts’s website](https://saltpeanuts.jp/)
 -   [Located near Ekoda and Shin-egota stations in Tokyo, Japan](https://maps.app.goo.gl/1jy49ehuvGVD3rjz8)

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ryosuke-hashizume-group-wordless/"]
 [cover]
   image = "ryosukehashizume-wordless-460.jpeg"
-  caption = ""
+  alt = "Cover art of Wordless by Ryosuke Hashizume Group"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/rabbitoo-national-anthem-of-unknown/"]
 [cover]
   image = "rabbitoo-national-460.jpeg"
-  caption = ""
+  alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"
   relative = true
 +++
 

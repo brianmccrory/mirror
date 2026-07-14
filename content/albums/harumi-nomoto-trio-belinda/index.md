@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/harumi-nomoto-trio-belinda/"]
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
-  caption = ""
+  alt = "Cover art of Belinda by Harumi Nomoto Trio"
   relative = true
 +++
 

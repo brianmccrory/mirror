@@ -11,6 +11,7 @@ aliases = ["/p/jazz-bird/"]
 [cover]
   image = "P1060849-1024.jpeg"
   caption = "Vocalist Mie Joké singing at Jazz Bird in 2011"
+  alt = "Vocalist Mie Joké singing at Jazz Bird in 2011"
   relative = true
 +++
 
@@ -23,7 +24,7 @@ With three- and four-piece groups playing standard jazz most nights of the week,
 {{< figure src="IMG_20230410_220859267-1024.jpeg" link="IMG_20230410_220859267-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Jazz Bird’s website](https://jazzbird.tokyo/)
 -   [Located near Omotesando station in Tokyo, Japan](https://goo.gl/maps/GybUU9a26G3xPFpFA)

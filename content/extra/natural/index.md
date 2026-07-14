@@ -11,6 +11,7 @@ aliases = ["/p/natural/"]
 [cover]
   image = "L1270458-1200.jpeg"
   caption = "Seiji Endo at Natural in January 2025"
+  alt = "Seiji Endo at Natural in January 2025"
   relative = true
 +++
 
@@ -61,7 +62,7 @@ Natural’s rule on photos is like many other venues and displayed (in Japanese)
 {{< figure src="L1270450-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Natural" link="L1270450-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Natural’s website](https://musicsalon-natural.jp/)
 -   [Located near Mitaka station in Tokyo, Japan](https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6)

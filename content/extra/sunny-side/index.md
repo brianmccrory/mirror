@@ -11,6 +11,7 @@ aliases = ["/p/sunny-side/"]
 [cover]
   image = "L1270509-1200.jpeg"
   caption = "Otonai (訪ヒ) Quartet with Mitsuru Tanaka (trumpet), Fumie Chiba (piano), Yujiro Shimine (bass), and Kaoru Suzuki (drums) at Sunny Side in January 2025"
+  alt = "Otonai (訪ヒ) Quartet with Mitsuru Tanaka (trumpet), Fumie Chiba (piano), Yujiro Shimine (bass), and Kaoru Suzuki (drums) at Sunny Side in January 2025"
   relative = true
 +++
 
@@ -51,7 +52,7 @@ Satisfied guests of Sunny Side who are likely to become repeat customers can als
 {{< figure src="L1270494-1200.jpeg" caption="<span class=\"figure-number\">Figure 15: </span>Heading to Sunny Side" link="L1270494-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Sunny Side’s website](http://www.sunny-side.jp/)
 -   [Located near Takadanobaba and Nishi-waseda stations in Tokyo, Japan](https://maps.app.goo.gl/c3BDXUZibsBtLncz6)

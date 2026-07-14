@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mamoru-ishida-ishida-mamoru-4-feat/"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
-  caption = ""
+  alt = "Cover art of Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida"
   relative = true
 +++
 

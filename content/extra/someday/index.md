@@ -10,6 +10,7 @@ aliases = ["/p/someday/"]
 [cover]
   image = "IMG_2354-1200.jpeg"
   caption = "Ryuichiro Tonozuka (flugelhorn) and Osamu Kawakami (bass) at Someday in December 2008"
+  alt = "Ryuichiro Tonozuka (flugelhorn) and Osamu Kawakami (bass) at Someday in December 2008"
   relative = true
 +++
 
@@ -32,7 +33,7 @@ _Note: Someday moved from its previous Shinjuku-Sanchome location in Jan 2025. S
 {{< figure src="IMG_0046-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Welcome to Someday" link="IMG_0046-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Someday’s website](http://someday.net/)
 -   [Located near Asakusa/Tawaramachi and Kuramae stations in Tokyo, Japan](https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7)

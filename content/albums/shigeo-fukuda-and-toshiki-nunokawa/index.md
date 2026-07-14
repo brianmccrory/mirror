@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shigeo-fukuda-and-toshiki-nunokawa/"]
 [cover]
   image = "fukuda-nunokawa-childhood-460.jpeg"
-  caption = ""
+  alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"
   relative = true
 +++
 

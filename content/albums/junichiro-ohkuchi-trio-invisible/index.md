@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/junichiro-ohkuchi-trio-invisible/"]
 [cover]
   image = "junichiroohkuchi-invisible-460.jpeg"
-  caption = ""
+  alt = "Cover art of Invisible by Junichiro Ohkuchi Trio"
   relative = true
 +++
 

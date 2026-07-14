@@ -10,6 +10,7 @@ aliases = ["/p/jazz-spots-of-japan/"]
 [cover]
   image = "P1040163-1024.jpeg"
   caption = "Jazz & Coffee Yuri Since 1968 in Nagoya"
+  alt = "Jazz & Coffee Yuri Since 1968 in Nagoya"
   relative = true
 +++
 
@@ -18,7 +19,7 @@ This is a brief overview of some of the general types of places that you may fin
 {{< figure src="IMG_20230309_190710881-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>JJ Soul with Mikiko Nagatake, Ryuichi Ishikawa, and Kira Sota at Gate One in 2023" link="IMG_20230309_190710881-1024.jpeg" >}}
 
 
-## Variations of Jazz Spots {#variations-of-jazz-spots}
+## Variations of Jazz Spots
 
 There are many types of jazz spots in Japan. By _jazz spots_, I mean jazz clubs, jazz joints, jazz rooms, jazz spaces, jazz places… basically anywhere that jazz is featured as a draw or essential feature of the establishment.
 
@@ -51,7 +52,7 @@ There are also fancy, upscale places that play jazz music for an elegant aural a
 This overview introduces the general types of jazz spots available by categorizing them and listing some differences so that you can choose the best types of places that you may want to visit or learn more about.
 
 
-## An Incredible Abundance of Jazz {#an-incredible-abundance-of-jazz}
+## An Incredible Abundance of Jazz
 
 One of the most remarkable aspects of jazz in Japan is realizing how many unique and special places there are to discover. Discovering how appreciated jazz is in Japan and how many musicians and listeners support the art is sometimes a surprise. This can be especially eye-opening for those fans who live in places where jazz music is underappreciated or ignored completely.
 
@@ -62,7 +63,7 @@ At the same time, one challenge here is to resist the urge to supply too much in
 So, the goal here is to find a balance of the right level of information to share, to whet the appetite, and to provide useful information, but not in an exhaustively descriptive or overly detailed way.
 
 
-## Finding Jazz Spots {#finding-jazz-spots}
+## Finding Jazz Spots
 
 If you are visiting Japan and want to choose a place to go to listen to some live jazz, you may be initially overwhelmed by the number of places you may find. This is especially true in a big metropolis like Tokyo.
 
@@ -80,7 +81,7 @@ Are foreign credit cards accepted? Some places only accept cash (in Japanese yen
 The most convenient way to gather information about jazz clubs in Japan these days is to search online and dig through lists of clubs, search results, and review sites to find the answers.
 
 
-## Lists of Jazz Spots in Japan {#lists-of-jazz-spots-in-japan}
+## Lists of Jazz Spots in Japan
 
 When posting lists and descriptions of Japanese jazz clubs online, it is a difficult task to compile a directory of places, especially when trying to keep the details up-to-date and accurate. Online lists can be extremely useful, and some typical references are listed in the Related Resources section below.
 
@@ -91,7 +92,7 @@ It can be frustrating to search for a specific location while traveling and be d
 This _Jazz of Japan_ newsletter, in addition to album posts, also introduces jazz spots in Japan.
 
 
-## Types and Factors for Jazz Spots {#types-and-factors-for-jazz-spots}
+## Types and Factors for Jazz Spots
 
 To keep this overview simple, three **types** will be used to group jazz spots in Japan.
 
@@ -106,7 +107,7 @@ These types and factors should help listeners to find the places that they like.
 This article, Part 1, covers the general types of jazz spots in Japan, and follow-up articles will further describe the factors with examples.
 
 
-## Types of Jazz Spots {#types-of-jazz-spots}
+## Types of Jazz Spots
 
 For simplicity, jazz spots can be grouped into three types or categories based on activities:
 
@@ -117,7 +118,7 @@ For simplicity, jazz spots can be grouped into three types or categories based o
 A fourth, fifth, or more types could be imagined, but starting with these three types provides a great starting point as an overview.
 
 
-## Type 1: Live Music {#type-1-live-music}
+## Type 1: Live Music
 
 _Jazz club_ is a general term for a place that features musicians playing live music, often on most days of the week. These can also be called _live spots_ or _live houses_. Other terms like _performance venue_, _recital hall_, _concert hall_, and others are also used, but not as widely for jazz spots.
 
@@ -126,14 +127,14 @@ Most of the interesting places for general jazz listeners fall into this type of
 For example, when speaking with native Japanese speakers, you may hear phrases such as “Are you going to a _live_ tonight” or “Please come to my _live_ next week.” In this way, the term live may stand for _live show_, _live performance_, or in some cases _live schedule_.
 
 
-### Spontaneous Creation and Collaboration {#spontaneous-creation-and-collaboration}
+### Spontaneous Creation and Collaboration
 
 On-the-spot improvisation is a large part of jazz music, where listeners can be thrilled by the result of years of dedicated practice and the musical imagination of jazz musicians. The many decades’ worth of superb jazz records may likely always be an important part of a jazz fan’s life, but seeing jazz performed live in person is one of the most satisfying parts of this musical world.
 
 A live show allows listeners to experience in-the-moment musical creation built on skill, imagination, and partnerships. The music is made, created, and improvised by musicians through intuition and skill. As the moment moves on, the lasting experience is imprinted in the memories of the attentive listeners who were there
 
 
-### The Live Jazz Club Experience {#the-live-jazz-club-experience}
+### The Live Jazz Club Experience
 
 In the imagination of the general public, this type of jazz spot captures the experience of what it is like to visit a jazz club.
 
@@ -142,7 +143,7 @@ Thanks to popular movies and shows, anyone can imagine the experience of what it
 Depending on the type of club, that stage may be a nice elevated platform at one end of the room with professional spotlights and video feeds, or it may just be a corner of the room barely separated from the listeners’ tables and chairs.
 
 
-## Type 2: Recorded Music {#type-2-recorded-music}
+## Type 2: Recorded Music
 
 _Jazz kissa_ is a common term for places that play recorded jazz music. These spots can also be called jazz bars or jazz cafes, but these terms are fairly general and are sometimes also used for places that feature live music.
 
@@ -151,7 +152,7 @@ _Jazz kissas_ are places that focus on playing recorded music. _Kissas_ (or _kis
 Other places that may play jazz music are certain hotel bars, restaurants, small cafes, and similar places that use jazz as BGM (background music) for ambience. As mentioned above, the regular use of jazz music at cozy restaurants, tidy cafes, and a variety of shops is a welcome and surprising element for jazz fans and visitors who are used to hearing louder genres of music in otherwise quiet settings.
 
 
-### Third Place {#third-place}
+### Third Place
 
 The term _third place_ is apt for this type of environment.
 
@@ -160,7 +161,7 @@ The third place is not your workplace, not your home, but your other place. It�
 This term has been used more and more in an ever-busier world. As “work-from-home” environments increase and the line between office and home blurs even more, the third place hangout may even become more valuable.
 
 
-### Levels of Active Stimulation {#levels-of-active-stimulation}
+### Levels of Active Stimulation
 
 While live jazz clubs offer live music and the personalities of the performers, these are usually events that supply a certain kind of stimulus including active listening verging on a sense of communal participation for the audience members.
 
@@ -171,7 +172,7 @@ At times when this kind of active stimulus may not be desired, recorded music ma
 Also, listening to the classic albums or personal favorite records from a professional jazz fan’s collection is exciting. It provides the opportunity to review famous highlights together, share common appreciation, and discover new albums.
 
 
-## Type 3: Jam Sessions {#type-3-jam-sessions}
+## Type 3: Jam Sessions
 
 Some jazz spots are focused on students, amateur, or hobby musicians who are looking for places to hone their craft or learn how to play jazz. Jazz jam sessions are an honored part of the jazz universe, and it’s not surprising that many jazz fans are also amateur musicians of some level.
 
@@ -184,14 +185,14 @@ Depending on the specific session, amateurs of any level and even beginners may 
 Along with jazz clubs and _kissas_, many places offer jam sessions intermittently on their schedule alongside regular live shows. Some places, “jam session centers”, specialize in hosting sessions and educational workshops rather than live shows. One of the best-known spots in Tokyo for its famous nightly jazz jam sessions is [Intro](https://www.jazzofjapan.com/archive/intro), along with its partner restaurant location [Cafe Cotton Club](https://www.jazzofjapan.com/archive/cafe-cotton-club) (with sessions on Fridays) right across the street.
 
 
-## To Be Continued… {#to-be-continued}
+## To Be Continued…
 
 Coming soon: notes on well-known places, “top 10” spots, lesser-known but beloved favorite neighborhood shops, and the fascinating (and sometimes tinier than ever imagined) jazz corners of Japan.
 
 ---
 
 
-## Related Resources {#related-resources}
+## Related Resources
 
 Here are some helpful sites that contain club directories or related information about jazz in Japan:
 

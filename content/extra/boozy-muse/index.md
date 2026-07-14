@@ -11,6 +11,7 @@ aliases = ["/p/boozy-muse/"]
 [cover]
   image = "L1050863-1024.jpeg"
   caption = "Vocalist Ami Hirai singing at Boozy Muse in 2013"
+  alt = "Vocalist Ami Hirai singing at Boozy Muse in 2013"
   relative = true
 +++
 
@@ -31,7 +32,7 @@ On special occasions such as CD release anniversary celebrations and similar eve
 {{< figure src="P1040711-1024.jpeg" link="P1040711-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Boozy Muse’s website](https://www.boozy-muse.com/)
 -   [Located near Okubo and Shin-okubo stations in Tokyo, Japan](https://goo.gl/maps/eY1SMnyxKtPzqR1CA)

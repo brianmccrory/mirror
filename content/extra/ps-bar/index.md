@@ -11,6 +11,7 @@ aliases = ["/p/ps-bar/"]
 [cover]
   image = "IMG_20140806_212248-1024.jpeg"
   caption = "Jazz musicians and customers crowd into the cozy P's Bar for hot jazz."
+  alt = "Jazz musicians and customers crowd into the cozy P's Bar for hot jazz."
   relative = true
 +++
 
@@ -29,7 +30,7 @@ Because this bar is so tiny with a very at-home feeling, it’s an excellent cho
 {{< figure src="IMG_20140813_191253-1024.jpeg" link="IMG_20140813_191253-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [P's Bar’s website](https://psbar.net/)
 -   [Located near Ikebukuro station in Tokyo, Japan](https://goo.gl/maps/DLC2nmUgpRHJC5hj9)

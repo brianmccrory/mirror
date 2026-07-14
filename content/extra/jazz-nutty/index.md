@@ -11,6 +11,7 @@ aliases = ["/p/jazz-nutty/"]
 [cover]
   image = "IMG_20240501_174529147_HDR-1200.jpeg"
   caption = "Speakers guard the entrance at Jazz Nutty"
+  alt = "Speakers guard the entrance at Jazz Nutty"
   relative = true
 +++
 
@@ -85,7 +86,7 @@ After each month’s theme is announced, a second post follows and lists some of
 {{< figure src="IMG_20240501_180254906-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Tracklisting and back cover art on the LP version of Chick Corea's Now He Sings, Now He Sobs" link="IMG_20240501_180254906-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Jazz Nutty’s website](https://ameblo.jp/jazznutty/)
 -   [Located near Wadeda station in Tokyo, Japan](https://maps.app.goo.gl/cjPMA8GYFSpVdH6B6)

@@ -11,6 +11,7 @@ aliases = ["/p/jazzspot-j/"]
 [cover]
   image = "DSC_5408-1200.jpeg"
   caption = "Jazzspot J jazz live on New Year’s Eve 2006"
+  alt = "Jazzspot J jazz live on New Year’s Eve 2006"
   relative = true
 +++
 
@@ -61,7 +62,7 @@ Finally, one last remaining tribute to Jazzspot J lives on in the form of anothe
 {{< figure src="IMG_3239-1200.jpeg" caption="<span class=\"figure-number\">Figure 14: </span>Welcome to Jazzspot J" link="IMG_3239-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Jazzspot J’s website](https://web.archive.org/web/20191118143902/http://www.jazzspot-j.com/)
 -   [Located near Shinjuku-sanchome and Shinjuku-gyoemmae stations in Tokyo, Japan](https://goo.gl/maps/52JM52ZzWd9zoEBVA)

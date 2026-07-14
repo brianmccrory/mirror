@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuri-hirota-magical-moonlight/"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
-  caption = ""
+  alt = "Cover art of Magical Moonlight by Yuri Hirota"
   relative = true
 +++
 

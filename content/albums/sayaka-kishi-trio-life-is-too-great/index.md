@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sayaka-kishi-trio-life-is-too-great/"]
 [cover]
   image = "sayakakishi-lifeis-460.jpeg"
-  caption = ""
+  alt = "Cover art of Life Is Too Great by Sayaka Kishi Trio"
   relative = true
 +++
 

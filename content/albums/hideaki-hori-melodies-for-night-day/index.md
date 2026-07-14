@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hideaki-hori-melodies-for-night-day/"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
-  caption = ""
+  alt = "Cover art of Melodies for Night & Day by Hideaki Hori"
   relative = true
 +++
 

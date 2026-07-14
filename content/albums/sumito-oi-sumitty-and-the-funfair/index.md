@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sumito-oi-sumitty-and-the-funfair/"]
 [cover]
   image = "sumito-oi-funfair-460.jpeg"
-  caption = ""
+  alt = "Cover art of Sumitty & The Funfair by Sumito Oi"
   relative = true
 +++
 

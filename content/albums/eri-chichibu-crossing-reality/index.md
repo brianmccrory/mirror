@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/eri-chichibu-crossing-reality/"]
 [cover]
   image = "eri-chichibu-crossing-reality-460.jpeg"
-  caption = ""
+  alt = "Cover art of Crossing Reality by Eri Chichibu"
   relative = true
 +++
 

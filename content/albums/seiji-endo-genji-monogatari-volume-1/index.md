@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/seiji-endo-genji-monogatari-volume-1/"]
 [cover]
   image = "seijiendo-genji-460.jpeg"
-  caption = ""
+  alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"
   relative = true
 +++
 

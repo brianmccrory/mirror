@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/otohito-fuse-trio-isolated/"]
 [cover]
   image = "otohito-fuse-trio-isolated-460.jpeg"
-  caption = ""
+  alt = "Cover art of Isolated by Otohito Fuse Trio"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ryosuke-hashizume-needful-things/"]
 [cover]
   image = "ryosukehashizume-needfulthings-460.jpeg"
-  caption = ""
+  alt = "Cover art of Needful Things by Ryosuke Hashizume"
   relative = true
 +++
 

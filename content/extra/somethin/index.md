@@ -11,6 +11,7 @@ aliases = ["/p/somethin/"]
 [cover]
   image = "IMG_20190611_210428751-1200.jpeg"
   caption = "A session at Somethin' in 2019"
+  alt = "A session at Somethin' in 2019"
   relative = true
 +++
 
@@ -55,7 +56,7 @@ Incidentally, this same Somethin’ jazz club also had a branch in New York once
 {{< figure src="IMG-20130216-02934-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Somethin' Jazz Club" link="IMG-20130216-02934-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Somethin’’s website](https://www.somethinjazz.com/jp/)
 -   [Located near Ikebukuro station in Tokyo, Japan](https://maps.app.goo.gl/WpLMZpQa8YdUq47Z8)

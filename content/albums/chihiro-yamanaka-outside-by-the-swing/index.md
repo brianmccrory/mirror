@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chihiro-yamanaka-outside-by-the-swing/"]
 [cover]
   image = "chihiroyamanaka-outsideby-460.jpeg"
-  caption = ""
+  alt = "Cover art of Outside by the Swing by Chihiro Yamanaka"
   relative = true
 +++
 

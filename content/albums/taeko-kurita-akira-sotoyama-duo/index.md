@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/taeko-kurita-akira-sotoyama-duo/"]
 [cover]
   image = "taeko-kurita-akira-sotoyama-duo-460.jpeg"
-  caption = ""
+  alt = "Cover art of Duo by Taeko Kurita & Akira Sotoyama"
   relative = true
 +++
 

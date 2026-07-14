@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hideaki-hori-wataru-hamasaki-encounter/"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
-  caption = ""
+  alt = "Cover art of Encounter by Hideaki Hori & Wataru Hamasaki"
   relative = true
 +++
 

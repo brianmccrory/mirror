@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/davy-mooney-ko-omura-the-word/"]
 [cover]
   image = "davy-mooney-ko-omura-the-word-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Word by Davy Mooney & Ko Omura"
   relative = true
 +++
 

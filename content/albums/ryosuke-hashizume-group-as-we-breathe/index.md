@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ryosuke-hashizume-group-as-we-breathe/"]
 [cover]
   image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
-  caption = ""
+  alt = "Cover art of As We Breathe by Ryosuke Hashizume Group"
   relative = true
 +++
 

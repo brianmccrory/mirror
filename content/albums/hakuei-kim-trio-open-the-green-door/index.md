@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hakuei-kim-trio-open-the-green-door/"]
 [cover]
   image = "hakueikim-open-460.jpeg"
-  caption = ""
+  alt = "Cover art of Open the Green Door by Hakuei Kim Trio"
   relative = true
 +++
 

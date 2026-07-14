@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/emiko-voice-carta/"]
 [cover]
   image = "emikovoice-carta-square-460.jpeg"
-  caption = ""
+  alt = "Cover art of Carta by Emiko Voice"
   relative = true
 +++
 

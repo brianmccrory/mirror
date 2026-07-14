@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ayumi-koketsu-rainbow-tales/"]
 [cover]
   image = "ayumikoketsu-rainbowtales-460.jpeg"
-  caption = ""
+  alt = "Cover art of Rainbow Tales by Ayumi Koketsu"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/a-un/"]
 [cover]
   image = "IMG_0589-1024.jpeg"
   caption = "Vocalist Kunie Kai and pianist Yuichiro Aratake at A-Un in 2008"
+  alt = "Vocalist Kunie Kai and pianist Yuichiro Aratake at A-Un in 2008"
   relative = true
 +++
 
@@ -23,7 +24,7 @@ Incidentally, as for the interesting name A-Un, the name refers to the sound of 
 {{< figure src="IMG_0586-1024.jpeg" link="IMG_0586-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [A-Un’s website](http://aunaun.fc2web.com/)
 -   [Located near Shinjuku and Nishi-shinjuku stations in Tokyo, Japan](https://goo.gl/maps/Kjj6pTje5nf73muu8)

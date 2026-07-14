@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shikou-ito-trio-syncretia-kakusareta-guwa/"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
-  caption = ""
+  alt = "Cover art of Kakusareta Guwa by Shikou Ito Trio Syncretia"
   relative = true
 +++
 

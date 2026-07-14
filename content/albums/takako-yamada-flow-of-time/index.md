@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/takako-yamada-flow-of-time/"]
 [cover]
   image = "takakoyamada-flow-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Flow of Time by Takako Yamada"
   relative = true
 +++
 

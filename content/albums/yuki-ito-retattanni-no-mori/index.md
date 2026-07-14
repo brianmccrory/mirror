@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuki-ito-retattanni-no-mori/"]
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
-  caption = ""
+  alt = "Cover art of Retattanni no Mori by Yuki Ito"
   relative = true
 +++
 

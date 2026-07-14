@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/"]
 [cover]
   image = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life-460.jpeg"
-  caption = ""
+  alt = "Cover art of The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko"
   relative = true
 +++
 

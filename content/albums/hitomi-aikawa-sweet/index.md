@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hitomi-aikawa-sweet/"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
-  caption = ""
+  alt = "Cover art of Sweet by Hitomi Aikawa"
   relative = true
 +++
 

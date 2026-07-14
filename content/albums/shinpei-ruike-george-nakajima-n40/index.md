@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shinpei-ruike-george-nakajima-n40/"]
 [cover]
   image = "ruike-nakajima-n40-460.jpeg"
-  caption = ""
+  alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"
   relative = true
 +++
 

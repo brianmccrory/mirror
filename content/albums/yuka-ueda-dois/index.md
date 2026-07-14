@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuka-ueda-dois/"]
 [cover]
   image = "yukaueda-dois-460.jpeg"
-  caption = ""
+  alt = "Cover art of Dois by Yuka Ueda"
   relative = true
 +++
 

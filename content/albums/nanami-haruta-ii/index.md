@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/nanami-haruta-ii/"]
 [cover]
   image = "nanami-haruta-ii-460.jpeg"
-  caption = ""
+  alt = "Cover art of II by Nanami Haruta"
   relative = true
 +++
 

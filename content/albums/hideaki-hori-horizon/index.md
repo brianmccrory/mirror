@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hideaki-hori-horizon/"]
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
-  caption = ""
+  alt = "Cover art of Horizon by Hideaki Hori"
   relative = true
 +++
 

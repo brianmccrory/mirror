@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shinichi-kato-and-masahiko-sato-duet/"]
 [cover]
   image = "kato-sato-duet-460.jpeg"
-  caption = ""
+  alt = "Cover art of Duet by Shinichi Kato & Masahiko Sato"
   relative = true
 +++
 

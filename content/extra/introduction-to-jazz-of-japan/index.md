@@ -12,7 +12,7 @@ aliases = ["/p/introduction-to-jazz-of-japan/"]
 Picture this: a dazzling city, clean and modern yet old-fashioned and traditional – a city of the future and of the past, simultaneously. Bars and _izakaya_ everywhere, busy and tipsy uniformed and suited-up masses of people rushing to and fro. Digital voices emanating from brightly lit signs looming large in the sky, on the sides of buildings, on shop walls. In the middle of this, an unlimited supply of food, drink, merchandise — seafood restaurants, alcohol establishments, and convenience stores are everywhere. And hidden in the dark corners and underground floors… the jazz of Japan. Welcome to the world of Japanese jazz.
 
 
-## Introduction {#introduction}
+## Introduction
 
 You're a jazz fan. You're going to Japan, perhaps for the first time. You don't know much Japanese except maybe sake, sumo, ramen, and teriyaki.
 

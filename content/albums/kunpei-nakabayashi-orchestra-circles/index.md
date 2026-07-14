@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kunpei-nakabayashi-orchestra-circles/"]
 [cover]
   image = "kunpei-nakabayashi-orchestra-circles-460.jpeg"
-  caption = ""
+  alt = "Cover art of Circles by Kunpei Nakabayashi Orchestra"
   relative = true
 +++
 

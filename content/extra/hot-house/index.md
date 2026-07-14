@@ -11,6 +11,7 @@ aliases = ["/p/hot-house/"]
 [cover]
   image = "L1040205-1024.jpeg"
   caption = "Kohsuke Mine plays with Akane Matsumoto at Hot House in 2012."
+  alt = "Kohsuke Mine plays with Akane Matsumoto at Hot House in 2012."
   relative = true
 +++
 
@@ -33,7 +34,7 @@ Last thing to note and it’s worth saying again: this precious Tokyo gem has al
 {{< figure src="L1040225-1024.jpeg" link="L1040225-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Hot House’s website](https://hothousegogo.hatenablog.com/)
 -   [Located near Takadanobaba station in Tokyo, Japan](https://goo.gl/maps/asgdJD5qELaTEheh7)

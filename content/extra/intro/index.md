@@ -11,6 +11,7 @@ aliases = ["/p/intro/"]
 [cover]
   image = "P1040487-1024.jpeg"
   caption = "Jazz jam at Intro in 2010"
+  alt = "Jazz jam at Intro in 2010"
   relative = true
 +++
 
@@ -35,7 +36,7 @@ One long-standing draw of Intro is the all-night, 12-hour jazz session every Sat
 {{< figure src="IMG_0307-1024.jpeg" link="IMG_0307-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Intro’s website](https://jazzspot.intro.co.jp/)
 -   [Located near Takadanobaba station in Tokyo, Japan](https://goo.gl/maps/Anw6TTTyBteFPyWMA)

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/nobie-takayoshi-baba-owari-to-hajimari/"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
-  caption = ""
+  alt = "Cover art of Owari to Hajimari by Nobie & Takayoshi Baba"
   relative = true
 +++
 

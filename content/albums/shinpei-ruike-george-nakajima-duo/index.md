@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/shinpei-ruike-george-nakajima-duo/"]
 [cover]
   image = "shinpeiruike-georgenakajima-duo-460.jpeg"
-  caption = ""
+  alt = "Cover art of Duo by Shinpei Ruike & George Nakajima"
   relative = true
 +++
 

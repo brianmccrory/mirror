@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
-  caption = ""
+  alt = "Cover art of Listen to My Blues by Wataru Hamasaki & Akane Matsumoto"
   relative = true
 +++
 

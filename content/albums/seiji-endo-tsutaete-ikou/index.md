@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/seiji-endo-tsutaete-ikou/"]
 [cover]
   image = "seijiendo-tsutaeteikou-460.jpeg"
-  caption = ""
+  alt = "Cover art of Tsutaete Ikou by Seiji Endo"
   relative = true
 +++
 

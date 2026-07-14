@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mase-hiroko-quintet-first-contact/"]
 [cover]
   image = "mase-hiroko-quintet-first-contact-460.jpeg"
-  caption = ""
+  alt = "Cover art of First Contact by Mase Hiroko Quintet"
   relative = true
 +++
 

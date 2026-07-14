@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hitomi-nishiyama-trio-parallax-live/"]
 [cover]
   image = "hitominishiyama-parallax-live-460.jpeg"
-  caption = ""
+  alt = "Cover art of Live by Hitomi Nishiyama Trio “Parallax”"
   relative = true
 +++
 

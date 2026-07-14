@@ -11,6 +11,7 @@ aliases = ["/p/porto/"]
 [cover]
   image = "L1030703-1024.jpeg"
   caption = "Singer Tomoka Miwa and guitarist Satoshi Aikawa at Porto in 2012"
+  alt = "Singer Tomoka Miwa and guitarist Satoshi Aikawa at Porto in 2012"
   relative = true
 +++
 
@@ -29,7 +30,7 @@ An extra fun but somewhat rare happening at Porto occurs when the musicians play
 {{< figure src="IMG_20230406_194001914-1024.jpeg" link="IMG_20230406_194001914-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Porto’s website](http://barporto.cocolog-nifty.com/)
 -   [Located near Nippori station in Tokyo, Japan](https://goo.gl/maps/vnbQVPxV7v5MnGTn7)

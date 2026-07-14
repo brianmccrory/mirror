@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/miki-hirose-scratch/"]
 [cover]
   image = "mikihirose-scratch-460.jpeg"
-  caption = ""
+  alt = "Cover art of Scratch by Miki Hirose"
   relative = true
 +++
 

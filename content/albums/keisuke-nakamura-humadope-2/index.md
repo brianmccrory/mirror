@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/keisuke-nakamura-humadope-2/"]
 [cover]
   image = "keisuke-nakamura-humadope-2-460.jpeg"
-  caption = ""
+  alt = "Cover art of Humadope 2 by Keisuke Nakamura"
   relative = true
 +++
 

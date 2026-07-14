@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/koichi-sato-utopia/"]
 [cover]
   image = "koichisato-utopia-460.jpeg"
-  caption = ""
+  alt = "Cover art of Utopia by Koichi Sato"
   relative = true
 +++
 

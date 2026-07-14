@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sachiko-ikuta-trio-haru/"]
 [cover]
   image = "sachikoikuta-haru-460.jpeg"
-  caption = ""
+  alt = "Cover art of Haru No Kaze by Sachiko Ikuta Trio"
   relative = true
 +++
 

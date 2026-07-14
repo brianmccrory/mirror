@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/"]
 [cover]
   image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
-  caption = ""
+  alt = "Cover art of It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka"
   relative = true
 +++
 

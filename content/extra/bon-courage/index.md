@@ -11,6 +11,7 @@ aliases = ["/p/bon-courage/"]
 [cover]
   image = "L1230211-1024.jpeg"
   caption = "Ami Fukui on piano and Fumika Asari on guitar at Bon Courage in 2023"
+  alt = "Ami Fukui on piano and Fumika Asari on guitar at Bon Courage in 2023"
   relative = true
 +++
 
@@ -51,7 +52,7 @@ _Note: Bon Courage moved to a new location near Yotsuya station in January 2026.
 {{< figure src="L1240459-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Welcome to Bon Courage" link="L1240459-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Bon Courage’s website](https://bon-courage.tokyo/)
 -   [Located near Yotsuya station in Tokyo, Japan](https://maps.app.goo.gl/JBEjhHP82RqaDjZV6)

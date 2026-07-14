@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mamoru-ishida-afterglow/"]
 [cover]
   image = "mamoru-ishida-afterglow-460.jpeg"
-  caption = ""
+  alt = "Cover art of Afterglow by Mamoru Ishida"
   relative = true
 +++
 

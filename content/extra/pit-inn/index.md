@@ -11,6 +11,7 @@ aliases = ["/p/pit-inn/"]
 [cover]
   image = "P1040469-1024.jpeg"
   caption = "Yoshio Suzuki and Generation Gap at Pit Inn in 2010"
+  alt = "Yoshio Suzuki and Generation Gap at Pit Inn in 2010"
   relative = true
 +++
 
@@ -57,13 +58,13 @@ In a corner near the restroom area, Pit Inn also stores racks of pamphlets and i
 {{< figure src="IMG_1758-1024.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Welcome to Pit Inn" link="IMG_1758-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Pit Inn’s website](http://www.pit-inn.com/)
 -   [Located near Shinjuku-sanchome station in Tokyo, Japan](https://maps.app.goo.gl/B7t44H9dhWCd2ekH6)
 
 
-## Links {#links}
+## Links
 
 -   [Pit Inn’s social media](https://www.instagram.com/pitinn_shinjuku/)
 

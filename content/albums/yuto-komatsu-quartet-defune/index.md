@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuto-komatsu-quartet-defune/"]
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
-  caption = ""
+  alt = "Cover art of Defune by Yuto Komatsu Quartet"
   relative = true
 +++
 

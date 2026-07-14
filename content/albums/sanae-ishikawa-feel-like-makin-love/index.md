@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sanae-ishikawa-feel-like-makin-love/"]
 [cover]
   image = "sanaeishikawa-feellike-460.jpeg"
-  caption = ""
+  alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/strings/"]
 [cover]
   image = "L1270806x-1200.jpeg"
   caption = "Maiko (violin), Yuki Ito (bass), and Shikou Ito (piano) at Strings in February 2025"
+  alt = "Maiko (violin), Yuki Ito (bass), and Shikou Ito (piano) at Strings in February 2025"
   relative = true
 +++
 
@@ -89,7 +90,7 @@ In addition to jazz, Brazilian music, and stringed instruments including violin 
 {{< figure src="L1270792-1200.jpeg" caption="<span class=\"figure-number\">Figure 33: </span>Welcome to Strings" link="L1270792-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Strings’s website](http://www.jazz-strings.com/)
 -   [Located near Kichijoji station in Tokyo, Japan](https://maps.app.goo.gl/eMqXkKYdD3Q7v6Jd6)

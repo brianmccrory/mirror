@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/ko-omura-introspect/"]
 [cover]
   image = "koomura-introspect-460.jpeg"
-  caption = ""
+  alt = "Cover art of Introspect by Ko Omura"
   relative = true
 +++
 

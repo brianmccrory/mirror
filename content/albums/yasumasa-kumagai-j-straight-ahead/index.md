@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/yasumasa-kumagai-j-straight-ahead/"]
 [cover]
   image = "yasumasakumagai-jstraightahead-460.jpeg"
-  caption = ""
+  alt = "Cover art of J-Straight Ahead by Yasumasa Kumagai"
   relative = true
 +++
 

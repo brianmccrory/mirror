@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/polyglot-talk-vol-1/"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
-  caption = ""
+  alt = "Cover art of Talk, Vol. 1 by Polyglot"
   relative = true
 +++
 

@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/yasumasa-kumagai-i-need-a-change-too/"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
-  caption = ""
+  alt = "Cover art of I Need a Change, Too by Yasumasa Kumagai"
   relative = true
 +++
 

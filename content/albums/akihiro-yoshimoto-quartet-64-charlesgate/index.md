@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/akihiro-yoshimoto-quartet-64-charlesgate/"]
 [cover]
   image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
-  caption = ""
+  alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/jz-brat/"]
 [cover]
   image = "P1030831-1024.jpeg"
   caption = "The fashionably understated entrance to JZ Brat"
+  alt = "The fashionably understated entrance to JZ Brat"
   relative = true
 +++
 
@@ -23,7 +24,7 @@ Compared to some other jazz bars, prices match the elegance and are higher than 
 {{< figure src="P1030833-1024.jpeg" link="P1030833-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [JZ Brat’s website](https://www.jzbrat.com/)
 -   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/3K7TYukwU87zKN2V7)

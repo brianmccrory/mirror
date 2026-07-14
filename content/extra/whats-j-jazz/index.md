@@ -10,13 +10,14 @@ aliases = ["/p/whats-j-jazz/"]
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
   caption = "Japanese jazz magazines and coffee"
+  alt = "Japanese jazz magazines and coffee"
   relative = true
 +++
 
 {{< figure src="L1060938-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Singer Rie Taguchi's Birthday Live at Satin Doll in 2013" link="L1060938-1024.jpeg" >}}
 
 
-## What’s J Jazz? {#what-s-j-jazz}
+## What’s J Jazz?
 
 _J Jazz_, or Japanese Jazz, is a classification label found in sections of some record and CD shops in Japan. These are sections that record stores use to spotlight and organize albums from Japanese jazz musicians. By separating the Japanese artists’ albums from the general jazz section, both local and overseas customers who are visiting Japan can more easily find unfamiliar Japanese jazz albums.
 
@@ -35,7 +36,7 @@ As a side note, the term _J Jazz_ was also used as the original title of this we
 {{< figure src="DSC_7225-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Singer Ayako Taira at Yoyogi Naru in 2007" link="DSC_7225-1024.jpeg" >}}
 
 
-## J Jazz as a Sub-Genre {#j-jazz-as-a-sub-genre}
+## J Jazz as a Sub-Genre
 
 Another lesser-known, and maybe nonstandard, use of the term _J Jazz_ refers to a specific sub-genre of music with elements of rock, funk, disco, and jazz, usually framed by a club or dance beat and a horn section. This is similar to EDM, dance, or chill-oriented music and is also like the club jazz sub-genre, which itself is very popular with a big audience. But the jazz music that I talk about here is different from the specific club jazz sub-genre.
 
@@ -44,7 +45,7 @@ In these articles, I use the term _J Jazz_ in a broader sense to represent jazz 
 In this way of thinking, I don’t consider _J Jazz_ to be a distinct sub-genre of jazz, as there are no defining or limiting musical elements or styles that are distinct from other jazz genres. The difference is that the albums or the albums’ musicians are from Japan. In other words, jazz of Japan.
 
 
-## J Jazz and Traditional Japanese Elements {#j-jazz-and-traditional-japanese-elements}
+## J Jazz and Traditional Japanese Elements
 
 Considering the guidelines above, it follows that the jazz of Japan extends beyond music with elements that were deliberately chosen to highlight Japanese influences.
 
@@ -57,7 +58,7 @@ At the same time, characteristics often used to define a genre including instrum
 Given that there are mostly similarities with general jazz music, is there anything in _J Jazz_ that could be identified as unique? Is there something different about the jazz of Japan, or the sound of jazz created in Japan?
 
 
-## Defining Jazz Itself is a Challenge {#defining-jazz-itself-is-a-challenge}
+## Defining Jazz Itself is a Challenge
 
 For both newcomers and seasoned enthusiasts alike, jazz music can be hard to define. Attempts to do so may initially summon the temptation to list qualities, assign groups and sections, draw boundaries, and define rules and checklists. Inevitably, exceptions to the rules multiply, creating complications and confusing the original guidelines. There have been significant changes throughout jazz history, many different sub-genres of jazz, individual musical styles and innovations, and a great number of unique musicians. What about ragtime, Dixieland, big bands, and swing music? Bossa nova and Latin jazz? Jazz/rock fusion? Straight-ahead, bebop, hard-bop, post-bop, contemporary, modern, progressive, free jazz, avant-garde…
 
@@ -72,7 +73,7 @@ Extending this simply: “/J Jazz is music from Japan and Japanese musicians whi
 So, a better definition may be “/J Jazz is jazz from Japan and Japanese musicians./” It’s short and sweet. But, it could be seen as a facile response that effectively pushes the problem elsewhere, avoiding the challenge of having to define “what is jazz?”. Yet still, it is short and sweet.
 
 
-## What’s Different About J Jazz? {#what-s-different-about-j-jazz}
+## What’s Different About J Jazz?
 
 The jazz of Japan can be different from general jazz, or it can be the same. As discussed above, the label _J Jazz_ doesn’t refer to a specific sub-genre of jazz, and there are no specific musical characteristics used to classify an album as _J Jazz_. The main guideline is whether the album’s leader or musicians are from Japan. In most cases, this also means that the record was created and released in Japan, but this is not a strict rule.
 
@@ -99,7 +100,7 @@ Interestingly, some of these are also qualities that could be applied to many yo
 As far as any qualitative musical or sound differences generally ascribable to Japanese musicians, there is nothing that is absolutely true across the board, of course. Perhaps the large number of Japanese people who receive classical piano training or receive music education at school results in a larger number of jazz musicians who build on foundations of high technical ability and musical knowledge. Maybe there are inherent cultural and language differences that naturally influence ways of playing music. Can the way of speaking through words influence how one musically speaks through an instrument?
 
 
-## Abstract Tangents {#abstract-tangents}
+## Abstract Tangents
 
 To extend this question further (and perhaps verging on nonsense), listeners may even relate Japanese jazz to common stereotypes of Japanese culture itself. First-time visitors to the country are sometimes impressed by the cleanliness, politeness, modesty, and high standards of levels of service and tradition. Do these qualities extend to their jazz music too? Is the jazz of Japan clean, polite, or modest? It’s an interesting limb to climb out on, and yet…
 
@@ -110,7 +111,7 @@ These may be interesting, even objectionable theories, but it’s too easy to ge
 In the end, what matters is the music. Do the listeners like what they are hearing, and do the musicians like what they are playing? If the answer is yes, then it’s good music.
 
 
-## Final Impressions {#final-impressions}
+## Final Impressions
 
 Of course, this may all seem quite limited so don’t get the wrong idea. Not all Japanese jazz is the same. While there may be some general impressions that listeners get from a first exposure to Japanese jazz, hopefully, these impressions result in a good time with amazing music in all its varied qualities, leaving listeners wanting to know more and hear more jazz of Japan.
 

@@ -11,6 +11,7 @@ aliases = ["/p/sometime/"]
 [cover]
   image = "L1030851-1024.jpeg"
   caption = "Guitarist Yudo Matsuo with Bonanza in 2012"
+  alt = "Guitarist Yudo Matsuo with Bonanza in 2012"
   relative = true
 +++
 
@@ -37,7 +38,7 @@ One last note: While the name _Sometime_ is short and sweet, there are other sim
 {{< figure src="IMG_0426-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Welcome to Sometime" link="IMG_0426-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Sometime’s website](https://www.sometime.co.jp/sometime/)
 -   [Located near Kichijoji station in Tokyo, Japan](https://maps.app.goo.gl/6o4VFztnHDWpVZGa9)

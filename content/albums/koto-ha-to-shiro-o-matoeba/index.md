@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/koto-ha-to-shiro-o-matoeba/"]
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
-  caption = ""
+  alt = "Cover art of Shiro o Matoeba by Koto ha, To"
   relative = true
 +++
 

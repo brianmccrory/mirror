@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz/"]
 [cover]
   image = "yasumasakumagai-ryukawamura-olschool-460.jpeg"
-  caption = ""
+  alt = "Cover art of Ol’ School Jazz by Yasumasa Kumagai & Ryu Kawamura"
   relative = true
 +++
 

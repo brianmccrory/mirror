@@ -11,6 +11,7 @@ aliases = ["/p/bigboy/"]
 [cover]
   image = "IMG_20250314_140915677-1200.jpeg"
   caption = "Bigboy’s right exterior"
+  alt = "Bigboy’s right exterior"
   relative = true
 +++
 
@@ -68,7 +69,7 @@ Recently, there appears to be an increase in visitors to Bigboy, possibly due to
 {{< figure src="L1280281-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Welcome to Bigboy" link="L1280281-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Bigboy’s website](http://jazzbigboy.sakura.ne.jp/)
 -   [Located near Jimbocho station in Tokyo, Japan](https://maps.app.goo.gl/cRufi21d1DPe8eC46)

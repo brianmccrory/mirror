@@ -9,27 +9,23 @@ draft = false
 aliases = ["/p/ayumi-koketsu-struttin/"]
 [cover]
   image = "ayumi-koketsu-struttin-460.jpeg"
-  caption = ""
+  alt = "Cover art of Struttin’ by Ayumi Koketsu"
   relative = true
 +++
 
-{{< figure src="L1350756x-1200.jpeg" link="L1350756x-1200.jpeg" >}}
-
 _Struttin’_ is saxophone player Ayumi Koketsu’s jazz quartet album released in Japan in 2010. This is her debut album, the first of over a dozen killer jazz albums that she has been releasing through the years, each filled with material ranging from straight-ahead, cool jazz, hard bop, ballads, bossa nova, and other themes. This first album features Koketsu on alto sax with her quartet of Yoshihiko Naya on piano, Masayuki Tawarayama on bass, and Mark Taylor on drums.
 
-{{< figure src="L1350771x-1200.jpeg" link="L1350771x-1200.jpeg" >}}
+{{< figure src="L1350756x-1200.jpeg" alt="Front cover of Struttin’ by Ayumi Koketsu" link="L1350756x-1200.jpeg" >}}
 
 Along with Koketsu’s impressively dexterous sax improvisation is her embodiment of a real jazz sensibility. Although quite young when she made this album, her jazz language is authentic, filled with the spirit and tradition of influential jazz players. The giants of jazz sax players in particular are represented well, not only through Koketsu’s language but also by the songs she chose to record. The rousing excitement of Hank Mobley’s “This I Dig Of You” starts the set, and the band is off to the races from there. With similar associations to famous sax players, Sonny Rollins famously recorded track #2 “Without a Song” and #9 “Softly, As In A Morning Sunrise”, track #3 “Kary’s Trance” brings in the cool mode of Lee Konitz, #6 “The Kicker” is Joe Henderson all over, #10 “Del Sasser” is for Cannonball Adderley, and #11 “Blues Connotation” screams Ornette Coleman. Other candidates for some of the remaining songs could be Dexter Gordon, Stan Getz, and trumpeter Chet Baker. In any case, these songs are not only great vehicles for Koketsu and her band to interpret and improvise over, they must also serve as an homage to the renowned players that she listened to and learned from.
 
-{{< figure src="L1350777x-1200.jpeg" link="L1350777x-1200.jpeg" >}}
-
 In addition to these choice jazz selections and some jazz standards, Koketsu also recorded an original song as track #4 “A Solar Eclipse,” a powerfully heavy tune in 5/4 time, and a hit pop song #8 “Orion” as a pretty ballad originally performed by Japanese singer Mika Nakashima.
 
-{{< figure src="L1350783x-1200.jpeg" link="L1350783x-1200.jpeg" >}}
+{{< figure src="L1350771x-1200.jpeg" alt="Back cover of Struttin’ by Ayumi Koketsu" link="L1350771x-1200.jpeg" >}}
 
 After the long-awaited and popular release of _Struttin’_, Koketsu continued to release albums every few years with her own bands and with partners, such as the 2024 release [_Trust_](https://www.jazzofjapan.com/archive/akane-matsumoto-ayumi-koketsu-trust/), a duo album with pianist Akane Matsumoto. Her tenth album, _Echoes of 15 Years_, is a double album that was released in 2025 as a retrospective, best-of album.
 
-{{< figure src="L1350786x-1200.jpeg" link="L1350786x-1200.jpeg" >}}
+{{< figure src="L1350777x-1200.jpeg" alt="Inside case of Struttin’ by Ayumi Koketsu" link="L1350777x-1200.jpeg" >}}
 
 
 ## Liner Notes
@@ -38,27 +34,31 @@ _(Translated from Naoko Shimada’s original Japanese liner notes.)_
 
 When you hear the word “jazz,” what immediately comes to mind are the leading wind instruments like sax and trumpet. Many works that are continuously called masterpieces often feature these wind instruments as main features. Also, the people that we refer to as jazz giants, like trumpeter Miles Davis and saxophonists Cannonball Adderley and Sonny Rollins, are all men. Was the reason for this a result of the times, or the assumptions and subjective impressions of listeners? I don’t know the truth of the matter, but there were almost no scenes were female players rose to prominence.
 
-{{< figure src="L1350788x-1200.jpeg" link="L1350788x-1200.jpeg" >}}
+{{< figure src="L1350783x-1200.jpeg" alt="Booklet of Struttin’ by Ayumi Koketsu - front page" link="L1350783x-1200.jpeg" >}}
 
 One player who did burst into the mainstream in the midst of that was Dutch saxophone player Candy Dulfer, who released her debut album _Saxuality_ in 1990. She inherited the talent of her father who was also a saxophone player and continued the Dulfer bloodline with her boundless skill, ability, and beauty on top of all that. Highly praised, she received a Grammy nomination, became famous quickly, and started to perform as a supporting musician for Madonna and Prince.
 
-{{< figure src="L1350793x-1200.jpeg" link="L1350793x-1200.jpeg" >}}
+{{< figure src="L1350786x-1200.jpeg" alt="Booklet of Struttin’ by Ayumi Koketsu - liner notes 1" link="L1350786x-1200.jpeg" >}}
 
 Another woman that became famous is Carolyn Breuer, a hard-blowing player that could be likened to a female version of John Coltrane. There is also Tineke Postma from Holland, who ranges expertly from contemporary to challenging music. But, we can’t say there are many women like these.
 
-{{< figure src="L1350796x-1200.jpeg" link="L1350796x-1200.jpeg" >}}
-
 If we look at Japan however, the rise of young female horn players in recent years has stood out. If you look at the schedules of jazz clubs in different parts of the country, you can always find groups led by female players many times each month. That content includes various styles including traditional jazz, bebop, smooth jazz, and Brazilian. Moreover, in an environment where young colleagues form jam session-type bands and are surrounded by veteran musicians at live performances, we can see a situation where female musicians don’t hesitate to take on different challenges just because they are women. And the fact that they are from younger generations makes it even more surprising.
 
-{{< figure src="L1350809x-1200.jpeg" link="L1350809x-1200.jpeg" >}}
+{{< figure src="L1350788x-1200.jpeg" alt="Booklet of Struttin’ by Ayumi Koketsu - liner notes 2" link="L1350788x-1200.jpeg" >}}
 
 Currently 21 years old, Ayumi Koketsu is another sax player who has performed in  numerous live concerts since her teenage years. She is an artist whose name has already become known for performing alongside distinguished musicians. She is especially known at live spots in her hometown of Gifu and Nagoya, where several of the venues are always sold out when she plays. Those jazz fans who are in the known fill up the venues and the number of appearances seems to keep growing year after year. For people who have not heard of her, they may wonder what it is that attracts such a great amount of attention.
+
+{{< figure src="L1350793x-1200.jpeg" alt="Booklet of Struttin’ by Ayumi Koketsu - liner notes 3" link="L1350793x-1200.jpeg" >}}
 
 Of course, the best and obvious recommendation is to go experience her live concert in person. But listening to this album might be another way to discover her charm using just your ears.
 
 Before jumping into the contents of the album, let’s introduce her profile briefly.
 
+{{< figure src="L1350796x-1200.jpeg" alt="Booklet of Struttin’ by Ayumi Koketsu - back page" link="L1350796x-1200.jpeg" >}}
+
 Koketsu was born in Gifu in 1988. She started piano lessons at three years of age. She became interested in jazz through her father’s influence and became attracted to the saxophone, joining the brass band in middle school. By this time her tonal approach was already geared towards jazz and made her adrift in a classical band setting. Likely due to this, she did not join the brass band in high school, joined the jazz orchestra studying under Kaoru Tsubakida, and began to study jazz in earnest under Kaoru Tsubakida who was active in jazz orchestra and other activities.
+
+{{< figure src="L1350809x-1200.jpeg" alt="Obi of Struttin’ by Ayumi Koketsu" link="L1350809x-1200.jpeg" >}}
 
 After graduating from high school, she attended the Nagoya branch of Koyo Music Academy and, while in school, began to perform live in clubs based around Gifu and Nagoya. Upon graduating, she joined Toshihiko Naya’s Quartet “f” and began to play in diverse sessions.
 
@@ -113,7 +113,7 @@ Her passion is jazz!
 
 A talented woman makes her debut on the scene with her light yet intense performance at 21 years old!
 
-{{< figure src="L1320996x-1200.jpeg" link="L1320996x-1200.jpeg" >}}
+{{< figure src="L1320996x-1200.jpeg" alt="Disc of Struttin’ by Ayumi Koketsu" link="L1320996x-1200.jpeg" >}}
 
 
 ## Struttin’ by Ayumi Koketsu

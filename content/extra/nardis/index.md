@@ -11,6 +11,7 @@ aliases = ["/p/nardis/"]
 [cover]
   image = "IMG_20240325_200215138_HDR-1200.jpeg"
   caption = "JAZZ BAR   Nardis   CAFÉ"
+  alt = "JAZZ BAR   Nardis   CAFÉ"
   relative = true
 +++
 
@@ -61,7 +62,7 @@ Congratulations are also due to Nardis and Komine-san, as Nardis, having origina
 {{< figure src="L1280363-1200.jpeg" caption="<span class=\"figure-number\">Figure 16: </span>Welcome to Nardis" link="L1280363-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Nardis’s website](http://knardis.com/)
 -   [Located near Kashiwa station in Kashiwa, Japan](https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8)

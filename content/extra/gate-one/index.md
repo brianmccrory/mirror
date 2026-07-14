@@ -11,6 +11,7 @@ aliases = ["/p/gate-one/"]
 [cover]
   image = "P1050151x-1200.jpeg"
   caption = "Mariko Kajiwara and Shinji Hashimoto at Gate One in 2010"
+  alt = "Mariko Kajiwara and Shinji Hashimoto at Gate One in 2010"
   relative = true
 +++
 
@@ -53,7 +54,7 @@ _Sadly, guitarist Shinji Hashimoto left this world in 2021. Mariko Kajiwara cont
 {{< figure src="IMG00127-20101208-2247-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Shinji Hashimoto (guitar) with Shigeo Fukuda (piano), Satoshi Kosugi (bass), and Hiroshi Murakami (drums) at Gate One in 2010" link="IMG00127-20101208-2247-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Gate One’s website](http://www.jazzgateone.com/)
 -   [Located near Takadanobaba station in Tokyo, Japan](https://maps.app.goo.gl/gXJRnsMsxmtuwANw6)

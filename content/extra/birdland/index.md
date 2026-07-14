@@ -11,6 +11,7 @@ aliases = ["/p/birdland/"]
 [cover]
   image = "L1090119-1024.jpeg"
   caption = "The Nami Kano Quartet playing at Birdland in 2014."
+  alt = "The Nami Kano Quartet playing at Birdland in 2014."
   relative = true
 +++
 
@@ -25,7 +26,7 @@ Also worth appreciating is the nice selection of scotch, including a mini-cask o
 {{< figure src="IMG_20230416_183801798-1024.jpeg" link="IMG_20230416_183801798-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Birdland’s website](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html)
 -   [Located near Kitasenju station in Tokyo, Japan](https://goo.gl/maps/drgMW2AnAsXY1U3Z6)

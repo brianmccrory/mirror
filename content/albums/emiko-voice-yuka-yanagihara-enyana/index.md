@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/emiko-voice-yuka-yanagihara-enyana/"]
 [cover]
   image = "emiko-voice-yuka-yanagihara-enyana-460.jpeg"
-  caption = ""
+  alt = "Cover art of Enyana by Emiko Voice & Yuka Yanagihara"
   relative = true
 +++
 

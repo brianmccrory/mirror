@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/magnolia-el-viento-y-las-flores/"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
-  caption = ""
+  alt = "Cover art of El viento y las flores by Magnolia"
   relative = true
 +++
 

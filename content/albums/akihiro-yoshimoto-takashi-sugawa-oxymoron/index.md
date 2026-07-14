@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/akihiro-yoshimoto-takashi-sugawa-oxymoron/"]
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
-  caption = ""
+  alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"
   relative = true
 +++
 

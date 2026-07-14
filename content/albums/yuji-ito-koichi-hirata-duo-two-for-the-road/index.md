@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yuji-ito-koichi-hirata-duo-two-for-the-road/"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
-  caption = ""
+  alt = "Cover art of Two for the Road by Yuji Ito & Koichi Hirata Duo"
   relative = true
 +++
 

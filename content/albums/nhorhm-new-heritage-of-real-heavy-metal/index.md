@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/nhorhm-new-heritage-of-real-heavy-metal/"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
-  caption = ""
+  alt = "Cover art of New Heritage of Real Heavy Metal by NHORHM"
   relative = true
 +++
 

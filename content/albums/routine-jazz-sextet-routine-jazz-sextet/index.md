@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/routine-jazz-sextet-routine-jazz-sextet/"]
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
-  caption = ""
+  alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"
   relative = true
 +++
 

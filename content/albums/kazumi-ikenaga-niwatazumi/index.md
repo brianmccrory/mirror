@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/kazumi-ikenaga-niwatazumi/"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
-  caption = ""
+  alt = "Cover art of Niwatazumi by Kazumi Ikenaga"
   relative = true
 +++
 

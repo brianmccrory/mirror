@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hideaki-kanazawa-sumire-kuribayashi-nijuso/"]
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
-  caption = ""
+  alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"
   relative = true
 +++
 

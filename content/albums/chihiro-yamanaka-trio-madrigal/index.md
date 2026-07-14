@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chihiro-yamanaka-trio-madrigal/"]
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
-  caption = ""
+  alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"
   relative = true
 +++
 

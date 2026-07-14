@@ -11,6 +11,7 @@ aliases = ["/p/no-room-for-squares/"]
 [cover]
   image = "IMG_20230325_233326128-1024.jpeg"
   caption = "Winding down after an energetic live jazz show at No Room for Squares."
+  alt = "Winding down after an energetic live jazz show at No Room for Squares."
   relative = true
 +++
 
@@ -33,7 +34,7 @@ Another sign of the creative effort put forth by No Room for Squares, the bar al
 {{< figure src="IMG_20230325_190051950-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Drink Coca-Cola in bottles" link="IMG_20230325_190051950-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [No Room for Squares’s website](https://www.nrfsbar.com/)
 -   [Located near Shimo-kitazawa station in Tokyo, Japan](https://maps.app.goo.gl/ARoF5s7kJ4kRb2v89)

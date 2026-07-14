@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yukari-sekiya-duets-till-now-from-here/"]
 [cover]
   image = "yukari-sekiya-duets-till-now-from-here-460.jpeg"
-  caption = ""
+  alt = "Cover art of Duets Till Now, From Here by Yukari Sekiya"
   relative = true
 +++
 

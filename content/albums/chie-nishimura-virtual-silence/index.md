@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chie-nishimura-virtual-silence/"]
 [cover]
   image = "chie-nishimura-virtual-silence-460.jpeg"
-  caption = ""
+  alt = "Cover art of Virtual Silence by Chie Nishimura"
   relative = true
 +++
 

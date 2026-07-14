@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/nhorhm-extra-edition/"]
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
-  caption = ""
+  alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"
   relative = true
 +++
 

@@ -11,6 +11,7 @@ aliases = ["/p/barbra/"]
 [cover]
   image = "L1030324-1024.jpeg"
   caption = "Vocalist Reika JJ and pianist Seiji Endo performing at Barbra in 2012"
+  alt = "Vocalist Reika JJ and pianist Seiji Endo performing at Barbra in 2012"
   relative = true
 +++
 
@@ -25,7 +26,7 @@ If you’re up for it, request a song from the bar master Kazuma-san (“Can’t
 {{< figure src="L1150239-1024.jpeg" link="L1150239-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Barbra’s website](https://ginza-barbra.com/)
 -   [Located near Ginza and Shimbashi stations in Tokyo, Japan](https://goo.gl/maps/3TYvp6DhKQtGLcp26)

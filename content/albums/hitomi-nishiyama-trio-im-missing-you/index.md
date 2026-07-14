@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hitomi-nishiyama-trio-im-missing-you/"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
-  caption = ""
+  alt = "Cover art of I’m Missing You by Hitomi Nishiyama Trio"
   relative = true
 +++
 

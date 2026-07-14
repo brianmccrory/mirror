@@ -11,6 +11,7 @@ aliases = ["/p/thelonious/"]
 [cover]
   image = "IMG_20250303_200615544-1200.jpeg"
   caption = "Mamoru Ishida (piano), Kenji Yoshitake (bass), and Minori Yagino (drums) at Thelonious in March 2025"
+  alt = "Mamoru Ishida (piano), Kenji Yoshitake (bass), and Minori Yagino (drums) at Thelonious in March 2025"
   relative = true
 +++
 
@@ -27,7 +28,7 @@ The bar has changed locations twice in the same Higashi-Nakano neighborhood and 
 {{< figure src="L1280217-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Stage area at Thelonious showing owner Toshiko-san’s Japanese calligraphy of 鳳鳴朝陽 (“the phoenix sings at the morning sun” describing great fortune and auspicious beginnings)" link="L1280217-1200.jpeg" >}}
 
 
-## Thelonious’s Current Location {#thelonious-s-current-location}
+## Thelonious’s Current Location
 
 Today, Thelonious’s third and current location occupies a street-level shop whose main room is essentially a small square area for the musicians’ stage and audience seats. Half of the room is taken up by the slightly raised stage where the night’s musicians gather closely in front of the grand piano and the drum set. Facing this are two rows of seats for listeners, with modest stools, benches, and small, light tables scattered around. Navigating the tight quarters may require some care to avoid bumping drinks or knocking over the low tables. Next to this is the tiny bar area, with a bathroom and kitchen in the back.
 
@@ -46,7 +47,7 @@ Big congratulations are also due Toshiko-san and Thelonious, this year celebrati
 {{< figure src="IMG_0880-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Toshiko-san at the bar in Thelonious’s original location in November 2008" link="IMG_0880-1200.jpeg" >}}
 
 
-## Thelonious’s First Location {#thelonious-s-first-location}
+## Thelonious’s First Location
 
 The first location was very cozy, with just enough room near the end of the bar for a few musicians to perform at a time. Thelonious opened in 2005 and operated in this location for three years. Two puppies were also often found to be playing inside the bar, happily exploring and greeting customers while the jazz music and drinks flowed.
 
@@ -55,7 +56,7 @@ The first location was very cozy, with just enough room near the end of the bar 
 {{< figure src="L1070411-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Maki Fujimura (vocals) and Yuichiro Aratake (piano) at Thelonious in September 2013" link="L1070411-1200.jpeg" >}}
 
 
-## Thelonious’s Second Location {#thelonious-s-second-location}
+## Thelonious’s Second Location
 
 After the first three years, Thelonious moved to a second location nearby, operating there for roughly eleven years. This second location occupied a basement-level space right across the street from the Higashi-Nakano train station. The space was separated into two rooms, basically a front bar/lounge area and a back room for live jazz performances and jam sessions. This back room held soft couch-style seats and small tables next to the stage area, with more chairs and seats extending back into a hallway that bridged the front and back rooms. Approximately four to six listeners in the backroom jazz area would have the best (and loudest) spots, right up front with the musicians, and the remaining guests would fill out the seats further out into the hallway. It was here where hundreds of jazz performances and jam sessions were held, helping to bring Thelonious into its own as a highly appreciated jazz spot regularly supported by musicians and fans.
 
@@ -110,7 +111,7 @@ After the first three years, Thelonious moved to a second location nearby, opera
 {{< figure src="IMG_20250303_190553430-1200.jpeg" caption="<span class=\"figure-number\">Figure 34: </span>Welcome to Thelonious (nighttime)" link="IMG_20250303_190553430-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Thelonious’s website](https://thelonious-hp.jimdofree.com/)
 -   [Located near Higashi-nakano and Ochiai stations in Tokyo, Japan](https://maps.app.goo.gl/uwQm138qQ5RsMqDs6)

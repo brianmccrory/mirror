@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiroshi-fukutomi-memory-stones/"]
 [cover]
   image = "hiroshi-fukutomi-memory-stones-460.jpeg"
-  caption = ""
+  alt = "Cover art of Memory Stones by Hiroshi Fukutomi"
   relative = true
 +++
 

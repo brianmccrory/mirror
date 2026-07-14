@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chihiro-yamanaka-lach-doch-mal/"]
 [cover]
   image = "chihiro-yamanaka-lach-460.jpeg"
-  caption = ""
+  alt = "Cover art of Lach Doch Mal by Chihiro Yamanaka"
   relative = true
 +++
 

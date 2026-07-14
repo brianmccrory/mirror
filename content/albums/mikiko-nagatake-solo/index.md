@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/mikiko-nagatake-solo/"]
 [cover]
   image = "mikiko-nagatake-solo-460.jpeg"
-  caption = ""
+  alt = "Cover art of Solo by Mikiko Nagatake"
   relative = true
 +++
 

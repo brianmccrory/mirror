@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/duo-tremolo-resonance/"]
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
-  caption = ""
+  alt = "Cover art of Resonance by Duo Tremolo"
   relative = true
 +++
 

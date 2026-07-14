@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/miki-hayama-prelude-to-a-kiss/"]
 [cover]
   image = "mikihayama-prelude-460.jpeg"
-  caption = ""
+  alt = "Cover art of Prelude to a Kiss by Miki Hayama"
   relative = true
 +++
 

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kaori-vibes-quartet-starry-nights/"]
 [cover]
   image = "kaori-vibes-quartet-starry-nights-460.jpeg"
-  caption = ""
+  alt = "Cover art of Starry Nights by Kaori Vibes Quartet"
   relative = true
 +++
 

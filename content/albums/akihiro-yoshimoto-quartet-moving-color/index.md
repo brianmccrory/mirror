@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/akihiro-yoshimoto-quartet-moving-color/"]
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
-  caption = ""
+  alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"
   relative = true
 +++
 

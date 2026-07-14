@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/taihei-asakawa-catastrophe-in-jazz/"]
 [cover]
   image = "taiheiasakawa-catas-460.jpeg"
-  caption = ""
+  alt = "Cover art of Catastrophe in Jazz by Taihei Asakawa"
   relative = true
 +++
 

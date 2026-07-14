@@ -11,6 +11,7 @@ aliases = ["/p/into-the-blue/"]
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"
   caption = "The cool interior at Into the Blue with instruments on high."
+  alt = "The cool interior at Into the Blue with instruments on high."
   relative = true
 +++
 
@@ -23,7 +24,7 @@ There are many options for drinks and food on the menu including Margherita pizz
 {{< figure src="IMG_20181113_194136875-1024.jpeg" link="IMG_20181113_194136875-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Into the Blue’s website](http://intotheblue.info/)
 -   [Located near Machida station in Tokyo, Japan](https://goo.gl/maps/C8u4y5hN3uZfAs67A)

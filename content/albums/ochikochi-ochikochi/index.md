@@ -9,29 +9,29 @@ draft = false
 aliases = ["/p/ochikochi-ochikochi/"]
 [cover]
   image = "ochikochi-ochikochi-460.jpeg"
-  caption = ""
+  alt = "Cover art of Ochikochi by Ochikochi"
   relative = true
 +++
 
-{{< figure src="L1340914x-1200.jpeg" link="L1340914x-1200.jpeg" >}}
-
 _Ochikochi_ is the 2013 album released from a trio of the same name consisting of Taiichi Kamimura on sax, Norikatsu Koreyasu on bass, and Manabu Hashimoto on drums. All songs are by the group’s front horn player Kamimura. It’s adventurous jazz music in the uninhibited hip style of rugged jazz legends like Ornette Coleman and Eric Dolphy. Even through to the current day, when Kamimura plays live, he still often leads Ornette Coleman-style concerts and jam sessions at various jazz spots around Japan.
+
+{{< figure src="L1340914x-1200.jpeg" alt="Front cover of Ochikochi by Ochikochi" link="L1340914x-1200.jpeg" >}}
 
 _Ochikochi_, the Japanese word used as the band name and album title (オチコチ, _oh-chee-koh-chee_, 遠近), is an uncommon Japanese word that sounds like the more common, everyday word _achikochi_ (あちこち) and shares a similar meaning. Ochikochi is apparently an old literary term with a mimetic repeated rhyming sound that means far and near, here and there, or even past and present. Written in Japanese kanji, the two characters 遠 and 近 literally represent the two distance words “far” and “near”, and together as 遠近 or _ochikochi_ can also contain the nuance of perspective.
 
-{{< figure src="L1340924x-1200.jpeg" link="L1340924x-1200.jpeg" >}}
-
-{{< figure src="L1340932x-1200.jpeg" link="L1340932x-1200.jpeg" >}}
-
 At 1:14 runtime, the album _Ochikochi_ includes eight tracks lasting anywhere from six to twelve minutes apiece, long enough for the three musicians to settle into a mood and explore unhurried free improvisation. The songs were recorded by the trio at three different live concerts in 2011, two at [Shinjuku Pit Inn](https://www.jazzofjapan.com/archive/pit-inn/) (February 16 and August 29, 2011) and one at Yokohama Airegin (August 31, 2011).
+
+{{< figure src="L1340924x-1200.jpeg" alt="Back cover of Ochikochi by Ochikochi" link="L1340924x-1200.jpeg" >}}
 
 With only three musicians, the sturdiness of the three-legged stool rests on the equal measure and coordination of the trio. With Kamimura on tenor and soprano saxophones as the main player up front, he is the de facto leader who captures attention visibly and audibly as the forefront melody and adlib player. Still, the songs (all composed by Kamimura) stand up firmly through the imaginatively constructed moods and the smart balance of free and locked-in patterns that the members generate. While there are some wild sections in the music (as in, some free jazz and wide-open improvisations), they rise from the groundwork of composed ideas, themes, harmonic structures, and frameworks that the trio uses to journey together. And through it all, there’s plenty of space for the three musicians to stretch out for extended improvisation, either out in front of the other two musicians, or in simultaneous soloing modes.
 
-{{< figure src="L1340937x-1200.jpeg" link="L1340937x-1200.jpeg" >}}
+{{< figure src="L1340932x-1200.jpeg" alt="Inside case of Ochikochi by Ochikochi" link="L1340932x-1200.jpeg" >}}
 
 There is never the feeling that the musicians are lost or simply wandering without a map. These compositions are such that that the resulting music is fascinating but also dangerous and risky, as this kind of music can sometimes take a careful ear and deliberate attention to uncover the plan in the seeming chaos. Alternatively, just unplugging and letting the trip carry you along and wash through you is a completely enjoyable experience, too... maybe even the best way.
 
 Track #1 “Action &amp; Talk” seems complicated at first with a seemingly unsteady beat (or, one that is initially hiding) but the melody played by synchronized sax and bass is one that guides listeners through the opening chapter of a complex, interesting, but potentially confusing story. This dual- or triple-barreled sharing of the melody is something that the sax, bass, and drums enjoy throughout the album.
+
+{{< figure src="L1340937x-1200.jpeg" alt="Obi of Ochikochi by Ochikochi" link="L1340937x-1200.jpeg" >}}
 
 \#2 “Autumn Song” (秋の歌, _Aki no Uta_) continues the adventure and pushes boundaries with freeish swing and vamp-like movements, that is, swing with its own thing that takes form out of a cauldron of potent musical chemicals and skill.
 
@@ -56,7 +56,7 @@ Three distant gazes intersect and unfold. Looking upwards, downwards, and far aw
 
 A recording of the distance, far and near (_ochikochi_), that is the musical performance of Kamimura, Koreyasu, and Hashimoto. At Shinjuku Pit Inn and Yokohama Airegin. First album.
 
-{{< figure src="L1340941x-1200.jpeg" link="L1340941x-1200.jpeg" >}}
+{{< figure src="L1340941x-1200.jpeg" alt="Disc of Ochikochi by Ochikochi" link="L1340941x-1200.jpeg" >}}
 
 
 ## Ochikochi by Ochikochi

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiromi-miura-we-dont-know-yet/"]
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
-  caption = ""
+  alt = "Cover art of We Don’t Know Yet by Hiromi Miura"
   relative = true
 +++
 

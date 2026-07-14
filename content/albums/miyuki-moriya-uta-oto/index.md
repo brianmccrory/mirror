@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/miyuki-moriya-uta-oto/"]
 [cover]
   image = "miyuki-moriya-uta-oto-460.jpeg"
-  caption = ""
+  alt = "Cover art of Uta Oto by Miyuki Moriya"
   relative = true
 +++
 

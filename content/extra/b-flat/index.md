@@ -11,6 +11,7 @@ aliases = ["/p/b-flat/"]
 [cover]
   image = "L1170438-1024.jpeg"
   caption = "Maiko (violin), Hitomi Nishiyama (piano), Daiki Yasukagawa (bass), and Manabu Hashimoto (drums) at B-flat in 2017"
+  alt = "Maiko (violin), Hitomi Nishiyama (piano), Daiki Yasukagawa (bass), and Manabu Hashimoto (drums) at B-flat in 2017"
   relative = true
 +++
 
@@ -45,7 +46,7 @@ B-flat fills a comfortable spot between the tiny, family-style jazz bars and hig
 {{< figure src="IMG_2776x-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to B-flat" link="IMG_2776x-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [B-flat’s website](https://bflat.yamano-music.co.jp/)
 -   [Located near Akasaka station in Tokyo, Japan](https://maps.app.goo.gl/LtBuTeeXxPS85dwc8)

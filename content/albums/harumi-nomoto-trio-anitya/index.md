@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/harumi-nomoto-trio-anitya/"]
 [cover]
   image = "harumi-nomoto-trio-anitya-460.jpeg"
-  caption = ""
+  alt = "Cover art of Anitya by Harumi Nomoto Trio"
   relative = true
 +++
 
@@ -82,7 +82,7 @@ If I recall correctly, around the time the coronavirus had started spreading, th
 
 I created this song while imagining waves coming in and going out. I borrowed the name from the legendary diver Jacques Mayol, who loved the sea around Tateyama in his later years.
 
-{{< figure src="L1330746x-1200.jpeg" link="L1330746x-1200.jpeg" >}}
+{{< figure src="L1330746x-1200.jpeg" alt="Printed on the CD: “The cut of the okra is like a star. Also, the flowers are beautiful. I like them very much”." link="L1330746x-1200.jpeg" >}}
 
 
 ## Anitya by Harumi Nomoto Trio

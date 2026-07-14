@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/tomoka-miwa-colors/"]
 [cover]
   image = "tomokamiwa-colors-460.jpeg"
-  caption = ""
+  alt = "Cover art of Colors in Silence by Tomoka Miwa"
   relative = true
 +++
 

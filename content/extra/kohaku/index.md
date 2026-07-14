@@ -11,6 +11,7 @@ aliases = ["/p/kohaku/"]
 [cover]
   image = "IMG_20230405_200313739-1024.jpeg"
   caption = "The Joe Rosenberg Trio with Kosuke Ochiai and Ko Omura in 2023"
+  alt = "The Joe Rosenberg Trio with Kosuke Ochiai and Ko Omura in 2023"
   relative = true
 +++
 
@@ -31,7 +32,7 @@ Kohaku’s menu lists beers, whisky, custom sangria drinks, and original blend c
 {{< figure src="IMG_20230405_195654613x-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Welcome to Kohaku" link="IMG_20230405_195654613x-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Kohaku’s website](https://www.udagawacafe.com/kohaku/)
 -   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9)

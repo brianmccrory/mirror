@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/erisa-ogawa-where-have-u-been/"]
 [cover]
   image = "erisa-ogawa-where-have-u-been-460.jpeg"
-  caption = ""
+  alt = "Cover art of Where Have U Been? by Erisa Ogawa"
   relative = true
 +++
 

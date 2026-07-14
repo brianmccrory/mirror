@@ -10,7 +10,7 @@ draft = false
 aliases = ["/p/mabumi-yamaguchi-let-your-mind-alone/"]
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
-  caption = ""
+  alt = "Cover art of Let Your Mind Alone by Mabumi Yamaguchi"
   relative = true
 +++
 

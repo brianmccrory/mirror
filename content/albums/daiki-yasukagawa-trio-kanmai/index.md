@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/daiki-yasukagawa-trio-kanmai/"]
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
-  caption = ""
+  alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"
   relative = true
 +++
 

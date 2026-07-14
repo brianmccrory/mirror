@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/harumi-nomoto-trio-another-ordinary-day/"]
 [cover]
   image = "haruminomoto-another-460.jpeg"
-  caption = ""
+  alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"
   relative = true
 +++
 

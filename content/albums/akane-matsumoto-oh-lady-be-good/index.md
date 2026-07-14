@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/akane-matsumoto-oh-lady-be-good/"]
 [cover]
   image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
-  caption = ""
+  alt = "Cover art of Oh, Lady Be Good by Akane Matsumoto"
   relative = true
 +++
 

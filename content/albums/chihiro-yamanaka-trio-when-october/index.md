@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/chihiro-yamanaka-trio-when-october/"]
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
-  caption = ""
+  alt = "Cover art of When October Goes by Chihiro Yamanaka Trio"
   relative = true
 +++
 

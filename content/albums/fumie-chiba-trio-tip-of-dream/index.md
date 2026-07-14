@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/fumie-chiba-trio-tip-of-dream/"]
 [cover]
   image = "fumiechiba-tip-460.jpeg"
-  caption = ""
+  alt = "Cover art of Tip of Dream by Fumie Chiba Trio"
   relative = true
 +++
 

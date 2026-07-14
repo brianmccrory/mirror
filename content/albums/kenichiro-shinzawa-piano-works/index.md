@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kenichiro-shinzawa-piano-works/"]
 [cover]
   image = "kenichiroshinzawa-pianoworks-460.jpeg"
-  caption = ""
+  alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"
   relative = true
 +++
 

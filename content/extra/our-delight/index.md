@@ -11,6 +11,7 @@ aliases = ["/p/our-delight/"]
 [cover]
   image = "IMG_20170210_210301-1024.jpeg"
   caption = "A front-row corner table positioned right up near the on-stage drum set."
+  alt = "A front-row corner table positioned right up near the on-stage drum set."
   relative = true
 +++
 
@@ -29,7 +30,7 @@ _Update: Our Delight permanently closed and reopened as [Re.Delight](https://red
 {{< figure src="IMG_20230304_131813809-1024.jpeg" link="IMG_20230304_131813809-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Our Delight’s website](http://ourdelight.blog.jp/)
 -   [Located near Warabi station in Saitama, Japan](https://goo.gl/maps/RubwbvnkQoVS1tGT7)

@@ -11,6 +11,7 @@ aliases = ["/p/apollo/"]
 [cover]
   image = "IMG_20181020_203433884-1024.jpeg"
   caption = "The Danish neo-cello duo Soma & Lil (Soma Allpass and Lil Lacy) with steelpanist Yoshio Machida at Apollo in 2018"
+  alt = "The Danish neo-cello duo Soma & Lil (Soma Allpass and Lil Lacy) with steelpanist Yoshio Machida at Apollo in 2018"
   relative = true
 +++
 
@@ -23,7 +24,7 @@ More down to earth than upper-crust, some customers may feel uncomfortable in th
 {{< figure src="IMG_20181020_194953216-1024.jpeg" link="IMG_20181020_194953216-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Apollo’s website](https://www.apollonoise.com/)
 -   [Located near Shimo-kitazawa station in Tokyo, Japan](https://maps.app.goo.gl/gSPE3aPWJVj2stF77)

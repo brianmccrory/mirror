@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/the-third-tribe-nearly-dusk/"]
 [cover]
   image = "the-third-tribe-nearly-dusk-460.jpeg"
-  caption = ""
+  alt = "Cover art of Nearly Dusk by The Third Tribe"
   relative = true
 +++
 

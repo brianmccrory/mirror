@@ -11,6 +11,7 @@ aliases = ["/p/aketa-no-mise/"]
 [cover]
   image = "L1280616x-1200.jpeg"
   caption = "Welcome to Aketa no Mise"
+  alt = "Welcome to Aketa no Mise"
   relative = true
 +++
 
@@ -65,7 +66,7 @@ Outside of written context, the spelling for “Aketa” can be both 明田, fro
 {{< figure src="IMG_20251021_194117273-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Shoji Aketagawa 1950/10/23 - 2024/11/16" link="IMG_20251021_194117273-1200.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Aketa no Mise’s website](http://www.aketa.org/)
 -   [Located near Nishi-Ogikubo station in Tokyo, Japan](https://maps.app.goo.gl/Jcith9dPnrXGgDd29)

@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/kaoru-azuma-footprints-in-new-york/"]
 [cover]
   image = "kaoru-azuma-footprints-in-new-york-460.jpeg"
-  caption = ""
+  alt = "Cover art of Footprints in New York by Kaoru Azuma"
   relative = true
 +++
 

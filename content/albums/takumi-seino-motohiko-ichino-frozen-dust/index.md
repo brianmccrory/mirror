@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/takumi-seino-motohiko-ichino-frozen-dust/"]
 [cover]
   image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
-  caption = ""
+  alt = "Cover art of Frozen Dust by Takumi Seino & Motohiko Ichino"
   relative = true
 +++
 

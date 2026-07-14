@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/miki-hayama-trio-wide-angle/"]
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
-  caption = ""
+  alt = "Cover art of Wide Angle by Miki Hayama Trio"
   relative = true
 +++
 

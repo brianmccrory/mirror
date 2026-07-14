@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hamasaki-matsumoto-bigcatch/"]
 [cover]
   image = "hamasaki-matsumoto-bigcatch-460.jpeg"
-  caption = ""
+  alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"
   relative = true
 +++
 

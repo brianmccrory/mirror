@@ -11,6 +11,7 @@ aliases = ["/p/dug/"]
 [cover]
   image = "P1010446-1024.jpeg"
   caption = "Relaxing with great music and atmosphere in a dark corner of Dug"
+  alt = "Relaxing with great music and atmosphere in a dark corner of Dug"
   relative = true
 +++
 
@@ -47,7 +48,7 @@ Shop names have even changed, from Dig to Dug to New Dug. Perhaps a slightly con
 {{< figure src="IMG_20190602_222026058-1024.jpeg" link="IMG_20190602_222026058-1024.jpeg" >}}
 
 
-## Information {#information}
+## Information
 
 -   [Dug’s website](http://www.dug.co.jp/)
 -   [Located near Shinjuku station in Tokyo, Japan](https://goo.gl/maps/nZtFtqPYhnQ6T2598)

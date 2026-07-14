@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/yasumasa-kumagai-last-resort/"]
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
-  caption = ""
+  alt = "Cover art of Last Resort by Yasumasa Kumagai & J-Jazz Homies"
   relative = true
 +++
 

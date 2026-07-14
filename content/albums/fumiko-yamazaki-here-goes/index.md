@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/fumiko-yamazaki-here-goes/"]
 [cover]
   image = "fumiko-yamazaki-here-460.jpeg"
-  caption = ""
+  alt = "Cover art of Here Goes! by Fumiko Yamazaki"
   relative = true
 +++
 

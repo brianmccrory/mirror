@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiroyuki-yamaguchi-quintet-mowna/"]
 [cover]
   image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
-  caption = ""
+  alt = "Cover art of Mowna by Hiroyuki Yamaguchi Quintet"
   relative = true
 +++
 

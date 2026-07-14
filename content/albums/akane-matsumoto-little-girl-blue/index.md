@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/akane-matsumoto-little-girl-blue/"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
-  caption = ""
+  alt = "Cover art of Little Girl Blue by Akane Matsumoto"
   relative = true
 +++
 

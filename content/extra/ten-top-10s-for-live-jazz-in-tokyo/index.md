@@ -10,6 +10,7 @@ aliases = ["/p/ten-top-10s-for-live-jazz-in-tokyo/"]
 [cover]
   image = "IMG_20190629_212549307-1200.jpeg"
   caption = "Jazz cat figurines at Manhattan jazz club in Tokyo"
+  alt = "Jazz cat figurines at Manhattan jazz club in Tokyo"
   relative = true
 +++
 
@@ -22,7 +23,7 @@ _“Sure! Here are the Top 10 best jazz clubs, bars, and venues for live music a
 ---
 
 
-## Ten “Top 10” Lists, One “Top 100” List {#ten-top-10-lists-one-top-100-list}
+## Ten “Top 10” Lists, One “Top 100” List
 
 What would be the best selection of lists to suggest for foreigners to visit in Tokyo?
 
@@ -55,7 +56,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #1: A Natural Place to Begin {#list-1-a-natural-place-to-begin}
+### List #1: A Natural Place to Begin
 
 “Some obvious starting points and the most well-known venues. Classic, legendary, and historic, and in some cases, expensive.”
 
@@ -75,7 +76,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #2: Quintessential Options {#list-2-quintessential-options}
+### List #2: Quintessential Options
 
 “Often recommended, well-known, and must-visit spots. Great for jazz lovers and first timers.”
 
@@ -93,7 +94,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #3: Everyday Favorites {#list-3-everyday-favorites}
+### List #3: Everyday Favorites
 
 “Practical and straightforward, solid and dependable choices. Everyday/anyday go-to spots for jazz lovers. Humble, simple, and satisfying.”
 
@@ -111,7 +112,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #4: More to Explore {#list-4-more-to-explore}
+### List #4: More to Explore
 
 “Reliable jazz clubs, whether old-fashioned classic or stylish, and some with avant-garde, experimental, or trend-setting aspects.”
 
@@ -129,7 +130,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #5: Jazz and Coffee and Tiny Spots {#list-5-jazz-and-coffee-and-tiny-spots}
+### List #5: Jazz and Coffee and Tiny Spots
 
 “Cafes, coffee, cute, and cozy. A handful of coffee-centered, or just plain small, spots. Nostalgic, simple, caffeinated. Only including live spots for now (jazz kissas and coffeeshops without live music are for a separate article).”
 
@@ -147,7 +148,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #6: Nightclub, Restaurant, and Bar Atmospheres {#list-6-nightclub-restaurant-and-bar-atmospheres}
+### List #6: Nightclub, Restaurant, and Bar Atmospheres
 
 “Pulling their weight with live jazz in a varied combination of settings with a certain type of vibe. Some feature great food options, from izayaka grills to gourmet menus, and others feature drinks in an after-dark nightclub mood.”
 
@@ -165,7 +166,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #7: Even More Solid Choices {#list-7-even-more-solid-choices}
+### List #7: Even More Solid Choices
 
 “Further off the beaten track but are worth checking out for great jazz settings.”
 
@@ -185,7 +186,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #8: Grab Bag {#list-8-grab-bag}
+### List #8: Grab Bag
 
 “Miscellaneous odds, ends, and to-do’s”
 
@@ -203,7 +204,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 ---
 
 
-### List #9: Yokohama {#list-9-yokohama}
+### List #9: Yokohama
 
 “A jazz hub with plenty of options and a rich history of jazz in Japan.”
 
@@ -223,7 +224,7 @@ The port city of Yokohama, roughly south of Tokyo, is a jazz hub with a rich his
 ---
 
 
-### List #10: Further Out {#list-10-further-out}
+### List #10: Further Out
 
 “To Chiba, Kamakura, Kashiwa, and Saitama. Just outside of Tokyo and well worth trekking out to for interesting spots with quality jazz.”
 
@@ -249,7 +250,7 @@ Most of the places in **Lists #9** and **10** can be conveniently reached by tra
 ---
 
 
-### A Typical “Top 10” List {#a-typical-top-10-list}
+### A Typical “Top 10” List
 
 Ask the internet for a “top 10 live jazz clubs in Tokyo”, and you will get a list of venues such as the following:
 
@@ -275,7 +276,7 @@ This gave me the idea of creating my own human-compiled versions of these kinds 
 ---
 
 
-### The Good, the Bad, and the Messy of “Top 10” Lists {#the-good-the-bad-and-the-messy-of-top-10-lists}
+### The Good, the Bad, and the Messy of “Top 10” Lists
 
 Through the years, I’ve spent a lot of time searching for and visiting jazz spots in Japan. I have also thought a bit about how to recommend places to people who want to experience live jazz in Japan, and how to help travelers who may only be in Tokyo for a few nights. These fans may not have much familiarity with the city, the language, or how jazz clubs in Japan operate.
 
@@ -288,7 +289,7 @@ A one-size-fits-all Top 10 list presents obstacles to describing the different q
 To overcome that difficulty, it’s tempting for list authors to go into more detail for each location. A brief **Top 10/Best Of/Best Bets/Essential Stops** list can easily grow into a long article with more descriptions and photos for each place. The short article which started out as a simple list may evolve into a series of separate articles about each venue individually… which is basically the [Clubs](https://www.jazzofjapan.com/t/clubs/) section here and on similar sites.
 
 
-### The Messy: Searching Online, Example Lists, and Rabbit Holes {#the-messy-searching-online-example-lists-and-rabbit-holes}
+### The Messy: Searching Online, Example Lists, and Rabbit Holes
 
 Naturally, it is easy to find online lists and articles on the internet with topics like “Best Tokyo jazz bars”.
 
@@ -321,7 +322,7 @@ In addition to “Top…” and “Best…” articles, there are also great dir
 It can easily become rabbit-hole territory. I’ve been there, too. Searches lead to more searches for details about venue hours, costs, distances and routes for each location, and whether the place is still operating or open on certain days… and, maybe most importantly for some discerning listeners, checking the individual event calendars to find out which performers are scheduled on specific days, in what sub-genres, which instruments are featured, the group formation (solo, duo, trio, etc), looking up the individual bands or musicians for videos, albums, or sound samples… And, for people without natural Japanese language skills, the language barrier with web-based information written in Japanese adds another level of challenge and effort.
 
 
-### The Bad: Some Problems with Online Lists {#the-bad-some-problems-with-online-lists}
+### The Bad: Some Problems with Online Lists
 
 To me, some significant problems with Top 10 lists are:
 
@@ -350,14 +351,14 @@ There’s also the problem that once a list is published online, it can easily b
 Moving from the online to the physical world, it can also be frustrating to search for a recommended location in an unfamiliar city, only to get lost and arrive late, or to not find it at all, or even to find that the venue has closed. “This location has been out of business for two years now… why is it still included on a Top 10 list?” Because, it’s the internet. The great world spins, but online posts often sit still.
 
 
-### The Good: Lists Can Be Really Useful {#the-good-lists-can-be-really-useful}
+### The Good: Lists Can Be Really Useful
 
 Whether it’s a simple online list of places with few details, discussions and advice from internet forums, a collection of articles describing each club, or even official travel guidebooks and professional websites, the best thing is the payoff: Finding those special places where jazz is appreciated in unique and exciting venues, where musicians gather to explore new territory, to honor the tradition, and to hone their craft, where listeners gather to enjoy this spontaneous communal experience, and where musicians, audiences, bar owners and staff all together share that elevated state of music magic while they support the art and the love of jazz.
 
 ---
 
 
-### Methodology {#methodology}
+### Methodology
 
 _“How did you come up with these lists? Why is X listed as #1, but Y is on List #2 and Z is on List #3?”_
 
@@ -375,7 +376,7 @@ To select, organize, and group these venues into ten lists, I considered a balan
 A lot of this ends up being subjective. If I reconsidered these lists a month or a year later, the groups, ordering, and included venues would probably be a little different, so take it all with a grain of salt. None of this is meant to be absolute or the final word on anything… but it is based on _a lot of_ personal experience and research.
 
 
-### The Guidelines {#the-guidelines}
+### The Guidelines
 
 The guidelines that I used to create these lists are:
 
@@ -389,7 +390,7 @@ The guidelines that I used to create these lists are:
 ---
 
 
-### Resources {#resources}
+### Resources
 
 Sites with club directories and information about jazz in Japan:
 
@@ -406,7 +407,7 @@ Sites with club directories and information about jazz in Japan:
 ---
 
 
-### Alphabetical List {#alphabetical-list}
+### Alphabetical List
 
 1.  **After Hours** - _Koenji Sta, Tokyo_ ([_web_](http://afterhours1975.com/) [_map_](https://maps.app.goo.gl/ndJRv1HHNsLsTKwf6))
 2.  **Airegin** - _Kannai Sta, Yokohama_ ([_web_](http://www.airegin.yokohama/) [_map_](https://maps.app.goo.gl/iMnzQkdiz72VgGSx9))

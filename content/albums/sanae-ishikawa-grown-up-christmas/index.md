@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/sanae-ishikawa-grown-up-christmas/"]
 [cover]
   image = "sanaeishikawa-grownup-460.jpeg"
-  caption = ""
+  alt = "Cover art of Grown-up Christmas Gift by Sanae Ishikawa"
   relative = true
 +++
 

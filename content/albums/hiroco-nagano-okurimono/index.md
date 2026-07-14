@@ -9,7 +9,7 @@ draft = false
 aliases = ["/p/hiroco-nagano-okurimono/"]
 [cover]
   image = "hiroconagano-okurimono-460.jpeg"
-  caption = ""
+  alt = "Cover art of Okurimono by Hiroco Nagano"
   relative = true
 +++
 

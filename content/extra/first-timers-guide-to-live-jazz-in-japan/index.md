@@ -11,13 +11,14 @@ aliases = ["/p/first-timers-guide-to-live-jazz-in-japan/"]
 [cover]
   image = "DSC_9546-1200.jpeg"
   caption = "Japanese figures in kimono look out from a bridge"
+  alt = "Japanese figures in kimono look out from a bridge"
   relative = true
 +++
 
 {{< figure src="IMG_20230315_135350313-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Sign for Tokyo Club written as 東京倶楽部" link="IMG_20230315_135350313-1200.jpeg" >}}
 
 
-## Introduction {#introduction}
+## Introduction
 
 There are some common impressions of hurdles that newcomers need to overcome with live jazz performances, and challenges with jazz in general for beginners. Jazz bars and clubs can seem hard to enter, especially on your own, and for the first time. What is the payment system? What music, and from which albums, is being played? Is it written down music, pure improvisation, noise? What’s a performance versus a jam session? When do I clap?
 
@@ -36,7 +37,7 @@ The topics in this article include glossaries of useful terms used in the Japane
 {{< figure src="IMG_20140629_190626x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Arriving at Salt Peanuts" link="IMG_20140629_190626x-1200.jpeg" >}}
 
 
-## Basic Lingo {#basic-lingo}
+## Basic Lingo
 
 For some helpful terms that appear in Japanese jazz, here is a brief list of common words and phrases. Japanese translations are included to help when searching for or looking at venue websites and online information.
 
@@ -68,7 +69,7 @@ For some helpful terms that appear in Japanese jazz, here is a brief list of com
 ---
 
 
-## About the Venues {#about-the-venues}
+## About the Venues
 
 The phrases **jazz club**, **jazz bar**, **jazz spot**, and others are mostly used interchangeably to mean any place that jazz music is featured, usually through live concerts, and sometimes through recorded music with a high-end stereo system and a fanatic’s personal collection of jazz CDs and LPs. However, perceptive customers may notice subtle differences between how the terms are used, briefly explained here.
 
@@ -88,10 +89,10 @@ The phrases **jazz club**, **jazz bar**, **jazz spot**, and others are mostly us
 ---
 
 
-## Before You Go {#before-you-go}
+## Before You Go
 
 
-### Understanding the System (システム) {#understanding-the-system--システム}
+### Understanding the System (システム)
 
 **Useful Terms:**
 
@@ -137,7 +138,7 @@ The second line shows that for daytime performances (昼の部) on weekends and 
 ---
 
 
-### Understanding the Costs {#understanding-the-costs}
+### Understanding the Costs
 
 **Useful Terms:**
 
@@ -162,7 +163,7 @@ This amount of detail regarding the various costs seems like a lot to understand
 ---
 
 
-### What is the Music Charge? {#what-is-the-music-charge}
+### What is the Music Charge?
 
 **Music charge (MC)** is the basic admission fee for the live concert performance.
 
@@ -183,7 +184,7 @@ This term can be confusing when appearing just as **MC** and alongside other fee
 ---
 
 
-### What is the Service Charge? {#what-is-the-service-charge}
+### What is the Service Charge?
 
 **Service Charge (SC)** can be an unclear addition. What service are you getting? This additional charge may be added at higher-end restaurants or bars with well-mannered staff in nice uniforms, for example, similar to a luxury surcharge at a five-star hotel or casino.
 
@@ -198,7 +199,7 @@ This additional fee is just another way that certain venues break down their fee
 ---
 
 
-### When and How to Pay {#when-and-how-to-pay}
+### When and How to Pay
 
 Most of the time, payment is made when you are ready to leave, but some places use a **pay on entry** system: [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn), [Velvet Sun](https://www.jazzofjapan.com/archive/velvet-sun), [Zimagine](https://www.jazzofjapan.com/archive/zimagine), and [Bon Courage](https://www.jazzofjapan.com/archive/bon-courage) for example. In these cases, the admission fee is paid at first, before taking your seat. The fee may include one drink order taken at the time, while additional orders will be pay on delivery. This makes exiting easy, as you can leave without having to settle a final bill.
 
@@ -213,7 +214,7 @@ But still, there are still many jazz spots that only accept **cash** (in yen, of
 ---
 
 
-### Reservations {#reservations}
+### Reservations
 
 Making reservations before going to go a jazz club is often a good idea, but not an absolute requirement. If you are flexible with your plans and like to roll the dice, showing up without a reservation, especially as a single guest, usually works out fine. The downsides are possibly having a poor seat in the back, or being told that all seats were sold out. Sometimes leaving it up to fate is fun, but other times, making reservations is the smart thing to do.
 
@@ -230,7 +231,7 @@ Also keep in mind that many jazz spots in Japan are pretty tiny, and sharing a t
 ---
 
 
-### Snacks, Bar Food, and Dinner {#snacks-bar-food-and-dinner}
+### Snacks, Bar Food, and Dinner
 
 When preparing to head to a jazz spot in Japan, you should consider whether you will want to eat there or to eat before you go. Since many nighttime concerts take place around dinnertime, it is convenient to decide to eat and drink while listening to the music, but not all jazz venues are equipped with food order kitchens.
 
@@ -249,7 +250,7 @@ If there is no other information, then the best assumption to make when going to
 ---
 
 
-### Alcohol {#alcohol}
+### Alcohol
 
 It can seem that jazz venues specialize as much in alcohol as they do in jazz music. The amount of different bottles and varieties of whiskeys, scotches, liquors can be impressively stunning. And similar to wine, the different regional varieties of shochu (焼酎﻿ _shōchū_, Japanese distilled spirits from sweet potatoes, barley, and other ingredients) and sake/nihonshu (日本酒﻿ _nihonshu_, Japanese rice wine) can pack a delicious punch, and they make quite an impression when poured from their large and beautifully decorative bottles.
 
@@ -262,7 +263,7 @@ Luckily, every jazz venue offers a small selection of non-alcoholic drinks, usua
 ---
 
 
-### Smoking {#smoking}
+### Smoking
 
 The allure of a smoky, dimly-lit jazz bar filled with happy customers focused on passionate performers is an attractive one, and fits with the popular jazz image. Collectors of jazz records can no doubt easily bring to mind famous album covers with smoke-filled portraits or featuring players with lit cigarettes in their photos.
 
@@ -273,7 +274,7 @@ These days, the rules and changes and the atmosphere has cleaned up a lot — as
 ---
 
 
-### Going Alone {#going-alone}
+### Going Alone
 
 Some solo travelers or listeners may want to try visiting a jazz club but worry about going alone. However, many customers in Japan do go to jazz venues alone, men and women alike, so this should not be a concern. In addition, many regular patrons of jazz clubs begin to recognize one another from unplanned meetings at various venues, and it’s often easier to strike up a conversation as a solo customer as opposed to being engaged in a couple or group conversation that other customers may not want to interrupt.
 
@@ -284,10 +285,10 @@ As for bringing children to a jazz venue, the audiences at jazz venues are mostl
 ---
 
 
-## At the Venue {#at-the-venue}
+## At the Venue
 
 
-### Walking In {#walking-in}
+### Walking In
 
 How the venue handles entering customers depends a lot on their pay system, described earlier.
 
@@ -302,7 +303,7 @@ If you have bags, coats, or small items that you would like to remove, there are
 ---
 
 
-### Arriving Late or Leaving Early {#arriving-late-or-leaving-early}
+### Arriving Late or Leaving Early
 
 Regarding the opening and start times, customers may arrive and leave at any time, but most people try to follow the schedule. That is, they try to arrive before the start time, and leave after the end time, to avoid disturbing the musicians and audience, and to be able to enjoy the entire show.
 
@@ -313,7 +314,7 @@ Having said that, there are some places that are so small that arriving, leaving
 ---
 
 
-### Audience Replacement {#audience-replacement}
+### Audience Replacement
 
 Most jazz bars have a “no replacement” or “no changeover” system, meaning customers can stay for both sets for one price, in a two-set system, for example.
 
@@ -326,7 +327,7 @@ While most places allow customers to stay for both sets when paying one admissio
 ---
 
 
-### Talking and Conversation {#talking-and-conversation}
+### Talking and Conversation
 
 Like any other place, conversational talking at your table is normal and allowed before the music starts, during the intermission, and after the music concludes. In fact, it’s not uncommon for strangers seated at the same table to strike up a conversation and make small talk.
 
@@ -337,7 +338,7 @@ That said, it’s also common for the tuned-in audience members to regularly cla
 ---
 
 
-### Musician and Song Introductions {#musician-and-song-introductions}
+### Musician and Song Introductions
 
 During the concert and between songs, the leader will often use the mic to take a few minutes to introduce the band and thank the audience for coming. Many times, they also will announce upcoming concert or tour dates, promote their new album, or tell an anecdote or two about the origin or meaning of some of their songs.
 
@@ -346,7 +347,7 @@ I was initially surprised at how much MC-ing (_‘Master of Ceremonies’ mic-wo
 ---
 
 
-### Taking Photos {#taking-photos}
+### Taking Photos
 
 While taking a few photos politely and discreetly is usually not a problem at a jazz venue, in general, taking photos in overt or distracting ways during performances is frowned upon. Most places have their own rules about this, clearly stated or otherwise understood.
 
@@ -369,7 +370,7 @@ Lastly, taking **videos** and **audio recordings** is almost never allowed, unle
 ---
 
 
-### Tipping {#tipping}
+### Tipping
 
 Tipping is not a common custom in Japan, and similarly, tipping jazz musicians is pretty much never done at jazz clubs in Japan (there are some rare exceptions). Also, tip jars are almost never seen. In general, tipping is not something that you ever need to think about at jazz spots in Japan.
 
@@ -380,7 +381,7 @@ In general, tipping is never expected or required, but in those rare cases with 
 ---
 
 
-### Encores {#encores}
+### Encores
 
 As the music progresses from the first set, the intermission, and the second set, the leader will often announce when they are about to play the last song for the night. After the last song ends, the final applause from the audiences may start to gel into one unified, steadily repeating slow clap that is a request for one more song.
 
@@ -389,7 +390,7 @@ Performing an encore is fairly common, and many musicians will come to their gig
 ---
 
 
-### After the Show {#after-the-show}
+### After the Show
 
 Many jazz bars will continue to play background music and sell drinks for a while after the live performance is over. Other places will start to close down the shop, and perhaps play a few songs as customers pay and exit.
 
@@ -398,7 +399,7 @@ This post-concert time is also an opportunity for customers to buy any CDs that 
 ---
 
 
-## A Typical Scenario: First Time at Salt Peanuts {#a-typical-scenario-first-time-at-salt-peanuts}
+## A Typical Scenario: First Time at Salt Peanuts
 
 _Although the experience of visiting a jazz club is not like a movie with surprises or critical developments that could be given away prematurely, some visitors like to be surprised and enter with an open mind. So, in the spirit of “no spoilers”, I recommend skipping this last story-like section if you’d rather go in without a preconceived image of what it will be like to visit a jazz club in Japan for the first time._
 
@@ -447,7 +448,7 @@ Finally, you ask the barmaster how much your bill comes to. He tells you while h
 ---
 
 
-## Lastly {#lastly}
+## Lastly
 
 This covers some of the common patterns and information that I’ve collected over years of absorbing Japanese jazz culture. Let me know what you think, if I missed anything, or whatever you have to add. Is there anything you would like to know more about? Send me a message or leave a comment, and I will try to cover what I can in future articles. In the meantime, the next article will go into more detail about how to choose the right jazz spot to suit your taste.
 

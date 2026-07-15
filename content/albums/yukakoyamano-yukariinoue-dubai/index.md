@@ -2,10 +2,11 @@
 title = "Yukako Yamano & Yukari Inoue: Dubai Suite"
 author = ["Brian McCrory"]
 publishDate = 2022-01-30
-keywords = ["yukakoyamano-yukariinoue-dubai"]
 tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
+slug = "yukakoyamano-yukariinoue-dubai"
+issue = 148
 [cover]
   image = "yukakoyamano-dubai-460.jpeg"
   alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"

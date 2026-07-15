@@ -2,10 +2,11 @@
 title = "Ami Fukui Trio: Urban Clutter"
 author = ["Brian McCrory"]
 publishDate = 2021-12-30
-keywords = ["ami-fukui-trio-urban-clutter"]
 tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
+slug = "ami-fukui-trio-urban-clutter"
+issue = 147
 [cover]
   image = "amifukui-urbanclutter-460.jpeg"
   alt = "Cover art of Urban Clutter by Ami Fukui Trio"

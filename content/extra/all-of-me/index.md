@@ -7,6 +7,7 @@ keywords = ["all-of-me"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 164
 [cover]
   image = "L1000733-1024.jpeg"
   caption = "A night of jazz standards at All of Me in 2012."

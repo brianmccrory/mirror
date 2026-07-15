@@ -2,10 +2,12 @@
 title = "Emiko Voice: Standard Trio"
 author = ["Brian McCrory"]
 publishDate = 2023-10-15
-keywords = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 tags = ["Emiko Voice", "エミコヴォイス", "Keisuke Ohta", "太田惠資", "Atsushi Abe", "阿部篤志"]
 categories = ["albums"]
 draft = false
+slug = "emiko-voice-standard-trio"
+issue = 207
+related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 [cover]
   image = "emiko-voice-standard-trio-460.jpeg"
   alt = "Cover art of Standard Trio by Emiko Voice"

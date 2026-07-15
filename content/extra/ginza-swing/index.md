@@ -7,6 +7,7 @@ keywords = ["ginza-swing"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 355
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"
   caption = "Ginza Swing jazz club"

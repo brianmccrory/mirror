@@ -2,10 +2,12 @@
 title = "Takumi Seino & Motohiko Ichino: Frozen Dust"
 author = ["Brian McCrory"]
 publishDate = 2024-05-11
-keywords = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices"]
 tags = ["Takumi Seino", "清野拓巳", "Motohiko Ichino", "市野元彦"]
 categories = ["albums"]
 draft = false
+slug = "takumi-seino-motohiko-ichino-frozen-dust"
+issue = 240
+related = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
   alt = "Cover art of Frozen Dust by Takumi Seino & Motohiko Ichino"

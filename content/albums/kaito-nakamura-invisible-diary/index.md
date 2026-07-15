@@ -2,10 +2,12 @@
 title = "Kaito Nakamura: Invisible Diary"
 author = ["Brian McCrory"]
 publishDate = 2025-04-19
-keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
 tags = ["Kaito Nakamura", "中村海斗", "Riko Sasaki", "佐々木梨子", "Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Ippei Kato", "加藤一平"]
 categories = ["albums"]
 draft = false
+slug = "kaito-nakamura-invisible-diary"
+issue = 304
+related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
 [cover]
   image = "kaito-nakamura-invisible-diary-460.jpeg"
   alt = "Cover art of Invisible Diary by Kaito Nakamura"

@@ -7,6 +7,7 @@ keywords = ["sweet-rain"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 270
 [cover]
   image = "IMG_20181025_213656820_BURST000_COVER-1200.jpeg"
   caption = "Emiko Voice’s Carta Trio with Koichi Sato (piano) and Keita Okada (drums) at Sweet Rain in October 2018"

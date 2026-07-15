@@ -2,10 +2,12 @@
 title = "Fumio Karashima: Great Time"
 author = ["Brian McCrory"]
 publishDate = 2026-02-15
-keywords = ["fumio-karashima-trio-its-just-beginning"]
 tags = ["Fumio Karashima", "辛島文雄", "Jack DeJohnette", "Drew Gress"]
 categories = ["albums"]
 draft = false
+slug = "fumio-karashima-great-time"
+issue = 351
+related = ["fumio-karashima-trio-its-just-beginning"]
 [cover]
   image = "fumio-karashima-great-time-460.jpeg"
   alt = "Cover art of Great Time by Fumio Karashima"

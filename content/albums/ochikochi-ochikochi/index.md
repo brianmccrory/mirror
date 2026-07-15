@@ -2,10 +2,12 @@
 title = "Ochikochi: Ochikochi"
 author = ["Brian McCrory"]
 publishDate = 2026-05-24
-keywords = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
 tags = ["Taiichi Kamimura", "かみむら泰一", "Norikatsu Koreyasu", "是安則克", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+slug = "ochikochi-ochikochi"
+issue = 366
+related = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
 [cover]
   image = "ochikochi-ochikochi-460.jpeg"
   alt = "Cover art of Ochikochi by Ochikochi"

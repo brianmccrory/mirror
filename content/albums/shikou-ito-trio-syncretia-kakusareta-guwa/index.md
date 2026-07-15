@@ -2,10 +2,12 @@
 title = "Shikou Ito Trio Syncretia: Kakusareta Guwa"
 author = ["Brian McCrory"]
 publishDate = 2026-02-22
-keywords = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 tags = ["Shikou Ito", "伊藤志宏", "Benisuke Sakai", "坂井紅介", "Gen Ogimi", "大儀見元"]
 categories = ["albums"]
 draft = false
+slug = "shikou-ito-trio-syncretia-kakusareta-guwa"
+issue = 352
+related = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
   alt = "Cover art of Kakusareta Guwa by Shikou Ito Trio Syncretia"

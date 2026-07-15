@@ -7,6 +7,7 @@ keywords = ["kohaku"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 224
 [cover]
   image = "IMG_20230405_200313739-1024.jpeg"
   caption = "The Joe Rosenberg Trio with Kosuke Ochiai and Ko Omura in 2023"

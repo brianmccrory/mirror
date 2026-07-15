@@ -2,10 +2,12 @@
 title = "Akihiro Yoshimoto Quartet: Blending Tone"
 author = ["Brian McCrory"]
 publishDate = 2026-03-15
-keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takuya Sakazaki", "坂崎拓也", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
+slug = "akihiro-yoshimoto-quartet-blending-tone"
+issue = 356
+related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
 [cover]
   image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
   alt = "Cover art of Blending Tone by Akihiro Yoshimoto Quartet"

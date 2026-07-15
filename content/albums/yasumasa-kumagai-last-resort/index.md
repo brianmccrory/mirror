@@ -2,10 +2,12 @@
 title = "Yasumasa Kumagai & J-Jazz Homies: Last Resort"
 author = ["Brian McCrory"]
 publishDate = 2023-10-06
-keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Miki Hirose", "広瀬未来", "Keisuke Furuki", "古木佳祐", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
+slug = "yasumasa-kumagai-last-resort"
+issue = 206
+related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
   alt = "Cover art of Last Resort by Yasumasa Kumagai & J-Jazz Homies"

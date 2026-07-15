@@ -2,10 +2,12 @@
 title = "Daiki Yasukagawa New Trio: The Three Roses"
 author = ["Brian McCrory"]
 publishDate = 2025-01-19
-keywords = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Sora Ichikawa", "市川空", "Yota Tsukada", "塚田陽太"]
 categories = ["albums"]
 draft = false
+slug = "daiki-yasukagawa-new-trio-three-roses"
+issue = 287
+related = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
   alt = "Cover art of The Three Roses by Daiki Yasukagawa New Trio"

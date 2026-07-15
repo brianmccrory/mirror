@@ -2,10 +2,12 @@
 title = "Sul Madrugada: Luar"
 author = ["Brian McCrory"]
 publishDate = 2023-08-25
-keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
 tags = ["Sayaka Kishi", "岸淑香", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
+slug = "sul-madrugada-luar"
+issue = 198
+related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
 [cover]
   image = "sul-madrugada-luar-460.jpeg"
   alt = "Cover art of Luar by Sul Madrugada"

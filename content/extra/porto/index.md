@@ -7,6 +7,7 @@ keywords = ["porto"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 172
 [cover]
   image = "L1030703-1024.jpeg"
   caption = "Singer Tomoka Miwa and guitarist Satoshi Aikawa at Porto in 2012"

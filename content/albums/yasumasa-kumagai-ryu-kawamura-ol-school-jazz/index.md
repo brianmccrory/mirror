@@ -2,10 +2,12 @@
 title = "Yasumasa Kumagai & Ryu Kawamura: Ol’ School Jazz"
 author = ["Brian McCrory"]
 publishDate = 2024-08-30
-keywords = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜"]
 categories = ["albums"]
 draft = false
+slug = "yasumasa-kumagai-ryu-kawamura-ol-school-jazz"
+issue = 260
+related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ryukawamura-olschool-460.jpeg"
   alt = "Cover art of Ol’ School Jazz by Yasumasa Kumagai & Ryu Kawamura"

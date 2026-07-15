@@ -2,10 +2,12 @@
 title = "Nami Kano: Mawsim"
 author = ["Brian McCrory"]
 publishDate = 2024-03-15
-keywords = ["jabuticaba-jabuticaba"]
 tags = ["Nami Kano", "加納奈実", "Tomokazu Sugimoto", "杉本智和", "Mamoru Ishida", "石田衛", "Sota Kira", "吉良創太", "maiko", "マイコ", "Orie Hirayama", "平山織絵", "Shoko Mochiyama", "持山翔子"]
 categories = ["albums"]
 draft = false
+slug = "nami-kano-mawsim"
+issue = 234
+related = ["jabuticaba-jabuticaba"]
 [cover]
   image = "nami-kano-mawsim-460.jpeg"
   alt = "Cover art of Mawsim by Nami Kano"

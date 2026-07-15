@@ -7,6 +7,7 @@ keywords = ["paco"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 159
 [cover]
   image = "IMG_20181110_190247665-1024.jpeg"
   caption = "LiLi Vocal, pianist Takuya Ozaki, and guitarist Hiroyoshi Horie sharing a laugh during their jazz set."

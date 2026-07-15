@@ -2,10 +2,12 @@
 title = "Otohito Fuse Trio: Thus Have I Heard"
 author = ["Brian McCrory"]
 publishDate = 2026-06-28
-keywords = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
 tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
+slug = "otohito-fuse-trio-thus-have-i-heard"
+issue = 371
+related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
 [cover]
   image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
   alt = "Cover art of Thus Have I Heard by Otohito Fuse Trio"

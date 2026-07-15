@@ -2,10 +2,12 @@
 title = "Clepsydra: Un Jour"
 author = ["Brian McCrory"]
 publishDate = 2024-09-20
-keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Yoshiaki Sato", "佐藤芳明", "Masaki Hayashi", "林正樹", "Saori Sendo", "仙道さおり"]
 categories = ["albums"]
 draft = false
+slug = "clepsydra-un-jour"
+issue = 265
+related = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
 [cover]
   image = "clepsydra-un-jour-460.jpeg"
   alt = "Cover art of Un Jour by Clepsydra"

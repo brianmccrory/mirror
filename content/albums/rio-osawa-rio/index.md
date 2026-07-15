@@ -2,10 +2,12 @@
 title = "Rio Osawa: Rio"
 author = ["Brian McCrory"]
 publishDate = 2026-05-03
-keywords = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 tags = ["Rio Osawa", "大澤理央", "Yuichiro Hiraoka", "平岡遊一郎", "Gustavo Anacleto", "Francis Silva", "Norihito Nagasawa", "長澤紀仁", "Matsumonica", "マツモニカ"]
 categories = ["albums"]
 draft = false
+slug = "rio-osawa-rio"
+issue = 363
+related = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 [cover]
   image = "rio-osawa-rio-460.jpeg"
   alt = " Cover art of"

@@ -2,10 +2,11 @@
 title = "Taihei Asakawa Trio: Touch of Winter"
 author = ["Brian McCrory"]
 publishDate = 2018-10-01
-keywords = ["taihei-asakawa-trio-touch-of-winter"]
 tags = ["Taihei Asakawa", "浅川太平", "Daiki Yasukagawa", "安ヵ川大樹", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
+slug = "taihei-asakawa-trio-touch-of-winter"
+issue = 57
 [cover]
   image = "taiheiasakawa-touch-460.jpeg"
   alt = "Cover art of Touch of Winter by Taihei Asakawa Trio"

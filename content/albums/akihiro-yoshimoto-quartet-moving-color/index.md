@@ -2,11 +2,13 @@
 title = "Akihiro Yoshimoto Quartet: Moving Color"
 author = ["Brian McCrory"]
 publishDate = 2018-08-18
-keywords = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
 lastmod = 2024-04-06
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・チューライ", "Takashi Sugawa", "須川崇志", "Shun Ishiwaka", "石若駿"]
 categories = ["albums"]
 draft = false
+slug = "akihiro-yoshimoto-quartet-moving-color"
+issue = 51
+related = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
   alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"

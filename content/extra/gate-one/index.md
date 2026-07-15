@@ -7,6 +7,7 @@ keywords = ["gate-one"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 259
 [cover]
   image = "P1050151x-1200.jpeg"
   caption = "Mariko Kajiwara and Shinji Hashimoto at Gate One in 2010"

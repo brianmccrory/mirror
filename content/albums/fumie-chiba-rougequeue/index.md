@@ -2,10 +2,12 @@
 title = "Fumie Chiba: Rougequeue"
 author = ["Brian McCrory"]
 publishDate = 2024-11-15
-keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁", "Mitsuru Tanaka", "田中充", "Shunosuke Ishikawa", "石川周之介", "Nao Teraya", "寺屋ナオ", "Hirokazu Ishida", "石田寛和"]
 categories = ["albums"]
 draft = false
+slug = "fumie-chiba-rougequeue"
+issue = 276
+related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-rougequeue-460.jpeg"
   alt = "Cover art of Rougequeue by Fumie Chiba"

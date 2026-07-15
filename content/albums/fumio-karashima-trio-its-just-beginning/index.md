@@ -2,10 +2,11 @@
 title = "Fumio Karashima Trio: It’s Just Beginning"
 author = ["Brian McCrory"]
 publishDate = 2020-02-12
-keywords = ["fumio-karashima-trio-its-just-beginning"]
 tags = ["Fumio Karashima", "辛島文雄", "Yosuke Inoue", "井上陽介", "Shingo Okudaira", "奥平慎吾"]
 categories = ["albums"]
 draft = false
+slug = "fumio-karashima-trio-its-just-beginning"
+issue = 100
 [cover]
   image = "fumiokarashima-beginning-460.jpeg"
   alt = "Cover art of It’s Just Beginning by Fumio Karashima Trio"

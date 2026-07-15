@@ -2,10 +2,12 @@
 title = "Kaoru Azuma: Footprints in New York"
 author = ["Brian McCrory"]
 publishDate = 2025-11-29
-keywords = ["emiko-voice-x-suga-dairo-phase-2", "hiromi-miura-we-dont-know-yet", "kaoru-azuma-hitomi-nishiyama-faces"]
 tags = ["Kaoru Azuma", "東かおる", "Scott Reeves", "Mike Holober", "Jesse Forest", "Robinson Morse", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
+slug = "kaoru-azuma-footprints-in-new-york"
+issue = 339
+related = ["emiko-voice-x-suga-dairo-phase-2", "hiromi-miura-we-dont-know-yet", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "kaoru-azuma-footprints-in-new-york-460.jpeg"
   alt = "Cover art of Footprints in New York by Kaoru Azuma"

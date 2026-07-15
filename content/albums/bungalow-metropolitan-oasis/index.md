@@ -2,10 +2,11 @@
 title = "Bungalow: Metropolitan Oasis"
 author = ["Brian McCrory"]
 publishDate = 2020-03-26
-keywords = ["bungalow-metropolitan-oasis"]
 tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+slug = "bungalow-metropolitan-oasis"
+issue = 114
 [cover]
   image = "bungalow-metropolitan-460.jpeg"
   alt = "Cover art of Metropolitan Oasis by Bungalow"

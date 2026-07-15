@@ -2,11 +2,13 @@
 title = "Ami Fukui: Amizm"
 author = ["Brian McCrory"]
 publishDate = 2018-09-07
-keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 lastmod = 2024-04-20
 tags = ["Ami Fukui", "福井亜実", "Yoshihito “P” Koizumi", "小泉P克人", "Yasushi Fukumori", "福森康"]
 categories = ["albums"]
 draft = false
+slug = "ami-fukui-amizm"
+issue = 55
+related = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "amifukui-amizm-460.jpeg"
   alt = "Cover art of Amizm by Ami Fukui"

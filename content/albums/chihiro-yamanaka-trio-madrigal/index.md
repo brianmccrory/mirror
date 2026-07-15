@@ -2,10 +2,11 @@
 title = "Chihiro Yamanaka Trio: Madrigal"
 author = ["Brian McCrory"]
 publishDate = 2021-03-14
-keywords = ["chihiro-yamanaka-trio-madrigal"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
+slug = "chihiro-yamanaka-trio-madrigal"
+issue = 133
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
   alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"

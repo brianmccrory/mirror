@@ -2,10 +2,12 @@
 title = "Sayaka Kishi Trio: Banquet"
 author = ["Brian McCrory"]
 publishDate = 2024-09-13
-keywords = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "arco-birth", "sayaka-kishi-trio-life-is-too-great", "sul-madrugada-luar"]
 tags = ["Sayaka Kishi", "岸淑香", "Akira Yamada", "山田玲", "Daiki Yasukagawa", "安ヵ川大樹", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
+slug = "sayaka-kishi-trio-banquet"
+issue = 263
+related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "arco-birth", "sayaka-kishi-trio-life-is-too-great", "sul-madrugada-luar"]
 [cover]
   image = "sayaka-kishi-trio-banquet-460.jpeg"
   alt = "Cover art of Banquet by Sayaka Kishi Trio"

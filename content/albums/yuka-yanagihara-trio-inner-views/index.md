@@ -2,10 +2,12 @@
 title = "Yuka Yanagihara Trio: Inner Views"
 author = ["Brian McCrory"]
 publishDate = 2024-01-12
-keywords = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
+slug = "yuka-yanagihara-trio-inner-views"
+issue = 223
+related = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
   alt = "Cover art of Inner Views by Yuka Yanagihara Trio"

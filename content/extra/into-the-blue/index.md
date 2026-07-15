@@ -7,6 +7,7 @@ keywords = ["into-the-blue"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 157
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"
   caption = "The cool interior at Into the Blue with instruments on high."

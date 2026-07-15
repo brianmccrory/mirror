@@ -2,10 +2,12 @@
 title = "Yukari Sekiya Trio with Yuko Tanaka: It’s Ordinary Love And…"
 author = ["Brian McCrory"]
 publishDate = 2026-03-01
-keywords = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
 tags = ["Yukari Sekiya", "関谷友加里", "Yuko Tanaka", "田中ゆうこ", "Michihiro Morisada", "森定道広", "Tatsuya Hashimoto", "橋本達哉"]
 categories = ["albums"]
 draft = false
+slug = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and"
+issue = 353
+related = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
 [cover]
   image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
   alt = "Cover art of It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka"

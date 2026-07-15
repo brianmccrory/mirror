@@ -7,6 +7,7 @@ keywords = ["koen-dori-classics"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 242
 [cover]
   image = "L1080597x-1200.jpeg"
   caption = "Ryoji Orihara (electric fretless bass) Group with Akemi Ohta (flute), Yuya Wakai (piano), and Manabu Hashimoto (drums) at Koen Dori Classics in 2014"

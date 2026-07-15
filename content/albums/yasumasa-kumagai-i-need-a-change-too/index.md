@@ -2,11 +2,13 @@
 title = "Yasumasa Kumagai: I Need a Change, Too"
 author = ["Brian McCrory"]
 publishDate = 2018-08-31
-keywords = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 lastmod = 2024-03-23
 tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Koji Yasuda", "安田幸司", "Shunsuke Umino", "海野俊輔", "Afra", "あふら", "Shinobu Ishizaki", "石崎忍", "Tabu Zombie", "タブゾンビ"]
 categories = ["albums"]
 draft = false
+slug = "yasumasa-kumagai-i-need-a-change-too"
+issue = 53
+related = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
   alt = "Cover art of I Need a Change, Too by Yasumasa Kumagai"

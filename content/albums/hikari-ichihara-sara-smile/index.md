@@ -2,10 +2,12 @@
 title = "Hikari Ichihara: Sara Smile"
 author = ["Brian McCrory"]
 publishDate = 2024-07-15
-keywords = ["hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Adam Birnbaum", "Peter Washington", "Lewis Nash", "Dominick Farinacci", "Grant Stewart"]
 categories = ["albums"]
 draft = false
+slug = "hikari-ichihara-sara-smile"
+issue = 251
+related = ["hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-sara-smile-460.jpeg"
   alt = "Cover art of Sara Smile by Hikari Ichihara"

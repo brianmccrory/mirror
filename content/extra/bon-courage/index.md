@@ -7,6 +7,7 @@ keywords = ["bon-courage"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 237
 [cover]
   image = "L1230211-1024.jpeg"
   caption = "Ami Fukui on piano and Fumika Asari on guitar at Bon Courage in 2023"

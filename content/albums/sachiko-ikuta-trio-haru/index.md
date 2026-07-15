@@ -2,10 +2,11 @@
 title = "Sachiko Ikuta Trio: Haru No Kaze"
 author = ["Brian McCrory"]
 publishDate = 2018-03-04
-keywords = ["sachiko-ikuta-trio-haru"]
 tags = ["Sachiko Ikuta", "生田さち子", "Hideaki Kanazawa", "金澤英明", "Shun Ishiwaka", "石若駿", "Terumasa Hino", "日野皓正"]
 categories = ["albums"]
 draft = false
+slug = "sachiko-ikuta-trio-haru"
+issue = 26
 [cover]
   image = "sachikoikuta-haru-460.jpeg"
   alt = "Cover art of Haru No Kaze by Sachiko Ikuta Trio"

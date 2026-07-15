@@ -2,10 +2,11 @@
 title = "Hideaki Kanazawa & Sumire Kuribayashi: Nijuso"
 author = ["Brian McCrory"]
 publishDate = 2020-01-28
-keywords = ["hideaki-kanazawa-sumire-kuribayashi-nijuso"]
 tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
+slug = "hideaki-kanazawa-sumire-kuribayashi-nijuso"
+issue = 94
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
   alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"

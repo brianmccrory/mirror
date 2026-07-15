@@ -2,10 +2,12 @@
 title = "Sumire Kuribayashi Trio: Toys"
 author = ["Brian McCrory"]
 publishDate = 2024-09-27
-keywords = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Shinichi Kato", "加藤真一", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
+slug = "sumire-kuribayashi-trio-toys"
+issue = 266
+related = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
   alt = "Cover art of Toys by Sumire Kuribayashi Trio"

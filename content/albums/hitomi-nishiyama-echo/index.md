@@ -2,10 +2,12 @@
 title = "Hitomi Nishiyama: Echo"
 author = ["Brian McCrory"]
 publishDate = 2025-03-23
-keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Noritake", "則武諒", "Takanori Suzuki", "鈴木孝紀", "Ryosuke Hashizume", "橋爪亮督", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-echo"
+issue = 299
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 [cover]
   image = "hitomi-nishiyama-echo-460.jpeg"
   alt = "Cover art of Echo by Hitomi Nishiyama"

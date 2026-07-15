@@ -2,10 +2,12 @@
 title = "Yuichi Narita: Urban Nocturne"
 author = ["Brian McCrory"]
 publishDate = 2023-08-18
-keywords = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
+slug = "yuichi-narita-urban-nocturne"
+issue = 197
+related = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
   alt = "Cover art of Urban Nocturne by Yuichi Narita"

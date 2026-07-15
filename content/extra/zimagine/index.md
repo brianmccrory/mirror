@@ -7,6 +7,7 @@ keywords = ["zimagine"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 194
 [cover]
   image = "IMG_20230410_205202040-1024.jpeg"
   caption = "Throated Sloth performs at Zimagine in April 2023 with pianist Fumie Chiba, vocalist Aya Kurosawa, Akihiro Yoshimoto on sax, and Kaoru Suzuki on drums."

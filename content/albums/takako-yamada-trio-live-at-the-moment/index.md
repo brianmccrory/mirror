@@ -2,10 +2,12 @@
 title = "Takako Yamada Trio: Live at The Moment"
 author = ["Brian McCrory"]
 publishDate = 2025-09-13
-keywords = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
 tags = ["Takako Yamada", "山田貴子", "Akiyoshi Shimizu", "清水昭好", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+slug = "takako-yamada-trio-live-at-the-moment"
+issue = 327
+related = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
 [cover]
   image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
   alt = "Cover art of Live at The Moment by Takako Yamada Trio"

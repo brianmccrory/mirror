@@ -2,10 +2,12 @@
 title = "Noriko Satomi: Project-N"
 author = ["Brian McCrory"]
 publishDate = 2024-05-24
-keywords = ["noriko-satomi-a-love-supreme"]
 tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Kunio Oinuma", "生沼邦夫", "Masahiko Osaka", "大坂昌彦"]
 categories = ["albums"]
 draft = false
+slug = "noriko-satomi-project-n"
+issue = 241
+related = ["noriko-satomi-a-love-supreme"]
 [cover]
   image = "noriko-satomi-project-n-460.jpg"
   alt = "Cover art of Project-N by Noriko Satomi"

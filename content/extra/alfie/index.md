@@ -7,6 +7,7 @@ keywords = ["alfie"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 155
 [cover]
   image = "P1060603-1024.jpeg"
   caption = "The Harumi Nomoto trio playing at Alfie in 2011."

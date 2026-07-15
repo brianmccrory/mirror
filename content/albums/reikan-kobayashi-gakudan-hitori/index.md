@@ -2,10 +2,11 @@
 title = "Reikan Kobayashi: Gakudan Hitori"
 author = ["Brian McCrory"]
 publishDate = 2020-02-13
-keywords = ["reikan-kobayashi-gakudan-hitori"]
 tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false
+slug = "reikan-kobayashi-gakudan-hitori"
+issue = 101
 [cover]
   image = "reikankobayashi-gakudan-460.jpeg"
   alt = "Cover art of Gakudan Hitori by Reikan Kobayashi"

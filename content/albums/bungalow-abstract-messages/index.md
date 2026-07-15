@@ -2,10 +2,12 @@
 title = "Bungalow: Abstract Messages"
 author = ["Brian McCrory"]
 publishDate = 2023-09-08
-keywords = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Ko Omura", "大村亘", "Isabeau Hansen", "Gordon Richter"]
 categories = ["albums"]
 draft = false
+slug = "bungalow-abstract-messages"
+issue = 200
+related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
   alt = "Cover art of Abstract Messages by Bungalow"

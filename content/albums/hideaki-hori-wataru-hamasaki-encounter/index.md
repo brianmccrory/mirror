@@ -2,10 +2,12 @@
 title = "Hideaki Hori & Wataru Hamasaki: Encounter"
 author = ["Brian McCrory"]
 publishDate = 2025-02-23
-keywords = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 tags = ["Hideaki Hori", "堀秀彰", "Wataru Hamasaki", "浜崎航", "Hiroshi Takase", "高瀬裕", "Junji Hirose", "広瀬潤次", "Satoshi Takino", "滝野聡"]
 categories = ["albums"]
 draft = false
+slug = "hideaki-hori-wataru-hamasaki-encounter"
+issue = 293
+related = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
   alt = "Cover art of Encounter by Hideaki Hori & Wataru Hamasaki"

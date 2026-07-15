@@ -2,10 +2,11 @@
 title = "Sohnosuke Imaizumi: Rin"
 author = ["Brian McCrory"]
 publishDate = 2018-02-27
-keywords = ["sohnosuke-imaizumi-rin"]
 tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和広", "Kazuhiro Tamura", "田村和大", "BLAHMUZIK", "ブラムジック"]
 categories = ["albums"]
 draft = false
+slug = "sohnosuke-imaizumi-rin"
+issue = 24
 [cover]
   image = "sohnosukeimaizumi-rin-460.jpeg"
   alt = "Cover art of Rin by Sohnosuke Imaizumi"

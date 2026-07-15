@@ -2,10 +2,12 @@
 title = "Ghost Peak: The Goat on a Peak"
 author = ["Brian McCrory"]
 publishDate = 2025-03-09
-keywords = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 tags = ["Shinji Miyazaki", "宮崎真司", "Natsuki Tamura", "田村夏樹", "Taeko Kurita", "栗田妙子", "Hiroaki Mizutani", "水谷浩章"]
 categories = ["albums"]
 draft = false
+slug = "ghost-peak-goat-on-a-peak"
+issue = 296
+related = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
   alt = "Cover art of The Goat on a Peak by Ghost Peak"

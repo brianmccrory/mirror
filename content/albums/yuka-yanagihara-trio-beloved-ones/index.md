@@ -2,10 +2,12 @@
 title = "Yuka Yanagihara Trio: Beloved Ones"
 author = ["Brian McCrory"]
 publishDate = 2024-11-23
-keywords = ["yuka-yanagihara-trio-inner-views"]
 tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ryo Noritake", "則武諒"]
 categories = ["albums"]
 draft = false
+slug = "yuka-yanagihara-trio-beloved-ones"
+issue = 278
+related = ["yuka-yanagihara-trio-inner-views"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
   alt = "Cover art of Beloved Ones by Yuka Yanagihara Trio"

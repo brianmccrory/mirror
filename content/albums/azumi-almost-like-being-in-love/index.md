@@ -2,10 +2,11 @@
 title = "Azumi: Almost Like Being in Love"
 author = ["Brian McCrory"]
 publishDate = 2020-02-03
-keywords = ["azumi-almost-like-being-in-love"]
 tags = ["Azumi", "あづみ", "Sachiko Ikuta", "生田さち子", "Tetsuro Aratama", "荒玉哲郎", "Kengo Komae", "小前賢吾"]
 categories = ["albums"]
 draft = false
+slug = "azumi-almost-like-being-in-love"
+issue = 96
 [cover]
   image = "azumi-almostlike-460.jpeg"
   alt = "Cover art of Almost Like Being in Love by Azumi"

@@ -2,10 +2,12 @@
 title = "Koto ha, To: Shiro o Matoeba"
 author = ["Brian McCrory"]
 publishDate = 2025-07-12
-keywords = ["yuki-ito-retattanni-no-mori"]
 tags = ["Ayako Tsuchiya", "土屋絢子", "Kozue Tsukayama", "津嘉山梢", "Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
+slug = "koto-ha-to-shiro-o-matoeba"
+issue = 318
+related = ["yuki-ito-retattanni-no-mori"]
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
   alt = "Cover art of Shiro o Matoeba by Koto ha, To"

@@ -2,10 +2,11 @@
 title = "Miki Hayama: Prelude to a Kiss"
 author = ["Brian McCrory"]
 publishDate = 2020-01-09
-keywords = ["miki-hayama-prelude-to-a-kiss"]
 tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Eric McPherson"]
 categories = ["albums"]
 draft = false
+slug = "miki-hayama-prelude-to-a-kiss"
+issue = 88
 [cover]
   image = "mikihayama-prelude-460.jpeg"
   alt = "Cover art of Prelude to a Kiss by Miki Hayama"

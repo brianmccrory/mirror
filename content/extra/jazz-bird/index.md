@@ -7,6 +7,7 @@ keywords = ["jazz-bird"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 188
 [cover]
   image = "P1060849-1024.jpeg"
   caption = "Vocalist Mie Joké singing at Jazz Bird in 2011"

@@ -2,10 +2,12 @@
 title = "Ayumi Koketsu: Rainbow Tales"
 author = ["Brian McCrory"]
 publishDate = 2018-05-04
-keywords = ["ayumi-koketsu-art"]
 tags = ["Ayumi Koketsu", "纐纈歩美", "Svein Olav Herstad", "Magne Thormodsæter", "Per Oddvar Johansen"]
 categories = ["albums"]
 draft = false
+slug = "ayumi-koketsu-rainbow-tales"
+issue = 43
+related = ["ayumi-koketsu-art"]
 [cover]
   image = "ayumikoketsu-rainbowtales-460.jpeg"
   alt = "Cover art of Rainbow Tales by Ayumi Koketsu"

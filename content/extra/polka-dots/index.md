@@ -7,6 +7,7 @@ keywords = ["polka-dots"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 165
 [cover]
   image = "IMG_20190521_210948036-1024.jpeg"
   caption = "Saxophonist Kunikazu Tanaka and pianist Sayaka Kishi performing at Polka Dots in 2019."

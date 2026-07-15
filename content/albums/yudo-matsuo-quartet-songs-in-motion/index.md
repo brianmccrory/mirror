@@ -2,10 +2,12 @@
 title = "Yudo Matsuo Quartet: Songs in Motion"
 author = ["Brian McCrory"]
 publishDate = 2026-07-05
-keywords = ["yudo-matsuo-bonanza"]
 tags = ["Yudo Matsuo", "松尾由堂", "Junichiro Ohkuchi", "大口純一郎", "Yoshimasa Otsuka", "大塚義将", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
+slug = "yudo-matsuo-quartet-songs-in-motion"
+issue = 373
+related = ["yudo-matsuo-bonanza"]
 [cover]
   image = "yudo-matsuo-quartet-songs-in-motion-460.jpeg"
   alt = "Cover art of Songs in Motion by Yudo Matsuo Quartet"

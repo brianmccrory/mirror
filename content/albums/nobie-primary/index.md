@@ -2,10 +2,12 @@
 title = "Nobie: Primary"
 author = ["Brian McCrory"]
 publishDate = 2024-09-06
-keywords = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 tags = ["Nobie", "ノビー", "Toninho Horta", "Junichiro Ohkuchi", "大口純一郎", "Shikou Ito", "伊藤志宏", "Kohzo Komori", "小森耕造", "Satoshi Yoshida", "吉田サトシ", "Yoshihito “P” Koizumi", "小泉P克人", "Yuri Dazai", "太宰百合", "Satoshi Ishikawa", "石川智", "Satoshi Sano", "佐野聡"]
 categories = ["albums"]
 draft = false
+slug = "nobie-primary"
+issue = 262
+related = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 [cover]
   image = "nobie-primary-460.jpeg"
   alt = "Cover art of Primary by Nobie"

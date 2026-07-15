@@ -2,10 +2,12 @@
 title = "Magnolia: El viento y las flores"
 author = ["Brian McCrory"]
 publishDate = 2025-02-03
-keywords = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hitomi Aikawa", "相川瞳"]
 categories = ["albums"]
 draft = false
+slug = "magnolia-el-viento-y-las-flores"
+issue = 290
+related = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
   alt = "Cover art of El viento y las flores by Magnolia"

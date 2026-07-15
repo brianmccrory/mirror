@@ -2,10 +2,12 @@
 title = "Koichi Hirata: Introducing Koichi Hirata"
 author = ["Brian McCrory"]
 publishDate = 2026-06-07
-keywords = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
 tags = ["Koichi Hirata", "平田晃一", "Mamoru Ishida", "石田衛", "Yutaka Yoshida", "吉田豊", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
+slug = "koichi-hirata-introducing-koichi-hirata"
+issue = 369
+related = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
 [cover]
   image = "koichi-hirata-introducing-460.jpeg"
   alt = "Cover art of Introducing Koichi Hirata by Koichi Hirata"

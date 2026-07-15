@@ -2,10 +2,12 @@
 title = "Hitomi Aikawa: Sweet"
 author = ["Brian McCrory"]
 publishDate = 2025-10-11
-keywords = ["magnolia-el-viento-y-las-flores"]
 tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹", "Hiroshi Suzuki", "鈴木広志", "Megumi Hattori", "服部恵", "Eri Uenoyama", "上野山英里"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-aikawa-sweet"
+issue = 330
+related = ["magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
   alt = "Cover art of Sweet by Hitomi Aikawa"

@@ -2,10 +2,11 @@
 title = "Emiko Voice x Suga Dairo: Phase 2"
 author = ["Brian McCrory"]
 publishDate = 2020-02-26
-keywords = ["emiko-voice-x-suga-dairo-phase-2"]
 tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロー"]
 categories = ["albums"]
 draft = false
+slug = "emiko-voice-x-suga-dairo-phase-2"
+issue = 106
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
   alt = "Cover art of Phase 2 by Emiko Voice x Suga Dairo"

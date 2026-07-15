@@ -2,10 +2,11 @@
 title = "Arco: Birth"
 author = ["Brian McCrory"]
 publishDate = 2020-05-03
-keywords = ["arco-birth"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
+slug = "arco-birth"
+issue = 118
 [cover]
   image = "arco-birth-460.jpeg"
   alt = "Cover art of Birth by Arco"

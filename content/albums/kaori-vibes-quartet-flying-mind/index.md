@@ -2,10 +2,11 @@
 title = "Kaori Vibes Quartet: Flying Mind"
 author = ["Brian McCrory"]
 publishDate = 2018-02-03
-keywords = ["kaori-vibes-quartet-flying-mind"]
 tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+slug = "kaori-vibes-quartet-flying-mind"
+issue = 12
 [cover]
   image = "kaorinakajima-flyingmind-460.jpeg"
   alt = "Cover art of Flying Mind by Kaori Vibes Quartet"

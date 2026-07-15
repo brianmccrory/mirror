@@ -2,10 +2,11 @@
 title = "Akane Matsumoto: Night & Day"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
-keywords = ["akane-matsumoto-night-and-day"]
 tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-night-and-day"
+issue = 2
 [cover]
   image = "akanematsumoto-night-460.jpeg"
   alt = "Cover art of Night & Day by Akane Matsumoto"

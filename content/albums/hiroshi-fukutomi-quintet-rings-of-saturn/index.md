@@ -2,10 +2,12 @@
 title = "Hiroshi Fukutomi Quintet: Rings of Saturn"
 author = ["Brian McCrory"]
 publishDate = 2026-01-10
-keywords = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 tags = ["Hiroshi Fukutomi", "福冨博", "Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ryo Shibata", "柴田亮"]
 categories = ["albums"]
 draft = false
+slug = "hiroshi-fukutomi-quintet-rings-of-saturn"
+issue = 346
+related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
   alt = "Cover art of Rings of Saturn by Hiroshi Fukutomi Quintet"

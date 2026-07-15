@@ -2,10 +2,11 @@
 title = "Yako Horikita: Shining Hour"
 author = ["Brian McCrory"]
 publishDate = 2019-12-06
-keywords = ["yako-horikita-shining-hour"]
 tags = ["Yako Horikita", "堀北やこ", "Takenori Sawaki", "佐脇武則", "Makoto Deguchi", "出口誠", "Ken Kaneko", "金子健", "Nobuhiko Yamashita", "山下暢彦"]
 categories = ["albums"]
 draft = false
+slug = "yako-horikita-shining-hour"
+issue = 86
 [cover]
   image = "yakohorikita-shininghour-460.jpeg"
   alt = "Cover art of Shining Hour by Yako Horikita"

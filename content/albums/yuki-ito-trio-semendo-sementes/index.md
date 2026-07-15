@@ -2,10 +2,12 @@
 title = "Yuki Ito Trio: Semendo Sementes"
 author = ["Brian McCrory"]
 publishDate = 2026-06-14
-keywords = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
 tags = ["Yuki Ito", "伊東佑季", "Yuka Yanagihara", "柳原由佳", "Hiro Kimura", "木村紘"]
 categories = ["albums"]
 draft = false
+slug = "yuki-ito-trio-semendo-sementes"
+issue = 370
+related = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
 [cover]
   image = "yuki-ito-trio-semendo-sementes-460.jpeg"
   alt = "Cover art of Semendo Sementes by Yuki Ito Trio"

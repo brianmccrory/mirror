@@ -2,10 +2,12 @@
 title = "Chihiro Yamanaka: Abyss"
 author = ["Brian McCrory"]
 publishDate = 2025-08-24
-keywords = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Vicente Archer", "Kendrick Scott"]
 categories = ["albums"]
 draft = false
+slug = "chihiro-yamanaka-abyss"
+issue = 324
+related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
 [cover]
   image = "chihiro-yamanaka-abyss-460.jpeg"
   alt = "Cover art of Abyss by Chihiro Yamanaka"

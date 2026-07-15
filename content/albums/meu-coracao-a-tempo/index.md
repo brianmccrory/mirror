@@ -2,10 +2,11 @@
 title = "Meu Coracao: A Tempo"
 author = ["Brian McCrory"]
 publishDate = 2018-03-14
-keywords = ["meu-coracao-a-tempo"]
 tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎", "Ken'ichiro Shinzawa", "新澤健一郎", "Cokky", "コッキー", "Kiyotaka Kuroda", "黒田清高", "Yasuhiro Yoshigaki", "芳垣安洋"]
 categories = ["albums"]
 draft = false
+slug = "meu-coracao-a-tempo"
+issue = 31
 [cover]
   image = "meucoracao-atempo-460.jpeg"
   alt = "Cover art of A Tempo by Meu Coracao"

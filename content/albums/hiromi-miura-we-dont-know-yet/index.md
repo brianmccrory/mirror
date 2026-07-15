@@ -2,10 +2,11 @@
 title = "Hiromi Miura: We Don’t Know Yet"
 author = ["Brian McCrory"]
 publishDate = 2020-02-05
-keywords = ["hiromi-miura-we-dont-know-yet"]
 tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoichi Zakota", "座小田諒一", "Paolo Orlandi"]
 categories = ["albums"]
 draft = false
+slug = "hiromi-miura-we-dont-know-yet"
+issue = 97
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
   alt = "Cover art of We Don’t Know Yet by Hiromi Miura"

@@ -2,10 +2,11 @@
 title = "Nobie: Bénin Rio Tokyo"
 author = ["Brian McCrory"]
 publishDate = 2019-08-15
-keywords = ["nobie-benin-rio-tokyo"]
 tags = ["Nobie", "ノビー", "Lionel Loueke", "Toninho Horta", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
+slug = "nobie-benin-rio-tokyo"
+issue = 79
 [cover]
   image = "nobie-benin-460.jpeg"
   alt = "Cover art of Bénin Rio Tokyo by Nobie"

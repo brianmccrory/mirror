@@ -2,10 +2,12 @@
 title = "Nobie & Takayoshi Baba: Owari to Hajimari"
 author = ["Brian McCrory"]
 publishDate = 2025-01-11
-keywords = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka", "田中信正", "Mayuko Katakura", "片倉真由子", "Kiichiro Komobuchi", "コモブチキイチロウ", "Yoichi Okabe", "岡部洋一"]
 categories = ["albums"]
 draft = false
+slug = "nobie-takayoshi-baba-owari-to-hajimari"
+issue = 286
+related = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
   alt = "Cover art of Owari to Hajimari by Nobie & Takayoshi Baba"

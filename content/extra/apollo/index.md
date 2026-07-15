@@ -7,6 +7,7 @@ keywords = ["apollo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 170
 [cover]
   image = "IMG_20181020_203433884-1024.jpeg"
   caption = "The Danish neo-cello duo Soma & Lil (Soma Allpass and Lil Lacy) with steelpanist Yoshio Machida at Apollo in 2018"

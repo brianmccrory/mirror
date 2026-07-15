@@ -2,10 +2,11 @@
 title = "Maiko Trio: Live! Three"
 author = ["Brian McCrory"]
 publishDate = 2020-01-23
-keywords = ["maiko-trio-live-three"]
 tags = ["maiko", "マイコ", "Hiroki Miyano", "宮野弘紀", "Shikou Ito", "伊藤志宏"]
 categories = ["albums"]
 draft = false
+slug = "maiko-trio-live-three"
+issue = 92
 [cover]
   image = "maikotrio-three-460.jpeg"
   alt = "Cover art of Live! Three by Maiko Trio"
@@ -22,7 +23,7 @@ With a masterful controlled touch, the music is at times played with wild, skill
 
 With eight tracks, the songs range from colorful uptempo drama to sentimental waltzes and impressionistic ballads. Aside from six originals, two covers are included, the jazz standard “You and the Night and the Music”, and Bill Evans’s poignant “We Will Meet Again”.
 
-{{< figure src="../images/maiko-trio-live-three/L1220317-1024.JPG" link="../images/maiko-trio-live-three/L1220317-1024.JPG" >}}
+{{< figure src="L1220317-1024.jpg" link="L1220317-1024.jpg" >}}
 
 
 ## Live! Three by Maiko Trio

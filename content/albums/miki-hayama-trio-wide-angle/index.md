@@ -2,10 +2,11 @@
 title = "Miki Hayama Trio: Wide Angle"
 author = ["Brian McCrory"]
 publishDate = 2018-04-19
-keywords = ["miki-hayama-trio-wide-angle"]
 tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor Lewis"]
 categories = ["albums"]
 draft = false
+slug = "miki-hayama-trio-wide-angle"
+issue = 41
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
   alt = "Cover art of Wide Angle by Miki Hayama Trio"

@@ -2,10 +2,12 @@
 title = "Mamoru Ishida: Afterglow"
 author = ["Brian McCrory"]
 publishDate = 2024-10-11
-keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-ishida-mamoru-4-feat", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin", "miwo-tranquillo", "nami-kano-mawsim"]
 tags = ["Mamoru Ishida", "石田衛", "Ryohei Komaki", "小牧良平", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
+slug = "mamoru-ishida-afterglow"
+issue = 269
+related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-ishida-mamoru-4-feat", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin", "miwo-tranquillo", "nami-kano-mawsim"]
 [cover]
   image = "mamoru-ishida-afterglow-460.jpeg"
   alt = "Cover art of Afterglow by Mamoru Ishida"

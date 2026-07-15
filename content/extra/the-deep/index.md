@@ -7,6 +7,7 @@ keywords = ["the-deep"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 167
 [cover]
   image = "L1140712-1024.jpeg"
   caption = "Vocalist Akiko Suda and pianist Yuichi Narita playing at The Deep in 2016."

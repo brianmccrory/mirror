@@ -2,10 +2,12 @@
 title = "Hitomi Nishiyama: Dot"
 author = ["Brian McCrory"]
 publishDate = 2024-10-04
-keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Noritake", "則武諒", "Takanori Suzuki", "鈴木孝紀", "Ryosuke Hashizume", "橋爪亮督", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-dot"
+issue = 267
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "hitomi-nishiyama-dot-460.jpeg"
   alt = "Cover art of Dot by Hitomi Nishiyama"

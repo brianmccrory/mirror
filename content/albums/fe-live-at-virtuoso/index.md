@@ -2,10 +2,12 @@
 title = "Fe: Live at Virtuoso"
 author = ["Brian McCrory"]
 publishDate = 2025-04-05
-keywords = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 tags = ["Yuta Ikedo", "池戸祐太", "Ko Omura", "大村亘", "Keisuke Furuki", "古木佳祐", "Shinobu Ishizaki", "石崎忍"]
 categories = ["albums"]
 draft = false
+slug = "fe-live-at-virtuoso"
+issue = 301
+related = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 [cover]
   image = "fe-live-at-virtuoso-460.jpeg"
   alt = "Cover art of Live at Virtuoso by Fe"

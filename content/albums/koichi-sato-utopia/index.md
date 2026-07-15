@@ -2,10 +2,11 @@
 title = "Koichi Sato: Utopia"
 author = ["Brian McCrory"]
 publishDate = 2018-09-26
-keywords = ["koichi-sato-utopia"]
 tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+slug = "koichi-sato-utopia"
+issue = 56
 [cover]
   image = "koichisato-utopia-460.jpeg"
   alt = "Cover art of Utopia by Koichi Sato"

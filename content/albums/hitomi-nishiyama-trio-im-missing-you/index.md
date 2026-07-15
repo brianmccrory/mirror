@@ -2,10 +2,12 @@
 title = "Hitomi Nishiyama Trio: I’m Missing You"
 author = ["Brian McCrory"]
 publishDate = 2025-03-30
-keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Mitsuaki Hara", "原満章", "Tsutomu Kawauchi", "川内努", "Satoshi Otani", "大谷訓史", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-trio-im-missing-you"
+issue = 300
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
   alt = "Cover art of I’m Missing You by Hitomi Nishiyama Trio"

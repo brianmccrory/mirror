@@ -2,10 +2,12 @@
 title = "Ryosuke Hashizume Group: Acoustic Fluid"
 author = ["Brian McCrory"]
 publishDate = 2023-07-28
-keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Koichi Sato", "佐藤浩一"]
 categories = ["albums"]
 draft = false
+slug = "ryosuke-hashizume-group-acoustic"
+issue = 191
+related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryosukehashizume-acoustic-460.jpeg"
   alt = "Cover art of Acoustic Fluid by Ryosuke Hashizume Group"

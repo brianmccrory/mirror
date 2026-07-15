@@ -7,6 +7,7 @@ keywords = ["bullys"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 173
 [cover]
   image = "IMG_20181116_230632667x-1024.jpeg"
   caption = "Vocalist Akiko Suda performs at Bully's in 2018"

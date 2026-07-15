@@ -2,10 +2,11 @@
 title = "Ken’ichiro Shinzawa: Piano Works"
 author = ["Brian McCrory"]
 publishDate = 2018-04-16
-keywords = ["kenichiro-shinzawa-piano-works"]
 tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false
+slug = "kenichiro-shinzawa-piano-works"
+issue = 40
 [cover]
   image = "kenichiroshinzawa-pianoworks-460.jpeg"
   alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"

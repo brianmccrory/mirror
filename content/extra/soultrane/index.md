@@ -7,6 +7,7 @@ keywords = ["soultrane"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 180
 [cover]
   image = "L1170949x-1024.jpeg"
   caption = "A friendly jazz jam at Soultrane in 2017"

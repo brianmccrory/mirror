@@ -2,10 +2,11 @@
 title = "Wataru Hamasaki Meets Akane Matsumoto Trio: Big Catch"
 author = ["Brian McCrory"]
 publishDate = 2018-08-13
-keywords = ["hamasaki-matsumoto-bigcatch"]
 tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜", "Yasushi Gonjyo", "権上康志", "Tatsuhiko Takeda", "竹田達彦", "Osamu Hikage", "日景修", "Kazuyoshi Kuroda", "黒田和良", "Ryosuke Asai", "浅井良将"]
 categories = ["albums"]
 draft = false
+slug = "hamasaki-matsumoto-bigcatch"
+issue = 50
 [cover]
   image = "hamasaki-matsumoto-bigcatch-460.jpeg"
   alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"

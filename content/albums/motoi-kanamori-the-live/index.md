@@ -2,10 +2,12 @@
 title = "Motoi Kanamori: The Live"
 author = ["Brian McCrory"]
 publishDate = 2025-01-25
-keywords = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
 tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", "Akira Yamada", "山田玲", "Taishi Sakurai", "桜井大士", "Chie Hasegawa", "長谷川智恵", "Megumi Ozawa", "小澤恵", "Atsushi Hashimoto", "橋本專史"]
 categories = ["albums"]
 draft = false
+slug = "motoi-kanamori-the-live"
+issue = 288
+related = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
 [cover]
   image = "motoi-kanamori-the-live-460.jpeg"
   alt = "Cover art of The Live by Motoi Kanamori"

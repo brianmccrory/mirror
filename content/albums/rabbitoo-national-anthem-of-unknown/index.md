@@ -2,10 +2,11 @@
 title = "Rabbitoo: National Anthem of Unknown Country"
 author = ["Brian McCrory"]
 publishDate = 2020-01-26
-keywords = ["rabbitoo-national-anthem-of-unknown"]
 tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "Koichi Sato", "佐藤浩一", "Hiroki Chiba", "千葉広樹", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
+slug = "rabbitoo-national-anthem-of-unknown"
+issue = 93
 [cover]
   image = "rabbitoo-national-460.jpeg"
   alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"

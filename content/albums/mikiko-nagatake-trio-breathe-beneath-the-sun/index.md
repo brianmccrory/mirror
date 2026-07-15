@@ -2,10 +2,12 @@
 title = "Mikiko Nagatake Trio: Breathe Beneath the Sun"
 author = ["Brian McCrory"]
 publishDate = 2026-01-03
-keywords = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
 tags = ["Mikiko Nagatake", "永武幹子", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太", "Kosuke Mine", "峰厚介", "Eiichi Hayashi", "林栄一"]
 categories = ["albums"]
 draft = false
+slug = "mikiko-nagatake-trio-breathe-beneath-the-sun"
+issue = 345
+related = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
   alt = "Cover art of Breathe Beneath the Sun by Mikiko Nagatake Trio"

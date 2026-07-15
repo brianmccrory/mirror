@@ -2,10 +2,12 @@
 title = "Ami Fukui Trio: Nova Manhã"
 author = ["Brian McCrory"]
 publishDate = 2024-01-26
-keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
+slug = "ami-fukui-trio-nova-manha"
+issue = 226
+related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
   alt = "Cover art of Nova Manhã by Ami Fukui Trio"

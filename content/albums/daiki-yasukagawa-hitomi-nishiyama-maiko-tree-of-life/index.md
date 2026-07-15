@@ -2,10 +2,12 @@
 title = "Daiki Yasukagawa / Hitomi Nishiyama / Maiko: The Tree of Life"
 author = ["Brian McCrory"]
 publishDate = 2025-12-13
-keywords = ["daiki-yasukagawa-trio-trios-ii", "maiko-trio-live-three", "maiko-solo", "hitomi-nishiyama-vibrant", "daiki-yasukagawa-new-trio-three-roses", "hitomi-nishiyama-echo"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Hitomi Nishiyama", "西山瞳", "maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+slug = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life"
+issue = 342
+related = ["daiki-yasukagawa-trio-trios-ii", "maiko-trio-live-three", "maiko-solo", "hitomi-nishiyama-vibrant", "daiki-yasukagawa-new-trio-three-roses", "hitomi-nishiyama-echo"]
 [cover]
   image = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life-460.jpeg"
   alt = "Cover art of The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko"

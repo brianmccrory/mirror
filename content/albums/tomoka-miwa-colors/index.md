@@ -2,10 +2,11 @@
 title = "Tomoka Miwa: Colors in Silence"
 author = ["Brian McCrory"]
 publishDate = 2018-03-07
-keywords = ["tomoka-miwa-colors"]
 tags = ["Tomoka Miwa", "三輪知可", "Yuichi Narita", "成田祐一", "Daisuke Toi", "トオイダイスケ", "Sebastiaan Kaptein"]
 categories = ["albums"]
 draft = false
+slug = "tomoka-miwa-colors"
+issue = 28
 [cover]
   image = "tomokamiwa-colors-460.jpeg"
   alt = "Cover art of Colors in Silence by Tomoka Miwa"

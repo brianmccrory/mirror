@@ -2,10 +2,11 @@
 title = "Yuichiro Aratake: Music Make Us One"
 author = ["Brian McCrory"]
 publishDate = 2023-06-30
-keywords = ["yuichiro-aratake-music-make-us-one"]
 tags = ["Yuichiro Aratake", "荒武裕一朗", "Kunio Oinuma", "生沼邦夫", "Koichi Inoue", "井上功一", "Koei Tanaka", "田中光栄", "Ryutaro Makino", "牧野竜太郎", "Naomi Urushibara", "漆原直美", "Leina Ushiyama", "牛山玲名", "Kanae Shima", "志摩かなえ", "Asami Matsuda", "松田麻美", "Daisuke Tomita", "富田大輔", "Ryosuke Sato", "佐藤良輔", "Takefumi Shirasa", "白佐武史", "Masato Kubo", "久保公人"]
 categories = ["albums"]
 draft = false
+slug = "yuichiro-aratake-music-make-us-one"
+issue = 183
 [cover]
   image = "yuichiro-aratake-music-make-460.jpeg"
   alt = "Cover art of Music Make Us One by Yuichiro Aratake"

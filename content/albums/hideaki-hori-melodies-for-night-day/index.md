@@ -2,10 +2,12 @@
 title = "Hideaki Hori: Melodies for Night & Day"
 author = ["Brian McCrory"]
 publishDate = 2023-12-15
-keywords = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hori-trio-unconditional-love"]
 tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
+slug = "hideaki-hori-melodies-for-night-day"
+issue = 216
+related = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
   alt = "Cover art of Melodies for Night & Day by Hideaki Hori"

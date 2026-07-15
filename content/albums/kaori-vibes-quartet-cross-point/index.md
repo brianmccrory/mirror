@@ -2,10 +2,11 @@
 title = "Kaori Vibes Quartet: Cross Point"
 author = ["Brian McCrory"]
 publishDate = 2018-03-23
-keywords = ["kaori-vibes-quartet-cross-point"]
 tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Yoshiki", "吉木稔", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+slug = "kaori-vibes-quartet-cross-point"
+issue = 34
 [cover]
   image = "kaorivibesquartet-crosspoint-460.jpeg"
   alt = "Cover art of Cross Point by Kaori Vibes Quartet"

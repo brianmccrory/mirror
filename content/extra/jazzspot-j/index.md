@@ -7,6 +7,7 @@ keywords = ["jazzspot-j"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 261
 [cover]
   image = "DSC_5408-1200.jpeg"
   caption = "Jazzspot J jazz live on New Year’s Eve 2006"

@@ -2,10 +2,12 @@
 title = "The Third Tribe: Nearly Dusk"
 author = ["Brian McCrory"]
 publishDate = 2025-11-15
-keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "kazumi-ikenaga-niwatazumi", "kazumi-ikenaga-taihei-asakawa-nordnote", "hitomi-nishiyama-trio-calling"]
 tags = ["Yoko Kobayashi", "小林洋子", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
+slug = "the-third-tribe-nearly-dusk"
+issue = 337
+related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "kazumi-ikenaga-niwatazumi", "kazumi-ikenaga-taihei-asakawa-nordnote", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "the-third-tribe-nearly-dusk-460.jpeg"
   alt = "Cover art of Nearly Dusk by The Third Tribe"

@@ -2,10 +2,11 @@
 title = "Chihiro Yamanaka Trio: When October Goes"
 author = ["Brian McCrory"]
 publishDate = 2020-08-13
-keywords = ["chihiro-yamanaka-trio-when-october"]
 tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard"]
 categories = ["albums"]
 draft = false
+slug = "chihiro-yamanaka-trio-when-october"
+issue = 120
 [cover]
   image = "chihiroyamanaka-october-460.jpeg"
   alt = "Cover art of When October Goes by Chihiro Yamanaka Trio"

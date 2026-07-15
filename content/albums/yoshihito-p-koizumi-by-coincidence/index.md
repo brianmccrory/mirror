@@ -2,10 +2,11 @@
 title = "Yoshihito “P” Koizumi P-Project: By Coincidence"
 author = ["Brian McCrory"]
 publishDate = 2021-05-05
-keywords = ["yoshihito-p-koizumi-by-coincidence"]
 tags = ["Yoshihito “P” Koizumi", "小泉P克人", "Jun Miyakawa", "宮川純", "Kohzo Komori", "小森耕造"]
 categories = ["albums"]
 draft = false
+slug = "yoshihito-p-koizumi-by-coincidence"
+issue = 136
 [cover]
   image = "yoshihitopkoizumi-bycoin-460.jpeg"
   alt = "Cover art of By Coincidence by Yoshihito “P” Koizumi P-Project"

@@ -2,10 +2,11 @@
 title = "Eriko Shimizu: Sora"
 author = ["Brian McCrory"]
 publishDate = 2020-03-05
-keywords = ["eriko-shimizu-sora"]
 tags = ["Eriko Shimizu", "清水絵理子", "Toshihiko Inoue", "井上淑彦", "Saori Sendo", "仙道さおり", "Kunpei Nakabayashi", "中林薫平", "Daisuke Yoshioka", "吉岡大輔"]
 categories = ["albums"]
 draft = false
+slug = "eriko-shimizu-sora"
+issue = 109
 [cover]
   image = "erikoshimizu-sora-460.jpeg"
   alt = "Cover art of Sora by Eriko Shimizu"

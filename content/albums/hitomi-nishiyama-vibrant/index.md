@@ -2,10 +2,11 @@
 title = "Hitomi Nishiyama: Vibrant"
 author = ["Brian McCrory"]
 publishDate = 2023-06-23
-keywords = ["hitomi-nishiyama-vibrant"]
 tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-vibrant"
+issue = 181
 [cover]
   image = "hitomi-nishiyama-vibrant-460.jpeg"
   alt = "Cover art of Vibrant by Hitomi Nishiyama"

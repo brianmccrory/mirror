@@ -2,10 +2,11 @@
 title = "Mayuko Katakura: Faith"
 author = ["Brian McCrory"]
 publishDate = 2018-02-16
-keywords = ["mayuko-katakura-faith"]
 tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false
+slug = "mayuko-katakura-faith"
+issue = 17
 [cover]
   image = "mayukokatakura-faith-460.jpeg"
   alt = "Cover art of Faith by Mayuko Katakura"
@@ -14,15 +15,15 @@ draft = false
 
 _Faith_ is the second album from Mayuko Katakura, an amazing jazz pianist with an impeccable touch that echoes jazz piano legends. Listening to Katakura, one can sense the fondness and appreciation for players like McCoy Tyner and Sonny Clark. In fact, the album’s wistful ballad “Blue Sonny” was written for Sonny Clark by Katakura.
 
-{{< figure src="../images/mayuko-katakura-faith/L1180720-1024.JPG" link="../images/mayuko-katakura-faith/L1180720-1024.JPG" >}}
+{{< figure src="L1180720-1024.jpg" link="L1180720-1024.jpg" >}}
 
 This straight-ahead jazz trio is marked by warmth between the musicians, who agreed to not over-arrange the recording session and have faith in the group and their love of jazz. Simple and irresistable, the group jumps in and swings hard together with skillful agility over five of the pianist’s originals and five jazz covers. The resulting sense of relaxation allows their individual mastery and group cohesiveness to produce exciting results, proving their faith to be well-rewarded.
 
-{{< figure src="../images/mayuko-katakura-faith/L1180721-1024.JPG" link="../images/mayuko-katakura-faith/L1180721-1024.JPG" >}}
+{{< figure src="L1180721-1024.jpg" link="L1180721-1024.jpg" >}}
 
-{{< figure src="../images/mayuko-katakura-faith/L1180722-1024.JPG" link="../images/mayuko-katakura-faith/L1180722-1024.JPG" >}}
+{{< figure src="L1180722-1024.jpg" link="L1180722-1024.jpg" >}}
 
-{{< figure src="../images/mayuko-katakura-faith/L1180723-1024.JPG" link="../images/mayuko-katakura-faith/L1180723-1024.JPG" >}}
+{{< figure src="L1180723-1024.jpg" link="L1180723-1024.jpg" >}}
 
 
 ## Faith by Mayuko Katakura

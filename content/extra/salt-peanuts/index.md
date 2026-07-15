@@ -7,6 +7,7 @@ keywords = ["salt-peanuts"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 246
 [cover]
   image = "IMG_20240416_191848986_HDR-1200.jpeg"
   caption = "Salt Peanuts"

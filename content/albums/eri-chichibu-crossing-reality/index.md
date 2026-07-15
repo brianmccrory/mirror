@@ -2,10 +2,12 @@
 title = "Eri Chichibu: Crossing Reality"
 author = ["Brian McCrory"]
 publishDate = 2024-08-09
-keywords = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
 tags = ["Eri Chichibu", "秩父英里", "Kunihiro Kikuta", "菊田邦裕", "David Negrete", "デイビッド・ネグレテ", "Akihiro Nishiguchi", "西口明宏", "Itsumi Komano", "駒野逸美", "Haruka Sasaki", "佐々木はるか", "Takahiro Nawashiro", "苗代尚寬", "Marty Holoubek", "マーティ・ホロベック", "Shun Ishiwaka", "石若駿", "Milena Casado", "ミレナ・カサード", "Madoka Koike", "小池まどか", "Tamako Yashima", "八島珠子", "Remy Le Boeuf", "レミー・ル・ブーフ", "Kan", "日高歓", "Hiroki Hayashi", "林宏樹", "Jiro Suzuki", "鈴木次郎", "Masaaki Saito", "齋藤大陽", "Yuta Fukuhara", "福原雄太"]
 categories = ["albums"]
 draft = false
+slug = "eri-chichibu-crossing-reality"
+issue = 256
+related = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
 [cover]
   image = "eri-chichibu-crossing-reality-460.jpeg"
   alt = "Cover art of Crossing Reality by Eri Chichibu"

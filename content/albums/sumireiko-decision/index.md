@@ -2,10 +2,12 @@
 title = "Sumireiko: Decision"
 author = ["Brian McCrory"]
 publishDate = 2025-11-22
-keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ"]
 categories = ["albums"]
 draft = false
+slug = "sumireiko-decision"
+issue = 338
+related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 [cover]
   image = "sumireiko-decision-460.jpeg"
   alt = "Cover art of Decision by Sumireiko"

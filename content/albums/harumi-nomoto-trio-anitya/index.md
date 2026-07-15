@@ -2,10 +2,12 @@
 title = "Harumi Nomoto Trio: Anitya"
 author = ["Brian McCrory"]
 publishDate = 2026-01-18
-keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
 tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
+slug = "harumi-nomoto-trio-anitya"
+issue = 347
+related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
 [cover]
   image = "harumi-nomoto-trio-anitya-460.jpeg"
   alt = "Cover art of Anitya by Harumi Nomoto Trio"

@@ -2,10 +2,12 @@
 title = "Saki Ozawa: Cheers!"
 author = ["Brian McCrory"]
 publishDate = 2026-05-31
-keywords = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 tags = ["Saki Ozawa", "小沢咲希", "Koji Yasuda", "安田幸司", "Takumi Awaya", "粟谷巧", "Yusuke Yaginuma", "柳沼佑育", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
+slug = "saki-ozawa-cheers"
+issue = 368
+related = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 [cover]
   image = "saki-ozawa-cheers-460.jpeg"
   alt = "Cover art of Cheers by Saki Ozawa"

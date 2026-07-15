@@ -2,10 +2,12 @@
 title = "Seiji Endo: Piano Pieces Collection"
 author = ["Brian McCrory"]
 publishDate = 2024-11-30
-keywords = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1"]
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
+slug = "seiji-endo-piano-pieces-collection"
+issue = 279
+related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-460.jpeg"
   alt = "Cover art of Piano Pieces Collection by Seiji Endo"

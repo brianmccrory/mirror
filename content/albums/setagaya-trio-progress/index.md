@@ -2,10 +2,12 @@
 title = "Setagaya Trio: Progress"
 author = ["Brian McCrory"]
 publishDate = 2025-05-16
-keywords = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-fukui-trio-nova-manha", "ami-fukui-trio-mcy", "nami-kano-mawsim"]
 tags = ["Yusei Takahashi", "高橋佑成", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
+slug = "setagaya-trio-progress"
+issue = 309
+related = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-fukui-trio-nova-manha", "ami-fukui-trio-mcy", "nami-kano-mawsim"]
 [cover]
   image = "setagaya-trio-progress-460.jpeg"
   alt = "Cover art of Progress by Setagaya Trio"

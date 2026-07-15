@@ -2,10 +2,12 @@
 title = "Mamoru Ishida: Ishida Mamoru 4 feat. Mike Rivett"
 author = ["Brian McCrory"]
 publishDate = 2023-09-22
-keywords = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 tags = ["Mamoru Ishida", "石田衛", "Mike Rivett", "Show Kudo", "工藤精", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+slug = "mamoru-ishida-ishida-mamoru-4-feat"
+issue = 203
+related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
   alt = "Cover art of Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida"

@@ -2,10 +2,11 @@
 title = "Takuji Yamada: Lite Blue"
 author = ["Brian McCrory"]
 publishDate = 2018-02-17
-keywords = ["takuji-yamada-lite-blue"]
 tags = ["Takuji Yamada", "山田拓児", "Danny Grissett", "Daisuke Abe", "阿部大輔", "Luques Curtis", "Quincy Davis"]
 categories = ["albums"]
 draft = false
+slug = "takuji-yamada-lite-blue"
+issue = 18
 [cover]
   image = "takujiyamada-liteblue-460.jpeg"
   alt = "Cover art of Lite Blue by Takuji Yamada"
@@ -14,15 +15,15 @@ draft = false
 
 Takuji Yamada is a professional jazz musician who takes care with his jazz. His first album _Lite Blue_ from 2012 reflects that care through his beautifully written compositions and nicely-arranged standards, not to mention his spot-on stimulating jazz sax playing.
 
-{{< figure src="../images/takuji-yamada-lite-blue/L1180749-1024.JPG" link="../images/takuji-yamada-lite-blue/L1180749-1024.JPG" >}}
+{{< figure src="L1180749-1024.jpg" link="L1180749-1024.jpg" >}}
 
 Accurate playing, adventurous phrasing, and emotional balance mark this modern jazz album with a distinctive New York flavor. The NY-based rhythm section players keep the soloist’s backdrop consistently interesting through the range of moods, from modern straight-ahead jazz to bluesy, groovy, and romantic.
 
 The track listing consists of 10 songs, mostly originals from Yamada with three standards (“Don’t Blame Me”, “When Lights Are Low”, and “Skylark”) included as a strong jazz frame. Yamada’s catchy originals on this album include the stimulating opener “In A Reverse Way”, the darkly swirling “Rain”, and the warm, modern “Kurikology”, a portmanteau of the Japanese name Kuriko and the suffix -ology, a nice tip of the hat to Charlie Parker bebop along the lines of “Ornithology” and “Anthropology”.
 
-{{< figure src="../images/takuji-yamada-lite-blue/L1180750-1024.JPG" link="../images/takuji-yamada-lite-blue/L1180750-1024.JPG" >}}
+{{< figure src="L1180750-1024.jpg" link="L1180750-1024.jpg" >}}
 
-{{< figure src="../images/takuji-yamada-lite-blue/L1180751-1024.JPG" link="../images/takuji-yamada-lite-blue/L1180751-1024.JPG" >}}
+{{< figure src="L1180751-1024.jpg" link="L1180751-1024.jpg" >}}
 
 
 ## Lite Blue by Takuji Yamada

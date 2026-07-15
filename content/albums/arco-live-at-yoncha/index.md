@@ -2,10 +2,11 @@
 title = "Arco: Live At Yoncha"
 author = ["Brian McCrory"]
 publishDate = 2021-03-22
-keywords = ["arco-live-at-yoncha"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
+slug = "arco-live-at-yoncha"
+issue = 134
 [cover]
   image = "arco-liveatyoncha-460.jpeg"
   alt = "Cover art of Live At Yoncha by Arco"

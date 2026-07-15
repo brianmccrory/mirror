@@ -2,10 +2,11 @@
 title = "Hideaki Hori Trio: Unconditional Love"
 author = ["Brian McCrory"]
 publishDate = 2018-08-30
-keywords = ["hideaki-hori-trio-unconditional-love"]
 tags = ["Hideaki Hori", "堀秀彰", "Yuhei Honkawa", "本川悠平", "Gaku Hasegawa", "長谷川ガク"]
 categories = ["albums"]
 draft = false
+slug = "hideaki-hori-trio-unconditional-love"
+issue = 52
 [cover]
   image = "hideakihori-unconditional-460.jpeg"
   alt = "Cover art of Unconditional Love by Hideaki Hori Trio"
@@ -14,7 +15,7 @@ draft = false
 
 _Unconditional Love_ is the 11th album from pianist Hideaki Hori and features his trio playing live at Nardis, a gem among Tokyo’s many respected and intimate jazz bars. Throughout this double album, the trio captures the relaxed and friendly atmosphere that this home-ground bar provides, all while creating top-notch jazz to delight the audience.
 
-{{< figure src="../images/hideaki-hori-trio-unconditional-love/L1200301-1024.JPG" link="../images/hideaki-hori-trio-unconditional-love/L1200301-1024.JPG" >}}
+{{< figure src="L1200301-1024.jpg" link="L1200301-1024.jpg" >}}
 
 _Unconditional Love_ features songs recorded live over three consecutive nights at Nardis. Presented on the two discs as “1st set” and “2nd set”, this arrangement gives the listener the feel of being a part of the in-house audience from the first song to the encore. The long-established trio’s playing is impeccable with high levels of musicianship and solidarity, eliciting joy and affinity from the audience.
 

@@ -2,10 +2,12 @@
 title = "eFreydut: Fairway"
 author = ["Brian McCrory"]
 publishDate = 2024-03-30
-keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 tags = ["Mikiko Nagatake", "永武幹子", "Ko Omura", "大村亘", "Kanoa Mendenhall"]
 categories = ["albums"]
 draft = false
+slug = "efreydut-fairway"
+issue = 236
+related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "efreydut-fairway-460.jpeg"
   alt = "Cover art of Fairway by eFreydut"

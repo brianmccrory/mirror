@@ -2,10 +2,11 @@
 title = "Yukari Inoue: Sakura"
 author = ["Brian McCrory"]
 publishDate = 2020-03-03
-keywords = ["yukari-inoue-sakura"]
 tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
+slug = "yukari-inoue-sakura"
+issue = 108
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
   alt = "Cover art of Sakura by Yukari Inoue"

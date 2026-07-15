@@ -2,10 +2,11 @@
 title = "Taihei Asakawa: Waltz for Debby"
 author = ["Brian McCrory"]
 publishDate = 2018-12-21
-keywords = ["taihei-asakawa-waltz-for-debby"]
 tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+slug = "taihei-asakawa-waltz-for-debby"
+issue = 63
 [cover]
   image = "taiheiasakawa-waltz-460.jpeg"
   alt = "Cover art of Waltz for Debby by Taihei Asakawa"

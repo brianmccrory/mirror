@@ -2,10 +2,11 @@
 title = "Blue Dot: Halo"
 author = ["Brian McCrory"]
 publishDate = 2019-03-06
-keywords = ["blue-dot-halo"]
 tags = ["Makoto Rikitake", "力武誠", "Tamashi Goto", "後藤魂", "Masanori Sugimoto", "杉本匡教", "Goro Katano", "片野吾朗", "Maki Fujimura", "藤村麻紀"]
 categories = ["albums"]
 draft = false
+slug = "blue-dot-halo"
+issue = 70
 [cover]
   image = "bluedot-halo-460.jpeg"
   alt = "Cover art of Halo by Blue Dot"

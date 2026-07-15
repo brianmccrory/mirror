@@ -7,6 +7,7 @@ keywords = ["natural"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 319
 [cover]
   image = "L1270458-1200.jpeg"
   caption = "Seiji Endo at Natural in January 2025"

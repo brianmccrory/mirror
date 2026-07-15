@@ -2,10 +2,12 @@
 title = "Mikiko Nagatake: Solo"
 author = ["Brian McCrory"]
 publishDate = 2023-09-29
-keywords = ["tetsuji-yoshida-and-mikiko-nagatake"]
 tags = ["Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
+slug = "mikiko-nagatake-solo"
+issue = 205
+related = ["tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "mikiko-nagatake-solo-460.jpeg"
   alt = "Cover art of Solo by Mikiko Nagatake"

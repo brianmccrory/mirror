@@ -2,10 +2,12 @@
 title = "Michiyo Matsushita Trio: Free"
 author = ["Brian McCrory"]
 publishDate = 2025-08-10
-keywords = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
 tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo Saito", "斉藤良"]
 categories = ["albums"]
 draft = false
+slug = "michiyo-matsushita-trio-free"
+issue = 322
+related = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
   alt = "Cover art of Free by Michiyo Matsushita Trio"

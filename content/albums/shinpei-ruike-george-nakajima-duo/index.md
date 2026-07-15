@@ -2,10 +2,12 @@
 title = "Shinpei Ruike & George Nakajima: Duo"
 author = ["Brian McCrory"]
 publishDate = 2023-11-10
-keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
 tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
+slug = "shinpei-ruike-george-nakajima-duo"
+issue = 211
+related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
 [cover]
   image = "shinpeiruike-georgenakajima-duo-460.jpeg"
   alt = "Cover art of Duo by Shinpei Ruike & George Nakajima"

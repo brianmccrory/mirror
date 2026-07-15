@@ -2,10 +2,12 @@
 title = "Kazumi Ikenaga & Taihei Asakawa: NordNote"
 author = ["Brian McCrory"]
 publishDate = 2024-07-08
-keywords = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-winter", "kazumi-ikenaga-niwatazumi", "taihei-asakawa-waltz-for-debby"]
 tags = ["Kazumi Ikenaga", "池長和美", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+slug = "kazumi-ikenaga-taihei-asakawa-nordnote"
+issue = 250
+related = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-winter", "kazumi-ikenaga-niwatazumi", "taihei-asakawa-waltz-for-debby"]
 [cover]
   image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
   alt = "Cover art of NordNote by Kazumi Ikenaga & Taihei Asakawa"

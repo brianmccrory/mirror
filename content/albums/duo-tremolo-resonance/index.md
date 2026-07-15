@@ -2,10 +2,11 @@
 title = "Duo Tremolo: Resonance"
 author = ["Brian McCrory"]
 publishDate = 2021-03-03
-keywords = ["duo-tremolo-resonance"]
 tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Sendo", "仙道さおり", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
+slug = "duo-tremolo-resonance"
+issue = 131
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
   alt = "Cover art of Resonance by Duo Tremolo"

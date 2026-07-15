@@ -7,6 +7,7 @@ keywords = ["expression"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 235
 [cover]
   image = "IMG_20240305_185004197_HDR-1200.jpeg"
   caption = "Heading for Expression"

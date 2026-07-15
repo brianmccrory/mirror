@@ -2,10 +2,12 @@
 title = "Toru Takahashi: Tokyo Groovin’ High!"
 author = ["Brian McCrory"]
 publishDate = 2025-12-06
-keywords = ["hara-dairiki-trio-youve-changed"]
 tags = ["Toru Takahashi", "高橋徹", "Atsushi Ikeda", "池田篤", "Masanori Okazaki", "岡崎正典", "Keiichi Yoshida", "吉田桂一", "Kengo Nakamura", "中村健吾", "Yusuke Chigita", "千北祐輔", "Jun Satsuma", "佐津間純", "Koyuza Sanyutei", "三遊亭小遊三", "Shota Shunputei", "春風亭昇太"]
 categories = ["albums"]
 draft = false
+slug = "toru-takahashi-tokyo-groovin-high"
+issue = 341
+related = ["hara-dairiki-trio-youve-changed"]
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
   alt = "Cover art of Tokyo Groovin’ High! by Toru Takahashi"

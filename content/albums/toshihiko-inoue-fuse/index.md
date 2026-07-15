@@ -2,10 +2,12 @@
 title = "Toshihiko Inoue: Fuse"
 author = ["Brian McCrory"]
 publishDate = 2026-04-12
-keywords = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "Benisuke Sakai", "坂井紅介", "Ken Tsunoda", "角田健"]
 categories = ["albums"]
 draft = false
+slug = "toshihiko-inoue-fuse"
+issue = 360
+related = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 [cover]
   image = "toshihiko-inoue-fuse-460.jpeg"
   alt = "Cover art of Fuse by Toshihiko Inoue"

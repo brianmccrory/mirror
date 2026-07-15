@@ -2,10 +2,12 @@
 title = "FNK: Canvas"
 author = ["Brian McCrory"]
 publishDate = 2023-09-15
-keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
 tags = ["Fumie Chiba", "千葉史絵", "Nao Teraya", "寺屋ナオ", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
+slug = "fnk-canvas"
+issue = 202
+related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
 [cover]
   image = "fnk-canvas-460.jpeg"
   alt = "Cover art of Canvas by FNK"

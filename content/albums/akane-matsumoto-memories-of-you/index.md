@@ -2,10 +2,11 @@
 title = "Akane Matsumoto: Memories of You"
 author = ["Brian McCrory"]
 publishDate = 2020-11-12
-keywords = ["akane-matsumoto-memories-of-you"]
 tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-memories-of-you"
+issue = 126
 [cover]
   image = "akanematsumoto-memories-460.jpeg"
   alt = "Cover art of Memories of You by Akane Matsumoto"

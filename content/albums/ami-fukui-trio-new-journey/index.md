@@ -2,10 +2,11 @@
 title = "Ami Fukui Trio: New Journey"
 author = ["Brian McCrory"]
 publishDate = 2018-03-16
-keywords = ["ami-fukui-trio-new-journey"]
 tags = ["Ami Fukui", "福井亜実", "Show Kudo", "工藤精", "Yasushi Fukumori", "福森康", "Akiko Suda", "須田晶子"]
 categories = ["albums"]
 draft = false
+slug = "ami-fukui-trio-new-journey"
+issue = 32
 [cover]
   image = "amifukui-newjourney-460.jpeg"
   alt = "Cover art of New Journey by Ami Fukui Trio"

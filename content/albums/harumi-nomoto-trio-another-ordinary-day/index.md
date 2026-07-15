@@ -2,10 +2,11 @@
 title = "Harumi Nomoto Trio: Another Ordinary Day"
 author = ["Brian McCrory"]
 publishDate = 2022-07-19
-keywords = ["harumi-nomoto-trio-another-ordinary-day"]
 tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tommy Campbell", "Masayuki Tawarayama", "俵山昌之", "Yoshihito Eto", "江藤良人"]
 categories = ["albums"]
 draft = false
+slug = "harumi-nomoto-trio-another-ordinary-day"
+issue = 150
 [cover]
   image = "haruminomoto-another-460.jpeg"
   alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"

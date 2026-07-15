@@ -2,10 +2,12 @@
 title = "Keisuke Nakamura: Humadope 2"
 author = ["Brian McCrory"]
 publishDate = 2024-01-19
-keywords = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
 tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Yoshimoto", "吉本章紘", "Ami Ogaeri", "魚返明未", "Motoi Kanamori", "金森もとい", "Ittetsu Takemura", "竹村一哲"]
 categories = ["albums"]
 draft = false
+slug = "keisuke-nakamura-humadope-2"
+issue = 225
+related = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
 [cover]
   image = "keisuke-nakamura-humadope-2-460.jpeg"
   alt = "Cover art of Humadope 2 by Keisuke Nakamura"

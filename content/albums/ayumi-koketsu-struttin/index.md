@@ -2,10 +2,12 @@
 title = "Ayumi Koketsu: Struttin’"
 author = ["Brian McCrory"]
 publishDate = 2026-05-17
-keywords = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
 tags = ["Ayumi Koketsu", "纐纈歩美", "Yoshihiko Naya", "納谷嘉彦", "Masayuki Tawarayama", "俵山昌之", "Mark Taylor"]
 categories = ["albums"]
 draft = false
+slug = "ayumi-koketsu-struttin"
+issue = 365
+related = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "ayumi-koketsu-struttin-460.jpeg"
   alt = "Cover art of Struttin’ by Ayumi Koketsu"

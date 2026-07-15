@@ -2,10 +2,12 @@
 title = "Yuri Hirota: Magical Moonlight"
 author = ["Brian McCrory"]
 publishDate = 2026-01-25
-keywords = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 tags = ["Yuri Hirota", "廣田ゆり", "Daisei Mii", "三井大生", "Kilin Sato", "佐藤きりん", "Gen Date", "伊達弦", "Yuichiro Hiraoka", "平岡遊一郎"]
 categories = ["albums"]
 draft = false
+slug = "yuri-hirota-magical-moonlight"
+issue = 348
+related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
   alt = "Cover art of Magical Moonlight by Yuri Hirota"

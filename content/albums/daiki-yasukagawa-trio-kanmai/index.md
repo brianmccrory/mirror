@@ -2,10 +2,11 @@
 title = "Daiki Yasukagawa Trio: Kanmai"
 author = ["Brian McCrory"]
 publishDate = 2019-08-23
-keywords = ["daiki-yasukagawa-trio-kanmai"]
 tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+slug = "daiki-yasukagawa-trio-kanmai"
+issue = 80
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
   alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"

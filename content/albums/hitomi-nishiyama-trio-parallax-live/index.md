@@ -2,10 +2,11 @@
 title = "Hitomi Nishiyama Trio “Parallax”: Live"
 author = ["Brian McCrory"]
 publishDate = 2018-04-06
-keywords = ["hitomi-nishiyama-trio-parallax-live"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Takuya Sakazaki", "坂崎拓也", "Takehiro Shimizu", "清水勇博"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-trio-parallax-live"
+issue = 37
 [cover]
   image = "hitominishiyama-parallax-live-460.jpeg"
   alt = "Cover art of Live by Hitomi Nishiyama Trio “Parallax”"

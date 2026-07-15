@@ -2,10 +2,11 @@
 title = "Trispace: Trispace"
 author = ["Brian McCrory"]
 publishDate = 2018-11-06
-keywords = ["trispace-trispace"]
 tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshitaka Yamashita", "山下佳孝"]
 categories = ["albums"]
 draft = false
+slug = "trispace-trispace"
+issue = 61
 [cover]
   image = "trispace-trispace-460.jpeg"
   alt = "Cover art of Trispace by Trispace"

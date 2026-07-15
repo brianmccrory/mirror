@@ -2,10 +2,12 @@
 title = "Ami Fukui Trio: MCY"
 author = ["Brian McCrory"]
 publishDate = 2025-02-16
-keywords = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira", "吉良創太", "Kouki"]
 categories = ["albums"]
 draft = false
+slug = "ami-fukui-trio-mcy"
+issue = 292
+related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
   alt = "Cover art of MCY by Ami Fukui Trio"

@@ -2,10 +2,11 @@
 title = "Les Komatis: Les Komatis"
 author = ["Brian McCrory"]
 publishDate = 2018-03-28
-keywords = ["les-komatis-les-komatis"]
 tags = ["Nobie", "ノビー", "Akemi Ohta", "太田朱美", "Mayuko Katakura", "片倉真由子", "Nobumasa Yamada", "山田ノブマサ"]
 categories = ["albums"]
 draft = false
+slug = "les-komatis-les-komatis"
+issue = 35
 [cover]
   image = "leskomatis-leskomatis-460.jpeg"
   alt = "Cover art of Les Komatis by Les Komatis"

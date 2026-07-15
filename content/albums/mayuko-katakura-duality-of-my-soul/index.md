@@ -2,10 +2,12 @@
 title = "Mayuko Katakura: The Duality of My Soul"
 author = ["Brian McCrory"]
 publishDate = 2025-06-15
-keywords = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
 tags = ["Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Noritaka Tanaka", "田中徳崇"]
 categories = ["albums"]
 draft = false
+slug = "mayuko-katakura-duality-of-my-soul"
+issue = 313
+related = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
 [cover]
   image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
   alt = "Cover art of The Duality of My Soul by Mayuko Katakura"

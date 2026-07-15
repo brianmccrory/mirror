@@ -7,6 +7,7 @@ keywords = ["on-a-slow-boat-to"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 328
 [cover]
   image = "L1280249x-1200.jpeg"
   caption = "On A Slow Boat To...’s entrance"

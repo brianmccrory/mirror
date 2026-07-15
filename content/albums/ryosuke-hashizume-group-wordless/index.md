@@ -2,10 +2,11 @@
 title = "Ryosuke Hashizume Group: Wordless"
 author = ["Brian McCrory"]
 publishDate = 2020-02-24
-keywords = ["ryosuke-hashizume-group-wordless"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Manabu Hashimoto", "橋本学", "Ryoji Orihara", "織原良次"]
 categories = ["albums"]
 draft = false
+slug = "ryosuke-hashizume-group-wordless"
+issue = 105
 [cover]
   image = "ryosukehashizume-wordless-460.jpeg"
   alt = "Cover art of Wordless by Ryosuke Hashizume Group"

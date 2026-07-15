@@ -7,6 +7,7 @@ keywords = ["oto-ya-hiroo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 306
 [cover]
   image = "L1270548x-1200.jpeg"
   caption = "Naoko Akimoto (vocals), Daisei Mii (violin), and Yuichiro Hiraoka (guitar) at Oto-ya Hiroo in January 2025"

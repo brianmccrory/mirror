@@ -2,10 +2,11 @@
 title = "Naoko Sakata Trio: Flower Clouds"
 author = ["Brian McCrory"]
 publishDate = 2021-05-13
-keywords = ["naoko-sakata-trio-flower-clouds"]
 tags = ["Naoko Sakata", "坂田尚子", "Anton Blomgren", "Johan Birgenius"]
 categories = ["albums"]
 draft = false
+slug = "naoko-sakata-trio-flower-clouds"
+issue = 137
 [cover]
   image = "naokosakata-flowerclouds-460.jpeg"
   alt = "Cover art of Flower Clouds by Naoko Sakata Trio"

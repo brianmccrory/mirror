@@ -2,10 +2,11 @@
 title = "Manabu Ohishi Trio: Gift"
 author = ["Brian McCrory"]
 publishDate = 2020-03-09
-keywords = ["manabu-ohishi-trio-gift"]
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
+slug = "manabu-ohishi-trio-gift"
+issue = 110
 [cover]
   image = "manabuohishi-gift-460.jpeg"
   alt = "Cover art of Gift by Manabu Ohishi Trio"

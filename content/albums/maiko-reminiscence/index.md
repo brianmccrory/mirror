@@ -2,10 +2,12 @@
 title = "Maiko: Reminiscence"
 author = ["Brian McCrory"]
 publishDate = 2026-05-10
-keywords = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 tags = ["maiko", "マイコ", "Shikou Ito", "伊藤志宏", "Yuki Ito", "伊東佑季", "Kazuma Fujimoto", "藤本一馬", "Aya Kurosawa", "黒沢綾"]
 categories = ["albums"]
 draft = false
+slug = "maiko-reminiscence"
+issue = 364
+related = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "maiko-reminiscence-460.jpeg"
   alt = "Cover art of Reminiscence by maiko"

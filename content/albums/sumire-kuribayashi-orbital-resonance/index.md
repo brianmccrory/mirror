@@ -2,10 +2,12 @@
 title = "Sumire Kuribayashi: Orbital Resonance"
 author = ["Brian McCrory"]
 publishDate = 2026-02-06
-keywords = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Motohiko Ichino", "市野元彦", "Kyrie Anderson", "キリー・アンダーソン", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
+slug = "sumire-kuribayashi-orbital-resonance"
+issue = 349
+related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
   alt = "Cover art of Orbital Resonance by Sumire Kuribayashi"

@@ -2,10 +2,11 @@
 title = "Maiko: Solo"
 author = ["Brian McCrory"]
 publishDate = 2020-02-28
-keywords = ["maiko-solo"]
 tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false
+slug = "maiko-solo"
+issue = 107
 [cover]
   image = "maiko-solo-460.jpeg"
   alt = "Cover art of Solo by Maiko"

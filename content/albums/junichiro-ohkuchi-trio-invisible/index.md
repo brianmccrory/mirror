@@ -2,11 +2,13 @@
 title = "Junichiro Ohkuchi Trio: Invisible"
 author = ["Brian McCrory"]
 publishDate = 2018-02-13
-keywords = ["kohsuke-mine-quintet-major-to-minor", "yuka-ueda-dois", "yuko-miyawaki-song-of-flower"]
 lastmod = 2024-03-01
 tags = ["Junichiro Ohkuchi", "大口純一郎", "Yasushi Yoneki", "米木康志", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
+slug = "junichiro-ohkuchi-trio-invisible"
+issue = 16
+related = ["kohsuke-mine-quintet-major-to-minor", "yuka-ueda-dois", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "junichiroohkuchi-invisible-460.jpeg"
   alt = "Cover art of Invisible by Junichiro Ohkuchi Trio"

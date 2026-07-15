@@ -2,10 +2,11 @@
 title = "NHORHM: New Heritage of Real Heavy Metal -Extra Edition-"
 author = ["Brian McCrory"]
 publishDate = 2020-01-07
-keywords = ["nhorhm-extra-edition"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+slug = "nhorhm-extra-edition"
+issue = 87
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"

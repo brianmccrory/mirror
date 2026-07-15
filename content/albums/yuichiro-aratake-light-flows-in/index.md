@@ -2,10 +2,11 @@
 title = "Yuichiro Aratake: The Light Flows In"
 author = ["Brian McCrory"]
 publishDate = 2019-05-09
-keywords = ["yuichiro-aratake-light-flows-in"]
 tags = ["Yuichiro Aratake", "荒武裕一朗", "Tamaya Honda", "本田珠也", "Hideki Kawamura", "河村英樹", "Noboru Ando", "安東昇"]
 categories = ["albums"]
 draft = false
+slug = "yuichiro-aratake-light-flows-in"
+issue = 74
 [cover]
   image = "yuichiroaratake-light-460.jpeg"
   alt = "Cover art of The Light Flows In by Yuichiro Aratake"

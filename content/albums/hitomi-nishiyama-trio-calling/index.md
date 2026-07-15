@@ -2,10 +2,12 @@
 title = "Hitomi Nishiyama Trio: Calling"
 author = ["Brian McCrory"]
 publishDate = 2024-04-27
-keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“ハチ”恭彦", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-trio-calling"
+issue = 239
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "hitomi-nishiyama-trio-calling-460.jpeg"
   alt = "Cover art of Calling by Hitomi Nishiyama Trio"

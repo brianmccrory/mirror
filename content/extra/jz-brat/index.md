@@ -7,6 +7,7 @@ keywords = ["jz-brat"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 176
 [cover]
   image = "P1030831-1024.jpeg"
   caption = "The fashionably understated entrance to JZ Brat"

@@ -2,10 +2,12 @@
 title = "Ryosuke Hashizume Group: Side Two"
 author = ["Brian McCrory"]
 publishDate = 2024-11-08
-keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", "Koichi Sato", "佐藤浩一", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学"]
 categories = ["albums"]
 draft = false
+slug = "ryosuke-hashizume-group-side-two"
+issue = 274
+related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryo-hashizume-side-two-460.jpeg"
   alt = "Cover art of Side Two by Ryosuke Hashizume Group"

@@ -7,6 +7,7 @@ keywords = ["in-f"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 314
 [cover]
   image = "L1280267x-1200.jpeg"
   caption = "Toritoritori trio with Kana Fuefuki (flute, piano), Hitomi Aikawa (melodica, percussion), and Megumi Hattori (vibraphone, piano) at In F in March 2025"

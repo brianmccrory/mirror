@@ -2,10 +2,11 @@
 title = "Maki Fujimura: Best Wishes"
 author = ["Brian McCrory"]
 publishDate = 2019-01-14
-keywords = ["maki-fujimura-best-wishes"]
 tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
+slug = "maki-fujimura-best-wishes"
+issue = 66
 [cover]
   image = "makifujimura-best-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"

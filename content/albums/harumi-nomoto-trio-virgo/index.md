@@ -2,10 +2,11 @@
 title = "Harumi Nomoto Trio: Virgo"
 author = ["Brian McCrory"]
 publishDate = 2019-04-03
-keywords = ["harumi-nomoto-trio-virgo"]
 tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohnosuke Imaizumi", "今泉総之輔", "Makiko Sugawara", "菅原牧子", "Nao Sakamoto", "坂本直"]
 categories = ["albums"]
 draft = false
+slug = "harumi-nomoto-trio-virgo"
+issue = 73
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
   alt = "Cover art of Virgo by Harumi Nomoto Trio"

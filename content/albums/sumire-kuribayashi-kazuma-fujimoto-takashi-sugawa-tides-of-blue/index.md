@@ -2,10 +2,12 @@
 title = "Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: Tides of Blue"
 author = ["Brian McCrory"]
 publishDate = 2025-09-06
-keywords = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一馬", "Takashi Sugawa", "須川崇志"]
 categories = ["albums"]
 draft = false
+slug = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"
+issue = 326
+related = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
   alt = "Cover art of Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa"

@@ -2,10 +2,12 @@
 title = "Yosuke Sato & George Nakajima: Longing"
 author = ["Brian McCrory"]
 publishDate = 2025-05-30
-keywords = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 tags = ["Yosuke Sato", "佐藤洋祐", "George Nakajima", "中嶋錠二", "Ema", "エマ"]
 categories = ["albums"]
 draft = false
+slug = "yosuke-sato-george-nakajima-longing"
+issue = 311
+related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
   alt = "Cover art of Longing by Yosuke Sato & George Nakajima"

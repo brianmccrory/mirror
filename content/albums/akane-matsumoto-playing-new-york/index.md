@@ -2,10 +2,11 @@
 title = "Akane Matsumoto: Playing New York"
 author = ["Brian McCrory"]
 publishDate = 2019-02-19
-keywords = ["akane-matsumoto-playing-new-york"]
 tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-playing-new-york"
+issue = 69
 [cover]
   image = "akanematsumoto-playing-460.jpeg"
   alt = "Cover art of Playing New York by Akane Matsumoto"

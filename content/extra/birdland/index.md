@@ -7,6 +7,7 @@ keywords = ["birdland"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 160
 [cover]
   image = "L1090119-1024.jpeg"
   caption = "The Nami Kano Quartet playing at Birdland in 2014."

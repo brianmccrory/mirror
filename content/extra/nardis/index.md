@@ -7,6 +7,7 @@ keywords = ["nardis"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 303
 [cover]
   image = "IMG_20240325_200215138_HDR-1200.jpeg"
   caption = "JAZZ BAR   Nardis   CAFÉ"

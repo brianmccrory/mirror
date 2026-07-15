@@ -2,10 +2,11 @@
 title = "Routine Jazz Sextet: Routine Jazz Sextet"
 author = ["Brian McCrory"]
 publishDate = 2020-01-21
-keywords = ["routine-jazz-sextet-routine-jazz-sextet"]
 tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wataru Hamasaki", "浜崎航", "Taku Akiyama", "秋山卓", "Koichi Sato", "佐藤浩一", "Haruhisa Takamichi", "高道晴久"]
 categories = ["albums"]
 draft = false
+slug = "routine-jazz-sextet-routine-jazz-sextet"
+issue = 91
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
   alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"

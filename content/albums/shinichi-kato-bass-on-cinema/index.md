@@ -2,10 +2,11 @@
 title = "Shinichi Kato: Bass on Cinema"
 author = ["Brian McCrory"]
 publishDate = 2019-09-27
-keywords = ["shinichi-kato-bass-on-cinema"]
 tags = ["Shinichi Kato", "加藤真一", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
+slug = "shinichi-kato-bass-on-cinema"
+issue = 83
 [cover]
   image = "shinichikato-bassoncinema-460.jpeg"
   alt = "Cover art of Bass on Cinema by Shinichi Kato"

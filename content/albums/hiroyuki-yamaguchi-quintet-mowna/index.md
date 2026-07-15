@@ -2,10 +2,12 @@
 title = "Hiroyuki Yamaguchi Quintet: Mowna"
 author = ["Brian McCrory"]
 publishDate = 2025-10-04
-keywords = ["mase-hiroko-quintet-first-contact"]
 tags = ["Hiroyuki Yamaguchi", "山口裕之", "Hiroko Mase", "ませひろこ", "Hinata Ishii", "石井ひなた", "Toshihiko Kohno", "紅野智彦", "Tomoyuki Okabe", "岡部朋幸"]
 categories = ["albums"]
 draft = false
+slug = "hiroyuki-yamaguchi-quintet-mowna"
+issue = 329
+related = ["mase-hiroko-quintet-first-contact"]
 [cover]
   image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
   alt = "Cover art of Mowna by Hiroyuki Yamaguchi Quintet"

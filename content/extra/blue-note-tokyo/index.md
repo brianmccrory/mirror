@@ -7,6 +7,7 @@ keywords = ["blue-note-tokyo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 244
 [cover]
   image = "IMG_20240313_172834458_HDR-1200.jpeg"
   caption = "Welcome to Blue Note Tokyo"

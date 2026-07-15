@@ -2,10 +2,12 @@
 title = "Yukako Yamano: Imperial"
 author = ["Brian McCrory"]
 publishDate = 2023-09-01
-keywords = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
 tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
+slug = "yukako-yamano-imperial"
+issue = 199
+related = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
 [cover]
   image = "yukakoyamano-imperial-460.jpeg"
   alt = "Cover art of Imperial by Yukako Yamano"

@@ -2,10 +2,12 @@
 title = "Akane Matsumoto: Oh, Lady Be Good"
 author = ["Brian McCrory"]
 publishDate = 2024-12-20
-keywords = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 tags = ["Akane Matsumoto", "松本茜", "Ryu Kawamura", "川村竜", "Junji Hirose", "広瀬潤次"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-oh-lady-be-good"
+issue = 283
+related = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
   alt = "Cover art of Oh, Lady Be Good by Akane Matsumoto"

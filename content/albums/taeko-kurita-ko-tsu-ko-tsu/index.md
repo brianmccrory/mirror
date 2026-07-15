@@ -2,10 +2,12 @@
 title = "Taeko Kurita: Ko-tsu-ko-tsu"
 author = ["Brian McCrory"]
 publishDate = 2025-07-05
-keywords = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
 tags = ["Taeko Kurita", "栗田妙子"]
 categories = ["albums"]
 draft = false
+slug = "taeko-kurita-ko-tsu-ko-tsu"
+issue = 317
+related = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
   alt = "Cover art of Ko-tsu-ko-tsu by Taeko Kurita"

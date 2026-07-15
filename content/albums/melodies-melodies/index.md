@@ -2,10 +2,12 @@
 title = "Melodies: Melodies"
 author = ["Brian McCrory"]
 publishDate = 2025-06-22
-keywords = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
 tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Minyen Hsieh", "謝明諺", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
+slug = "melodies-melodies"
+issue = 315
+related = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
 [cover]
   image = "melodies-melodies-460.jpeg"
   alt = "Cover art of Melodies by Melodies"

@@ -6,6 +6,7 @@ keywords = ["someday"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 275
 [cover]
   image = "IMG_2354-1200.jpeg"
   caption = "Ryuichiro Tonozuka (flugelhorn) and Osamu Kawakami (bass) at Someday in December 2008"

@@ -2,11 +2,13 @@
 title = "Kazumi Ikenaga: Niwatazumi"
 author = ["Brian McCrory"]
 publishDate = 2018-01-26
-keywords = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 lastmod = 2023-11-17
 tags = ["Kazumi Ikenaga", "池長和美", "Christian Vuust", "Jakob Buchanan", "Soren Dahl Jeppesen", "Klaus Nørgaard"]
 categories = ["albums"]
 draft = false
+slug = "kazumi-ikenaga-niwatazumi"
+issue = 1
+related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
   alt = "Cover art of Niwatazumi by Kazumi Ikenaga"

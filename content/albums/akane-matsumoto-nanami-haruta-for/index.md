@@ -2,10 +2,11 @@
 title = "Akane Matsumoto & Nanami Haruta: For My Lady"
 author = ["Brian McCrory"]
 publishDate = 2023-07-21
-keywords = ["akane-matsumoto-nanami-haruta-for"]
 tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-nanami-haruta-for"
+issue = 189
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
   alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"

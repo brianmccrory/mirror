@@ -2,10 +2,12 @@
 title = "Akihiro Yoshimoto & Takashi Sugawa: Oxymoron"
 author = ["Brian McCrory"]
 publishDate = 2024-07-19
-keywords = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
 tags = ["Akihiro Yoshimoto", "吉本章紘", "Takashi Sugawa", "須川崇志", "Niran Dasika", "ニラン・ダシカ"]
 categories = ["albums"]
 draft = false
+slug = "akihiro-yoshimoto-takashi-sugawa-oxymoron"
+issue = 252
+related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
   alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"

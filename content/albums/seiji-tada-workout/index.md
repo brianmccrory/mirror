@@ -2,10 +2,11 @@
 title = "Seiji Tada: Workout!!"
 author = ["Brian McCrory"]
 publishDate = 2020-01-13
-keywords = ["seiji-tada-workout"]
 tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny Washington"]
 categories = ["albums"]
 draft = false
+slug = "seiji-tada-workout"
+issue = 89
 [cover]
   image = "seijitada-workout-460.jpeg"
   alt = "Cover art of Workout!! by Seiji Tada"

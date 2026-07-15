@@ -2,10 +2,12 @@
 title = "Hitomi Aikawa & Masaki Hayashi: Ten To Sen"
 author = ["Brian McCrory"]
 publishDate = 2026-04-26
-keywords = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
 tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-aikawa-masaki-hayashi-ten-to-sen"
+issue = 362
+related = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
   alt = "Cover art of Ten to Sen by Hitomi Aikawa & Masaki Hayashi"

@@ -2,10 +2,11 @@
 title = "Miyuki Moriya: Cat’s Cradle"
 author = ["Brian McCrory"]
 publishDate = 2020-02-17
-keywords = ["miyuki-moriya-cats-cradle"]
 tags = ["Miyuki Moriya", "守谷美由貴", "Mamoru Ishida", "石田衛", "Kohei Kamuro", "かむろ耕平", "Hiroshi Ikejiri", "池尻洋史", "Sohnosuke Imaizumi", "今泉総之輔"]
 categories = ["albums"]
 draft = false
+slug = "miyuki-moriya-cats-cradle"
+issue = 102
 [cover]
   image = "miyukimoriya-cats-460.jpeg"
   alt = "Cover art of Cat’s Cradle by Miyuki Moriya"

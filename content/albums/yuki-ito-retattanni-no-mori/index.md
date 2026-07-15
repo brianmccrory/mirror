@@ -2,10 +2,12 @@
 title = "Yuki Ito: Retattanni no Mori"
 author = ["Brian McCrory"]
 publishDate = 2024-07-01
-keywords = ["toshihiko-inoue-vayu", "maiko-solo"]
 tags = ["Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
+slug = "yuki-ito-retattanni-no-mori"
+issue = 249
+related = ["toshihiko-inoue-vayu", "maiko-solo"]
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
   alt = "Cover art of Retattanni no Mori by Yuki Ito"

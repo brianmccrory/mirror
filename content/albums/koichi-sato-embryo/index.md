@@ -2,10 +2,12 @@
 title = "Koichi Sato: Embryo"
 author = ["Brian McCrory"]
 publishDate = 2024-08-23
-keywords = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 tags = ["Koichi Sato", "佐藤浩一", "Motohiko Ichino", "市野元彦", "Masaki Kai", "甲斐正樹", "Shinya Fukumori", "福盛進也", "Aya Ito", "伊藤彩", "Yuko Kajitani", "梶谷裕子", "Atsuki Yoshida", "吉田篤貴", "Robin Dupuy", "Zeze Wakamatsu"]
 categories = ["albums"]
 draft = false
+slug = "koichi-sato-embryo"
+issue = 258
+related = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 [cover]
   image = "koichi-sato-embryo-460.jpeg"
   alt = "Cover art of Embryo by Koichi Sato"

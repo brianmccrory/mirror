@@ -7,6 +7,7 @@ keywords = ["our-delight"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 161
 [cover]
   image = "IMG_20170210_210301-1024.jpeg"
   caption = "A front-row corner table positioned right up near the on-stage drum set."

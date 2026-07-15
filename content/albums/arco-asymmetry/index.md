@@ -2,10 +2,11 @@
 title = "Arco: Asymmetry"
 author = ["Brian McCrory"]
 publishDate = 2018-01-31
-keywords = ["arco-asymmetry"]
 tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
+slug = "arco-asymmetry"
+issue = 8
 [cover]
   image = "arco-asymmetry-460.jpeg"
   alt = "Cover art of Asymmetry by Arco"

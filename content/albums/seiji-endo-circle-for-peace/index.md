@@ -2,10 +2,11 @@
 title = "Seiji Endo: Circle for Peace"
 author = ["Brian McCrory"]
 publishDate = 2018-02-18
-keywords = ["seiji-endo-circle-for-peace"]
 tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
+slug = "seiji-endo-circle-for-peace"
+issue = 19
 [cover]
   image = "seijiendo-circle-460.jpeg"
   alt = "Cover art of Circle for Peace by Seiji Endo"

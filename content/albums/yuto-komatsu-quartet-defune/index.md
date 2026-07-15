@@ -2,10 +2,12 @@
 title = "Yuto Komatsu Quartet: Defune"
 author = ["Brian McCrory"]
 publishDate = 2026-04-05
-keywords = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
 tags = ["Yuto Komatsu", "小松悠人", "Mikiko Nagatake", "永武幹子", "Daisuke Ijichi", "伊地知大輔", "Makoto Rikitake", "力武誠"]
 categories = ["albums"]
 draft = false
+slug = "yuto-komatsu-quartet-defune"
+issue = 359
+related = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
   alt = "Cover art of Defune by Yuto Komatsu Quartet"

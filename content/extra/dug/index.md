@@ -7,6 +7,7 @@ keywords = ["dug"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 201
 [cover]
   image = "P1010446-1024.jpeg"
   caption = "Relaxing with great music and atmosphere in a dark corner of Dug"

@@ -2,10 +2,11 @@
 title = "George Nakajima Trio: First Touch"
 author = ["Brian McCrory"]
 publishDate = 2023-06-02
-keywords = ["george-nakajima-trio-first-touch"]
 tags = ["George Nakajima", "中嶋錠二", "Yutaka Yoshida", "吉田豊", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+slug = "george-nakajima-trio-first-touch"
+issue = 174
 [cover]
   image = "george-nakajima-first-touch-460.jpeg"
   alt = "Cover art of First Touch by George Nakajima Trio"

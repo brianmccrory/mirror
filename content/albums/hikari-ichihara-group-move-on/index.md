@@ -2,10 +2,11 @@
 title = "Hikari Ichihara Group: Move On"
 author = ["Brian McCrory"]
 publishDate = 2019-05-16
-keywords = ["hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+slug = "hikari-ichihara-group-move-on"
+issue = 75
 [cover]
   image = "hikariichihara-moveon-460.jpeg"
   alt = "Cover art of Move On by Hikari Ichihara Group"

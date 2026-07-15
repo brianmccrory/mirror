@@ -2,10 +2,12 @@
 title = "Akane Matsumoto: Little Girl Blue"
 author = ["Brian McCrory"]
 publishDate = 2023-11-20
-keywords = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
 tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-little-girl-blue"
+issue = 212
+related = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
   alt = "Cover art of Little Girl Blue by Akane Matsumoto"

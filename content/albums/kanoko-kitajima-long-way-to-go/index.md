@@ -2,10 +2,12 @@
 title = "Kanoko Kitajima: Long Way to Go"
 author = ["Brian McCrory"]
 publishDate = 2025-05-10
-keywords = ["fumika-asari-introducin"]
 tags = ["Kanoko Kitajima", "北島佳乃子", "Motoi Kanamori", "金森もとい", "Fukushi Tainaka", "田井中福司"]
 categories = ["albums"]
 draft = false
+slug = "kanoko-kitajima-long-way-to-go"
+issue = 308
+related = ["fumika-asari-introducin"]
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
   alt = "Cover art of Long Way to Go by Kanoko Kitajima"

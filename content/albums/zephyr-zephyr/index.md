@@ -2,10 +2,11 @@
 title = "Zephyr: Zephyr"
 author = ["Brian McCrory"]
 publishDate = 2019-03-21
-keywords = ["zephyr-zephyr"]
 tags = ["Toshihiko Inoue", "井上淑彦", "Teiji Taguchi", "田口悌治", "Takashi Amano", "天野丘"]
 categories = ["albums"]
 draft = false
+slug = "zephyr-zephyr"
+issue = 72
 [cover]
   image = "zephyr-zephyr-460.jpeg"
   alt = "Cover art of Zephyr by Zephyr"

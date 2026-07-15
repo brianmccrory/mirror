@@ -2,10 +2,12 @@
 title = "Fumie Chiba Trio: Echoes"
 author = ["Brian McCrory"]
 publishDate = 2025-11-09
-keywords = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-chiba-beautiful-days", "fnk-canvas"]
 tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suzuki", "鈴木郁"]
 categories = ["albums"]
 draft = false
+slug = "fumie-chiba-trio-echoes"
+issue = 336
+related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-trio-echoes-460.jpeg"
   alt = "Cover art of Echoes by Fumie Chiba Trio"

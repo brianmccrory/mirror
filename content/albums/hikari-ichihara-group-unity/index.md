@@ -2,10 +2,12 @@
 title = "Hikari Ichihara Group: Unity"
 author = ["Brian McCrory"]
 publishDate = 2025-03-16
-keywords = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "Hideaki Hori", "堀秀彰", "Kunpei Nakabayashi", "中林薫平", "Masanori Ando", "安藤正則"]
 categories = ["albums"]
 draft = false
+slug = "hikari-ichihara-group-unity"
+issue = 297
+related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-group-unity-460.jpeg"
   alt = "Cover art of Unity by Hikari Ichihara Group"

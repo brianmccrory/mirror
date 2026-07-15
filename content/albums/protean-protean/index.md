@@ -2,10 +2,11 @@
 title = "Protean: Protean"
 author = ["Brian McCrory"]
 publishDate = 2021-06-22
-keywords = ["protean-protean"]
 tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan Yoshikawa", "吉川弾"]
 categories = ["albums"]
 draft = false
+slug = "protean-protean"
+issue = 142
 [cover]
   image = "protean-protean-460.jpeg"
   alt = "Cover art of Protean by Protean"
@@ -14,17 +15,17 @@ draft = false
 
 _Protean_ is the first release from jazz pianist Naoko Tanaka, who self-produced and released this album in 2009 under the name Protean along with bassist Naoyuki Seto and drummer Dan Yoshikawa.
 
-{{< figure src="../images/protean-protean/L1200370-1024.JPG" link="../images/protean-protean/L1200370-1024.JPG" >}}
+{{< figure src="L1200370-1024.jpg" link="L1200370-1024.jpg" >}}
 
 With six songs over 35 minutes, the album features all originals, four by the pianist and one each from the bassist and drummer. Album highlights such as tracks #3 “Kirin no Sougen” and #5 “Negotiater” showcase the trio’s stimulating, uptempo jazz-rock, summoning slightly Ahmad Jamal’s later period music with dense figures arranged over churning, funky grooves. The trio also offers slow jazz-pop ballads (“Never Say My Mind”) and modern jazz sketches (“Ocean”, “The Last Train”) to extend the atmosphere.
 
 Although this release is on the shorter side, it previews what is to come from Tanaka, foreshadowing her detailed original compositions and impeccable talent continued on her successive releases and met with mounting popularity.
 
-{{< figure src="../images/protean-protean/L1200371-1024.JPG" link="../images/protean-protean/L1200371-1024.JPG" >}}
+{{< figure src="L1200371-1024.jpg" link="L1200371-1024.jpg" >}}
 
-{{< figure src="../images/protean-protean/L1200372-1024.JPG" link="../images/protean-protean/L1200372-1024.JPG" >}}
+{{< figure src="L1200372-1024.jpg" link="L1200372-1024.jpg" >}}
 
-{{< figure src="../images/protean-protean/L1200374-1024.JPG" link="../images/protean-protean/L1200374-1024.JPG" >}}
+{{< figure src="L1200374-1024.jpg" link="L1200374-1024.jpg" >}}
 
 
 ## Protean by Protean

@@ -2,10 +2,12 @@
 title = "Shinya Fukumori Trio: For 2 Akis"
 author = ["Brian McCrory"]
 publishDate = 2025-04-26
-keywords = ["koichi-sato-embryo"]
 tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
+slug = "shinya-fukumori-trio-for-2-akis"
+issue = 305
+related = ["koichi-sato-embryo"]
 [cover]
   image = "shinya-fukumori-trio-for-2-akis-460.jpeg"
   alt = "Cover art of For 2 Akis by Shinya Fukumori Trio"

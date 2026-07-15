@@ -2,10 +2,12 @@
 title = "Jabuticaba: Jabuticaba"
 author = ["Brian McCrory"]
 publishDate = 2024-03-08
-keywords = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 tags = ["Mikiko Nagatake", "永武幹子", "Nami Kano", "加納奈実", "Ryoji Orihara", "織原良次", "Sota Kira", "吉良創太"]
 categories = ["albums"]
 draft = false
+slug = "jabuticaba-jabuticaba"
+issue = 233
+related = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "jabuticaba-jabuticaba-460.jpeg"
   alt = "Cover art of Jabuticaba by Jabuticaba"

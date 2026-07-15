@@ -7,6 +7,7 @@ keywords = ["yoyogi-naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 154
 [cover]
   image = "L1150335-1024.jpeg"
   caption = "Vocalist Rie Taguchi sings jazz standards and originals with violist Noriko Satomi and pianist Seiji Endo (August 2016)"

@@ -2,10 +2,12 @@
 title = "NHORHM: New Heritage of Real Heavy Metal"
 author = ["Brian McCrory"]
 publishDate = 2025-07-25
-keywords = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manabu Hashimoto", "橋本学", "Tomomi Oda", "小田朋美", "Takayoshi Baba", "馬場孝喜", "Hikari Ichihara", "市原ひかり", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
+slug = "nhorhm-new-heritage-of-real-heavy-metal"
+issue = 320
+related = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal by NHORHM"

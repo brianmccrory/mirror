@@ -2,10 +2,11 @@
 title = "Bungalow: Unseen Scenes"
 author = ["Brian McCrory"]
 publishDate = 2022-05-14
-keywords = ["bungalow-unseen-scenes"]
 tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Omura", "大村亘"]
 categories = ["albums"]
 draft = false
+slug = "bungalow-unseen-scenes"
+issue = 149
 [cover]
   image = "bungalow-unseen-460.jpeg"
   alt = "Cover art of Unseen Scenes by Bungalow"

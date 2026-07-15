@@ -2,10 +2,12 @@
 title = "Yuji Ito & Koichi Hirata Duo: Two for the Road"
 author = ["Brian McCrory"]
 publishDate = 2025-08-03
-keywords = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 tags = ["Yuji Ito", "伊藤勇司", "Koichi Hirata", "平田晃一", "Kosuke Mine", "峰厚介", "Yusuke Yaginuma", "柳沼佑育"]
 categories = ["albums"]
 draft = false
+slug = "yuji-ito-koichi-hirata-duo-two-for-the-road"
+issue = 321
+related = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
   alt = "Cover art of Two for the Road by Yuji Ito & Koichi Hirata Duo"

@@ -2,10 +2,11 @@
 title = "Atomi Hamada: This is Atomi"
 author = ["Brian McCrory"]
 publishDate = 2018-03-20
-keywords = ["atomi-hamada-this-is-atomi"]
 tags = ["Atomi Hamada", "浜田亜東実", "Momo Nonami", "野波桃", "Hiroaki Mizutani", "水谷浩章"]
 categories = ["albums"]
 draft = false
+slug = "atomi-hamada-this-is-atomi"
+issue = 33
 [cover]
   image = "atomihamada-thisis-460.jpeg"
   alt = "Cover art of This is Atomi by Atomi Hamada"

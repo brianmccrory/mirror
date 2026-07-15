@@ -2,10 +2,12 @@
 title = "Mabumi Yamaguchi: Viento"
 author = ["Brian McCrory"]
 publishDate = 2024-10-18
-keywords = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "mayuko-katakura-faith", "les-komatis-les-komatis", "mayuko-katakura-echoes-of-three", "junichiro-ohkuchi-trio-invisible", "mabumi-yamaguchi-let-your-mind-alone", "nanami-haruta-ii", "naoko-tanaka-appreciation", "mamoru-ishida-afterglow"]
 tags = ["Mabumi Yamaguchi", "山口真文", "Mayuko Katakura", "片倉真由子", "Ryohei Komaki", "小牧良平", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
+slug = "mabumi-yamaguchi-viento"
+issue = 271
+related = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "mayuko-katakura-faith", "les-komatis-les-komatis", "mayuko-katakura-echoes-of-three", "junichiro-ohkuchi-trio-invisible", "mabumi-yamaguchi-let-your-mind-alone", "nanami-haruta-ii", "naoko-tanaka-appreciation", "mamoru-ishida-afterglow"]
 [cover]
   image = "mabumi-yamaguchi-viento-460.jpeg"
   alt = "Cover art of Viento by Mabumi Yamaguchi"

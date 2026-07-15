@@ -2,10 +2,12 @@
 title = "Akane Matsumoto & Ayumi Koketsu: Trust"
 author = ["Brian McCrory"]
 publishDate = 2025-04-12
-keywords = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 tags = ["Akane Matsumoto", "松本茜", "Ayumi Koketsu", "纐纈歩美"]
 categories = ["albums"]
 draft = false
+slug = "akane-matsumoto-ayumi-koketsu-trust"
+issue = 302
+related = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-ayumi-koketsu-trust-460.jpeg"
   alt = "Cover art of Trust by Akane Matsumoto & Ayumi Koketsu"

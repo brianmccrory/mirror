@@ -7,6 +7,7 @@ keywords = ["pit-inn"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 221
 [cover]
   image = "P1040469-1024.jpeg"
   caption = "Yoshio Suzuki and Generation Gap at Pit Inn in 2010"

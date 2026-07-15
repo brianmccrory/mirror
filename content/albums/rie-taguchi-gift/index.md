@@ -2,10 +2,11 @@
 title = "Rie Taguchi: The Gift"
 author = ["Brian McCrory"]
 publishDate = 2018-02-21
-keywords = ["rie-taguchi-gift"]
 tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada", "多田誠司", "Noriko Satomi", "里見紀子", "Mitsukuni Tanabe", "田辺充邦", "Yusuke Nakaishi", "仲石裕介", "Akira Yamada", "山田玲"]
 categories = ["albums"]
 draft = false
+slug = "rie-taguchi-gift"
+issue = 21
 [cover]
   image = "rietaguchi-gift-460.jpeg"
   alt = "Cover art of The Gift by Rie Taguchi"

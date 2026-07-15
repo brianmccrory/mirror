@@ -2,10 +2,12 @@
 title = "Hitomi Nishiyama: Astrolabe"
 author = ["Brian McCrory"]
 publishDate = 2025-11-03
-keywords = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-parallax-live", "duo-tremolo-resonance", "nobie-takayoshi-baba-owari-to-hajimari", "hitomi-nishiyama-echo"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-astrolabe"
+issue = 335
+related = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-parallax-live", "duo-tremolo-resonance", "nobie-takayoshi-baba-owari-to-hajimari", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-astrolabe-460.jpeg"
   alt = "Cover art of Astrolabe by Hitomi Nishiyama"

@@ -2,10 +2,11 @@
 title = "Baby Brothers: Bb"
 author = ["Brian McCrory"]
 publishDate = 2020-03-23
-keywords = ["baby-brothers-bb"]
 tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
+slug = "baby-brothers-bb"
+issue = 113
 [cover]
   image = "babybrothers-bbcover-460.jpeg"
   alt = "Cover art of Bb by Baby Brothers"

@@ -2,10 +2,11 @@
 title = "Hitomi Nishiyama Trio: Many Seasons"
 author = ["Brian McCrory"]
 publishDate = 2018-02-11
-keywords = ["hitomi-nishiyama-trio-many-seasons"]
 tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false
+slug = "hitomi-nishiyama-trio-many-seasons"
+issue = 14
 [cover]
   image = "hitominishiyama-manyseasons-460.jpeg"
   alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
@@ -14,15 +15,15 @@ draft = false
 
 With a clean, clear pianist’s touch melding jazz with classical and a subtle rock sensibility, Hitomi Nishiyama’s 2007 album _Many Seasons_ is reminiscent of great European jazz melodists (Giovanni Mirabassi comes to mind), with lyrical passages twisting through rich harmony and odd meters. Aside from the high technical prowess, the beautifully-written songs overflow with delicate emotion, with pangs of nostalgia and sweetness in abundance.
 
-{{< figure src="../images/hitomi-nishiyama-trio-many-seasons/L1180611-1024.JPG" link="../images/hitomi-nishiyama-trio-many-seasons/L1180611-1024.JPG" >}}
+{{< figure src="L1180611-1024.jpg" link="L1180611-1024.jpg" >}}
 
 This album was recorded in Stockholm with two Swedish musicians, befitting the graceful melding of European and Japanese musical minds on display.
 
-{{< figure src="../images/hitomi-nishiyama-trio-many-seasons/L1180614-1024.JPG" link="../images/hitomi-nishiyama-trio-many-seasons/L1180614-1024.JPG" >}}
+{{< figure src="L1180614-1024.jpg" link="L1180614-1024.jpg" >}}
 
-{{< figure src="../images/hitomi-nishiyama-trio-many-seasons/L1180620-1024.JPG" link="../images/hitomi-nishiyama-trio-many-seasons/L1180620-1024.JPG" >}}
+{{< figure src="L1180620-1024.jpg" link="L1180620-1024.jpg" >}}
 
-{{< figure src="../images/hitomi-nishiyama-trio-many-seasons/L1180628-1024.JPG" link="../images/hitomi-nishiyama-trio-many-seasons/L1180628-1024.JPG" >}}
+{{< figure src="L1180628-1024.jpg" link="L1180628-1024.jpg" >}}
 
 
 ## Many Seasons by Hitomi Nishiyama Trio

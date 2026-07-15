@@ -2,10 +2,11 @@
 title = "Yuka Ueda: Dois"
 author = ["Brian McCrory"]
 publishDate = 2021-02-05
-keywords = ["yuka-ueda-dois"]
 tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ryoji Orihara", "織原良次", "Nobuyuki Komatsu", "小松伸之", "Shinji Hashimoto", "橋本信二", "Jo da Babylonia", "ジョー・ダ・バビロニア"]
 categories = ["albums"]
 draft = false
+slug = "yuka-ueda-dois"
+issue = 129
 [cover]
   image = "yukaueda-dois-460.jpeg"
   alt = "Cover art of Dois by Yuka Ueda"

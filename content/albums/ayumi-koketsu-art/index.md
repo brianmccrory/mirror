@@ -2,10 +2,12 @@
 title = "Ayumi Koketsu: Art"
 author = ["Brian McCrory"]
 publishDate = 2018-01-30
-keywords = ["ayumi-koketsu-rainbow-tales"]
 tags = ["Ayumi Koketsu", "纐纈歩美", "Jeremy Manasia", "Mike Karn", "Mark Taylor"]
 categories = ["albums"]
 draft = false
+slug = "ayumi-koketsu-art"
+issue = 3
+related = ["ayumi-koketsu-rainbow-tales"]
 [cover]
   image = "ayumikoketsu-art-460.jpeg"
   alt = "Cover art of Art by Ayumi Koketsu"

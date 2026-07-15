@@ -2,10 +2,12 @@
 title = "Davy Mooney & Ko Omura: The Word"
 author = ["Brian McCrory"]
 publishDate = 2025-10-25
-keywords = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "fe-live-at-virtuoso", "efreydut-fairway"]
 tags = ["Davy Mooney", "Ko Omura", "大村亘", "John Ellis", "Glenn Zaleski", "Matt Clohesy"]
 categories = ["albums"]
 draft = false
+slug = "davy-mooney-ko-omura-the-word"
+issue = 333
+related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "fe-live-at-virtuoso", "efreydut-fairway"]
 [cover]
   image = "davy-mooney-ko-omura-the-word-460.jpeg"
   alt = "Cover art of The Word by Davy Mooney & Ko Omura"

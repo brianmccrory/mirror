@@ -2,10 +2,12 @@
 title = "Polyglot: Talk, Vol. 1"
 author = ["Brian McCrory"]
 publishDate = 2024-02-02
-keywords = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘", "Hiroyuki Ishikawa", "石川広行"]
 categories = ["albums"]
 draft = false
+slug = "polyglot-talk-vol-1"
+issue = 227
+related = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
   alt = "Cover art of Talk, Vol. 1 by Polyglot"

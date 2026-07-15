@@ -2,10 +2,11 @@
 title = "Toshihiko Inoue: Vayu"
 author = ["Brian McCrory"]
 publishDate = 2018-02-26
-keywords = ["toshihiko-inoue-vayu"]
 tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false
+slug = "toshihiko-inoue-vayu"
+issue = 23
 [cover]
   image = "toshihikoinoue-vayu-460.jpeg"
   alt = "Cover art of Vayu by Toshihiko Inoue"

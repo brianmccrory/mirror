@@ -2,10 +2,12 @@
 title = "Kaoru Azuma / Hitomi Nishiyama: Faces"
 author = ["Brian McCrory"]
 publishDate = 2023-12-29
-keywords = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 tags = ["Kaoru Azuma", "東かおる", "Hitomi Nishiyama", "西山瞳", "Motohiko Ichino", "市野元彦", "Toru Nishijima", "西嶋徹", "Ryosuke Hashizume", "橋爪亮督"]
 categories = ["albums"]
 draft = false
+slug = "kaoru-azuma-hitomi-nishiyama-faces"
+issue = 220
+related = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 [cover]
   image = "kaoru-azuma-hitomi-nishiyama-faces-460.jpeg"
   alt = "Cover art of Faces by Kaoru Azuma / Hitomi Nishiyama"

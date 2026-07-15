@@ -2,10 +2,12 @@
 title = "Otohito Fuse Trio: Isolated"
 author = ["Brian McCrory"]
 publishDate = 2024-06-07
-keywords = ["yuya-wakai-images"]
 tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Nakamura", "中村海斗"]
 categories = ["albums"]
 draft = false
+slug = "otohito-fuse-trio-isolated"
+issue = 245
+related = ["yuya-wakai-images"]
 [cover]
   image = "otohito-fuse-trio-isolated-460.jpeg"
   alt = "Cover art of Isolated by Otohito Fuse Trio"

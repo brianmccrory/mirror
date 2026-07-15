@@ -2,10 +2,11 @@
 title = "Erisa Ogawa: Where Have U Been?"
 author = ["Brian McCrory"]
 publishDate = 2024-05-31
-keywords = ["erisa-ogawa-where-have-u-been"]
 tags = ["Erisa Ogawa", "小川恵理紗", "Sota Seta", "瀬田創太", "Yusuke Morita", "森田悠介", "Ryo Shibata", "柴田亮", "Sayaka (Violin)", "Ayumi Hashimoto", "橋本歩", "Issei Yoshiba", "吉羽 一星", "Tetsuo Koizumi", "小泉哲夫", "Jo Endo", "遠藤 定", "Nao Teraya", "寺屋ナオ", "Masaru Okuyama", "奥山勝", "Keita Harigai", "張替啓太", "Takeru Yamazaki", "ヤマザキタケル"]
 categories = ["albums"]
 draft = false
+slug = "erisa-ogawa-where-have-u-been"
+issue = 243
 [cover]
   image = "erisa-ogawa-where-have-u-been-460.jpeg"
   alt = "Cover art of Where Have U Been? by Erisa Ogawa"

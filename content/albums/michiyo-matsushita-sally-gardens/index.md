@@ -2,10 +2,11 @@
 title = "Michiyo Matsushita: Sally Gardens"
 author = ["Brian McCrory"]
 publishDate = 2018-10-25
-keywords = ["michiyo-matsushita-sally-gardens"]
 tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
+slug = "michiyo-matsushita-sally-gardens"
+issue = 60
 [cover]
   image = "michiyomatsushita-sally-460.jpeg"
   alt = "Cover art of Sally Gardens by Michiyo Matsushita"
@@ -14,7 +15,7 @@ draft = false
 
 Pianist Michiyo Matsushita’s _Sally Gardens_ is a lively solo piano album featuring original compositions set against a few Irish folk songs and jazz standards.
 
-{{< figure src="../images/michiyo-matsushita-sally-gardens/L1210895-1024.JPG" link="../images/michiyo-matsushita-sally-gardens/L1210895-1024.JPG" >}}
+{{< figure src="L1210895-1024.jpg" link="L1210895-1024.jpg" >}}
 
 Through the rich, evocative style of folk music (“Sally Gardens”, “Paddy Ryan’s Dream”), Matsushita’s playing is sweet and comforting, enhanced with fascinating reharmonizations and arrangements. The two jazz standards (“Liza”, “Segment”) impressively show various sides of Matsushita’s jazz playing, with elements of classical, bebop, stride, and other facets of piano surfacing in exciting contrasts.
 

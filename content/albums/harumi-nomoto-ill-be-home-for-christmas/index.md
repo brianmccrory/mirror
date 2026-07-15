@@ -2,10 +2,12 @@
 title = "Harumi Nomoto: I’ll Be Home for Christmas"
 author = ["Brian McCrory"]
 publishDate = 2025-12-20
-keywords = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo"]
 tags = ["Harumi Nomoto", "野本晴美"]
 categories = ["albums"]
 draft = false
+slug = "harumi-nomoto-ill-be-home-for-christmas"
+issue = 343
+related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo"]
 [cover]
   image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
   alt = "Cover art of I’ll Be Home for Christmas by Harumi Nomoto"

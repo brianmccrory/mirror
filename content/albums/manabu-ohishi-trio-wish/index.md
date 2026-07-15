@@ -2,10 +2,11 @@
 title = "Manabu Ohishi Trio: Wish"
 author = ["Brian McCrory"]
 publishDate = 2018-04-10
-keywords = ["manabu-ohishi-trio-wish"]
 tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
+slug = "manabu-ohishi-trio-wish"
+issue = 38
 [cover]
   image = "manabuohishi-wish-460.jpeg"
   alt = "Cover art of Wish by Manabu Ohishi Trio"

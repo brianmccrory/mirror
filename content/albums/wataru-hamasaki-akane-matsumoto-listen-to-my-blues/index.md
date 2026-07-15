@@ -2,10 +2,12 @@
 title = "Wataru Hamasaki & Akane Matsumoto: Listen to My Blues"
 author = ["Brian McCrory"]
 publishDate = 2026-03-29
-keywords = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
+slug = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues"
+issue = 358
+related = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
   alt = "Cover art of Listen to My Blues by Wataru Hamasaki & Akane Matsumoto"

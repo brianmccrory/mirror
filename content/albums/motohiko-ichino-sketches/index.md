@@ -2,10 +2,12 @@
 title = "Motohiko Ichino: Sketches"
 author = ["Brian McCrory"]
 publishDate = 2024-07-26
-keywords = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-frozen-dust", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "kaoru-azuma-hitomi-nishiyama-faces"]
 tags = ["Motohiko Ichino", "市野元彦", "Hikaru Toho", "東保光", "Shinichiro Kamoto", "嘉本信一郎", "Taiichi Kamimura", "かみむら泰一"]
 categories = ["albums"]
 draft = false
+slug = "motohiko-ichino-sketches"
+issue = 253
+related = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-frozen-dust", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "motohiko-ichino-sketches-460.jpeg"
   alt = "Cover art of Sketches by Motohiko Ichino"

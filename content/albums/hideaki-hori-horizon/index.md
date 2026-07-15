@@ -2,10 +2,12 @@
 title = "Hideaki Hori: Horizon"
 author = ["Brian McCrory"]
 publishDate = 2023-12-08
-keywords = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
 tags = ["Hideaki Hori", "堀秀彰", "Tetsuyuki Kishi", "岸徹至", "Manabu Hashimoto", "橋本学", "Nobuyuki Komatsu", "小松伸之", "Hideki Kawamura", "河村英樹"]
 categories = ["albums"]
 draft = false
+slug = "hideaki-hori-horizon"
+issue = 215
+related = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
   alt = "Cover art of Horizon by Hideaki Hori"

@@ -2,10 +2,11 @@
 title = "Fumie Chiba Trio: Tip of Dream"
 author = ["Brian McCrory"]
 publishDate = 2018-12-02
-keywords = ["fumie-chiba-trio-tip-of-dream"]
 tags = ["Fumie Chiba", "千葉史絵", "Koichi Kuniwake", "国分航一", "Shigehito Kawamura", "川村成史"]
 categories = ["albums"]
 draft = false
+slug = "fumie-chiba-trio-tip-of-dream"
+issue = 62
 [cover]
   image = "fumiechiba-tip-460.jpeg"
   alt = "Cover art of Tip of Dream by Fumie Chiba Trio"

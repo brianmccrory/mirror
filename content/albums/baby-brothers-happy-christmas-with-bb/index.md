@@ -2,10 +2,12 @@
 title = "Baby Brothers: Happy Christmas with Bb"
 author = ["Brian McCrory"]
 publishDate = 2023-12-24
-keywords = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒方京子", "Takahiko Goto", "ごとうたかひこ", "Yohhei", "ようへい"]
 categories = ["albums"]
 draft = false
+slug = "baby-brothers-happy-christmas-with-bb"
+issue = 219
+related = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 [cover]
   image = "babybrothers-happy-christmas-460.jpeg"
   alt = "Cover art of Happy Christmas with Bb by Baby Brothers"

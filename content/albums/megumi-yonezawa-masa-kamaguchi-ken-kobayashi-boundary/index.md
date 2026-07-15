@@ -2,10 +2,11 @@
 title = "Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: Boundary"
 author = ["Brian McCrory"]
 publishDate = 2024-12-31
-keywords = ["megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"]
 tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマグチ", "Ken Kobayashi", "小林健"]
 categories = ["albums"]
 draft = false
+slug = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"
+issue = 285
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
   alt = "Cover art of Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi"

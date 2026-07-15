@@ -7,6 +7,7 @@ keywords = ["ps-bar"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 158
 [cover]
   image = "IMG_20140806_212248-1024.jpeg"
   caption = "Jazz musicians and customers crowd into the cozy P's Bar for hot jazz."

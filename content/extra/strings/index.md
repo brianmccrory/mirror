@@ -7,6 +7,7 @@ keywords = ["strings"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 294
 [cover]
   image = "L1270806x-1200.jpeg"
   caption = "Maiko (violin), Yuki Ito (bass), and Shikou Ito (piano) at Strings in February 2025"

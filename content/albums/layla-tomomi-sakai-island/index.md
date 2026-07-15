@@ -2,10 +2,11 @@
 title = "Layla Tomomi Sakai: The Island"
 author = ["Brian McCrory"]
 publishDate = 2019-07-23
-keywords = ["layla-tomomi-sakai-island"]
 tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平岡遊一郎", "Ryuichi Takase", "高瀬龍一", "Toshio Miki", "三木俊雄", "Masaru Okuyama", "奥山勝", "Satoshi Ishikawa", "石川智", "Matsumonica", "マツモニカ", "Norihito Nagasawa", "長澤紀仁"]
 categories = ["albums"]
 draft = false
+slug = "layla-tomomi-sakai-island"
+issue = 78
 [cover]
   image = "laylatomomisakai-island-460.jpeg"
   alt = "Cover art of The Island by Layla Tomomi Sakai"

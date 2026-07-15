@@ -2,10 +2,12 @@
 title = "Chie Nishimura: Virtual Silence"
 author = ["Brian McCrory"]
 publishDate = 2024-10-25
-keywords = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
 tags = ["Chie Nishimura", "西村知恵", "Ryoji Orihara", "織原良次", "May Inoue", "井上銘", "Tamaya Honda", "本田珠也"]
 categories = ["albums"]
 draft = false
+slug = "chie-nishimura-virtual-silence"
+issue = 272
+related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
 [cover]
   image = "chie-nishimura-virtual-silence-460.jpeg"
   alt = "Cover art of Virtual Silence by Chie Nishimura"

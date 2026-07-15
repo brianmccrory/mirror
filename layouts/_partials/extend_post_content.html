@@ -1,11 +1,27 @@
+<div class="post-content md-content"><p><em>Jazz of Japan &middot; No. {{ .Params.issue }} &middot; {{ if not .Date.IsZero }}<span title='{{ .Date }}'>{{ .Date | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }}</span> &middot; {{ end -}}{{- if not .Params.lastmod.IsZero }}<span title='{{ .Params.lastmod }}'>(rev. {{ .Params.lastmod | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }})</span> &middot; {{ end -}}{{ site.Params.author -}}</em></p></div>
 <hr>
-{{- if and (ne .Type "page") (.Site.RegularPages.Related .) }}
+
+{{- if and (ne .Type "page") (or .Params.related (.Site.RegularPages.Related .)) }}
 <div class="post-content md-content"><p>
 <h3>Related:</h3>
-      <ul>
-{{- range (.Site.RegularPages.Related . | first 3) }}
+<ul>
+{{- if .Params.related }}
+
+{{- range .Params.related }}
+{{- $slug := . }}
+  {{- with index (where $.Site.RegularPages "Params.slug" $slug) 0 }}
 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{- end }}
 {{- end }}
-      </ul>
+
+{{- else }}
+
+  {{- range (.Site.RegularPages.Related . | first 3) }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{- end }}
+
+{{- end }}
+</ul>
 </p></div>
+
 {{- end }}

@@ -7,6 +7,7 @@ keywords = ["kanmachi-63"]
 tags = [""]
 categories = ["extra"]
 draft = false
+issue = 268
 [cover]
   image = "IMG_20190517_213722719-1200.jpeg"
   caption = "Live jazz at Kanmachi 63 with Hitomi Nishiyama (piano), Kazumi Ikenaga (drums), and Yasuhiko “Hachi” Sato (bass) in May 2019"

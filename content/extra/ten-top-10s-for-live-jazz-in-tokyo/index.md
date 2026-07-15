@@ -2,10 +2,10 @@
 title = "Ten Top 10s for Live Jazz in Tokyo"
 author = ["Brian McCrory"]
 publishDate = 2024-12-04
-keywords = ["ten-top-10s-for-live-jazz-in-tokyo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "ten-top-10s-for-live-jazz-in-tokyo"
 issue = 280
 [cover]
   image = "IMG_20190629_212549307-1200.jpeg"
@@ -61,17 +61,17 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 “Some obvious starting points and the most well-known venues. Classic, legendary, and historic, and in some cases, expensive.”
 
 1.  **Billboard Live Tokyo** - _Roppongi Sta_
-2.  [**Blue Note Tokyo**](https://www.jazzofjapan.com/archive/blue-note-tokyo) - _Omotesando Sta_
-3.  [**Body &amp; Soul**](https://www.jazzofjapan.com/archive/body-and-soul) - _Shibuya Sta_
+2.  [**Blue Note Tokyo**](/blue-note-tokyo/) - _Omotesando Sta_
+3.  [**Body &amp; Soul**](/body-and-soul/) - _Shibuya Sta_
 4.  **Cotton Club** - _Tokyo Sta_
-5.  [**Intro**](https://www.jazzofjapan.com/archive/intro) - _Takadanobaba Sta_
-6.  [**JZ Brat**](https://www.jazzofjapan.com/archive/jz-brat) - _Shibuya Sta_
-7.  [**Naru**](https://www.jazzofjapan.com/archive/naru) - _Ochanomizu Sta_
+5.  [**Intro**](/intro/) - _Takadanobaba Sta_
+6.  [**JZ Brat**](/jz-brat/) - _Shibuya Sta_
+7.  [**Naru**](/naru/) - _Ochanomizu Sta_
 8.  **New York Bar** - _Shinjuku Sta_
-9.  [**Pit Inn**](https://www.jazzofjapan.com/archive/pit-inn) - _Shinjuku-sanchome Sta_
-10. [**Sometime**](https://www.jazzofjapan.com/archive/sometime) - _Kichijoji Sta_
+9.  [**Pit Inn**](/pit-inn/) - _Shinjuku-sanchome Sta_
+10. [**Sometime**](/sometime/) - _Kichijoji Sta_
 
-**List #1 bonus entry**: Related to **Intro**, [**Cafe Cotton Club**](https://www.jazzofjapan.com/archive/cafe-cotton-club) ([web](https://www.cafecottonclub.com/) [map](https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7)) restaurant and jazz club lies roughly across the street from Intro. _(Note that **Cafe Cotton Club** has a name similar to **Cotton Club**, #4 on this list, but they are completely different venues.)_
+**List #1 bonus entry**: Related to **Intro**, [**Cafe Cotton Club**](/cafe-cotton-club/) ([web](https://www.cafecottonclub.com/) [map](https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7)) restaurant and jazz club lies roughly across the street from Intro. _(Note that **Cafe Cotton Club** has a name similar to **Cotton Club**, #4 on this list, but they are completely different venues.)_
 
 ---
 
@@ -80,16 +80,16 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 
 “Often recommended, well-known, and must-visit spots. Great for jazz lovers and first timers.”
 
-1.  [**Alfie**](https://www.jazzofjapan.com/archive/alfie) - _Roppongi Sta_
-2.  [**All of Me**](https://www.jazzofjapan.com/archive/all-of-me) - _Roppongi Sta_
-3.  [**Apollo**](https://www.jazzofjapan.com/archive/apollo) - _Shimo-kitazawa Sta_
-4.  [**B-flat**](https://www.jazzofjapan.com/archive/b-flat) - _Akasaka Sta_
-5.  [**Independence**](https://www.jazzofjapan.com/archive/independence) - _Ikebukuro Sta_
-6.  [**Polka Dots**](https://www.jazzofjapan.com/archive/polka-dots) - _Shinjuku-sanchome Sta_
-7.  [**Salt Peanuts**](https://www.jazzofjapan.com/archive/salt-peanuts) - _Ekoda Sta_
-8.  [**Someday**](https://www.jazzofjapan.com/archive/someday) - _Asakusa/Tawaramachi Sta_
-9.  [**Sweet Rain**](https://www.jazzofjapan.com/archive/sweet-rain) - _Nakano Sta_
-10. [**Yoyogi Naru**](https://www.jazzofjapan.com/archive/yoyogi-naru) - _Yoyogi Sta_
+1.  [**Alfie**](/alfie/) - _Roppongi Sta_
+2.  [**All of Me**](/all-of-me/) - _Roppongi Sta_
+3.  [**Apollo**](/apollo/) - _Shimo-kitazawa Sta_
+4.  [**B-flat**](/b-flat/) - _Akasaka Sta_
+5.  [**Independence**](/independence/) - _Ikebukuro Sta_
+6.  [**Polka Dots**](/polka-dots/) - _Shinjuku-sanchome Sta_
+7.  [**Salt Peanuts**](/salt-peanuts/) - _Ekoda Sta_
+8.  [**Someday**](/someday/) - _Asakusa/Tawaramachi Sta_
+9.  [**Sweet Rain**](/sweet-rain/) - _Nakano Sta_
+10. [**Yoyogi Naru**](/yoyogi-naru/) - _Yoyogi Sta_
 
 ---
 
@@ -98,16 +98,16 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 
 “Practical and straightforward, solid and dependable choices. Everyday/anyday go-to spots for jazz lovers. Humble, simple, and satisfying.”
 
-1.  [**Apple Jump**](https://www.jazzofjapan.com/archive/apple-jump) - _Ikebukuro Sta_
-2.  [**Bon Courage**](https://www.jazzofjapan.com/archive/bon-courage) - _Yotsuya Sta_
-3.  [**Cochi**](https://www.jazzofjapan.com/archive/cochi) - _Koiwa Sta_
-4.  [**Donfan**](https://www.jazzofjapan.com/archive/donfan) - _Otsuka Sta_
-5.  [**Gate One**](https://www.jazzofjapan.com/archive/gate-one) - _Takadanobaba Sta_
-6.  [**Manhattan**](https://www.jazzofjapan.com/archive/manhattan/) - _Asagaya Sta_
-7.  [**Porto**](https://www.jazzofjapan.com/archive/porto) - _Nippori Sta_
-8.  [**Strings**](https://www.jazzofjapan.com/archive/strings) - _Kichijoji Sta_
-9.  [**The Deep**](https://www.jazzofjapan.com/archive/the-deep) - _Ginza Sta_
-10. [**Velera**](https://www.jazzofjapan.com/archive/velera/) - _Akasaka-mitsuke Sta_
+1.  [**Apple Jump**](/apple-jump/) - _Ikebukuro Sta_
+2.  [**Bon Courage**](/bon-courage/) - _Yotsuya Sta_
+3.  [**Cochi**](/cochi/) - _Koiwa Sta_
+4.  [**Donfan**](/donfan/) - _Otsuka Sta_
+5.  [**Gate One**](/gate-one/) - _Takadanobaba Sta_
+6.  [**Manhattan**](/manhattan/) - _Asagaya Sta_
+7.  [**Porto**](/porto/) - _Nippori Sta_
+8.  [**Strings**](/strings/) - _Kichijoji Sta_
+9.  [**The Deep**](/the-deep/) - _Ginza Sta_
+10. [**Velera**](/velera/) - _Akasaka-mitsuke Sta_
 
 ---
 
@@ -116,16 +116,16 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 
 “Reliable jazz clubs, whether old-fashioned classic or stylish, and some with avant-garde, experimental, or trend-setting aspects.”
 
-1.  [**Aketa no Mise**](https://www.jazzofjapan.com/archive/aketa-no-mise) - _Nishi-ogikubo Sta_
-2.  [**Birdland**](https://www.jazzofjapan.com/archive/birdland) - _Kitasenju Sta_
-3.  [**Klavier**](https://www.jazzofjapan.com/archive/klavier/) - _Asagaya Sta_
-4.  [**Knuttel House**](https://www.jazzofjapan.com/archive/knuttel-house) - _Asakusa Sta_
-5.  [**Koen-Dori Classics**](https://www.jazzofjapan.com/archive/koen-dori-classics) - _Shibuya Sta_
-6.  [**Kohaku**](https://www.jazzofjapan.com/archive/kohaku) - _Shibuya Sta_
-7.  [**No Room for Squares**](https://www.jazzofjapan.com/archive/no-room-for-squares) - _Shimo-kitazawa Sta_
-8.  [**Soultrane**](https://www.jazzofjapan.com/archive/soultrane) - _Asakusa Sta_
-9.  [**Velvet Sun**](https://www.jazzofjapan.com/archive/velvet-sun) - _Ogikubo Sta_
-10. [**Zimagine**](https://www.jazzofjapan.com/archive/zimagine) - _Omotesando Sta_
+1.  [**Aketa no Mise**](/aketa-no-mise/) - _Nishi-ogikubo Sta_
+2.  [**Birdland**](/birdland/) - _Kitasenju Sta_
+3.  [**Klavier**](/klavier/) - _Asagaya Sta_
+4.  [**Knuttel House**](/knuttel-house/) - _Asakusa Sta_
+5.  [**Koen-Dori Classics**](/koen-dori-classics/) - _Shibuya Sta_
+6.  [**Kohaku**](/kohaku/) - _Shibuya Sta_
+7.  [**No Room for Squares**](/no-room-for-squares/) - _Shimo-kitazawa Sta_
+8.  [**Soultrane**](/soultrane/) - _Asakusa Sta_
+9.  [**Velvet Sun**](/velvet-sun/) - _Ogikubo Sta_
+10. [**Zimagine**](/zimagine/) - _Omotesando Sta_
 
 ---
 
@@ -135,15 +135,15 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 “Cafes, coffee, cute, and cozy. A handful of coffee-centered, or just plain small, spots. Nostalgic, simple, caffeinated. Only including live spots for now (jazz kissas and coffeeshops without live music are for a separate article).”
 
 1.  **After Hours** - _Koenji Sta_
-2.  [**Cafe Beulmans**](https://www.jazzofjapan.com/archive/cafe-beulmans) - _Seijogakuen-mae Sta_
+2.  [**Cafe Beulmans**](/cafe-beulmans/) - _Seijogakuen-mae Sta_
 3.  **Cafe Clair** - _Nishi-arai Sta_
 4.  **Galleria Caffe U_U** - _Myogadani Sta_
 5.  **Cielnage** - _Tokyo Sta_
 6.  **Coffee Bigaku** - _Gakugei-daigaku Sta_
-7.  [**On A Slow Boat To…**](https://www.jazzofjapan.com/archive/on-a-slow-boat-to) - _Jimbocho Sta_
-8.  [**Paco**](https://www.jazzofjapan.com/archive/paco) - _Kojimachi Sta_
-9.  [**P's Bar**](https://www.jazzofjapan.com/archive/ps-bar) - _Ikebukuro Sta_
-10. [**Thelonious**](https://www.jazzofjapan.com/archive/thelonious) - _Higashi-nakano Sta_
+7.  [**On A Slow Boat To…**](/on-a-slow-boat-to/) - _Jimbocho Sta_
+8.  [**Paco**](/paco/) - _Kojimachi Sta_
+9.  [**P's Bar**](/ps-bar/) - _Ikebukuro Sta_
+10. [**Thelonious**](/thelonious/) - _Higashi-nakano Sta_
 
 ---
 
@@ -152,16 +152,16 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 
 “Pulling their weight with live jazz in a varied combination of settings with a certain type of vibe. Some feature great food options, from izayaka grills to gourmet menus, and others feature drinks in an after-dark nightclub mood.”
 
-1.  [**Barbra**](https://www.jazzofjapan.com/archive/barbra) - _Ginza Sta_
+1.  [**Barbra**](/barbra/) - _Ginza Sta_
 2.  **Blue Note Place** - _Ebisu Sta_
 3.  **Club T** - _Roppongi Sta_
 4.  **Izumi** - _Roppongi Sta_
-5.  [**Jazz Bird**](https://www.jazzofjapan.com/archive/jazz-bird) - _Omotesando Sta_
+5.  [**Jazz Bird**](/jazz-bird/) - _Omotesando Sta_
 6.  **Jesse James** - _Tachikawa Sta_
 7.  **Keystone Club** - _Roppongi Sta_
 8.  **Kin No Tsubo** - _Yoga Sta_
 9.  **Rakuya** - _Naka-meguro Sta_
-10. [**Ginza Swing**](https://www.jazzofjapan.com/archive/ginza-swing/) - _Ginza Sta_
+10. [**Ginza Swing**](/ginza-swing/) - _Ginza Sta_
 
 ---
 
@@ -172,13 +172,13 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 
 1.  **Crazy Love** - _Kyodo Sta_
 2.  **Darling** - _Asakusa Sta_
-3.  [**Expression**](https://www.jazzofjapan.com/archive/expression) - _Jimbocho Sta_
-4.  [**In F**](https://www.jazzofjapan.com/archive/in-f) - _Oizumi-gakuen Sta_
-5.  [**Into the Blue**](https://www.jazzofjapan.com/archive/into-the-blue) - _Machida Sta_
+3.  [**Expression**](/expression/) - _Jimbocho Sta_
+4.  [**In F**](/in-f/) - _Oizumi-gakuen Sta_
+5.  [**Into the Blue**](/into-the-blue/) - _Machida Sta_
 6.  **M.J. Smile** - _Kichijoji Sta_
 7.  **No Trunks** - _Kunitachi Sta_
 8.  **Staccato** - _Asagaya Sta_
-9.  [**Sunny Side**](https://www.jazzofjapan.com/archive/sunny-side) - _Takadanobaba Sta_
+9.  [**Sunny Side**](/sunny-side/) - _Takadanobaba Sta_
 10. **Tokyo Club Meguro** - _Meguro Sta_
 
 **List #7 bonus entry**: Related to **Tokyo Club Meguro** is **Tokyo Club Suidobashi** ([web](https://tokyo-club.com/schedule/?barid=meguro&view=month) [map](https://maps.app.goo.gl/SYaQK398eozkARqT8)), part of the **Tokyo Club** chain. Originally, there were four locations in Meguro, Suidobashi, Hongo-sanchome, and Sendagaya. Note that “Tokyo Club” is spelled out on signs in Kanji characters as 東京倶楽部.
@@ -197,7 +197,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 5.  **Lezard** - _Shibuya Sta_
 6.  **Mars** - _Tawaramachi Sta_
 7.  **Meg** - _Kichijoji Sta_
-8.  [**Natural**](https://www.jazzofjapan.com/archive/natural) - _Mitaka Sta_
+8.  [**Natural**](/natural/) - _Mitaka Sta_
 9.  **Nica’s** - _Machida Sta_
 10. **The Moment** - _Seijogakuen-mae Sta_
 
@@ -215,7 +215,7 @@ _On to the lists! 1, 2, a 1, 2, 3, 4…(5,6,7,8,9,10!)_
 5.  **Dolphy** - _Sakuragicho Sta_
 6.  **Farout** - _Kannai Sta_
 7.  **First** - _Kannai Sta_
-8.  [**Kanmachi 63**](https://www.jazzofjapan.com/archive/kanmachi-63) - _Kannai Sta_
+8.  [**Kanmachi 63**](/kanmachi-63/) - _Kannai Sta_
 9.  **Venus** - _Kannai Sta_
 10. **Wonder Wall** - _Hiyoshi Sta_
 
@@ -233,7 +233,7 @@ The port city of Yokohama, roughly south of Tokyo, is a jazz hub with a rich his
 3.  **Coquelicot** - _Funabashi Sta_
 4.  **Daphne** - _Kamakura Sta_
 5.  **Ichijo** - _Kamifukuoka Sta_
-6.  [**Nardis**](https://www.jazzofjapan.com/archive/nardis) - _Kashiwa Sta_
+6.  [**Nardis**](/nardis/) - _Kashiwa Sta_
 7.  **Plus Eleven** - _Ageo Sta_
 8.  **Re.Delight** - _Warabi Sta_
 9.  **Sugar Hill** - _Soka Sta_
@@ -411,29 +411,29 @@ Sites with club directories and information about jazz in Japan:
 
 1.  **After Hours** - _Koenji Sta, Tokyo_ ([_web_](http://afterhours1975.com/) [_map_](https://maps.app.goo.gl/ndJRv1HHNsLsTKwf6))
 2.  **Airegin** - _Kannai Sta, Yokohama_ ([_web_](http://www.airegin.yokohama/) [_map_](https://maps.app.goo.gl/iMnzQkdiz72VgGSx9))
-3.  [**Aketa no Mise**](https://www.jazzofjapan.com/archive/aketa-no-mise) - _Nishi-ogikubo Sta, Tokyo_ ([_web_](http://www.aketa.org/) [_map_](https://maps.app.goo.gl/Jcith9dPnrXGgDd29))
-4.  [**Alfie**](https://www.jazzofjapan.com/archive/alfie) - _Roppongi Sta, Tokyo_ ([_web_](http://alfie.tokyo/) [_map_](https://goo.gl/maps/zRJC3noVBR2VSv1R6))
-5.  [**All of Me**](https://www.jazzofjapan.com/archive/all-of-me) - _Roppongi Sta, Tokyo_ ([_web_](https://allofmeclub.net/) [_map_](https://goo.gl/maps/qXRVNNMVGG2jv1aS6))
-6.  [**Apollo**](https://www.jazzofjapan.com/archive/apollo) - _Shimo-kitazawa Sta, Tokyo_ ([_web_](https://www.apollonoise.com/) [_map_](https://goo.gl/maps/Z1C1bxS6TXTvGyZcA))
+3.  [**Aketa no Mise**](/aketa-no-mise/) - _Nishi-ogikubo Sta, Tokyo_ ([_web_](http://www.aketa.org/) [_map_](https://maps.app.goo.gl/Jcith9dPnrXGgDd29))
+4.  [**Alfie**](/alfie/) - _Roppongi Sta, Tokyo_ ([_web_](http://alfie.tokyo/) [_map_](https://goo.gl/maps/zRJC3noVBR2VSv1R6))
+5.  [**All of Me**](/all-of-me/) - _Roppongi Sta, Tokyo_ ([_web_](https://allofmeclub.net/) [_map_](https://goo.gl/maps/qXRVNNMVGG2jv1aS6))
+6.  [**Apollo**](/apollo/) - _Shimo-kitazawa Sta, Tokyo_ ([_web_](https://www.apollonoise.com/) [_map_](https://goo.gl/maps/Z1C1bxS6TXTvGyZcA))
 7.  **Apple** - _Kannai Sta, Yokohama_ ([_web_](https://blog.goo.ne.jp/jazzlivebar_apple) [_map_](https://maps.app.goo.gl/5hrRwpzQcAbBnhqN9))
-8.  [**Apple Jump**](https://www.jazzofjapan.com/archive/apple-jump) - _Ikebukuro Sta, Tokyo_ ([_web_](http://applejump.net/) [_map_](https://maps.app.goo.gl/QKkb15TfxoM5VK4S6))
-9.  [**B-flat**](https://www.jazzofjapan.com/archive/b-flat) - _Akasaka Sta, Tokyo_ ([_web_](https://bflat.yamano-music.co.jp/) [_map_](https://maps.app.goo.gl/LtBuTeeXxPS85dwc8))
+8.  [**Apple Jump**](/apple-jump/) - _Ikebukuro Sta, Tokyo_ ([_web_](http://applejump.net/) [_map_](https://maps.app.goo.gl/QKkb15TfxoM5VK4S6))
+9.  [**B-flat**](/b-flat/) - _Akasaka Sta, Tokyo_ ([_web_](https://bflat.yamano-music.co.jp/) [_map_](https://maps.app.goo.gl/LtBuTeeXxPS85dwc8))
 10. **Back in Time** - _Koiwa Sta, Tokyo_ ([_web_](http://backintime.diary.to/) [_map_](https://maps.app.goo.gl/PABv5THRecLhPfVv7))
 11. **Bar Bar Bar** - _Kannai Sta, Yokohama_ ([_web_](http://www.barbarbar.jp/) [_map_](https://maps.app.goo.gl/LaXacr8e57FmwKQs7))
-12. [**Barbra**](https://www.jazzofjapan.com/archive/barbra) - _Ginza Sta, Tokyo_ ([_web_](https://ginza-barbra.com/) [_map_](https://goo.gl/maps/3TYvp6DhKQtGLcp26))
+12. [**Barbra**](/barbra/) - _Ginza Sta, Tokyo_ ([_web_](https://ginza-barbra.com/) [_map_](https://goo.gl/maps/3TYvp6DhKQtGLcp26))
 13. **Billboard Live Tokyo** - _Roppongi Sta, Tokyo_ ([_web_](http://www.billboard-live.com/pg/shop/index.php?mode=top&shop=1) [_map_](https://maps.app.goo.gl/qDtGsDbw4psuFXnu9))
-14. [**Birdland**](https://www.jazzofjapan.com/archive/birdland) - _Kitasenju Sta, Tokyo_ ([_web_](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html) [_map_](https://goo.gl/maps/drgMW2AnAsXY1U3Z6))
+14. [**Birdland**](/birdland/) - _Kitasenju Sta, Tokyo_ ([_web_](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html) [_map_](https://goo.gl/maps/drgMW2AnAsXY1U3Z6))
 15. **Blue Note Place** - _Ebisu Sta, Tokyo_ ([_web_](https://www.bluenoteplace.jp/) [_map_](https://maps.app.goo.gl/RFBXK93GHgMZrzeU8))
-16. [**Blue Note Tokyo**](https://www.jazzofjapan.com/archive/blue-note-tokyo) - _Omotesando Sta, Tokyo_ ([_web_](https://www.bluenote.co.jp/jp/) [_map_](https://maps.app.goo.gl/7Ndbz5pJyP3ViWjt7))
+16. [**Blue Note Tokyo**](/blue-note-tokyo/) - _Omotesando Sta, Tokyo_ ([_web_](https://www.bluenote.co.jp/jp/) [_map_](https://maps.app.goo.gl/7Ndbz5pJyP3ViWjt7))
 17. **Bluesette** - _Hakuraku Sta, Yokohama_ ([_web_](https://blues-ette.com/) [_map_](https://maps.app.goo.gl/LxjNABoizabJ8yno6))
-18. [**Body &amp; Soul**](https://www.jazzofjapan.com/archive/body-and-soul) - _Shibuya Sta, Tokyo_ ([_web_](https://www.bodyandsoul.co.jp/) [_map_](https://goo.gl/maps/Wh8Cri54nGLFWVeC6))
-19. [**Bon Courage**](https://www.jazzofjapan.com/archive/bon-courage) - _Yotsuya Sta, Tokyo_ ([_web_](https://bon-courage.tokyo/) [_map_](https://maps.app.goo.gl/JBEjhHP82RqaDjZV6))
-20. [**Cafe Beulmans**](https://www.jazzofjapan.com/archive/cafe-beulmans) - _Seijogakuen-mae Sta, Tokyo_ ([_web_](https://cafebeulmans.com/) [_map_](https://goo.gl/maps/Aw7WKoHRBvCjF5Kn9))
+18. [**Body &amp; Soul**](/body-and-soul/) - _Shibuya Sta, Tokyo_ ([_web_](https://www.bodyandsoul.co.jp/) [_map_](https://goo.gl/maps/Wh8Cri54nGLFWVeC6))
+19. [**Bon Courage**](/bon-courage/) - _Yotsuya Sta, Tokyo_ ([_web_](https://bon-courage.tokyo/) [_map_](https://maps.app.goo.gl/JBEjhHP82RqaDjZV6))
+20. [**Cafe Beulmans**](/cafe-beulmans/) - _Seijogakuen-mae Sta, Tokyo_ ([_web_](https://cafebeulmans.com/) [_map_](https://goo.gl/maps/Aw7WKoHRBvCjF5Kn9))
 21. **Cafe Clair** - _Nishi-arai Sta, Tokyo_ ([_web_](http://clair.cafe.coocan.jp/) [_map_](https://maps.app.goo.gl/EJ3FHczBSEH4uU7m6))
 22. **Candy** - _Inage Sta, Chiba_ ([_web_](http://blog.livedoor.jp/jazzspotcandy/) [_map_](https://maps.app.goo.gl/neK67uTMnGbgFG8o9))
 23. **Cielnage** - _Tokyo Sta, Tokyo_ ([_web_](https://cielnage.jp/cielnage/) [_map_](https://maps.app.goo.gl/yTbXbPMC1zythseP9))
 24. **Club T** - _Roppongi Sta, Tokyo_ ([_web_](http://www.clubt220.com/) [_map_](https://maps.app.goo.gl/435vssQjiyW3uNKc7))
-25. [**Cochi**](https://www.jazzofjapan.com/archive/cochi) - _Koiwa Sta, Tokyo_ ([_web_](http://www.jazz-cochi.com) [_map_](https://goo.gl/maps/p1qvVio7ZLWceChZA))
+25. [**Cochi**](/cochi/) - _Koiwa Sta, Tokyo_ ([_web_](http://www.jazz-cochi.com) [_map_](https://goo.gl/maps/p1qvVio7ZLWceChZA))
 26. **Coffee Bigaku** - _Gakugei-daigaku Sta, Tokyo_ ([_web_](https://www.coffeebigaku.com/) [_map_](https://maps.app.goo.gl/VnLgHCykU1ACs82c8))
 27. **Cooljojo** - _Moto-yawata Sta, Chiba_ ([_web_](https://www.cooljojo.tokyo/) [_map_](https://maps.app.goo.gl/CMwLfeB7fhrJbMRP8))
 28. **Coquelicot** - _Funabashi Sta, Chiba_ ([_web_](https://coquelicot-jazz.com/) [_map_](https://maps.app.goo.gl/5kWCvuxDGsqHQNmw6))
@@ -442,73 +442,73 @@ Sites with club directories and information about jazz in Japan:
 31. **Daphne** - _Kamakura Sta, Kamakura_ ([_web_](http://jazz-daphne.jp/) [_map_](https://maps.app.goo.gl/3KhKd4HKK6vrPa8v9))
 32. **Darling** - _Asakusa Sta, Tokyo_ ([_web_](http://live-darling.com/) [_map_](https://maps.app.goo.gl/MN7jbJUq4LUU5rRPA))
 33. **Dolphy** - _Sakuragicho Sta, Yokohama_ ([_web_](http://www.dolphy-jazzspot.com/) [_map_](https://maps.app.goo.gl/tKvPJ56a9pXLRjsx6))
-34. [**Donfan**](https://www.jazzofjapan.com/archive/donfan) - _Otsuka Sta, Tokyo_ ([_web_](https://www.jazzdonfan.com/) [_map_](https://goo.gl/maps/HfKCCtE5b7kHiQzbA))
-35. [**Expression**](https://www.jazzofjapan.com/archive/expression) - _Jimbocho Sta, Tokyo_ ([_web_](https://expression-jimbocho.jp/) [_map_](https://maps.app.goo.gl/HmwL13C4zvh6fMMJ6))
+34. [**Donfan**](/donfan/) - _Otsuka Sta, Tokyo_ ([_web_](https://www.jazzdonfan.com/) [_map_](https://goo.gl/maps/HfKCCtE5b7kHiQzbA))
+35. [**Expression**](/expression/) - _Jimbocho Sta, Tokyo_ ([_web_](https://expression-jimbocho.jp/) [_map_](https://maps.app.goo.gl/HmwL13C4zvh6fMMJ6))
 36. **Farout** - _Kannai Sta, Yokohama_ ([_web_](https://www.facebook.com/jazz.farout) [_map_](https://maps.app.goo.gl/RAkHw5aPhtMBaZDW7))
 37. **First** - _Kannai Sta, Yokohama_ ([_web_](https://jazz-first.com/) [_map_](https://maps.app.goo.gl/z1rLiQi4oGbPodkCA))
 38. **Galleria Caffe U_U** - _Myogadani Sta, Tokyo_ ([_web_](https://cafe.u-u.cc/) [_map_](https://maps.app.goo.gl/JGBxtYxjxqkdDejQ8))
-39. [**Gate One**](https://www.jazzofjapan.com/archive/gate-one) - _Takadanobaba Sta, Tokyo_ ([_web_](http://www.jazzgateone.com/) [_map_](https://maps.app.goo.gl/gXJRnsMsxmtuwANw6))
+39. [**Gate One**](/gate-one/) - _Takadanobaba Sta, Tokyo_ ([_web_](http://www.jazzgateone.com/) [_map_](https://maps.app.goo.gl/gXJRnsMsxmtuwANw6))
 40. **Ichijo** - _Kamifukuoka Sta, Saitama_ ([_web_](https://ichijou-live.com/) [_map_](https://maps.app.goo.gl/HFShabuYEiLKhECM8))
-41. [**In F**](https://www.jazzofjapan.com/archive/in-f) - _Oizumi-gakuen Sta, Tokyo_ ([_web_](https://in-f.live/site/) [_map_](https://maps.app.goo.gl/JCf8URy9M8c89dWr7))
-42. [**Independence**](https://www.jazzofjapan.com/archive/independence) - _Ikebukuro Sta, Tokyo_ ([_web_](http://jazz-independence.com/) [_map_](https://goo.gl/maps/1EvguUcTeBedSnMV8))
-43. [**Into the Blue**](https://www.jazzofjapan.com/archive/into-the-blue) - _Machida Sta, Tokyo_ ([_web_](http://intotheblue.info/) [_map_](https://goo.gl/maps/C8u4y5hN3uZfAs67A))
-44. [**Intro**](https://www.jazzofjapan.com/archive/intro) - _Takadanobaba Sta, Tokyo_ ([_web_](https://jazzspot.intro.co.jp/) [_map_](https://goo.gl/maps/Anw6TTTyBteFPyWMA))
+41. [**In F**](/in-f/) - _Oizumi-gakuen Sta, Tokyo_ ([_web_](https://in-f.live/site/) [_map_](https://maps.app.goo.gl/JCf8URy9M8c89dWr7))
+42. [**Independence**](/independence/) - _Ikebukuro Sta, Tokyo_ ([_web_](http://jazz-independence.com/) [_map_](https://goo.gl/maps/1EvguUcTeBedSnMV8))
+43. [**Into the Blue**](/into-the-blue/) - _Machida Sta, Tokyo_ ([_web_](http://intotheblue.info/) [_map_](https://goo.gl/maps/C8u4y5hN3uZfAs67A))
+44. [**Intro**](/intro/) - _Takadanobaba Sta, Tokyo_ ([_web_](https://jazzspot.intro.co.jp/) [_map_](https://goo.gl/maps/Anw6TTTyBteFPyWMA))
 45. **Izumi** - _Roppongi Sta, Tokyo_ ([_web_](https://www.izumi-jazz.com/) [_map_](https://maps.app.goo.gl/j5oaCK1JLXBn8e8a6))
-46. [**JZ Brat**](https://www.jazzofjapan.com/archive/jz-brat) - _Shibuya Sta, Tokyo_ ([_web_](https://www.jzbrat.com/) [_map_](https://goo.gl/maps/apkKkdsNUyY9mcpn6))
+46. [**JZ Brat**](/jz-brat/) - _Shibuya Sta, Tokyo_ ([_web_](https://www.jzbrat.com/) [_map_](https://goo.gl/maps/apkKkdsNUyY9mcpn6))
 47. **Jammin'** - _Toritsu-daigaku Sta, Tokyo_ ([_web_](http://www.jammin-meguro.sakura.ne.jp/) [_map_](https://maps.app.goo.gl/yVzv2m7AgUrszqEo8))
-48. [**Jazz Bird**](https://www.jazzofjapan.com/archive/jazz-bird) - _Omotesando Sta, Tokyo_ ([_web_](https://jazzbird.tokyo/) [_map_](https://goo.gl/maps/GybUU9a26G3xPFpFA))
+48. [**Jazz Bird**](/jazz-bird/) - _Omotesando Sta, Tokyo_ ([_web_](https://jazzbird.tokyo/) [_map_](https://goo.gl/maps/GybUU9a26G3xPFpFA))
 49. **Jesse James** - _Tachikawa Sta, Tokyo_ ([_web_](http://jessejames-tachikawa.music.coocan.jp/) [_map_](https://maps.app.goo.gl/gMX2jtdRLJ7eDUKs8))
-50. [**Kanmachi 63**](https://www.jazzofjapan.com/archive/kanmachi-63) - _Kannai Sta, Yokohama_ ([_web_](http://kanmachi63.blog.fc2.com/) [_map_](https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5))
+50. [**Kanmachi 63**](/kanmachi-63/) - _Kannai Sta, Yokohama_ ([_web_](http://kanmachi63.blog.fc2.com/) [_map_](https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5))
 51. **Keystone Club** - _Roppongi Sta, Tokyo_ ([_web_](https://keystoneclubtokyo.com/html/) [_map_](https://maps.app.goo.gl/ATE7GWxkbHTgmZfB8))
 52. **Kin No Tsubo** - _Yoga Sta, Tokyo_ ([_web_](http://kintsubo.jp/) [_map_](https://maps.app.goo.gl/oDHhizLa4rzLKwkf9))
 53. **Kiri** - _Ginza Sta, Tokyo_ ([_web_](https://jazzbar-kiri.jimdofree.com/) [_map_](https://maps.app.goo.gl/a2DpCfVc8wysvqDj9))
-54. [**Klavier**](https://www.jazzofjapan.com/archive/klavier/) - _Asagaya Sta, Tokyo_ ([_web_](http://www2.tbb.t-com.ne.jp/klavier/www/) [_map_](https://maps.app.goo.gl/AjEXCmwfdq4paog78))
-55. [**Knuttel House**](https://www.jazzofjapan.com/archive/knuttel-house) - _Asakusa Sta, Tokyo_ ([_web_](https://knuttelhouse.com/) [_map_](https://goo.gl/maps/QT7k3i5WPeHH8ndP9))
+54. [**Klavier**](/klavier/) - _Asagaya Sta, Tokyo_ ([_web_](http://www2.tbb.t-com.ne.jp/klavier/www/) [_map_](https://maps.app.goo.gl/AjEXCmwfdq4paog78))
+55. [**Knuttel House**](/knuttel-house/) - _Asakusa Sta, Tokyo_ ([_web_](https://knuttelhouse.com/) [_map_](https://goo.gl/maps/QT7k3i5WPeHH8ndP9))
 56. **Ko-ko** - _Shibuya Sta, Tokyo_ ([_web_](https://jazz-koko.com/) [_map_](https://maps.app.goo.gl/yhLtKRMUQMgbLbcy9))
-57. [**Koen-Dori Classics**](https://www.jazzofjapan.com/archive/koen-dori-classics) - _Shibuya Sta, Tokyo_ ([_web_](http://koendoriclassics.com/) [_map_](https://maps.app.goo.gl/s5XtxuwwMhzCATwv9))
-58. [**Kohaku**](https://www.jazzofjapan.com/archive/kohaku) - _Shibuya Sta, Tokyo_ ([_web_](https://www.udagawacafe.com/kohaku/) [_map_](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9))
+57. [**Koen-Dori Classics**](/koen-dori-classics/) - _Shibuya Sta, Tokyo_ ([_web_](http://koendoriclassics.com/) [_map_](https://maps.app.goo.gl/s5XtxuwwMhzCATwv9))
+58. [**Kohaku**](/kohaku/) - _Shibuya Sta, Tokyo_ ([_web_](https://www.udagawacafe.com/kohaku/) [_map_](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9))
 59. **Lezard** - _Shibuya Sta, Tokyo_ ([_web_](https://www.lezard-daikanyama.com/) [_map_](https://maps.app.goo.gl/JG13a7ZFRwMjnR8Y8))
 60. **M.J. Smile** - _Kichijoji Sta, Tokyo_ ([_web_](https://www.mjsmile.com/) [_map_](https://maps.app.goo.gl/UAuN2ifDdV16FqAB7))
-61. [**Manhattan**](https://www.jazzofjapan.com/archive/manhattan/) - _Asagaya Sta, Tokyo_ ([_web_](http://www.ateliermw.com/manhattan/) [_map_](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA))
+61. [**Manhattan**](/manhattan/) - _Asagaya Sta, Tokyo_ ([_web_](http://www.ateliermw.com/manhattan/) [_map_](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA))
 62. **Mars** - _Tawaramachi Sta, Tokyo_ ([_web_](https://jazz-bar-mars.com/) [_map_](https://maps.app.goo.gl/KjxSnM6sdRMyHBDK6))
 63. **Meg** - _Kichijoji Sta, Tokyo_ ([_web_](http://otokichi-meg.net/) [_map_](https://maps.app.goo.gl/SpC2YAaXzV5dBJnw8))
-64. [**Nardis**](https://www.jazzofjapan.com/archive/nardis) - _Kashiwa Sta, Kashiwa_ ([_web_](http://knardis.com/) [_map_](https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8))
-65. [**Naru**](https://www.jazzofjapan.com/archive/naru) - _Ochanomizu Sta, Tokyo_ ([_web_](http://ocha-naru.com/) [_map_](https://maps.app.goo.gl/kPfEyFtbnvdbD1sS7))
-66. [**Natural**](https://www.jazzofjapan.com/archive/natural) - _Mitaka Sta, Tokyo_ ([_web_](https://musicsalon-natural.jp/) [_map_](https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6))
+64. [**Nardis**](/nardis/) - _Kashiwa Sta, Kashiwa_ ([_web_](http://knardis.com/) [_map_](https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8))
+65. [**Naru**](/naru/) - _Ochanomizu Sta, Tokyo_ ([_web_](http://ocha-naru.com/) [_map_](https://maps.app.goo.gl/kPfEyFtbnvdbD1sS7))
+66. [**Natural**](/natural/) - _Mitaka Sta, Tokyo_ ([_web_](https://musicsalon-natural.jp/) [_map_](https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6))
 67. **New York Bar** - _Shinjuku Sta, Tokyo_ ([_web_](https://restaurants.tokyo.park.hyatt.co.jp/newyorkbar/) [_map_](https://maps.app.goo.gl/NaZegbehpHaiX3ev9))
 68. **Nica’s** - _Machida Sta, Tokyo_ ([_web_](http://nicas.html.xdomain.jp/) [_map_](https://maps.app.goo.gl/Hmp4UZPYkK4QsqRw7))
-69. [**No Room for Squares**](https://www.jazzofjapan.com/archive/no-room-for-squares) - _Shimo-kitazawa Sta, Tokyo_ ([_web_](https://www.nrfsbar.com/) [_map_](https://goo.gl/maps/tNkFNk2yR6EnPtyX9))
+69. [**No Room for Squares**](/no-room-for-squares/) - _Shimo-kitazawa Sta, Tokyo_ ([_web_](https://www.nrfsbar.com/) [_map_](https://goo.gl/maps/tNkFNk2yR6EnPtyX9))
 70. **No Trunks** - _Kunitachi Sta, Tokyo_ ([_web_](https://notrunks.jp/) [_map_](https://maps.app.goo.gl/aetLefTVHBSu3qNS6))
-71. [**On A Slow Boat To…**](https://www.jazzofjapan.com/archive/on-a-slow-boat-to) - _Jimbocho Sta, Tokyo_ ([_web_](https://slwboat.com/) [_map_](https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8))
-72. [**P's Bar**](https://www.jazzofjapan.com/archive/ps-bar) - _Ikebukuro Sta, Tokyo_ ([_web_](https://psbar.net/) [_map_](https://goo.gl/maps/DLC2nmUgpRHJC5hj9))
-73. [**Paco**](https://www.jazzofjapan.com/archive/paco) - _Kojimachi Sta, Tokyo_ ([_web_](http://jazzspotpaco.blog100.fc2.com/) [_map_](https://goo.gl/maps/NhZBvkY4Mm5BxjCk8))
-74. [**Pit Inn**](https://www.jazzofjapan.com/archive/pit-inn) - _Shinjuku-sanchome Sta, Tokyo_ ([_web_](http://www.pit-inn.com/) [_map_](https://maps.app.goo.gl/B7t44H9dhWCd2ekH6))
+71. [**On A Slow Boat To…**](/on-a-slow-boat-to/) - _Jimbocho Sta, Tokyo_ ([_web_](https://slwboat.com/) [_map_](https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8))
+72. [**P's Bar**](/ps-bar/) - _Ikebukuro Sta, Tokyo_ ([_web_](https://psbar.net/) [_map_](https://goo.gl/maps/DLC2nmUgpRHJC5hj9))
+73. [**Paco**](/paco/) - _Kojimachi Sta, Tokyo_ ([_web_](http://jazzspotpaco.blog100.fc2.com/) [_map_](https://goo.gl/maps/NhZBvkY4Mm5BxjCk8))
+74. [**Pit Inn**](/pit-inn/) - _Shinjuku-sanchome Sta, Tokyo_ ([_web_](http://www.pit-inn.com/) [_map_](https://maps.app.goo.gl/B7t44H9dhWCd2ekH6))
 75. **Plus Eleven** - _Ageo Sta, Saitama_ ([_web_](https://www.pluseleven-ageo.com/) [_map_](https://maps.app.goo.gl/BsSdDMAonMwuD7tt8))
-76. [**Polka Dots**](https://www.jazzofjapan.com/archive/polka-dots) - _Shinjuku-sanchome Sta, Tokyo_ ([_web_](http://www.jazz-polkadots.com/) [_map_](https://goo.gl/maps/rv5vBeoQ3iQbW7Rx8))
-77. [**Porto**](https://www.jazzofjapan.com/archive/porto) - _Nippori Sta, Tokyo_ ([_web_](http://barporto.cocolog-nifty.com/) [_map_](https://goo.gl/maps/vnbQVPxV7v5MnGTn7))
+76. [**Polka Dots**](/polka-dots/) - _Shinjuku-sanchome Sta, Tokyo_ ([_web_](http://www.jazz-polkadots.com/) [_map_](https://goo.gl/maps/rv5vBeoQ3iQbW7Rx8))
+77. [**Porto**](/porto/) - _Nippori Sta, Tokyo_ ([_web_](http://barporto.cocolog-nifty.com/) [_map_](https://goo.gl/maps/vnbQVPxV7v5MnGTn7))
 78. **Rakuya** - _Naka-meguro Sta, Tokyo_ ([_web_](https://www.rakuya.asia/) [_map_](https://maps.app.goo.gl/RAjogmeHFjGm2weu9))
 79. **Re.Delight** - _Warabi Sta, Saitama_ ([_web_](https://redelight.jp/) [_map_](https://maps.app.goo.gl/XtfRQJFaD8kL6Tfe7))
-80. [**Salt Peanuts**](https://www.jazzofjapan.com/archive/salt-peanuts) - _Ekoda Sta, Tokyo_ ([_web_](https://saltpeanuts.jp/) [_map_](https://maps.app.goo.gl/1jy49ehuvGVD3rjz8))
-81. [**Someday**](https://www.jazzofjapan.com/archive/someday) - _Asakusa/Tawaramachi Sta, Tokyo_ ([_web_](http://someday.net/) [_map_](https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7))
-82. [**Sometime**](https://www.jazzofjapan.com/archive/sometime) - _Kichijoji Sta, Tokyo_ ([_web_](https://www.sometime.co.jp/sometime/) [_map_](https://maps.app.goo.gl/6o4VFztnHDWpVZGa9))
-83. [**Soultrane**](https://www.jazzofjapan.com/archive/soultrane) - _Asakusa Sta, Tokyo_ ([_web_](https://soultrane.jp/) [_map_](https://goo.gl/maps/FetvnRf2yCTkUQez7))
+80. [**Salt Peanuts**](/salt-peanuts/) - _Ekoda Sta, Tokyo_ ([_web_](https://saltpeanuts.jp/) [_map_](https://maps.app.goo.gl/1jy49ehuvGVD3rjz8))
+81. [**Someday**](/someday/) - _Asakusa/Tawaramachi Sta, Tokyo_ ([_web_](http://someday.net/) [_map_](https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7))
+82. [**Sometime**](/sometime/) - _Kichijoji Sta, Tokyo_ ([_web_](https://www.sometime.co.jp/sometime/) [_map_](https://maps.app.goo.gl/6o4VFztnHDWpVZGa9))
+83. [**Soultrane**](/soultrane/) - _Asakusa Sta, Tokyo_ ([_web_](https://soultrane.jp/) [_map_](https://goo.gl/maps/FetvnRf2yCTkUQez7))
 84. **Staccato** - _Asagaya Sta, Tokyo_ ([_web_](https://a-staccato.com/) [_map_](https://maps.app.goo.gl/SYvX7M2tzxzJy83QA))
-85. [**Strings**](https://www.jazzofjapan.com/archive/strings) - _Kichijoji Sta, Tokyo_ ([_web_](http://www.jazz-strings.com/) [_map_](https://maps.app.goo.gl/DxQzSjvfz9HhnPbX6))
+85. [**Strings**](/strings/) - _Kichijoji Sta, Tokyo_ ([_web_](http://www.jazz-strings.com/) [_map_](https://maps.app.goo.gl/DxQzSjvfz9HhnPbX6))
 86. **Sugar Hill** - _Soka Sta, Saitama_ ([_web_](http://www.sugarhill.jp/) [_map_](https://maps.app.goo.gl/dYGiEYoZZD2d1eFy8))
-87. [**Sunny Side**](https://www.jazzofjapan.com/archive/sunny-side) - _Takadanobaba Sta, Tokyo_ ([_web_](http://www.sunny-side.jp/) [_map_](https://maps.app.goo.gl/c3BDXUZibsBtLncz6))
+87. [**Sunny Side**](/sunny-side/) - _Takadanobaba Sta, Tokyo_ ([_web_](http://www.sunny-side.jp/) [_map_](https://maps.app.goo.gl/c3BDXUZibsBtLncz6))
 88. **Swan** - _Shin-tokorozawa Sta, Saitama_ ([_web_](http://swan.o.oo7.jp/) [_map_](https://maps.app.goo.gl/mKN2v6WB3GfHHe2TA))
-89. [**Sweet Rain**](https://www.jazzofjapan.com/archive/sweet-rain) - _Nakano Sta, Tokyo_ ([_web_](http://jazzsweetrain.com/) [_map_](https://maps.app.goo.gl/Zjt2FT9kcF7taMSf6))
-90. [**Ginza Swing**](https://www.jazzofjapan.com/archive/ginza-swing/) - _Ginza Sta, Tokyo_ ([_web_](http://ginzaswing.jp/) [_map_](https://maps.app.goo.gl/K3CNhgADfxsyowh76))
-91. [**The Deep**](https://www.jazzofjapan.com/archive/the-deep) - _Ginza Sta, Tokyo_ ([_web_](https://jazz-thedeep.com/) [_map_](https://goo.gl/maps/iCGjmYzcJ1TnkLcj9))
+89. [**Sweet Rain**](/sweet-rain/) - _Nakano Sta, Tokyo_ ([_web_](http://jazzsweetrain.com/) [_map_](https://maps.app.goo.gl/Zjt2FT9kcF7taMSf6))
+90. [**Ginza Swing**](/ginza-swing/) - _Ginza Sta, Tokyo_ ([_web_](http://ginzaswing.jp/) [_map_](https://maps.app.goo.gl/K3CNhgADfxsyowh76))
+91. [**The Deep**](/the-deep/) - _Ginza Sta, Tokyo_ ([_web_](https://jazz-thedeep.com/) [_map_](https://goo.gl/maps/iCGjmYzcJ1TnkLcj9))
 92. **The Moment** - _Seijogakuen-mae Sta, Tokyo_ ([_web_](https://themoment.tokyo/) [_map_](https://maps.app.goo.gl/57WdkEN12FEH4HBk9))
-93. [**Thelonious**](https://www.jazzofjapan.com/archive/thelonious) - _Higashi-nakano Sta, Tokyo_ ([_web_](https://thelonious-hp.jimdofree.com/) [_map_](https://maps.app.goo.gl/uwQm138qQ5RsMqDs6))
+93. [**Thelonious**](/thelonious/) - _Higashi-nakano Sta, Tokyo_ ([_web_](https://thelonious-hp.jimdofree.com/) [_map_](https://maps.app.goo.gl/uwQm138qQ5RsMqDs6))
 94. **Tokyo Club Meguro** - _Meguro Sta, Tokyo_ ([_web_](https://tokyo-club.com/schedule/?barid=meguro&view=month) [_map_](https://maps.app.goo.gl/SYaQK398eozkARqT8))
-95. [**Velera**](https://www.jazzofjapan.com/archive/velera/) - _Akasaka-mitsuke Sta, Tokyo_ ([_web_](http://velera.tokyo/) [_map_](https://maps.app.goo.gl/VaVAUimqvbkNYTJ37))
-96. [**Velvet Sun**](https://www.jazzofjapan.com/archive/velvet-sun) - _Ogikubo Sta, Tokyo_ ([_web_](http://www.velvetsun.jp/) [_map_](https://maps.app.goo.gl/AVGAMKrjVta4HitX9))
+95. [**Velera**](/velera/) - _Akasaka-mitsuke Sta, Tokyo_ ([_web_](http://velera.tokyo/) [_map_](https://maps.app.goo.gl/VaVAUimqvbkNYTJ37))
+96. [**Velvet Sun**](/velvet-sun/) - _Ogikubo Sta, Tokyo_ ([_web_](http://www.velvetsun.jp/) [_map_](https://maps.app.goo.gl/AVGAMKrjVta4HitX9))
 97. **Venus** - _Kannai Sta, Yokohama_ ([_web_](https://www.venus-hk-j.com/) [_map_](https://maps.app.goo.gl/BxnP6eGB3nmsexeY7))
 98. **Wonder Wall** - _Hiyoshi Sta, Yokohama_ ([_web_](https://wonderwall-yokohama.jp/) [_map_](https://maps.app.goo.gl/CGChHveUHdnxxAnC8))
-99. [**Yoyogi Naru**](https://www.jazzofjapan.com/archive/yoyogi-naru) - _Yoyogi Sta, Tokyo_ ([_web_](https://yoyogi-naru.com/) [_map_](https://goo.gl/maps/SAesdJqcATu5dYCJA))
-100. [**Zimagine**](https://www.jazzofjapan.com/archive/zimagine) - _Omotesando Sta, Tokyo_ ([_web_](http://zimagine.genonsha.co.jp/) [_map_](https://goo.gl/maps/5ZbpKVjBr5y8JBdWA))
+99. [**Yoyogi Naru**](/yoyogi-naru/) - _Yoyogi Sta, Tokyo_ ([_web_](https://yoyogi-naru.com/) [_map_](https://goo.gl/maps/SAesdJqcATu5dYCJA))
+100. [**Zimagine**](/zimagine/) - _Omotesando Sta, Tokyo_ ([_web_](http://zimagine.genonsha.co.jp/) [_map_](https://goo.gl/maps/5ZbpKVjBr5y8JBdWA))
 
 ---
 

@@ -3,10 +3,10 @@ title = "Velvet Sun"
 author = ["Brian McCrory"]
 description = "Velvet Sun jazz club, located near Ogikubo and Asagaya stations in Tokyo, Japan"
 publishDate = 2025-01-29
-keywords = ["velvet-sun"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "velvet-sun"
 issue = 289
 [cover]
   image = "L1240615-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 289
   relative = true
 +++
 
-Velvet Sun is a music spot in the Ogikubo neighborhood off the Chuo train line in Tokyo. This is a train route that has been called the “Jazz Line” for a number of live spots and jazz stops along its stations, such as Kichijoji’s [Sometime](https://www.jazzofjapan.com/archive/sometime), Asagaya’s Manhattan, Koenji’s After Hours, Nakano’s [Sweet Rain](https://www.jazzofjapan.com/archive/sweet-rain), and Shinjuku’s many great spots like [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn) and [Polka Dots](https://www.jazzofjapan.com/archive/polka-dots).
+Velvet Sun is a music spot in the Ogikubo neighborhood off the Chuo train line in Tokyo. This is a train route that has been called the “Jazz Line” for a number of live spots and jazz stops along its stations, such as Kichijoji’s [Sometime](/sometime/), Asagaya’s Manhattan, Koenji’s After Hours, Nakano’s [Sweet Rain](/sweet-rain/), and Shinjuku’s many great spots like [Pit Inn](/pit-inn/) and [Polka Dots](/polka-dots/).
 
 {{< figure src="IMG_20240510_205939608-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Motohiko Ichino (guitar) and Takashi Sugawa (bass) at Velvet Sun in May 2024" link="IMG_20240510_205939608-1200.jpeg" >}}
 

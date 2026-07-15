@@ -34,9 +34,9 @@ An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effecti
 
 ## M by Masako Kunisada
 
--   [Masako Kunisada](/tags/masako-kunisada) - vocal
--   [Manabu Ohishi](/tags/manabu-ohishi) - all instruments, arrangements
--   [M-oto](/tags/m-oto) - human beat box (tracks #2, 4, 5, 7)
+-   [Masako Kunisada](/tags/masako-kunisada/) - vocal
+-   [Manabu Ohishi](/tags/manabu-ohishi/) - all instruments, arrangements
+-   [M-oto](/tags/m-oto/) - human beat box (tracks #2, 4, 5, 7)
 
 Released in 2014 on Masaki Kunisada as M.
 

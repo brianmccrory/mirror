@@ -50,12 +50,12 @@ Finally released, the long-awaited first album from Brazilian music lover Rio Os
 
 ## Rio by Rio Osawa
 
--   [Rio Osawa](/tags/rio-osawa) - vocal
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar (#1, 2, 4, 5, 6)
--   [Gustavo Anacleto](/tags/gustavo-anacleto) - soprano sax, flute, voice (#1, 2, 4, 5)
--   [Francis Silva](/tags/francis-silva) - percussion, voice (#1, 2, 4, 5)
--   [Norihito Nagasawa](/tags/norihito-nagasawa) - guitar (#3) (from Momijin)
--   [Matsumonica](/tags/matsumonica) - chromatic harmonica (#3) (from Momijin)
+-   [Rio Osawa](/tags/rio-osawa/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar (#1, 2, 4, 5, 6)
+-   [Gustavo Anacleto](/tags/gustavo-anacleto/) - soprano sax, flute, voice (#1, 2, 4, 5)
+-   [Francis Silva](/tags/francis-silva/) - percussion, voice (#1, 2, 4, 5)
+-   [Norihito Nagasawa](/tags/norihito-nagasawa/) - guitar (#3) (from Momijin)
+-   [Matsumonica](/tags/matsumonica/) - chromatic harmonica (#3) (from Momijin)
 
 Released in 2021 on Noel Records as NR-001.
 

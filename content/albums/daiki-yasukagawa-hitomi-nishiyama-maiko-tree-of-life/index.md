@@ -31,9 +31,9 @@ There are eight original songs, four from Nishiyama and two each from Yasukagawa
 
 ## The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko
 
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [maiko](/tags/maiko) - violin
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [maiko](/tags/maiko/) - violin
 
 Released in 2019 on Daiki Musica D-neo as DNCD-18.
 

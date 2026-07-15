@@ -26,9 +26,9 @@ Buoyed by guitar chords and trumpet improvisation, Sakai’s voice emotes cleanl
 
 ## Whisper Not by Layla Tomomi Sakai
 
--   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
--   [Ryuichi Takase](/tags/ryuichi-takase) - trumpet
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet
 
 Released in 2016 on Sakai Layla Tomomi as 1.
 

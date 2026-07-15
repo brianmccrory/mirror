@@ -3,10 +3,10 @@ title = "Sweet Rain"
 author = ["Brian McCrory"]
 description = "Sweet Rain jazz club, located near Nakano station in Tokyo, Japan"
 publishDate = 2024-10-16
-keywords = ["sweet-rain"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "sweet-rain"
 issue = 270
 [cover]
   image = "IMG_20181025_213656820_BURST000_COVER-1200.jpeg"

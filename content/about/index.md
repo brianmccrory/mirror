@@ -10,7 +10,7 @@ draft = false
 {{< figure src="intro-jazz-1024.jpeg" alt="Intro to Jazz of Japan" >}}
 
 
-## Welcome to Jazz of Japan {#welcome-to-jazz-of-japan}
+## Welcome to Jazz of Japan
 
 This site is dedicated to showcasing modern jazz albums from Japan and Japanese musicians.
 
@@ -19,7 +19,7 @@ On **Jazz of Japan**, my motivation is to provide straightforward descriptions o
 In addition to albums, in some articles I also explore the world of Japanese jazz in real jazz bars, clubs, and live spots in Japan.
 
 
-## Subscribe to the newsletter {#subscribe-to-the-newsletter}
+## Subscribe to the newsletter
 
 By subscribing to the newsletter, you won’t have to worry about missing anything. Each new edition goes directly to your inbox, and you can unsubscribe or resubscribe easily at any time.
 
@@ -28,14 +28,14 @@ By subscribing to the newsletter, you won’t have to worry about missing anythi
 ---
 
 
-## About this site {#about-this-site}
+## About this site
 
 **Jazz of Japan** is an email newsletter with a website archive at [www.jazzofjapan.com](https://www.jazzofjapan.com).
 
-You can view, browse, and search the website for free and without an account. And, if this topic appeals to you, you can also sign up for the free newsletter to get updates in your email. There’s also a [premium membership](https://www.jazzofjapan.com/archive/support/) available to upgrade your subscription for extra updates and to support my work here.
+You can view, browse, and search the website for free and without an account. And, if this topic appeals to you, you can also sign up for the free newsletter to get updates in your email. There’s also a [premium membership](/support/) available to upgrade your subscription for extra updates and to support my work here.
 
 
-## About the albums {#about-the-albums}
+## About the albums
 
 The album articles relate to jazz albums from Japan and are free and readable by all. Subscribers to the newsletter will get an email each time a new article is published.
 
@@ -44,7 +44,7 @@ I strive to make each article brief but descriptive: a straightforward overview 
 The focus of each article is on the music itself with the goal of sharing it with a wider audience. In most cases, these are modern-day albums from current musicians who are still playing in Japan and can be seen at live performances.
 
 
-## About the clubs {#about-the-clubs}
+## About the clubs
 
 In addition to albums, I also write about live jazz venues including clubs, bars, cafes, and similar places in Japan. For both albums and clubs, all of the information is gathered first-hand through my direct experience, and all photos were taken by me (excluding official album cover art images).
 
@@ -53,7 +53,7 @@ These club articles are mostly about specific venues in Japan, and also occasion
 ---
 
 
-## Q&amp;A {#q-and-a}
+## Q&amp;A
 
 _**What’s this site about?**_
 
@@ -65,7 +65,7 @@ Search the archive, or check the [Index](https://about.jazzofjapan.com/indexes/)
 
 _**How can I find albums with vocals, solo piano, violin, bossa nova, subgenres...**_
 
-You can search the archive for keywords like “[straight ahead](https://www.jazzofjapan.com/archive/?q=straight%20ahead)”, “[bebop](https://www.jazzofjapan.com/archive/?q=bebop)”, “[solo piano](https://www.jazzofjapan.com/archive/?q=solo%20piano)”, “[violin](https://www.jazzofjapan.com/archive/?q=violin)”,  “[vocals](https://www.jazzofjapan.com/archive/?q=vocals)”, “[bossa nova](https://www.jazzofjapan.com/archive/?q=bossa%20nova)”, “[Brazilian](https://www.jazzofjapan.com/archive/?q=Brazilian)”, etc.
+You can search the archive for keywords like straight ahead, bebop, solo piano, violin, vocals, bossa nova, Brazilian, etc.
 
 _**Where can I buy these CDs?**_
 
@@ -73,7 +73,7 @@ Check the Japanese sites for [HMV](https://www.hmv.co.jp/), [Amazon](https://www
 
 _**What’s J Jazz?**_
 
-Japanese Jazz (see [[What’s J Jazz?](https://www.jazzofjapan.com/archive/whats-j-jazz/) for more). An early version of this website and newsletter was named **J Jazz**.
+Japanese Jazz (see [[What’s J Jazz?](/whats-j-jazz/) for more). An early version of this website and newsletter was named **J Jazz**.
 
 _**Where are the albums by ... ?**_
 

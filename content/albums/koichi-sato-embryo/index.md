@@ -61,15 +61,15 @@ On disc 2, a guitar/piano/bass/drums quartet plays #11 “Hua” followed by #12
 
 ## Embryo by Koichi Sato
 
--   [Koichi Sato](/tags/koichi-sato) - piano, compositions, arrangements
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
--   [Masaki Kai](/tags/masaki-kai) - bass (Disc 2: #1, 7, 8, 9, 11)
--   [Shinya Fukumori](/tags/shinya-fukumori) - drums (Disc 2: #1, 2, 7, 8, 9, 11)
--   [Aya Ito](/tags/aya-ito) - violin (Disc 2: #4, 6, 7, 8)
--   [Yuko Kajitani](/tags/yuko-kajitani) - violin (Disc 2: #6, 7, 8)
--   [Atsuki Yoshida](/tags/atsuki-yoshida) - viola (Disc 2: #6, 7, 8)
--   [Robin Dupuy](/tags/robin-dupuy) - cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)
--   [Zeze Wakamatsu](/tags/zeze-wakamatsu) - soundscape (Disc 2: #4)
+-   [Koichi Sato](/tags/koichi-sato/) - piano, compositions, arrangements
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
+-   [Masaki Kai](/tags/masaki-kai/) - bass (Disc 2: #1, 7, 8, 9, 11)
+-   [Shinya Fukumori](/tags/shinya-fukumori/) - drums (Disc 2: #1, 2, 7, 8, 9, 11)
+-   [Aya Ito](/tags/aya-ito/) - violin (Disc 2: #4, 6, 7, 8)
+-   [Yuko Kajitani](/tags/yuko-kajitani/) - violin (Disc 2: #6, 7, 8)
+-   [Atsuki Yoshida](/tags/atsuki-yoshida/) - viola (Disc 2: #6, 7, 8)
+-   [Robin Dupuy](/tags/robin-dupuy/) - cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)
+-   [Zeze Wakamatsu](/tags/zeze-wakamatsu/) - soundscape (Disc 2: #4)
 
 Released in 2021 on Nagalu as NAGALU-003/004.
 

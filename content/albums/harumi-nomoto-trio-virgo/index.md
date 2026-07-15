@@ -34,11 +34,11 @@ Plenty of peaceful space is also offered and balances the energy well, with the 
 
 ## Virgo by Harumi Nomoto Trio
 
--   [Harumi Nomoto](/tags/harumi-nomoto) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
--   [Makiko Sugawara](/tags/makiko-sugawara) - violin (track #8)
--   [Nao Sakamoto](/tags/nao-sakamoto) - Chromasomus/prepared guitar (track #8)
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+-   [Makiko Sugawara](/tags/makiko-sugawara/) - violin (track #8)
+-   [Nao Sakamoto](/tags/nao-sakamoto/) - Chromasomus/prepared guitar (track #8)
 
 Released in 2014 on Okra Record as MIKO-1009.
 

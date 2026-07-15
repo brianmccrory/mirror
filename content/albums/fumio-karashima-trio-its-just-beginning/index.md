@@ -30,9 +30,9 @@ Three of Karashima’s originals are also included, with a funky Herbie Hancock-
 
 ## It’s Just Beginning by Fumio Karashima Trio
 
--   [Fumio Karashima](/tags/fumio-karashima) - piano
--   [Yosuke Inoue](/tags/yosuke-inoue) - bass
--   [Shingo Okudaira](/tags/shingo-okudaira) - drums
+-   [Fumio Karashima](/tags/fumio-karashima/) - piano
+-   [Yosuke Inoue](/tags/yosuke-inoue/) - bass
+-   [Shingo Okudaira](/tags/shingo-okudaira/) - drums
 
 Released in 2004 on Pit Inn Music as VACM-1240.
 

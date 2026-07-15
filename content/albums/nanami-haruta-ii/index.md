@@ -14,7 +14,7 @@ related = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-h
   relative = true
 +++
 
-Trombonist Nanami Haruta’s debut release _II_ from 2022 is another great example of new jazz albums from new players that keep flowing to the hands and ears of eager fans. Haruta, a young player who has been making an impact in the Japanese jazz scene, has been frequently featured as both leader and guest member at various live shows. In addition to this debut, she has also participated in other recent recordings such as _[64 Charlesgate](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-64-charlesgate)_ (2022) and _[For My Lady](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for)_ (2023).
+Trombonist Nanami Haruta’s debut release _II_ from 2022 is another great example of new jazz albums from new players that keep flowing to the hands and ears of eager fans. Haruta, a young player who has been making an impact in the Japanese jazz scene, has been frequently featured as both leader and guest member at various live shows. In addition to this debut, she has also participated in other recent recordings such as _[64 Charlesgate](/akihiro-yoshimoto-quartet-64-charlesgate/)_ (2022) and _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ (2023).
 
 {{< figure src="L1230371x-1024.jpeg" link="L1230371x-1024.jpeg" >}}
 
@@ -51,7 +51,7 @@ Which led me to ask Nanami, “Why don’t you make an album?” At first, she d
 
 And, Yoshiaki Masuo. It goes without saying that Masuo is a world-class jazz guitarist. He even owns a studio in New York and has been involved in producing jazz music for twenty years. Having listened to Masuo’s guitar countless times and assisting him with performance activities in Japan, I thought I would love to play a part in his music production as well. I asked him to help, but Masuo’s stay in Japan was short and he was busy with live events at the time, so he had to firmly decline…at first. But after repeated requests, he agreed to help. And this was the moment that this project took on even more depth and substance.
 
-First of all, the album concept. It was to be “The milestone of 20 years of age, with gratitude to the mentors who supported me in my hometown of Sapporo.” We started out focusing on slow ballad standards. After several meetings, we decided to focus on original songs. [For her ballad-centered album, see _[For My Lady](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for)_ from 2023.] Nanami Haruta’s “1965” became the first song on the album, and Akihiro Yoshimoto (tenor sax) graciously supplied three songs.
+First of all, the album concept. It was to be “The milestone of 20 years of age, with gratitude to the mentors who supported me in my hometown of Sapporo.” We started out focusing on slow ballad standards. After several meetings, we decided to focus on original songs. [For her ballad-centered album, see _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ from 2023.] Nanami Haruta’s “1965” became the first song on the album, and Akihiro Yoshimoto (tenor sax) graciously supplied three songs.
 
 Next, the members. Nanami assembled some of the best young players in the world of young jazz today: Akihiro Yoshimoto (tenor sax), Mayuko Katakura (piano), Takumi Awaya (bass), and Shun Ishiwaka (drums). And in search of the best sound quality, we visited several Tokyo recording studios equipped with pianos. In the end, through introductions from Masami (Sam) Toyoshima (豊島政美), who designed the Beatles’ famous Abbey Road Studios and Victor Studios, we ended up recording at Victor’s Aoyama Studio.
 
@@ -66,11 +66,11 @@ Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 
 ## II by Nanami Haruta
 
--   [Nanami Haruta](/tags/nanami-haruta) - trombone
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Takumi Awaya](/tags/takumi-awaya) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
 
 Released in 2022 on Media Stylist as MSC-9020.
 

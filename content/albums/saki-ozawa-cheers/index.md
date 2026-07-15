@@ -50,11 +50,11 @@ In addition to two famous jazz standards, the songs include her blues number “
 
 ## Cheers! by Saki Ozawa
 
--   [Saki Ozawa](/tags/saki-ozawa) - piano
--   [Koji Yasuda](/tags/koji-yasuda) - bass (tracks #1, 4, 5, 7)
--   [Takumi Awaya](/tags/takumi-awaya) - bass (tracks #2, 6, 8, 9, 10)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums
--   [Ema](/tags/ema) - vocal (#7)
+-   [Saki Ozawa](/tags/saki-ozawa/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass (tracks #1, 4, 5, 7)
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass (tracks #2, 6, 8, 9, 10)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
+-   [Ema](/tags/ema/) - vocal (#7)
 
 Released in 2023 on ReBorn Wood as RBW-0027.
 

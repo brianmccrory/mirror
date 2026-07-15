@@ -3,10 +3,10 @@ title = "Organ Jazz Club Abecafe"
 author = ["Brian McCrory"]
 description = "Organ Jazz Club Abecafe, located near Numabukuro Station in Tokyo, Japan"
 publishDate = 2025-10-30
-keywords = ["organ-jazz-club-abecafe"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "organ-jazz-club-abecafe"
 issue = 334
 [cover]
   image = "IMG_20251004_203751695_HDR-1200.jpeg"

@@ -94,7 +94,7 @@ This song was written during the civil rights movement, and it must have become 
 
 ## Little Girl Blue by Akane Matsumoto
 
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
 
 Released in 2022 on Concept Records as CR-14.
 

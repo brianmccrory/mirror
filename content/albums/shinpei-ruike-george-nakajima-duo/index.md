@@ -18,7 +18,7 @@ _Duo_ is the latest album from trumpeter Shinpei Ruike and pianist George Nakaji
 
 {{< figure src="L1230241x-1024.jpeg" link="L1230241x-1024.jpeg" >}}
 
-Like their previous release _[N.40°](https://www.jazzofjapan.com/archive/shinpei-ruike-george-nakajima-n40)_ (a reference to their mutual hometown of Hachinohe), the music on _Duo_ is atmospheric, moody, and mostly dark. The sound of Ruike’s trumpet is extremely evocative and textured. Like colors from a paint pallet, he mixes tones from husky to muted to bell-clear as his inspiration unfolds. Layers of emotion surface and mingle in his trumpet sound, as captivating as an audible patina cultivated through age and exposure like the surface of a brass horn.
+Like their previous release _[N.40°](/shinpei-ruike-george-nakajima-n40/)_ (a reference to their mutual hometown of Hachinohe), the music on _Duo_ is atmospheric, moody, and mostly dark. The sound of Ruike’s trumpet is extremely evocative and textured. Like colors from a paint pallet, he mixes tones from husky to muted to bell-clear as his inspiration unfolds. Layers of emotion surface and mingle in his trumpet sound, as captivating as an audible patina cultivated through age and exposure like the surface of a brass horn.
 
 Perhaps influenced by their bonded background, the flow and time sensitivity between Ruike and pianist Nakajima seems innately linked. The two musicians have a sense of how to slightly stretch and subtly bend time as they play, yet they lock into rhythms naturally, without falling off the tracks.
 
@@ -46,8 +46,8 @@ Shinpei Ruike
 
 ## Duo by Shinpei Ruike &amp; George Nakajima
 
--   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
--   [George Nakajima](/tags/george-nakajima) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [George Nakajima](/tags/george-nakajima/) - piano
 
 Released in 2022 on Core Port as RPOL-10012.
 

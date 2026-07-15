@@ -34,9 +34,9 @@ As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the wa
 
 ## Belinda by Harumi Nomoto Trio
 
--   [Harumi Nomoto](/tags/harumi-nomoto) - piano, Fender Rhodes electric piano
--   [Noboru Ando](/tags/noboru-ando) - bass
--   [Daisuke Yoshioka](/tags/daisuke-yoshioka) - drums
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano, Fender Rhodes electric piano
+-   [Noboru Ando](/tags/noboru-ando/) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
 
 Released in 2007 on Anturtle Tune/BQ Records as BQR-2040.
 

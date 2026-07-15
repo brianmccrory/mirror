@@ -32,9 +32,9 @@ Opening with atmospheric space, unhurried and patient, the modern sound develops
 
 ## Kanmai by Daiki Yasukagawa Trio
 
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
 
 Released in 2012 on D-Neo Daiki Musica as DNCD-01.
 

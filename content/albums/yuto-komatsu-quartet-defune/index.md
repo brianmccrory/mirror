@@ -104,10 +104,10 @@ I had thought that bursts were things that happened in the world of F1. Then, on
 
 ## Defune by Yuto Komatsu Quartet
 
--   [Yuto Komatsu](/tags/yuto-komatsu) - trumpet, flugelhorn
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
--   [Daisuke Ijichi](/tags/daisuke-ijichi) - bass
--   [Makoto Rikitake](/tags/makoto-rikitake) - drums
+-   [Yuto Komatsu](/tags/yuto-komatsu/) - trumpet, flugelhorn
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Daisuke Ijichi](/tags/daisuke-ijichi/) - bass
+-   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
 
 Released in 2025 on YK Offshore as “02”.
 

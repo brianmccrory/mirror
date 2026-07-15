@@ -3,10 +3,10 @@ title = "Our Delight"
 author = ["Brian McCrory"]
 description = "Our Delight jazz club, located near Warabi station in Tokyo, Japan"
 publishDate = 2023-05-13
-keywords = ["our-delight"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "our-delight"
 issue = 161
 [cover]
   image = "IMG_20170210_210301-1024.jpeg"

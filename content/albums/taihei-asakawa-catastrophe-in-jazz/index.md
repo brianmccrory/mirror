@@ -38,9 +38,9 @@ With virtuosity and compositional strength on display, the care and attention de
 
 ## Catastrophe in Jazz by Taihei Asakawa
 
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
--   [Shinichi Kato](/tags/shinichi-kato) - bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, compositions
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
 
 Released in 2011 on Roving Spirits as RKCJ-2046.
 

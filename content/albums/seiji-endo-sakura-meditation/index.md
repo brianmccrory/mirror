@@ -87,7 +87,7 @@ With his delicate and rich tone colors and performances with a strong sense of s
 
 ## Sakura Meditation by Seiji Endo
 
--   [Seiji Endo](/tags/seiji-endo) - piano, composition
+-   [Seiji Endo](/tags/seiji-endo/) - piano, composition
 
 Released in 2012 on Concordia as CONR-002.
 

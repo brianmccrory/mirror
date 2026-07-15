@@ -30,9 +30,9 @@ Right from the opening track “Offer Refused”, Kim’s impressive hummingbird
 
 ## Open the Green Door by Hakuei Kim Trio
 
--   [Hakuei Kim](/tags/hakuei-kim) - piano
--   [Ben “Donny” Waples](/tags/ben-donny-waples) - double bass
--   [Dave Goodman](/tags/dave-goodman) - drums and percussion
+-   [Hakuei Kim](/tags/hakuei-kim/) - piano
+-   [Ben “Donny” Waples](/tags/ben-donny-waples/) - double bass
+-   [Dave Goodman](/tags/dave-goodman/) - drums and percussion
 
 Released in 2005 on DIW Records as DIW-631.
 

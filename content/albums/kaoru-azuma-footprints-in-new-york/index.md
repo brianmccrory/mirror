@@ -67,12 +67,12 @@ Here is an ambitious release from up-and-coming vocalist Kaoru Azuma, joined by 
 
 ## Footprints in New York by Kaoru Azuma
 
--   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
--   [Scott Reeves](/tags/scott-reeves) - alto flugelhorn &amp; trombone (track #6)
--   [Mike Holober](/tags/mike-holober) - piano
--   [Jesse Forest](/tags/jesse-forest) - guitar
--   [Robinson Morse](/tags/robinson-morse) - bass
--   [Paolo Orlandi](/tags/paolo-orlandi) - drums
+-   [Kaoru Azuma](/tags/kaoru-azuma/) - vocal
+-   [Scott Reeves](/tags/scott-reeves/) - alto flugelhorn &amp; trombone (track #6)
+-   [Mike Holober](/tags/mike-holober/) - piano
+-   [Jesse Forest](/tags/jesse-forest/) - guitar
+-   [Robinson Morse](/tags/robinson-morse/) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi/) - drums
 
 Released in 2008 on River East Music as REM-1002.
 

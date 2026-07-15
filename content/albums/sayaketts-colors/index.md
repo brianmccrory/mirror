@@ -30,9 +30,9 @@ About half of the 13 songs on this album are upbeat, funky, and energized with t
 
 ## Colors by Sayaketts
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano, Rhodes, keyboards, pianica
--   [Satoshi Kohno](/tags/satoshi-kohno) - electric bass
--   [Yoshihiro Nakagawa](/tags/yoshihiro-nakagawa) - drums
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, Rhodes, keyboards, pianica
+-   [Satoshi Kohno](/tags/satoshi-kohno/) - electric bass
+-   [Yoshihiro Nakagawa](/tags/yoshihiro-nakagawa/) - drums
 
 Released in 2009 on Sayaketts as SKTS-001.
 

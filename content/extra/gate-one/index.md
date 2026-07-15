@@ -3,10 +3,10 @@ title = "Gate One"
 author = ["Brian McCrory"]
 description = "Gate One jazz club, located near Takadanobaba station in Tokyo, Japan"
 publishDate = 2024-08-27
-keywords = ["gate-one"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "gate-one"
 issue = 259
 [cover]
   image = "P1050151x-1200.jpeg"
@@ -19,7 +19,7 @@ Tokyo’s Gate One is a classic neighborhood jazz bar, a local favorite for jazz
 
 {{< figure src="P1040775x-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Tomoka Miwa (vocal) with George Nakajima (piano), Satoshi Kosugi (bass), and Yudo Matsuo (guitar) at Gate One in 2010" link="P1040775x-1200.jpeg" >}}
 
-Ever warm and friendly, the guitarist and singer brightened up the tiny room as proprietors, performers, and simply lovely people to sit next to while enjoying the music. When not working or hanging out here, owner Mariko Kajiwara can also be found singing at spots in Tokyo like [Polka Dots](https://www.jazzofjapan.com/archive/polka-dots), [Sometime](https://www.jazzofjapan.com/archive/sometime), and others.
+Ever warm and friendly, the guitarist and singer brightened up the tiny room as proprietors, performers, and simply lovely people to sit next to while enjoying the music. When not working or hanging out here, owner Mariko Kajiwara can also be found singing at spots in Tokyo like [Polka Dots](/polka-dots/), [Sometime](/sometime/), and others.
 
 The musical acts at Gate One are typically vocalist-led shows, such as piano or guitar-based duos and trios featuring regular vocalists leading the band on most days. Instrumental combos are sprinkled in from time to time. On nights when a piano trio is the featured act, bar owner Mariko may even join the band for a few tunes, singing jazz standards like those featured on her CD [_Pitter Patter_](https://youtu.be/mS75JqRfNCI).
 

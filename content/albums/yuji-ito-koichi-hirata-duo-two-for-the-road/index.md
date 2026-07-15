@@ -45,10 +45,10 @@ In general, there’s a happy, relaxed feel that runs through the tracks. Three 
 
 ## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo
 
--   [Yuji Ito](/tags/yuji-ito) - bass
--   [Koichi Hirata](/tags/koichi-hirata) - guitar
--   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (tracks #5, 9)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums (tracks #4, 5)
+-   [Yuji Ito](/tags/yuji-ito/) - bass
+-   [Koichi Hirata](/tags/koichi-hirata/) - guitar
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (tracks #5, 9)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums (tracks #4, 5)
 
 Released in 2024 on NONET as NONET-3.
 

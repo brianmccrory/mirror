@@ -28,12 +28,12 @@ Trumpeter Miki Hirose’s _Scratch_ from 2013 sizzles with energy, fueled by imp
 
 ## Scratch by Miki Hirose
 
--   [Miki Hirose](/tags/miki-hirose) - trumpet &amp; flugelhorn
--   [Xavier Perez](/tags/xavier-perez) - tenor sax
--   [Toru Dodo](/tags/toru-dodo) - piano, Fender Rhodes
--   [Aiden O’Donnell](/tags/aiden-odonnell) - bass
--   [Jerome Jennings](/tags/jerome-jennings) - drums
--   [Mauricio Herrera](/tags/mauricio-herrera) - congas (#1, 3, 4)
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet &amp; flugelhorn
+-   [Xavier Perez](/tags/xavier-perez/) - tenor sax
+-   [Toru Dodo](/tags/toru-dodo/) - piano, Fender Rhodes
+-   [Aiden O’Donnell](/tags/aiden-odonnell/) - bass
+-   [Jerome Jennings](/tags/jerome-jennings/) - drums
+-   [Mauricio Herrera](/tags/mauricio-herrera/) - congas (#1, 3, 4)
 
 Released in 2013 on Jazz Lab Records as JLR-1301.
 

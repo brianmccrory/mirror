@@ -61,10 +61,10 @@ _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calenda
 
 ## Tranquillo by Miwo
 
--   [MIWO](/tags/miwo) - vocal
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Akira Sekine](/tags/akira-sekine) - guitar
+-   [MIWO](/tags/miwo/) - vocal
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Akira Sekine](/tags/akira-sekine/) - guitar
 
 Released in 2020 on Musica Fortunata as MF-001.
 

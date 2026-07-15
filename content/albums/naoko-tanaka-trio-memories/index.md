@@ -32,11 +32,11 @@ From the first track “Sailing” a bracing, uplifting mood is established, exp
 
 ## Memories by Naoko Tanaka Trio
 
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
--   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet (tr. #6, 8)
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass (tr. #9)
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet (tr. #6, 8)
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass (tr. #9)
 
 Released in 2015 on D-neo Daiki Musica as DNCD-05.
 

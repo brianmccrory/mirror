@@ -148,10 +148,10 @@ As an arranger for strings, she’s worked on songs by m-flo, TOKU, and others, 
 
 ## Project-N by Noriko Satomi
 
--   [Noriko Satomi](/tags/noriko-satomi) - violin
--   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
--   [Kunio Oinuma](/tags/kunio-oinuma) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka) - drums
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Masaaki Imaizumi](/tags/masaaki-imaizumi/) - piano
+-   [Kunio Oinuma](/tags/kunio-oinuma/) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
 
 Released in 2017 on Altered Records as ALTVN-1001.
 

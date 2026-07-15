@@ -30,9 +30,9 @@ With nine original songs spanning jazz-rock, soft ballads, and a light EST and B
 
 ## Trispace by Trispace
 
--   [Yuichi Hayashi](/tags/yuichi-hayashi) - Piano, Composition
--   [Morihiro Omura](/tags/morihiro-omura) - bass
--   [Yoshitaka Yamashita](/tags/yoshitaka-yamashita) - drums
+-   [Yuichi Hayashi](/tags/yuichi-hayashi/) - Piano, Composition
+-   [Morihiro Omura](/tags/morihiro-omura/) - bass
+-   [Yoshitaka Yamashita](/tags/yoshitaka-yamashita/) - drums
 
 Released in 2010 on Leccia Records / feel free products as LRTR-0004.
 

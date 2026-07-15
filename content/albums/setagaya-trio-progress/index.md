@@ -48,9 +48,9 @@ They released their first album _Introducing Setagaya Trio_ in 2017, which was f
 
 ## Progress by Setagaya Trio
 
--   [Yusei Takahashi](/tags/yusei-takahashi) - piano
--   [Keigo Iwami](/tags/keigo-iwami) - bass
--   [Sota Kira](/tags/sota-kira) - drums
+-   [Yusei Takahashi](/tags/yusei-takahashi/) - piano
+-   [Keigo Iwami](/tags/keigo-iwami/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
 
 Released in 2024 on Setagaya Trio as Progress.
 

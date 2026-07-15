@@ -24,8 +24,8 @@ Pianist Sayaki Kishi and cellist Mayumi Sano released their first album together
 
 ## Asymmetry by Arco
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
--   [Mayumi Sano](/tags/mayumi-sano) - cello
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano/) - cello
 
 Released in 2017 on dandanorchestra as DAN-007.
 

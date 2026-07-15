@@ -3,10 +3,10 @@ title = "A-Un"
 author = ["Brian McCrory"]
 description = "A-Un jazz club, located near Shinjuku and Nishi-shinjuku stations in Tokyo, Japan (permanently closed)"
 publishDate = 2023-06-03
-keywords = ["a-un"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "a-un"
 issue = 175
 [cover]
   image = "IMG_0589-1024.jpeg"

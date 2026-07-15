@@ -34,10 +34,10 @@ Alongside these are songs with more direct titles, such as “Standing There”,
 
 ## Music in You by Hitomi Nishiyama Trio
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor sax (#12)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax (#12)
 
 Released in 2011 on Meantone Records as MT-002.
 

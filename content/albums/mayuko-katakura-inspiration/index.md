@@ -28,9 +28,9 @@ In addition to speed, Katakura’s confident jazz piano sense extends to bluesy 
 
 ## Inspiration by Mayuko Katakura
 
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
--   [Carl Allen](/tags/carl-allen) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Yasushi Nakamura](/tags/yasushi-nakamura/) - bass
+-   [Carl Allen](/tags/carl-allen/) - drums
 
 Released in 2009 on Pony Canyon as MYCJ-30554.
 

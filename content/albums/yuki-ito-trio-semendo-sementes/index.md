@@ -20,7 +20,7 @@ _Semendo Sementes_ is a jazz piano trio album from bassist Yuki Ito released in 
 
 The seven songs included on this album are modern sounding with straight-beat and brushed swing feels. Most songs are in the 9- to 12-minute range, and there is plenty of space for the soloists to explore their improvisations and raise the thrill levels (or deepen the mistique, as the case may be) while the trio propels forward as a group. Most of the solos here feature Yanagihara on piano and Ito on bass, but drummer Kimura also gets a few spots where he trades measures with the pianist or plays dynamic drum solos over rhythmic vamps. This trio is well-suited to one another, tightly-locked and exciting, and the energy of performing live is a visceral force present in their playing.
 
-Wrapping up the live set is track #7, Ito’s “Hinageshi” with a beautiful melody that also appears on some of her other albums: [_Retattanni no Mori_](https://www.jazzofjapan.com/archive/yuki-ito-retattanni-no-mori) (for solo bass), and [_Shiro o Matoeba_](https://www.jazzofjapan.com/archive/koto-ha-to-shiro-o-matoeba) (“Koto Ha, To” vocal/piano/bass).
+Wrapping up the live set is track #7, Ito’s “Hinageshi” with a beautiful melody that also appears on some of her other albums: [_Retattanni no Mori_](/yuki-ito-retattanni-no-mori/) (for solo bass), and [_Shiro o Matoeba_](/koto-ha-to-shiro-o-matoeba/) (“Koto Ha, To” vocal/piano/bass).
 
 {{< figure src="L1260521x-1200.jpeg" alt="Back cover of Semendo Sementes by Yuki Ito Trio" link="L1260521x-1200.jpeg" >}}
 
@@ -31,9 +31,9 @@ _Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven 
 
 ## Semendo Sementes by Yuki Ito Trio
 
--   [Yuki Ito](/tags/yuki-ito) - bass
--   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
--   [Hiro Kimura](/tags/hiro-kimura) - drums
+-   [Yuki Ito](/tags/yuki-ito/) - bass
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
 
 Released in 2021 on Yuki Ito as YDM-002.
 

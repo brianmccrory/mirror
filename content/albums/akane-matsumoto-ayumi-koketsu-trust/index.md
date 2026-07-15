@@ -18,7 +18,7 @@ _Trust_ is a 2024 release from the duo of pianist Akane Matsumoto and saxophonis
 
 {{< figure src="L1280714x-1200.jpeg" link="L1280714x-1200.jpeg" >}}
 
-Matsumoto and Koketsu’s/ Trust/ includes seven tracks of sax and piano duo arrangements and runs at about 41 minutes. The selection is drawn from material they admire and are very familiar with. This includes some of their favorite songs and composers such as Tom Harrell, Richard Rodgers, Enrico Pieranunzi, and Lee Konitz. Speaking of Konitz, sax player Koketsu has an affinity for and a likeness to alto sax players like Art Pepper and Lee Konitz. One of her albums is simply titled _[Art](https://www.jazzofjapan.com/archive/ayumi-koketsu-art)_, and the Matsumoto/Koketsu duo has been known to play certain tunes from the Lee Konitz/Lennie Tristano cool jazz repertoire including “Subconscious-Lee”, “Wow”, and Konitz’s “Stephanie”, which opens this album.
+Matsumoto and Koketsu’s/ Trust/ includes seven tracks of sax and piano duo arrangements and runs at about 41 minutes. The selection is drawn from material they admire and are very familiar with. This includes some of their favorite songs and composers such as Tom Harrell, Richard Rodgers, Enrico Pieranunzi, and Lee Konitz. Speaking of Konitz, sax player Koketsu has an affinity for and a likeness to alto sax players like Art Pepper and Lee Konitz. One of her albums is simply titled _[Art](/ayumi-koketsu-art/)_, and the Matsumoto/Koketsu duo has been known to play certain tunes from the Lee Konitz/Lennie Tristano cool jazz repertoire including “Subconscious-Lee”, “Wow”, and Konitz’s “Stephanie”, which opens this album.
 
 Full videos for three of the album’s tracks are available online (#1 “Stephanie”, #2 “Border Line”, and #4 “Chet”) and show the actual performance recording made for this album, and the three other videos feature the duo in an equally captivating live setting (links to the videos are included below).
 
@@ -79,8 +79,8 @@ A twelve-year path walked together, carefully listening to and harmonizing with 
 
 ## Trust by Akane Matsumoto &amp; Ayumi Koketsu
 
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - saxophone
 
 Released in 2024 on Concept Record as CR-18.
 

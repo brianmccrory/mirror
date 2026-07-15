@@ -18,7 +18,7 @@ _The Word_ (2025) is the second collaboration album from guitarist Davy Mooney a
 
 {{< figure src="L1300066x-1200.jpeg" link="L1300066x-1200.jpeg" >}}
 
-From first track, Omura’s “Sheep Wash”, you can immediately sense the great balance of dynamic energy and relaxed sweetness. The song’s bright swing and memorable melody initially seems simple but contains the subtle complexity of unexpected turns and rhythmic shifts. These qualities are found in all the superb writing and playing from Omura and Mooney, and the songs end up being finely crafted realizations of straight singable melodies that also act as reference ground for solo improvisations. While Omura plays drums on this first track, his devoted study to Indian tabla and music seem to be ingrained in his musical thinking as well, more so when he plays tabla and picks titles from Sanskrit words and concepts. (A different version of Omura’s “Sheep Wash” can be heard on [Fe: Live at Virtuoso](https://www.jazzofjapan.com/archive/fe-live-at-virtuoso).)
+From first track, Omura’s “Sheep Wash”, you can immediately sense the great balance of dynamic energy and relaxed sweetness. The song’s bright swing and memorable melody initially seems simple but contains the subtle complexity of unexpected turns and rhythmic shifts. These qualities are found in all the superb writing and playing from Omura and Mooney, and the songs end up being finely crafted realizations of straight singable melodies that also act as reference ground for solo improvisations. While Omura plays drums on this first track, his devoted study to Indian tabla and music seem to be ingrained in his musical thinking as well, more so when he plays tabla and picks titles from Sanskrit words and concepts. (A different version of Omura’s “Sheep Wash” can be heard on [Fe: Live at Virtuoso](/fe-live-at-virtuoso/).)
 
 While co-leaders Mooney and Omura showcase guitar and drums respectively and write all the music, solos from the other musicians on sax, piano, and bass are also highlighted. The sound and playing of these members’ improvised solos are rounded more than acute, pervading more than intruding, and elevate the entire group to a higher level. Mooney’s electric guitar sound in particular is pure warmth and glows with the clear sound of strings and wood as he channels his introspective ideas fluidly with an easy confidence through his fingers.
 
@@ -60,11 +60,11 @@ More album notes and song explanations for _The Word_ are available on Mooney’
 
 ## The Word by Davy Mooney &amp; Ko Omura
 
--   [Davy Mooney](/tags/davy-mooney) - guitar
--   [Ko Omura](/tags/ko-omura) - drums, tabla (#7, 9)
--   [John Ellis](/tags/john-ellis) - tenor &amp; soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)
--   [Glenn Zaleski](/tags/glenn-zaleski) - piano
--   [Matt Clohesy](/tags/matt-clohesy) - bass
+-   [Davy Mooney](/tags/davy-mooney/) - guitar
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla (#7, 9)
+-   [John Ellis](/tags/john-ellis/) - tenor &amp; soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)
+-   [Glenn Zaleski](/tags/glenn-zaleski/) - piano
+-   [Matt Clohesy](/tags/matt-clohesy/) - bass
 
 Released in 2025 on Sunnyside Communications as SSC-1764.
 

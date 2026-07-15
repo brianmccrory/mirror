@@ -84,9 +84,9 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 
 ## Great Time by Fumio Karashima
 
--   [Fumio Karashima](/tags/fumio-karashima) - piano
--   [Jack DeJohnette](/tags/jack-dejohnette) - drums
--   [Drew Gress](/tags/drew-gress) - bass
+-   [Fumio Karashima](/tags/fumio-karashima/) - piano
+-   [Jack DeJohnette](/tags/jack-dejohnette/) - drums
+-   [Drew Gress](/tags/drew-gress/) - bass
 
 Released in 2006 on Pit Inn Music as VACM-1277.
 

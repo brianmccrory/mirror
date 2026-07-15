@@ -20,7 +20,7 @@ I’m always excited to get my hands and ears on a new release from pianist Mayu
 
 The album’s eight tracks consist of seven Katakura originals and one cover song to close the set, an instrumental version of singer Abbey Lincoln’s “Being Me.” Karakura’s music is pure trio propulsion, muscular, raw, and risk-taking. Other emotions and impressions generated while listening to this music include the words heavy yet facile, determined and pointed. Whatever the subjective descriptions imply, it’s completely enjoyable, straight-ahead J Jazz coolness.
 
-Track #1, “A Dancer’s Melancholy” (also featured on Katakura’s releases [_Faith_](https://www.jazzofjapan.com/archive/mayuko-katakura-faith) and [_The Echoes of Three_](https://www.jazzofjapan.com/archive/mayuko-katakura-echoes-of-three)) is fantastically rich. #2 “The Duality of My Soul” is adventurously complex. #3 “Merciful Eyes” is a beautiful soft ballad. #4 “Dusk” is a thrilling backward-facing rollercoaster ride in deep groove gear.
+Track #1, “A Dancer’s Melancholy” (also featured on Katakura’s releases [_Faith_](/mayuko-katakura-faith/) and [_The Echoes of Three_](/mayuko-katakura-echoes-of-three/)) is fantastically rich. #2 “The Duality of My Soul” is adventurously complex. #3 “Merciful Eyes” is a beautiful soft ballad. #4 “Dusk” is a thrilling backward-facing rollercoaster ride in deep groove gear.
 
 {{< figure src="L1310877x-1200.jpeg" link="L1310877x-1200.jpeg" >}}
 
@@ -35,9 +35,9 @@ Finally, the last track #8 “Being Me” is a sweet and slow ballad, played wit
 
 ## The Duality of My Soul by Mayuko Katakura
 
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Takumi Awaya](/tags/takumi-awaya) - bass
--   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
 
 Released in 2025 on Mayuko Katakura Music as MKM-001.
 

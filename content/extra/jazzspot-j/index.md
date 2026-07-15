@@ -3,10 +3,10 @@ title = "Jazzspot J"
 author = ["Brian McCrory"]
 description = "Jazzspot J jazz club, located near Shinjuku-Sanchome and Shinjuku-Gyoemmae stations in Tokyo, Japan (permanently closed)"
 publishDate = 2024-09-03
-keywords = ["jazzspot-j"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "jazzspot-j"
 issue = 261
 [cover]
   image = "DSC_5408-1200.jpeg"
@@ -39,9 +39,9 @@ The conventional jazz bar menu included cocktails, drinks, pizzas, pasta, and sn
 
 {{< figure src="IMG_2429-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Jazzspot J, November 2006" link="IMG_2429-1200.jpeg" >}}
 
-Although Jazzspot J closed in 2020 after 41 years of business, memories of special music and nights spent at this jazz haven live on in the hearts of many jazz musicians and fans. Like [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn), another long-lived and much-loved jazz mecca in the Shinjuku area, there was even a [book](https://www.amazon.co.jp/-/en/%E3%83%90%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3%E5%B9%B8%E7%94%B0/dp/4909646086/) written about Jazzspot J and its history.
+Although Jazzspot J closed in 2020 after 41 years of business, memories of special music and nights spent at this jazz haven live on in the hearts of many jazz musicians and fans. Like [Pit Inn](/pit-inn/), another long-lived and much-loved jazz mecca in the Shinjuku area, there was even a [book](https://www.amazon.co.jp/-/en/%E3%83%90%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3%E5%B9%B8%E7%94%B0/dp/4909646086/) written about Jazzspot J and its history.
 
-Finally, one last remaining tribute to Jazzspot J lives on in the form of another physical artifact kept at the younger jazz spot [Kohaku](https://www.jazzofjapan.com/archive/kohaku), where Jazzspot J’s symbolically inscribed bass drum now abides.
+Finally, one last remaining tribute to Jazzspot J lives on in the form of another physical artifact kept at the younger jazz spot [Kohaku](/kohaku/), where Jazzspot J’s symbolically inscribed bass drum now abides.
 
 {{< figure src="P1060314-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Jazzspot J, May 2011" link="P1060314-1200.jpeg" >}}
 

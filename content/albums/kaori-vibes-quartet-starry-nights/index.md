@@ -14,7 +14,7 @@ related = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
   relative = true
 +++
 
-_Starry Nights_ is the latest album from the Kaori Vibes Quartet. This is leader Kaori Nakajima’s third album with her group, following her _[Flying Mind](https://www.jazzofjapan.com/archive/kaori-vibes-quartet-flying-mind)_ and /[Cross Point](https://www.jazzofjapan.com/archive/kaori-vibes-quartet-cross-point) /releases. On her debut album, Nakajima’s quartet previously went by Vangy!!, a charming name that combines the V from vibraphone with an initial from each musician, and decorated with two mallet-like exclamation points… though, four “!!!!” would also work, as Nakajima impressively plays the instrument with two mallets in each hand in the style of famous modern jazz vibists Bobby Hutcherson and Gary Burton.
+_Starry Nights_ is the latest album from the Kaori Vibes Quartet. This is leader Kaori Nakajima’s third album with her group, following her _[Flying Mind](/kaori-vibes-quartet-flying-mind/)_ and /[Cross Point](/kaori-vibes-quartet-cross-point/) /releases. On her debut album, Nakajima’s quartet previously went by Vangy!!, a charming name that combines the V from vibraphone with an initial from each musician, and decorated with two mallet-like exclamation points… though, four “!!!!” would also work, as Nakajima impressively plays the instrument with two mallets in each hand in the style of famous modern jazz vibists Bobby Hutcherson and Gary Burton.
 
 {{< figure src="L1230269x-1024.jpeg" link="L1230269x-1024.jpeg" >}}
 
@@ -78,10 +78,10 @@ At the end of 2020, on the day before my birthday, my beloved grandfather passed
 
 ## Starry Nights by Kaori Vibes Quartet
 
--   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
--   [Tamashi Goto](/tags/tamashi-goto) - piano
--   [Minoru Yoshiki](/tags/minoru-yoshiki) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2021 on Urban Jazz as 151A-0027.
 

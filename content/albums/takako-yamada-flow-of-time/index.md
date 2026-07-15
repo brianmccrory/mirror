@@ -32,12 +32,12 @@ For added variety, a wonderfully plaintive trumpet is present on several tracks 
 
 ## The Flow of Time by Takako Yamada
 
--   [Takako Yamada](/tags/takako-yamada) - piano
--   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
--   [Teriver Cheung](/tags/teriver-cheung) - guitar
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Gaku Hasegawa](/tags/gaku-hasegawa) - drums
--   [Ko Omura](/tags/ko-omura) - tabla, drums
+-   [Takako Yamada](/tags/takako-yamada/) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [Teriver Cheung](/tags/teriver-cheung/) - guitar
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Gaku Hasegawa](/tags/gaku-hasegawa/) - drums
+-   [Ko Omura](/tags/ko-omura/) - tabla, drums
 
 Released in 2013 on GoodNessPlus Records as GNPR-1146.
 

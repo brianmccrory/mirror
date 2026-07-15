@@ -28,11 +28,11 @@ While most of the tracks are straightforward mid-tempo swingers, a few of tunes 
 
 ## Shining Hour by Yako Horikita
 
--   [Yako Horikita](/tags/yako-horikita) - vocal
--   [Takenori Sawaki](/tags/takenori-sawaki) - alto saxophone
--   [Makoto Deguchi](/tags/makoto-deguchi) - piano
--   [Ken Kaneko](/tags/ken-kaneko) - bass
--   [Nobuhiko Yamashita](/tags/nobuhiko-yamashita) - drums
+-   [Yako Horikita](/tags/yako-horikita/) - vocal
+-   [Takenori Sawaki](/tags/takenori-sawaki/) - alto saxophone
+-   [Makoto Deguchi](/tags/makoto-deguchi/) - piano
+-   [Ken Kaneko](/tags/ken-kaneko/) - bass
+-   [Nobuhiko Yamashita](/tags/nobuhiko-yamashita/) - drums
 
 Released in 2017 on Kylym Records as KYLYM-0001.
 

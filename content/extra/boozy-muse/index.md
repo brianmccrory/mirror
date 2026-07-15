@@ -3,10 +3,10 @@ title = "Boozy Muse"
 author = ["Brian McCrory"]
 description = "Boozy Muse jazz club, located near Okubo and Shin-Okubo stations in Tokyo, Japan (permanently closed)"
 publishDate = 2023-07-25
-keywords = ["boozy-muse"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "boozy-muse"
 issue = 190
 [cover]
   image = "L1050863-1024.jpeg"

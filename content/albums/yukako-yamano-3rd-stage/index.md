@@ -28,7 +28,7 @@ Differing from the first two releases, this album focuses on her work as a solo 
 
 ## 3rd Stage by Yukako Yamano
 
--   [Yukako Yamano](/tags/yukako-yamano) - piano
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
 
 Released in 2017 on Yukako Yamano as YKRN-0003.
 

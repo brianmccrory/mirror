@@ -3,10 +3,10 @@ title = "Strings"
 author = ["Brian McCrory"]
 description = "Strings jazz club, located near Kichijoji station in Tokyo, Japan"
 publishDate = 2025-02-27
-keywords = ["strings"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "strings"
 issue = 294
 [cover]
   image = "L1270806x-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 294
   relative = true
 +++
 
-Strings is a friendly jazz bar in Kichijoji, a popular neighborhood just east of Tokyo’s main center known for its beautiful park, shopping, dining, and rich cultural lifestyle. Kichijoji, besides being an attractive neighborhood in its own right, also hosts the popular and well-known jazz club [Sometime](https://www.jazzofjapan.com/archive/sometime), a frequent destination for new and old jazz fans alike. Yet Strings, located a bit off the beaten path, offers its own style and charm for jazz lovers.
+Strings is a friendly jazz bar in Kichijoji, a popular neighborhood just east of Tokyo’s main center known for its beautiful park, shopping, dining, and rich cultural lifestyle. Kichijoji, besides being an attractive neighborhood in its own right, also hosts the popular and well-known jazz club [Sometime](/sometime/), a frequent destination for new and old jazz fans alike. Yet Strings, located a bit off the beaten path, offers its own style and charm for jazz lovers.
 
 {{< figure src="IMG_20230412_193308037-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Yuichi Narita on solo piano at Strings in April 2023" link="IMG_20230412_193308037-1200.jpeg" >}}
 

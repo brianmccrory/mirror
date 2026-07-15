@@ -111,10 +111,10 @@ You’re invited to spend a sublime sophisticated time with mellow singing that 
 
 ## Unaffected by Asuka Watanabe
 
--   [Asuka Watanabe](/tags/asuka-watanabe) - vocal
--   [Hideaki Yoshioka](/tags/hideaki-yoshioka) - piano
--   [Koji Yamashita](/tags/koji-yamashita) - bass
--   [Yoshitaka Uematsu](/tags/yoshitaka-uematsu) - drums
+-   [Asuka Watanabe](/tags/asuka-watanabe/) - vocal
+-   [Hideaki Yoshioka](/tags/hideaki-yoshioka/) - piano
+-   [Koji Yamashita](/tags/koji-yamashita/) - bass
+-   [Yoshitaka Uematsu](/tags/yoshitaka-uematsu/) - drums
 
 Released in 2004 on What’s New Records as WNCJ-2135.
 

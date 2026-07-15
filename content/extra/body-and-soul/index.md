@@ -3,10 +3,10 @@ title = "Body & Soul"
 author = ["Brian McCrory"]
 description = "Body & Soul jazz club, located near Shibuya and Harajuku stations in Tokyo, Japan"
 publishDate = 2023-06-06
-keywords = ["body-and-soul"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "body-and-soul"
 issue = 177
 [cover]
   image = "P1020263-1024.jpeg"

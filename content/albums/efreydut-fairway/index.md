@@ -30,7 +30,7 @@ From Omura’s titles and notes, it’s clear that the drummer puts a lot of tho
 
 His other two songs, #6 “Petrichor” and #8 “Melt Dough”, are down-to-earth appreciations of fine things in life: sensing the richness of transient environments, and gratitude for simply-transformed, delicious food.
 
-A superb thing about Omura’s compositions is that they have a tangible “Ko Omura style”, multi-faceted with boundary-pushing elements. It’s a style also apparent in his music on _[Polyglot Talk, Vol ](https://www.jazzofjapan.com/archive/polyglot-talk-vol-1)1, /his several recordings with [Bungalow](https://www.jazzofjapan.com/archive/bungalow-abstract-messages), and his own leader album /[Introspect](https://www.jazzofjapan.com/archive/ko-omura-introspect)_.
+A superb thing about Omura’s compositions is that they have a tangible “Ko Omura style”, multi-faceted with boundary-pushing elements. It’s a style also apparent in his music on _[Polyglot Talk, Vol ](/polyglot-talk-vol-1/)1, /his several recordings with [Bungalow](/bungalow-abstract-messages/), and his own leader album /[Introspect](/ko-omura-introspect/)_.
 
 {{< figure src="L1240433-1200.jpeg" link="L1240433-1200.jpeg" >}}
 
@@ -121,9 +121,9 @@ In the field of economics, it refers to the liquidity of value. This song was wr
 
 ## Fairway by eFreydut
 
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
--   [Ko Omura](/tags/ko-omura) - drumset, tabla
--   [Kanoa Mendenhall](/tags/kanoa-mendenhall) - bass
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Ko Omura](/tags/ko-omura/) - drumset, tabla
+-   [Kanoa Mendenhall](/tags/kanoa-mendenhall/) - bass
 
 Released in 2024 on Tommy’s Record as TW-002.
 

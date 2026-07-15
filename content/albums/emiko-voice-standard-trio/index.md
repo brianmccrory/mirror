@@ -14,7 +14,7 @@ related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-cor
   relative = true
 +++
 
-Emiko Voice is always an interesting, active, and boundary-exploring musician, often simultaneously involved in a number of projects. Emphasizing her voice talent in her name (compared to a vocal or vocalist role), her singing, scatting, vocalese, and other voice skills are used liberally in her music. This includes her popular Brazilian music duo [Meu Coração](https://www.jazzofjapan.com/archive/meu-coracao-hall-tone), swing and bebop [recordings with pianist Suga Dairo](https://www.jazzofjapan.com/archive/emiko-voice-x-suga-dairo-phase-2), various chorus groups, duos, trios, and other groups with sometimes unconventional jazz combo formations.
+Emiko Voice is always an interesting, active, and boundary-exploring musician, often simultaneously involved in a number of projects. Emphasizing her voice talent in her name (compared to a vocal or vocalist role), her singing, scatting, vocalese, and other voice skills are used liberally in her music. This includes her popular Brazilian music duo [Meu Coração](/meu-coracao-hall-tone/), swing and bebop [recordings with pianist Suga Dairo](/emiko-voice-x-suga-dairo-phase-2/), various chorus groups, duos, trios, and other groups with sometimes unconventional jazz combo formations.
 
 {{< figure src="L1230256x-1024.jpeg" link="L1230256x-1024.jpeg" >}}
 
@@ -33,9 +33,9 @@ The other album tracks include “Azure”, a dreamy, drifting tune from Duke El
 
 ## Standard Trio by Emiko Voice
 
--   [Emiko Voice](/tags/emiko-voice) - voice, percussions, kalimba
--   [Keisuke Ohta](/tags/keisuke-ohta) - violin, voice
--   [Atsushi Abe](/tags/atsushi-abe) - piano
+-   [Emiko Voice](/tags/emiko-voice/) - voice, percussions, kalimba
+-   [Keisuke Ohta](/tags/keisuke-ohta/) - violin, voice
+-   [Atsushi Abe](/tags/atsushi-abe/) - piano
 
 Released in 2022 on GardenNotes Music as GNM-1018.
 

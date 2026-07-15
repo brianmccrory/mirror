@@ -40,11 +40,11 @@ Altogether this accessible album emits good vibrations and positive energy, shin
 
 ## Wonderful Life by Masako Kunisada
 
--   [Masako Kunisada](/tags/masako-kunisada) - vocal
--   [Shigeru Morishita](/tags/shigeru-morishita) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
--   [Ryo Ogihara](/tags/ryo-ogihara) - electric guitar (#1-3, 7, 10)
--   [Shinichi Sato](/tags/shinichi-sato) - acoustic bass, electric bass
--   [Manabu Fujii](/tags/manabu-fujii) - drums (tr. 1-6, 8-11)
+-   [Masako Kunisada](/tags/masako-kunisada/) - vocal
+-   [Shigeru Morishita](/tags/shigeru-morishita/) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
+-   [Ryo Ogihara](/tags/ryo-ogihara/) - electric guitar (#1-3, 7, 10)
+-   [Shinichi Sato](/tags/shinichi-sato/) - acoustic bass, electric bass
+-   [Manabu Fujii](/tags/manabu-fujii/) - drums (tr. 1-6, 8-11)
 
 Released in 2012 on Urban Jazz as 151A-0005.
 

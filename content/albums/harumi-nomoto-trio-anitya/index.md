@@ -14,7 +14,7 @@ related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belind
   relative = true
 +++
 
-_Anitya_ is pianist Harumi Nomoto’s fourth trio record, released in 2025. It’s been a decade-plus since the trio’s previous release [_Virgo_ (2014)](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-virgo), with their earlier albums released as far back as 2007 and 2002, so it was a thrilling surprise when plans for a new recording were announced at one of their live shows early last year. The anticipation from their loyal fans rose in 2025 as the trio scheduled more concerts before the recording, to fine-tune the new songs and oil the performance gears at live concerts around Tokyo. Following that, _Anitya_ was quickly recorded over two days in June and released in December 2025 right in the midst of a busy holiday season.
+_Anitya_ is pianist Harumi Nomoto’s fourth trio record, released in 2025. It’s been a decade-plus since the trio’s previous release [_Virgo_ (2014)](/harumi-nomoto-trio-virgo/), with their earlier albums released as far back as 2007 and 2002, so it was a thrilling surprise when plans for a new recording were announced at one of their live shows early last year. The anticipation from their loyal fans rose in 2025 as the trio scheduled more concerts before the recording, to fine-tune the new songs and oil the performance gears at live concerts around Tokyo. Following that, _Anitya_ was quickly recorded over two days in June and released in December 2025 right in the midst of a busy holiday season.
 
 {{< figure src="L1330730x-1200.jpeg" link="L1330730x-1200.jpeg" >}}
 
@@ -34,7 +34,7 @@ Track #4 “Cucumber Man” is a happy groove jam in the direction of Herbie Han
 
 {{< figure src="L1330696x-1200.jpeg" link="L1330696x-1200.jpeg" >}}
 
-\#5 “Guitar no Yo Ni” is another smooth offering that brings laid-back comfort with a rock/hip-hop beat to the fore, similar to the intro and outro of #2 “Seiran”. Some sounds from Nomoto’s earlier releases and also in this style, particularly [_Belinda_ (2007)](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-belinda) with its emotionally stirring loops of chords-to-chord wrinkles on certain progressions with deep groove drum beats.
+\#5 “Guitar no Yo Ni” is another smooth offering that brings laid-back comfort with a rock/hip-hop beat to the fore, similar to the intro and outro of #2 “Seiran”. Some sounds from Nomoto’s earlier releases and also in this style, particularly [_Belinda_ (2007)](/harumi-nomoto-trio-belinda/) with its emotionally stirring loops of chords-to-chord wrinkles on certain progressions with deep groove drum beats.
 
 {{< figure src="L1330702x-1200.jpeg" link="L1330702x-1200.jpeg" >}}
 
@@ -88,9 +88,9 @@ I created this song while imagining waves coming in and going out. I borrowed th
 
 ## Anitya by Harumi Nomoto Trio
 
--   [Harumi Nomoto](/tags/harumi-nomoto) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
 
 Released in 2025 on Okra Record as MIKO-9001.
 

@@ -3,10 +3,10 @@ title = "Koen-Dori Classics"
 author = ["Brian McCrory"]
 description = "Koen-Dori Classics jazz club, located near Shibuya station in Tokyo, Japan (temporarily closed)"
 publishDate = 2024-05-28
-keywords = ["koen-dori-classics"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "koen-dori-classics"
 issue = 242
 [cover]
   image = "L1080597x-1200.jpeg"

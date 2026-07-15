@@ -2,10 +2,10 @@
 title = "Introduction to Jazz of Japan"
 author = ["Brian McCrory"]
 publishDate = 2023-05-03
-keywords = ["introduction-to-jazz-of-japan"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "introduction-to-jazz-of-japan"
 issue = 153
 +++
 

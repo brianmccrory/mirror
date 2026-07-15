@@ -34,8 +34,8 @@ Also featured on this well-crafted album of uplifting music is the icing on the 
 
 ## Birth by Arco
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano, melodion
--   [Mayumi Sano](/tags/mayumi-sano) - cello
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano/) - cello
 
 Released in 2019 on dandanorchestra as DAN-012.
 

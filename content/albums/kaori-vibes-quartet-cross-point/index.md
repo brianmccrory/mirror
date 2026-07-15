@@ -28,10 +28,10 @@ Starting with the high-energy “Cross Point”, the quartet explores directions
 
 ## Cross Point by Kaori Vibes Quartet
 
--   [Kaori Nakajima](/tags/kaori-nakajima) - vibraphone
--   [Tamashi Goto](/tags/tamashi-goto) - piano
--   [Minoru Yoshiki](/tags/minoru-yoshiki) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2016 on Urban Jazz as 151A-0017.
 

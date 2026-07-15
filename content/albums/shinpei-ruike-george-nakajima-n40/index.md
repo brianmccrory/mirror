@@ -32,8 +32,8 @@ Nakajima’s skillful piano provides the cool rhythmic and harmonic underpinning
 
 ## N.40° by Shinpei Ruike &amp; George Nakajima
 
--   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
--   [George Nakajima](/tags/george-nakajima) - piano
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [George Nakajima](/tags/george-nakajima/) - piano
 
 Released in 2014 on Apollo Sounds as APLS-1403.
 

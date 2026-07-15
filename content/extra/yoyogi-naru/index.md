@@ -3,10 +3,10 @@ title = "Yoyogi Naru"
 author = ["Brian McCrory"]
 description = "Yoyogi Naru jazz club, located near Yoyogi station in Tokyo, Japan"
 publishDate = 2023-05-04
-keywords = ["yoyogi-naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "yoyogi-naru"
 issue = 154
 [cover]
   image = "L1150335-1024.jpeg"

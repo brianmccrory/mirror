@@ -14,7 +14,7 @@ related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-en
   relative = true
 +++
 
-_Piano Pieces Collection II_ is pianist Seiji Endo’s follow-up to his 2021 release _[Piano Pieces Collection](https://www.jazzofjapan.com/archive/seiji-endo-piano-pieces-collection)_. Continuing in the same mood and mode, Endo plays solo piano music of his own hand, compositions that are infused with his motivation to move and support listeners through his music. Although the two recordings are separated by a few years, it wouldn’t be too far off to consider this sequel the second half of a double-album record.
+_Piano Pieces Collection II_ is pianist Seiji Endo’s follow-up to his 2021 release _[Piano Pieces Collection](/seiji-endo-piano-pieces-collection/)_. Continuing in the same mood and mode, Endo plays solo piano music of his own hand, compositions that are infused with his motivation to move and support listeners through his music. Although the two recordings are separated by a few years, it wouldn’t be too far off to consider this sequel the second half of a double-album record.
 
 {{< figure src="L1260269x-1200.jpeg" link="L1260269x-1200.jpeg" >}}
 
@@ -53,7 +53,7 @@ Compared to the previous album, the songs are slightly longer here. The titles s
 
 ## Piano Pieces Collection II by Seiji Endo
 
--   [Seiji Endo](/tags/seiji-endo) - piano
+-   [Seiji Endo](/tags/seiji-endo/) - piano
 
 Released in 2023 on Fair Play Records as FPCD-1013.
 

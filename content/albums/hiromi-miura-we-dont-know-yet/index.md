@@ -34,11 +34,11 @@ Following the five original jazz pieces, an attention-grabbing jazz blues is per
 
 ## We Don’t Know Yet by Hiromi Miura
 
--   [Hiromi Miura](/tags/hiromi-miura) - alto and soprano saxophone
--   [Yago Vázquez](/tags/yago-vzquez) - piano
--   [Greg Ruggiero](/tags/greg-ruggiero) - guitar
--   [Ryoichi Zakota](/tags/ryoichi-zakota) - bass
--   [Paolo Orlandi](/tags/paolo-orlandi) - drums
+-   [Hiromi Miura](/tags/hiromi-miura/) - alto and soprano saxophone
+-   [Yago Vázquez](/tags/yago-vzquez/) - piano
+-   [Greg Ruggiero](/tags/greg-ruggiero/) - guitar
+-   [Ryoichi Zakota](/tags/ryoichi-zakota/) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi/) - drums
 
 Released in 2013 on D-neo Daiki Musica as DNCD-03.
 

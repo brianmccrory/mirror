@@ -14,7 +14,7 @@ related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-
   relative = true
 +++
 
-_Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](https://www.jazzofjapan.com/archive/apollo) in Tokyo, Japan, and released that recording as this album in 2017.
+_Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](/apollo/) in Tokyo, Japan, and released that recording as this album in 2017.
 
 {{< figure src="L1260974x-1200.jpeg" link="L1260974x-1200.jpeg" >}}
 
@@ -47,9 +47,9 @@ The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a t
 
 ## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa
 
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - soprano sax, clarinet
--   [Takashi Sugawa](/tags/takashi-sugawa) - cello, contrabass
--   [Niran Dasika](/tags/niran-dasika) - piccolo trumpet (track #10)
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - soprano sax, clarinet
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - cello, contrabass
+-   [Niran Dasika](/tags/niran-dasika/) - piccolo trumpet (track #10)
 
 Released in 2017 on MOR Records as MOR-1002.
 

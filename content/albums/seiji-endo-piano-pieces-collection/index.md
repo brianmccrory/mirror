@@ -14,7 +14,7 @@ related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-en
   relative = true
 +++
 
-_Piano Pieces Collection_ is a 2021 album from pianist and composer Seiji Endo. For this album, Endo plays 19 solo piano pieces, a similar concept to some previous albums such as his _[Genji Monogatari Volume 1](https://www.jazzofjapan.com/archive/seiji-endo-genji-monogatari-volume-1)_ (2018), which evoked the drama of that classic early Japanese literature through depth and shading. On _Piano Pieces Collection_, Endo’s message is simpler and direct, uplifting and motivational.
+_Piano Pieces Collection_ is a 2021 album from pianist and composer Seiji Endo. For this album, Endo plays 19 solo piano pieces, a similar concept to some previous albums such as his _[Genji Monogatari Volume 1](/seiji-endo-genji-monogatari-volume-1/)_ (2018), which evoked the drama of that classic early Japanese literature through depth and shading. On _Piano Pieces Collection_, Endo’s message is simpler and direct, uplifting and motivational.
 
 {{< figure src="L1240083x-1200.jpeg" link="L1240083x-1200.jpeg" >}}
 
@@ -63,7 +63,7 @@ Most of the tracks on this album are given Japanese titles. Roughly translating 
 
 ## Piano Pieces Collection by Seiji Endo
 
--   [Seiji Endo](/tags/seiji-endo) - piano
+-   [Seiji Endo](/tags/seiji-endo/) - piano
 
 Released in 2021 on Fair Play Records as FPCD-1011.
 

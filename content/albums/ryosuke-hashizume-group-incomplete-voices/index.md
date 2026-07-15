@@ -28,11 +28,11 @@ High-caliber musicianship and exquisite songcraft make this an absorbingly satis
 
 ## Incomplete Voices by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor, soprano saxophones
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor, soprano saxophones
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
 
 Released in 2017 on Apollo Sounds as APLS1704.
 

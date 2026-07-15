@@ -28,11 +28,11 @@ With six songs ranging from eight to 16 minutes each, the music breathes with li
 
 ## _Visible/Invisible_ by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor, soprano saxophones
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor, soprano saxophones
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
 
 Released in 2013 on Apollo Sounds as APLS-1304.
 

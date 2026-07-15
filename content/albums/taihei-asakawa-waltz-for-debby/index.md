@@ -32,7 +32,7 @@ Disc two continues in this vein and adds variation with several brighter mid- an
 
 ## Waltz for Debby by Taihei Asakawa
 
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano
 
 Released in 2018 on Cortez Sound as CSJ0008.
 

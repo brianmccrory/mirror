@@ -38,10 +38,10 @@ Lovers of Brazilian and Latin music will be delighted with songs such as “Reun
 
 ## Agora by Yuka Ueda
 
--   [Yuka Ueda](/tags/yuka-ueda) - vocal
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
--   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
--   [Daisuke Toi](/tags/daisuke-toi) - piano (#8), electric bass (#10)
+-   [Yuka Ueda](/tags/yuka-ueda/) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi/) - piano (#8), electric bass (#10)
 
 Released in 2011 on Audio Fab Records as AFD-106.
 

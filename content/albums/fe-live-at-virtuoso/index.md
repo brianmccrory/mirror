@@ -43,10 +43,10 @@ The songs on _Live at Asakusa_ are original compositions by co-leaders Ikedo and
 
 ## Live at Virtuoso by Fe
 
--   [Yuta Ikedo](/tags/yuta-ikedo) - guitar
--   [Ko Omura](/tags/ko-omura) - drums
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass
--   [Shinobu Ishizaki](/tags/shinobu-ishizaki) - saxophone
+-   [Yuta Ikedo](/tags/yuta-ikedo/) - guitar
+-   [Ko Omura](/tags/ko-omura/) - drums
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - saxophone
 
 Released in 2021 on Virtuoso as VTS-006.
 

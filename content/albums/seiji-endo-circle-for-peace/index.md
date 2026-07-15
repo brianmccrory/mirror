@@ -28,7 +28,7 @@ Through sincerity depicted on the album cover and title, the concept is peace an
 
 ## Circle for Peace by Seiji Endo
 
--   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
+-   [Seiji Endo](/tags/seiji-endo/) - solo piano and compositions
 
 Released in 2016 on Nippon Acoustic Records, Inc as NARP-8009.
 

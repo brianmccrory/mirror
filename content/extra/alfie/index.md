@@ -3,10 +3,10 @@ title = "Alfie"
 author = ["Brian McCrory"]
 description = "Alfie jazz club, located near Roppongi station in Tokyo, Japan"
 publishDate = 2023-05-05
-keywords = ["alfie"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "alfie"
 issue = 155
 [cover]
   image = "P1060603-1024.jpeg"

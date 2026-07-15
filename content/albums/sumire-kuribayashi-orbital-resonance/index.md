@@ -40,17 +40,17 @@ On _Orbital Resonance_, the musicians may be more conscious of their roles and t
 
 An emotional hue colors the album, with colors ranging from ethereal and gentle (#1 “Deep Breath”), soothing as a balm (#2 “Family”), moodily exciting and dramatic (#4 “Tanabata Song”, #6 “Road”, #7 “Green Sprout”), and mournful (#3 “Bittersweet”). There are also bright and positive moments (#5 “Yell”, #8 “Onaji Fune ni Noru” (_riding on the same boat_)) where hope rises and swells to orbit above the clouds, promising better days ahead.
 
-This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _Orbital Resonance_ also marked a special anniversary for the pianist, as it has been a full decade since her debut album [_Toys_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-trio-toys) (2014) came out. This CD was [released in September 2025](https://diskunion.net/jazz/ct/news/article/1/133753), and an LP release of _Orbital Resonance_ is planned to be [released in May 2026](https://diskunion.net/jazz/ct/detail/1009180133). More information on this album can be found at [_Orbital Resonance_ album/streaming links](https://scol.lnk.to/1078) and the [Sumire Kuribayashi Online Shop](https://sumirepiano.thebase.in/).
+This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _Orbital Resonance_ also marked a special anniversary for the pianist, as it has been a full decade since her debut album [_Toys_](/sumire-kuribayashi-trio-toys/) (2014) came out. This CD was [released in September 2025](https://diskunion.net/jazz/ct/news/article/1/133753), and an LP release of _Orbital Resonance_ is planned to be [released in May 2026](https://diskunion.net/jazz/ct/detail/1009180133). More information on this album can be found at [_Orbital Resonance_ album/streaming links](https://scol.lnk.to/1078) and the [Sumire Kuribayashi Online Shop](https://sumirepiano.thebase.in/).
 
 {{< figure src="L1340614x-1200.jpeg" link="L1340614x-1200.jpeg" >}}
 
 
 ## Orbital Resonance by Sumire Kuribayashi
 
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Kyrie Anderson](/tags/kyrie-anderson) - drums
--   [Niran Dasika](/tags/niran-dasika) - trumpet (#4, 5, 7)
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Kyrie Anderson](/tags/kyrie-anderson/) - drums
+-   [Niran Dasika](/tags/niran-dasika/) - trumpet (#4, 5, 7)
 
 Released in 2025 on Somethin’ Cool as SCOL-1078.
 

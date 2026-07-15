@@ -18,7 +18,7 @@ Jazz violinist maiko’s new album _Reminiscence_ is a milestone release for the
 
 {{< figure src="L1290254x-1200.jpeg" alt="Front cover of Reminiscence by maiko" link="L1290254x-1200.jpeg" >}}
 
-This is her twelfth album spanning those many years, but her prior album [_Solo_](https://www.jazzofjapan.com/archive/maiko-solo/) was released in 2018 so it’s been several years between that and this 2024 work. In her online notes for this album, she explains how the unsteady times for musicians during the coronavirus period sparked a period of reflection on her Tokyo-based musical life and introspection about her next musical statement. For this project, she choose nine new songs she had written during that period, and settled on the musical partners she would bring this new record to life with. The process involved thinking back over those formative years spent with these and other co-musicians, and especially her hometown of Kobe where it all began.
+This is her twelfth album spanning those many years, but her prior album [_Solo_](/maiko-solo/) was released in 2018 so it’s been several years between that and this 2024 work. In her online notes for this album, she explains how the unsteady times for musicians during the coronavirus period sparked a period of reflection on her Tokyo-based musical life and introspection about her next musical statement. For this project, she choose nine new songs she had written during that period, and settled on the musical partners she would bring this new record to life with. The process involved thinking back over those formative years spent with these and other co-musicians, and especially her hometown of Kobe where it all began.
 
 The songs are all originals by maiko, with one song co-written with Aya Kurosawa. Tied to the album’s theme, there is a sense of reflection overall, with a depth of feeling that could even be called a gentle moodiness to much of the music. Moodiness is not the best description as it’s not of a gloomy quality, but of a deeply connected awareness to the changes that time and situation bring, with both longing and hope in the memories.
 
@@ -116,11 +116,11 @@ This album was created upon a foundation of the many encounters that have shaped
 
 ## Reminiscence by Maiko
 
--   [maiko](/tags/maiko) - violin
--   [Shikou Ito](/tags/shikou-ito) - piano (#1, 2, 3, 6, 7, 8)
--   [Yuki Ito](/tags/yuki-ito) - bass (#1, 3, 8)
--   [Kazuma Fujimoto](/tags/kazuma-fujimoto) - guitar (#1, 5, 6)
--   [Aya Kurosawa](/tags/aya-kurosawa) - voice (#2), vocals, piano, lyrics (#4)
+-   [maiko](/tags/maiko/) - violin
+-   [Shikou Ito](/tags/shikou-ito/) - piano (#1, 2, 3, 6, 7, 8)
+-   [Yuki Ito](/tags/yuki-ito/) - bass (#1, 3, 8)
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto/) - guitar (#1, 5, 6)
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice (#2), vocals, piano, lyrics (#4)
 
 Released in 2024 on GardenNotes Music as GNM-1026.
 

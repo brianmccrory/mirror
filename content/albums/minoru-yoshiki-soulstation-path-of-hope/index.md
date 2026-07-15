@@ -40,9 +40,9 @@ issue = 82
 
 ## Path of Hope by Minoru Yoshiki Soulstation
 
--   [Minoru Yoshiki](/tags/minoru-yoshiki) - contrabass
--   [Osamu Soda](/tags/osamu-soda) - piano
--   [Shuji Morita](/tags/shuji-morita) - tenor sax
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - contrabass
+-   [Osamu Soda](/tags/osamu-soda/) - piano
+-   [Shuji Morita](/tags/shuji-morita/) - tenor sax
 
 Released in 2019 on Urban Jazz as Path of Hope.
 

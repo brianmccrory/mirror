@@ -14,7 +14,7 @@ related = ["jabuticaba-jabuticaba"]
   relative = true
 +++
 
-Saxophonist and composer Nami Kano has just released a long-awaited album _mawsim_ with her group of the same name today in Japan. Nami Kano’s name may be familiar as part of [Jabuticaba](https://www.jazzofjapan.com/archive/jabuticaba-jabuticaba) from last week’s article, another compelling side of her creative musical personality.
+Saxophonist and composer Nami Kano has just released a long-awaited album _mawsim_ with her group of the same name today in Japan. Nami Kano’s name may be familiar as part of [Jabuticaba](/jabuticaba-jabuticaba/) from last week’s article, another compelling side of her creative musical personality.
 
 {{< figure src="L1240341-1200.jpeg" link="L1240341-1200.jpeg" >}}
 
@@ -53,13 +53,13 @@ As for the name _mawsim_ (_season_), Kano explained that in certain places the g
 
 ## Mawsim by Nami Kano
 
--   [Nami Kano](/tags/nami-kano) - alto/soprano saxophone, flute, duduk, chorus
--   [Tomokazu Sugimoto](/tags/tomokazu-sugimoto) - basses, arrangement, programming, co-producer
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano, Rhodes, keyboard
--   [Sota Kira](/tags/sota-kira) - drums, percussion
--   [maiko](/tags/maiko) - violin (tracks 2, 5)
--   [Orie Hirayama](/tags/orie-hirayama) - cello (tracks 2, 5)
--   [Shoko Mochiyama](/tags/shoko-mochiyama) - strings arrangement (tracks 2, 5)
+-   [Nami Kano](/tags/nami-kano/) - alto/soprano saxophone, flute, duduk, chorus
+-   [Tomokazu Sugimoto](/tags/tomokazu-sugimoto/) - basses, arrangement, programming, co-producer
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano, Rhodes, keyboard
+-   [Sota Kira](/tags/sota-kira/) - drums, percussion
+-   [maiko](/tags/maiko/) - violin (tracks 2, 5)
+-   [Orie Hirayama](/tags/orie-hirayama/) - cello (tracks 2, 5)
+-   [Shoko Mochiyama](/tags/shoko-mochiyama/) - strings arrangement (tracks 2, 5)
 
 Released in 2024 on Wave Records as WR-001.
 

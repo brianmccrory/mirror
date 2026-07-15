@@ -14,7 +14,7 @@ related = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hor
   relative = true
 +++
 
-As a companion piece to the previous article on [Hideaki Hori’s ](https://www.jazzofjapan.com/archive/hideaki-hori-horizon)/[Horizon](https://www.jazzofjapan.com/archive/hideaki-hori-horizon)/, this follow-up post introduces the pianist’s recent solo album _Melodies for Night &amp; Day_ from 2022. Posting about the same musician in succession here is rare but somewhat appropriate, as this new album also pairs well with the pianist’s debut album from the previous article, marking a twenty-year milestone and a total of twenty albums released under his name in those years.
+As a companion piece to the previous article on [Hideaki Hori’s ](/hideaki-hori-horizon/)/[Horizon](/hideaki-hori-horizon/)/, this follow-up post introduces the pianist’s recent solo album _Melodies for Night &amp; Day_ from 2022. Posting about the same musician in succession here is rare but somewhat appropriate, as this new album also pairs well with the pianist’s debut album from the previous article, marking a twenty-year milestone and a total of twenty albums released under his name in those years.
 
 {{< figure src="L1230639x-1024.jpeg" link="L1230639x-1024.jpeg" >}}
 
@@ -84,7 +84,7 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 
 ## Melodies for Night &amp; Day by Hideaki Hori
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
 
 Released in 2022 on Orbit Records as ORG-1006.
 

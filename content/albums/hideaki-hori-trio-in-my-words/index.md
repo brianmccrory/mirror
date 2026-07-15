@@ -34,9 +34,9 @@ Hori’s songwriting is also on display, with six originals (the crowd favorite 
 
 ## In My Words by Hideaki Hori Trio
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Gene Jackson](/tags/gene-jackson) - drums
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Gene Jackson](/tags/gene-jackson/) - drums
 
 Released in 2010 on Daiki Musica as DMCD-06.
 

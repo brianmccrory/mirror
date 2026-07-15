@@ -3,10 +3,10 @@ title = "Into the Blue"
 author = ["Brian McCrory"]
 description = "Into the Blue jazz club, located near Machida station in Tokyo, Japan"
 publishDate = 2023-05-12
-keywords = ["into-the-blue"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "into-the-blue"
 issue = 157
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"

@@ -3,10 +3,10 @@ title = "First-Timer’s Guide to Live Jazz in Japan"
 author = ["Brian McCrory"]
 description = "How to navigate Japanese jazz spots for the first time (and for anyone who wants to know more about what it’s like)"
 publishDate = 2025-10-15
-keywords = ["first-timers-guide-to-live-jazz-in-japan"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "first-timers-guide-to-live-jazz-in-japan"
 issue = 331
 [cover]
   image = "DSC_9546-1200.jpeg"
@@ -49,7 +49,7 @@ For some helpful terms that appear in Japanese jazz, here is a brief list of com
 
 -   **Jazz**: ジャズ (_jazu_)
 -   **Musician**: ミュージシャン (_myūjishan_)
--   **J Jazz**: J・ジャズ (_j jazu_) Japanese jazz: [What’s J Jazz?](https://www.jazzofjapan.com/archive/whats-j-jazz)
+-   **J Jazz**: J・ジャズ (_j jazu_) Japanese jazz: [What’s J Jazz?](/whats-j-jazz/)
 
 {{< figure src="IMG_20181206_201024241-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Snacks at Salt Peanuts" link="IMG_20181206_201024241-1200.jpeg" >}}
 
@@ -75,11 +75,11 @@ The phrases **jazz club**, **jazz bar**, **jazz spot**, and others are mostly us
 
 **Useful Terms:**
 
--   **Jazz club**: ジャズクラブ (_jazu kurabu_) Usually a venue for live performances. _Club_ is sometimes also written 倶楽部, as with [Tokyo Club / 東京倶楽部](https://tokyo-club.com/). Clubs may be more motivated to offer a “performance venue” or “listening” experience, sometimes with a pre-pay system, or even pre-sale tickets offered. Reservations are not necessarily required but sold-out events are possible. Some examples are [Blue Note Tokyo](https://www.jazzofjapan.com/archive/blue-note-tokyo), [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn) and [JZ Brat](https://www.jazzofjapan.com/archive/jz-brat). Sometimes include a restaurant-style menu.
+-   **Jazz club**: ジャズクラブ (_jazu kurabu_) Usually a venue for live performances. _Club_ is sometimes also written 倶楽部, as with [Tokyo Club / 東京倶楽部](https://tokyo-club.com/). Clubs may be more motivated to offer a “performance venue” or “listening” experience, sometimes with a pre-pay system, or even pre-sale tickets offered. Reservations are not necessarily required but sold-out events are possible. Some examples are [Blue Note Tokyo](/blue-note-tokyo/), [Pit Inn](/pit-inn/) and [JZ Brat](/jz-brat/). Sometimes include a restaurant-style menu.
 -   **Jazz bar**: ジャズバー (_jazu bā_) Usually a venue for live or recorded music and drinking. Some bars are more motivated to sell drinks, thus the use of the word “bar” with a similar bar atmosphere. Bars may offer snacks and light dishes, but generally not restaurant-style meals or complicated/cooked dishes.
 -   **Jazz cafe**: ジャズカフェー (_jazu kafe_) A jazz spot with good coffee or in a coffeehouse setting.
 -   **Jazz kissa**: ジャズ喫茶 (_jazu kissa_) A listening bar with recorded music. Usually a small bar for appreciating a curated selection of jazz while drinking. The atmosphere can be dimly-lit, authentic, and personal. _(Kissa comes from the word kissaten 喫茶店, meaning coffee/tea shop, though alcohol is much more common now.)_
--   **Jazz spot**: ジャズスポット (_jazu supotto_) Any type of place for jazz, useful as an umbrella term to cover a wide variety of jazz-related spots. One famous Tokyo jazz club was named [Jazzspot J](https://www.jazzofjapan.com/archive/jazzspot-j).
+-   **Jazz spot**: ジャズスポット (_jazu supotto_) Any type of place for jazz, useful as an umbrella term to cover a wide variety of jazz-related spots. One famous Tokyo jazz club was named [Jazzspot J](/jazzspot-j/).
 -   **Live house**: ライブハウス (_raibu hausu_) Live venues for jazz, differentiated from kissas, bars, and listening rooms by emphasizing live performances.
 -   **Jazz joint**: ジャズジョイント (_jazu jointo_) Another umbrella term, an older slang term made even more popular in the context of Japan with the success of the [Tokyo Jazz Joints](https://www.tokyojazzjoints.com/) project and published book.
 -   **Jazz fes**: ジャズフェス (_jazu fesu_) Jazz festivals, like [Yokohama Jazz Promenade](https://jazzpro.jp/), [Sumida Street Jazz Festival](https://sumida-jazz.jp/), and [Sapporo City Jazz](https://sapporocityjazz.jp/).
@@ -150,7 +150,7 @@ The second line shows that for daytime performances (昼の部) on weekends and 
 -   **Consumption tax**: The current consumption tax rate in Japan (generally 10%). For prices including tax, you’ll see 税込 or 税込み (_zeikomi_). For prices that do not include tax, you’ll see 税抜 or 税抜き (_zeinuki_), 税別 (_zeibetsu_), or 外税 (_gai-zei_).
 -   **Otoshi**: おとし (_otoshi_) A small appetizer, a seasonal or curated “dish of the day” starter that comes automatically with a small charge added. A “table charge appetizer” served at certain bars.
 -   **Otsumami**: おつまみ (_otsumami_) Small plates, finger foods, or snacks typically eaten with alcoholic drinks. Listed on the menu for optional purchase when available.
--   **Other charges**: Any other miscellaneous charges. For example, in some cases, if a customer does not order the required minimum number of drinks, then the supplemental cost of drink(s) required to meet the minimum may be added. One considerate Tokyo jazz bar, [The Deep](https://www.jazzofjapan.com/archive/the-deep), has started offering take-home cans of juice or tea, in cases where the customer needs to fulfill the two-drink minimum, but only ordered one drink before leaving.
+-   **Other charges**: Any other miscellaneous charges. For example, in some cases, if a customer does not order the required minimum number of drinks, then the supplemental cost of drink(s) required to meet the minimum may be added. One considerate Tokyo jazz bar, [The Deep](/the-deep/), has started offering take-home cans of juice or tea, in cases where the customer needs to fulfill the two-drink minimum, but only ordered one drink before leaving.
 
 The venue’s system will usually list their prices clearly. This is specific guidance about what customers should to expect to pay for any given night’s performance.
 
@@ -190,8 +190,8 @@ This term can be confusing when appearing just as **MC** and alongside other fee
 
 Some venues explain their rules on calculating service charges. Here are some recent examples from September 2025 for a few venues (always check venues’ official websites for the latest accurate information).
 
--   [Velera](https://www.jazzofjapan.com/archive/velera/) jazz club has a [10% service charge plus consumption tax](https://velera.tokyo/system/).
--   [Independence](https://www.jazzofjapan.com/archive/independence) jazz club introduced a [5% service charge + 10% consumption tax](http://jazz-independence.com/2025/09/02/%e6%96%99%e9%87%91%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/).
+-   [Velera](/velera/) jazz club has a [10% service charge plus consumption tax](https://velera.tokyo/system/).
+-   [Independence](/independence/) jazz club introduced a [5% service charge + 10% consumption tax](http://jazz-independence.com/2025/09/02/%e6%96%99%e9%87%91%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/).
 -   The Moment jazz club lists a [1,100 yen service charge](https://themoment.tokyo/)
 
 This additional fee is just another way that certain venues break down their fees for clarity. Many clubs do not have an explicit service charge, and just roll up all their fees into music charge and table charge to keep things simple.
@@ -201,7 +201,7 @@ This additional fee is just another way that certain venues break down their fee
 
 ### When and How to Pay
 
-Most of the time, payment is made when you are ready to leave, but some places use a **pay on entry** system: [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn), [Velvet Sun](https://www.jazzofjapan.com/archive/velvet-sun), [Zimagine](https://www.jazzofjapan.com/archive/zimagine), and [Bon Courage](https://www.jazzofjapan.com/archive/bon-courage) for example. In these cases, the admission fee is paid at first, before taking your seat. The fee may include one drink order taken at the time, while additional orders will be pay on delivery. This makes exiting easy, as you can leave without having to settle a final bill.
+Most of the time, payment is made when you are ready to leave, but some places use a **pay on entry** system: [Pit Inn](/pit-inn/), [Velvet Sun](/velvet-sun/), [Zimagine](/zimagine/), and [Bon Courage](/bon-courage/) for example. In these cases, the admission fee is paid at first, before taking your seat. The fee may include one drink order taken at the time, while additional orders will be pay on delivery. This makes exiting easy, as you can leave without having to settle a final bill.
 
 For **pay on exit** places, the admission fees, table charges, orders, and any other costs are calculated and presented for payment when you are ready to leave. This is usually not presented in an itemized invoice, and can actually be as simple as one single figure, the total cost in yen, written down on a simple customer slip.
 
@@ -218,7 +218,7 @@ But still, there are still many jazz spots that only accept **cash** (in yen, of
 
 Making reservations before going to go a jazz club is often a good idea, but not an absolute requirement. If you are flexible with your plans and like to roll the dice, showing up without a reservation, especially as a single guest, usually works out fine. The downsides are possibly having a poor seat in the back, or being told that all seats were sold out. Sometimes leaving it up to fate is fun, but other times, making reservations is the smart thing to do.
 
-Some places offer reservation forms on their websites (e.g., [Blue Note Tokyo](https://www.jazzofjapan.com/archive/blue-note-tokyo), [Body &amp; Soul](https://www.jazzofjapan.com/archive/body-and-soul/), [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn)), or phone numbers to call to reserve a seat. Same-day reservations are often only available by phone.
+Some places offer reservation forms on their websites (e.g., [Blue Note Tokyo](/blue-note-tokyo/), [Body &amp; Soul](/body-and-soul/), [Pit Inn](/pit-inn/)), or phone numbers to call to reserve a seat. Same-day reservations are often only available by phone.
 
 On the other hand, making reservations shouldn’t be made lightly. Be committed to going, as it’s a nuisance to the owners to deal with no-shows, not to mention for other customers who could use those seats.
 
@@ -309,7 +309,7 @@ Regarding the opening and start times, customers may arrive and leave at any tim
 
 Of course, Japan is a busy place where working overtime is common, which may cause late arrivals. Plus, when returning home after a show, there can be long transit times for some out-of-city dwellers. Also, there are unpredictable events like trains being affected by weather and accidents. Late arrivals and early departures are sometimes unavoidable for totally justified reasons. At those times, customers will usually go out of their way to politely enter or disappear with a minimum of fuss.
 
-Having said that, there are some places that are so small that arriving, leaving, or going to the restroom during a performance basically requires walking through the stage area, and the musicians may have to physically move or reposition their instruments to allow customers to pass. (Asagaya’s [Manhattan](https://www.jazzofjapan.com/archive/manhattan/) [[_web_](http://www.ateliermw.com/manhattan/), [_map_](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA)] and Kita-Senju’s [Birdland](https://www.jazzofjapan.com/archive/birdland) [[_web_](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html), [_map_](https://goo.gl/maps/drgMW2AnAsXY1U3Z6)], for example). At these places, customers will usually try to time their entrance or exit to take place between songs, at least, for a minimum of disruption.)
+Having said that, there are some places that are so small that arriving, leaving, or going to the restroom during a performance basically requires walking through the stage area, and the musicians may have to physically move or reposition their instruments to allow customers to pass. (Asagaya’s [Manhattan](/manhattan/) [[_web_](http://www.ateliermw.com/manhattan/), [_map_](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA)] and Kita-Senju’s [Birdland](/birdland/) [[_web_](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html), [_map_](https://goo.gl/maps/drgMW2AnAsXY1U3Z6)], for example). At these places, customers will usually try to time their entrance or exit to take place between songs, at least, for a minimum of disruption.)
 
 ---
 
@@ -322,7 +322,7 @@ The term for this was listed in the terms section earlier: 入れ替えなし (w
 
 This means **no audience turnover/changeover** during the intermission. With few exceptions, it is the norm to pay one admission price to be able to stay for the entire night, which usually includes two sets of music by one band.
 
-While most places allow customers to stay for both sets when paying one admission price, some places do turnover the audience during the intermission. These are usually higher-end venues like [Blue Note Tokyo](https://www.jazzofjapan.com/archive/blue-note-tokyo), especially when particularly popular or famous acts are featured and demand is high. In these cases, the system should be clearly stated, and the venue will ask that customers leave or purchase a separate admission ticket for each stage. The standard rule regarding audience replacement for any particular venue is usually indicated on their website. Fortunately, most of the time, it is it 入れ替え無し (no audience replacement).
+While most places allow customers to stay for both sets when paying one admission price, some places do turnover the audience during the intermission. These are usually higher-end venues like [Blue Note Tokyo](/blue-note-tokyo/), especially when particularly popular or famous acts are featured and demand is high. In these cases, the system should be clearly stated, and the venue will ask that customers leave or purchase a separate admission ticket for each stage. The standard rule regarding audience replacement for any particular venue is usually indicated on their website. Fortunately, most of the time, it is it 入れ替え無し (no audience replacement).
 
 ---
 

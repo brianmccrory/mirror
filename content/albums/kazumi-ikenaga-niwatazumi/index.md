@@ -71,11 +71,11 @@ This is composed of a simple melodic refrain that evokes a philosophical feeling
 
 ## Niwatazumi by Kazumi Ikenaga
 
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
--   [Christian Vuust](/tags/christian-vuust) - tenor saxophone and clarinet
--   [Jakob Buchanan](/tags/jakob-buchanan) - flugelhorn
--   [Soren Dahl Jeppesen](/tags/soren-dahl-jeppesen) - guitar
--   [Klaus Nørgaard](/tags/klaus-nrgaard) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+-   [Christian Vuust](/tags/christian-vuust/) - tenor saxophone and clarinet
+-   [Jakob Buchanan](/tags/jakob-buchanan/) - flugelhorn
+-   [Soren Dahl Jeppesen](/tags/soren-dahl-jeppesen/) - guitar
+-   [Klaus Nørgaard](/tags/klaus-nrgaard/) - bass
 
 Released in 2017 on Cloud as DDCJ-4019.
 

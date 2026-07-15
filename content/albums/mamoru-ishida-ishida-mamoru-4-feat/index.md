@@ -86,10 +86,10 @@ The microphone used to capture the piano sound is a 1930s Westrex ribbon mic. Th
 
 ## Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida
 
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Mike Rivett](/tags/mike-rivett) - saxophone
--   [Show Kudo](/tags/show-kudo) - bass
--   [Ko Omura](/tags/ko-omura) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Mike Rivett](/tags/mike-rivett/) - saxophone
+-   [Show Kudo](/tags/show-kudo/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
 
 Released in 2011 on Anturtle Analog Recordings as ANTX-1002.
 

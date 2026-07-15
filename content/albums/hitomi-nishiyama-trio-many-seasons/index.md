@@ -28,9 +28,9 @@ This album was recorded in Stockholm with two Swedish musicians, befitting the g
 
 ## Many Seasons by Hitomi Nishiyama Trio
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Hans Backenroth](/tags/hans-backenroth) - bass
--   [Anders Kjellberg](/tags/anders-kjellberg) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Hans Backenroth](/tags/hans-backenroth/) - bass
+-   [Anders Kjellberg](/tags/anders-kjellberg/) - drums
 
 Released in 2007 on Spice of Life as SOLJP-0005.
 

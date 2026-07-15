@@ -3,10 +3,10 @@ title = "Donfan"
 author = ["Brian McCrory"]
 description = "Donfan jazz club, located near Otsuka station in Tokyo, Japan"
 publishDate = 2023-06-26
-keywords = ["donfan"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "donfan"
 issue = 182
 [cover]
   image = "P1020108-1024.jpeg"

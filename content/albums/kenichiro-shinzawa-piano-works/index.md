@@ -32,7 +32,7 @@ The songs are well-structured and composed, calming and easily listenable, with 
 
 ## Piano Works by Ken’ichiro Shinzawa
 
--   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa) - piano, composition
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa/) - piano, composition
 
 Released in 2009 on Iceblue Records as IBRC-8001.
 

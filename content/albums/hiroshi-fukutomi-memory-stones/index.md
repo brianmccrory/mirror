@@ -34,10 +34,10 @@ The final two tracks close the album with friendly, down-to-earth elements to th
 
 ## Memory Stones by Hiroshi Fukutomi
 
--   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - electric guitar, acoustic guitar, harmonica
--   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - electric guitar, acoustic guitar, harmonica
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
 
 Released in 2014 on MOF Records as MOF-101.
 

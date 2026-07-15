@@ -34,8 +34,8 @@ From the opening Ornette Coleman number “Mary Hartman, Mary Hartman”, the dr
 
 ## Nijuso by Hideaki Kanazawa &amp; Sumire Kuribayashi
 
--   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano, percussion
+-   [Hideaki Kanazawa](/tags/hideaki-kanazawa/) - contrabass
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano, percussion
 
 Released in 2017 on Roving Spirits as RKCJ-2063.
 

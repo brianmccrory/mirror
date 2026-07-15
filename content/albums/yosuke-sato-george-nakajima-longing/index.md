@@ -59,7 +59,7 @@ Yosuke Sato moved to the US in 2008 and started playing in New York. He won Gram
 
 **GEORGE NAKAJIMA**
 
-George Nakajima was born in 1981 in Hachinohe, Aomori Prefecture. He studied jazz piano under Masayasu Tzuboguchi at Shobi University. He has released two albums as the duo Shinpei Ruike &amp; George Nakajima, _[N.40°](https://www.jazzofjapan.com/archive/shinpei-ruike-george-nakajima-n40)_ and _[Duo](https://www.jazzofjapan.com/archive/shinpei-ruike-george-nakajima-duo)_. His first leader album, _[First Touch](https://www.jazzofjapan.com/archive/george-nakajima-trio-first-touch)_, was released in April 2021. Nakajima has participated in overseas performances in the Republic of Slovenia, China, and elsewhere, and is active in many groups and his combos both inside and outside Japan.
+George Nakajima was born in 1981 in Hachinohe, Aomori Prefecture. He studied jazz piano under Masayasu Tzuboguchi at Shobi University. He has released two albums as the duo Shinpei Ruike &amp; George Nakajima, _[N.40°](/shinpei-ruike-george-nakajima-n40/)_ and _[Duo](/shinpei-ruike-george-nakajima-duo/)_. His first leader album, _[First Touch](/george-nakajima-trio-first-touch/)_, was released in April 2021. Nakajima has participated in overseas performances in the Republic of Slovenia, China, and elsewhere, and is active in many groups and his combos both inside and outside Japan.
 
 **EMA**
 
@@ -70,9 +70,9 @@ From an early age, Ema has appeared in musicals and dramas, learning the joy and
 
 ## Longing by Yosuke Sato &amp; George Nakajima
 
--   [Yosuke Sato](/tags/yosuke-sato) - sax
--   [George Nakajima](/tags/george-nakajima) - piano
--   [Ema](/tags/ema) - vocals (#7, 8)
+-   [Yosuke Sato](/tags/yosuke-sato/) - sax
+-   [George Nakajima](/tags/george-nakajima/) - piano
+-   [Ema](/tags/ema/) - vocals (#7, 8)
 
 Released in 2023 on Pochizou as POCH-2308.
 

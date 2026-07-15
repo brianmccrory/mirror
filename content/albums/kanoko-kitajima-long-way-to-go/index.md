@@ -95,9 +95,9 @@ A brilliant debut record from a pianist with a naturally sophisticated talent! Y
 
 ## Long Way to Go by Kanoko Kitajima
 
--   [Kanoko Kitajima](/tags/kanoko-kitajima) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Fukushi Tainaka](/tags/fukushi-tainaka) - drums
+-   [Kanoko Kitajima](/tags/kanoko-kitajima/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
 
 Released in 2019 on T&amp;A Music as Long Way to Go.
 

@@ -43,9 +43,9 @@ Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosi
 
 ## El viento y las flores by Magnolia
 
--   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
--   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
--   [Hitomi Aikawa](/tags/hitomi-aikawa) - percussion
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
 
 Released in 2022 on Magnolia as MGNL-0001.
 

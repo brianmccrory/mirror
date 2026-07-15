@@ -30,11 +30,11 @@ In addition to the jazz tunes, other genres perfectly suited to Baby Brothers in
 
 ## Bb by Baby Brothers
 
--   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
--   [Monet](/tags/monet) - lead vocal, 2nd chorus
--   [Kyoko Ogata](/tags/kyoko-ogata) - lead vocal, 3rd chorus
--   [Takahiko Goto](/tags/takahiko-goto) - lead vocal, 4th chorus, bass, voice trumpet
--   [Yohhei](/tags/yohhei) - lead vocal, bass, 4th chorus, human beat box
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Monet](/tags/monet/) - lead vocal, 2nd chorus
+-   [Kyoko Ogata](/tags/kyoko-ogata/) - lead vocal, 3rd chorus
+-   [Takahiko Goto](/tags/takahiko-goto/) - lead vocal, 4th chorus, bass, voice trumpet
+-   [Yohhei](/tags/yohhei/) - lead vocal, bass, 4th chorus, human beat box
 
 Released in 2007 on Bb Records as Bb.
 

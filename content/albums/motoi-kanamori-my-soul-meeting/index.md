@@ -32,11 +32,11 @@ The well-arranged album flows with vim and vigor, music devoted to satisfying li
 
 ## My Soul Meeting by Motoi Kanamori
 
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
--   [Akira Yamada](/tags/akira-yamada) - drums
--   [Erena Terakubo](/tags/erena-terakubo) - alto sax (tr. #6, 7)
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax (tr. #6, 7)
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Erena Terakubo](/tags/erena-terakubo/) - alto sax (tr. #6, 7)
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax (tr. #6, 7)
 
 Released in 2018 on Laplace Records as LPDCD-103.
 

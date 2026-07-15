@@ -3,10 +3,10 @@ title = "Natural"
 author = ["Brian McCrory"]
 description = "Natural music salon, located near Mitaka station in Tokyo, Japan"
 publishDate = 2025-07-19
-keywords = ["natural"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "natural"
 issue = 319
 [cover]
   image = "L1270458-1200.jpeg"

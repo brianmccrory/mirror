@@ -32,8 +32,8 @@ Overall, _Duet_ is a nice balance of absorbing and hazy music, swirling around t
 
 ## Duet by Shinichi Kato &amp; Masahiko Sato
 
--   [Shinichi Kato](/tags/shinichi-kato) - bass
--   [Masahiko Sato](/tags/masahiko-sato) - piano
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Masahiko Sato](/tags/masahiko-sato/) - piano
 
 Released in 2001 on Nagel Heyer Records as CD-2017.
 

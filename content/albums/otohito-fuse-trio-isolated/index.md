@@ -47,9 +47,9 @@ It’s impressive that such young players are already producing a mature, respec
 
 ## Isolated by Otohito Fuse Trio
 
--   [Otohito Fuse](/tags/otohito-fuse) - piano
--   [Riku Takahashi](/tags/riku-takahashi) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura) - drums
+-   [Otohito Fuse](/tags/otohito-fuse/) - piano
+-   [Riku Takahashi](/tags/riku-takahashi/) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
 
 Released in 2024 on Otohito Fuse Music as OFM-001.
 

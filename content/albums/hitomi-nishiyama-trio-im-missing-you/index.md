@@ -14,7 +14,7 @@ related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in
   relative = true
 +++
 
-Rewinding from the previous article on Hitomi Nishiyama’s _[Echo](https://www.jazzofjapan.com/archive/hitomi-nishiyama-echo)_ from 2024, and connecting the dots (re: _[Dot](https://www.jazzofjapan.com/archive/hitomi-nishiyama-dot)_, 2023), relistening to Hitomi Nishiyama Trio’s _I’m Missing You_ from 2004 provides a fascinating reflection.
+Rewinding from the previous article on Hitomi Nishiyama’s _[Echo](/hitomi-nishiyama-echo/)_ from 2024, and connecting the dots (re: _[Dot](/hitomi-nishiyama-dot/)_, 2023), relistening to Hitomi Nishiyama Trio’s _I’m Missing You_ from 2004 provides a fascinating reflection.
 
 {{< figure src="L1270278x-1200.jpeg" link="L1270278x-1200.jpeg" >}}
 
@@ -67,11 +67,11 @@ Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in t
 
 ## I’m Missing You by Hitomi Nishiyama Trio
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Mitsuaki Hara](/tags/mitsuaki-hara) - bass
--   [Tsutomu Kawauchi](/tags/tsutomu-kawauchi) - drums
--   [Satoshi Otani](/tags/satoshi-otani) - bass (#9, 10, 11)
--   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums (#9, 10, 11)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Mitsuaki Hara](/tags/mitsuaki-hara/) - bass
+-   [Tsutomu Kawauchi](/tags/tsutomu-kawauchi/) - drums
+-   [Satoshi Otani](/tags/satoshi-otani/) - bass (#9, 10, 11)
+-   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums (#9, 10, 11)
 
 Released in 2004 on Steps Records as VNTM-04001.
 

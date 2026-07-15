@@ -28,9 +28,9 @@ Alongside classic and rearranged standards from Cole Porter, Irving Berlin, Bill
 
 ## Night &amp; Day by Akane Matsumoto
 
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Peter Washington](/tags/peter-washington) - bass
--   [Gene Jackson](/tags/gene-jackson) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Gene Jackson](/tags/gene-jackson/) - drums
 
 Released in 2017 on Concept Record as CR07.
 

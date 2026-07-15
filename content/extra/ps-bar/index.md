@@ -3,10 +3,10 @@ title = "P's Bar"
 author = ["Brian McCrory"]
 description = "P’s Bar jazz club, located near Ikebukuro station in Tokyo, Japan"
 publishDate = 2023-05-12
-keywords = ["ps-bar"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "ps-bar"
 issue = 158
 [cover]
   image = "IMG_20140806_212248-1024.jpeg"

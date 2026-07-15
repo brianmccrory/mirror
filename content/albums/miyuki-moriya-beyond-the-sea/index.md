@@ -31,7 +31,7 @@ As always, thank you for picking up and listening to this album.
 
 {{< figure src="L1260183x-1200.jpeg" link="L1260183x-1200.jpeg" >}}
 
-Although _Beyond the Sea_ is my fourth album as a leader, it feels like a continuation of my first album _[Cat’s Cradle](https://www.jazzofjapan.com/archive/miyuki-moriya-cats-cradle)_ which I released in 2010. For this new recording, there are songs that I’ve been working on for years, new songs written for this album, and two songs by musicians whom I respect greatly. Since this is fully packed with nine songs (at over an hour!) I hope that you stick with me through to the end.
+Although _Beyond the Sea_ is my fourth album as a leader, it feels like a continuation of my first album _[Cat’s Cradle](/miyuki-moriya-cats-cradle/)_ which I released in 2010. For this new recording, there are songs that I’ve been working on for years, new songs written for this album, and two songs by musicians whom I respect greatly. Since this is fully packed with nine songs (at over an hour!) I hope that you stick with me through to the end.
 
 {{< figure src="L1260185x-1200.jpeg" link="L1260185x-1200.jpeg" >}}
 
@@ -41,7 +41,7 @@ This time we were also joined by a special guest, the beloved saxophone player K
 
 {{< figure src="L1260195x-1200.jpeg" link="L1260195x-1200.jpeg" >}}
 
-When I was still a youngster in my early twenties (yes, there was such a time… haha) and a total beginner in jazz, I was looked after by the owner of a local jazz spot called Swing House in my hometown of Takamatsu. One day, a regular customer told me “Kosuke Mine is coming here, and you definitely should hear him!” So, when he came to perform as a touring member with guitarist Yoshiaki Masuo, that’s when I first met and heard Mine-san. (Mine-san probably doesn’t remember that time, but ever since then, he has been incredibly kind and wonderful to me!) I bought his /[Major to Minor](https://www.jazzofjapan.com/archive/kohsuke-mine-quintet-major-to-minor) /album at the time, and it’s continuously been one of my favorites. To be honest, I only knew about bebop then, so it was a bit of a challenge at first. But every now and then, I would pull out the record, listen to it, and think “Wow, this is really, really cool!” And, the more I continued to play jazz, the more captivated I became by his sound and his playing. A few years later in Tokyo, I was able to meet Mine-san again, and I even stood on the same stage as him. The fact that the day finally came when I could play with him on my own leader album is truly like a dream come true. I feel very blessed.
+When I was still a youngster in my early twenties (yes, there was such a time… haha) and a total beginner in jazz, I was looked after by the owner of a local jazz spot called Swing House in my hometown of Takamatsu. One day, a regular customer told me “Kosuke Mine is coming here, and you definitely should hear him!” So, when he came to perform as a touring member with guitarist Yoshiaki Masuo, that’s when I first met and heard Mine-san. (Mine-san probably doesn’t remember that time, but ever since then, he has been incredibly kind and wonderful to me!) I bought his /[Major to Minor](/kohsuke-mine-quintet-major-to-minor/) /album at the time, and it’s continuously been one of my favorites. To be honest, I only knew about bebop then, so it was a bit of a challenge at first. But every now and then, I would pull out the record, listen to it, and think “Wow, this is really, really cool!” And, the more I continued to play jazz, the more captivated I became by his sound and his playing. A few years later in Tokyo, I was able to meet Mine-san again, and I even stood on the same stage as him. The fact that the day finally came when I could play with him on my own leader album is truly like a dream come true. I feel very blessed.
 
 {{< figure src="L1260200x-1200.jpeg" link="L1260200x-1200.jpeg" >}}
 
@@ -61,11 +61,11 @@ There is a beach in my hometown in the Kagawa Prefecture where the sunsets are v
 
 4.  Melancholy Marie (Miyuki Moriya)
 
-This is a song I wrote to celebrate the birthday of Mariko-san, the cute wife of Miyazaki-san who runs the jazz bar [Cochi](https://www.jazzofjapan.com/archive/cochi) in Koiwa. It’s a fun and relaxing place that I visit almost every month. The ever-kind Mariko-san always worries about her husband, as he loves alcohol a lot and sometimes drinks too much. They are an incredibly wonderful couple.
+This is a song I wrote to celebrate the birthday of Mariko-san, the cute wife of Miyazaki-san who runs the jazz bar [Cochi](/cochi/) in Koiwa. It’s a fun and relaxing place that I visit almost every month. The ever-kind Mariko-san always worries about her husband, as he loves alcohol a lot and sometimes drinks too much. They are an incredibly wonderful couple.
 
 5.  Maverick (Miyuki Moriya)
 
-It means a lone wolf, a rebel. The barmaster of the jazz bar [Salt Peanuts](https://www.jazzofjapan.com/archive/salt-peanuts) in Ekoda has been taking care of our band for many years. This tough character has seen the Tom Cruise movie _Top Gun: Maverick_ at the movie theater more than 50 times! We choose the title of this song in appreciation for him.
+It means a lone wolf, a rebel. The barmaster of the jazz bar [Salt Peanuts](/salt-peanuts/) in Ekoda has been taking care of our band for many years. This tough character has seen the Tom Cruise movie _Top Gun: Maverick_ at the movie theater more than 50 times! We choose the title of this song in appreciation for him.
 
 6.  Beyond the Sea (Miyuki Moriya)
 
@@ -83,7 +83,7 @@ This is a swing number inspired by “Cannonball”, aka saxophone player Julian
 
 This is a ballad by my esteemed instructor Hidefumi Toki. The person I have become today, who is able to continue playing jazz from then to now, is the result of my meeting Toki-san. I still treasure the things he taught me and the courage he gave me. It was an honor to be one of his students. With gratitude.
 
-This album has a completely different atmosphere compared to my earlier two albums. My album from two releases ago, _Mukashi Mukashi_, paid respect to the free jazz of 1970s Japan. My previous release [_Uta Oto_](https://www.jazzofjapan.com/archive/miyuki-moriya-uta-oto) was inspired by nature, the Earth, and distant foreign lands. I hope that listeners who have been with me since earlier albums will enjoy this change. At the same time, I hope that new audiences who may be hearing me for the first time through this album will also be inspired to explore the different sides of Miyuki Moriya that I’ve created so far.
+This album has a completely different atmosphere compared to my earlier two albums. My album from two releases ago, _Mukashi Mukashi_, paid respect to the free jazz of 1970s Japan. My previous release [_Uta Oto_](/miyuki-moriya-uta-oto/) was inspired by nature, the Earth, and distant foreign lands. I hope that listeners who have been with me since earlier albums will enjoy this change. At the same time, I hope that new audiences who may be hearing me for the first time through this album will also be inspired to explore the different sides of Miyuki Moriya that I’ve created so far.
 
 At the beginning of these liner notes, I mentioned that this album feels like a continuation of my first album. While our situations and environments have changed over the years, I’m extremely happy to be able to put out this work together. These great, hardworking musicians who I’ve played with up to now and into the future still remind me of the fresh and energetic feelings that I had when I first started playing.
 
@@ -99,11 +99,11 @@ The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor p
 
 ## Beyond the Sea by Miyuki Moriya
 
--   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax, soprano sax
--   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (#2, 3, 5, 6, 7)
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Junichi Sato](/tags/junichi-sato) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax, soprano sax
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (#2, 3, 5, 6, 7)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Junichi Sato](/tags/junichi-sato/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
 
 Released in 2024 on Coume Music as CUM-2401.
 

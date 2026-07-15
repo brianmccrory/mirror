@@ -34,11 +34,11 @@ All the musician shine with visceral playing and a clean sound, with solos, duos
 
 ## Bonanza by Yudo Matsuo
 
--   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
--   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless electric bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
--   [Takeru Yamazaki](/tags/takeru-yamazaki) - keyboards (#2, 4, 9)
+-   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Takeru Yamazaki](/tags/takeru-yamazaki/) - keyboards (#2, 4, 9)
 
 Released in 2012 on Coume Music as DQC-919.
 

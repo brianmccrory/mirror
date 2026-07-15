@@ -3,10 +3,10 @@ title = "Barbra"
 author = ["Brian McCrory"]
 description = "Barbra jazz club, located near Ginza and Shimbashi stations in Tokyo, Japan"
 publishDate = 2023-05-25
-keywords = ["barbra"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "barbra"
 issue = 168
 [cover]
   image = "L1030324-1024.jpeg"

@@ -3,10 +3,10 @@ title = "Thelonious"
 author = ["Brian McCrory"]
 description = "Thelonious jazz club, located near Higashi-nakano and Ochiai stations in Tokyo, Japan"
 publishDate = 2025-05-23
-keywords = ["thelonious"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "thelonious"
 issue = 310
 [cover]
   image = "IMG_20250303_200615544-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 310
   relative = true
 +++
 
-“The World’s Smallest Jazz Club” was a commonly mentioned nickname for the jazz club [Hot House](https://www.jazzofjapan.com/archive/hot-house) in Takadanobaba, Tokyo. But now that that classic spot has closed, this honorable title could be given to the spot named Thelonious, another classic Tokyo haven that is a revered yet extremely down-to-earth jazz bar in Higashi-Nakano. (Still, there are many other possible contenders for this “World’s Smallest” title, such as [P’s Bar](https://www.jazzofjapan.com/archive/ps-bar), [Polka Dots](https://www.jazzofjapan.com/archive/polka-dots/), and others...)
+“The World’s Smallest Jazz Club” was a commonly mentioned nickname for the jazz club [Hot House](/hot-house/) in Takadanobaba, Tokyo. But now that that classic spot has closed, this honorable title could be given to the spot named Thelonious, another classic Tokyo haven that is a revered yet extremely down-to-earth jazz bar in Higashi-Nakano. (Still, there are many other possible contenders for this “World’s Smallest” title, such as [P’s Bar](/ps-bar/), [Polka Dots](/polka-dots/), and others...)
 
 {{< figure src="L1280225-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Ayu Yoneda (sax), Mamoru Ishida (piano), Kenji Yoshitake (bass), and Minori Yagino (drums) at Thelonious in March 2025" link="L1280225-1200.jpeg" >}}
 

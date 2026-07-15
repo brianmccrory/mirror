@@ -3,10 +3,10 @@ title = "Velera"
 author = ["Brian McCrory"]
 description = "Velera jazz bar, located near Akasaka-mitsuke station in Tokyo, Japan"
 publishDate = 2026-05-28
-keywords = ["velera"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "velera"
 issue = 367
 [cover]
   image = "IMG_20190613_210528443_HDRx-1200.jpeg"

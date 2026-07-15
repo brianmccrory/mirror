@@ -3,10 +3,10 @@ title = "Sunny Side"
 author = ["Brian McCrory"]
 description = "Sunny Side jazz club, located near Takadanobaba and Nishi-waseda stations in Tokyo, Japan"
 publishDate = 2025-03-18
-keywords = ["sunny-side"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "sunny-side"
 issue = 298
 [cover]
   image = "L1270509-1200.jpeg"

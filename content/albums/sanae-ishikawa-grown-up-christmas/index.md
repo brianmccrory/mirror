@@ -30,11 +30,11 @@ Track two features Ishikawa with “Soft Voice”, a four-part vocal group singi
 
 ## Grown-up Christmas Gift by Sanae Ishikawa
 
--   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar
--   [Hideaki Hori](/tags/hideaki-hori) - piano, keyboard
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums, bell
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano, keyboard
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums, bell
 
 Released in 2018 on Sanae Ishikawa Seasonal Japanese Songbook Project as SJSP-002.
 

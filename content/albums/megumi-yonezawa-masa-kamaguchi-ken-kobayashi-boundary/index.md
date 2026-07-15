@@ -59,9 +59,9 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 
 ## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi
 
--   [Megumi Yonezawa](/tags/megumi-yonezawa) - piano
--   [Masa Kamaguchi](/tags/masa-kamaguchi) - bass
--   [Ken Kobayashi](/tags/ken-kobayashi) - drums
+-   [Megumi Yonezawa](/tags/megumi-yonezawa/) - piano
+-   [Masa Kamaguchi](/tags/masa-kamaguchi/) - bass
+-   [Ken Kobayashi](/tags/ken-kobayashi/) - drums
 
 Released in 2018 on ESP-Disk’ as ESP-5023.
 

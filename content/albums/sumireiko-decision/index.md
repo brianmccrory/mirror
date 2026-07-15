@@ -41,8 +41,8 @@ The title track #6 “Decision” is a multi-part suite whose sections introduce
 
 ## Decision by Sumireiko
 
--   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
 
 Released in 2020 on Sumireiko as Decision.
 

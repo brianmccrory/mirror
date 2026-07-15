@@ -50,9 +50,9 @@ Takako Yamada Trio
 
 ## Live at The Moment by Takako Yamada Trio
 
--   [Takako Yamada](/tags/takako-yamada) - piano
--   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu) - bass
--   [Ko Omura](/tags/ko-omura) - drums, tabla
+-   [Takako Yamada](/tags/takako-yamada/) - piano
+-   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla
 
 Released in 2024 on GoodNessPlus Records as GNPR-1195.
 

@@ -30,7 +30,7 @@ The three other cover songs are pulled from Brazilian music, with track 5 “Fel
 
 When not scat-singing on these songs, Nobie sings lyrics that have been translated into Japanese, adding another unique twist to the mix of Brazil and Japan that Nobie embodies so well.
 
-The seven original songs are led by the album opener “Introduction”, a short and wordless vocal welcome that sets the stage with Nobie’s vocal overdubs and percussion. The riff turns through a hypnotic cycle over a slippery beat, similar to some of the music she creates with another of her groups, the trio [Les Komatis](https://www.jazzofjapan.com/archive/les-komatis-les-komatis).
+The seven original songs are led by the album opener “Introduction”, a short and wordless vocal welcome that sets the stage with Nobie’s vocal overdubs and percussion. The riff turns through a hypnotic cycle over a slippery beat, similar to some of the music she creates with another of her groups, the trio [Les Komatis](/les-komatis-les-komatis/).
 
 {{< figure src="L1250454x-1200.jpeg" link="L1250454x-1200.jpeg" >}}
 
@@ -40,7 +40,7 @@ Tracks 6 through 9 are four of guitarist Takayoshi Baba’s songs played by Baba
 
 Nobie’s golden sweet voice is ever charming, deceptively soft but ultra dynamic, and powered by a nimble and quick lightness that leaps effortlessly above a foundation of a locked-in sense of time and rhythms. In certain songs, Nobie will also often add claps, slaps, hand percussion, or vocal pops, clicks, and percussive sounds for added rhythmic layers, sometimes even simultaneously while singing.
 
-Like the album’s opener, the final song, track 11 “Komaku” (_eardrum_), departs slightly from the rest of the music. This parting song creates a wide open, ambient space for the album’s outro with lush guitar delays and effects drawing a spellbinding mood similar to her tune “Loop” on her debut album [Primary](https://www.jazzofjapan.com/archive/nobie/primary).
+Like the album’s opener, the final song, track 11 “Komaku” (_eardrum_), departs slightly from the rest of the music. This parting song creates a wide open, ambient space for the album’s outro with lush guitar delays and effects drawing a spellbinding mood similar to her tune “Loop” on her debut album [Primary](/nobie/primary/).
 
 
 ## Liner Notes
@@ -78,12 +78,12 @@ Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of bal
 
 ## Owari to Hajimari by Nobie &amp; Takayoshi Baba
 
--   [Nobie](/tags/nobie) - vocal/percussion/chorus
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar/chorus
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano (#5)
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano (#4, 10)
--   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi) - bass/chorus (#2, 4, 10)
--   [Yoichi Okabe](/tags/yoichi-okabe) - percussion (#2, 4, 10)
+-   [Nobie](/tags/nobie/) - vocal/percussion/chorus
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar/chorus
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano (#5)
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano (#4, 10)
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass/chorus (#2, 4, 10)
+-   [Yoichi Okabe](/tags/yoichi-okabe/) - percussion (#2, 4, 10)
 
 Released in 2023 on F.S.L. as FSCJ-0024.
 

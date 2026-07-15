@@ -60,10 +60,10 @@ The first album from Toshihiko Inoue’s “Clepsydra”.
 
 ## Un Jour by Clepsydra
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
--   [Yoshiaki Sato](/tags/yoshiaki-sato) - accordion, clavietta, chorus
--   [Masaki Hayashi](/tags/masaki-hayashi) - piano, chorus
--   [Saori Sendo](/tags/saori-sendo) - percussion, glockenspiel, chorus
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - tenor sax, soprano sax
+-   [Yoshiaki Sato](/tags/yoshiaki-sato/) - accordion, clavietta, chorus
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano, chorus
+-   [Saori Sendo](/tags/saori-sendo/) - percussion, glockenspiel, chorus
 
 Released in 2011 on Casnet Music as CSNT-8006.
 

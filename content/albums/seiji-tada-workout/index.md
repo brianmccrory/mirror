@@ -32,10 +32,10 @@ Whether Japanese or American, in New York or Tokyo, the “This is Jazz!” spir
 
 ## Workout!! by Seiji Tada
 
--   [Seiji Tada](/tags/seiji-tada) - alto sax, flute, alto flute
--   [Renee Rosnes](/tags/renee-rosnes) - piano
--   [Peter Washington](/tags/peter-washington) - bass
--   [Kenny Washington](/tags/kenny-washington) - drums
+-   [Seiji Tada](/tags/seiji-tada/) - alto sax, flute, alto flute
+-   [Renee Rosnes](/tags/renee-rosnes/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Kenny Washington](/tags/kenny-washington/) - drums
 
 Released in 2018 on Studio TLive Records as STLR-018.
 

@@ -3,10 +3,10 @@ title = "Aketa no Mise"
 author = ["Brian McCrory"]
 description = "Aketa no Mise jazz bar, located near Nishi-Ogikubo station in Tokyo, Japan"
 publishDate = 2026-02-09
-keywords = ["aketa-no-mise"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "aketa-no-mise"
 issue = 350
 [cover]
   image = "L1280616x-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 350
   relative = true
 +++
 
-A few minutes walk from Nishi-Ogikubo station in Tokyo lies a scruffy stairway that leads down to the entrance to Aketa no Mise jazz bar. Above the stairway lies the Japanese name アケタの店 (Aketa no Mise — more on this later) and the words LIVE, SINCE 1974, and, in small print in a corner, アケタ革 (Aketagawa), and attached to the walls are crinkled flyers, schedules, and faded pictures of jazz events. There are enough clues for first-timers who lack Japanese fluency to know that this must be the jazz bar near Nishi-Ogikubo station that they were told about. Plus, it’s another legendary jazz spot right off of the lengthy Chuo train line, aka the “jazz line”, along with [Velvet Sun](https://www.jazzofjapan.com/archive/velvet-sun), [Manhattan](https://www.jazzofjapan.com/archive/manhattan), [Shinjuku Pit Inn](https://www.jazzofjapan.com/archive/pit-inn), and others.
+A few minutes walk from Nishi-Ogikubo station in Tokyo lies a scruffy stairway that leads down to the entrance to Aketa no Mise jazz bar. Above the stairway lies the Japanese name アケタの店 (Aketa no Mise — more on this later) and the words LIVE, SINCE 1974, and, in small print in a corner, アケタ革 (Aketagawa), and attached to the walls are crinkled flyers, schedules, and faded pictures of jazz events. There are enough clues for first-timers who lack Japanese fluency to know that this must be the jazz bar near Nishi-Ogikubo station that they were told about. Plus, it’s another legendary jazz spot right off of the lengthy Chuo train line, aka the “jazz line”, along with [Velvet Sun](/velvet-sun/), [Manhattan](/manhattan/), [Shinjuku Pit Inn](/pit-inn/), and others.
 
 {{< figure src="IMG_20251021_193935357-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>The downstairs entry to Akena no Mise" link="IMG_20251021_193935357-1200.jpeg" >}}
 

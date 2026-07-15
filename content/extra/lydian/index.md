@@ -3,10 +3,10 @@ title = "Lydian"
 author = ["Brian McCrory"]
 description = "Lydian jazz club, located near Ogawamachi and Awajicho stations in Tokyo, Japan (permanently closed)"
 publishDate = 2023-12-01
-keywords = ["lydian"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "lydian"
 issue = 214
 [cover]
   image = "left-right-crop-2048.jpeg"

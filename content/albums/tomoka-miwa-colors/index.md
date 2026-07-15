@@ -24,10 +24,10 @@ The instrumental musicians get plenty of space for stretching out, with pianist 
 
 ## Colors in Silence by Tomoka Miwa
 
--   [Tomoka Miwa](/tags/tomoka-miwa) - vocal
--   [Yuichi Narita](/tags/yuichi-narita) - piano, keyboards
--   [Daisuke Toi](/tags/daisuke-toi) - bass
--   [Sebastiaan Kaptein](/tags/sebastiaan-kaptein) - drums
+-   [Tomoka Miwa](/tags/tomoka-miwa/) - vocal
+-   [Yuichi Narita](/tags/yuichi-narita/) - piano, keyboards
+-   [Daisuke Toi](/tags/daisuke-toi/) - bass
+-   [Sebastiaan Kaptein](/tags/sebastiaan-kaptein/) - drums
 
 Released in 2015 on Tomoka Miwa as MUW-002.
 

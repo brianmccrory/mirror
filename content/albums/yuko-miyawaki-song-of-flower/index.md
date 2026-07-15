@@ -30,12 +30,12 @@ In addition to her compelling horn playing, Miyawaki’s contributions also incl
 
 ## Song of Flower by Yuko Miyawaki
 
--   [Yuko Miyawaki](/tags/yuko-miyawaki) - trumpet, flugelhorn
--   [Yutaka Handa](/tags/yutaka-handa) - tenor sax
--   [Taeko Kurita](/tags/taeko-kurita) - piano
--   [Yutaka Kaido](/tags/yutaka-kaido) - bass
--   [Masashi Tomikawa](/tags/masashi-tomikawa) - drums
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano (tr. #3, 5, 6, 8, 9)
+-   [Yuko Miyawaki](/tags/yuko-miyawaki/) - trumpet, flugelhorn
+-   [Yutaka Handa](/tags/yutaka-handa/) - tenor sax
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Yutaka Kaido](/tags/yutaka-kaido/) - bass
+-   [Masashi Tomikawa](/tags/masashi-tomikawa/) - drums
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (tr. #3, 5, 6, 8, 9)
 
 Released in 2011 on Coume Music as DQC-614.
 

@@ -32,8 +32,8 @@ Playful yet serious, the duo also covers mid-tempo and ballad tracks such as “
 
 ## Phase 2 by Emiko Voice x Suga Dairo
 
--   [Emiko Voice](/tags/emiko-voice) - vocal
--   [Dairo Suga](/tags/dairo-suga) - piano
+-   [Emiko Voice](/tags/emiko-voice/) - vocal
+-   [Dairo Suga](/tags/dairo-suga/) - piano
 
 Released in 2009 on Cool Fool as CLFL-0003.
 

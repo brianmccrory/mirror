@@ -36,9 +36,9 @@ On _Life Is Too Great_, Kishi’s tunes and performances are great and full of l
 
 ## Life Is Too Great by Sayaka Kishi Trio
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard, keyharmonica, percussion
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, keyboard, keyharmonica, percussion
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
 
 Released in 2019 on T-TOC Records as TTOC-0034.
 

@@ -3,10 +3,10 @@ title = "Dug"
 author = ["Brian McCrory"]
 description = "Dug jazz bar, located near Shinjuku station in Tokyo, Japan"
 publishDate = 2023-09-13
-keywords = ["dug"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "dug"
 issue = 201
 [cover]
   image = "P1010446-1024.jpeg"

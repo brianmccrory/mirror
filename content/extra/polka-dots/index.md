@@ -3,10 +3,10 @@ title = "Polka Dots"
 author = ["Brian McCrory"]
 description = "Polka Dots jazz club, located near Shinjuku-Sanchome station in Tokyo, Japan"
 publishDate = 2023-05-19
-keywords = ["polka-dots"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "polka-dots"
 issue = 165
 [cover]
   image = "IMG_20190521_210948036-1024.jpeg"

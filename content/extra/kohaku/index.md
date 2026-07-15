@@ -3,10 +3,10 @@ title = "Kohaku"
 author = ["Brian McCrory"]
 description = "Kohaku jazz club, located near Shibuya station in Tokyo, Japan"
 publishDate = 2024-01-18
-keywords = ["kohaku"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "kohaku"
 issue = 224
 [cover]
   image = "IMG_20230405_200313739-1024.jpeg"

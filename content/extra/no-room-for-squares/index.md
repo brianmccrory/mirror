@@ -3,10 +3,10 @@ title = "No Room for Squares"
 author = ["Brian McCrory"]
 description = "No Room for Squares jazz club, located near Shimo-Kitazawa station in Tokyo, Japan"
 publishDate = 2023-09-27
-keywords = ["no-room-for-squares"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "no-room-for-squares"
 issue = 204
 [cover]
   image = "IMG_20230325_233326128-1024.jpeg"

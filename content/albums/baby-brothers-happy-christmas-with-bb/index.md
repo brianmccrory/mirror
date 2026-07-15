@@ -31,11 +31,11 @@ Following the eight live tracks, four studio-recorded songs include two finely-t
 
 ## Happy Christmas with Bb by Baby Brothers
 
--   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
--   [Monet](/tags/monet) - vocal
--   [Kyoko Ogata](/tags/kyoko-ogata) - vocal
--   [Takahiko Goto](/tags/takahiko-goto) - vocal
--   [Yohhei](/tags/yohhei) - vocal
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Monet](/tags/monet/) - vocal
+-   [Kyoko Ogata](/tags/kyoko-ogata/) - vocal
+-   [Takahiko Goto](/tags/takahiko-goto/) - vocal
+-   [Yohhei](/tags/yohhei/) - vocal
 
 Released in 2007 on Baby Brothers as Side B.
 

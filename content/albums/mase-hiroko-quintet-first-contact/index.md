@@ -112,7 +112,7 @@ The nucleus of this project is the two-horn quintet form with great technique an
 
 “Mase Hiroko All Stars”
 
-The quintet expands as additional musicians join with percussion, keyboard, electric bass, and the colorful acoustic/electric Brazilian sound of vocalist [Nobie](https://www.jazzofjapan.com/archive/nobie-benin-rio-tokyo). The lyrics were co-written with Eiji Otogawa with a strong message and originality, exciting music for a unique band.
+The quintet expands as additional musicians join with percussion, keyboard, electric bass, and the colorful acoustic/electric Brazilian sound of vocalist [Nobie](/nobie-benin-rio-tokyo/). The lyrics were co-written with Eiji Otogawa with a strong message and originality, exciting music for a unique band.
 
 “Multiverse Suite”
 
@@ -129,11 +129,11 @@ _September 2020_
 
 ## First Contact by Mase Hiroko Quintet
 
--   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
--   [Eiji Otogawa](/tags/eiji-otogawa) - tenor saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
--   [Kosuke Ochiai](/tags/kosuke-ochiai) - bass, percussion
--   [Sota Kira](/tags/sota-kira) - drums, percussion
+-   [Hiroko Mase](/tags/hiroko-mase/) - soprano saxophone
+-   [Eiji Otogawa](/tags/eiji-otogawa/) - tenor saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass, percussion
+-   [Sota Kira](/tags/sota-kira/) - drums, percussion
 
 Released in 2020 on F.S.L. as FSCJ-0019.
 

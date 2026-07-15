@@ -36,14 +36,14 @@ In addition to providing a glimpse into the modern working trio in Tokyo’s cur
 
 ## Trios II by Daiki Yasukagawa Trio
 
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano (#1, 2)
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano (#3, 4)
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano (#5, 6)
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano (#7, 8, 9, 10, 11)
--   [Ryo Noritake](/tags/ryo-noritake) - drums (#1, 2)
--   [Yuto Hirase](/tags/yuto-hirase) - drums (#3, 4)
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums (#5, 6, 7, 8, 9, 10, 11)
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano (#1, 2)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano (#3, 4)
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano (#5, 6)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano (#7, 8, 9, 10, 11)
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums (#1, 2)
+-   [Yuto Hirase](/tags/yuto-hirase/) - drums (#3, 4)
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums (#5, 6, 7, 8, 9, 10, 11)
 
 Released in 2015 on D-Musica as DMCD-28.
 

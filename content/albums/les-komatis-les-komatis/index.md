@@ -34,10 +34,10 @@ Les Komatis balances jazz, pop, and Latin with the album’s originals, comforta
 
 ## Les Komatis by Les Komatis
 
--   [Nobie](/tags/nobie) - vocal, voice, percussion
--   [Akemi Ohta](/tags/akemi-ohta) - flute, alto flute, percussion, chorus
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano, Rhodes piano, chorus
--   [Nobumasa Yamada](/tags/nobumasa-yamada) - percussion
+-   [Nobie](/tags/nobie/) - vocal, voice, percussion
+-   [Akemi Ohta](/tags/akemi-ohta/) - flute, alto flute, percussion, chorus
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano, Rhodes piano, chorus
+-   [Nobumasa Yamada](/tags/nobumasa-yamada/) - percussion
 
 Released in 2015 on F.S.L as FSCJ-0007.
 

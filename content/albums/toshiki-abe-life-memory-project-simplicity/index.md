@@ -41,9 +41,9 @@ I recently asked Toshiki Abe his about the memories he had of Life Memory Projec
 
 ## The Simplicity by Toshiki Abe Life Memory Project
 
--   [Toshiki Abe](/tags/toshiki-abe) - saxophone
--   [Sayaka Kishi](/tags/sayaka-kishi) - organ
--   [Tetsunori Morinaga](/tags/tetsunori-morinaga) - drums
+-   [Toshiki Abe](/tags/toshiki-abe/) - saxophone
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - organ
+-   [Tetsunori Morinaga](/tags/tetsunori-morinaga/) - drums
 
 Released in 2022 on Yokohama Reunion as YRCD-020.
 

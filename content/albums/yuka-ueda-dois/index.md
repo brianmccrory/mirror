@@ -34,12 +34,12 @@ As with her debut album _Agora_, the singer is supported by her familiar guitar 
 
 ## Dois by Yuka Ueda
 
--   [Yuka Ueda](/tags/yuka-ueda) - vocal
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums
--   [Shinji Hashimoto](/tags/shinji-hashimoto) - electric guitar (#1, 5, 7)
--   [Jo da Babylonia](/tags/jo-da-babylonia) - cavaquinho (#1, 8, 9)
+-   [Yuka Ueda](/tags/yuka-ueda/) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - electric guitar (#1, 5, 7)
+-   [Jo da Babylonia](/tags/jo-da-babylonia/) - cavaquinho (#1, 8, 9)
 
 Released in 2013 on Audio Fab Records as AFD-110.
 

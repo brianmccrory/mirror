@@ -55,10 +55,10 @@ Particularly impactful, the last track #5 “Grief Runs Deep” starts with a he
 
 ## Virtual Silence by Chie Nishimura
 
--   [Chie Nishimura](/tags/chie-nishimura) - vocal
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [May Inoue](/tags/may-inoue) - guitar
--   [Tamaya Honda](/tags/tamaya-honda) - drums
+-   [Chie Nishimura](/tags/chie-nishimura/) - vocal
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [May Inoue](/tags/may-inoue/) - guitar
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums
 
 Released in 2021 on en records as Virtual Silence / Chie Nishimura.
 

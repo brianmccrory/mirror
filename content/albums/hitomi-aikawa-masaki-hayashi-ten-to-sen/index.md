@@ -100,8 +100,8 @@ An incredibly pleasing 47 minutes from two brilliant musicians that I love <br /
 
 ## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi
 
--   [Hitomi Aikawa](/tags/hitomi-aikawa) - marimba, percussion
--   [Masaki Hayashi](/tags/masaki-hayashi) - piano
+-   [Hitomi Aikawa](/tags/hitomi-aikawa/) - marimba, percussion
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano
 
 Released in 2025 on Hitomi Aikawa as HICD-002.
 

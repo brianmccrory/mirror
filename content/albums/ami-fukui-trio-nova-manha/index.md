@@ -18,7 +18,7 @@ Pianist Ami Fukui continues her original jazz journey with _Nova Manhã_, her fo
 
 {{< figure src="L1230252-1024.jpeg" link="L1230252-1024.jpeg" >}}
 
-As with her previous releases _[Urban Clutter](https://www.jazzofjapan.com/archive/ami-fukui-trio-urban-clutter)_ (2010), _[Amizm](https://www.jazzofjapan.com/archive/ami-fukui-amizm)_ (2013), and _[New Journey](https://www.jazzofjapan.com/archive/ami-fukui-trio-new-journey)_ (2016), this creative musician focuses her original music on the specific sound of her trio and her concept this time out. Seven of the eight tracks on this album are her own compositions. Her music is often colorful, perhaps with more calming hues on this release, and her unique blend of cool beats and pop melodies with a soulful smile runs through the music.
+As with her previous releases _[Urban Clutter](/ami-fukui-trio-urban-clutter/)_ (2010), _[Amizm](/ami-fukui-amizm/)_ (2013), and _[New Journey](/ami-fukui-trio-new-journey/)_ (2016), this creative musician focuses her original music on the specific sound of her trio and her concept this time out. Seven of the eight tracks on this album are her own compositions. Her music is often colorful, perhaps with more calming hues on this release, and her unique blend of cool beats and pop melodies with a soulful smile runs through the music.
 
 Fukui’s music often uses a modern jazz style beat almost like light neo-jazz with a groovy Latin backbone, as compared to a traditional swing rhythm or blues shuffle. Right from the album title, the jazzy opening track “Nova Manhã” (“new morning” in Portuguese) is underpinned by a subtly compelling rhythm similar to Brazilian or Afro-Cuban rhythms found in some EDM/electronic dance and pop music, but through a jazz lens.
 
@@ -118,9 +118,9 @@ I wrote this song thinking about how fun it is to play with these kitties. The s
 
 ## Nova Manhã by Ami Fukui Trio
 
--   [Ami Fukui](/tags/ami-fukui) - piano
--   [Keigo Iwami](/tags/keigo-iwami) - bass
--   [Sota Kira](/tags/sota-kira) - drums
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Keigo Iwami](/tags/keigo-iwami/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
 
 Released in 2022 on MAM Records as MR-001.
 

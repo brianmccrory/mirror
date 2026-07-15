@@ -30,9 +30,9 @@ Although this release is on the shorter side, it previews what is to come from T
 
 ## Protean by Protean
 
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano
--   [Naoyuki Seto](/tags/naoyuki-seto) - electric bass
--   [Dan Yoshikawa](/tags/dan-yoshikawa) - drums
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Naoyuki Seto](/tags/naoyuki-seto/) - electric bass
+-   [Dan Yoshikawa](/tags/dan-yoshikawa/) - drums
 
 Released in 2009 on Protean as Protean.
 

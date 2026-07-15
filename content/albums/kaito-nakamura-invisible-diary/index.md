@@ -14,7 +14,7 @@ related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
   relative = true
 +++
 
-_Invisible Diary_, released in March 2025, is the latest release from drummer Kaito Nakamura. On this sixty-three minute, nine-track album, Nakamura plays with his regular quartet of Riko Sasaki on saxophone, Otohito Fuse on piano, and Riku Takahashi on bass, and adds guitarist Ippei Kato on six songs. The trio of pianist Fuse, bassist Takahashi, and drummer Nakamura also played on Fuse’s album debut _[Isolated](https://www.jazzofjapan.com/archive/otohito-fuse-trio-isolated)_ from last year.
+_Invisible Diary_, released in March 2025, is the latest release from drummer Kaito Nakamura. On this sixty-three minute, nine-track album, Nakamura plays with his regular quartet of Riko Sasaki on saxophone, Otohito Fuse on piano, and Riku Takahashi on bass, and adds guitarist Ippei Kato on six songs. The trio of pianist Fuse, bassist Takahashi, and drummer Nakamura also played on Fuse’s album debut _[Isolated](/otohito-fuse-trio-isolated/)_ from last year.
 
 {{< figure src="L1280853x-1200.jpeg" link="L1280853x-1200.jpeg" >}}
 
@@ -39,11 +39,11 @@ With no liner notes to explain the music, the songs speak for themselves. It’s
 
 ## Invisible Diary by Kaito Nakamura
 
--   [Kaito Nakamura](/tags/kaito-nakamura) - drums
--   [Riko Sasaki](/tags/riko-sasaki) - alto saxophone
--   [Otohito Fuse](/tags/otohito-fuse) - piano
--   [Riku Takahashi](/tags/riku-takahashi) - bass
--   [Ippei Kato](/tags/ippei-kato) - guitar (#1, 2, 3, 7, 8, 9)
+-   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
+-   [Riko Sasaki](/tags/riko-sasaki/) - alto saxophone
+-   [Otohito Fuse](/tags/otohito-fuse/) - piano
+-   [Riku Takahashi](/tags/riku-takahashi/) - bass
+-   [Ippei Kato](/tags/ippei-kato/) - guitar (#1, 2, 3, 7, 8, 9)
 
 Released in 2025 on MidVillage as MV-001.
 

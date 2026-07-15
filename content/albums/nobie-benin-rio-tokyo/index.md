@@ -32,10 +32,10 @@ On the Tokyo section, Nobie performs an impressive acapella version of Dave Brub
 
 ## Bénin Rio Tokyo by Nobie
 
--   [Nobie](/tags/nobie) - vocal
--   [Lionel Loueke](/tags/lionel-loueke) - guitar, vocals (#1-4)
--   [Toninho Horta](/tags/toninho-horta) - guitar, vocals (#5-6)
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar (#8)
+-   [Nobie](/tags/nobie/) - vocal
+-   [Lionel Loueke](/tags/lionel-loueke/) - guitar, vocals (#1-4)
+-   [Toninho Horta](/tags/toninho-horta/) - guitar, vocals (#5-6)
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar (#8)
 
 Released in 2018 on Dear Heart as DBCW-3333.
 

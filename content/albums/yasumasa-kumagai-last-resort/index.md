@@ -18,7 +18,7 @@ The latest album from J Jazz pianist Yasumasa Kumagai is titled _Last Resort_, r
 
 {{< figure src="L1230326x-1024.jpeg" link="L1230326x-1024.jpeg" >}}
 
-This album follows his previous release _[J-Straight Ahead](https://www.jazzofjapan.com/archive/yasumasa-kumagai-j-straight-ahead)_ after five years. The pianist and composer Kumagai regularly records as a trio on his albums, but his main motivation this time was to change to a quartet setting for all songs. Similarly, the overall sound changes very slightly as well, towards Latin-inspired modern jazz — not straight Latin jazz, but modern-day straight-ahead jazz with a variety of spicy influences. Like the playing and concepts that listeners loved on his previous releases, it’s still Kumagai’s music, combining his lively playing with hummable melodies and gripping beats, infused with hues of hip-hop music and personality. Particularly, Kumagai’s command of groove, gospel, and Glasper-inspired music is strongly felt as he pulls from his deep well of authentic and modern jazz, and the album is satisfyingly full of smart music, cool improvisation, and groovy bass lines and drum textures.
+This album follows his previous release _[J-Straight Ahead](/yasumasa-kumagai-j-straight-ahead/)_ after five years. The pianist and composer Kumagai regularly records as a trio on his albums, but his main motivation this time was to change to a quartet setting for all songs. Similarly, the overall sound changes very slightly as well, towards Latin-inspired modern jazz — not straight Latin jazz, but modern-day straight-ahead jazz with a variety of spicy influences. Like the playing and concepts that listeners loved on his previous releases, it’s still Kumagai’s music, combining his lively playing with hummable melodies and gripping beats, infused with hues of hip-hop music and personality. Particularly, Kumagai’s command of groove, gospel, and Glasper-inspired music is strongly felt as he pulls from his deep well of authentic and modern jazz, and the album is satisfyingly full of smart music, cool improvisation, and groovy bass lines and drum textures.
 
 Kumagai’s originals are always interesting, balancing simple, catchy melodies with more complex rhythms and structures, often in those odd-time meters like 7/4 or 12/8 that invigorate musicians and listeners alike. _Last Resort_ includes six of his new original tunes, with two additional cover songs wrapping up the set, literally: The entire album was recorded over one day with the songs played in order of the track listing. Capturing the day’s progression gives the album the feel of a live performance, and as the tracks progress, the momentum builds and the energy changes, much like a live band playing a setlist on stage. Even the final tune, “Caravan”, has the feel of an impromptu, high-energy encore as the song emerges out of an adrenalin-surging drum solo that had started on the previous song, recording both tracks in one continuous take and capping the album (and the recording session) on an intense high note.
 
@@ -94,10 +94,10 @@ That’s all for now. We appreciate your support as we continue to release new a
 
 ## Last Resort by Yasumasa Kumagai &amp; J-Jazz Homies
 
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
--   [Miki Hirose](/tags/miki-hirose) - trumpet
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass
--   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
 
 Released in 2020 on Jazzy Bear as JZBR-0002.
 

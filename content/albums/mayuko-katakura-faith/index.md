@@ -28,9 +28,9 @@ This straight-ahead jazz trio is marked by warmth between the musicians, who agr
 
 ## Faith by Mayuko Katakura
 
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Rodney Whitaker](/tags/rodney-whitaker) - bass
--   [Carl Allen](/tags/carl-allen) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Rodney Whitaker](/tags/rodney-whitaker/) - bass
+-   [Carl Allen](/tags/carl-allen/) - drums
 
 Released in 2010 on Pony Canyon as MYCJ-30578.
 

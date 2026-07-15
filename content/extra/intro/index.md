@@ -3,10 +3,10 @@ title = "Intro"
 author = ["Brian McCrory"]
 description = "Intro jazz club, located near Takadanobaba station in Tokyo, Japan"
 publishDate = 2023-07-03
-keywords = ["intro"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "intro"
 issue = 184
 [cover]
   image = "P1040487-1024.jpeg"

@@ -82,12 +82,12 @@ I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had
 
 ## Appreciation by Naoko Tanaka
 
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano
--   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet (#1, 4)
--   [Takayuki Sato](/tags/takayuki-sato) - alto sax (#1, 6)
--   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - tenor sax (#4)
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet (#1, 4)
+-   [Takayuki Sato](/tags/takayuki-sato/) - alto sax (#1, 6)
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - tenor sax (#4)
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2022 on Naop Record as NT-0405.
 

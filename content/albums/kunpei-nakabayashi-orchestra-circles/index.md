@@ -37,16 +37,16 @@ As a long-experienced bassist, Nakabayashi knows how to expertly deliver the ess
 
 ## Circles by Kunpei Nakabayashi Orchestra
 
--   [Tokuhiro Doi](/tags/tokuhiro-doi) - alto sax, flute, clarinet
--   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, flute
--   [Yu Kuga](/tags/yu-kuga) - baritone sax
--   [Miki Hirose](/tags/miki-hirose) - trumpet 1
--   [Takuya Kuroda](/tags/takuya-kuroda) - trumpet 2
--   [Hirotsugu Sakemoto](/tags/hirotsugu-sakemoto) - trombone 1
--   [Shigetaka Ikemoto](/tags/shigetaka-ikemoto) - trombone 2
--   [Jun Miyakawa](/tags/jun-miyakawa) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
--   [Tomo Kanno](/tags/tomo-kanno) - drums
+-   [Tokuhiro Doi](/tags/tokuhiro-doi/) - alto sax, flute, clarinet
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, flute
+-   [Yu Kuga](/tags/yu-kuga/) - baritone sax
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet 1
+-   [Takuya Kuroda](/tags/takuya-kuroda/) - trumpet 2
+-   [Hirotsugu Sakemoto](/tags/hirotsugu-sakemoto/) - trombone 1
+-   [Shigetaka Ikemoto](/tags/shigetaka-ikemoto/) - trombone 2
+-   [Jun Miyakawa](/tags/jun-miyakawa/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Tomo Kanno](/tags/tomo-kanno/) - drums
 
 Released in 2021 on KP-LAB as KP-0001.
 

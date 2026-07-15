@@ -18,7 +18,7 @@ _As We Breathe_ is the 2008 release from the Ryosuke Hashizume Group, a sax-led 
 
 {{< figure src="L1200721x-1200.jpeg" link="L1200721x-1200.jpeg" >}}
 
-_As We Breathe_, with nine tracks and about 70 minutes, is the second album out of the six released by the group. Despite the earliness of this and their previous album (their debut [_Wordless_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-wordless)), their concept was already well-defined based on Hashizume’s compositions and musical direction, and the musicians show a cohesive personality with intuitively-linked playing and precise timing.
+_As We Breathe_, with nine tracks and about 70 minutes, is the second album out of the six released by the group. Despite the earliness of this and their previous album (their debut [_Wordless_](/ryosuke-hashizume-group-wordless/)), their concept was already well-defined based on Hashizume’s compositions and musical direction, and the musicians show a cohesive personality with intuitively-linked playing and precise timing.
 
 Over warm tones of electric guitar and fretless bass, the breathy, long notes of the tenor sax push through the air with an ethereal presence. The deep, round anchor of bass is necessary and comforting as active pinpoints of drums and cymbals light up and spark with energy. The sound of electrified strings inhabits the music, submerging and cresting unpredictably with a mesmerizing effect.
 
@@ -50,19 +50,19 @@ Track #6 “Keep in Mind” is an exploratory suite-like story, where the slow a
 
 Finally, #9 “Epilogue” retells the music of #1 “Last Song”, more exploratory, slower, with its unforgettable melody and rich chords moving like clouds in flux through the sky’s invisible currents.
 
-As seen in the track listing, there is an interesting use of self-reference in the song titles. The album starts with track #1 titled “Last Song”, and the last song is track #9 “Epilogue”, which is actually a redone version of “Last Song” (an epilogue, the last song). Also, in the middle of the disc is track #5 “Encore” — a strange place for an encore. Yet if you consider the album as one in-out of a single breath, then the midpoint could be the pause between, marking where the structure folds and loops back to the start (the end), and where it completes the circle to restart the next cycle of breath. (Perhaps a propos, “Cycles” is the title of a track included on both their _Wordless_ and [_Visible/Invisible_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-visible-invisible) releases.)
+As seen in the track listing, there is an interesting use of self-reference in the song titles. The album starts with track #1 titled “Last Song”, and the last song is track #9 “Epilogue”, which is actually a redone version of “Last Song” (an epilogue, the last song). Also, in the middle of the disc is track #5 “Encore” — a strange place for an encore. Yet if you consider the album as one in-out of a single breath, then the midpoint could be the pause between, marking where the structure folds and loops back to the start (the end), and where it completes the circle to restart the next cycle of breath. (Perhaps a propos, “Cycles” is the title of a track included on both their _Wordless_ and [_Visible/Invisible_](/ryosuke-hashizume-group-visible-invisible/) releases.)
 
 {{< figure src="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" link="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" >}}
 
 
 ## As We Breathe by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Masako Hamamura](/tags/masako-hamamura) - piano (#2, 8, 9)
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Masako Hamamura](/tags/masako-hamamura/) - piano (#2, 8, 9)
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
 
 Released in 2008 on BounDEE Jazz Library as DDCJ-13004/DDCJ-7004.
 

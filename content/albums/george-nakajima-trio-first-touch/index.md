@@ -63,9 +63,9 @@ _2021.4 George Nakajima_
 
 ## First Touch by George Nakajima Trio
 
--   [George Nakajima](/tags/george-nakajima) - piano
--   [Yutaka Yoshida](/tags/yutaka-yoshida) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [George Nakajima](/tags/george-nakajima/) - piano
+-   [Yutaka Yoshida](/tags/yutaka-yoshida/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2021 on Owl Wing Record as OWL-022.
 

@@ -38,9 +38,9 @@ The presence of the fellow lyrical jazz pianist Bill Evans is also felt througho
 
 ## Sympathy by Hitomi Nishiyama Trio
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
 
 Released in 2013 on Meantone Records as MT-004.
 

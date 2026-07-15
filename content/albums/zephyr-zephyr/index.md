@@ -30,9 +30,9 @@ Aside from original compositions, the album also features the jazz standard “S
 
 ## Zephyr by Zephyr
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano, tenor sax
--   [Teiji Taguchi](/tags/teiji-taguchi) - acoustic guitar
--   [Takashi Amano](/tags/takashi-amano) - electric guitar
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - soprano, tenor sax
+-   [Teiji Taguchi](/tags/teiji-taguchi/) - acoustic guitar
+-   [Takashi Amano](/tags/takashi-amano/) - electric guitar
 
 Released in 2013 on What’s New Records as WNCJ-2249.
 

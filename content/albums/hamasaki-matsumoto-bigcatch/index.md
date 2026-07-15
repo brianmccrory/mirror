@@ -38,13 +38,13 @@ Cover art by Akane Matsumoto (_dig those Big Catch big cats having a ball on the
 
 ## Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio
 
--   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor and soprano sax, flute
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Yasushi Gonjyo](/tags/yasushi-gonjyo) - bass
--   [Tatsuhiko Takeda](/tags/tatsuhiko-takeda) - drums
--   [Osamu Hikage](/tags/osamu-hikage) - bass (#3, 5, 6, 9)
--   [Kazuyoshi Kuroda](/tags/kazuyoshi-kuroda) - drums (#3, 5, 6, 9)
--   [Ryosuke Asai](/tags/ryosuke-asai) - alto sax (#6)
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor and soprano sax, flute
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Yasushi Gonjyo](/tags/yasushi-gonjyo/) - bass
+-   [Tatsuhiko Takeda](/tags/tatsuhiko-takeda/) - drums
+-   [Osamu Hikage](/tags/osamu-hikage/) - bass (#3, 5, 6, 9)
+-   [Kazuyoshi Kuroda](/tags/kazuyoshi-kuroda/) - drums (#3, 5, 6, 9)
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax (#6)
 
 Released in 2013 on Concept Records as CR-01.
 

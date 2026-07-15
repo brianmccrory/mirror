@@ -121,11 +121,11 @@ Hitomi Aikawa
 
 ## Sweet by Hitomi Aikawa
 
--   [Hitomi Aikawa](/tags/hitomi-aikawa) - percussion
--   [Masaki Hayashi](/tags/masaki-hayashi) - piano (#2, 11, 13, 14)
--   [Hiroshi Suzuki](/tags/hiroshi-suzuki) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
--   [Megumi Hattori](/tags/megumi-hattori) - vibraphone (#4)
--   [Eri Uenoyama](/tags/eri-uenoyama) - piano (#8, 9)
+-   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano (#2, 11, 13, 14)
+-   [Hiroshi Suzuki](/tags/hiroshi-suzuki/) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
+-   [Megumi Hattori](/tags/megumi-hattori/) - vibraphone (#4)
+-   [Eri Uenoyama](/tags/eri-uenoyama/) - piano (#8, 9)
 
 Released in 2018 on Hitomi Aikawa as HICD-001.
 

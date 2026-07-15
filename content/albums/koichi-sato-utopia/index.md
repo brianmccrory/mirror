@@ -30,9 +30,9 @@ The nine original songs on this album are full of lyrical freshness balanced wit
 
 ## Utopia by Koichi Sato
 
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Ko Omura](/tags/ko-omura) - drums
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
 
 Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.
 

@@ -47,7 +47,7 @@ Thank you everyone for picking up and listening to this album.
 
 I’ve been thinking about all sorts of things every day since the unimaginable coronavirus pandemic began at the end of 2019. I myself caught the virus in November 2020 and was hospitalized for ten days after being infected.
 
-In the middle of my hospital stay, I received a performance request from a place called [No Room For Squares](https://www.jazzofjapan.com/archive/no-room-for-squares) in Shimo-Kitazawa. While I was confined to bed and connected to an electrocardiogram, I reached out to pianist Nobumasa Tanaka and bassist Hiroshi Yoshino and asked them to play with me. That was how this group _Uta Oto_ started.
+In the middle of my hospital stay, I received a performance request from a place called [No Room For Squares](/no-room-for-squares/) in Shimo-Kitazawa. While I was confined to bed and connected to an electrocardiogram, I reached out to pianist Nobumasa Tanaka and bassist Hiroshi Yoshino and asked them to play with me. That was how this group _Uta Oto_ started.
 
 Even though I’ve been playing music for a long time, my feelings haven’t changed that much since I first started playing jazz. I had spent my time doing as I like and at my own relaxed pace. But after being infected with the coronavirus, I realized anew that tomorrows aren’t guaranteed. I decided to try to accomplish what I want to now, as much as I can, and I asked these two musicians to record with me.
 
@@ -128,9 +128,9 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 
 ## Uta Oto by Miyuki Moriya
 
--   [Miyuki Moriya](/tags/miyuki-moriya) - saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
--   [Hiroshi Yoshino](/tags/hiroshi-yoshino) - bass
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Hiroshi Yoshino](/tags/hiroshi-yoshino/) - bass
 
 Released in 2021 on Coume Music as CUM-2101.
 

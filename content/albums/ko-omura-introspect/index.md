@@ -32,11 +32,11 @@ A creative aspect used on this recording is the collaboration of three pianists 
 
 ## Introspect by Ko Omura
 
--   [Hakuei Kim](/tags/hakuei-kim) - piano
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Ko Omura](/tags/ko-omura) - drums
+-   [Hakuei Kim](/tags/hakuei-kim/) - piano
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
 
 Released in 2011 on Daiki Musica as DMCD-12.
 

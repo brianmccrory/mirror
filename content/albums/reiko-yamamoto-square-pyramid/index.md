@@ -98,10 +98,10 @@ Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (T
 
 ## The Square Pyramid by Reiko Yamamoto
 
--   [Reiko Yamamoto](/tags/reiko-yamamoto) - vibraphone
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass
--   [Hiro Kimura](/tags/hiro-kimura) - drums
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
 
 Released in 2019 on Somethin’ Cool as SCOL-1032.
 

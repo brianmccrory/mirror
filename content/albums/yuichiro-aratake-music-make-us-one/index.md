@@ -30,19 +30,19 @@ In addition to bluesy songs, romantic ballads, and pop, the album’s jazzier mo
 
 ## Music Make Us One by Yuichiro Aratake
 
--   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
--   [Kunio Oinuma](/tags/kunio-oinuma) - bass
--   [Koichi Inoue](/tags/koichi-inoue) - drums
--   [Koei Tanaka](/tags/koei-tanaka) - harmonica
--   [Ryutaro Makino](/tags/ryutaro-makino) - vocal
--   [Naomi Urushibara](/tags/naomi-urushibara) - violin
--   [Leina Ushiyama](/tags/leina-ushiyama) - violin
--   [Kanae Shima](/tags/kanae-shima) - violin
--   [Asami Matsuda](/tags/asami-matsuda) - violin
--   [Daisuke Tomita](/tags/daisuke-tomita) - viola
--   [Ryosuke Sato](/tags/ryosuke-sato) - viola
--   [Takefumi Shirasa](/tags/takefumi-shirasa) - cello
--   [Masato Kubo](/tags/masato-kubo) - cello
+-   [Yuichiro Aratake](/tags/yuichiro-aratake/) - piano
+-   [Kunio Oinuma](/tags/kunio-oinuma/) - bass
+-   [Koichi Inoue](/tags/koichi-inoue/) - drums
+-   [Koei Tanaka](/tags/koei-tanaka/) - harmonica
+-   [Ryutaro Makino](/tags/ryutaro-makino/) - vocal
+-   [Naomi Urushibara](/tags/naomi-urushibara/) - violin
+-   [Leina Ushiyama](/tags/leina-ushiyama/) - violin
+-   [Kanae Shima](/tags/kanae-shima/) - violin
+-   [Asami Matsuda](/tags/asami-matsuda/) - violin
+-   [Daisuke Tomita](/tags/daisuke-tomita/) - viola
+-   [Ryosuke Sato](/tags/ryosuke-sato/) - viola
+-   [Takefumi Shirasa](/tags/takefumi-shirasa/) - cello
+-   [Masato Kubo](/tags/masato-kubo/) - cello
 
 Released in 2010 on Urban Jazz as 151A-0003.
 

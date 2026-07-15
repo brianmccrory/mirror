@@ -39,9 +39,9 @@ With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing 
 
 ## Beloved Ones by Yuka Yanagihara Trio
 
--   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
--   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
 
 Released in 2024 on Tomtom Cherry Music as TCM-2004.
 

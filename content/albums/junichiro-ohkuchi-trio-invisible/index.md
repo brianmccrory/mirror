@@ -30,9 +30,9 @@ The pianist Ohkuchi contributes three original songs (the opener is a highlight)
 
 ## Invisible by Junichiro Ohkuchi Trio
 
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano
--   [Yasushi Yoneki](/tags/yasushi-yoneki) - bass
--   [Tamaya Honda](/tags/tamaya-honda) - drums
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Yasushi Yoneki](/tags/yasushi-yoneki/) - bass
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums
 
 Released in 2016 on Big Mouth Records as Invisible.
 

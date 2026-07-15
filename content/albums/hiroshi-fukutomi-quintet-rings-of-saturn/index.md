@@ -14,7 +14,7 @@ related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-l
   relative = true
 +++
 
-Guitarist Hiroshi Fukutomi’s first album is _Rings of Saturn_ from 2010. On this recording, the guitarist plays modern jazz compositions under the flag of his own quintet featuring Masahiro Yamamoto on alto and soprano sax, Koichi Sato on piano (also on Fukutomi’s 2014 followup [_Memory Stones_](https://www.jazzofjapan.com/archive/hiroshi-fukutomi-memory-stones)), Hiroshi Ikejiri on bass, and Ryo Shibata on drums.
+Guitarist Hiroshi Fukutomi’s first album is _Rings of Saturn_ from 2010. On this recording, the guitarist plays modern jazz compositions under the flag of his own quintet featuring Masahiro Yamamoto on alto and soprano sax, Koichi Sato on piano (also on Fukutomi’s 2014 followup [_Memory Stones_](/hiroshi-fukutomi-memory-stones/)), Hiroshi Ikejiri on bass, and Ryo Shibata on drums.
 
 {{< figure src="L1230466x-1200.jpeg" link="L1230466x-1200.jpeg" >}}
 
@@ -28,7 +28,7 @@ Track #3 “Lotus” is a backing off from the fire, a relaxing meditation of ho
 
 {{< figure src="L1230468x-1200.jpeg" link="L1230468x-1200.jpeg" >}}
 
-Incidentally, Masahiro Yamamoto, along with Sato and Ikejiri, was a founding member of Bungalow, a richly eclectic jazz quartet formed in 2010. They released two albums together with Yamamoto on sax and composing duties (2011’s [_Metropolitan Oasis_](https://www.jazzofjapan.com/archive/bungalow-metropolitan-oasis) and 2013’s [_Past Life_](https://www.jazzofjapan.com/archive/bungalow-past-life)) before Yamamoto left, after which Bungalow released three more albums with Australian saxophone player Mike Rivett. In the same jazz family sense and general time period, bassist Ikejiri also plays on Koichi Sato’s debut release [_Utopia_](https://www.jazzofjapan.com/archive/koichi-sato-utopia) (2011).
+Incidentally, Masahiro Yamamoto, along with Sato and Ikejiri, was a founding member of Bungalow, a richly eclectic jazz quartet formed in 2010. They released two albums together with Yamamoto on sax and composing duties (2011’s [_Metropolitan Oasis_](/bungalow-metropolitan-oasis/) and 2013’s [_Past Life_](/bungalow-past-life/)) before Yamamoto left, after which Bungalow released three more albums with Australian saxophone player Mike Rivett. In the same jazz family sense and general time period, bassist Ikejiri also plays on Koichi Sato’s debut release [_Utopia_](/koichi-sato-utopia/) (2011).
 
 {{< figure src="L1230469x-1200.jpeg" link="L1230469x-1200.jpeg" >}}
 
@@ -105,11 +105,11 @@ The resonance of five distinct personalities blossoms with a rich harmony.
 
 ## Rings of Saturn by Hiroshi Fukutomi Quintet
 
--   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi) - guitar
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto and soprano sax
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Ryo Shibata](/tags/ryo-shibata) - drums
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - guitar
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto and soprano sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ryo Shibata](/tags/ryo-shibata/) - drums
 
 Released in 2010 on D-musica as DMCD-04.
 

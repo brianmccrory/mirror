@@ -30,8 +30,8 @@ The final track, “One Blues”, ends the album cheerily with evocatively muted
 
 ## Live at Knuttel House by Tetsuji Yoshida &amp; Mikiko Nagatake Duo
 
--   [Tetsuji Yoshida](/tags/tetsuji-yoshida) - trumpet
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Tetsuji Yoshida](/tags/tetsuji-yoshida/) - trumpet
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
 
 Released in 2021 on Yoshidamusic as NYAN-382.
 

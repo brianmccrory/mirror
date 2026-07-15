@@ -3,10 +3,10 @@ title = "Bully's"
 author = ["Brian McCrory"]
 description = "Bully’s jazz club, located near Yotsuya Sanchome and Akebonobashi stations in Tokyo, Japan (permanently closed)"
 publishDate = 2023-06-01
-keywords = ["bullys"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "bullys"
 issue = 173
 [cover]
   image = "IMG_20181116_230632667x-1024.jpeg"

@@ -38,8 +38,8 @@ In addition, the duo thrills with arrangements of standards such as “Summertim
 
 ## Best Wishes by Maki Fujimura
 
--   [Maki Fujimura](/tags/maki-fujimura) - vocal
--   [Hideaki Hori](/tags/hideaki-hori) - piano
+-   [Maki Fujimura](/tags/maki-fujimura/) - vocal
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
 
 Released in 2013 on Maki Fujimura as MAKI.TV-0001.
 

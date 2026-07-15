@@ -137,15 +137,15 @@ _Notes by Toru Takahashi_
 
 ## Tokyo Groovin’ High! by Toru Takahashi
 
--   [Toru Takahashi](/tags/toru-takahashi) - drums
--   [Atsushi Ikeda](/tags/atsushi-ikeda) - alto sax (#1-5, 7)
--   [Masanori Okazaki](/tags/masanori-okazaki) - tenor sax (#3, 4, 8-12)
--   [Keiichi Yoshida](/tags/keiichi-yoshida) - piano (#1-7)
--   [Kengo Nakamura](/tags/kengo-nakamura) - bass (#1-7)
--   [Yusuke Chigita](/tags/yusuke-chigita) - bass (#8-12)
--   [Jun Satsuma](/tags/jun-satsuma) - guitar (#8, 9, 12)
--   [Koyuza Sanyutei](/tags/koyuza-sanyutei) - special guest trumpet (#3)
--   [Shota Shunputei](/tags/shota-shunputei) - special guest trombone (#3)
+-   [Toru Takahashi](/tags/toru-takahashi/) - drums
+-   [Atsushi Ikeda](/tags/atsushi-ikeda/) - alto sax (#1-5, 7)
+-   [Masanori Okazaki](/tags/masanori-okazaki/) - tenor sax (#3, 4, 8-12)
+-   [Keiichi Yoshida](/tags/keiichi-yoshida/) - piano (#1-7)
+-   [Kengo Nakamura](/tags/kengo-nakamura/) - bass (#1-7)
+-   [Yusuke Chigita](/tags/yusuke-chigita/) - bass (#8-12)
+-   [Jun Satsuma](/tags/jun-satsuma/) - guitar (#8, 9, 12)
+-   [Koyuza Sanyutei](/tags/koyuza-sanyutei/) - special guest trumpet (#3)
+-   [Shota Shunputei](/tags/shota-shunputei/) - special guest trombone (#3)
 
 Released in 2021 on T-Swing Music as TSM-0001.
 

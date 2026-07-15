@@ -40,10 +40,10 @@ This album is the third and final Fuse release with the original members. Sadly,
 
 ## Live Fuse by Fuse
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - soprano sax, tenor sax
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
--   [Benisuke Sakai](/tags/benisuke-sakai) - bass
--   [Ken Tsunoda](/tags/ken-tsunoda) - drums
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - soprano sax, tenor sax
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda/) - drums
 
 Released in 2007 on Ewe Records as EWCD-0119.
 

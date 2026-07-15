@@ -63,16 +63,16 @@ _Jazz journalist Hiro Yamanaka 山中弘行_
 
 ## Introducin’ by Fumika Asari
 
--   [Fumika Asari](/tags/fumika-asari) - guitar
--   [Sadanori Nakamure](/tags/sadanori-nakamure) - guitar (#3)
--   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass (#1, 2)
--   [Daiki Mishima](/tags/daiki-mishima) - bass (#4, 5, 7, 8)
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano, Rhodes (#6, 8)
--   [Kanoko Kitajima](/tags/kanoko-kitajima) - piano (#1, 4)
--   [Hiro Kimura](/tags/hiro-kimura) - drums (#1, 2, 8)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums (#4, 5)
--   [Akane Ezawa](/tags/akane-ezawa) - alto saxophone (#7, 8)
--   [Itsumi Komano](/tags/itsumi-komano) - trombone (#7, 8)
+-   [Fumika Asari](/tags/fumika-asari/) - guitar
+-   [Sadanori Nakamure](/tags/sadanori-nakamure/) - guitar (#3)
+-   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass (#1, 2)
+-   [Daiki Mishima](/tags/daiki-mishima/) - bass (#4, 5, 7, 8)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano, Rhodes (#6, 8)
+-   [Kanoko Kitajima](/tags/kanoko-kitajima/) - piano (#1, 4)
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums (#1, 2, 8)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums (#4, 5)
+-   [Akane Ezawa](/tags/akane-ezawa/) - alto saxophone (#7, 8)
+-   [Itsumi Komano](/tags/itsumi-komano/) - trombone (#7, 8)
 
 Released in 2020 on ReBorn Wood as RBW-0018.
 

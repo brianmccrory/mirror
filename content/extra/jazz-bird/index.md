@@ -3,10 +3,10 @@ title = "Jazz Bird"
 author = ["Brian McCrory"]
 description = "Jazz Bird jazz club, located near Omote-Sando station in Tokyo, Japan"
 publishDate = 2023-07-19
-keywords = ["jazz-bird"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "jazz-bird"
 issue = 188
 [cover]
   image = "P1060849-1024.jpeg"

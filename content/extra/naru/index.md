@@ -3,10 +3,10 @@ title = "Naru"
 author = ["Brian McCrory"]
 description = "Naru jazz club, located near Ochanomizu station in Tokyo, Japan"
 publishDate = 2024-11-21
-keywords = ["naru"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "naru"
 issue = 277
 [cover]
   image = "IMG_4184-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 277
   relative = true
 +++
 
-Naru is a classic Tokyo jazz bar that opened in 1969 and has been operating for more than 50 years in the Ochanomizu district. Also going by Ochanomizu Naru or Ocha Naru, this is the sister location to the original [Yoyogi Naru](https://www.jazzofjapan.com/archive/yoyogi-naru) location established in 1966. With its renowned history, reputation, and level of excellence, Naru is a mainstay, a magnet for jazz in Japan’s capital city.
+Naru is a classic Tokyo jazz bar that opened in 1969 and has been operating for more than 50 years in the Ochanomizu district. Also going by Ochanomizu Naru or Ocha Naru, this is the sister location to the original [Yoyogi Naru](/yoyogi-naru/) location established in 1966. With its renowned history, reputation, and level of excellence, Naru is a mainstay, a magnet for jazz in Japan’s capital city.
 
 {{< figure src="P1050022-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Ro Hasegawa (sax) Quartet with Mayuko Katakura (piano), Go Shimada (bass), and Sumito Oi (drums) at Naru in November 2010" link="P1050022-1200.jpeg" >}}
 
@@ -25,7 +25,7 @@ As such, Naru is professionally run with high standards, and though the well-man
 
 {{< figure src="IMG_20240307_201331164-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>An intermission at Naru in 2024" link="IMG_20240307_201331164-1200.jpeg" >}}
 
-This Ochanomizu Naru location features instrumental jazz musicians on most nights, such as a group formed by a saxophonist or horn player leading a piano, bass, and drums rhythm section. There are variations of course, but jazz quartets and trios are not uncommon to encounter on any given night at Naru. These include regularly-scheduled groups such as [Mabumi Yamaguchi](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-viento)’s quartet and the long-running band [Encounter](https://youtube.com/playlist?list=PL3FlMWr48mXZumCusqR3U2fEV87DgCXJ8&si=U3-oRHnDIhzPXuSI) who fill Naru with their thrilling, high-powered sound.
+This Ochanomizu Naru location features instrumental jazz musicians on most nights, such as a group formed by a saxophonist or horn player leading a piano, bass, and drums rhythm section. There are variations of course, but jazz quartets and trios are not uncommon to encounter on any given night at Naru. These include regularly-scheduled groups such as [Mabumi Yamaguchi](/mabumi-yamaguchi-viento/)’s quartet and the long-running band [Encounter](https://youtube.com/playlist?list=PL3FlMWr48mXZumCusqR3U2fEV87DgCXJ8&si=U3-oRHnDIhzPXuSI) who fill Naru with their thrilling, high-powered sound.
 
 {{< figure src="IMG_4182-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Shinnosuke Takahashi at Naru in May 2007" link="IMG_4182-1200.jpeg" >}}
 

@@ -24,7 +24,7 @@ Joining the jazz trio for three songs is guest trumpeter Hiroyuki Ishikawa, addi
 
 {{< figure src="L1230565x-1024.jpeg" link="L1230565x-1024.jpeg" >}}
 
-The [album’s liner notes with a concise song-by-song-rundown](https://www.stevebarrymusic.com/polyglot-talk-vol-1) are reproduced on pianist Steve Barry’s website, and they offer a great description of the album in both English and Japanese.
+The [album’s liner notes with a concise song-by-song-rundown](https://www.stevebarrymusic.com/polyglot-talk-vol-1/) are reproduced on pianist Steve Barry’s website, and they offer a great description of the album in both English and Japanese.
 
 {{< figure src="L1230568x-1024.jpeg" link="L1230568x-1024.jpeg" >}}
 
@@ -48,10 +48,10 @@ _(The notes printed on the obi are an excerpt from the liner notes.)_
 
 ## Talk, Vol. 1 by Polyglot
 
--   [Steve Barry](/tags/steve-barry) - piano
--   [Kosuke Ochiai](/tags/kosuke-ochiai) - bass
--   [Ko Omura](/tags/ko-omura) - drums &amp; tabla
--   [Hiroyuki Ishikawa](/tags/hiroyuki-ishikawa) - trumpet (3, 4, &amp; 8)
+-   [Steve Barry](/tags/steve-barry/) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums &amp; tabla
+-   [Hiroyuki Ishikawa](/tags/hiroyuki-ishikawa/) - trumpet (3, 4, &amp; 8)
 
 Released in 2020 on Studio Songs as YZSO-10104.
 

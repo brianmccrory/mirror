@@ -28,7 +28,7 @@ Although not purely ambient nor experimental, some of her music on _Dot_ verges 
 
 {{< figure src="L1250320x-1200.jpeg" link="L1250320x-1200.jpeg" >}}
 
-Take the beginning, with dreamy blossoming and dissolving on track #1 “Turtledove” and continuing into the hypnotic spell of track #2 “Dot”, a steady drum beat doesn’t appear until the last third of the absorbing, multi-part second track. “Dot” (available to listen to in a video included below) starts with a moderated stream of repeated piano notes, played like the careful picking of a single guitar string. It’s almost like a guitar riff, chugging and shifting through four frets to build the four-pitch melody with an embedded offset. Nishiyama’s attraction to heavy metal music likely influenced her here, as with her separate acoustic jazz piano trio project [N.H.O.R.H.M.](https://www.jazzofjapan.com/archive/nhorhm-extra-edition) which focuses on heavy metal covers.
+Take the beginning, with dreamy blossoming and dissolving on track #1 “Turtledove” and continuing into the hypnotic spell of track #2 “Dot”, a steady drum beat doesn’t appear until the last third of the absorbing, multi-part second track. “Dot” (available to listen to in a video included below) starts with a moderated stream of repeated piano notes, played like the careful picking of a single guitar string. It’s almost like a guitar riff, chugging and shifting through four frets to build the four-pitch melody with an embedded offset. Nishiyama’s attraction to heavy metal music likely influenced her here, as with her separate acoustic jazz piano trio project [N.H.O.R.H.M.](/nhorhm-extra-edition/) which focuses on heavy metal covers.
 
 This riff-based approach is subtle and not overplayed, but also appears on another highlight, track #8 “Baroness”. With an edgily modern, semi-medieval feel, lightly crunching chords turn around four corners similarly to set up a riff, the harmonic frame for a melody to play out in graceful curves and more repeated-note dot patterns.
 
@@ -49,12 +49,12 @@ There are also the dot-like sequences of melody in some of the songs. And, there
 
 ## Dot by Hitomi Nishiyama
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Toru Nishijima](/tags/toru-nishijima) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
--   [Takanori Suzuki](/tags/takanori-suzuki) - clarinet (#2, 3, 5, 6, 9)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone (#3, 5, 6, 9), flute (#2)
--   [maiko](/tags/maiko) - violin (#2, 3, 5, 6, 9)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (#2, 3, 5, 6, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone (#3, 5, 6, 9), flute (#2)
+-   [maiko](/tags/maiko/) - violin (#2, 3, 5, 6, 9)
 
 Released in 2023 on Meantone Records as MT-12.
 

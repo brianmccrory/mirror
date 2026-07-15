@@ -30,11 +30,11 @@ Sharply-crafted jazz with a modern spark particularly identifies Moriya’s musi
 
 ## Cat’s Cradle by Miyuki Moriya
 
--   [Miyuki Moriya](/tags/miyuki-moriya) - alto sax
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Kohei Kamuro](/tags/kohei-kamuro) - guitar
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Kohei Kamuro](/tags/kohei-kamuro/) - guitar
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
 
 Released in 2010 on Coume Music as DQC-565.
 

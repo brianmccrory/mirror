@@ -3,10 +3,10 @@ title = "Salt Peanuts"
 author = ["Brian McCrory"]
 description = "Salt Peanuts jazz club, located near Ekoda and Shin-Egota stations in Tokyo, Japan"
 publishDate = 2024-06-13
-keywords = ["salt-peanuts"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "salt-peanuts"
 issue = 246
 [cover]
   image = "IMG_20240416_191848986_HDR-1200.jpeg"

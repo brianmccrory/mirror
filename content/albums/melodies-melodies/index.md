@@ -18,7 +18,7 @@ The band Melodies released their self-titled debut album in January 2025, under 
 
 {{< figure src="L1280736x-1200.jpeg" link="L1280736x-1200.jpeg" >}}
 
-This four-member group consists of Ichino on guitar and baritone guitar, Kenta Tsugami on alto saxophone, Minyen Hsieh on tenor saxophone, and Akira Sotoyama on drums. As this quartet has no bass player, they form a subtly floating, bass-less group sound. Yet Ichino’s guitar work fills up the space nicely, especially when he subs in baritone guitar. All of the songs on _Melodies_ were written by Ichino, and the album was recorded at a live performance at [Velvet Sun in Tokyo](https://www.jazzofjapan.com/archive/velvet-sun) on June 24, 2024.
+This four-member group consists of Ichino on guitar and baritone guitar, Kenta Tsugami on alto saxophone, Minyen Hsieh on tenor saxophone, and Akira Sotoyama on drums. As this quartet has no bass player, they form a subtly floating, bass-less group sound. Yet Ichino’s guitar work fills up the space nicely, especially when he subs in baritone guitar. All of the songs on _Melodies_ were written by Ichino, and the album was recorded at a live performance at [Velvet Sun in Tokyo](/velvet-sun/) on June 24, 2024.
 
 The eight songs on _Melodies_ share a front-to-back sonorous quality built on Ichino’s signature electric guitar sound. It’s warm, mellow, and suffused with undistracting effects with a warble that is more felt than heard. It’s a very effective tone that, combined with Ichino’s melodious presence, works so well with the type of songwriting he produces.
 
@@ -39,10 +39,10 @@ Track #5 “Spring” has the muted hopefulness of a timid flower blossoming slo
 
 ## Melodies by Melodies
 
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, baritone guitar
--   [Kenta Tsugami](/tags/kenta-tsugami) - alto saxophone
--   [Minyen Hsieh](/tags/minyen-hsieh) - tenor saxophone (#1, 2, 3, 4, 6, 8)
--   [Akira Sotoyama](/tags/akira-sotoyama) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, baritone guitar
+-   [Kenta Tsugami](/tags/kenta-tsugami/) - alto saxophone
+-   [Minyen Hsieh](/tags/minyen-hsieh/) - tenor saxophone (#1, 2, 3, 4, 6, 8)
+-   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
 
 Released in 2025 on Ammonite Musique as AM-006.
 

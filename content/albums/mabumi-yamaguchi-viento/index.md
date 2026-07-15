@@ -14,7 +14,7 @@ related = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "ma
   relative = true
 +++
 
-Like Mamoru Ishida’s [Afterglow](https://www.jazzofjapan.com/archive/mamoru-ishida-afterglow) introduced previously, Mabumi Yamaguchi’s _Viento_ is a 2023 jazz release from the Japanese jazz label Days of Delight which is doing a wonderful job of delivering the sound of authentic modern-day Japanese jazz in impeccably produced and attractive packages.
+Like Mamoru Ishida’s [Afterglow](/mamoru-ishida-afterglow/) introduced previously, Mabumi Yamaguchi’s _Viento_ is a 2023 jazz release from the Japanese jazz label Days of Delight which is doing a wonderful job of delivering the sound of authentic modern-day Japanese jazz in impeccably produced and attractive packages.
 
 {{< figure src="L1250973x-1200.jpeg" link="L1250973x-1200.jpeg" >}}
 
@@ -100,10 +100,10 @@ Founder/Producer
 
 ## Viento by Mabumi Yamaguchi
 
--   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - soprano saxophone
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki) - bass
--   [Tamaya Honda](/tags/tamaya-honda) - drums
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - soprano saxophone
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums
 
 Released in 2023 on Days of Delight as DOD-040.
 

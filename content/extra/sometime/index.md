@@ -3,10 +3,10 @@ title = "Sometime"
 author = ["Brian McCrory"]
 description = "Sometime jazz club, located near Kichijoji station in Tokyo, Japan"
 publishDate = 2023-10-27
-keywords = ["sometime"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "sometime"
 issue = 209
 [cover]
   image = "L1030851-1024.jpeg"

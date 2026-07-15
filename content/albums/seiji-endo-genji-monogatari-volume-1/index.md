@@ -32,7 +32,7 @@ Set among these musical facets, the listener may also pick up hints to classical
 
 ## Genji Monogatari Volume 1 by Seiji Endo
 
--   [Seiji Endo](/tags/seiji-endo) - solo piano and compositions
+-   [Seiji Endo](/tags/seiji-endo/) - solo piano and compositions
 
 Released in 2018 on Nippon Acoustic Records as NARP-8015.
 

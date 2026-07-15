@@ -43,9 +43,9 @@ The wide range of years found in the song selection here brings something extra 
 
 ## For 2 Akis by Shinya Fukumori Trio
 
--   [Matthieu Bordenave](/tags/matthieu-bordenave) - saxophone
--   [Walter Lang](/tags/walter-lang) - piano
--   [Shinya Fukumori](/tags/shinya-fukumori) - drums
+-   [Matthieu Bordenave](/tags/matthieu-bordenave/) - saxophone
+-   [Walter Lang](/tags/walter-lang/) - piano
+-   [Shinya Fukumori](/tags/shinya-fukumori/) - drums
 
 Released in 2018 on ECM as ECM-2574.
 

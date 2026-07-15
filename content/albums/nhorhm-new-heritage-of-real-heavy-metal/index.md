@@ -194,13 +194,13 @@ Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fu
 
 ## New Heritage of Real Heavy Metal by NHORHM
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - percussion
--   [Tomomi Oda](/tags/tomomi-oda) - vocals (track #4)
--   [Takayoshi Baba](/tags/takayoshi-baba) - acoustic guitar (track #5)
--   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet (track #8)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - sax (track #10)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - percussion
+-   [Tomomi Oda](/tags/tomomi-oda/) - vocals (track #4)
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - acoustic guitar (track #5)
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet (track #8)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - sax (track #10)
 
 Released in 2015 on Apollo Sounds as APLS1905/APLS1510R.
 

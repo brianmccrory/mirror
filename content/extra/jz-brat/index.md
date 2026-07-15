@@ -3,10 +3,10 @@ title = "JZ Brat"
 author = ["Brian McCrory"]
 description = "JZ Brat jazz club, located near Shibuya station in Tokyo, Japan"
 publishDate = 2023-06-05
-keywords = ["jz-brat"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "jz-brat"
 issue = 176
 [cover]
   image = "P1030831-1024.jpeg"

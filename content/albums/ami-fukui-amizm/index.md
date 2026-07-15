@@ -45,9 +45,9 @@ It’s been about three years since the previous release _Urban Clutter_. The ne
 
 ## Amizm by Ami Fukui
 
--   [Ami Fukui](/tags/ami-fukui) - piano, Clavinet, Rhodes, CP-80, synth
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
+-   [Ami Fukui](/tags/ami-fukui/) - piano, Clavinet, Rhodes, CP-80, synth
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
 
 Released in 2013 on Peace Bass Records as PBRS-0002.
 

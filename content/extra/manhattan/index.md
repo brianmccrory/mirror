@@ -3,10 +3,10 @@ title = "Manhattan"
 author = ["Brian McCrory"]
 description = "Manhattan jazz club, located near Asagaya station in Tokyo, Japan"
 publishDate = 2025-12-03
-keywords = ["manhattan"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "manhattan"
 issue = 340
 [cover]
   image = "IMG_20251010_190904141_HDR-1200.jpeg"
@@ -25,7 +25,7 @@ Manhattan is another tiny and beloved Tokyo jazz bar with a long history. Opened
 
 {{< figure src="IMG_20251010_211530886-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Masanao Ozawa (piano) Quartet with Ryosuke Hashizume (sax), Masaharu Iida (bass), and Yusuke Lawson Yamada (drums) and guest Luca (vocals) at Manhattan in October 2025" link="IMG_20251010_211530886-1200.jpeg" >}}
 
-The atmosphere immediately reads easy and comfortable, if a little dated. It’s an old-fashioned jazz-lover’s nook, and possibly contends for a tie with [Thelonious](https://www.jazzofjapan.com/archive/thelonious) for Tokyo’s current smallest live jazz bar.
+The atmosphere immediately reads easy and comfortable, if a little dated. It’s an old-fashioned jazz-lover’s nook, and possibly contends for a tie with [Thelonious](/thelonious/) for Tokyo’s current smallest live jazz bar.
 
 {{< figure src="IMG_20251010_205848183-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Masanao Ozawa (piano) Quartet with Ryosuke Hashizume (sax), Masaharu Iida (bass), and Yusuke Lawson Yamada (drums) at Manhattan in October 2025" link="IMG_20251010_205848183-1200.jpeg" >}}
 

@@ -3,10 +3,10 @@ title = "Zimagine"
 author = ["Brian McCrory"]
 description = "Zimagine jazz club, located near Omote-Sando station in Tokyo, Japan"
 publishDate = 2023-08-09
-keywords = ["zimagine"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "zimagine"
 issue = 194
 [cover]
   image = "IMG_20230410_205202040-1024.jpeg"

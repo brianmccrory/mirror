@@ -94,11 +94,11 @@ This is a gospel-style song dedicated to the inspiration for the title of this s
 
 ## Encounter by Hideaki Hori &amp; Wataru Hamasaki
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Wataru Hamasaki](/tags/wataru-hamasaki) - tenor &amp; soprano sax, flute
--   [Hiroshi Takase](/tags/hiroshi-takase) - bass
--   [Junji Hirose](/tags/junji-hirose) - drums
--   [Satoshi Takino](/tags/satoshi-takino) - guitar (tracks #1, 4, 10)
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor &amp; soprano sax, flute
+-   [Hiroshi Takase](/tags/hiroshi-takase/) - bass
+-   [Junji Hirose](/tags/junji-hirose/) - drums
+-   [Satoshi Takino](/tags/satoshi-takino/) - guitar (tracks #1, 4, 10)
 
 Released in 2008 on BQ Records as BQR-2043.
 

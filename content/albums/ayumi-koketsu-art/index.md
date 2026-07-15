@@ -25,10 +25,10 @@ Alto saxophonist Ayumi Koketsu released a sophisticated tribute to Art Pepper on
 
 ## Art by Ayumi Koketsu
 
--   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
--   [Jeremy Manasia](/tags/jeremy-manasia) - piano
--   [Mike Karn](/tags/mike-karn) - bass
--   [Mark Taylor](/tags/mark-taylor) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - alto sax
+-   [Jeremy Manasia](/tags/jeremy-manasia/) - piano
+-   [Mike Karn](/tags/mike-karn/) - bass
+-   [Mark Taylor](/tags/mark-taylor/) - drums
 
 Released in 2016 on Pony Canyon as MYCJ-30653.
 

@@ -108,11 +108,11 @@ This is the third movement from _Suite Bergamaque_, a four-part piano solo piece
 
 ## Silver Painting by Makiyo Sakai
 
--   [Makiyo Sakai](/tags/makiyo-sakai) - flute
--   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano/Rhodes
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass
--   [Akira Yamada](/tags/akira-yamada) - drums
--   [Jun Kimura](/tags/jun-kimura) - acoustic guitar (#2, 7)
+-   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
+-   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano/Rhodes
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Jun Kimura](/tags/jun-kimura/) - acoustic guitar (#2, 7)
 
 Released in 2016 on Pony Canyon as PCCY-30231.
 

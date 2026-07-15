@@ -20,7 +20,7 @@ Pianist Taeko Kurita and drummer Akira Sotoyama present us with _Duo_, a 2024 li
 
 Most of the song titles are in Japanese, and language-attuned readers may notice that several of the songs end in the character 川 (_kawa_), meaning river. Kurita has a habit of naming songs after rivers in Japan, and her recent album _SOLO 5_ (2023) even features a complete tracklist of ten songs named after rivers. Her profile explains, "I like crossing rivers. I like composing and I'm not good at coming up with song titles, so I often use the names of rivers as titles." One of the songs from _SOLO 5_, "Karaborigawa", is also included on this album. Like rivers, her music can flow and weave, smoothly drifting or rushing along depending on the environment. Here the environment is an unpredictable live setting with the banks, shapes, wind, and silt of Sotoyama's rhythms.
 
-On _Duo_, Kurita and Sotoyama perform together in a fun and flexible way. Here, the roles are generally such that the pianist sets up the musical and rhythmic framework using a foundation of bass lines, chords, and melodies tied to her original compositions. Activated by her lead, Sotoyama's drums impishly strike and clatter, following or pushing the pulse elastically, stopping on a dime, and restarting on a whim. If this sounds like a familiar style, last week's [Melodies: _Melodies_](http://www.jazzofjapan.com/archive/melodies-melodies) also featured Sotoyama's creative drumming style.
+On _Duo_, Kurita and Sotoyama perform together in a fun and flexible way. Here, the roles are generally such that the pianist sets up the musical and rhythmic framework using a foundation of bass lines, chords, and melodies tied to her original compositions. Activated by her lead, Sotoyama's drums impishly strike and clatter, following or pushing the pulse elastically, stopping on a dime, and restarting on a whim. If this sounds like a familiar style, last week's [Melodies: _Melodies_](/melodies-melodies/) also featured Sotoyama's creative drumming style.
 
 {{< figure src="L1280920x-1200.jpeg" link="L1280920x-1200.jpeg" >}}
 
@@ -33,8 +33,8 @@ Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano g
 
 ## Duo by Taeko Kurita &amp; Akira Sotoyama
 
--   [Taeko Kurita](/tags/taeko-kurita) - piano
--   [Akira Sotoyama](/tags/akira-sotoyama) - drums
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
 
 Released in 2024 on Taeko Kurita as T59T-07.
 

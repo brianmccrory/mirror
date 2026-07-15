@@ -33,8 +33,8 @@ Filling out the package is one original song, the comfortable home base of a gro
 
 ## Ol’ School Jazz by Yasumasa Kumagai &amp; Ryu Kawamura
 
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura) - bass
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
 
 Released in 2009 on Anturtle Tune as ANTX-4005.
 

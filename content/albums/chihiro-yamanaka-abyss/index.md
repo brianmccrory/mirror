@@ -24,7 +24,7 @@ With 10 tracks, all arranged by Yamanaka, and a running time of 50 minutes, _Aby
 
 {{< figure src="L1210720x-1200.jpeg" link="L1210720x-1200.jpeg" >}}
 
-It’s not just dexterity and upfront rhythms at play, though, and as before, Yamanaka’s arrangements are fun and distinctive. In opposition to the abyss of the title, her whimsical personality also comes through (as with “Plum the Cow” and “S.L.S. (Silly Little Song)” from [_When October Goes_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-when-october)). For example, the swing-era standard “Sing, Sing, Sing” is introduced by the famously identifiable piano riff from Chicago’s “Saturday in the Park” before switching into a massively reworked version of “Sing, Sing, Sing” merged with her own “Give Me a Break.” (I wonder if this choice of titles and tunes is a tongue-in-cheek response to the various requests that working pianists receive at piano bars and live shows? Just a guess...)
+It’s not just dexterity and upfront rhythms at play, though, and as before, Yamanaka’s arrangements are fun and distinctive. In opposition to the abyss of the title, her whimsical personality also comes through (as with “Plum the Cow” and “S.L.S. (Silly Little Song)” from [_When October Goes_](/chihiro-yamanaka-trio-when-october/)). For example, the swing-era standard “Sing, Sing, Sing” is introduced by the famously identifiable piano riff from Chicago’s “Saturday in the Park” before switching into a massively reworked version of “Sing, Sing, Sing” merged with her own “Give Me a Break.” (I wonder if this choice of titles and tunes is a tongue-in-cheek response to the various requests that working pianists receive at piano bars and live shows? Just a guess...)
 
 {{< figure src="L1210730x-1200.jpeg" link="L1210730x-1200.jpeg" >}}
 
@@ -92,9 +92,9 @@ The striking sound of the organ runs in all directions over a Motown groove loop
 
 ## Abyss by Chihiro Yamanaka
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Vicente Archer](/tags/vicente-archer) - bass
--   [Kendrick Scott](/tags/kendrick-scott) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Vicente Archer](/tags/vicente-archer/) - bass
+-   [Kendrick Scott](/tags/kendrick-scott/) - drums
 
 Released in 2007 on Verve as UCCJ-2060.
 

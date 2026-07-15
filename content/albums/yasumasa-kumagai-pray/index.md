@@ -30,10 +30,10 @@ On Pray, Kumagai’s trio opens with “Brotherhood”, setting up an atmospheri
 
 ## Pray by Yasumasa Kumagai
 
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura) - bass
--   [Kohzo Komori](/tags/kohzo-komori) - drums
--   [DJ Passo](/tags/dj-passo) - (on #6)
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
+-   [Kohzo Komori](/tags/kohzo-komori/) - drums
+-   [DJ Passo](/tags/dj-passo/) - (on #6)
 
 Released in 2010 on Anturtle Tune as ANTX-4009.
 

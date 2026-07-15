@@ -3,10 +3,10 @@ title = "Apple Jump"
 author = ["Brian McCrory"]
 description = "Apple Jump jazz club, located near Ikebukuro station in Tokyo, Japan"
 publishDate = 2024-09-16
-keywords = ["apple-jump"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "apple-jump"
 issue = 264
 [cover]
   image = "L1030595x-1200.jpeg"
@@ -25,7 +25,7 @@ Depending on the day, audiences may be treated to a vocal group, a bossa nova ba
 
 {{< figure src="L1070309-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Taihei Asakawa (piano) and Daiki Yasukagawa (bass) at Apple Jump in September 2013" link="L1070309-1200.jpeg" >}}
 
-Like many jazz spots in Japan, this jazz club’s interesting name is a reference to a song or item from jazz history. The name “Apple Jump” is initially evocative of a cute drawing from a primary school textbook, perhaps… and what does that have to do with serious jazz? It turns out that this club’s moniker is named after either the Count Basie tune from the 1930s or the Dexter Gordon song from his 1974 album Biting the Apple. Admittedly, “Apple Jump” is a lesser-known pick compared to famous jazz hits like “[All of Me](https://www.jazzofjapan.com/archive/all-of-me)”, “[Body &amp; Soul](https://www.jazzofjapan.com/archive/body-and-soul)”, “[Hot House](https://www.jazzofjapan.com/archive/hot-house)”, “[Salt Peanuts](https://www.jazzofjapan.com/archive/salt-peanuts)”, and “[Satin Doll](https://www.jazzofjapan.com/archive/satin-doll)”, which each have jazz clubs in Tokyo named for them. The in-the-know audience may find the choice of “Apple Jump” to be an appealing selection, a sort of deep jazz cut, and another appealing move to honor the greats while avoiding more obvious titles.
+Like many jazz spots in Japan, this jazz club’s interesting name is a reference to a song or item from jazz history. The name “Apple Jump” is initially evocative of a cute drawing from a primary school textbook, perhaps… and what does that have to do with serious jazz? It turns out that this club’s moniker is named after either the Count Basie tune from the 1930s or the Dexter Gordon song from his 1974 album Biting the Apple. Admittedly, “Apple Jump” is a lesser-known pick compared to famous jazz hits like “[All of Me](/all-of-me/)”, “[Body &amp; Soul](/body-and-soul/)”, “[Hot House](/hot-house/)”, “[Salt Peanuts](/salt-peanuts/)”, and “[Satin Doll](/satin-doll/)”, which each have jazz clubs in Tokyo named for them. The in-the-know audience may find the choice of “Apple Jump” to be an appealing selection, a sort of deep jazz cut, and another appealing move to honor the greats while avoiding more obvious titles.
 
 {{< figure src="L1060862-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Maki Fujimura at Apple Jump in June 2013" link="L1060862-1200.jpeg" >}}
 

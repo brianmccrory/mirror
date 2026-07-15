@@ -28,11 +28,11 @@ Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” j
 
 ## Sora by Eriko Shimizu
 
--   [Eriko Shimizu](/tags/eriko-shimizu) - piano
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
--   [Saori Sendo](/tags/saori-sendo) - percussion
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
--   [Daisuke Yoshioka](/tags/daisuke-yoshioka) - drums
+-   [Eriko Shimizu](/tags/eriko-shimizu/) - piano
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
+-   [Saori Sendo](/tags/saori-sendo/) - percussion
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
 
 Released in 2010 on Casnet as CSNT-8003.
 

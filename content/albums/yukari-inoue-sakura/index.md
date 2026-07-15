@@ -32,7 +32,7 @@ Along with standard jazz tunes including “I Got Rhythm”, “La Fiesta”, an
 
 ## Sakura by Yukari Inoue
 
--   [Yukari Inoue](/tags/yukari-inoue) - piano
+-   [Yukari Inoue](/tags/yukari-inoue/) - piano
 
 Released in 2012 on Silver Fingers/Roving Spirits as RKCJ-2053.
 

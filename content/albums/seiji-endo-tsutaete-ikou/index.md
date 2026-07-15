@@ -28,12 +28,12 @@ The CD contains three versions of the song “Tsutaete Ikou”, and proceeds wer
 
 ## Tsutaete Ikou by Seiji Endo
 
--   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
--   [Shinya Nitta](/tags/shinya-nitta) - vocal
--   [Seiji Endo](/tags/seiji-endo) - piano, vocals
--   [Yasuhiro Hasegawa](/tags/yasuhiro-hasegawa) - bass (#2)
--   [Yoshiyuki Nakaya](/tags/yoshiyuki-nakaya) - drums (#2)
--   [Arata Umehara](/tags/arata-umehara) - guitar (#2)
+-   [Hiroco Nagano](/tags/hiroco-nagano/) - vocal
+-   [Shinya Nitta](/tags/shinya-nitta/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano, vocals
+-   [Yasuhiro Hasegawa](/tags/yasuhiro-hasegawa/) - bass (#2)
+-   [Yoshiyuki Nakaya](/tags/yoshiyuki-nakaya/) - drums (#2)
+-   [Arata Umehara](/tags/arata-umehara/) - guitar (#2)
 
 Released in 2015 on Music Art Records as MAR-1501.
 

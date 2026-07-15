@@ -14,7 +14,7 @@ related = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-
   relative = true
 +++
 
-Pianist Yukari Sekiya released _Duets Till Now, From Here_ fourteen years after her 2011 debut recording [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/). This new album offers both a retrospective and a forward view of her music and musical partners through her years of playing. _Duets_ is a two-disc album with 16 songs, and the temporal themes of past and future are reinforced by the label assigned to each disc, with disc one titled “Till Now” and two as “From Here”.
+Pianist Yukari Sekiya released _Duets Till Now, From Here_ fourteen years after her 2011 debut recording [_It’s Ordinary Love And..._](/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/). This new album offers both a retrospective and a forward view of her music and musical partners through her years of playing. _Duets_ is a two-disc album with 16 songs, and the temporal themes of past and future are reinforced by the label assigned to each disc, with disc one titled “Till Now” and two as “From Here”.
 
 {{< figure src="L1330942x-1200.jpeg" link="L1330942x-1200.jpeg" >}}
 
@@ -79,15 +79,15 @@ There are no “thorns” in the piano she plays. That is not something with a h
 
 ## Duets Till Now, From Here by Yukari Sekiya
 
--   [Yukari Sekiya](/tags/yukari-sekiya) - piano
--   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor &amp; soprano sax
--   [Tsutomu Takei](/tags/tsutomu-takei) - tenor &amp; soprano sax
--   [Yuzumi Tanimukai](/tags/yuzumi-tanimukai) - voice
--   [Suomi Morishita](/tags/suomi-morishita) - guitar
--   [Michihiro Morisada](/tags/michihiro-morisada) - bass
--   [Megumi Otsuka](/tags/megumi-otsuka) - bass
--   [Masaki Kai](/tags/masaki-kai) - bass
--   [Jin Mitsuda](/tags/jin-mitsuda) - drums
+-   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor &amp; soprano sax
+-   [Tsutomu Takei](/tags/tsutomu-takei/) - tenor &amp; soprano sax
+-   [Yuzumi Tanimukai](/tags/yuzumi-tanimukai/) - voice
+-   [Suomi Morishita](/tags/suomi-morishita/) - guitar
+-   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
+-   [Megumi Otsuka](/tags/megumi-otsuka/) - bass
+-   [Masaki Kai](/tags/masaki-kai/) - bass
+-   [Jin Mitsuda](/tags/jin-mitsuda/) - drums
 
 Released in 2025 on Umishima Records as USM-001.
 

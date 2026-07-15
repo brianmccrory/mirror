@@ -106,7 +106,7 @@ Also printed on the album are the words _retat-tat-ni kor nitay_, the title in t
 
 ## Retattanni no Mori by Yuki Ito
 
--   [Yuki Ito](/tags/yuki-ito) - bass
+-   [Yuki Ito](/tags/yuki-ito/) - bass
 
 Released in 2019 on Yuki Ito as YDM-001.
 

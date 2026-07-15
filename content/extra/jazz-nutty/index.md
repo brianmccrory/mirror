@@ -3,10 +3,10 @@ title = "Jazz Nutty"
 author = ["Brian McCrory"]
 description = "Jazz Nutty jazz cafe, located near Wadeda station in Tokyo, Japan"
 publishDate = 2024-12-25
-keywords = ["jazz-nutty"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "jazz-nutty"
 issue = 284
 [cover]
   image = "IMG_20240501_174529147_HDR-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 284
   relative = true
 +++
 
-Calling all jazz nuts! Jazz Nutty is a small coffee shop near Waseda University in Tokyo where the jazz records are cranked and the coffee flows hot. The shop name is undoubtedly a tribute to the Thelonious Monk tune “Nutty”, similar to other jazz spots which honor famous musicians, albums, or tunes from jazz history, like the bar [Salt Peanuts](https://www.jazzofjapan.com/archive/salt-peanuts) for example. Also in the legume/nut theme is of course the general jazz vibe of “Peanuts jazz” with Charlie Brown and Snoopy that is ever popular and present this time of year.
+Calling all jazz nuts! Jazz Nutty is a small coffee shop near Waseda University in Tokyo where the jazz records are cranked and the coffee flows hot. The shop name is undoubtedly a tribute to the Thelonious Monk tune “Nutty”, similar to other jazz spots which honor famous musicians, albums, or tunes from jazz history, like the bar [Salt Peanuts](/salt-peanuts/) for example. Also in the legume/nut theme is of course the general jazz vibe of “Peanuts jazz” with Charlie Brown and Snoopy that is ever popular and present this time of year.
 
 {{< figure src="IMG_20240328_170642085-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Welcome to Jazz Nutty" link="IMG_20240328_170642085-1200.jpeg" >}}
 

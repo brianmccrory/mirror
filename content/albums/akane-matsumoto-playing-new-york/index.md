@@ -34,9 +34,9 @@ At medium tempos, Matsumoto’s relaxed rhythmic sense is unerringly charming, p
 
 ## Playing New York by Akane Matsumoto
 
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Nat Reeves](/tags/nat-reeves) - bass
--   [Joe Farnsworth](/tags/joe-farnsworth) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Nat Reeves](/tags/nat-reeves/) - bass
+-   [Joe Farnsworth](/tags/joe-farnsworth/) - drums
 
 Released in 2010 on TK Entertainment as QACK-35007.
 

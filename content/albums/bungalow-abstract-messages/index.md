@@ -94,11 +94,11 @@ _中川ヨウ_ Yo Nakagawa /
 
 ## Abstract Messages by Bungalow
 
--   [Mike Rivett](/tags/mike-rivett) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
--   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes, Wurlitzer, Minimoog
--   [Ko Omura](/tags/ko-omura) - drums, tabla, gatam
--   [Isabeau Hansen](/tags/isabeau-hansen) - flute
--   [Gordon Richter](/tags/gordon-richter) - clarinet &amp; bassoon
+-   [Mike Rivett](/tags/mike-rivett/) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes, Wurlitzer, Minimoog
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla, gatam
+-   [Isabeau Hansen](/tags/isabeau-hansen/) - flute
+-   [Gordon Richter](/tags/gordon-richter/) - clarinet &amp; bassoon
 
 Released in 2020 on Studio Songs as YZSO-10109.
 

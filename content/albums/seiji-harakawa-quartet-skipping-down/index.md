@@ -38,10 +38,10 @@ One of the best things I can say about the music on _Skipping Down the Street_ i
 
 ## Skipping Down the Street by Seiji Harakawa Quartet
 
--   [Seiji Harakawa](/tags/seiji-harakawa) - saxophone
--   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Fukushi Tainaka](/tags/fukushi-tainaka) - drums
+-   [Seiji Harakawa](/tags/seiji-harakawa/) - saxophone
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
 
 Released in 2020 on T &amp; A Music as SEI-001.
 

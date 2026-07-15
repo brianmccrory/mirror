@@ -101,9 +101,9 @@ _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu 
 
 ## Toys by Sumire Kuribayashi Trio
 
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
--   [Shinichi Kato](/tags/shinichi-kato) - bass
--   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums
 
 Released in 2014 on Somethin’ Cool as SCOL-1003.
 

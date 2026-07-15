@@ -90,11 +90,11 @@ January 10, 2023, Hideaki Hori
 
 ## Horizon by Hideaki Hori
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi) - bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums (#1, 4, 5, 8)
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums (#2, 3, 6, 7, 9)
--   [Hideki Kawamura](/tags/hideki-kawamura) - tenor sax (#1, 2, 6, 9)
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi/) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums (#1, 4, 5, 8)
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums (#2, 3, 6, 7, 9)
+-   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (#1, 2, 6, 9)
 
 Released in 2003 on BQ Records as BQR-2022.
 

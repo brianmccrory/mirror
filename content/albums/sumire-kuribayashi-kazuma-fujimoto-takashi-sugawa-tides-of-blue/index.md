@@ -157,9 +157,9 @@ An unparalleled chemistry created by leading personalities in the Japanese jazz 
 
 ## Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
 
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi) - piano
--   [Kazuma Fujimoto](/tags/kazuma-fujimoto) - guitar
--   [Takashi Sugawa](/tags/takashi-sugawa) - bass
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto/) - guitar
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
 
 Released in 2025 on Days of Delight as DOD-051.
 

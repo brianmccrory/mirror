@@ -32,9 +32,9 @@ Original, catchy, and unique, this handmade album is available for sale at the j
 
 ## Small Pieces for Flying Padre by Trio Export 63.1.0.X
 
--   [Heitetsu Rin](/tags/heitetsu-rin) - piano
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass
--   [Masatsugu Hattori](/tags/masatsugu-hattori) - drums
+-   [Heitetsu Rin](/tags/heitetsu-rin/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
 
 Released in 2019 on Trio Export 63.1.0.X as Small Pieces for Flying Padre.
 

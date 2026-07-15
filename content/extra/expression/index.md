@@ -3,10 +3,10 @@ title = "Expression"
 author = ["Brian McCrory"]
 description = "Expression co-working & jazz club, located near Jimbocho station in Tokyo, Japan"
 publishDate = 2024-03-19
-keywords = ["expression"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "expression"
 issue = 235
 [cover]
   image = "IMG_20240305_185004197_HDR-1200.jpeg"

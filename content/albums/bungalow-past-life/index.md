@@ -30,10 +30,10 @@ Bungalow’s compositions are in focus here, and like modern songwriting from Wa
 
 ## Past Life by Bungalow
 
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto sax, soprano sax, tenor sax
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Ko Omura](/tags/ko-omura) - drums, tabla
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax, tenor sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla
 
 Released in 2013 on Studio Songs as YZSO-10036.
 

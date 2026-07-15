@@ -24,7 +24,7 @@ A first-time listener’s ears will no doubt perk up on tracks #1, #3, #5, and #
 
 {{< figure src="L1230376x-1024.jpeg" link="L1230376x-1024.jpeg" >}}
 
-Of pianist Nagatake’s two evocative and memorable contributions, #2 “Sakuragochi” recalls [her duo album with Tetsuji Yoshida](https://www.jazzofjapan.com/archive/tetsuji-yoshida-and-mikiko-nagatake) with its poignant moods and heavy riffs, while her #8 “Along With You, Sunnyman” skillfully lays out the good-feeling catchy hooks and grooves based on the pianist’s appreciation for Stevie Wonder-like positivity.
+Of pianist Nagatake’s two evocative and memorable contributions, #2 “Sakuragochi” recalls [her duo album with Tetsuji Yoshida](/tetsuji-yoshida-and-mikiko-nagatake/) with its poignant moods and heavy riffs, while her #8 “Along With You, Sunnyman” skillfully lays out the good-feeling catchy hooks and grooves based on the pianist’s appreciation for Stevie Wonder-like positivity.
 
 {{< figure src="L1230378x-1200.jpeg" link="L1230378x-1200.jpeg" >}}
 
@@ -134,10 +134,10 @@ _Jabuticaba  Mikiko Nagatake  Nami Kano_
 
 ## Jabuticaba by Jabuticaba
 
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
--   [Nami Kano](/tags/nami-kano) - saxophone
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass (track #8)
--   [Sota Kira](/tags/sota-kira) - drums (track #8)
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Nami Kano](/tags/nami-kano/) - saxophone
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass (track #8)
+-   [Sota Kira](/tags/sota-kira/) - drums (track #8)
 
 Released in 2021 on Owl Wing Record as OWL-020.
 

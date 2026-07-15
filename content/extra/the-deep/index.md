@@ -3,10 +3,10 @@ title = "The Deep"
 author = ["Brian McCrory"]
 description = "The Deep jazz club, located near Ginza and Shimbashi stations in Tokyo, Japan"
 publishDate = 2023-05-22
-keywords = ["the-deep"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "the-deep"
 issue = 167
 [cover]
   image = "L1140712-1024.jpeg"

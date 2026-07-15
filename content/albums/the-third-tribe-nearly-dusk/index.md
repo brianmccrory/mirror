@@ -150,8 +150,8 @@ A prayer to the infinite universe, a completely new duo format and their shockin
 
 ## Nearly Dusk by The Third Tribe
 
--   [Yoko Kobayashi](/tags/yoko-kobayashi) - piano
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Yoko Kobayashi](/tags/yoko-kobayashi/) - piano
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
 
 Released in 2019 on Timemachine Record as TMCD-1014.
 

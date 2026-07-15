@@ -30,8 +30,8 @@ While it can be said that Fukuda plays masterly jazz piano in a very piano-like 
 
 ## Childhood’s Dream by Shigeo Fukuda &amp; Toshiki Nunokawa
 
--   [Shigeo Fukuda](/tags/shigeo-fukuda) - piano
--   [Toshiki Nunokawa](/tags/toshiki-nunokawa) - guitar
+-   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano
+-   [Toshiki Nunokawa](/tags/toshiki-nunokawa/) - guitar
 
 Released in 2011 on BQ Records as BQR-2053.
 

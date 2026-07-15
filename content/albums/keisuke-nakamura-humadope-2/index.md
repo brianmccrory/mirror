@@ -14,7 +14,7 @@ related = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
   relative = true
 +++
 
-_Humadope 2_ from trumpeter Keisuke Nakamura features his quintet playing modern jazz originals with unsupressible energy. With a slightly different lineup as on his debut album _[Humadope](https://www.jazzofjapan.com/archive/keisuke-nakamura-humadope)_ (2014), the human/mad/dope sound is the same: fresh and boiling, jazzy and nonstop.
+_Humadope 2_ from trumpeter Keisuke Nakamura features his quintet playing modern jazz originals with unsupressible energy. With a slightly different lineup as on his debut album _[Humadope](/keisuke-nakamura-humadope/)_ (2014), the human/mad/dope sound is the same: fresh and boiling, jazzy and nonstop.
 
 {{< figure src="L1230462x-1024.jpeg" link="L1230462x-1024.jpeg" >}}
 
@@ -41,11 +41,11 @@ The whole album is filled with great moments, and picking favorites depends on t
 
 ## Humadope 2 by Keisuke Nakamura
 
--   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax, flute
--   [Ami Ogaeri](/tags/ami-ogaeri) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Ittetsu Takemura](/tags/ittetsu-takemura) - drums
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax, flute
+-   [Ami Ogaeri](/tags/ami-ogaeri/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Ittetsu Takemura](/tags/ittetsu-takemura/) - drums
 
 Released in 2019 on ANTXDEDE as ANTXDEDE-3105.
 

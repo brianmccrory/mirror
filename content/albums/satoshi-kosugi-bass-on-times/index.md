@@ -26,11 +26,11 @@ _Bass on Times_ is a 2009 album from jazz bassist Satoshi Kosugi, a well-known a
 
 ## Bass on Times by Satoshi Kosugi
 
--   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass
--   [Yoshiro Okazaki](/tags/yoshiro-okazaki) - trumpet
--   [Kazuhide Motooka](/tags/kazuhide-motooka) - piano
--   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
--   [Yoshihito Eto](/tags/yoshihito-eto) - drums
+-   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet
+-   [Kazuhide Motooka](/tags/kazuhide-motooka/) - piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
+-   [Yoshihito Eto](/tags/yoshihito-eto/) - drums
 
 Released in 2009 on Pax Box Press as PBP-0001.
 

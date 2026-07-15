@@ -148,11 +148,11 @@ Hiroyuki Yamaguchi Quintet
 
 ## Mowna by Hiroyuki Yamaguchi Quintet
 
--   [Hiroyuki Yamaguchi](/tags/hiroyuki-yamaguchi) - bass
--   [Hiroko Mase](/tags/hiroko-mase) - soprano saxophone
--   [Hinata Ishii](/tags/hinata-ishii) - tenor saxophone
--   [Toshihiko Kohno](/tags/toshihiko-kohno) - piano
--   [Tomoyuki Okabe](/tags/tomoyuki-okabe) - drums
+-   [Hiroyuki Yamaguchi](/tags/hiroyuki-yamaguchi/) - bass
+-   [Hiroko Mase](/tags/hiroko-mase/) - soprano saxophone
+-   [Hinata Ishii](/tags/hinata-ishii/) - tenor saxophone
+-   [Toshihiko Kohno](/tags/toshihiko-kohno/) - piano
+-   [Tomoyuki Okabe](/tags/tomoyuki-okabe/) - drums
 
 Released in 2024 on What’s New Records as GWNJ-2036.
 

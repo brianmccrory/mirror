@@ -44,9 +44,9 @@ Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 
 
 ## The Three Roses by Daiki Yasukagawa New Trio
 
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Sora Ichikawa](/tags/sora-ichikawa) - piano
--   [Yota Tsukada](/tags/yota-tsukada) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Sora Ichikawa](/tags/sora-ichikawa/) - piano
+-   [Yota Tsukada](/tags/yota-tsukada/) - drums
 
 Released in 2022 on Daiki Musika D-neo as DNCD-28.
 

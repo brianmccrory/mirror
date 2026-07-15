@@ -28,9 +28,9 @@ While session leader and bassist Koizimi states that the recording was not origi
 
 ## By Coincidence by Yoshihito “P” Koizumi P-Project
 
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - bass
--   [Jun Miyakawa](/tags/jun-miyakawa) - keyboards
--   [Kohzo Komori](/tags/kohzo-komori) - drums
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - bass
+-   [Jun Miyakawa](/tags/jun-miyakawa/) - keyboards
+-   [Kohzo Komori](/tags/kohzo-komori/) - drums
 
 Released in 2011 on Peace Bass Records as PBRS-0001.
 

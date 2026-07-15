@@ -28,7 +28,7 @@ Nishiyama spent over a year composing _Astrolabe_ and she wrote, edited, adapted
 
 {{< figure src="L1220654x-1200.jpeg" link="L1220654x-1200.jpeg" >}}
 
-Released in 2012, _Astrolabe_ roughly falls in Nishiyama’s early-to-middle period between her first debut release [_I’m Missing You_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-im-missing-you) from 2004 and her current latest _Songs_ from 2025. Up to 2012, she had already released several jazz piano trio albums as a leader of the Hitomi Nishiyama Trio and her Hitomi Nishiyama _[“Parallax”](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-parallax-live)_ jazz piano trio. Her personal style has always blended smooth European modernism, classical pianist roots, and deep jazz studies. Add to that her equally recognizable compositional style that is filled with sublime melodies and beautifully intricate harmonies and rhythms.
+Released in 2012, _Astrolabe_ roughly falls in Nishiyama’s early-to-middle period between her first debut release [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) from 2004 and her current latest _Songs_ from 2025. Up to 2012, she had already released several jazz piano trio albums as a leader of the Hitomi Nishiyama Trio and her Hitomi Nishiyama _[“Parallax”](/hitomi-nishiyama-trio-parallax-live/)_ jazz piano trio. Her personal style has always blended smooth European modernism, classical pianist roots, and deep jazz studies. Add to that her equally recognizable compositional style that is filled with sublime melodies and beautifully intricate harmonies and rhythms.
 
 The first six tracks on this album make up the “Astrolabe Suite”. In the liner notes (translated below), Nishiyama explains how the idea of writing a suite came to her, and the storytelling-like process she took with guitarist Baba in developing the chapters of the story over time.
 
@@ -96,8 +96,8 @@ A sublime duo of guitar and piano create and expand a magical sound space of two
 
 ## Astrolabe by Hitomi Nishiyama
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
 
 Released in 2012 on Meantone Record as MT-003.
 

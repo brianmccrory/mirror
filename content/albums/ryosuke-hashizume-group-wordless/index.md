@@ -30,10 +30,10 @@ With a length of 72 minutes spread out over ten tracks, the songs breathe and bl
 
 ## Wordless by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, loops
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
 
 Released in 2006 on Polystar Jazz Library as MTCJ-3031.
 

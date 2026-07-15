@@ -14,7 +14,7 @@ related = ["yudo-matsuo-bonanza"]
   relative = true
 +++
 
-_Songs in Motion_ is a 2018 release from guitarist Yudo Matsuo that he recorded with a quartet featuring Junichiro Ohkuchi on piano, Yoshimasa Otsuka on bass, and Sota Kira on drums. While this album follows his previous debut release [_Bonanza_](https://www.jazzofjapan.com/archive/yudo-matsuo-bonanza/) (2012), there was a full six years in between, so the guitarist/composer surely had a lot to say. As a result, _Songs in Motion_ is an album full of his stored-up musical ideas and performances, and that spirit is bursting forth as the quartet’s energy lets loose.
+_Songs in Motion_ is a 2018 release from guitarist Yudo Matsuo that he recorded with a quartet featuring Junichiro Ohkuchi on piano, Yoshimasa Otsuka on bass, and Sota Kira on drums. While this album follows his previous debut release [_Bonanza_](/yudo-matsuo-bonanza/) (2012), there was a full six years in between, so the guitarist/composer surely had a lot to say. As a result, _Songs in Motion_ is an album full of his stored-up musical ideas and performances, and that spirit is bursting forth as the quartet’s energy lets loose.
 
 {{< figure src="L1320741x-1200.jpeg" alt="Front cover of Songs in Motion by Yudo Matsuo Quartet" link="L1320741x-1200.jpeg" >}}
 
@@ -40,10 +40,10 @@ Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous
 
 ## Songs in Motion by Yudo Matsuo Quartet
 
--   [Yudo Matsuo](/tags/yudo-matsuo) - electric &amp; acoustic guitar
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano, Fender Rhodes
--   [Yoshimasa Otsuka](/tags/yoshimasa-otsuka) - bass
--   [Sota Kira](/tags/sota-kira) - drums
+-   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano, Fender Rhodes
+-   [Yoshimasa Otsuka](/tags/yoshimasa-otsuka/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
 
 Released in 2018 on Song X Jazz as SONGX-055.
 

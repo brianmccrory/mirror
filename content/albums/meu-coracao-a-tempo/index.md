@@ -28,12 +28,12 @@ The music grooves with creative arrangements and interesting effects, rooted by 
 
 ## A Tempo by Meu Coracao
 
--   [Emiko Voice](/tags/emiko-voice) - vocals
--   [Taro Sukegawa](/tags/taro-sukegawa) - acoustic &amp; electric guitar, cavaquinho
--   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa) - keyboards
--   [Cokky](/tags/cokky) - electric bass
--   [Kiyotaka Kuroda](/tags/kiyotaka-kuroda) - drums
--   [Yasuhiro Yoshigaki](/tags/yasuhiro-yoshigaki) - percussion (#4, 7)
+-   [Emiko Voice](/tags/emiko-voice/) - vocals
+-   [Taro Sukegawa](/tags/taro-sukegawa/) - acoustic &amp; electric guitar, cavaquinho
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa/) - keyboards
+-   [Cokky](/tags/cokky/) - electric bass
+-   [Kiyotaka Kuroda](/tags/kiyotaka-kuroda/) - drums
+-   [Yasuhiro Yoshigaki](/tags/yasuhiro-yoshigaki/) - percussion (#4, 7)
 
 Released in 2016 on Eclectic Records as ECLC-101.
 

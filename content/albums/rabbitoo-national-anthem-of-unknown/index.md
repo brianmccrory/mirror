@@ -32,11 +32,11 @@ Definitely not following the typical jazz formula, this beat-centered music with
 
 ## National Anthem of Unknown Country by Rabbitoo
 
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitars, keyboards
--   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, electronics
--   [Koichi Sato](/tags/koichi-sato) - Rhodes, Minimoog, Nord, piano
--   [Hiroki Chiba](/tags/hiroki-chiba) - contrabass, electric bass, electronics
--   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitars, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - Rhodes, Minimoog, Nord, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
 
 Released in 2014 on SONG X JAZZ as SONG X 019.
 

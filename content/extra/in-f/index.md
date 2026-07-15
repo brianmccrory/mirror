@@ -3,10 +3,10 @@ title = "In F"
 author = ["Brian McCrory"]
 description = "In F jazz club, located near Oizumi-gakuen station in Tokyo, Japan"
 publishDate = 2025-06-19
-keywords = ["in-f"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "in-f"
 issue = 314
 [cover]
   image = "L1280267x-1200.jpeg"

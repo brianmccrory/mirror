@@ -84,11 +84,11 @@ A killer tune from the 1980s disco era done with a vaudeville arrangement. Donâ€
 
 ## Magical Moonlight by Yuri Hirota
 
--   [Yuri Hirota](/tags/yuri-hirota) - piano &amp; arrangement
--   [Daisei Mii](/tags/daisei-mii) - violin &amp; viola
--   [Kilin Sato](/tags/kilin-sato) - bass
--   [Gen Date](/tags/gen-date) - conga &amp; other percussion
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar on #1, 3, 7
+-   [Yuri Hirota](/tags/yuri-hirota/) - piano &amp; arrangement
+-   [Daisei Mii](/tags/daisei-mii/) - violin &amp; viola
+-   [Kilin Sato](/tags/kilin-sato/) - bass
+-   [Gen Date](/tags/gen-date/) - conga &amp; other percussion
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar on #1, 3, 7
 
 Released in 2017 on Malt Oriental as MORI-0003.
 

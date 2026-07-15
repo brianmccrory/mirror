@@ -30,13 +30,13 @@ After the classy opener, the album continues with the title track “No One Else
 
 ## No One Else by Naoko Akimoto
 
--   [Naoko Akimoto](/tags/naoko-akimoto) - vocal
--   [Seiji Endo](/tags/seiji-endo) - piano
--   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu) - bass
--   [Ko Omura](/tags/ko-omura) - drums
--   [Shinpei Inoue](/tags/shinpei-inoue) - flute
--   [Yasuhiro Matsuda](/tags/yasuhiro-matsuda) - alto sax
--   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
+-   [Naoko Akimoto](/tags/naoko-akimoto/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+-   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+-   [Shinpei Inoue](/tags/shinpei-inoue/) - flute
+-   [Yasuhiro Matsuda](/tags/yasuhiro-matsuda/) - alto sax
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
 
 Released in 2012 on Marmalade Records as MARM-0004.
 

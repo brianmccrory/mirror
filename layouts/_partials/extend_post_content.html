@@ -1,5 +1,7 @@
+{{ if not (in (.Params.categories | default (slice)) "resources") }}
 <div class="post-content md-content"><p><em>Jazz of Japan &middot; No. {{ .Params.issue }} &middot; {{ if not .Date.IsZero }}<span title='{{ .Date }}'>{{ .Date | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }}</span> &middot; {{ end -}}{{- if not .Params.lastmod.IsZero }}<span title='{{ .Params.lastmod }}'>(rev. {{ .Params.lastmod | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }})</span> &middot; {{ end -}}{{ site.Params.author -}}</em></p></div>
 <hr>
+{{- end }}
 
 {{- if and (ne .Type "page") (or .Params.related (.Site.RegularPages.Related .)) }}
 <div class="post-content md-content"><p>

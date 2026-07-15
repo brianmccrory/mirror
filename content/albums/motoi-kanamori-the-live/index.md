@@ -105,13 +105,13 @@ A stunning 2-disc album that captures the stirring concert recorded live in high
 
 ## The Live by Motoi Kanamori
 
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Hiroyuki Takubo](/tags/hiroyuki-takubo) - piano
--   [Akira Yamada](/tags/akira-yamada) - drums
--   [Taishi Sakurai](/tags/taishi-sakurai) - violin
--   [Chie Hasegawa](/tags/chie-hasegawa) - violin
--   [Megumi Ozawa](/tags/megumi-ozawa) - viola
--   [Atsushi Hashimoto](/tags/atsushi-hashimoto) - cello
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Taishi Sakurai](/tags/taishi-sakurai/) - violin
+-   [Chie Hasegawa](/tags/chie-hasegawa/) - violin
+-   [Megumi Ozawa](/tags/megumi-ozawa/) - viola
+-   [Atsushi Hashimoto](/tags/atsushi-hashimoto/) - cello
 
 Released in 2023 on Laplace Records as LPDCD113-114.
 

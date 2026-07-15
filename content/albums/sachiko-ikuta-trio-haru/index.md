@@ -28,10 +28,10 @@ The album’s nine songs feature classic jazz standards, songs by Bills Evans an
 
 ## Haru No Kaze by Sachiko Ikuta Trio
 
--   [Sachiko Ikuta](/tags/sachiko-ikuta) - piano
--   [Hideaki Kanazawa](/tags/hideaki-kanazawa) - contrabass
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
--   [Terumasa Hino](/tags/terumasa-hino) - trumpet, cornet (#3, 6)
+-   [Sachiko Ikuta](/tags/sachiko-ikuta/) - piano
+-   [Hideaki Kanazawa](/tags/hideaki-kanazawa/) - contrabass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
+-   [Terumasa Hino](/tags/terumasa-hino/) - trumpet, cornet (#3, 6)
 
 Released in 2012 on Studio TLive Records as XQHG-1007.
 

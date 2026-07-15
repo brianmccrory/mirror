@@ -3,10 +3,10 @@ title = "Ginza Swing"
 author = ["Brian McCrory"]
 description = "Ginza Swing jazz club, located near Ginza and Yurakucho stations in Tokyo, Japan"
 publishDate = 2026-03-12
-keywords = ["ginza-swing"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "ginza-swing"
 issue = 355
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"

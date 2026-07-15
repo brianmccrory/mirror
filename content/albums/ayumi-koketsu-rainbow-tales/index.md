@@ -33,10 +33,10 @@ The album contains a nice balance on its eleven songs. Along with three swinging
 
 ## Rainbow Tales by Ayumi Koketsu
 
--   [Ayumi Koketsu](/tags/ayumi-koketsu) - alto sax
--   [Svein Olav Herstad](/tags/svein-olav-herstad) - piano
--   [Magne Thormodsæter](/tags/magne-thormodster) - bass
--   [Per Oddvar Johansen](/tags/per-oddvar-johansen) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - alto sax
+-   [Svein Olav Herstad](/tags/svein-olav-herstad/) - piano
+-   [Magne Thormodsæter](/tags/magne-thormodster/) - bass
+-   [Per Oddvar Johansen](/tags/per-oddvar-johansen/) - drums
 
 Released in 2012 on Pony Canyon as MYCJ-30620.
 

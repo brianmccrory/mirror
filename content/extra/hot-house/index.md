@@ -3,10 +3,10 @@ title = "Hot House"
 author = ["Brian McCrory"]
 description = "Hot House jazz club, located near Takadanobaba station in Tokyo, Japan (permanently closed)"
 publishDate = 2023-05-16
-keywords = ["hot-house"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "hot-house"
 issue = 163
 [cover]
   image = "L1040205-1024.jpeg"

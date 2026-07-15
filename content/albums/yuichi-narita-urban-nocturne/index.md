@@ -39,7 +39,7 @@ The combination of instruments is also fascinatingly varied. On the electronic t
 
 ## Urban Nocturne by Yuichi Narita
 
--   [Yuichi Narita](/tags/yuichi-narita) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
+-   [Yuichi Narita](/tags/yuichi-narita/) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
 
 Released in 2021 on Coffee Table Records as COTA-001.
 

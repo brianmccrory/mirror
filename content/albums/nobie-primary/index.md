@@ -55,16 +55,16 @@ Similarly, on _Primary_, Nobie sings in Japanese for five tracks, English for th
 
 ## Primary by Nobie
 
--   [Nobie](/tags/nobie) - vocals, handclaps, microKORG, shaker
--   [Toninho Horta](/tags/toninho-horta) - vocals &amp; acoustic guitars (#1, 11)
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi) - piano (#8)
--   [Shikou Ito](/tags/shikou-ito) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
--   [Kohzo Komori](/tags/kohzo-komori) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
--   [Satoshi Yoshida](/tags/satoshi-yoshida) - electric and acoustic guitars (#4, 5, 6, 9, 10)
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi) - electric bass (#4, 6, 7, 9)
--   [Yuri Dazai](/tags/yuri-dazai) - piano &amp; keyboard (#6, 9)
--   [Satoshi Ishikawa](/tags/satoshi-ishikawa) - percussions (#5)
--   [Satoshi Sano](/tags/satoshi-sano) - flute (#9)
+-   [Nobie](/tags/nobie/) - vocals, handclaps, microKORG, shaker
+-   [Toninho Horta](/tags/toninho-horta/) - vocals &amp; acoustic guitars (#1, 11)
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (#8)
+-   [Shikou Ito](/tags/shikou-ito/) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
+-   [Kohzo Komori](/tags/kohzo-komori/) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
+-   [Satoshi Yoshida](/tags/satoshi-yoshida/) - electric and acoustic guitars (#4, 5, 6, 9, 10)
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - electric bass (#4, 6, 7, 9)
+-   [Yuri Dazai](/tags/yuri-dazai/) - piano &amp; keyboard (#6, 9)
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - percussions (#5)
+-   [Satoshi Sano](/tags/satoshi-sano/) - flute (#9)
 
 Released in 2011 on Anturtle Tune as ANTX-0721.
 

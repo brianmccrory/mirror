@@ -59,8 +59,8 @@ As a final, perhaps trivial, note, there is a brief out-of-place moment near the
 
 ## Frozen Dust by Takumi Seino &amp; Motohiko Ichino
 
--   [Takumi Seino](/tags/takumi-seino) - guitar
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
+-   [Takumi Seino](/tags/takumi-seino/) - guitar
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
 
 Released in 2011 on Voice of Silence as VOS-635.
 

@@ -34,8 +34,8 @@ The album’s five tracks add up to a brisk 23 minutes and relay a narrative wit
 
 ## Dubai Suite by Yukako Yamano &amp; Yukari Inoue
 
--   [Yukako Yamano](/tags/yukako-yamano) - piano
--   [Yukari Inoue](/tags/yukari-inoue) - piano
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
+-   [Yukari Inoue](/tags/yukari-inoue/) - piano
 
 Released in 2021 on Yukako Yamano as YKCJ-0006.
 

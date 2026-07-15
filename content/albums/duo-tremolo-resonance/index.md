@@ -30,10 +30,10 @@ Two of the songs also feature guest percussionist Saori Sendo, and add rich rhyt
 
 ## Resonance by Duo Tremolo
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano, voice and percussion on #11
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar, voice on #11
--   [Saori Sendo](/tags/saori-sendo) - percussion on #3, #8
--   [Aya Kurosawa](/tags/aya-kurosawa) - voice on #11
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano, voice and percussion on #11
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar, voice on #11
+-   [Saori Sendo](/tags/saori-sendo/) - percussion on #3, #8
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice on #11
 
 Released in 2019 on Orbit Records as ORG-1004.
 

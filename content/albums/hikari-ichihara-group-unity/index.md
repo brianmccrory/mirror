@@ -14,7 +14,7 @@ related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
   relative = true
 +++
 
-_Unity_ is the sixth album from trumpeter Hikari Ichihara and the second album from the Hikari Ichihara Group band name, following their excellent debut release _[Move On](https://www.jazzofjapan.com/archive/hikari-ichihara-group-move-on)_ from 2010. _Unity_, released in 2011, features nine original songs and a playtime of fifty-six minutes.
+_Unity_ is the sixth album from trumpeter Hikari Ichihara and the second album from the Hikari Ichihara Group band name, following their excellent debut release _[Move On](/hikari-ichihara-group-move-on/)_ from 2010. _Unity_, released in 2011, features nine original songs and a playtime of fifty-six minutes.
 
 {{< figure src="L1230308x-1200.jpeg" link="L1230308x-1200.jpeg" >}}
 
@@ -82,11 +82,11 @@ Ichihara Hikari
 
 ## Unity by Hikari Ichihara Group
 
--   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
--   [Ryosuke Asai](/tags/ryosuke-asai) - alto saxophone
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto saxophone
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2011 on After Beat / Pony Canyon as PCCY-30187.
 

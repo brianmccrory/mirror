@@ -32,8 +32,8 @@ Other album highlights include music from the Italian classic _Cinema Paradiso_ 
 
 ## Bass on Cinema by Shinichi Kato
 
--   [Shinichi Kato](/tags/shinichi-kato) - bass
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano, synthesizers, arrangements
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, synthesizers, arrangements
 
 Released in 2011 on Roving Spirits as RKCJ-2048.
 

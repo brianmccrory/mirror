@@ -60,10 +60,10 @@ Given such fresh music, instead of summarizing the album overall with a few desc
 
 ## Awareness by Mariko Maeda
 
--   [Mariko Maeda](/tags/mariko-maeda) - trombone
--   [Kota Kaihori](/tags/kota-kaihori) - piano, trumpet on #4
--   [Yosuke Terao](/tags/yosuke-terao) - bass
--   [Yuto Maseki](/tags/yuto-maseki) - drums
+-   [Mariko Maeda](/tags/mariko-maeda/) - trombone
+-   [Kota Kaihori](/tags/kota-kaihori/) - piano, trumpet on #4
+-   [Yosuke Terao](/tags/yosuke-terao/) - bass
+-   [Yuto Maseki](/tags/yuto-maseki/) - drums
 
 Released in 2023 on DoLuck Jazz as DLC-28.
 

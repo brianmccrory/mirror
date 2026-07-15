@@ -3,10 +3,10 @@ title = "Kanmachi 63"
 author = ["Brian McCrory"]
 description = "Kanmachi 63 jazz club, located near Bashamichi and Kannai stations in Yokohama, Japan"
 publishDate = 2024-10-08
-keywords = ["kanmachi-63"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "kanmachi-63"
 issue = 268
 [cover]
   image = "IMG_20190517_213722719-1200.jpeg"

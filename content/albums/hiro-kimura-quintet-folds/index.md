@@ -101,11 +101,11 @@ Hiro Kimura
 
 ## Folds by Hiro Kimura Quintet
 
--   [Hiro Kimura](/tags/hiro-kimura) - drums
--   [Kazuhiko Takeda](/tags/kazuhiko-takeda) - guitar
--   [Miki Hirose](/tags/miki-hirose) - trumpet
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano
--   [Yuji Ito](/tags/yuji-ito) - bass
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
+-   [Kazuhiko Takeda](/tags/kazuhiko-takeda/) - guitar
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Yuji Ito](/tags/yuji-ito/) - bass
 
 Released in 2023 on KINO Records as KIN-002.
 

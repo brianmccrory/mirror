@@ -28,13 +28,13 @@ Emiko’s voice is front-and-center and spans the gamut from quick instrumentesq
 
 ## Carta by Emiko Voice
 
--   [Emiko Voice](/tags/emiko-voice) - vocal
--   [Koichi Sato](/tags/koichi-sato) - piano, Rhodes
--   [Akemi Ohta](/tags/akemi-ohta) - flute
--   [Momoko Aida](/tags/momoko-aida) - violin
--   [Akira Tanidono](/tags/akira-tanidono) - trumpet
--   [Toru Nishijima](/tags/toru-nishijima) - bass
--   [Keita Okada](/tags/keita-okada) - drums, percussion
+-   [Emiko Voice](/tags/emiko-voice/) - vocal
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
+-   [Akemi Ohta](/tags/akemi-ohta/) - flute
+-   [Momoko Aida](/tags/momoko-aida/) - violin
+-   [Akira Tanidono](/tags/akira-tanidono/) - trumpet
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Keita Okada](/tags/keita-okada/) - drums, percussion
 
 Released in 2017 on Zipangu Label as ZIP-0058.
 

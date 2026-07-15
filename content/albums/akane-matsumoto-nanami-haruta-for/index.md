@@ -89,8 +89,8 @@ By the way, when I happen to hum this song, I’m struck and transformed by the 
 
 ## For My Lady by Akane Matsumoto &amp; Nanami Haruta
 
--   [Nanami Haruta](/tags/nanami-haruta) - trombone
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
 
 Released in 2023 on Concept Record as CR-17.
 

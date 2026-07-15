@@ -77,7 +77,7 @@ This is a song included on _Shift_ (2014), but this time I definitely wanted to 
 
 7.  T.C.T.S.
 
-Included on _[Live](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-parallax-live)_ (2016). I wrote this by rotating through twelve chords in one cycle with a blues size. It feels great to play this with these members who can perform this space-filled piece without overfilling it.
+Included on _[Live](/hitomi-nishiyama-trio-parallax-live/)_ (2016). I wrote this by rotating through twelve chords in one cycle with a blues size. It feels great to play this with these members who can perform this space-filled piece without overfilling it.
 
 8.  J
 
@@ -89,7 +89,7 @@ Included on the duo album with Daiki Yasukagawa _Down By The Salley Gardens_ (20
 
 10. Night
 
-This is based on “Before Night Falls” from _[Many Seasons](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-many-seasons)_ (2007), but I changed the size and expanded the image into a different song.
+This is based on “Before Night Falls” from _[Many Seasons](/hitomi-nishiyama-trio-many-seasons/)_ (2007), but I changed the size and expanded the image into a different song.
 
 (Hitomi Nishiyama)
 
@@ -98,11 +98,11 @@ This is based on “Before Night Falls” from _[Many Seasons](https://www.jazzo
 
 ## Faces by Kaoru Azuma / Hitomi Nishiyama
 
--   [Kaoru Azuma](/tags/kaoru-azuma) - vocal
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, composition, arrangement
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar (#1, 2, 3, 5, 7, 8)
--   [Toru Nishijima](/tags/toru-nishijima) - bass (#1, 2, 3, 5, 6, 7, 9)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
+-   [Kaoru Azuma](/tags/kaoru-azuma/) - vocal
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, composition, arrangement
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar (#1, 2, 3, 5, 7, 8)
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass (#1, 2, 3, 5, 6, 7, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
 
 Released in 2020 on Meantone Records as MT-09.
 

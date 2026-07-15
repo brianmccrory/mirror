@@ -67,9 +67,9 @@ _This is a transcription of the CD liner notes written by Chihiro Yamanaka:_
 
 ## When October Goes by Chihiro Yamanaka Trio
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Larry Grenadier](/tags/larry-grenadier) - bass
--   [Jeff Ballard](/tags/jeff-ballard) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Larry Grenadier](/tags/larry-grenadier/) - bass
+-   [Jeff Ballard](/tags/jeff-ballard/) - drums
 
 Released in 2002 on Atelier Sawano as AS-025.
 

@@ -30,9 +30,9 @@ Starting with a quiet dynamic, Hamada sings a wistful “Round Midnight” befor
 
 ## This is Atomi by Atomi Hamada
 
--   [Atomi Hamada](/tags/atomi-hamada) - vocal
--   [Momo Nonami](/tags/momo-nonami) - piano
--   [Hiroaki Mizutani](/tags/hiroaki-mizutani) - bass
+-   [Atomi Hamada](/tags/atomi-hamada/) - vocal
+-   [Momo Nonami](/tags/momo-nonami/) - piano
+-   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
 
 Released in 2017 on Atomi Hamada as This is Atomi.
 

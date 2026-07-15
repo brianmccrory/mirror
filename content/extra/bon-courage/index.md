@@ -3,10 +3,10 @@ title = "Bon Courage"
 author = ["Brian McCrory"]
 description = "Bon Courage jazz club, located near Yotsuya station in Tokyo, Japan"
 publishDate = 2024-04-12
-keywords = ["bon-courage"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "bon-courage"
 issue = 237
 [cover]
   image = "L1230211-1024.jpeg"

@@ -26,9 +26,9 @@ On _Bubble Fish_, the jazz trio uses full chords and vital grooves on their comp
 
 ## Bubble Fish by Shunichi Yanagi Trio
 
--   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
--   [Ryo Shibata](/tags/ryo-shibata) - drums
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
+-   [Shunichi Yanagi](/tags/shunichi-yanagi/) - piano
+-   [Ryo Shibata](/tags/ryo-shibata/) - drums
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
 
 Released in 2012 on Truestar Entertainment as TSR-51102.
 

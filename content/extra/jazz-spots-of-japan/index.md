@@ -2,10 +2,10 @@
 title = "Jazz Spots of Japan"
 author = ["Brian McCrory"]
 publishDate = 2024-02-12
-keywords = ["jazz-spots-of-japan"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "jazz-spots-of-japan"
 issue = 230
 [cover]
   image = "P1040163-1024.jpeg"
@@ -182,7 +182,7 @@ These jazz jam spots are superb meeting places for jazz musicians of all stripes
 
 Depending on the specific session, amateurs of any level and even beginners may be welcome and encouraged to join. Certain other sessions may have a higher bar and be geared toward players with more experience and knowledge of jazz. As many session seekers know, the best way to find out is to first attend a session as a listener, to discover the level of musicians that are participating, and to learn about any particular rules. Even just by sitting and listening at a session, it’s a good bet that someone will strike up a conversation to ask you if you are a musician and if you are going to join the session.
 
-Along with jazz clubs and _kissas_, many places offer jam sessions intermittently on their schedule alongside regular live shows. Some places, “jam session centers”, specialize in hosting sessions and educational workshops rather than live shows. One of the best-known spots in Tokyo for its famous nightly jazz jam sessions is [Intro](https://www.jazzofjapan.com/archive/intro), along with its partner restaurant location [Cafe Cotton Club](https://www.jazzofjapan.com/archive/cafe-cotton-club) (with sessions on Fridays) right across the street.
+Along with jazz clubs and _kissas_, many places offer jam sessions intermittently on their schedule alongside regular live shows. Some places, “jam session centers”, specialize in hosting sessions and educational workshops rather than live shows. One of the best-known spots in Tokyo for its famous nightly jazz jam sessions is [Intro](/intro/), along with its partner restaurant location [Cafe Cotton Club](/cafe-cotton-club/) (with sessions on Fridays) right across the street.
 
 
 ## To Be Continued…

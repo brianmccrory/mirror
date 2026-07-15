@@ -184,11 +184,11 @@ He became a professional musician at 17 years of age by training in big bands an
 
 ## Breathe Beneath the Sun by Mikiko Nagatake Trio
 
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Sota Kira](/tags/sota-kira) - drums
--   [Kosuke Mine](/tags/kosuke-mine) - tenor sax (track #8)
--   [Eiichi Hayashi](/tags/eiichi-hayashi) - alto sax (track #9)
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (track #8)
+-   [Eiichi Hayashi](/tags/eiichi-hayashi/) - alto sax (track #9)
 
 Released in 2022 on Owl Wing Record as OWL-041.
 

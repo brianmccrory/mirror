@@ -3,10 +3,10 @@ title = "Somethin’"
 author = ["Brian McCrory"]
 description = "Somethin’ jazz club, located near Ikebukuro station in Tokyo, Japan"
 publishDate = 2024-08-06
-keywords = ["somethin"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "somethin"
 issue = 255
 [cover]
   image = "IMG_20190611_210428751-1200.jpeg"

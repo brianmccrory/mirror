@@ -9,8 +9,8 @@ theme = "PaperMod"
   
 [permalinks]
   [permalinks.page]
-    albums = "/archive/:slug/" # to maintain buttondown urls for now
-    extra = "/archive/:slug/" # to maintain buttondown urls for now
+    albums = "/:slug/"
+    extra = "/:slug/"
 #    clubs = "/club/:slug/"
 #    guides = "/club/:slug/"
 #    blog = '/blog/:year/:month/:slug/' # for the "behind the scenes" posts
@@ -38,12 +38,13 @@ theme = "PaperMod"
   [params.homeInfoParams]
   Title = "Welcome to Jazz of Japan"
   Content ="""
-This is an experimental mirror site for <a href="https://www.jazzofjapan.com">Jazz of Japan</a>. The latest articles are shown below, and you can use the links in the menu above to dig into the archives. You can subscribe to <a href="https://buttondown.com/jazzofjapan">newsletter</a> by entering your email here:
+Introducing modern-day jazz of Japan through albums, musicians, and clubs! The latest articles are shown below, and you can use the links in the menu above to dig into the archives. You can subscribe to <a href="https://buttondown.com/jazzofjapan">newsletter</a> by entering your email here:
 {{< subscribe-form >}}
+- Popular articles: [Ten Top 10s for Live Jazz in Tokyo](/ten-top-10s-for-live-jazz-in-tokyo/) | [First-Timer’s Guide to Live Jazz in Japan](/first-timers-guide-to-live-jazz-in-japan/) | [Alfie](/alfie/) | [Blue Note Tokyo](/blue-note-tokyo/) | [Naru](/naru/) | [Pit Inn](/pit-inn/) | [Salt Peanuts](/salt-peanuts/) | [Sometime](/sometime/)
 """
 
   [params.footer]
-    text = 'Since 2018 · <a href="/index.xml">RSS</a>'
+    text = 'Since 2018 &middot; <a href="/audio/">Audio</a> &middot; <a href="/indexes/">Index</a> &middot; <a href="/index.xml">RSS</a>'
   [params.cover]
     hidden = false
     hiddenInList = false

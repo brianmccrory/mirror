@@ -98,12 +98,12 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 
 ## Sara Smile by Hikari Ichihara
 
--   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet &amp; flugelhorn
--   [Adam Birnbaum](/tags/adam-birnbaum) - piano
--   [Peter Washington](/tags/peter-washington) - bass
--   [Lewis Nash](/tags/lewis-nash) - drums
--   [Dominick Farinacci](/tags/dominick-farinacci) - trumpet
--   [Grant Stewart](/tags/grant-stewart) - tenor saxophone
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet &amp; flugelhorn
+-   [Adam Birnbaum](/tags/adam-birnbaum/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Lewis Nash](/tags/lewis-nash/) - drums
+-   [Dominick Farinacci](/tags/dominick-farinacci/) - trumpet
+-   [Grant Stewart](/tags/grant-stewart/) - tenor saxophone
 
 Released in 2006 on Leafage Jazz as PCCY-60003.
 

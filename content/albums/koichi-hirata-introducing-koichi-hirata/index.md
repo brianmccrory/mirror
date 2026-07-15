@@ -101,10 +101,10 @@ Jazz guitarist Koichi Hirata is a current college student who has began to make 
 
 ## Introducing Koichi Hirata by Koichi Hirata
 
--   [Koichi Hirata](/tags/koichi-hirata) - guitar
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Yutaka Yoshida](/tags/yutaka-yoshida) - bass
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma) - drums
+-   [Koichi Hirata](/tags/koichi-hirata/) - guitar
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Yutaka Yoshida](/tags/yutaka-yoshida/) - bass
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
 
 Released in 2024 on Live at Alfie as AFCD-6008.
 

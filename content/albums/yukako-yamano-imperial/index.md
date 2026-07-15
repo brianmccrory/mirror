@@ -33,7 +33,7 @@ Yamano leads off _Imperial_ with “Symphony of Lights”, an adventurous compos
 
 ## Imperial by Yukako Yamano
 
--   [Yukako Yamano](/tags/yukako-yamano) - piano
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
 
 Released in 2018 on Yukako Yamano as YKRN-0004.
 

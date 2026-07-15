@@ -3,10 +3,10 @@ title = "Paco"
 author = ["Brian McCrory"]
 description = "Paco jazz club, located near Kojimachi and Hanzomon stations in Tokyo, Japan"
 publishDate = 2023-05-12
-keywords = ["paco"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "paco"
 issue = 159
 [cover]
   image = "IMG_20181110_190247665-1024.jpeg"

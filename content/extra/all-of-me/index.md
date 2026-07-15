@@ -3,10 +3,10 @@ title = "All of Me"
 author = ["Brian McCrory"]
 description = "All of Me jazz club, located near Roppongi and Nogizaka stations in Tokyo, Japan"
 publishDate = 2023-05-17
-keywords = ["all-of-me"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "all-of-me"
 issue = 164
 [cover]
   image = "L1000733-1024.jpeg"

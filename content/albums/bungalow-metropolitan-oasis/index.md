@@ -28,10 +28,10 @@ Masahiro Yamamoto, an original member of Bungalow featured on their first two al
 
 ## Metropolitan Oasis by Bungalow
 
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto) - alto sax, soprano sax
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Ko Omura](/tags/ko-omura) - drums
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
 
 Released in 2011 on Daiki Musica as DMCD-17.
 

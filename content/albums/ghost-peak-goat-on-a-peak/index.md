@@ -20,7 +20,7 @@ _The Goat on a Peak_ is a 2023 album from Ghost Peak, a band formed in 2022 by g
 
 Ghost Peak’s _The Goat on a Peak_ contains five of Miyazaki’s original compositions and was released on the heels of their first release _Ghost Peak 1_. The audio for these two albums was recorded at a live concert in Kobe in 2023. While the first release was an online-only streaming/digital download, this second album was released as a compact disc with a different set of songs.
 
-“Ghost Peak” is not only the band name but also the name of a terrific composition of Miyazaki’s that he plays on solo guitar on his 2022 vinyl/digital release _[Light Colored](https://shinjimiyazaki.bandcamp.com/album/light-colored)_. In addition, “Ghost Peak” is also the name of a four-part suite split between their first album _Ghost Peak 1_, and this album _The Goat on a Peak_. Adding to the _ghost/goat/peak_ intrigue, and separate from the four-part suite, _Ghost Peak 1_ features a song titled “Ghost Views a Peak”, and this second album features a song titled “A Goat Climbs a Peak”. That’s plenty of ghosts, goats, and peaks, but it all works well to ground their style of free jazz and experimental music with a thematic throughline.
+“Ghost Peak” is not only the band name but also the name of a terrific composition of Miyazaki’s that he plays on solo guitar on his 2022 vinyl/digital release _[Light Colored](https://shinjimiyazaki.bandcamp.com/album/light-colored/)_. In addition, “Ghost Peak” is also the name of a four-part suite split between their first album _Ghost Peak 1_, and this album _The Goat on a Peak_. Adding to the _ghost/goat/peak_ intrigue, and separate from the four-part suite, _Ghost Peak 1_ features a song titled “Ghost Views a Peak”, and this second album features a song titled “A Goat Climbs a Peak”. That’s plenty of ghosts, goats, and peaks, but it all works well to ground their style of free jazz and experimental music with a thematic throughline.
 
 {{< figure src="L1270663x-1200.jpeg" link="L1270663x-1200.jpeg" >}}
 
@@ -37,10 +37,10 @@ Here are some too-brief glances at the overall album flow: The thirty-seven minu
 
 ## The Goat on a Peak by Ghost Peak
 
--   [Shinji Miyazaki](/tags/shinji-miyazaki) - guitar
--   [Natsuki Tamura](/tags/natsuki-tamura) - trumpet
--   [Taeko Kurita](/tags/taeko-kurita) - piano
--   [Hiroaki Mizutani](/tags/hiroaki-mizutani) - bass
+-   [Shinji Miyazaki](/tags/shinji-miyazaki/) - guitar
+-   [Natsuki Tamura](/tags/natsuki-tamura/) - trumpet
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
 
 Released in 2023 on Stereo Equipment Music Works as SEMW-04.
 

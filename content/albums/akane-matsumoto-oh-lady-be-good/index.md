@@ -14,7 +14,7 @@ related = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "k
   relative = true
 +++
 
-_Oh, Lady Be Good_ is a piano trio album from Tokyo-based jazz pianist Akane Matsumoto. She’s been releasing trio recordings since 2008, along with albums playing with quartets and quintets, although her recent albums have featured her in small ensembles rather than her regular combos. In fact, since this record (recorded and released in 2019), her latest releases have focused on solo and duo formations, such as her piano album _[Little Girl Blue](https://www.jazzofjapan.com/archive/akane-matsumoto-little-girl-blue)_ (2022), her duo with trombone on _[For My Lady](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for)_ (2023, with Nanami Haruta), and her latest piano and saxophone duo release _Trust_ (2024, with Ayumi Koketsu). All of which is to say that this album, _Oh, Lady Be Good_, is her most recent jazz piano trio release.
+_Oh, Lady Be Good_ is a piano trio album from Tokyo-based jazz pianist Akane Matsumoto. She’s been releasing trio recordings since 2008, along with albums playing with quartets and quintets, although her recent albums have featured her in small ensembles rather than her regular combos. In fact, since this record (recorded and released in 2019), her latest releases have focused on solo and duo formations, such as her piano album _[Little Girl Blue](/akane-matsumoto-little-girl-blue/)_ (2022), her duo with trombone on _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ (2023, with Nanami Haruta), and her latest piano and saxophone duo release _Trust_ (2024, with Ayumi Koketsu). All of which is to say that this album, _Oh, Lady Be Good_, is her most recent jazz piano trio release.
 
 {{< figure src="L1270168x-1200.jpeg" link="L1270168x-1200.jpeg" >}}
 
@@ -89,9 +89,9 @@ Filled with the fun, the beauty, and the charm of the piano trio!!
 
 ## Oh, Lady Be Good by Akane Matsumoto
 
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura) - bass
--   [Junji Hirose](/tags/junji-hirose) - drums
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
+-   [Junji Hirose](/tags/junji-hirose/) - drums
 
 Released in 2019 on Concept Records as CR-12.
 

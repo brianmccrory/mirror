@@ -38,9 +38,9 @@ Throughout, Hayama’s piano is impressively quick, crystalline light without be
 
 ## Prelude to a Kiss by Miki Hayama
 
--   [Miki Hayama](/tags/miki-hayama) - piano
--   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
--   [Eric McPherson](/tags/eric-mcpherson) - drums
+-   [Miki Hayama](/tags/miki-hayama/) - piano
+-   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa/) - bass
+-   [Eric McPherson](/tags/eric-mcpherson/) - drums
 
 Released in 2006 on Art Jazz Records as ARTCD-112.
 

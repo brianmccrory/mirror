@@ -45,7 +45,7 @@ We would like to thank everyone who helped us in releasing this.
 
 ## Vayu by Toshihiko Inoue
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - solo saxophone
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - solo saxophone
 
 Released in 2016 on Foot &amp; Shoe as FSCJ-0011.
 

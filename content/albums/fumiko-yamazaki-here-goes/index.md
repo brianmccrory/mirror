@@ -30,10 +30,10 @@ The poppy tracks are refreshing and positive, sounding suitable as light-hearted
 
 ## Here Goes! by Fumiko Yamazaki
 
--   [Fumiko Yamazaki](/tags/fumiko-yamazaki) - vibes, percussion
--   [Keizo Kawano](/tags/keizo-kawano) - piano, keyboard
--   [Shingo Tanaka](/tags/shingo-tanaka) - bass
--   [Takashi Saito](/tags/takashi-saito) - drums, percussion
+-   [Fumiko Yamazaki](/tags/fumiko-yamazaki/) - vibes, percussion
+-   [Keizo Kawano](/tags/keizo-kawano/) - piano, keyboard
+-   [Shingo Tanaka](/tags/shingo-tanaka/) - bass
+-   [Takashi Saito](/tags/takashi-saito/) - drums, percussion
 
 Released in 2011 on T&amp;K Entertainment as QACK-35024.
 

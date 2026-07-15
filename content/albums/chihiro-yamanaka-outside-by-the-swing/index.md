@@ -32,9 +32,9 @@ Perfectly in line with the direct reference in the album title, pure, simple, st
 
 ## Outside by the Swing by Chihiro Yamanaka
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Robert Hurst](/tags/robert-hurst) - bass
--   [Jeff “Tain” Watts](/tags/jeff-tain-watts) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Robert Hurst](/tags/robert-hurst/) - bass
+-   [Jeff “Tain” Watts](/tags/jeff-tain-watts/) - drums
 
 Released in 2005 on Verve as UCCJ-2040.
 

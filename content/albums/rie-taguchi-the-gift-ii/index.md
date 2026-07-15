@@ -13,7 +13,7 @@ issue = 169
   relative = true
 +++
 
-Vocalist and pianist Rie Taguchi delivers a follow-up to her debut album _[The Gift](https://www.jazzofjapan.com/archive/rie-taguchi-gift)_ with her 2021 album naturally titled _The Gift II_. This swinging outing features her Special Sextet as before with new outstanding arrangements.
+Vocalist and pianist Rie Taguchi delivers a follow-up to her debut album _[The Gift](/rie-taguchi-gift/)_ with her 2021 album naturally titled _The Gift II_. This swinging outing features her Special Sextet as before with new outstanding arrangements.
 
 {{< figure src="L1230279-1024.jpeg" link="L1230279-1024.jpeg" >}}
 
@@ -55,13 +55,13 @@ _Rie Taguchi_
 
 ## The Gift II by Rie Taguchi
 
--   [Rie Taguchi](/tags/rie-taguchi) - vocal
--   [Seiji Endo](/tags/seiji-endo) - piano, arrangments
--   [Seiji Tada](/tags/seiji-tada) - alto saxophone, flute
--   [Noriko Satomi](/tags/noriko-satomi) - violin
--   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe) - guitar
--   [Yusuke Nakaishi](/tags/yusuke-nakaishi) - bass
--   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Rie Taguchi](/tags/rie-taguchi/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano, arrangments
+-   [Seiji Tada](/tags/seiji-tada/) - alto saxophone, flute
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe/) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
 
 Released in 2021 on Studio TLive Records as STLR-021.
 

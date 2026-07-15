@@ -30,8 +30,8 @@ The album opens up with Inoue striking out alone on solo saxophone on the beauti
 
 ## Mistral by Toshihiko Inoue &amp; Masaki Hayashi
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - tenor sax, soprano sax
--   [Masaki Hayashi](/tags/masaki-hayashi) - piano
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - tenor sax, soprano sax
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano
 
 Released in 2013 on 78 Label as FNFY-06.
 

@@ -3,10 +3,10 @@ title = "Soultrane"
 author = ["Brian McCrory"]
 description = "Soultrane jazz club, located near Asakusa station in Tokyo, Japan"
 publishDate = 2023-06-18
-keywords = ["soultrane"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "soultrane"
 issue = 180
 [cover]
   image = "L1170949x-1024.jpeg"

@@ -26,9 +26,9 @@ Although there are only two tracks here, the music serves to whet the appetite a
 
 ## Okurimono by Hiroco Nagano
 
--   [Hiroco Nagano](/tags/hiroco-nagano) - vocal
--   [Seiji Endo](/tags/seiji-endo) - piano
--   [Arata Umehara](/tags/arata-umehara) - guitar
+-   [Hiroco Nagano](/tags/hiroco-nagano/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+-   [Arata Umehara](/tags/arata-umehara/) - guitar
 
 Released in 2017 on Music Art Records as MAR-1701.
 

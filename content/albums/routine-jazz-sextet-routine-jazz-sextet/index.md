@@ -36,12 +36,12 @@ With nine tracks over 39 minutes, the music is propulsive, boiling and full of e
 
 ## Routine Jazz Sextet by Routine Jazz Sextet
 
--   [Tomoyuki Konno](/tags/tomoyuki-konno) - drums
--   [Shinpei Ruike](/tags/shinpei-ruike) - trumpet
--   [Wataru Hamasaki](/tags/wataru-hamasaki) - flute, tenor sax, soprano sax
--   [Taku Akiyama](/tags/taku-akiyama) - alto sax
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Haruhisa Takamichi](/tags/haruhisa-takamichi) - bass
+-   [Tomoyuki Konno](/tags/tomoyuki-konno/) - drums
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - flute, tenor sax, soprano sax
+-   [Taku Akiyama](/tags/taku-akiyama/) - alto sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Haruhisa Takamichi](/tags/haruhisa-takamichi/) - bass
 
 Released in 2008 on Routine Records as RCJP-002.
 

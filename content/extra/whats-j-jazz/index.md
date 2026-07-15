@@ -2,10 +2,10 @@
 title = "What's J Jazz?"
 author = ["Brian McCrory"]
 publishDate = 2023-12-16
-keywords = ["whats-j-jazz"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "whats-j-jazz"
 issue = 217
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
@@ -51,7 +51,7 @@ Considering the guidelines above, it follows that the jazz of Japan extends beyo
 
 For example, _J Jazz_ does not have to feature traditional instruments like [shakuhachi flutes](https://en.wikipedia.org/wiki/Shakuhachi), [taiko drums](https://en.wikipedia.org/wiki/Taiko), or [shamisen](https://en.wikipedia.org/wiki/Shamisen). Neither are elements exclusively drawn from traditional dramatic forms like [Enka](https://en.wikipedia.org/wiki/Enka), [Noh](https://en.wikipedia.org/wiki/Noh), and [Kabuki](https://en.wikipedia.org/wiki/Kabuki) works of art. Similarly, _J Jazz_ does not only feature lyrics sung in Japanese or music played primarily using [Japanese musical scales](https://en.wikipedia.org/wiki/Japanese_musical_scales).
 
-Of course, some _J Jazz_ albums here and there may contain some of these (for example, [Seiji Endo: _Genji Monogatari Volume 1_](https://www.jazzofjapan.com/archive/seiji-endo-genji-monogatari-volume-1) and [Reikan Kobayashi: _Gakudan Hitori_](https://www.jazzofjapan.com/archive/reikan-kobayashi-gakudan-hitori)), but this is not a necessary requirement.
+Of course, some _J Jazz_ albums here and there may contain some of these (for example, [Seiji Endo: _Genji Monogatari Volume 1_](/seiji-endo-genji-monogatari-volume-1/) and [Reikan Kobayashi: _Gakudan Hitori_](/reikan-kobayashi-gakudan-hitori/)), but this is not a necessary requirement.
 
 At the same time, characteristics often used to define a genre including instruments, musical patterns and phrases, rhythm styles, and the like are not used here. Traits found in general jazz music are also present on _J Jazz_ albums, including improvisation, sense of swing, blues influences, dynamic drumming varied beyond four-on-the-floor backbeats, and so on.
 

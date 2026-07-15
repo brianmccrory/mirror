@@ -44,10 +44,10 @@ Sakamoto also provides a special essay in the liner notes with background inform
 
 ## Memories of T by TCQ
 
--   [Shawna Yang](/tags/shawna-yang) - alto sax
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Takeshi Sakamoto](/tags/takeshi-sakamoto) - drums
+-   [Shawna Yang](/tags/shawna-yang/) - alto sax
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Takeshi Sakamoto](/tags/takeshi-sakamoto/) - drums
 
 Released in 2017 on D-neo Daiki Musica as DNCD-13.
 

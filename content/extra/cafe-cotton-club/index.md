@@ -3,10 +3,10 @@ title = "Cafe Cotton Club"
 author = ["Brian McCrory"]
 description = "Cafe Cotton Club jazz club, located near Takadanobaba station in Tokyo, Japan"
 publishDate = 2025-12-31
-keywords = ["cafe-cotton-club"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "cafe-cotton-club"
 issue = 344
 [cover]
   image = "IMG_20251111_204631406_HDR-1200.jpeg"
@@ -31,7 +31,7 @@ Opened in 1984, Cafe Cotton Club’s basement level felt like an extension to th
 
 Meanwhile, the ground floor and upper levels of Cafe Cotton Club are also quite popular as restaurant hangouts, appealing to students and the Takadanobaba general public. There’s a sense that the shop attracts guests with reservations as well as passerby’s, and is attractive as a destination even for non-jazz-oriented customers.
 
-Cafe Cotton Club is related to the legendary Tokyo jazz destination [Jazz Spot Intro](https://www.jazzofjapan.com/archive/intro) as if it was the more sophisticated older sibling to the spunky, authentic hole in the wall that is Intro. Both clubs are within close bar-hopping distance, across the street and just a minute or two away on foot. And, much like Intro, Cotton also hosts fun jam sessions where professional jazz musicians, semi-professionals, amateurs, hobbyists, and listeners mingle and sit-in, playing tunes from the common repertoire as practice drills, and just for the fun of it.
+Cafe Cotton Club is related to the legendary Tokyo jazz destination [Jazz Spot Intro](/intro/) as if it was the more sophisticated older sibling to the spunky, authentic hole in the wall that is Intro. Both clubs are within close bar-hopping distance, across the street and just a minute or two away on foot. And, much like Intro, Cotton also hosts fun jam sessions where professional jazz musicians, semi-professionals, amateurs, hobbyists, and listeners mingle and sit-in, playing tunes from the common repertoire as practice drills, and just for the fun of it.
 
 {{< figure src="IMG_1389-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>All-night jazz jam session at Cafe Cotton Club (July 2005)" link="IMG_1389-1200.jpeg" >}}
 

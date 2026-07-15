@@ -32,9 +32,9 @@ The twelve songs include four originals by Hori (the funky “The Shell” and h
 
 ## Unconditional Love by Hideaki Hori Trio
 
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Yuhei Honkawa](/tags/yuhei-honkawa) - bass
--   [Gaku Hasegawa](/tags/gaku-hasegawa) - drums
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Yuhei Honkawa](/tags/yuhei-honkawa/) - bass
+-   [Gaku Hasegawa](/tags/gaku-hasegawa/) - drums
 
 Released in 2014 on BQ Records as BQR-2064/2065.
 

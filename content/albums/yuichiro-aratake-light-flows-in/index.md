@@ -30,10 +30,10 @@ In addition to solo piano, 3 of the 12 tracks feature duos: a piano and sax outi
 
 ## The Light Flows In by Yuichiro Aratake
 
--   [Yuichiro Aratake](/tags/yuichiro-aratake) - piano
--   [Tamaya Honda](/tags/tamaya-honda) - drums (tr. #10)
--   [Hideki Kawamura](/tags/hideki-kawamura) - tenor sax (tr. #2)
--   [Noboru Ando](/tags/noboru-ando) - bass (tr. #7)
+-   [Yuichiro Aratake](/tags/yuichiro-aratake/) - piano
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums (tr. #10)
+-   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (tr. #2)
+-   [Noboru Ando](/tags/noboru-ando/) - bass (tr. #7)
 
 Released in 2005 on S2S as SSDF-5006.
 

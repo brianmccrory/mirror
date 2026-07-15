@@ -39,8 +39,8 @@ Along with her songwriting, Kishi’s skill at juggling various instruments like
 
 ## Luar by Sul Madrugada
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano, keyboard
--   [Hiroe Kobayashi](/tags/hiroe-kobayashi) - voice
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, keyboard
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi/) - voice
 
 Released in 2022 on River City Music Entertainment as RRCRK-220101.
 

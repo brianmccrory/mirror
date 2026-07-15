@@ -104,12 +104,12 @@ The long-awaited first album from “Banda Feliz”, a unit formed of top musici
 
 ## Boa Viagem by Banda Feliz
 
--   [Makiyo Sakai](/tags/makiyo-sakai) - flute
--   [Masaaki Ikeda](/tags/masaaki-ikeda) - trombone
--   [Kazuhiko Obata](/tags/kazuhiko-obata) - guitar
--   [Minoru Kato](/tags/minoru-kato) - piano
--   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi) - bass
--   [Satoshi Ishikawa](/tags/satoshi-ishikawa) - drums
+-   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
+-   [Masaaki Ikeda](/tags/masaaki-ikeda/) - trombone
+-   [Kazuhiko Obata](/tags/kazuhiko-obata/) - guitar
+-   [Minoru Kato](/tags/minoru-kato/) - piano
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - drums
 
 Released in 2020 on Feliz Record as FLZ-0001.
 

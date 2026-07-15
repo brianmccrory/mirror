@@ -3,10 +3,10 @@ title = "Satin Doll"
 author = ["Brian McCrory"]
 description = "Satin Doll jazz club, located near Roppongi station in Tokyo, Japan (permanently closed)"
 publishDate = 2024-04-25
-keywords = ["satin-doll"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "satin-doll"
 issue = 238
 [cover]
   image = "L1060938x-1200.jpeg"

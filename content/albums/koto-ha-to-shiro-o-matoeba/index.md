@@ -280,9 +280,9 @@ _Lyrics: Ayako Tsuchiya  Music: Kozue Tsukayama_
 
 ## Shiro o Matoeba by Koto ha, To
 
--   [Ayako Tsuchiya](/tags/ayako-tsuchiya) - vocal
--   [Kozue Tsukayama](/tags/kozue-tsukayama) - piano
--   [Yuki Ito](/tags/yuki-ito) - bass
+-   [Ayako Tsuchiya](/tags/ayako-tsuchiya/) - vocal
+-   [Kozue Tsukayama](/tags/kozue-tsukayama/) - piano
+-   [Yuki Ito](/tags/yuki-ito/) - bass
 
 Released in 2017 on KOTOHATO as KTHT-0001.
 

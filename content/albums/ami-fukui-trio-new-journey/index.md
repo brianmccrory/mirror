@@ -30,10 +30,10 @@ Throughout the album, surprises and discoveries often surface – bonus interlud
 
 ## New Journey by Ami Fukui Trio
 
--   [Ami Fukui](/tags/ami-fukui) - piano
--   [Show Kudo](/tags/show-kudo) - double bass, electric bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
--   [Akiko Suda](/tags/akiko-suda) - vocals (#7)
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Show Kudo](/tags/show-kudo/) - double bass, electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Akiko Suda](/tags/akiko-suda/) - vocals (#7)
 
 Released in 2016 on Diw The Grace as DG-1007.
 

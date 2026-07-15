@@ -32,9 +32,9 @@ In addition to straight-ahead locomotion, other angles are explored: wisps of fa
 
 ## Wide Angle by Miki Hayama Trio
 
--   [Miki Hayama](/tags/miki-hayama) - piano
--   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa) - bass
--   [Victor Lewis](/tags/victor-lewis) - drums
+-   [Miki Hayama](/tags/miki-hayama/) - piano
+-   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa/) - bass
+-   [Victor Lewis](/tags/victor-lewis/) - drums
 
 Released in 2009 on ART UNION/@jazz as ARTCD-114.
 

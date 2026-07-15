@@ -3,10 +3,10 @@ title = "Cochi"
 author = ["Brian McCrory"]
 description = "Cochi jazz club, located near Koiwa station in Tokyo, Japan"
 publishDate = 2023-08-01
-keywords = ["cochi"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "cochi"
 issue = 192
 [cover]
   image = "IMG_20190614_213430448-1024.jpeg"

@@ -30,7 +30,7 @@ Track #3 “Kuresaka” is a well-balanced construction in an odd-meter (partial
 
 \#5 “Apoptosis” is the album’s first of two shorter tunes (this and the last song are under four minutes long, while all other average seven to ten minutes apiece), and it is free jazz ambiance of a sparsely leapfrogging melody, tense folds of piano and bass, and roiling drums. Track #6 “I kin ye” is a jazz waltz played in as a straightforward jazz tune with a style somewhere between the neighborhoods of Bill Evans and Wayne Shorter.
 
-Track #7, “Gratitude”, is one of Inoue’s most famous and adored compositions. The delicate beauty of the song’s melody captivated listeners and became a favorite at live shows. Played as a gentle ballad, Inoue’s tender sound foreshadows a “soft wind” tone that he developed more in later years, as on his solo sax album [_Vayu_](https://www.jazzofjapan.com/archive/toshihiko-inoue-vayu/) and with his [Zephyr](https://www.jazzofjapan.com/archive/zephyr-zephyr/) trio, a band that is itself named for a gentle breeze, poetically.
+Track #7, “Gratitude”, is one of Inoue’s most famous and adored compositions. The delicate beauty of the song’s melody captivated listeners and became a favorite at live shows. Played as a gentle ballad, Inoue’s tender sound foreshadows a “soft wind” tone that he developed more in later years, as on his solo sax album [_Vayu_](/toshihiko-inoue-vayu/) and with his [Zephyr](/zephyr-zephyr/) trio, a band that is itself named for a gentle breeze, poetically.
 
 {{< figure src="L1340708x-1200.jpeg" link="L1340708x-1200.jpeg" >}}
 
@@ -38,7 +38,7 @@ The last track is #8 “Flood”, another aggressively uptempo swinger like #4 �
 
 {{< figure src="L1340719x-1200.jpeg" link="L1340719x-1200.jpeg" >}}
 
-Inoue and fuse followed up this album with their next album _Grasshopper_ in 2002 and [_Live fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) in 2005. Besides fuse, Inoue explored other sides to his writing and playing styles with his other groups and collaborations, including with [Clepsydra](https://www.jazzofjapan.com/archive/clepsydra-un-jour/), Zephyr, a duo with the pianist Hitomi Nishiyama, and many others. He was a quiet but powerful giant in the Japanese jazz scene, and after Inoue’s passing in 2015, there are still “Toshihiko Inoue Songbook”-style tribute performances and occasional _fuse_ live reunions with the remaining members.
+Inoue and fuse followed up this album with their next album _Grasshopper_ in 2002 and [_Live fuse_](/fuse-live-fuse/) in 2005. Besides fuse, Inoue explored other sides to his writing and playing styles with his other groups and collaborations, including with [Clepsydra](/clepsydra-un-jour/), Zephyr, a duo with the pianist Hitomi Nishiyama, and many others. He was a quiet but powerful giant in the Japanese jazz scene, and after Inoue’s passing in 2015, there are still “Toshihiko Inoue Songbook”-style tribute performances and occasional _fuse_ live reunions with the remaining members.
 
 {{< figure src="L1340721x-1200.jpeg" link="L1340721x-1200.jpeg" >}}
 
@@ -49,10 +49,10 @@ Inoue and fuse followed up this album with their next album _Grasshopper_ in 200
 
 ## Fuse by Toshihiko Inoue
 
--   [Toshihiko Inoue](/tags/toshihiko-inoue) - saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka) - piano
--   [Benisuke Sakai](/tags/benisuke-sakai) - bass
--   [Ken Tsunoda](/tags/ken-tsunoda) - drums
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda/) - drums
 
 Released in 1999 on Ewe Records as EWCD-0010.
 

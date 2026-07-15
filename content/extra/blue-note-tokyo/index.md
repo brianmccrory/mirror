@@ -3,10 +3,10 @@ title = "Blue Note Tokyo"
 author = ["Brian McCrory"]
 description = "Blue Note Tokyo jazz club, located near Omote-Sando station in Tokyo, Japan"
 publishDate = 2024-06-04
-keywords = ["blue-note-tokyo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "blue-note-tokyo"
 issue = 244
 [cover]
   image = "IMG_20240313_172834458_HDR-1200.jpeg"

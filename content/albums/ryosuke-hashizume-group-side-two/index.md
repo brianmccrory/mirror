@@ -30,7 +30,7 @@ That flexible and imaginative sound is made up of subtly serrated edges of saxop
 
 This is applied to Hashizume’s compositional ideas of ethereal lushness, with all of its colorful layers of sound, transforming tonalities, nuanced time and meter misdirection, and dramatic development and suspense. These compositional ideas, together with the group’s sound and individual mastery, are the novel recipes that are interpreted through the musicians’ steady cooking for inspired, enjoyable results.
 
-This 2014 album, _Side Two_, is his second-most recent album and was released a few years before his latest album _[Incomplete Voices](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-incomplete-voices)_ from 2017. Yet, as a marker on Hashizume’s album release timeline, _Side Two_ has an even stronger connection to the two prior albums released just before _Side Two_, those being his albums [_Visible/Invisible_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-visible-invisible) (2013) and [_Acoustic Fluid_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-acoustic) (2012). In a way, _Side Two_ could be considered a combination of live extras and alternate versions of songs from those two prior albums and recording sessions.
+This 2014 album, _Side Two_, is his second-most recent album and was released a few years before his latest album _[Incomplete Voices](/ryosuke-hashizume-group-incomplete-voices/)_ from 2017. Yet, as a marker on Hashizume’s album release timeline, _Side Two_ has an even stronger connection to the two prior albums released just before _Side Two_, those being his albums [_Visible/Invisible_](/ryosuke-hashizume-group-visible-invisible/) (2013) and [_Acoustic Fluid_](/ryosuke-hashizume-group-acoustic/) (2012). In a way, _Side Two_ could be considered a combination of live extras and alternate versions of songs from those two prior albums and recording sessions.
 
 {{< figure src="L1200720x-1200.jpeg" link="L1200720x-1200.jpeg" >}}
 
@@ -86,11 +86,11 @@ Also, the sound of each instrument rings with a tone and texture that seems to h
 
 ## Side Two by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor sax, loops
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
 
 Released in 2014 on Apollo Sounds as APLS-1410.
 

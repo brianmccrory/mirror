@@ -34,10 +34,10 @@ The album also includes two shorter songs inserted like brief asides: Tracks #3 
 
 ## 64 Charlesgate by Akihiro Yoshimoto Quartet
 
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
--   [Nanami Haruta](/tags/nanami-haruta) - trombone
--   [Raiga Hayashi](/tags/raiga-hayashi) - drums
--   [Makoto Togashi](/tags/makoto-togashi) - bass
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Raiga Hayashi](/tags/raiga-hayashi/) - drums
+-   [Makoto Togashi](/tags/makoto-togashi/) - bass
 
 Released in 2022 on Quint Co. Ltd. / Chitei Records as B102F.
 

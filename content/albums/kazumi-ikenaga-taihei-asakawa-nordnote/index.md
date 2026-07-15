@@ -20,7 +20,7 @@ _NordNode_ is a 2020 album from drummer Kazumi Ikenaga and pianist Taihei Asakaw
 
 This album captures a directly connected musical conversation between drummer Kazumi Ikenaga and pianist Taihei Asakawa. A duo made up of drums and piano is not a very common format in jazz, but it is a format that really shows how, like with the circular yin-yang symbol, the two musicians fit perfectly together and fill out the space as if thinking, moving, and playing as one.
 
-(As an aside, this duo format also provides a nice complementary subject to follow the previously introduced [Yuki Ito bass solo album](https://www.jazzofjapan.com/archive/yuki-ito-retattanni-no-mori), as the three instruments complete the customary jazz trio format of piano, bass, and drums!)
+(As an aside, this duo format also provides a nice complementary subject to follow the previously introduced [Yuki Ito bass solo album](/yuki-ito-retattanni-no-mori/), as the three instruments complete the customary jazz trio format of piano, bass, and drums!)
 
 {{< figure src="L1250223x-1200.jpeg" link="L1250223x-1200.jpeg" >}}
 
@@ -34,7 +34,7 @@ Ikenaga, like drummers Paul Motian and Jon Christensen, has an approach that exp
 
 {{< figure src="L1250235x-1200.jpeg" link="L1250235x-1200.jpeg" >}}
 
-With pianist Asakawa, Ikenaga has a complementary and equal partner, one who fills out the songs’ natural melodic and harmonic parts like great lyrical players Bill Evans and Keith Jarrett. (To that point, Asakawa’s recent live solo recording _[Waltz For Debby](https://www.jazzofjapan.com/archive/taihei-asakawa-waltz-for-debby)_ summons the spirit of those famous Village Vanguard Bill Evans Trio live albums, and this album’s #9 “In Love In Vain” has the addictive swing feel of the [Keith Jarrett Trio version of that song](https://youtu.be/Ro0dS5IcPUk?si=eeopnE1I71ax3bwG), quite a high bar to match.)
+With pianist Asakawa, Ikenaga has a complementary and equal partner, one who fills out the songs’ natural melodic and harmonic parts like great lyrical players Bill Evans and Keith Jarrett. (To that point, Asakawa’s recent live solo recording _[Waltz For Debby](/taihei-asakawa-waltz-for-debby/)_ summons the spirit of those famous Village Vanguard Bill Evans Trio live albums, and this album’s #9 “In Love In Vain” has the addictive swing feel of the [Keith Jarrett Trio version of that song](https://youtu.be/Ro0dS5IcPUk?si=eeopnE1I71ax3bwG), quite a high bar to match.)
 
 {{< figure src="L1250239x-1200.jpeg" link="L1250239x-1200.jpeg" >}}
 
@@ -147,8 +147,8 @@ DPA 4006-TL x 2
 
 ## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa
 
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano
 
 Released in 2020 on Time Machine Record as TMCD-1020.
 

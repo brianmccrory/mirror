@@ -34,9 +34,9 @@ This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, des
 
 ## Living Without Friday by Chihiro Yamanaka Trio
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Ray Parker](/tags/ray-parker) - bass
--   [LaFrae Olivia Sci](/tags/lafrae-olivia-sci) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Ray Parker](/tags/ray-parker/) - bass
+-   [LaFrae Olivia Sci](/tags/lafrae-olivia-sci/) - drums
 
 Released in 2001 on Atelier Sawano as AS-016.
 

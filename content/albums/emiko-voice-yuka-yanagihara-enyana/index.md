@@ -122,8 +122,8 @@ When I first heard this, I thought it was such a beautiful song. As EMiKO explai
 
 ## Enyana by Emiko Voice &amp; Yuka Yanagihara
 
--   [Emiko Voice](/tags/emiko-voice) - vocal, voice, percussion
--   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
+-   [Emiko Voice](/tags/emiko-voice/) - vocal, voice, percussion
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
 
 Released in 2025 on ENYANA Music as EYM-0001.
 

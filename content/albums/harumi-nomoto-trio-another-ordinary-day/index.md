@@ -32,11 +32,11 @@ In addition to these three jazz covers, three originals by Nomoto and two origin
 
 ## Another Ordinary Day by Harumi Nomoto Trio
 
--   [Harumi Nomoto](/tags/harumi-nomoto) - piano
--   [Norihide Shioda](/tags/norihide-shioda) - bass (#1, 2, 3, 4, 8)
--   [Tommy Campbell](/tags/tommy-campbell) - drums (#1, 2, 3, 4, 8)
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass (#5, 7)
--   [Yoshihito Eto](/tags/yoshihito-eto) - drums (#5, 7)
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Norihide Shioda](/tags/norihide-shioda/) - bass (#1, 2, 3, 4, 8)
+-   [Tommy Campbell](/tags/tommy-campbell/) - drums (#1, 2, 3, 4, 8)
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass (#5, 7)
+-   [Yoshihito Eto](/tags/yoshihito-eto/) - drums (#5, 7)
 
 Released in 2002 on Venus Records as TKCV-35311.
 

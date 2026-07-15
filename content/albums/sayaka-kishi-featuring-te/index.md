@@ -28,9 +28,9 @@ Although this is mostly a solo piano album spotlighting Kishi and her music, two
 
 ## Featuring Te by Sayaka Kishi
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano
--   [Mayumi Sano](/tags/mayumi-sano) - cello (#2, 5, 9)
--   [Aya Kurosawa](/tags/aya-kurosawa) - vocal (#11)
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano
+-   [Mayumi Sano](/tags/mayumi-sano/) - cello (#2, 5, 9)
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - vocal (#11)
 
 Released in 2014 on Roving Spirits as RKC-8050.
 

@@ -20,7 +20,7 @@ Opening with a single-tone drone, electronic jazz music group Rabbitoo continues
 
 Digital and analog sounds swirl and mix through Motohiko Ichino’s guitar, laden with textural effects and deploying modern music and rhythms alongside carefully tuned sound and static in an audiophile’s frame. This is vibe-setting music that wouldn’t be out of place in a fan playlist of lofi study beats or on the edges of a digital-future jazz collection.
 
-_The Torch/’s nine songs explore territory that blends digital and analog sound, with effects and filters added to the saxophone and guitar as they play looping patterns over the webs of modulated synths, drums, and bass. Alongside the spacey orbits, as on Rabbitoo’s first album /[National Anthem of Unknown Country](https://www.jazzofjapan.com/archive/rabbitoo-national-anthem-of-unknown)_, there are also comforting echoes of old-fashioned primal humanness inhabiting the frequencies as well.
+_The Torch/’s nine songs explore territory that blends digital and analog sound, with effects and filters added to the saxophone and guitar as they play looping patterns over the webs of modulated synths, drums, and bass. Alongside the spacey orbits, as on Rabbitoo’s first album /[National Anthem of Unknown Country](/rabbitoo-national-anthem-of-unknown/)_, there are also comforting echoes of old-fashioned primal humanness inhabiting the frequencies as well.
 
 {{< figure src="L1230324x-1024.jpeg" link="L1230324x-1024.jpeg" >}}
 
@@ -31,11 +31,11 @@ Listening to this album creates these sorts of impressions: _A visual prism broa
 
 ## The Torch by Rabbitoo
 
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, keyboards
--   [Daisuke Fujiwara](/tags/daisuke-fujiwara) - tenor saxophone, flute, synthesizer, electronics
--   [Koichi Sato](/tags/koichi-sato) - rhodes, synthesizer, piano
--   [Hiroki Chiba](/tags/hiroki-chiba) - contrabass, electric bass, violin, electronics
--   [Noritaka Tanaka](/tags/noritaka-tanaka) - drums
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, flute, synthesizer, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - rhodes, synthesizer, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, violin, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
 
 Released in 2016 on Song X Jazz as SONGX-036.
 

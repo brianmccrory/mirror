@@ -51,12 +51,12 @@ Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 
 ## I Need a Change, Too by Yasumasa Kumagai
 
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Shunsuke Umino](/tags/shunsuke-umino) - drums
--   [Afra](/tags/afra) - human beatbox (#7)
--   [Shinobu Ishizaki](/tags/shinobu-ishizaki) - alto sax (#9, 13)
--   [Tabu Zombie](/tags/tabu-zombie) - trumpet (#13)
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Shunsuke Umino](/tags/shunsuke-umino/) - drums
+-   [Afra](/tags/afra/) - human beatbox (#7)
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - alto sax (#9, 13)
+-   [Tabu Zombie](/tags/tabu-zombie/) - trumpet (#13)
 
 Released in 2008 on Anturtle Tune as ANTX-4001.
 

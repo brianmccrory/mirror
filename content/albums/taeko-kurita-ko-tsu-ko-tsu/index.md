@@ -14,7 +14,7 @@ related = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko
   relative = true
 +++
 
-Taeko Kurita’s _Ko-tsu-ko-tsu_ is a solo piano album from 2012 featuring eight of her original songs. In addition to being a member of other groups such as jazz trios, many of her earlier releases as a leader are showcases for her solo piano compositions and improvisation. In fact, one of her most recent albums is simply called _SOLO 5_, mentioned in the previous article on her piano-drums album [_DUO_](https://www.jazzofjapan.com/archive/taeko-kurita-akira-sotoyama-duo). Like that album, _Ko-tsu-ko-tsu_ is another great pick from her past catalog.
+Taeko Kurita’s _Ko-tsu-ko-tsu_ is a solo piano album from 2012 featuring eight of her original songs. In addition to being a member of other groups such as jazz trios, many of her earlier releases as a leader are showcases for her solo piano compositions and improvisation. In fact, one of her most recent albums is simply called _SOLO 5_, mentioned in the previous article on her piano-drums album [_DUO_](/taeko-kurita-akira-sotoyama-duo/). Like that album, _Ko-tsu-ko-tsu_ is another great pick from her past catalog.
 
 {{< figure src="L1280886x-1200.jpeg" link="L1280886x-1200.jpeg" >}}
 
@@ -36,7 +36,7 @@ Like the music in the last song on the album, #8 “Plie ‘A Sublingual Castle�
 
 ## Ko-tsu-ko-tsu by Taeko Kurita
 
--   [Taeko Kurita](/tags/taeko-kurita) - piano
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
 
 Released in 2012 on Kurita Taeko as MP-007.
 

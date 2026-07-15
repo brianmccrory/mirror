@@ -28,11 +28,11 @@ The track listing consists of 10 songs, mostly originals from Yamada with three 
 
 ## Lite Blue by Takuji Yamada
 
--   [Takuji Yamada](/tags/takuji-yamada) - alto and soprano saxophones, bass clarinet
--   [Danny Grissett](/tags/danny-grissett) - piano
--   [Daisuke Abe](/tags/daisuke-abe) - guitar (tr. 3, 5, 6, 8, 9, 10)
--   [Luques Curtis](/tags/luques-curtis) - bass
--   [Quincy Davis](/tags/quincy-davis) - drums
+-   [Takuji Yamada](/tags/takuji-yamada/) - alto and soprano saxophones, bass clarinet
+-   [Danny Grissett](/tags/danny-grissett/) - piano
+-   [Daisuke Abe](/tags/daisuke-abe/) - guitar (tr. 3, 5, 6, 8, 9, 10)
+-   [Luques Curtis](/tags/luques-curtis/) - bass
+-   [Quincy Davis](/tags/quincy-davis/) - drums
 
 Released in 2012 on D-Musica as DMCD-18.
 

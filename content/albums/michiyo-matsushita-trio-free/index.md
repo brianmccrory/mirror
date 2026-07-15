@@ -14,7 +14,7 @@ related = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-fe
   relative = true
 +++
 
-_Free_ is the third album from the Michiyo Matsushita Trio. With the members active in their individual recording and playing schedules in Japan and internationally, they have continued to play together regularly as the Michiyo Matsushita Trio. Still, it had been 13 years since their previous 2011 release _Prayer for Peace_ (and half that since Matsushita’s 2018 solo album [_Sally Gardens_](https://www.jazzofjapan.com/archive/michiyo-matsushita-sally-gardens/)), so fans of the trio were pleasantly surprised to hear of this new offering coming out last year. As with the previous trio albums, old friends and long-running members Show Kudo on bass and Ryo Saito on drums join pianist Michiyo “Michiyon” Matsushita.
+_Free_ is the third album from the Michiyo Matsushita Trio. With the members active in their individual recording and playing schedules in Japan and internationally, they have continued to play together regularly as the Michiyo Matsushita Trio. Still, it had been 13 years since their previous 2011 release _Prayer for Peace_ (and half that since Matsushita’s 2018 solo album [_Sally Gardens_](/michiyo-matsushita-sally-gardens/)), so fans of the trio were pleasantly surprised to hear of this new offering coming out last year. As with the previous trio albums, old friends and long-running members Show Kudo on bass and Ryo Saito on drums join pianist Michiyo “Michiyon” Matsushita.
 
 {{< figure src="L1290240x-1200.jpeg" link="L1290240x-1200.jpeg" >}}
 
@@ -39,9 +39,9 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 
 ## Free by Michiyo Matsushita Trio
 
--   [Michiyo Matsushita](/tags/michiyo-matsushita) - piano
--   [Show Kudo](/tags/show-kudo) - bass
--   [Ryo Saito](/tags/ryo-saito) - drums
+-   [Michiyo Matsushita](/tags/michiyo-matsushita/) - piano
+-   [Show Kudo](/tags/show-kudo/) - bass
+-   [Ryo Saito](/tags/ryo-saito/) - drums
 
 Released in 2024 on MUGI Record as MUGI-2408.
 

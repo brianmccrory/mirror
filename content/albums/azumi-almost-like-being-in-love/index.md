@@ -32,10 +32,10 @@ With the essence of soft blues and pure whites like the album design itself, Azu
 
 ## Almost Like Being in Love by Azumi
 
--   [Azumi](/tags/azumi) - vocal
--   [Sachiko Ikuta](/tags/sachiko-ikuta) - piano
--   [Tetsuro Aratama](/tags/tetsuro-aratama) - bass
--   [Kengo Komae](/tags/kengo-komae) - drums
+-   [Azumi](/tags/azumi/) - vocal
+-   [Sachiko Ikuta](/tags/sachiko-ikuta/) - piano
+-   [Tetsuro Aratama](/tags/tetsuro-aratama/) - bass
+-   [Kengo Komae](/tags/kengo-komae/) - drums
 
 Released in 2010 on Jazz On Top Records as JOT-1009-1.
 

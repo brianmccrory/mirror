@@ -28,9 +28,9 @@ With eight tracks, the songs range from colorful uptempo drama to sentimental wa
 
 ## Live! Three by Maiko Trio
 
--   [maiko](/tags/maiko) - violin
--   [Hiroki Miyano](/tags/hiroki-miyano) - guitar
--   [Shikou Ito](/tags/shikou-ito) - piano
+-   [maiko](/tags/maiko/) - violin
+-   [Hiroki Miyano](/tags/hiroki-miyano/) - guitar
+-   [Shikou Ito](/tags/shikou-ito/) - piano
 
 Released in 2016 on The Glee as GPHR-16011.
 

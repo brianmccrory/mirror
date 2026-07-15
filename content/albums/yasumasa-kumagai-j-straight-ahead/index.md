@@ -19,7 +19,7 @@ The jazz style of pianist/composer Yasumasa Kumagai has always been pinned to th
 
 {{< figure src="L1180491x-1200.jpeg" link="L1180491x-1200.jpeg" >}}
 
-_J-Straight Ahead_ was released in 2015 and is Kumagai’s fourth album release as a leader. It is preceded by his albums [_I Need a Change, Too_ (2008)](https://www.jazzofjapan.com/archive/yasumasa-kumagai-i-need-a-change-too), [_Ol’ School Jazz_ (2009)](https://www.jazzofjapan.com/archive/yasumasa-kumagai-ryu-kawamura-ol-school-jazz), and [Yasumasa Kumagai: _Pray_ (2010)](https://www.jazzofjapan.com/archive/yasumasa-kumagai-pray) and followed by [_Last Resort_ (2020)](https://www.jazzofjapan.com/archive/yasumasa-kumagai-last-resort).
+_J-Straight Ahead_ was released in 2015 and is Kumagai’s fourth album release as a leader. It is preceded by his albums [_I Need a Change, Too_ (2008)](/yasumasa-kumagai-i-need-a-change-too/), [_Ol’ School Jazz_ (2009)](/yasumasa-kumagai-ryu-kawamura-ol-school-jazz/), and [Yasumasa Kumagai: _Pray_ (2010)](/yasumasa-kumagai-pray/) and followed by [_Last Resort_ (2020)](/yasumasa-kumagai-last-resort/).
 
 As always, Kumagai’s energetic and exciting piano jazz trio is on display, where his great compositions and an at-times edgy attitude are the surfaces covering a sensitive and deep sense of musicality. Like a engrossing conversation, Kumagai’s piano solos often start simple and build with fiery drama while bassist Yosuke Inoue and drummer Masahiko Osaka stir up some boiling rhythms.
 
@@ -44,9 +44,9 @@ Born in 1979 in Mito, Ibaraki. He began playing piano at three years old and sta
 
 ## J-Straight Ahead by Yasumasa Kumagai
 
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai) - piano
--   [Yosuke Inoue](/tags/yosuke-inoue) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka) - drums
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Yosuke Inoue](/tags/yosuke-inoue/) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
 
 Released in 2015 on Jazzy Bear Records as JZBR-0001.
 

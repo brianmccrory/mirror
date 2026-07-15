@@ -39,13 +39,13 @@ Chiba returns to solo piano for #5 “Water Flower” (ending with a solo piano 
 
 ## Rougequeue by Fumie Chiba
 
--   [Fumie Chiba](/tags/fumie-chiba) - piano
--   [Koji Tetsui](/tags/koji-tetsui) - bass on #1, 2, 4
--   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums on #1, 2, 4
--   [Mitsuru Tanaka](/tags/mitsuru-tanaka) - trumpet, horn on #1, 4
--   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa) - tenor sax on #1, 4
--   [Nao Teraya](/tags/nao-teraya) - guitar on #1, 4
--   [Hirokazu Ishida](/tags/hirokazu-ishida) - soprano sax on #1
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass on #1, 2, 4
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums on #1, 2, 4
+-   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, horn on #1, 4
+-   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax on #1, 4
+-   [Nao Teraya](/tags/nao-teraya/) - guitar on #1, 4
+-   [Hirokazu Ishida](/tags/hirokazu-ishida/) - soprano sax on #1
 
 Released in 2015 on Usagi Record as UR-001.
 

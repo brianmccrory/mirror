@@ -3,10 +3,10 @@ title = "Cafe Beulmans"
 author = ["Brian McCrory"]
 description = "Cafe Beulmans jazz club, located near Seijogakuen-mae and Nakano-Sakaue stations in Tokyo, Japan"
 publishDate = 2023-05-30
-keywords = ["cafe-beulmans"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "cafe-beulmans"
 issue = 171
 [cover]
   image = "IMG_20181117_150312893_HDR-1024.jpeg"

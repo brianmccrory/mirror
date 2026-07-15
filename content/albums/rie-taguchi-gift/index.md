@@ -30,13 +30,13 @@ The album features delightful arrangements by Seiji Endo along with Taguchi’s 
 
 ## The Gift by Rie Taguchi
 
--   [Rie Taguchi](/tags/rie-taguchi) - vocals, piano
--   [Seiji Endo](/tags/seiji-endo) - piano, arrangements
--   [Seiji Tada](/tags/seiji-tada) - alto sax, flute
--   [Noriko Satomi](/tags/noriko-satomi) - violin
--   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe) - guitar
--   [Yusuke Nakaishi](/tags/yusuke-nakaishi) - bass
--   [Akira Yamada](/tags/akira-yamada) - drums
+-   [Rie Taguchi](/tags/rie-taguchi/) - vocals, piano
+-   [Seiji Endo](/tags/seiji-endo/) - piano, arrangements
+-   [Seiji Tada](/tags/seiji-tada/) - alto sax, flute
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe/) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
 
 Released in 2016 on Rose Happy Music as RHM002.
 

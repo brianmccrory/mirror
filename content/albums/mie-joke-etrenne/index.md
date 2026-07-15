@@ -32,14 +32,14 @@ The music is done right, with an honest, straight-ahead vision, swinging and sli
 
 ## Etrenne by Mie Joké
 
--   [Mie Joké](/tags/mie-joke) - vocal
--   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto) - piano (tr. #1-5)
--   [Hiroshi Kagawa](/tags/hiroshi-kagawa) - bass (tr. #1-5)
--   [Toshio Osumi](/tags/toshio-osumi) - drums (tr. #1-5)
--   [Koji Goto](/tags/koji-goto) - piano (tr. #6-11)
--   [Satsuki Kusui](/tags/satsuki-kusui) - bass (tr. #6-11)
--   [Akira Yamada](/tags/akira-yamada) - drums (tr. #6-11)
--   [Wataru Hamasaki](/tags/wataru-hamasaki) - sax, flute (tr. #6-11)
+-   [Mie Joké](/tags/mie-joke/) - vocal
+-   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto/) - piano (tr. #1-5)
+-   [Hiroshi Kagawa](/tags/hiroshi-kagawa/) - bass (tr. #1-5)
+-   [Toshio Osumi](/tags/toshio-osumi/) - drums (tr. #1-5)
+-   [Koji Goto](/tags/koji-goto/) - piano (tr. #6-11)
+-   [Satsuki Kusui](/tags/satsuki-kusui/) - bass (tr. #6-11)
+-   [Akira Yamada](/tags/akira-yamada/) - drums (tr. #6-11)
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - sax, flute (tr. #6-11)
 
 Released in 2018 on Ultra Art Record as UA-1001.
 

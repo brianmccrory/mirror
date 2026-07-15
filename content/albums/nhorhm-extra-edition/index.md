@@ -38,9 +38,9 @@ _About the name: Perhaps an unwieldy moniker at first, NHORHM - New Heritage Of 
 
 ## New Heritage of Real Heavy Metal -Extra Edition- by NHORHM
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, arrangements, composition
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
 
 Released in 2019 on Apollo Sounds as APLS1905.
 

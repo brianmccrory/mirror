@@ -90,24 +90,24 @@ Japanese vending machines… cold drinks, _hot_ drinks, put a coin in and it imm
 
 ## Crossing Reality by Eri Chichibu
 
--   [Eri Chichibu](/tags/eri-chichibu) - piano, keyboard, extra instruments, composition
--   [Kunihiro Kikuta](/tags/kunihiro-kikuta) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
--   [David Negrete](/tags/david-negrete) - alto sax, flute (tr. #1, 2, 5)
--   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5
--   [Itsumi Komano](/tags/itsumi-komano) - trombone (tr. #1, 2, 5)
--   [Haruka Sasaki](/tags/haruka-sasaki) - baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)
--   [Takahiro Nawashiro](/tags/takahiro-nawashiro) - guitar (tr. #1, 2, 5, 6)
--   [Marty Holoubek](/tags/marty-holoubek) - electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums (tr. #1, 2, 3, 4, 5, 6)
--   [Milena Casado](/tags/milena-casado) - flugelhorn (tr. #4)
--   [Madoka Koike](/tags/madoka-koike) - violin (tr. #6)
--   [Tamako Yashima](/tags/tamako-yashima) - cello (tr. #6)
--   [Remy Le Boeuf](/tags/remy-le-boeuf) - alto sax (tr. #6)
--   [Kan](/tags/kan) - percussion (tr. #7, 8)
--   [Hiroki Hayashi](/tags/hiroki-hayashi) - alto sax, tenor sax (tr. #8)
--   [Jiro Suzuki](/tags/jiro-suzuki) - guitar (tr. #8)
--   [Masaaki Saito](/tags/masaaki-saito) - electric bass (tr. #8)
--   [Yuta Fukuhara](/tags/yuta-fukuhara) - drums (tr. #8)
+-   [Eri Chichibu](/tags/eri-chichibu/) - piano, keyboard, extra instruments, composition
+-   [Kunihiro Kikuta](/tags/kunihiro-kikuta/) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
+-   [David Negrete](/tags/david-negrete/) - alto sax, flute (tr. #1, 2, 5)
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5
+-   [Itsumi Komano](/tags/itsumi-komano/) - trombone (tr. #1, 2, 5)
+-   [Haruka Sasaki](/tags/haruka-sasaki/) - baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)
+-   [Takahiro Nawashiro](/tags/takahiro-nawashiro/) - guitar (tr. #1, 2, 5, 6)
+-   [Marty Holoubek](/tags/marty-holoubek/) - electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums (tr. #1, 2, 3, 4, 5, 6)
+-   [Milena Casado](/tags/milena-casado/) - flugelhorn (tr. #4)
+-   [Madoka Koike](/tags/madoka-koike/) - violin (tr. #6)
+-   [Tamako Yashima](/tags/tamako-yashima/) - cello (tr. #6)
+-   [Remy Le Boeuf](/tags/remy-le-boeuf/) - alto sax (tr. #6)
+-   [Kan](/tags/kan/) - percussion (tr. #7, 8)
+-   [Hiroki Hayashi](/tags/hiroki-hayashi/) - alto sax, tenor sax (tr. #8)
+-   [Jiro Suzuki](/tags/jiro-suzuki/) - guitar (tr. #8)
+-   [Masaaki Saito](/tags/masaaki-saito/) - electric bass (tr. #8)
+-   [Yuta Fukuhara](/tags/yuta-fukuhara/) - drums (tr. #8)
 
 Released in 2022 on ReBorn Wood as RBW-0024.
 

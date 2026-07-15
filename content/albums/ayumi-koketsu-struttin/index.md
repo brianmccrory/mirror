@@ -24,7 +24,7 @@ In addition to these choice jazz selections and some jazz standards, Koketsu als
 
 {{< figure src="L1350771x-1200.jpeg" alt="Back cover of Struttin’ by Ayumi Koketsu" link="L1350771x-1200.jpeg" >}}
 
-After the long-awaited and popular release of _Struttin’_, Koketsu continued to release albums every few years with her own bands and with partners, such as the 2024 release [_Trust_](https://www.jazzofjapan.com/archive/akane-matsumoto-ayumi-koketsu-trust/), a duo album with pianist Akane Matsumoto. Her tenth album, _Echoes of 15 Years_, is a double album that was released in 2025 as a retrospective, best-of album.
+After the long-awaited and popular release of _Struttin’_, Koketsu continued to release albums every few years with her own bands and with partners, such as the 2024 release [_Trust_](/akane-matsumoto-ayumi-koketsu-trust/), a duo album with pianist Akane Matsumoto. Her tenth album, _Echoes of 15 Years_, is a double album that was released in 2025 as a retrospective, best-of album.
 
 {{< figure src="L1350777x-1200.jpeg" alt="Inside case of Struttin’ by Ayumi Koketsu" link="L1350777x-1200.jpeg" >}}
 
@@ -119,10 +119,10 @@ A talented woman makes her debut on the scene with her light yet intense perform
 
 ## Struttin’ by Ayumi Koketsu
 
--   [Ayumi Koketsu](/tags/ayumi-koketsu) - saxophone
--   [Yoshihiko Naya](/tags/yoshihiko-naya) - piano
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama) - bass
--   [Mark Taylor](/tags/mark-taylor) - drums
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - saxophone
+-   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
+-   [Mark Taylor](/tags/mark-taylor/) - drums
 
 Released in 2010 on Pony Canyon as MYCJ-30573.
 

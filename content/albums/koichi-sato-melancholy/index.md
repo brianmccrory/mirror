@@ -30,12 +30,12 @@ From this setting and throughout the rest of the album, beautiful music blossoms
 
 ## Melancholy of a Journey by Koichi Sato
 
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet, bass clarinet
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Harutoshi Ito](/tags/harutoshi-ito) - cello
--   [Hiroki Chiba](/tags/hiroki-chiba) - double bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Tokuhiro Doi](/tags/tokuhiro-doi/) - clarinet, bass clarinet
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Harutoshi Ito](/tags/harutoshi-ito/) - cello
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - double bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
 
 Released in 2016 on Song X Jazz as SONG X 038.
 

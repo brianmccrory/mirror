@@ -87,11 +87,11 @@ After finishing this album, Mabumi Yamaguchi said his appetite for composing was
 
 ## Let Your Mind Alone by Mabumi Yamaguchi
 
--   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi) - Tenor &amp; Soprano Sax
--   [Yoshitaka Shoji](/tags/yoshitaka-shoji) - guitar
--   [Misato Okumura](/tags/misato-okumura) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki) - bass
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu) - drums
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - Tenor &amp; Soprano Sax
+-   [Yoshitaka Shoji](/tags/yoshitaka-shoji/) - guitar
+-   [Misato Okumura](/tags/misato-okumura/) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
 
 Released in 2017 on Spice of Life as SOLJP-0015.
 

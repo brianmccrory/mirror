@@ -18,7 +18,7 @@ _Echoes_ is the title of the second album from the Fumie Chiba Trio, made up of 
 
 {{< figure src="L1220740x-1200.jpeg" link="L1220740x-1200.jpeg" >}}
 
-_Echos_ follows her debut recording _[Tip of Dream](https://www.jazzofjapan.com/archive/fumie-chiba-trio-tip-of-dream)_ (2009) and solidly establishes Chiba’s focus on original compositions evocative playing continued on her later albums [_Roguequeue_](https://www.jazzofjapan.com/archive/fumie-chiba-rougequeue) (2015), _[Beautiful Days](https://www.jazzofjapan.com/archive/fumie-chiba-beautiful-days)_ (2017), and _[Canvas](https://www.jazzofjapan.com/archive/fnk-canvas)_ (2022).
+_Echos_ follows her debut recording _[Tip of Dream](/fumie-chiba-trio-tip-of-dream/)_ (2009) and solidly establishes Chiba’s focus on original compositions evocative playing continued on her later albums [_Roguequeue_](/fumie-chiba-rougequeue/) (2015), _[Beautiful Days](/fumie-chiba-beautiful-days/)_ (2017), and _[Canvas](/fnk-canvas/)_ (2022).
 
 {{< figure src="L1220742x-1200.jpeg" link="L1220742x-1200.jpeg" >}}
 
@@ -96,9 +96,9 @@ Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. R
 
 ## Echoes by Fumie Chiba Trio
 
--   [Fumie Chiba](/tags/fumie-chiba) - piano
--   [Koji Tetsui](/tags/koji-tetsui) - bass
--   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
 
 Released in 2013 on T-TOC Records Cadenza as CADE-0009.
 

@@ -14,7 +14,7 @@ related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in
   relative = true
 +++
 
-_Echo_, from 2024, is pianist/composer Hitomi Nishiyama’s latest album and a response to her previous release _[Dot](https://www.jazzofjapan.com/archive/hitomi-nishiyama-dot)_ from 2023. The music on this album was made with the same group and during the same recording sessions and as such, there are many similarities in sound and direction. In aura and conceptually, however, the differences are effectively portrayed by the separate covers and designs: Where _Dot_ shows a monochrome sketch-like grid of hand-drawn dots, _Echo_ places the pianists’ subtly Mona Lisa smile into a vividly abstract gauze of lilac and cobalt swirls and hues.
+_Echo_, from 2024, is pianist/composer Hitomi Nishiyama’s latest album and a response to her previous release _[Dot](/hitomi-nishiyama-dot/)_ from 2023. The music on this album was made with the same group and during the same recording sessions and as such, there are many similarities in sound and direction. In aura and conceptually, however, the differences are effectively portrayed by the separate covers and designs: Where _Dot_ shows a monochrome sketch-like grid of hand-drawn dots, _Echo_ places the pianists’ subtly Mona Lisa smile into a vividly abstract gauze of lilac and cobalt swirls and hues.
 
 {{< figure src="L1280367x-1200.jpeg" link="L1280367x-1200.jpeg" >}}
 
@@ -24,13 +24,13 @@ One unmistakable strength of these two recent albums is how Nishiyama’s compos
 
 {{< figure src="L1280368x-1200.jpeg" link="L1280368x-1200.jpeg" >}}
 
-The compositions also feature slow-moving ambient sections that are superbly enhanced by Nishijima’s bowed contrabass, and rock-beat riffs that recall her style on her separate heavy metal-inspired jazz project [NHORHM](https://www.jazzofjapan.com/archive/nhorhm-extra-edition). There are sections of songs where the pianist’s left hand plays solid guitar-like chords, catchy quarter-note pop rhythms, or delicately spun ostinatos to great effect. The overall energy level is calm, somewhat muted, and taken at patient tempos. It’s more like a deeply absorbing novel or modern art piece with layers to uncover, rather than the fast cuts of an action movie or high-paced show. Yet interestingly, parts of these songs feel as if they would fit perfectly as scores to accompany moments of drama or discovery in movie scenes.
+The compositions also feature slow-moving ambient sections that are superbly enhanced by Nishijima’s bowed contrabass, and rock-beat riffs that recall her style on her separate heavy metal-inspired jazz project [NHORHM](/nhorhm-extra-edition/). There are sections of songs where the pianist’s left hand plays solid guitar-like chords, catchy quarter-note pop rhythms, or delicately spun ostinatos to great effect. The overall energy level is calm, somewhat muted, and taken at patient tempos. It’s more like a deeply absorbing novel or modern art piece with layers to uncover, rather than the fast cuts of an action movie or high-paced show. Yet interestingly, parts of these songs feel as if they would fit perfectly as scores to accompany moments of drama or discovery in movie scenes.
 
 {{< figure src="L1280370x-1200.jpeg" link="L1280370x-1200.jpeg" >}}
 
 Like the design and concept, the songs themselves naturally summon evocative images through Nishiyama’s writing style, orchestration, and arrangements (and her particular choice of song titles, as well). Tracks #1 “Echo” and #2 “West World” (no relation to the recent drama series) are the opening chapters, where she is directed towards aspects of pop music catchiness, hooks, and musical movement that make such affecting hit songs. #3 “Ants” is slow, sparse, and semi-experimental with suite-like section breaks. These characteristics are shared and expanded upon by the grand displays in #4 “Arrakis”, dynamically crystalizing the oppressive tension of the Frank Herbert world-building fantasy with power and exotic mystery.
 
-Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, explores an absorbing nine minutes of free but coordinated scenes in flexible time, gracefully Debussey-ish arpeggios, bowed contrabass, and hints of ambient music. #6 “Cobalt Blue” features slow chord cushions and subtle piano power chord riffs to allow the background instruments to come to the front for some in-turn and simultaneous improvisation. Finally, the last track #7 “River” moodily balances the major/minor shifts of the album’s overall feel with a soundtrack-like song for a sweet goodbye to a moving and memorable album. The reverberations of both _[Dot](https://www.jazzofjapan.com/archive/hitomi-nishiyama-dot)_ and _Echo_ linger, though, and ensure anticipated return journeys to Nishiyama’s distinctive and penetrating musical worlds in the future.
+Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, explores an absorbing nine minutes of free but coordinated scenes in flexible time, gracefully Debussey-ish arpeggios, bowed contrabass, and hints of ambient music. #6 “Cobalt Blue” features slow chord cushions and subtle piano power chord riffs to allow the background instruments to come to the front for some in-turn and simultaneous improvisation. Finally, the last track #7 “River” moodily balances the major/minor shifts of the album’s overall feel with a soundtrack-like song for a sweet goodbye to a moving and memorable album. The reverberations of both _[Dot](/hitomi-nishiyama-dot/)_ and _Echo_ linger, though, and ensure anticipated return journeys to Nishiyama’s distinctive and penetrating musical worlds in the future.
 
 {{< figure src="L1280375x-1200.jpeg" link="L1280375x-1200.jpeg" >}}
 
@@ -39,12 +39,12 @@ Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, exp
 
 ## Echo by Hitomi Nishiyama
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano, compositions
--   [Toru Nishijima](/tags/toru-nishijima) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
--   [Takanori Suzuki](/tags/takanori-suzuki) - clarinet (all tracks except #5)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone and flute (all tracks except #5)
--   [maiko](/tags/maiko) - violin (all tracks except #5)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, compositions
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (all tracks except #5)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone and flute (all tracks except #5)
+-   [maiko](/tags/maiko/) - violin (all tracks except #5)
 
 Released in 2024 on Meantone Records as MT-13.
 

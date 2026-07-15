@@ -32,9 +32,9 @@ Along with the six original songs, Chiba’s reharmonizations and arrangements a
 
 ## Tip of Dream by Fumie Chiba Trio
 
--   [Fumie Chiba](/tags/fumie-chiba) - piano
--   [Koichi Kuniwake](/tags/koichi-kuniwake) - bass
--   [Shigehito Kawamura](/tags/shigehito-kawamura) - drums
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koichi Kuniwake](/tags/koichi-kuniwake/) - bass
+-   [Shigehito Kawamura](/tags/shigehito-kawamura/) - drums
 
 Released in 2009 on TRL Music as TRL-0826.
 

@@ -2,10 +2,10 @@
 title = "Someday"
 author = ["Brian McCrory"]
 publishDate = 2024-11-12
-keywords = ["someday"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "someday"
 issue = 275
 [cover]
   image = "IMG_2354-1200.jpeg"
@@ -18,9 +18,9 @@ The jazz bar Someday in the Shinjuku Sanchome (now in Asakusa) nightlife area of
 
 {{< figure src="IMG_2362-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Harumi Nomoto (piano) at Someday in December 2008" link="IMG_2362-1200.jpeg" >}}
 
-To make a night of it, if you don’t mind hurrying around, you can even double-up your jazz in one night by jazz bar-hopping (はしご, _hashigo_). Combine a visit to Someday by catching one set of two there and then heading to nearby [Polka Dots](https://www.jazzofjapan.com/archive/polka-dots) or [Pit Inn](https://www.jazzofjapan.com/archive/pit-inn) jazz clubs to catch another performance, or vice-versa. Also note that Pit Inn has daytime shows in addition to the evening, which could add a third entry to your day’s jazz plan. Just be sure to check the start times for each venue so you do not miss out on too much. _([Jazzspot J](https://www.jazzofjapan.com/archive/jazzspot-j) was another great option for jazz bar-hopping around the same neighborhood, but Jazzspot J has permanently closed.)_
+To make a night of it, if you don’t mind hurrying around, you can even double-up your jazz in one night by jazz bar-hopping (はしご, _hashigo_). Combine a visit to Someday by catching one set of two there and then heading to nearby [Polka Dots](/polka-dots/) or [Pit Inn](/pit-inn/) jazz clubs to catch another performance, or vice-versa. Also note that Pit Inn has daytime shows in addition to the evening, which could add a third entry to your day’s jazz plan. Just be sure to check the start times for each venue so you do not miss out on too much. _([Jazzspot J](/jazzspot-j/) was another great option for jazz bar-hopping around the same neighborhood, but Jazzspot J has permanently closed.)_
 
-One thing to remember: The name of this club, **Someday**, is short and simple but could easily be mixed up with [Sometime](https://www.jazzofjapan.com/archive/sometime) (in Kichijoji) and [Somethin’](https://www.jazzofjapan.com/archive/somethin) (in Ikebukuro). Make sure you’re headed to the right place based on location, schedule, and preference.
+One thing to remember: The name of this club, **Someday**, is short and simple but could easily be mixed up with [Sometime](/sometime/) (in Kichijoji) and [Somethin’](/somethin/) (in Ikebukuro). Make sure you’re headed to the right place based on location, schedule, and preference.
 
 {{< figure src="IMG_0047-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Mitsuaki Furuno (bass) Quartet with Ayumi Koketsu (sax), Akane Matsumoto (piano), and Masayuki “Gakio” Kume (drums) at Someday in June 2016" link="IMG_0047-1200.jpeg" >}}
 

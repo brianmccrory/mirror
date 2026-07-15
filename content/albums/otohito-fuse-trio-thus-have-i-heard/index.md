@@ -159,9 +159,9 @@ Includes a 20-page booklet of photographs and writings.
 
 ## Thus Have I Heard by Otohito Fuse Trio
 
--   [Otohito Fuse](/tags/otohito-fuse) - piano
--   [Riku Takahashi](/tags/riku-takahashi) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura) - drums
+-   [Otohito Fuse](/tags/otohito-fuse/) - piano
+-   [Riku Takahashi](/tags/riku-takahashi/) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
 
 Released in 2025 on Otohito Fuse Music as OFM-002.
 

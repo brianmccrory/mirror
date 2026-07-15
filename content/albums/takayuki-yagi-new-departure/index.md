@@ -95,11 +95,11 @@ Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed
 
 ## New Departure by Takayuki Yagi
 
--   [Takayuki Yagi](/tags/takayuki-yagi) - piano
--   [Scott Wendholt](/tags/scott-wendholt) - trumpet (#1, 2, 3, 5)
--   [Ralph Bowen](/tags/ralph-bowen) - tenor saxophone (#1, 2, 3, 5)
--   [Jay Anderson](/tags/jay-anderson) - bass
--   [Billy Drummond](/tags/billy-drummond) - drums
+-   [Takayuki Yagi](/tags/takayuki-yagi/) - piano
+-   [Scott Wendholt](/tags/scott-wendholt/) - trumpet (#1, 2, 3, 5)
+-   [Ralph Bowen](/tags/ralph-bowen/) - tenor saxophone (#1, 2, 3, 5)
+-   [Jay Anderson](/tags/jay-anderson/) - bass
+-   [Billy Drummond](/tags/billy-drummond/) - drums
 
 Released in 2018 on JazzTOKYO RECORDS as JTRC-002.
 

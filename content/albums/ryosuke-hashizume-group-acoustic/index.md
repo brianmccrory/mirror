@@ -35,11 +35,11 @@ Among the slower songs, the mid-tempo songs are latched to frames in motion thro
 
 ## Acoustic Fluid by Ryosuke Hashizume Group
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, effects
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar, effects
--   [Ryoji Orihara](/tags/ryoji-orihara) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums, percussion
--   [Koichi Sato](/tags/koichi-sato) - piano (#2, 3, 8)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, effects
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
+-   [Koichi Sato](/tags/koichi-sato/) - piano (#2, 3, 8)
 
 Released in 2012 on Tactile Sounds Records as TS-001.
 

@@ -77,9 +77,9 @@ This is a song I wrote about 4 years ago which I rearranged for this recording. 
 
 ## Urban Clutter by Ami Fukui Trio
 
--   [Ami Fukui](/tags/ami-fukui) - piano
--   [Koji Yasuda](/tags/koji-yasuda) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
 
 Released in 2010 on Anturtle Analog Recordings as ANTX-4008.
 

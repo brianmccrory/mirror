@@ -18,7 +18,7 @@ On _Banquet_, pianist and composer Sayaka Kishi’s latest album from 2024, her 
 
 {{< figure src="L1250616x-1200.jpeg" link="L1250616x-1200.jpeg" >}}
 
-This particular album of hers was released under the Sayaka Kishi Trio name and is a follow-up to the same trio’s previous recording _[Life Is Too Great](https://www.jazzofjapan.com/archive/sayaka-kishi-trio-life-is-too-great)_ (2019). Also as such, the trio music on this album tends towards primarily jazz influences. Meanwhile, her other recent releases with various groups (piano/cello, piano/vocals, congos/vibraphone/piano, sax/organ/drums, etc) span colorful moods with different instrumentalists playing across genres.
+This particular album of hers was released under the Sayaka Kishi Trio name and is a follow-up to the same trio’s previous recording _[Life Is Too Great](/sayaka-kishi-trio-life-is-too-great/)_ (2019). Also as such, the trio music on this album tends towards primarily jazz influences. Meanwhile, her other recent releases with various groups (piano/cello, piano/vocals, congos/vibraphone/piano, sax/organ/drums, etc) span colorful moods with different instrumentalists playing across genres.
 
 Invoking the simple pleasures of chewing bubble gum with a playful, mild rebelliousness, the ten tracks start excitedly with the peppy opener “I Miss the Blue Sky”, pop-funk of “Bubble Gum”, and the calm and memorable “Noite Azul” moving in five-four time. The nine Kishi compositions (and one cover song) subtly reflect Kishi’s humorous personality while being mindfully crafted with nuanced changes, rhythmic surprises, and unexpected elements tucked away in corners throughout the album.
 
@@ -30,7 +30,7 @@ The opening track’s first section, for example, launches from a bouncing and c
 
 The next four songs “Wondering Bird”, “It’s My Jameson”, “Sora wo Kakeru”, and “Three Sails” continue to explore fun terrain with jazz moods infused with folky country, groovy shuffle, Bacharachesque emotive pop, and jazz/Latin bop in a Horace Silver hue. The music feels bright and brisk and is especially enhanced by the captivating dynamics, strength, and skills of Yasukagawa’s bass and Yamada’s drums.
 
-Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their 2022 release _[Luar](https://www.jazzofjapan.com/archive/sul-madrugada-luar)_) adds evocative vocals and lyrics to the next song, #8 “Asas Brancas” for a cheery foreign trip, continuing into Chucho Valdez’s “Mambo Influenciado” for some rousing peaks. Finally, the album closes with Kishi’s “Hope of 2022” for a smooth and laidback finale, sweet as dessert.
+Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their 2022 release _[Luar](/sul-madrugada-luar/)_) adds evocative vocals and lyrics to the next song, #8 “Asas Brancas” for a cheery foreign trip, continuing into Chucho Valdez’s “Mambo Influenciado” for some rousing peaks. Finally, the album closes with Kishi’s “Hope of 2022” for a smooth and laidback finale, sweet as dessert.
 
 {{< figure src="L1250633x-1200.jpeg" link="L1250633x-1200.jpeg" >}}
 
@@ -43,10 +43,10 @@ Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their
 
 ## Banquet by Sayaka Kishi Trio
 
--   [Sayaka Kishi](/tags/sayaka-kishi) - piano
--   [Akira Yamada](/tags/akira-yamada) - drums
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Hiroe Kobayashi](/tags/hiroe-kobayashi) - vocals (#8)
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi/) - vocals (#8)
 
 Released in 2024 on Daiki Musica as DNCD-32.
 

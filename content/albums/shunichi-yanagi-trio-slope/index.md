@@ -13,7 +13,7 @@ issue = 166
   relative = true
 +++
 
-Jazz pianist Shunichi Yanagi’s _Slope_ is his second trio release, a 2015 followup to his 2012 debut _[Bubble Fish](https://www.jazzofjapan.com/archive/shunichi-yanagi-trio-bubble-fish)_. The trio explores fresh territory in the jazz, rock, and light groove moods which vary from track to track. Each member has a clean touch with a sense of drama in creating excitement, somewhat like a movie or video game soundtrack at times.
+Jazz pianist Shunichi Yanagi’s _Slope_ is his second trio release, a 2015 followup to his 2012 debut _[Bubble Fish](/shunichi-yanagi-trio-bubble-fish/)_. The trio explores fresh territory in the jazz, rock, and light groove moods which vary from track to track. Each member has a clean touch with a sense of drama in creating excitement, somewhat like a movie or video game soundtrack at times.
 
 {{< figure src="L1220795-2-1024.jpeg" link="L1220795-2-1024.jpeg" >}}
 
@@ -30,9 +30,9 @@ Some tunes like the grunge of the opener “I Can’t Fly” and the sad ballad 
 
 ## Slope by Shunichi Yanagi Trio
 
--   [Shunichi Yanagi](/tags/shunichi-yanagi) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Masatsugu Hattori](/tags/masatsugu-hattori) - drums
+-   [Shunichi Yanagi](/tags/shunichi-yanagi/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
 
 Released in 2015 on GoodNessPlus Records as GNPR-1148.
 

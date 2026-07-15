@@ -26,13 +26,13 @@ This album consists of well-written original compositions with a few covers thro
 
 ## Humadope by Keisuke Nakamura
 
--   [Keisuke Nakamura](/tags/keisuke-nakamura) - trumpet, flugelhorn
--   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi) - tenor sax, soprano sax
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori) - bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums
--   [Mamoru Ishida](/tags/mamoru-ishida) - Rhodes (tr. #5, 6)
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums (tr. #1)
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, soprano sax
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - Rhodes (tr. #5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums (tr. #1)
 
 Released in 2014 on M581 Records as SDR1401.
 

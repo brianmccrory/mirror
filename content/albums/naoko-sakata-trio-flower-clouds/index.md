@@ -38,9 +38,9 @@ All tracks are strong and balance each other well, with some highlights includin
 
 ## Flower Clouds by Naoko Sakata Trio
 
--   [Naoko Sakata](/tags/naoko-sakata) - piano
--   [Anton Blomgren](/tags/anton-blomgren) - bass
--   [Johan Birgenius](/tags/johan-birgenius) - drums
+-   [Naoko Sakata](/tags/naoko-sakata/) - piano
+-   [Anton Blomgren](/tags/anton-blomgren/) - bass
+-   [Johan Birgenius](/tags/johan-birgenius/) - drums
 
 Released in 2013 on Atelier Sawano as AS-129.
 

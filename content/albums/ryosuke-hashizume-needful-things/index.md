@@ -30,10 +30,10 @@ Recorded live at Jalan Jalan in Wakayama, Japan on November 22-23, 2008.
 
 ## Needful Things by Ryosuke Hashizume
 
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume) - tenor saxophone, clarinet, effects, voice
--   [Takumi Seino](/tags/takumi-seino) - electric, acoustic guitars
--   [Masako Hamamura](/tags/masako-hamamura) - piano
--   [Yasutaka Yorozu](/tags/yasutaka-yorozu) - bass
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, clarinet, effects, voice
+-   [Takumi Seino](/tags/takumi-seino/) - electric, acoustic guitars
+-   [Masako Hamamura](/tags/masako-hamamura/) - piano
+-   [Yasutaka Yorozu](/tags/yasutaka-yorozu/) - bass
 
 Released in 2009 on Grapes Records as GPS-1206.
 

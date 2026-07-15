@@ -47,9 +47,9 @@ Themes from these titles include nature, fantasy, and musical ideas, but taken a
 
 ## Kakusareta Guwa by Shikou Ito Trio Syncretia
 
--   [Shikou Ito](/tags/shikou-ito) - piano
--   [Benisuke Sakai](/tags/benisuke-sakai) - bass
--   [Gen Ogimi](/tags/gen-ogimi) - percussion
+-   [Shikou Ito](/tags/shikou-ito/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Gen Ogimi](/tags/gen-ogimi/) - percussion
 
 Released in 2025 on Musica Visionaire as MVSI-1003.
 

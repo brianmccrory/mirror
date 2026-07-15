@@ -3,10 +3,10 @@ title = "Bigboy"
 author = ["Brian McCrory"]
 description = "Bigboy jazz cafe, located near Jimbocho Station in Tokyo, Japan"
 publishDate = 2025-08-31
-keywords = ["bigboy"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "bigboy"
 issue = 325
 [cover]
   image = "IMG_20250314_140915677-1200.jpeg"

@@ -3,10 +3,10 @@ title = "Pit Inn"
 author = ["Brian McCrory"]
 description = "Pit Inn jazz club, located near Shinjuku-Sanchome station in Tokyo, Japan"
 publishDate = 2024-01-02
-keywords = ["pit-inn"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "pit-inn"
 issue = 221
 [cover]
   image = "P1040469-1024.jpeg"

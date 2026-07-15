@@ -36,10 +36,10 @@ This album hit #1 on the HMV Weekly Modern Jazz Chart and #2 on the HMV 2004 Yea
 
 ## Madrigal by Chihiro Yamanaka Trio
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Larry Grenadier](/tags/larry-grenadier) - bass
--   [Rodney Green](/tags/rodney-green) - drums (#1, 3, 4)
--   [Jeff Ballard](/tags/jeff-ballard) - drums
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Larry Grenadier](/tags/larry-grenadier/) - bass
+-   [Rodney Green](/tags/rodney-green/) - drums (#1, 3, 4)
+-   [Jeff Ballard](/tags/jeff-ballard/) - drums
 
 Released in 2004 on Atelier Sawano as AS-038.
 

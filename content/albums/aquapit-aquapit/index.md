@@ -30,9 +30,9 @@ This first album from Aquapit offers eleven original songs, all of a piece, jam 
 
 ## Aquapit by Aquapit
 
--   [Yuta Kaneko](/tags/yuta-kaneko) - Hammond B3 Organ
--   [Yosuke Onuma](/tags/yosuke-onuma) - guitar
--   [Hidenobu “Kalta” Otsuki](/tags/hidenobu-kalta-otsuki) - drums
+-   [Yuta Kaneko](/tags/yuta-kaneko/) - Hammond B3 Organ
+-   [Yosuke Onuma](/tags/yosuke-onuma/) - guitar
+-   [Hidenobu “Kalta” Otsuki](/tags/hidenobu-kalta-otsuki/) - drums
 
 Released in 2011 on Mocloud Records as DDCZ-1758.
 

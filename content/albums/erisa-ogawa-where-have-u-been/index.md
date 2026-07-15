@@ -51,19 +51,19 @@ _Colorful pop-jazz that captures everything from her first debut up through now!
 
 ## Where Have U Been? by Erisa Ogawa
 
--   [Erisa Ogawa](/tags/erisa-ogawa) - flute
--   [Sota Seta](/tags/sota-seta) - piano
--   [Yusuke Morita](/tags/yusuke-morita) - electric bass
--   [Ryo Shibata](/tags/ryo-shibata) - drums
--   [Sayaka (Violin)](/tags/sayaka-violin) - violin (#3, 4)
--   [Ayumi Hashimoto](/tags/ayumi-hashimoto) - cello (#4)
--   [Issei Yoshiba](/tags/issei-yoshiba) - percussion (#3)
--   [Tetsuo Koizumi](/tags/tetsuo-koizumi) - baby bass (#3)
--   [Jo Endo](/tags/jo-endo) - wood bass (#2, 6, 8)
--   [Nao Teraya](/tags/nao-teraya) - guitar (#6)
--   [Masaru Okuyama](/tags/masaru-okuyama) - piano (#3)
--   [Keita Harigai](/tags/keita-harigai) - trombone (#8)
--   [Takeru Yamazaki](/tags/takeru-yamazaki) - Rhodes &amp; piano (#9)
+-   [Erisa Ogawa](/tags/erisa-ogawa/) - flute
+-   [Sota Seta](/tags/sota-seta/) - piano
+-   [Yusuke Morita](/tags/yusuke-morita/) - electric bass
+-   [Ryo Shibata](/tags/ryo-shibata/) - drums
+-   [Sayaka (Violin)](/tags/sayaka-violin/) - violin (#3, 4)
+-   [Ayumi Hashimoto](/tags/ayumi-hashimoto/) - cello (#4)
+-   [Issei Yoshiba](/tags/issei-yoshiba/) - percussion (#3)
+-   [Tetsuo Koizumi](/tags/tetsuo-koizumi/) - baby bass (#3)
+-   [Jo Endo](/tags/jo-endo/) - wood bass (#2, 6, 8)
+-   [Nao Teraya](/tags/nao-teraya/) - guitar (#6)
+-   [Masaru Okuyama](/tags/masaru-okuyama/) - piano (#3)
+-   [Keita Harigai](/tags/keita-harigai/) - trombone (#8)
+-   [Takeru Yamazaki](/tags/takeru-yamazaki/) - Rhodes &amp; piano (#9)
 
 Released in 2019 on Uplift Jazz Record as UJRC-19014.
 

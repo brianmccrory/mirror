@@ -1,2 +1,5 @@
 /rss /index.xml 301
-/p/:slug /archive/:slug/ 301
+/p/:slug /:slug/ 301
+/p/:slug/ /:slug/ 301
+/archive/:slug /:slug/ 301
+/archive/:slug/ /:slug/ 301

@@ -90,14 +90,14 @@ _Hiro Kimura_
 
 ## Trees by Hiro Kimura
 
--   [Akiha Nakashima](/tags/akiha-nakashima) - alto sax, soprano sax (#2, 4, 5, 8)
--   [Kohei Ando](/tags/kohei-ando) - alto sax, soprano sax (#1, 3, 4, 7, 9)
--   [Mao Sone](/tags/mao-sone) - trumpet (#1), piano (#6), Fender Rhodes &amp; keys (#9)
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano (#2, 4, 5, 8)
--   [Naoko Tanaka](/tags/naoko-tanaka) - piano (#1, 3, 7, 9)
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass (#2, 4, 5, 8)
--   [Yuji Ito](/tags/yuji-ito) - bass (#1, 3, 6, 7, 9)
--   [Hiro Kimura](/tags/hiro-kimura) - drums, percussion (#3)
+-   [Akiha Nakashima](/tags/akiha-nakashima/) - alto sax, soprano sax (#2, 4, 5, 8)
+-   [Kohei Ando](/tags/kohei-ando/) - alto sax, soprano sax (#1, 3, 4, 7, 9)
+-   [Mao Sone](/tags/mao-sone/) - trumpet (#1), piano (#6), Fender Rhodes &amp; keys (#9)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano (#2, 4, 5, 8)
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano (#1, 3, 7, 9)
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass (#2, 4, 5, 8)
+-   [Yuji Ito](/tags/yuji-ito/) - bass (#1, 3, 6, 7, 9)
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums, percussion (#3)
 
 Released in 2021 on KINO Records as KIN-001.
 

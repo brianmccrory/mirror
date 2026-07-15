@@ -3,10 +3,10 @@ title = "On A Slow Boat To…"
 author = ["Brian McCrory"]
 description = "On A Slow Boat To... jazz cafe, located near Jimbocho and Ochanomizu Stations in Tokyo, Japan"
 publishDate = 2025-09-25
-keywords = ["on-a-slow-boat-to"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "on-a-slow-boat-to"
 issue = 328
 [cover]
   image = "L1280249x-1200.jpeg"
@@ -39,7 +39,7 @@ The atmosphere at _On A Slow Boat To..._ is very friendly, just like a modest an
 
 {{< figure src="IMG_20240307_180010712_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Interior at On A Slow Boat To..." link="IMG_20240307_180010712_HDR-1200.jpeg" >}}
 
-Live performances at _On A Slow Boat To..._ are irregular but savored, and advance reservations fill up quickly. At these events, customers pay first upon entry, receive a printed menu slip to pick orders from, and take a seat at a table or counter. As live events here are popular, and space is limited (there are only 16-20 seats available), fully sold out nights are common. It’s best to make a reservation ahead of time. Alternatively, stop by _On A Slow Boat To..._ during normal business hours a stop on your way to the nearby jazz club [Naru](https://www.jazzofjapan.com/archive/naru) near Ochanomizu station, a classic and must-do stop for live jazz in Tokyo.
+Live performances at _On A Slow Boat To..._ are irregular but savored, and advance reservations fill up quickly. At these events, customers pay first upon entry, receive a printed menu slip to pick orders from, and take a seat at a table or counter. As live events here are popular, and space is limited (there are only 16-20 seats available), fully sold out nights are common. It’s best to make a reservation ahead of time. Alternatively, stop by _On A Slow Boat To..._ during normal business hours a stop on your way to the nearby jazz club [Naru](/naru/) near Ochanomizu station, a classic and must-do stop for live jazz in Tokyo.
 
 {{< figure src="IMG_20250308_182119306x-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Hand-drip coffee using nel drip technique at On A Slow Boat To..." link="IMG_20250308_182119306x-1200.jpeg" >}}
 

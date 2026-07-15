@@ -36,11 +36,11 @@ Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-roc
 
 ## Halo by Blue Dot
 
--   [Makoto Rikitake](/tags/makoto-rikitake) - drums
--   [Tamashi Goto](/tags/tamashi-goto) - piano
--   [Masanori Sugimoto](/tags/masanori-sugimoto) - tenor sax
--   [Goro Katano](/tags/goro-katano) - electric bass
--   [Maki Fujimura](/tags/maki-fujimura) - vocals (track #10)
+-   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Masanori Sugimoto](/tags/masanori-sugimoto/) - tenor sax
+-   [Goro Katano](/tags/goro-katano/) - electric bass
+-   [Maki Fujimura](/tags/maki-fujimura/) - vocals (track #10)
 
 Released in 2016 on Blue Dot as Halo.
 

@@ -34,10 +34,10 @@ The overall album delivers an exciting variety of moods centered around a modern
 
 ## Rin by Sohnosuke Imaizumi
 
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi) - drums
--   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga) - bass
--   [Kazuhiro Tamura](/tags/kazuhiro-tamura) - piano
--   [BLAHMUZIK](/tags/blahmuzik) - sampler
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+-   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga/) - bass
+-   [Kazuhiro Tamura](/tags/kazuhiro-tamura/) - piano
+-   [BLAHMUZIK](/tags/blahmuzik/) - sampler
 
 Released in 2015 on Flower Records as FLRC-070.
 

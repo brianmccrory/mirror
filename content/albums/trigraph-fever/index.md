@@ -36,11 +36,11 @@ In addition to jazz, Trigraph also features five of their well-crafted original 
 
 ## Fever by Trigraph
 
--   [Takayoshi Baba](/tags/takayoshi-baba) - guitar &amp; chorus
--   [Reikan Kobayashi](/tags/reikan-kobayashi) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
--   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal &amp; chorus
--   [Ryoji Orihara](/tags/ryoji-orihara) - electric fretless bass &amp; chorus
--   [Yasushi Fukumori](/tags/yasushi-fukumori) - drums &amp; chorus
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar &amp; chorus
+-   [Reikan Kobayashi](/tags/reikan-kobayashi/) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal &amp; chorus
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass &amp; chorus
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums &amp; chorus
 
 Released in 2014 on Haru Records as HARU-20.
 

@@ -32,10 +32,10 @@ Notable tracks include the modern “Gauge”, the European fusion “Astir”, 
 
 ## Unseen Scenes by Bungalow
 
--   [Mike Rivett](/tags/mike-rivett) - tenor sax, electronics
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - bass
--   [Ko Omura](/tags/ko-omura) - drums, tabla
+-   [Mike Rivett](/tags/mike-rivett/) - tenor sax, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla
 
 Released in 2015 on Studio Songs as YZSO-10057.
 

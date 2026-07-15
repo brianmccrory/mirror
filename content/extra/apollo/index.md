@@ -3,10 +3,10 @@ title = "Apollo"
 author = ["Brian McCrory"]
 description = "Apollo jazz club, located near Shimo-Kitazawa station in Tokyo, Japan"
 publishDate = 2023-05-29
-keywords = ["apollo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "apollo"
 issue = 170
 [cover]
   image = "IMG_20181020_203433884-1024.jpeg"

@@ -67,10 +67,10 @@ Young, fierce tenor saxophonist Akihiro Yoshimoto with his quartet releases his 
 
 ## Blending Tone by Akihiro Yoshimoto Quartet
 
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - tenor sax
--   [Aaron Choulai](/tags/aaron-choulai) - piano
--   [Takuya Sakazaki](/tags/takuya-sakazaki) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax
+-   [Aaron Choulai](/tags/aaron-choulai/) - piano
+-   [Takuya Sakazaki](/tags/takuya-sakazaki/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
 
 Released in 2012 on Orbit Records as ORB-1001.
 

@@ -56,7 +56,7 @@ This album was recorded on solo piano in a one-room studio, and I’m extremely 
 
 ## Solo by Mikiko Nagatake
 
--   [Mikiko Nagatake](/tags/mikiko-nagatake) - piano
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
 
 Released in 2022 on Owl Wing Record as OWR-044.
 

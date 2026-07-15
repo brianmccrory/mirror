@@ -3,10 +3,10 @@ title = "B-flat"
 author = ["Brian McCrory"]
 description = "B-flat jazz club, located near Akasaka station in Tokyo, Japan"
 publishDate = 2024-02-05
-keywords = ["b-flat"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "b-flat"
 issue = 228
 [cover]
   image = "L1170438-1024.jpeg"

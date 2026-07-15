@@ -14,7 +14,7 @@ related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in
   relative = true
 +++
 
-Among the close to thirty album releases from pianist and composer Hitomi Nishiyama’s catalog, _Calling_ (2021) is the third album recorded with one of her regular trios. This particular trio with bassist Yasuhiko “Hachi” Sato and drummer Kazumi Ikenaga is also featured on Nishiyama’s _[Sympathy](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-sympathy)_ (2013) and _[Music in You](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-music-in-you)_ (2011).
+Among the close to thirty album releases from pianist and composer Hitomi Nishiyama’s catalog, _Calling_ (2021) is the third album recorded with one of her regular trios. This particular trio with bassist Yasuhiko “Hachi” Sato and drummer Kazumi Ikenaga is also featured on Nishiyama’s _[Sympathy](/hitomi-nishiyama-trio-sympathy/)_ (2013) and _[Music in You](/hitomi-nishiyama-trio-music-in-you/)_ (2011).
 
 {{< figure src="L1230227x-1200.jpeg" link="L1230227x-1200.jpeg" >}}
 
@@ -120,9 +120,9 @@ I’ve been asked “When is the CD release live show”, here and there and thr
 
 ## Calling by Hitomi Nishiyama Trio
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
 
 Released in 2021 on Meantone Records as MT-10.
 

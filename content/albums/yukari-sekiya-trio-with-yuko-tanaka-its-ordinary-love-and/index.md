@@ -93,10 +93,10 @@ Dec. 14, 2010   A live recording on the final night of the tour   The long-await
 
 ## It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka
 
--   [Yukari Sekiya](/tags/yukari-sekiya) - piano
--   [Yuko Tanaka](/tags/yuko-tanaka) - voice
--   [Michihiro Morisada](/tags/michihiro-morisada) - bass
--   [Tatsuya Hashimoto](/tags/tatsuya-hashimoto) - drums
+-   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
+-   [Yuko Tanaka](/tags/yuko-tanaka/) - voice
+-   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
+-   [Tatsuya Hashimoto](/tags/tatsuya-hashimoto/) - drums
 
 Released in 2011 on Itazura Records as YUMO-713.
 

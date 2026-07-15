@@ -3,10 +3,10 @@ title = "Independence"
 author = ["Brian McCrory"]
 description = "Independence jazz club, located near Ikebukuro station in Tokyo, Japan"
 publishDate = 2023-07-18
-keywords = ["independence"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "independence"
 issue = 187
 [cover]
   image = "L1000565-1024.jpeg"

@@ -32,7 +32,7 @@ Standard jazz is delivered through covers with a swing beat such as “I’ve Ne
 
 ## Solo by Maiko
 
--   [maiko](/tags/maiko) - violin
+-   [maiko](/tags/maiko/) - violin
 
 Released in 2018 on T-Toc Records as TTOC-0029.
 

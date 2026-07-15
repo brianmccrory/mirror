@@ -43,10 +43,10 @@ The final two tracks also remind us of Yamanaka’s fun and playful nature. In l
 
 ## Lach Doch Mal by Chihiro Yamanaka
 
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka) - piano
--   [Larry Grenadier](/tags/larry-grenadier) - bass
--   [Jeff Ballard](/tags/jeff-ballard) - drums
--   [John Carlini](/tags/john-carlini) - guitar (#1, 5), banjo (#3)
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Larry Grenadier](/tags/larry-grenadier/) - bass
+-   [Jeff Ballard](/tags/jeff-ballard/) - drums
+-   [John Carlini](/tags/john-carlini/) - guitar (#1, 5), banjo (#3)
 
 Released in 2006 on Verve as UCCJ-9077.
 

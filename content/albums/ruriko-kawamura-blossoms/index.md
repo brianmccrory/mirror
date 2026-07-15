@@ -32,10 +32,10 @@ Starting quietly, Endo and Kawamura perform a heartwarming version of “The Rai
 
 ## Blossoms by Ruriko Kawamura
 
--   [Ruriko Kawamura](/tags/ruriko-kawamura) - vocal
--   [Seiji Endo](/tags/seiji-endo) - piano
--   [Noriko Satomi](/tags/noriko-satomi) - violin
--   [Akira Sekine](/tags/akira-sekine) - guitar
+-   [Ruriko Kawamura](/tags/ruriko-kawamura/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Akira Sekine](/tags/akira-sekine/) - guitar
 
 Released in 2016 on LooLoo Entertainment Records as lulu001.
 

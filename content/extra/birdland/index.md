@@ -3,10 +3,10 @@ title = "Birdland"
 author = ["Brian McCrory"]
 description = "Birdland jazz club, located near Kitasenju station in Tokyo, Japan"
 publishDate = 2023-05-12
-keywords = ["birdland"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "birdland"
 issue = 160
 [cover]
   image = "L1090119-1024.jpeg"

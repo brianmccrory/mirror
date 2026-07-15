@@ -3,10 +3,10 @@ title = "Klavier"
 author = ["Brian McCrory"]
 description = "Klavier jazz club, located near Asagaya station in Tokyo, Japan"
 publishDate = 2026-04-19
-keywords = ["klavier"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "klavier"
 issue = 361
 [cover]
   image = "IMG_20251011_205209873-1200.jpeg"
@@ -15,7 +15,7 @@ issue = 361
   relative = true
 +++
 
-There’s a nice choice of small jazz bars in the bustling Asagaya neighborhood mere steps from the train station, including [Manhattan](https://www.jazzofjapan.com/archive/manhattan/), Staccato, and the recently renewed Klavier.
+There’s a nice choice of small jazz bars in the bustling Asagaya neighborhood mere steps from the train station, including [Manhattan](/manhattan/), Staccato, and the recently renewed Klavier.
 
 {{< figure src="IMG_20251011_211331748-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Setsuo Sato (drums) Trio with Masahiro Ishiwata (piano) and Yuki Ito (bass) at Klavier (October 2025)" link="IMG_20251011_211331748-1200.jpeg" >}}
 

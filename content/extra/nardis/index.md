@@ -3,10 +3,10 @@ title = "Nardis"
 author = ["Brian McCrory"]
 description = "Nardis jazz club, located near Kashiwa station in Kashiwa, Japan"
 publishDate = 2025-04-14
-keywords = ["nardis"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "nardis"
 issue = 303
 [cover]
   image = "IMG_20240325_200215138_HDR-1200.jpeg"

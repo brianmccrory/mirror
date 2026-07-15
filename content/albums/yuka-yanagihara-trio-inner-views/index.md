@@ -37,9 +37,9 @@ The final song, a solo piano rendition of “Moon Dance” (also played with the
 
 ## Inner Views by Yuka Yanagihara Trio
 
--   [Yuka Yanagihara](/tags/yuka-yanagihara) - piano
--   [Yoshiki Yamada](/tags/yoshiki-yamada) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
 
 Released in 2019 on Tomtom Cherry Music as TCM-2002.
 

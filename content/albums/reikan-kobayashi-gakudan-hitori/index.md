@@ -32,7 +32,7 @@ Not just a collection of solemn atmospheres, the overall tone leans toward cheer
 
 ## Gakudan Hitori by Reikan Kobayashi
 
--   [Reikan Kobayashi](/tags/reikan-kobayashi) - Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot
+-   [Reikan Kobayashi](/tags/reikan-kobayashi/) - Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot
 
 Released in 2011 on Mokorin Music as MM-001.
 

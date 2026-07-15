@@ -69,8 +69,8 @@ An explosive pianist, a roaring horn. The mad rush of movement and rare presence
 
 ## Listen to My Blues by Wataru Hamasaki &amp; Akane Matsumoto
 
--   [Wataru Hamasaki](/tags/wataru-hamasaki) - saxophone
--   [Akane Matsumoto](/tags/akane-matsumoto) - piano
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - saxophone
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
 
 Released in 2025 on Concept Record as CR-21.
 

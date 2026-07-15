@@ -32,14 +32,14 @@ While maintaining the calm atmosphere, three songs also feature Sakai singing wi
 
 ## The Island by Layla Tomomi Sakai
 
--   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar (#1, 3, 4, 5, 6)
--   [Ryuichi Takase](/tags/ryuichi-takase) - trumpet (#1, 4)
--   [Toshio Miki](/tags/toshio-miki) - sax (#3, 5)
--   [Masaru Okuyama](/tags/masaru-okuyama) - piano (#1, 3, 4)
--   [Satoshi Ishikawa](/tags/satoshi-ishikawa) - drums (#1, 3, 4)
--   [Matsumonica](/tags/matsumonica) - harmonica (from Momijin) (#2)
--   [Norihito Nagasawa](/tags/norihito-nagasawa) - guitar (from Momijin) (#2)
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar (#1, 3, 4, 5, 6)
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet (#1, 4)
+-   [Toshio Miki](/tags/toshio-miki/) - sax (#3, 5)
+-   [Masaru Okuyama](/tags/masaru-okuyama/) - piano (#1, 3, 4)
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - drums (#1, 3, 4)
+-   [Matsumonica](/tags/matsumonica/) - harmonica (from Momijin) (#2)
+-   [Norihito Nagasawa](/tags/norihito-nagasawa/) - guitar (from Momijin) (#2)
 
 Released in 2018 on Laydrunker Records as LAYLA-002.
 

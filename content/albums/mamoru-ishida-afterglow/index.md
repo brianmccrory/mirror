@@ -20,7 +20,7 @@ _Afterglow_ is the latest recording from pianist Mamoru Ishida, released in 2023
 
 Ishida’s compositions and playing contain a great balance of tradition and novelty. His style clearly reflects both the influence of and reverence for the great legends of jazz piano, but much like his fondness for wordplay and puns, he adds fine touches and subtle changes to his music to avoid playing simple imitations of jazz in the past. As an example, in several of his tunes, the chord changes or melody turn in slightly unexpected directions, intelligently and not jarringly so, with a catchy exuberance or in graduated shadings.
 
-A quick description of the tracks and album flow includes the patient and thematic #1 “Minor”, the springy joyfulness of #2 “Chatchar”, the serious and touching nature of  #3 “Donfattan” _(a portmanteau of Tokyo jazz bars [Donfan](https://www.jazzofjapan.com/archive/donfan) and Manhattan)_, the pretty and bobbing #4 “Crucian Carp Waltz”, the goofy good-naturedness of #5 “Mr. Airhead”, the start-and-stop dreaminess of #6 “Leo”, the laidback smoky bossa of #7 “Afterglow”, the jazz-standardish purity of #8 “SMNY-EKD”, the curiosity and back-and-forth steps of #9 “Pia-Tamu” _(possibly referring to pianist-Tamura, plus “Ah Um” perhaps)_, and the good old blues groove of #10 “Blues for AH”.
+A quick description of the tracks and album flow includes the patient and thematic #1 “Minor”, the springy joyfulness of #2 “Chatchar”, the serious and touching nature of  #3 “Donfattan” _(a portmanteau of Tokyo jazz bars [Donfan](/donfan/) and Manhattan)_, the pretty and bobbing #4 “Crucian Carp Waltz”, the goofy good-naturedness of #5 “Mr. Airhead”, the start-and-stop dreaminess of #6 “Leo”, the laidback smoky bossa of #7 “Afterglow”, the jazz-standardish purity of #8 “SMNY-EKD”, the curiosity and back-and-forth steps of #9 “Pia-Tamu” _(possibly referring to pianist-Tamura, plus “Ah Um” perhaps)_, and the good old blues groove of #10 “Blues for AH”.
 
 {{< figure src="L1250947x-1200.jpeg" link="L1250947x-1200.jpeg" >}}
 
@@ -90,9 +90,9 @@ This is jazz pianist Mamoru Ishida’s most important priority.
 
 ## Afterglow by Mamoru Ishida
 
--   [Mamoru Ishida](/tags/mamoru-ishida) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
 
 Released in 2023 on Days of Delight as DOD-039.
 

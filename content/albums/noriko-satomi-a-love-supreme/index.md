@@ -38,10 +38,10 @@ Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([Jan
 
 ## A Love Supreme by Noriko Satomi
 
--   [Noriko Satomi](/tags/noriko-satomi) - violin
--   [Masaaki Imaizumi](/tags/masaaki-imaizumi) - piano
--   [Shin Kamimura](/tags/shin-kamimura) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka) - drums
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Masaaki Imaizumi](/tags/masaaki-imaizumi/) - piano
+-   [Shin Kamimura](/tags/shin-kamimura/) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
 
 Released in 2019 on T-Toc Records as TTOC-0032.
 

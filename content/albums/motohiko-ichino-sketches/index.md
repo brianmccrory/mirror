@@ -44,10 +44,10 @@ Motohiko Ichino was born in Kobe. He studied at Berklee College of Music under M
 
 ## Sketches by Motohiko Ichino
 
--   [Motohiko Ichino](/tags/motohiko-ichino) - guitar
--   [Hikaru Toho](/tags/hikaru-toho) - acoustic bass
--   [Shinichiro Kamoto](/tags/shinichiro-kamoto) - drums
--   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor sax (#2, 5, 6, 10)
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Hikaru Toho](/tags/hikaru-toho/) - acoustic bass
+-   [Shinichiro Kamoto](/tags/shinichiro-kamoto/) - drums
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor sax (#2, 5, 6, 10)
 
 Released in 2007 on Ammonite Musique as AM-1001.
 

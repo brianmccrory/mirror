@@ -14,7 +14,7 @@ related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island"]
   relative = true
 +++
 
-Singer Layla Tomomi Sakai’s _Stolen Moments_ is a 27-minute album from 2019, a follow-up to her two previous releases from 2016 and 2018 with a consistently pleasing and familiar core sound. That sound of Sakai, introduced on her debut album _[Whisper Not](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-whisper-not)_, is based on her intimate vocal/guitar/trumpet trio with Yuichiro Hiraoka on guitar and Ryuichi Takase on trumpet. Her second album _[The Island](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island)_ expanded the trio with more accompanying players, a pattern which continues here on _Stolen Moments_ as her guest musicians create forms from duos to sextets on the different songs.
+Singer Layla Tomomi Sakai’s _Stolen Moments_ is a 27-minute album from 2019, a follow-up to her two previous releases from 2016 and 2018 with a consistently pleasing and familiar core sound. That sound of Sakai, introduced on her debut album _[Whisper Not](/layla-tomomi-sakai-whisper-not/)_, is based on her intimate vocal/guitar/trumpet trio with Yuichiro Hiraoka on guitar and Ryuichi Takase on trumpet. Her second album _[The Island](/layla-tomomi-sakai-island/)_ expanded the trio with more accompanying players, a pattern which continues here on _Stolen Moments_ as her guest musicians create forms from duos to sextets on the different songs.
 
 {{< figure src="L1280152x-1200.jpeg" link="L1280152x-1200.jpeg" >}}
 
@@ -33,13 +33,13 @@ The full band sound is balanced with small duo and trio moments such as on the b
 
 ## Stolen Moments by Layla Tomomi Sakai
 
--   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai) - vocal
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka) - guitar
--   [Ryuichi Takase](/tags/ryuichi-takase) - trumpet
--   [Hideaki Nakaji](/tags/hideaki-nakaji) - trombone
--   [Heitetsu Rin](/tags/heitetsu-rin) - piano
--   [Keisuke Furuki](/tags/keisuke-furuki) - bass
--   [Ryo Saito](/tags/ryo-saito) - drums
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet
+-   [Hideaki Nakaji](/tags/hideaki-nakaji/) - trombone
+-   [Heitetsu Rin](/tags/heitetsu-rin/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Ryo Saito](/tags/ryo-saito/) - drums
 
 Released in 2019 on Laydrunker Records as Layla-003.
 

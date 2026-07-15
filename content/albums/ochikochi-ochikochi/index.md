@@ -20,7 +20,7 @@ _Ochikochi_ is the 2013 album released from a trio of the same name consisting o
 
 _Ochikochi_, the Japanese word used as the band name and album title (オチコチ, _oh-chee-koh-chee_, 遠近), is an uncommon Japanese word that sounds like the more common, everyday word _achikochi_ (あちこち) and shares a similar meaning. Ochikochi is apparently an old literary term with a mimetic repeated rhyming sound that means far and near, here and there, or even past and present. Written in Japanese kanji, the two characters 遠 and 近 literally represent the two distance words “far” and “near”, and together as 遠近 or _ochikochi_ can also contain the nuance of perspective.
 
-At 1:14 runtime, the album _Ochikochi_ includes eight tracks lasting anywhere from six to twelve minutes apiece, long enough for the three musicians to settle into a mood and explore unhurried free improvisation. The songs were recorded by the trio at three different live concerts in 2011, two at [Shinjuku Pit Inn](https://www.jazzofjapan.com/archive/pit-inn/) (February 16 and August 29, 2011) and one at Yokohama Airegin (August 31, 2011).
+At 1:14 runtime, the album _Ochikochi_ includes eight tracks lasting anywhere from six to twelve minutes apiece, long enough for the three musicians to settle into a mood and explore unhurried free improvisation. The songs were recorded by the trio at three different live concerts in 2011, two at [Shinjuku Pit Inn](/pit-inn/) (February 16 and August 29, 2011) and one at Yokohama Airegin (August 31, 2011).
 
 {{< figure src="L1340924x-1200.jpeg" alt="Back cover of Ochikochi by Ochikochi" link="L1340924x-1200.jpeg" >}}
 
@@ -62,9 +62,9 @@ A recording of the distance, far and near (_ochikochi_), that is the musical per
 
 ## Ochikochi by Ochikochi
 
--   [Taiichi Kamimura](/tags/taiichi-kamimura) - tenor and soprano sax
--   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu) - wood bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto) - drums
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor and soprano sax
+-   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu/) - wood bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
 
 Released in 2012 on K’s Project as KP-0001.
 

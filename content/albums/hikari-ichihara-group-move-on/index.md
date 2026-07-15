@@ -32,11 +32,11 @@ Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspirat
 
 ## Move On by Hikari Ichihara Group
 
--   [Hikari Ichihara](/tags/hikari-ichihara) - trumpet, flugelhorn
--   [Ryosuke Asai](/tags/ryosuke-asai) - alto sax
--   [Hideaki Hori](/tags/hideaki-hori) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi) - bass
--   [Masanori Ando](/tags/masanori-ando) - drums
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
 
 Released in 2010 on After Beat as PCCY-30157.
 

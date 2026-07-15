@@ -90,9 +90,9 @@ The reminiscence of a short and simple motif appears several times. From the alb
 
 ## Canvas by FNK
 
--   [Fumie Chiba](/tags/fumie-chiba) - piano
--   [Nao Teraya](/tags/nao-teraya) - guitar
--   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Nao Teraya](/tags/nao-teraya/) - guitar
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
 
 Released in 2022 on Fumie Chiba as UR-003.
 

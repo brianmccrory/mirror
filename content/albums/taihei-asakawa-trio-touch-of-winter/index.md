@@ -30,9 +30,9 @@ This album also includes free moments which leave the musical structure open com
 
 ## Touch of Winter by Taihei Asakawa Trio
 
--   [Taihei Asakawa](/tags/taihei-asakawa) - piano, compositions
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa) - bass
--   [Ryo Noritake](/tags/ryo-noritake) - drums
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, compositions
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
 
 Released in 2013 on D-musica Daiki Musica as DMCD-26.
 

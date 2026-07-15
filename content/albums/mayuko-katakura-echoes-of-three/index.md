@@ -30,9 +30,9 @@ The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping �
 
 ## The Echoes of Three by Mayuko Katakura
 
--   [Mayuko Katakura](/tags/mayuko-katakura) - piano
--   [Yasushi Nakamura](/tags/yasushi-nakamura) - bass
--   [Carmen Intorre Jr.](/tags/carmen-intorre-jr) - drums
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Yasushi Nakamura](/tags/yasushi-nakamura/) - bass
+-   [Carmen Intorre Jr.](/tags/carmen-intorre-jr/) - drums
 
 Released in 2015 on 55 Records as JNCJ-5561.
 

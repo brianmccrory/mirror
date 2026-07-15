@@ -34,9 +34,9 @@ _1st Stage_ features Yukako Yamano on piano along with regular trio members mult
 
 ## 1st Stage by Yukako Yamano
 
--   [Yukako Yamano](/tags/yukako-yamano) - piano
--   [Koichi Osamu](/tags/koichi-osamu) - bass
--   [Manabu Fujii](/tags/manabu-fujii) - drums
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
+-   [Koichi Osamu](/tags/koichi-osamu/) - bass
+-   [Manabu Fujii](/tags/manabu-fujii/) - drums
 
 Released in 2013 on Yukako Yamano as YKRN-0001.
 

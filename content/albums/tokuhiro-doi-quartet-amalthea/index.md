@@ -32,10 +32,10 @@ The woody tone of the clarinet makes the music organic and present, breathy and 
 
 ## Amalthea by Tokuhiro Doi Quartet
 
--   [Tokuhiro Doi](/tags/tokuhiro-doi) - clarinet
--   [Koichi Sato](/tags/koichi-sato) - piano
--   [Yuhei Honkawa](/tags/yuhei-honkawa) - bass
--   [Tomoyuki Konno](/tags/tomoyuki-konno) - drums
+-   [Tokuhiro Doi](/tags/tokuhiro-doi/) - clarinet
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Yuhei Honkawa](/tags/yuhei-honkawa/) - bass
+-   [Tomoyuki Konno](/tags/tomoyuki-konno/) - drums
 
 Released in 2011 on D-musica Daiki Music as DMCD-15.
 

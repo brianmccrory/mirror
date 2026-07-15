@@ -34,7 +34,7 @@ Related to the album title (and perhaps also alluding to Debussy’s classical w
 
 ## Images by Yuya Wakai
 
--   [Yuya Wakai](/tags/yuya-wakai) - piano
+-   [Yuya Wakai](/tags/yuya-wakai/) - piano
 
 Released in 2013 on Mikorin Music as MM-002.
 

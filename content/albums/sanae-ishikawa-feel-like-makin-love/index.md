@@ -38,12 +38,12 @@ This 12-track album is well-rounded and arranged like a live performance, with f
 
 ## Feel Like Makin’ Love by Sanae Ishikawa
 
--   [Sanae Ishikawa](/tags/sanae-ishikawa) - vocal
--   [Shigeo Fukuda](/tags/shigeo-fukuda) - piano, electric piano
--   [Shinji Hashimoto](/tags/shinji-hashimoto) - guitar
--   [Daisuke Toi](/tags/daisuke-toi) - bass
--   [Satoshi Kosugi](/tags/satoshi-kosugi) - bass
--   [Cecil Monroe](/tags/cecil-monroe) - drums
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano, electric piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi/) - bass
+-   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass
+-   [Cecil Monroe](/tags/cecil-monroe/) - drums
 
 Released in 2007 on Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow as MTCJ-1098.
 

@@ -34,12 +34,12 @@ Most songs feature the full group, with songs for two piano trio and one solo pi
 
 ## Beautiful Days by Fumie Chiba
 
--   [Fumie Chiba](/tags/fumie-chiba) - piano
--   [Mitsuru Tanaka](/tags/mitsuru-tanaka) - trumpet, flugelhorn
--   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa) - tenor sax, soprano sax, flute
--   [Aya Kurosawa](/tags/aya-kurosawa) - voice
--   [Koji Tetsui](/tags/koji-tetsui) - bass
--   [Kaoru Suzuki](/tags/kaoru-suzuki) - drums
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, flugelhorn
+-   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax, soprano sax, flute
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
 
 Released in 2017 on USAGI Records as UR-002.
 

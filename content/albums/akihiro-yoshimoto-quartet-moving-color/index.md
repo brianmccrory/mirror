@@ -67,10 +67,10 @@ _Toshihiko Hoshino 星野利彦 / Music Writer_
 
 ## Moving Color by Akihiro Yoshimoto Quartet
 
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto) - saxophone
--   [Aaron Choulai](/tags/aaron-choulai) - piano
--   [Takashi Sugawa](/tags/takashi-sugawa) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka) - drums
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Aaron Choulai](/tags/aaron-choulai/) - piano
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
 
 Released in 2015 on MOR Records as MOR-1001.
 

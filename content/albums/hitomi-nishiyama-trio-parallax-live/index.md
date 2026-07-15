@@ -32,9 +32,9 @@ As complex as the compositions may be, the recorded-live aspect brings tangible 
 
 ## Live by Hitomi Nishiyama Trio “Parallax”
 
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama) - piano
--   [Takuya Sakazaki](/tags/takuya-sakazaki) - bass
--   [Takehiro Shimizu](/tags/takehiro-shimizu) - drums
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Takuya Sakazaki](/tags/takuya-sakazaki/) - bass
+-   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums
 
 Released in 2016 on Meantone Records as MT-007.
 

@@ -87,9 +87,9 @@ I truly hope you enjoy this album, relaxing with time flowing _slowly_.
 
 ## Back in Time to Boston by Yoshiko Saita
 
--   [Yoshiko Saita](/tags/yoshiko-saita) - vocal
--   [Kenny Werner](/tags/kenny-werner) - piano
--   [Grégoire Maret](/tags/gregoire-maret) - harmonica
+-   [Yoshiko Saita](/tags/yoshiko-saita/) - vocal
+-   [Kenny Werner](/tags/kenny-werner/) - piano
+-   [Grégoire Maret](/tags/gregoire-maret/) - harmonica
 
 Released in 2024 on Viva Sounds of DADA as VSDD-004.
 

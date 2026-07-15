@@ -3,10 +3,10 @@ title = "Porto"
 author = ["Brian McCrory"]
 description = "Porto jazz club, located near Nippori station in Tokyo, Japan"
 publishDate = 2023-05-31
-keywords = ["porto"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "porto"
 issue = 172
 [cover]
   image = "L1030703-1024.jpeg"

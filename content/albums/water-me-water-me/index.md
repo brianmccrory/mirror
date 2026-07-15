@@ -32,11 +32,11 @@ Along with jazz swing, the album also features bossa on “The Girl From Ipanema
 
 ## Water Me! by Water Me!
 
--   [Ayako Taira](/tags/ayako-taira) - vocal
--   [Noriko Kotani](/tags/noriko-kotani) - vocal
--   [Norihiko Kawakubo](/tags/norihiko-kawakubo) - piano
--   [Yohei Tanaka](/tags/yohei-tanaka) - bass
--   [Tomohiro Ota](/tags/tomohiro-ota) - drums
+-   [Ayako Taira](/tags/ayako-taira/) - vocal
+-   [Noriko Kotani](/tags/noriko-kotani/) - vocal
+-   [Norihiko Kawakubo](/tags/norihiko-kawakubo/) - piano
+-   [Yohei Tanaka](/tags/yohei-tanaka/) - bass
+-   [Tomohiro Ota](/tags/tomohiro-ota/) - drums
 
 Released in 2014 on Sunmoon Music as SMCD-0005.
 

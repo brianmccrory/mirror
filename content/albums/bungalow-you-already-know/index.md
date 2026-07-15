@@ -26,10 +26,10 @@ _You Already Know_ is part of the band’s series of adventurous and atmospheric
 
 ## You Already Know by Bungalow
 
--   [Mike Rivett](/tags/mike-rivett) - Tenor Sax, Electronics
--   [Koichi Sato](/tags/koichi-sato) - Piano, Fender Rhodes
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri) - Acoustic Bass, Ukelele Bass
--   [Ko Omura](/tags/ko-omura) - Drums, Tabla
+-   [Mike Rivett](/tags/mike-rivett/) - Tenor Sax, Electronics
+-   [Koichi Sato](/tags/koichi-sato/) - Piano, Fender Rhodes
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - Acoustic Bass, Ukelele Bass
+-   [Ko Omura](/tags/ko-omura/) - Drums, Tabla
 
 Released in 2017 on Studio Songs as YZSO-10075.
 

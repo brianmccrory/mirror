@@ -32,9 +32,9 @@ The album has six standards including Thelonious Monk’s “Four In One” and 
 
 ## You’ve Changed by Hara Dairiki Trio
 
--   [Dairiki Hara](/tags/dairiki-hara) - drums
--   [Atsushi Ikeda](/tags/atsushi-ikeda) - alto sax
--   [Yasushi Yoneki](/tags/yasushi-yoneki) - bass
+-   [Dairiki Hara](/tags/dairiki-hara/) - drums
+-   [Atsushi Ikeda](/tags/atsushi-ikeda/) - alto sax
+-   [Yasushi Yoneki](/tags/yasushi-yoneki/) - bass
 
 Released in 2009 on Anturtle Tune as ANTX-4004.
 

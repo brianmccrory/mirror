@@ -3,10 +3,10 @@ title = "Oto-ya Hiroo"
 author = ["Brian McCrory"]
 description = "Oto-ya Hiroo concert space, located near Hiroo station in Tokyo, Japan"
 publishDate = 2025-04-30
-keywords = ["oto-ya-hiroo"]
 tags = [""]
 categories = ["extra"]
 draft = false
+slug = "oto-ya-hiroo"
 issue = 306
 [cover]
   image = "L1270548x-1200.jpeg"

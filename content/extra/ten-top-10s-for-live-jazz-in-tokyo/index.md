@@ -1,6 +1,7 @@
 +++
 title = "Ten Top 10s for Live Jazz in Tokyo"
 author = ["Brian McCrory"]
+description = "“Top 10” lists of the best jazz clubs, bars, and venues for live music around Tokyo"
 publishDate = 2024-12-04
 tags = [""]
 categories = ["extra"]
@@ -15,8 +16,6 @@ issue = 280
 +++
 
 _“I’m going to be in Tokyo for a few days and want to catch some live jazz… where should I go? Let me know the best places for live jazz…”_
-
-{{< figure src="L1080141-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>A cocktail at Yoyogi Naru jazz bar in Tokyo" link="L1080141-1200.jpeg" >}}
 
 _“Sure! Here are the Top 10 best jazz clubs, bars, and venues for live music around Tokyo, with links to homepages, maps, and articles.” If only it were that simple…_
 
@@ -248,6 +247,8 @@ The **Saitama** area covers a wide territory and is generally to the north of To
 Most of the places in **Lists #9** and **10** can be conveniently reached by trains from major Tokyo stations, taking about an hour or more each way. Day trips from Tokyo are also possible for most of these spots, but careful checking of club and train schedules is recommended, especially for nighttime shows. When considering late returns to Tokyo from farther distances such as Kamakura, it may be better to visit jazz clubs at night while staying nearby.
 
 ---
+
+{{< figure src="L1080141-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>A cocktail at Yoyogi Naru jazz bar in Tokyo" link="L1080141-1200.jpeg" >}}
 
 
 ### A Typical “Top 10” List

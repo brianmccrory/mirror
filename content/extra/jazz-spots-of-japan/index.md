@@ -1,6 +1,7 @@
 +++
 title = "Jazz Spots of Japan"
 author = ["Brian McCrory"]
+description = "An overview of three types of jazz spots in Japan"
 publishDate = 2024-02-12
 tags = [""]
 categories = ["extra"]
@@ -16,31 +17,19 @@ issue = 230
 
 This is a brief overview of some of the general types of places that you may find in Japan, to help you learn more about and find the places you may want to visit.
 
-{{< figure src="IMG_20230309_190710881-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>JJ Soul with Mikiko Nagatake, Ryuichi Ishikawa, and Kira Sota at Gate One in 2023" link="IMG_20230309_190710881-1024.jpeg" >}}
-
 
 ## Variations of Jazz Spots
 
 There are many types of jazz spots in Japan. By _jazz spots_, I mean jazz clubs, jazz joints, jazz rooms, jazz spaces, jazz places… basically anywhere that jazz is featured as a draw or essential feature of the establishment.
 
-{{< figure src="IMG_20230225_135643116-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Coffee Bigaku in 2023" link="IMG_20230225_135643116-1024.jpeg" >}}
-
 Some commonly found jazz environments include:
-
-{{< figure src="IMG_20230419_215524270-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Gauche Davinci with Hiyoruki Yokota, Hideaki Hori, Noboru Ando, and Kazuaki Yokoyama at Apple Jump in 2023" link="IMG_20230419_215524270-1024.jpeg" >}}
 
 -   Dimly-lit bars
 -   Bright jazz cafes
 -   Casual hole-in-the-wall joints
-
-{{< figure src="IMG_4345-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazz CDs at Dug in 2007" link="IMG_4345-1024.jpeg" >}}
-
 -   Spacious clubs
 -   Fancy restaurants
 -   Mini-theater listening rooms
-
-{{< figure src="IMG_1153-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>At the Cafe Cotton Club session in 2009" link="IMG_1153-1024.jpeg" >}}
-
 -   Classroom-style sessions
 
 These spots can range from big spacious rooms to tiny neighborhood bars. They can be bright or dark, elegant or dingy, and pretty much everything in between.
@@ -61,6 +50,8 @@ A love for this jazz culture in Japan and the new music that it brings is what m
 At the same time, one challenge here is to resist the urge to supply too much information. Discovering great places on your own, and experiencing the moment of entering a new spot for the first time without knowing exactly what to expect, are part of the fun of your jazz journey. No spoilers, as they say.
 
 So, the goal here is to find a balance of the right level of information to share, to whet the appetite, and to provide useful information, but not in an exhaustively descriptive or overly detailed way.
+
+{{< figure src="IMG_20230309_190710881-1024.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>JJ Soul with Mikiko Nagatake, Ryuichi Ishikawa, and Kira Sota at Gate One in 2023" link="IMG_20230309_190710881-1024.jpeg" >}}
 
 
 ## Finding Jazz Spots
@@ -90,6 +81,8 @@ One problem with online sites is that, once articles are published they can beco
 It can be frustrating to search for a specific location while traveling and be disappointed in the result, or not be able to find the spot at all. Knowing more about the different types of spots, being flexible with your plans with backup options, and being able to search for similar spots nearby can help with these challenges tremendously.
 
 This _Jazz of Japan_ newsletter, in addition to album posts, also introduces jazz spots in Japan.
+
+{{< figure src="IMG_20230225_135643116-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Coffee Bigaku in 2023" link="IMG_20230225_135643116-1024.jpeg" >}}
 
 
 ## Types and Factors for Jazz Spots
@@ -121,6 +114,8 @@ A fourth, fifth, or more types could be imagined, but starting with these three 
 ## Type 1: Live Music
 
 _Jazz club_ is a general term for a place that features musicians playing live music, often on most days of the week. These can also be called _live spots_ or _live houses_. Other terms like _performance venue_, _recital hall_, _concert hall_, and others are also used, but not as widely for jazz spots.
+
+{{< figure src="IMG_20230419_215524270-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Gauche Davinci with Hiyoruki Yokota, Hideaki Hori, Noboru Ando, and Kazuaki Yokoyama at Apple Jump in 2023" link="IMG_20230419_215524270-1024.jpeg" >}}
 
 Most of the interesting places for general jazz listeners fall into this type of jazz spot. Live music is an important, even essential part of the jazz tradition, and the word _live_ itself (rhymes with _five_) is even used as a standalone abbreviation word in Japanese.
 
@@ -160,6 +155,8 @@ The third place is not your workplace, not your home, but your other place. It�
 
 This term has been used more and more in an ever-busier world. As “work-from-home” environments increase and the line between office and home blurs even more, the third place hangout may even become more valuable.
 
+{{< figure src="IMG_4345-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Jazz CDs at Dug in 2007" link="IMG_4345-1024.jpeg" >}}
+
 
 ### Levels of Active Stimulation
 
@@ -183,6 +180,8 @@ These jazz jam spots are superb meeting places for jazz musicians of all stripes
 Depending on the specific session, amateurs of any level and even beginners may be welcome and encouraged to join. Certain other sessions may have a higher bar and be geared toward players with more experience and knowledge of jazz. As many session seekers know, the best way to find out is to first attend a session as a listener, to discover the level of musicians that are participating, and to learn about any particular rules. Even just by sitting and listening at a session, it’s a good bet that someone will strike up a conversation to ask you if you are a musician and if you are going to join the session.
 
 Along with jazz clubs and _kissas_, many places offer jam sessions intermittently on their schedule alongside regular live shows. Some places, “jam session centers”, specialize in hosting sessions and educational workshops rather than live shows. One of the best-known spots in Tokyo for its famous nightly jazz jam sessions is [Intro](/intro/), along with its partner restaurant location [Cafe Cotton Club](/cafe-cotton-club/) (with sessions on Fridays) right across the street.
+
+{{< figure src="IMG_1153-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>At the Cafe Cotton Club session in 2009" link="IMG_1153-1024.jpeg" >}}
 
 
 ## To Be Continued…

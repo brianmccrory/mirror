@@ -15,50 +15,29 @@ issue = 331
   relative = true
 +++
 
-{{< figure src="IMG_20230315_135350313-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Sign for Tokyo Club written as 東京倶楽部" link="IMG_20230315_135350313-1200.jpeg" >}}
-
-
 ## Introduction
 
 There are some common impressions of hurdles that newcomers need to overcome with live jazz performances, and challenges with jazz in general for beginners. Jazz bars and clubs can seem hard to enter, especially on your own, and for the first time. What is the payment system? What music, and from which albums, is being played? Is it written down music, pure improvisation, noise? What’s a performance versus a jam session? When do I clap?
 
-{{< figure src="IMG_0438-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Sometime jazz club money" link="IMG_0438-1200.jpeg" >}}
-
 This article is aimed to help first timers navigate the world of jazz spots in Japan, with Tokyo as a base example. I hope it is also interesting for anyone who wants to know more about what it’s like to be experience live jazz music in Japan.
-
-{{< figure src="IMG_00001495-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Sign at Salt Peanuts in 2014 showing opening times (early Sunday hours of 6:00pm to 8:30pm), musicians (Nomoto Harumi Live Trio+1), live charge (1500 yen), table charge (500 yen), drink prices (500 yen and up), and minimum charge of 2500 yen (live charge + table charge + drink orders)" link="IMG_00001495-1200.jpeg" >}}
 
 The topics in this article include glossaries of useful terms used in the Japanese jazz universe, what preparations to make and know about before going, and what happens at the venues. Finally, the last section of this article presents a descriptive example in narrative form of what it is like to go to a jazz club in Japan for the first time.
 
 ---
-
-{{< figure src="IMG_0635-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>A lineup of Scotch bottles" link="IMG_0635-1200.jpeg" >}}
-
-{{< figure src="IMG_20140629_190626x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Arriving at Salt Peanuts" link="IMG_20140629_190626x-1200.jpeg" >}}
 
 
 ## Basic Lingo
 
 For some helpful terms that appear in Japanese jazz, here is a brief list of common words and phrases. Japanese translations are included to help when searching for or looking at venue websites and online information.
 
-{{< figure src="L1110125-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Entering Salt Peanuts" link="L1110125-1200.jpeg" >}}
-
 **Useful Terms:**
-
-{{< figure src="L1090278-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Stage area at Salt Peanuts" link="L1090278-1200.jpeg" >}}
 
 -   **Jazz**: ジャズ (_jazu_)
 -   **Musician**: ミュージシャン (_myūjishan_)
 -   **J Jazz**: J・ジャズ (_j jazu_) Japanese jazz: [What’s J Jazz?](/whats-j-jazz/)
-
-{{< figure src="IMG_20181206_201024241-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Snacks at Salt Peanuts" link="IMG_20181206_201024241-1200.jpeg" >}}
-
 -   **Live**: ライブ (_raibu_) or ライヴ (_raivu_) Live music, often shortened to just “live” in Japan. Live performance concerts and events.
 -   **Stage**: ステージ (_sutēji_) A set, as in “1st stage” and “2nd stage” used to show the starting times for each set
 -   **Leader live**: リーダーライブ (_rīdā raibu_) A performance with the specified musician as the leader, the main artist, the key musician, or the star for the night’s event. Jazz musicians often perform with many groups concurrently, in many group formats such as duos and trios, and can be  side-musicians or co-stars just as often as leaders. Using the term **leader live** for certain concerts highlights their main, signature performances as recommended and helps to elevate the visibility of those events.
-
-{{< figure src="IMG_20181209_201859627-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Catching a live performance at Salt Peanuts" link="IMG_20181209_201859627-1200.jpeg" >}}
-
 -   **Jam session**: ジャムセッション (_jamu sesshon_) A relaxed gathering of community musicians made up of amateurs, students, and professional musicians who gather together to practice jazz songs and improvisation using common jazz standards. Informal but organized. Also called jazz session. ジャズセッション (_jazu sesshon_).
 -   **Session**: セッション (_sesshon_) Usually means jam session, but sometimes used for an informal jazz performance centered around a leader or theme.
 -   **Vocal session**: ボーカルセッション (_bōkaru sesshon_) A jam session that is oriented for singers to join, as opposed to a jam session primarily for non-vocal instrumentalists.
@@ -67,6 +46,8 @@ For some helpful terms that appear in Japanese jazz, here is a brief list of com
 -   **Regular customer:** 常連﻿ (_jōren_) or 常連客﻿ (_jōrenkyaku_) or 常連さん﻿ (_jōrensan_) A regular customer at a certain venue, someone who is recognized for going there frequently.
 
 ---
+
+{{< figure src="IMG_20230315_135350313-1200.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Sign for Tokyo Club written as 東京倶楽部" link="IMG_20230315_135350313-1200.jpeg" >}}
 
 
 ## About the Venues
@@ -137,6 +118,8 @@ The second line shows that for daytime performances (昼の部) on weekends and 
 
 ---
 
+{{< figure src="IMG_0438-1200.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Sometime jazz club money" link="IMG_0438-1200.jpeg" >}}
+
 
 ### Understanding the Costs
 
@@ -162,6 +145,8 @@ This amount of detail regarding the various costs seems like a lot to understand
 
 ---
 
+{{< figure src="IMG_00001495-1200.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Sign at Salt Peanuts in 2014 showing opening times (early Sunday hours of 6:00pm to 8:30pm), musicians (Nomoto Harumi Live Trio+1), live charge (1500 yen), table charge (500 yen), drink prices (500 yen and up), and minimum charge of 2500 yen (live charge + table charge + drink orders)" link="IMG_00001495-1200.jpeg" >}}
+
 
 ### What is the Music Charge?
 
@@ -182,6 +167,8 @@ This term can be confusing when appearing just as **MC** and alongside other fee
 > -   There is a 10% consumption tax and 10% service charge.
 
 ---
+
+{{< figure src="IMG_0635-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>A lineup of Scotch bottles" link="IMG_0635-1200.jpeg" >}}
 
 
 ### What is the Service Charge?
@@ -230,6 +217,8 @@ Also keep in mind that many jazz spots in Japan are pretty tiny, and sharing a t
 
 ---
 
+{{< figure src="IMG_20140629_190626x-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Arriving at Salt Peanuts" link="IMG_20140629_190626x-1200.jpeg" >}}
+
 
 ### Snacks, Bar Food, and Dinner
 
@@ -273,6 +262,8 @@ These days, the rules and changes and the atmosphere has cleaned up a lot — as
 
 ---
 
+{{< figure src="L1110125-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Entering Salt Peanuts" link="L1110125-1200.jpeg" >}}
+
 
 ### Going Alone
 
@@ -312,6 +303,8 @@ Of course, Japan is a busy place where working overtime is common, which may cau
 Having said that, there are some places that are so small that arriving, leaving, or going to the restroom during a performance basically requires walking through the stage area, and the musicians may have to physically move or reposition their instruments to allow customers to pass. (Asagaya’s [Manhattan](/manhattan/) [[_web_](http://www.ateliermw.com/manhattan/), [_map_](https://maps.app.goo.gl/UUx8D3GnVAsNAjGEA)] and Kita-Senju’s [Birdland](/birdland/) [[_web_](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html), [_map_](https://goo.gl/maps/drgMW2AnAsXY1U3Z6)], for example). At these places, customers will usually try to time their entrance or exit to take place between songs, at least, for a minimum of disruption.)
 
 ---
+
+{{< figure src="L1090278-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Stage area at Salt Peanuts" link="L1090278-1200.jpeg" >}}
 
 
 ### Audience Replacement
@@ -369,6 +362,8 @@ Lastly, taking **videos** and **audio recordings** is almost never allowed, unle
 
 ---
 
+{{< figure src="IMG_20181206_201024241-1200.jpeg" caption="<span class=\"figure-number\">Figure 8: </span>Snacks at Salt Peanuts" link="IMG_20181206_201024241-1200.jpeg" >}}
+
 
 ### Tipping
 
@@ -397,6 +392,8 @@ Many jazz bars will continue to play background music and sell drinks for a whil
 This post-concert time is also an opportunity for customers to buy any CDs that the musicians brought to sell and sign. Sometimes, customers will also take photos of the musicians together on stage, or even join them for a photo together and for some brief conversation. The musicians may also have brought fliers and printed-out schedules to distribute during the intermission and after the gig.
 
 ---
+
+{{< figure src="IMG_20181209_201859627-1200.jpeg" caption="<span class=\"figure-number\">Figure 9: </span>Catching a live performance at Salt Peanuts" link="IMG_20181209_201859627-1200.jpeg" >}}
 
 
 ## A Typical Scenario: First Time at Salt Peanuts

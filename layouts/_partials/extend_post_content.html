@@ -13,7 +13,7 @@
 {{- end }}
 <h2><em>{{ $album }}</em>{{ with $artist }} by {{ . }}{{ end }}</h2>
 <ul>
-{{- range .Params.lineup }}
+{{- range .Params.credits }}
 <li><a href="/tags/{{ .slug }}/">{{ .name }}</a> - {{ .instrument }}</li>
 {{- if .japanese }}
 {{ $japanese = $japanese | append .japanese }}

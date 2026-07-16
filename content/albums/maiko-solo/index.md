@@ -6,7 +6,15 @@ tags = ["maiko", "マイコ"]
 categories = ["albums"]
 draft = false
 slug = "maiko-solo"
+releaseYear = 2018
+releaseLabel = "T-Toc Records"
+releaseCode = "TTOC-0029"
 issue = 107
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin"
+  japanese = "マイコ maiko"
 [cover]
   image = "maiko-solo-460.jpeg"
   alt = "Cover art of Solo by Maiko"
@@ -28,15 +36,6 @@ Standard jazz is delivered through covers with a swing beat such as “I’ve Ne
 {{< figure src="L1220352-1024.jpg" link="L1220352-1024.jpg" >}}
 
 {{< figure src="L1220356-1024.jpg" link="L1220356-1024.jpg" >}}
-
-
-## Solo by Maiko
-
--   [maiko](/tags/maiko/) - violin
-
-Released in 2018 on T-Toc Records as TTOC-0029.
-
-_Japanese names: マイコ maiko_
 
 
 ## Audio and Video

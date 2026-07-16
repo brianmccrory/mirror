@@ -6,7 +6,35 @@ tags = ["Masako Kunisada", "国貞雅子", "Shigeru Morishita", "森下滋", "Ry
 categories = ["albums"]
 draft = false
 slug = "masako-kunisada-wonderful-life"
+releaseYear = 2012
+releaseLabel = "Urban Jazz"
+releaseCode = "151A-0005"
 issue = 122
+[[lineup]]
+  name = "Masako Kunisada"
+  slug = "masako-kunisada"
+  instrument = "vocal"
+  japanese = "国貞雅子 Kunisada Masako"
+[[lineup]]
+  name = "Shigeru Morishita"
+  slug = "shigeru-morishita"
+  instrument = "piano, Rhodes piano, Hammond organ (#1-6, 8-12)"
+  japanese = "森下滋 Morishita Shigeru"
+[[lineup]]
+  name = "Ryo Ogihara"
+  slug = "ryo-ogihara"
+  instrument = "electric guitar (#1-3, 7, 10)"
+  japanese = "荻原亮 Ogihara Ryo"
+[[lineup]]
+  name = "Shinichi Sato"
+  slug = "shinichi-sato"
+  instrument = "acoustic bass, electric bass"
+  japanese = "佐藤慎一 Sato Shinichi"
+[[lineup]]
+  name = "Manabu Fujii"
+  slug = "manabu-fujii"
+  instrument = "drums (tr. 1-6, 8-11)"
+  japanese = "藤井学 Fujii Manabu"
 [cover]
   image = "masakokunisada-wonderful-460.jpeg"
   alt = "Cover art of Wonderful Life by Masako Kunisada"
@@ -36,19 +64,6 @@ Closing the album is the singer’s second original tune on this album, “I’m
 Altogether this accessible album emits good vibrations and positive energy, shining like a warm light from Masako Kunisada’s tangibly captivating vocals.
 
 {{< figure src="L1200968-1024.jpg" link="L1200968-1024.jpg" >}}
-
-
-## Wonderful Life by Masako Kunisada
-
--   [Masako Kunisada](/tags/masako-kunisada/) - vocal
--   [Shigeru Morishita](/tags/shigeru-morishita/) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
--   [Ryo Ogihara](/tags/ryo-ogihara/) - electric guitar (#1-3, 7, 10)
--   [Shinichi Sato](/tags/shinichi-sato/) - acoustic bass, electric bass
--   [Manabu Fujii](/tags/manabu-fujii/) - drums (tr. 1-6, 8-11)
-
-Released in 2012 on Urban Jazz as 151A-0005.
-
-_Japanese names: 国貞雅子 Kunisada Masako 森下滋 Morishita Shigeru 荻原亮 Ogihara Ryo 佐藤慎一 Sato Shinichi 藤井学 Fujii Manabu_
 
 
 ## Audio and Video

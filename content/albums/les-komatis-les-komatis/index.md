@@ -6,7 +6,30 @@ tags = ["Nobie", "ノビー", "Akemi Ohta", "太田朱美", "Mayuko Katakura", "
 categories = ["albums"]
 draft = false
 slug = "les-komatis-les-komatis"
+releaseYear = 2015
+releaseLabel = "F.S.L"
+releaseCode = "FSCJ-0007"
 issue = 35
+[[lineup]]
+  name = "Nobie"
+  slug = "nobie"
+  instrument = "vocal, voice, percussion"
+  japanese = "ノビー Nobie"
+[[lineup]]
+  name = "Akemi Ohta"
+  slug = "akemi-ohta"
+  instrument = "flute, alto flute, percussion, chorus"
+  japanese = "太田朱美 Ohta Akemi"
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano, Rhodes piano, chorus"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Nobumasa Yamada"
+  slug = "nobumasa-yamada"
+  instrument = "percussion"
+  japanese = "山田ノブマサ Yamada Nobumasa"
 [cover]
   image = "leskomatis-leskomatis-460.jpeg"
   alt = "Cover art of Les Komatis by Les Komatis"
@@ -30,18 +53,6 @@ Les Komatis balances jazz, pop, and Latin with the album’s originals, comforta
 {{< figure src="L1180826-1024.jpg" link="L1180826-1024.jpg" >}}
 
 {{< figure src="IMG_20140811_213350_003-1024.jpg" link="IMG_20140811_213350_003-1024.jpg" >}}
-
-
-## Les Komatis by Les Komatis
-
--   [Nobie](/tags/nobie/) - vocal, voice, percussion
--   [Akemi Ohta](/tags/akemi-ohta/) - flute, alto flute, percussion, chorus
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano, Rhodes piano, chorus
--   [Nobumasa Yamada](/tags/nobumasa-yamada/) - percussion
-
-Released in 2015 on F.S.L as FSCJ-0007.
-
-_Japanese names: ノビー Nobie 太田朱美 Ohta Akemi 片倉真由子 Katakura Mayuko 山田ノブマサ Yamada Nobumasa_
 
 
 ## Audio and Video

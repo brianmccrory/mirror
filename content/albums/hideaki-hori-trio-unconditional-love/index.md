@@ -6,7 +6,25 @@ tags = ["Hideaki Hori", "堀秀彰", "Yuhei Honkawa", "本川悠平", "Gaku Hase
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-trio-unconditional-love"
+releaseYear = 2014
+releaseLabel = "BQ Records"
+releaseCode = "BQR-2064/2065"
 issue = 52
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Yuhei Honkawa"
+  slug = "yuhei-honkawa"
+  instrument = "bass"
+  japanese = "本川悠平 Honkawa Yuhei"
+[[lineup]]
+  name = "Gaku Hasegawa"
+  slug = "gaku-hasegawa"
+  instrument = "drums"
+  japanese = "長谷川ガク Hasegawa Gaku"
 [cover]
   image = "hideakihori-unconditional-460.jpeg"
   alt = "Cover art of Unconditional Love by Hideaki Hori Trio"
@@ -28,17 +46,6 @@ The twelve songs include four originals by Hori (the funky “The Shell” and h
 {{< figure src="L1210527-1024.jpg" link="L1210527-1024.jpg" >}}
 
 {{< figure src="hideakihori-liveatnardis-live-1024.jpeg" link="hideakihori-liveatnardis-live-1024.jpeg" >}}
-
-
-## Unconditional Love by Hideaki Hori Trio
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Yuhei Honkawa](/tags/yuhei-honkawa/) - bass
--   [Gaku Hasegawa](/tags/gaku-hasegawa/) - drums
-
-Released in 2014 on BQ Records as BQR-2064/2065.
-
-_Japanese names: 堀秀彰 Hori Hideaki 本川悠平 Honkawa Yuhei 長谷川ガク Hasegawa Gaku_
 
 
 ## Audio and Video

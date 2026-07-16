@@ -6,7 +6,30 @@ tags = ["Tokuhiro Doi", "土井徳浩", "Koichi Sato", "佐藤浩一", "Yuhei Ho
 categories = ["albums"]
 draft = false
 slug = "tokuhiro-doi-quartet-amalthea"
+releaseYear = 2011
+releaseLabel = "D-musica Daiki Music"
+releaseCode = "DMCD-15"
 issue = 65
+[[lineup]]
+  name = "Tokuhiro Doi"
+  slug = "tokuhiro-doi"
+  instrument = "clarinet"
+  japanese = "土井徳浩 Doi Tokuhiro"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Yuhei Honkawa"
+  slug = "yuhei-honkawa"
+  instrument = "bass"
+  japanese = "本川悠平 Honkawa Yuhei"
+[[lineup]]
+  name = "Tomoyuki Konno"
+  slug = "tomoyuki-konno"
+  instrument = "drums"
+  japanese = "紺野智之 Konno Tomoyuki"
 [cover]
   image = "tokuhirodoi-amalthea-460.jpeg"
   alt = "Cover art of Amalthea by Tokuhiro Doi Quartet"
@@ -28,18 +51,6 @@ The woody tone of the clarinet makes the music organic and present, breathy and 
 {{< figure src="L1200335-1024.jpg" link="L1200335-1024.jpg" >}}
 
 {{< figure src="L1200336-1024.jpg" link="L1200336-1024.jpg" >}}
-
-
-## Amalthea by Tokuhiro Doi Quartet
-
--   [Tokuhiro Doi](/tags/tokuhiro-doi/) - clarinet
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Yuhei Honkawa](/tags/yuhei-honkawa/) - bass
--   [Tomoyuki Konno](/tags/tomoyuki-konno/) - drums
-
-Released in 2011 on D-musica Daiki Music as DMCD-15.
-
-_Japanese names: 土井徳浩 Doi Tokuhiro 佐藤浩一 Sato Koichi 本川悠平 Honkawa Yuhei 紺野智之 Konno Tomoyuki_
 
 
 ## Audio and Video

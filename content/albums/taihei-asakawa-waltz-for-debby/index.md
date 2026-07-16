@@ -6,7 +6,15 @@ tags = ["Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 slug = "taihei-asakawa-waltz-for-debby"
+releaseYear = 2018
+releaseLabel = "Cortez Sound"
+releaseCode = "CSJ0008"
 issue = 63
+[[lineup]]
+  name = "Taihei Asakawa"
+  slug = "taihei-asakawa"
+  instrument = "piano"
+  japanese = "浅川太平 Asakawa Taihei"
 [cover]
   image = "taiheiasakawa-waltz-460.jpeg"
   alt = "Cover art of Waltz for Debby by Taihei Asakawa"
@@ -28,15 +36,6 @@ Disc two continues in this vein and adds variation with several brighter mid- an
 {{< figure src="L1220060-1024.jpg" link="L1220060-1024.jpg" >}}
 
 {{< figure src="L1220071-1024.jpg" link="L1220071-1024.jpg" >}}
-
-
-## Waltz for Debby by Taihei Asakawa
-
--   [Taihei Asakawa](/tags/taihei-asakawa/) - piano
-
-Released in 2018 on Cortez Sound as CSJ0008.
-
-_Japanese names: 浅川太平 Asakawa Taihei_
 
 
 ## Audio and Video

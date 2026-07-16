@@ -6,7 +6,20 @@ tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false
 slug = "shigeo-fukuda-and-toshiki-nunokawa"
+releaseYear = 2011
+releaseLabel = "BQ Records"
+releaseCode = "BQR-2053"
 issue = 141
+[[lineup]]
+  name = "Shigeo Fukuda"
+  slug = "shigeo-fukuda"
+  instrument = "piano"
+  japanese = "福田重男 Fukuda Shigeo"
+[[lineup]]
+  name = "Toshiki Nunokawa"
+  slug = "toshiki-nunokawa"
+  instrument = "guitar"
+  japanese = "布川俊樹 Nunokawa Toshiki"
 [cover]
   image = "fukuda-nunokawa-childhood-460.jpeg"
   alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"
@@ -26,16 +39,6 @@ While it can be said that Fukuda plays masterly jazz piano in a very piano-like 
 {{< figure src="L1200428-1024.jpg" link="L1200428-1024.jpg" >}}
 
 {{< figure src="L1200435-1024.jpg" link="L1200435-1024.jpg" >}}
-
-
-## Childhood’s Dream by Shigeo Fukuda &amp; Toshiki Nunokawa
-
--   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano
--   [Toshiki Nunokawa](/tags/toshiki-nunokawa/) - guitar
-
-Released in 2011 on BQ Records as BQR-2053.
-
-_Japanese names: 福田重男 Fukuda Shigeo 布川俊樹 Nunokawa Toshiki_
 
 
 ## Audio and Video

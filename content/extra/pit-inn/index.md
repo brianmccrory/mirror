@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "pit-inn"
+clubName = "Pit Inn"
+clubUrl = "http://www.pit-inn.com/"
+clubCity = "Tokyo"
+clubStation1 = "Shinjuku-sanchome"
+clubMap = "https://maps.app.goo.gl/B7t44H9dhWCd2ekH6"
 issue = 221
 [cover]
   image = "P1040469-1024.jpeg"
@@ -56,12 +61,6 @@ Some great souvenirs are also on sale: key chains, card cases, t-shirts, CDs, an
 In a corner near the restroom area, Pit Inn also stores racks of pamphlets and information for local jazz musicians. There may also be some printed schedules and flyers for other jazz bars in Tokyo. While these may be challenging for non-Japanese speakers to decode, those who are seeking out local jazz clubs and musicians will find this a great way to collect more information to make the most of your Japanese jazz tour.
 
 {{< figure src="IMG_1758-1024.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Welcome to Pit Inn" link="IMG_1758-1024.jpeg" >}}
-
-
-## Information
-
--   [Pit Inn’s website](http://www.pit-inn.com/)
--   [Located near Shinjuku-sanchome station in Tokyo, Japan](https://maps.app.goo.gl/B7t44H9dhWCd2ekH6)
 
 
 ## Links

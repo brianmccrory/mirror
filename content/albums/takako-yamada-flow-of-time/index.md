@@ -6,7 +6,39 @@ tags = ["Takako Yamada", "山田貴子", "Shinpei Ruike", "類家心平", "Teriv
 categories = ["albums"]
 draft = false
 slug = "takako-yamada-flow-of-time"
+releaseYear = 2013
+releaseLabel = "GoodNessPlus Records"
+releaseCode = "GNPR-1146"
 issue = 48
+[[lineup]]
+  name = "Takako Yamada"
+  slug = "takako-yamada"
+  instrument = "piano"
+  japanese = "山田貴子 Yamada Takako"
+[[lineup]]
+  name = "Shinpei Ruike"
+  slug = "shinpei-ruike"
+  instrument = "trumpet"
+  japanese = "類家心平 Ruike Shinpei"
+[[lineup]]
+  name = "Teriver Cheung"
+  slug = "teriver-cheung"
+  instrument = "guitar"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Gaku Hasegawa"
+  slug = "gaku-hasegawa"
+  instrument = "drums"
+  japanese = "長谷川ガク Hasegawa Gaku"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "tabla, drums"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "takakoyamada-flow-460.jpeg"
   alt = "Cover art of The Flow of Time by Takako Yamada"
@@ -28,20 +60,6 @@ For added variety, a wonderfully plaintive trumpet is present on several tracks 
 {{< figure src="L1200232-1024.jpg" link="L1200232-1024.jpg" >}}
 
 {{< figure src="L1110574-1024.jpg" link="L1110574-1024.jpg" >}}
-
-
-## The Flow of Time by Takako Yamada
-
--   [Takako Yamada](/tags/takako-yamada/) - piano
--   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
--   [Teriver Cheung](/tags/teriver-cheung/) - guitar
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Gaku Hasegawa](/tags/gaku-hasegawa/) - drums
--   [Ko Omura](/tags/ko-omura/) - tabla, drums
-
-Released in 2013 on GoodNessPlus Records as GNPR-1146.
-
-_Japanese names: 山田貴子 Yamada Takako 類家心平 Ruike Shinpei 安田幸司 Yasuda Koji 長谷川ガク Hasegawa Gaku 大村亘 Omura Ko_
 
 
 ## Audio and Video

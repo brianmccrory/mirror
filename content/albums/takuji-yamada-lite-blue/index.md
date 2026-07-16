@@ -6,7 +6,32 @@ tags = ["Takuji Yamada", "山田拓児", "Danny Grissett", "Daisuke Abe", "阿�
 categories = ["albums"]
 draft = false
 slug = "takuji-yamada-lite-blue"
+releaseYear = 2012
+releaseLabel = "D-Musica"
+releaseCode = "DMCD-18"
 issue = 18
+[[lineup]]
+  name = "Takuji Yamada"
+  slug = "takuji-yamada"
+  instrument = "alto and soprano saxophones, bass clarinet"
+  japanese = "山田拓児 Yamada Takuji"
+[[lineup]]
+  name = "Danny Grissett"
+  slug = "danny-grissett"
+  instrument = "piano"
+[[lineup]]
+  name = "Daisuke Abe"
+  slug = "daisuke-abe"
+  instrument = "guitar (tr. 3, 5, 6, 8, 9, 10)"
+  japanese = "阿部大輔 Abe Daisuke"
+[[lineup]]
+  name = "Luques Curtis"
+  slug = "luques-curtis"
+  instrument = "bass"
+[[lineup]]
+  name = "Quincy Davis"
+  slug = "quincy-davis"
+  instrument = "drums"
 [cover]
   image = "takujiyamada-liteblue-460.jpeg"
   alt = "Cover art of Lite Blue by Takuji Yamada"
@@ -24,19 +49,6 @@ The track listing consists of 10 songs, mostly originals from Yamada with three 
 {{< figure src="L1180750-1024.jpg" link="L1180750-1024.jpg" >}}
 
 {{< figure src="L1180751-1024.jpg" link="L1180751-1024.jpg" >}}
-
-
-## Lite Blue by Takuji Yamada
-
--   [Takuji Yamada](/tags/takuji-yamada/) - alto and soprano saxophones, bass clarinet
--   [Danny Grissett](/tags/danny-grissett/) - piano
--   [Daisuke Abe](/tags/daisuke-abe/) - guitar (tr. 3, 5, 6, 8, 9, 10)
--   [Luques Curtis](/tags/luques-curtis/) - bass
--   [Quincy Davis](/tags/quincy-davis/) - drums
-
-Released in 2012 on D-Musica as DMCD-18.
-
-_Japanese names: 山田拓児 Yamada Takuji 阿部大輔 Abe Daisuke_
 
 
 ## Audio and Video

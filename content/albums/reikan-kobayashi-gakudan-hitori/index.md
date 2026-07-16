@@ -6,7 +6,15 @@ tags = ["Reikan Kobayashi", "小林鈴勘"]
 categories = ["albums"]
 draft = false
 slug = "reikan-kobayashi-gakudan-hitori"
+releaseYear = 2011
+releaseLabel = "Mokorin Music"
+releaseCode = "MM-001"
 issue = 101
+[[lineup]]
+  name = "Reikan Kobayashi"
+  slug = "reikan-kobayashi"
+  instrument = "Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot"
+  japanese = "小林鈴勘 Kobayashi Reikan"
 [cover]
   image = "reikankobayashi-gakudan-460.jpeg"
   alt = "Cover art of Gakudan Hitori by Reikan Kobayashi"
@@ -28,15 +36,6 @@ Not just a collection of solemn atmospheres, the overall tone leans toward cheer
 {{< figure src="L1200687-1024.jpg" link="L1200687-1024.jpg" >}}
 
 {{< figure src="L1200691-1024.jpg" link="L1200691-1024.jpg" >}}
-
-
-## Gakudan Hitori by Reikan Kobayashi
-
--   [Reikan Kobayashi](/tags/reikan-kobayashi/) - Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot
-
-Released in 2011 on Mokorin Music as MM-001.
-
-_Japanese names: 小林鈴勘 Kobayashi Reikan_
 
 
 ## Audio and Video

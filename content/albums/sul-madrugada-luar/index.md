@@ -6,7 +6,20 @@ tags = ["Sayaka Kishi", "岸淑香", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
 slug = "sul-madrugada-luar"
+releaseYear = 2022
+releaseLabel = "River City Music Entertainment"
+releaseCode = "RRCRK-220101"
 issue = 198
+[[lineup]]
+  name = "Sayaka Kishi"
+  slug = "sayaka-kishi"
+  instrument = "piano, keyboard"
+  japanese = "岸淑香 Kishi Sayaka"
+[[lineup]]
+  name = "Hiroe Kobayashi"
+  slug = "hiroe-kobayashi"
+  instrument = "voice"
+  japanese = "小林宏衣 Kobayashi Hiroe"
 related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
 [cover]
   image = "sul-madrugada-luar-460.jpeg"
@@ -35,16 +48,6 @@ Along with her songwriting, Kishi’s skill at juggling various instruments like
 {{< figure src="IMG_20230411_193756889x-1024.jpeg" link="IMG_20230411_193756889x-1024.jpeg" >}}
 
 {{< figure src="L1230518-1024.jpeg" link="L1230518-1024.jpeg" >}}
-
-
-## Luar by Sul Madrugada
-
--   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, keyboard
--   [Hiroe Kobayashi](/tags/hiroe-kobayashi/) - voice
-
-Released in 2022 on River City Music Entertainment as RRCRK-220101.
-
-_Japanese names: 岸淑香 Kishi Sayaka 小林宏衣 Kobayashi Hiroe_
 
 
 ## Audio and Video

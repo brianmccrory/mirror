@@ -6,7 +6,15 @@ tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
 slug = "yukari-inoue-sakura"
+releaseYear = 2012
+releaseLabel = "Silver Fingers/Roving Spirits"
+releaseCode = "RKCJ-2053"
 issue = 108
+[[lineup]]
+  name = "Yukari Inoue"
+  slug = "yukari-inoue"
+  instrument = "piano"
+  japanese = "井上ゆかり Inoue Yukari"
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
   alt = "Cover art of Sakura by Yukari Inoue"
@@ -28,15 +36,6 @@ Starting with the dramatic opening theme on “Hana”, the album unfolds with s
 Along with standard jazz tunes including “I Got Rhythm”, “La Fiesta”, and “Someday My Prince Will Come”, Inoue also performs her own compositions and well-known classical piano pieces, interpreting each song freely and adding personal touches by switching between jazz, classical, latin, and pop. Her flair for dramatic control is particularly lovely on Jimi Hendrix’s soulful ballad “Little Wing” as well as her “Sakura Waltz”, which closes the album in grand style.
 
 {{< figure src="L1220448-1024.jpg" link="L1220448-1024.jpg" >}}
-
-
-## Sakura by Yukari Inoue
-
--   [Yukari Inoue](/tags/yukari-inoue/) - piano
-
-Released in 2012 on Silver Fingers/Roving Spirits as RKCJ-2053.
-
-_Japanese names: 井上ゆかり Inoue Yukari_
 
 
 ## Audio and Video

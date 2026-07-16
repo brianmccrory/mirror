@@ -6,7 +6,23 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-many-seasons"
+releaseYear = 2007
+releaseLabel = "Spice of Life"
+releaseCode = "SOLJP-0005"
 issue = 14
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Hans Backenroth"
+  slug = "hans-backenroth"
+  instrument = "bass"
+[[lineup]]
+  name = "Anders Kjellberg"
+  slug = "anders-kjellberg"
+  instrument = "drums"
 [cover]
   image = "hitominishiyama-manyseasons-460.jpeg"
   alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
@@ -24,17 +40,6 @@ This album was recorded in Stockholm with two Swedish musicians, befitting the g
 {{< figure src="L1180620-1024.jpg" link="L1180620-1024.jpg" >}}
 
 {{< figure src="L1180628-1024.jpg" link="L1180628-1024.jpg" >}}
-
-
-## Many Seasons by Hitomi Nishiyama Trio
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Hans Backenroth](/tags/hans-backenroth/) - bass
--   [Anders Kjellberg](/tags/anders-kjellberg/) - drums
-
-Released in 2007 on Spice of Life as SOLJP-0005.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi_
 
 
 ## Audio and Video

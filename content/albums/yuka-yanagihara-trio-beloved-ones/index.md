@@ -6,7 +6,25 @@ tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-yanagihara-trio-beloved-ones"
+releaseYear = 2024
+releaseLabel = "Tomtom Cherry Music"
+releaseCode = "TCM-2004"
 issue = 278
+[[lineup]]
+  name = "Yuka Yanagihara"
+  slug = "yuka-yanagihara"
+  instrument = "piano"
+  japanese = "柳原由佳 Yanagihara Yuka"
+[[lineup]]
+  name = "Yoshiki Yamada"
+  slug = "yoshiki-yamada"
+  instrument = "bass"
+  japanese = "山田吉輝 Yamada Yoshiki"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
 related = ["yuka-yanagihara-trio-inner-views"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
@@ -35,17 +53,6 @@ The album starts liltingly with a softly falling “Snowflake” before moving i
 With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing and concepts. There is a feeling of loving-kindness radiating from the title and through the music. Enhancing the calm are the images of nature and natural settings. Peace is brought to life by Yuka Yanagihara’s trio, her music, and song titles, surpassing the limits of language but lifting off from these words: “Snowflake”, “Landscape”, “All the Things You Are”, “Rainy Song”, “Move On”, “Loved One”, “Ripple”, “Surreal Sunset”, “Spring, Blue Sky”. _Beloved Ones_.
 
 {{< figure src="L1250534x-1200.jpeg" link="L1250534x-1200.jpeg" >}}
-
-
-## Beloved Ones by Yuka Yanagihara Trio
-
--   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
--   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
-
-Released in 2024 on Tomtom Cherry Music as TCM-2004.
-
-_Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
 
 
 ## Audio and Video

@@ -6,7 +6,15 @@ tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false
 slug = "yuya-wakai-images"
+releaseYear = 2013
+releaseLabel = "Mikorin Music"
+releaseCode = "MM-002"
 issue = 42
+[[lineup]]
+  name = "Yuya Wakai"
+  slug = "yuya-wakai"
+  instrument = "piano"
+  japanese = "若井優也 Wakai Yuya"
 [cover]
   image = "yuyawakai-images-460.jpeg"
   alt = "Cover art of Images by Yuya Wakai"
@@ -30,15 +38,6 @@ Related to the album title (and perhaps also alluding to Debussy’s classical w
 {{< figure src="L1200178-1024.jpg" link="L1200178-1024.jpg" >}}
 
 {{< figure src="IMG_20150326_125526-002-1024.jpg" link="IMG_20150326_125526-002-1024.jpg" >}}
-
-
-## Images by Yuya Wakai
-
--   [Yuya Wakai](/tags/yuya-wakai/) - piano
-
-Released in 2013 on Mikorin Music as MM-002.
-
-_Japanese names: 若井優也 Wakai Yuya_
 
 
 ## Audio and Video

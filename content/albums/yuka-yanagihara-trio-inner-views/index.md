@@ -6,7 +6,25 @@ tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-yanagihara-trio-inner-views"
+releaseYear = 2019
+releaseLabel = "Tomtom Cherry Music"
+releaseCode = "TCM-2002"
 issue = 223
+[[lineup]]
+  name = "Yuka Yanagihara"
+  slug = "yuka-yanagihara"
+  instrument = "piano"
+  japanese = "柳原由佳 Yanagihara Yuka"
+[[lineup]]
+  name = "Yoshiki Yamada"
+  slug = "yoshiki-yamada"
+  instrument = "bass"
+  japanese = "山田吉輝 Yamada Yoshiki"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
 related = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
@@ -33,17 +51,6 @@ The final song, a solo piano rendition of “Moon Dance” (also played with the
 {{< figure src="L1230236x-1024.jpeg" link="L1230236x-1024.jpeg" >}}
 
 {{< figure src="L1240182x-1024.jpeg" link="L1240182x-1024.jpeg" >}}
-
-
-## Inner Views by Yuka Yanagihara Trio
-
--   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
--   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
-
-Released in 2019 on Tomtom Cherry Music as TCM-2002.
-
-_Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
 
 
 ## Audio and Video

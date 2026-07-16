@@ -6,7 +6,35 @@ tags = ["Sanae Ishikawa", "石川早苗", "Takayoshi Baba", "馬場孝喜", "Hid
 categories = ["albums"]
 draft = false
 slug = "sanae-ishikawa-grown-up-christmas"
+releaseYear = 2018
+releaseLabel = "Sanae Ishikawa Seasonal Japanese Songbook Project"
+releaseCode = "SJSP-002"
 issue = 64
+[[lineup]]
+  name = "Sanae Ishikawa"
+  slug = "sanae-ishikawa"
+  instrument = "vocal"
+  japanese = "石川早苗 Ishikawa Sanae"
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "guitar"
+  japanese = "馬場孝喜 Baba Takayoshi"
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano, keyboard"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums, bell"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 [cover]
   image = "sanaeishikawa-grownup-460.jpeg"
   alt = "Cover art of Grown-up Christmas Gift by Sanae Ishikawa"
@@ -26,19 +54,6 @@ Track two features Ishikawa with “Soft Voice”, a four-part vocal group singi
 {{< figure src="L1220034-1024.jpg" link="L1220034-1024.jpg" >}}
 
 {{< figure src="L1220036-1024.jpg" link="L1220036-1024.jpg" >}}
-
-
-## Grown-up Christmas Gift by Sanae Ishikawa
-
--   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
--   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
--   [Hideaki Hori](/tags/hideaki-hori/) - piano, keyboard
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums, bell
-
-Released in 2018 on Sanae Ishikawa Seasonal Japanese Songbook Project as SJSP-002.
-
-_Japanese names: 石川早苗 Ishikawa Sanae 馬場孝喜 Baba Takayoshi 堀秀彰 Hori Hideaki 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
 
 
 ## Audio and Video

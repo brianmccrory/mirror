@@ -6,7 +6,25 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Nobumasa Tanaka", "田中信正", "
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-uta-oto"
+releaseYear = 2021
+releaseLabel = "Coume Music"
+releaseCode = "CUM-2101"
 issue = 218
+[[lineup]]
+  name = "Miyuki Moriya"
+  slug = "miyuki-moriya"
+  instrument = "saxophone"
+  japanese = "守谷美由貴 Moriya Miyuki"
+[[lineup]]
+  name = "Nobumasa Tanaka"
+  slug = "nobumasa-tanaka"
+  instrument = "piano"
+  japanese = "田中信正 Tanaka Nobumasa"
+[[lineup]]
+  name = "Hiroshi Yoshino"
+  slug = "hiroshi-yoshino"
+  instrument = "bass"
+  japanese = "吉野弘志 Yoshino Hiroshi"
 related = ["miyuki-moriya-cats-cradle"]
 [cover]
   image = "miyuki-moriya-uta-oto-460.jpeg"
@@ -124,17 +142,6 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 > Remembering you, so far away
 
 {{< figure src="L1240163x-1024.jpeg" link="L1240163x-1024.jpeg" >}}
-
-
-## Uta Oto by Miyuki Moriya
-
--   [Miyuki Moriya](/tags/miyuki-moriya/) - saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
--   [Hiroshi Yoshino](/tags/hiroshi-yoshino/) - bass
-
-Released in 2021 on Coume Music as CUM-2101.
-
-_Japanese names: 守谷美由貴 Moriya Miyuki 田中信正 Tanaka Nobumasa 吉野弘志 Yoshino Hiroshi_
 
 
 ## Audio and Video

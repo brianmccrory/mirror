@@ -6,7 +6,25 @@ tags = ["Minoru Yoshiki", "吉木稔", "Osamu Soda", "祖田修", "Shuji Morita"
 categories = ["albums"]
 draft = false
 slug = "minoru-yoshiki-soulstation-path-of-hope"
+releaseYear = 2019
+releaseLabel = "Urban Jazz"
+releaseCode = "Path of Hope"
 issue = 82
+[[lineup]]
+  name = "Minoru Yoshiki"
+  slug = "minoru-yoshiki"
+  instrument = "contrabass"
+  japanese = "吉木稔 Yoshiki Minoru"
+[[lineup]]
+  name = "Osamu Soda"
+  slug = "osamu-soda"
+  instrument = "piano"
+  japanese = "祖田修 Soda Osamu"
+[[lineup]]
+  name = "Shuji Morita"
+  slug = "shuji-morita"
+  instrument = "tenor sax"
+  japanese = "森田修史 Morita Shuji"
 [cover]
   image = "minoruyoshiki-soulstation-path-460.jpeg"
   alt = "Cover art of Path of Hope by Minoru Yoshiki Soulstation"
@@ -36,17 +54,6 @@ issue = 82
 > June 2019 (Reiwa 1)
 
 {{< figure src="cdjkt02-1024.jpg" link="cdjkt02-1024.jpg" >}}
-
-
-## Path of Hope by Minoru Yoshiki Soulstation
-
--   [Minoru Yoshiki](/tags/minoru-yoshiki/) - contrabass
--   [Osamu Soda](/tags/osamu-soda/) - piano
--   [Shuji Morita](/tags/shuji-morita/) - tenor sax
-
-Released in 2019 on Urban Jazz as Path of Hope.
-
-_Japanese names: 吉木稔 Yoshiki Minoru 祖田修 Soda Osamu 森田修史 Morita Shuji_
 
 
 ## Audio and Video

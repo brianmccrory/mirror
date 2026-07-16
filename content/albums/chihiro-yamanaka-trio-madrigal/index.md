@@ -6,7 +6,27 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-trio-madrigal"
+releaseYear = 2004
+releaseLabel = "Atelier Sawano"
+releaseCode = "AS-038"
 issue = 133
+[[lineup]]
+  name = "Chihiro Yamanaka"
+  slug = "chihiro-yamanaka"
+  instrument = "piano"
+  japanese = "山中千尋 Yamanaka Chihiro"
+[[lineup]]
+  name = "Larry Grenadier"
+  slug = "larry-grenadier"
+  instrument = "bass"
+[[lineup]]
+  name = "Rodney Green"
+  slug = "rodney-green"
+  instrument = "drums (#1, 3, 4)"
+[[lineup]]
+  name = "Jeff Ballard"
+  slug = "jeff-ballard"
+  instrument = "drums"
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
   alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"
@@ -32,18 +52,6 @@ A track-by-track rundown: simply swinging on “Antonio’s Joke”, addictively
 This album hit #1 on the HMV Weekly Modern Jazz Chart and #2 on the HMV 2004 Yearly CD Jazz Chart.
 
 {{< figure src="L1210650-1024.jpg" link="L1210650-1024.jpg" >}}
-
-
-## Madrigal by Chihiro Yamanaka Trio
-
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
--   [Larry Grenadier](/tags/larry-grenadier/) - bass
--   [Rodney Green](/tags/rodney-green/) - drums (#1, 3, 4)
--   [Jeff Ballard](/tags/jeff-ballard/) - drums
-
-Released in 2004 on Atelier Sawano as AS-038.
-
-_Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
 ## Audio and Video

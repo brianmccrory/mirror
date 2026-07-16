@@ -6,7 +6,35 @@ tags = ["Takayoshi Baba", "馬場孝喜", "Reikan Kobayashi", "小林鈴勘", "S
 categories = ["albums"]
 draft = false
 slug = "trigraph-fever"
+releaseYear = 2014
+releaseLabel = "Haru Records"
+releaseCode = "HARU-20"
 issue = 145
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "guitar & chorus"
+  japanese = "馬場孝喜 Baba Takayoshi"
+[[lineup]]
+  name = "Reikan Kobayashi"
+  slug = "reikan-kobayashi"
+  instrument = "shakuhachi, piano, keyboard, voice percussion, shaker, chorus"
+  japanese = "小林鈴勘 Kobayashi Reikan"
+[[lineup]]
+  name = "Sanae Ishikawa"
+  slug = "sanae-ishikawa"
+  instrument = "vocal & chorus"
+  japanese = "石川早苗 Ishikawa Sanae"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "electric fretless bass & chorus"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Yasushi Fukumori"
+  slug = "yasushi-fukumori"
+  instrument = "drums & chorus"
+  japanese = "福森康 Fukumori Yasushi"
 [cover]
   image = "trigraph-fever-460.jpeg"
   alt = "Cover art of Fever by Trigraph"
@@ -32,19 +60,6 @@ In addition to jazz, Trigraph also features five of their well-crafted original 
 {{< figure src="L1200415-1024.jpg" link="L1200415-1024.jpg" >}}
 
 {{< figure src="L1110813-1024.jpg" link="L1110813-1024.jpg" >}}
-
-
-## Fever by Trigraph
-
--   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar &amp; chorus
--   [Reikan Kobayashi](/tags/reikan-kobayashi/) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
--   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal &amp; chorus
--   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass &amp; chorus
--   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums &amp; chorus
-
-Released in 2014 on Haru Records as HARU-20.
-
-_Japanese names: 馬場孝喜 Baba Takayoshi 小林鈴勘 Kobayashi Reikan 石川早苗 Ishikawa Sanae 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi_
 
 
 ## Audio and Video

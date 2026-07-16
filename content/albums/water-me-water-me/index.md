@@ -6,7 +6,35 @@ tags = ["Ayako Taira", "平良亜矢子", "Noriko Kotani", "小谷のりこ", "N
 categories = ["albums"]
 draft = false
 slug = "water-me-water-me"
+releaseYear = 2014
+releaseLabel = "Sunmoon Music"
+releaseCode = "SMCD-0005"
 issue = 130
+[[lineup]]
+  name = "Ayako Taira"
+  slug = "ayako-taira"
+  instrument = "vocal"
+  japanese = "平良亜矢子 Taira Ayako"
+[[lineup]]
+  name = "Noriko Kotani"
+  slug = "noriko-kotani"
+  instrument = "vocal"
+  japanese = "小谷のりこ Kotani Noriko"
+[[lineup]]
+  name = "Norihiko Kawakubo"
+  slug = "norihiko-kawakubo"
+  instrument = "piano"
+  japanese = "川久保典彦 Kawakubo Norihiko"
+[[lineup]]
+  name = "Yohei Tanaka"
+  slug = "yohei-tanaka"
+  instrument = "bass"
+  japanese = "田中洋平 Tanaka Yohei"
+[[lineup]]
+  name = "Tomohiro Ota"
+  slug = "tomohiro-ota"
+  instrument = "drums"
+  japanese = "大田智洋 Ota Tomohiro"
 [cover]
   image = "waterme-waterme-460.jpeg"
   alt = "Cover art of Water Me! by Water Me!"
@@ -28,19 +56,6 @@ Along with jazz swing, the album also features bossa on “The Girl From Ipanema
 {{< figure src="L1210593-1024.jpg" link="L1210593-1024.jpg" >}}
 
 {{< figure src="IMG_20150118_175116-1024.jpg" link="IMG_20150118_175116-1024.jpg" >}}
-
-
-## Water Me! by Water Me!
-
--   [Ayako Taira](/tags/ayako-taira/) - vocal
--   [Noriko Kotani](/tags/noriko-kotani/) - vocal
--   [Norihiko Kawakubo](/tags/norihiko-kawakubo/) - piano
--   [Yohei Tanaka](/tags/yohei-tanaka/) - bass
--   [Tomohiro Ota](/tags/tomohiro-ota/) - drums
-
-Released in 2014 on Sunmoon Music as SMCD-0005.
-
-_Japanese names: 平良亜矢子 Taira Ayako 小谷のりこ Kotani Noriko 川久保典彦 Kawakubo Norihiko 田中洋平 Tanaka Yohei 大田智洋 Ota Tomohiro_
 
 
 ## Audio and Video

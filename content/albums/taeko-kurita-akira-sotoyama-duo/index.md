@@ -6,7 +6,20 @@ tags = ["Taeko Kurita", "栗田妙子", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
 slug = "taeko-kurita-akira-sotoyama-duo"
+releaseYear = 2024
+releaseLabel = "Taeko Kurita"
+releaseCode = "T59T-07"
 issue = 316
+[[lineup]]
+  name = "Taeko Kurita"
+  slug = "taeko-kurita"
+  instrument = "piano"
+  japanese = "栗田妙子 Kurita Taeko"
+[[lineup]]
+  name = "Akira Sotoyama"
+  slug = "akira-sotoyama"
+  instrument = "drums"
+  japanese = "外山明 Sotoyama Akira"
 related = ["ghost-peak-goat-on-a-peak", "melodies-melodies", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "taeko-kurita-akira-sotoyama-duo-460.jpeg"
@@ -29,16 +42,6 @@ Now, on to the music itself. The album begins with track #1 "Hand of Time", a fa
 Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano groove with drums playing all around it. #7 “Tenryuugawa” (the third river song) is movement all over, wild striking and settling into a blissful groove. #8 “Jun” assembles from wavering rumbles into one of the catchiest songs on the album (there is also a great solo piano version of this song on Kurita’s _Ko-tsu-ko-tsu_ from 2012). #9 “Changement F” is a bouncy march where the up-and-down piano notes are offset by Sotoyama's particularly playful drum splatters, coloring outside of the lines with wide dynamics and time. Lastly, #10 “Kyou no Sabi, Ashita no Tabi” (Today’s Solitude/Loneliness, Tomorrow’s Journey) is hummably lighthearted, slightly bluesy with a simple beauty.
 
 {{< figure src="L1280923x-1200.jpeg" link="L1280923x-1200.jpeg" >}}
-
-
-## Duo by Taeko Kurita &amp; Akira Sotoyama
-
--   [Taeko Kurita](/tags/taeko-kurita/) - piano
--   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
-
-Released in 2024 on Taeko Kurita as T59T-07.
-
-_Japanese names: 栗田妙子 Kurita Taeko 外山明 Sotoyama Akira_
 
 
 ## Audio and Video

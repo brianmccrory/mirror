@@ -6,7 +6,30 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Nanami Haruta", "治田七海", "R
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-64-charlesgate"
+releaseYear = 2022
+releaseLabel = "Quint Co. Ltd. / Chitei Records"
+releaseCode = "B102F"
 issue = 185
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "saxophone"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Nanami Haruta"
+  slug = "nanami-haruta"
+  instrument = "trombone"
+  japanese = "治田七海 Haruta Nanami"
+[[lineup]]
+  name = "Raiga Hayashi"
+  slug = "raiga-hayashi"
+  instrument = "drums"
+  japanese = "林頼我 Hayashi Raiga"
+[[lineup]]
+  name = "Makoto Togashi"
+  slug = "makoto-togashi"
+  instrument = "bass"
+  japanese = "冨樫マコト Togashi Makoto"
 [cover]
   image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
   alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"
@@ -30,18 +53,6 @@ Picking album highlights is difficult as the whole album hangs well together wit
 The album also includes two shorter songs inserted like brief asides: Tracks #3 “Interlude” and #8 “Ocean add a suite or concept feeling to the entire album and calm the ears in less than two minutes each, like muted buffer zones of repose and curiosity.
 
 {{< figure src="L1240179x-1024.jpeg" link="L1240179x-1024.jpeg" >}}
-
-
-## 64 Charlesgate by Akihiro Yoshimoto Quartet
-
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
--   [Nanami Haruta](/tags/nanami-haruta/) - trombone
--   [Raiga Hayashi](/tags/raiga-hayashi/) - drums
--   [Makoto Togashi](/tags/makoto-togashi/) - bass
-
-Released in 2022 on Quint Co. Ltd. / Chitei Records as B102F.
-
-_Japanese names: 吉本章紘 Yoshimoto Akihiro 治田七海 Haruta Nanami 林頼我 Hayashi Raiga 冨樫マコト Togashi Makoto_
 
 
 ## Audio and Video

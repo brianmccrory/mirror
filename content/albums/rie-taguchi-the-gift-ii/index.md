@@ -6,7 +6,45 @@ tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada
 categories = ["albums"]
 draft = false
 slug = "rie-taguchi-the-gift-ii"
+releaseYear = 2021
+releaseLabel = "Studio TLive Records"
+releaseCode = "STLR-021"
 issue = 169
+[[lineup]]
+  name = "Rie Taguchi"
+  slug = "rie-taguchi"
+  instrument = "vocal"
+  japanese = "田口理恵 Taguchi Rie"
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano, arrangments"
+  japanese = "遠藤征志 Endo Seiji"
+[[lineup]]
+  name = "Seiji Tada"
+  slug = "seiji-tada"
+  instrument = "alto saxophone, flute"
+  japanese = "多田誠司 Tada Seiji"
+[[lineup]]
+  name = "Noriko Satomi"
+  slug = "noriko-satomi"
+  instrument = "violin"
+  japanese = "里見紀子 Satomi Noriko"
+[[lineup]]
+  name = "Mitsukuni Tanabe"
+  slug = "mitsukuni-tanabe"
+  instrument = "guitar"
+  japanese = "田辺充邦 Tanabe Mitsukuni"
+[[lineup]]
+  name = "Yusuke Nakaishi"
+  slug = "yusuke-nakaishi"
+  instrument = "bass"
+  japanese = "仲石裕介 Nakaishi Yusuke"
+[[lineup]]
+  name = "Akira Yamada"
+  slug = "akira-yamada"
+  instrument = "drums"
+  japanese = "山田玲 Yamada Akira"
 [cover]
   image = "rietaguchi-gift-ii-460.jpeg"
   alt = "Cover art of The Gift II by Rie Taguchi"
@@ -51,21 +89,6 @@ Truly, truly thank you so much! Thank you from the bottom of my heart. I truly a
 _Rie Taguchi_
 
 {{< figure src="L1240170x-1024.jpeg" link="L1240170x-1024.jpeg" >}}
-
-
-## The Gift II by Rie Taguchi
-
--   [Rie Taguchi](/tags/rie-taguchi/) - vocal
--   [Seiji Endo](/tags/seiji-endo/) - piano, arrangments
--   [Seiji Tada](/tags/seiji-tada/) - alto saxophone, flute
--   [Noriko Satomi](/tags/noriko-satomi/) - violin
--   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe/) - guitar
--   [Yusuke Nakaishi](/tags/yusuke-nakaishi/) - bass
--   [Akira Yamada](/tags/akira-yamada/) - drums
-
-Released in 2021 on Studio TLive Records as STLR-021.
-
-_Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 Tada Seiji 里見紀子 Satomi Noriko 田辺充邦 Tanabe Mitsukuni 仲石裕介 Nakaishi Yusuke 山田玲 Yamada Akira_
 
 
 ## Audio and Video

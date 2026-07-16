@@ -6,7 +6,24 @@ tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Eric Mc
 categories = ["albums"]
 draft = false
 slug = "miki-hayama-prelude-to-a-kiss"
+releaseYear = 2006
+releaseLabel = "Art Jazz Records"
+releaseCode = "ARTCD-112"
 issue = 88
+[[lineup]]
+  name = "Miki Hayama"
+  slug = "miki-hayama"
+  instrument = "piano"
+  japanese = "早間美紀 Hayama Miki"
+[[lineup]]
+  name = "Kiyoshi Kitagawa"
+  slug = "kiyoshi-kitagawa"
+  instrument = "bass"
+  japanese = "北川潔 Kitagawa Kiyoshi"
+[[lineup]]
+  name = "Eric McPherson"
+  slug = "eric-mcpherson"
+  instrument = "drums"
 [cover]
   image = "mikihayama-prelude-460.jpeg"
   alt = "Cover art of Prelude to a Kiss by Miki Hayama"
@@ -34,17 +51,6 @@ Throughout, Hayama’s piano is impressively quick, crystalline light without be
 {{< figure src="L1210561-1024.jpg" link="L1210561-1024.jpg" >}}
 
 {{< figure src="L1120179-1024.jpg" link="L1120179-1024.jpg" >}}
-
-
-## Prelude to a Kiss by Miki Hayama
-
--   [Miki Hayama](/tags/miki-hayama/) - piano
--   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa/) - bass
--   [Eric McPherson](/tags/eric-mcpherson/) - drums
-
-Released in 2006 on Art Jazz Records as ARTCD-112.
-
-_Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 
 ## Audio and Video

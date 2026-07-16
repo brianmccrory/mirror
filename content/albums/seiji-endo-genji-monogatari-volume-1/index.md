@@ -6,7 +6,15 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-genji-monogatari-volume-1"
+releaseYear = 2018
+releaseLabel = "Nippon Acoustic Records"
+releaseCode = "NARP-8015"
 issue = 77
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "solo piano and compositions"
+  japanese = "遠藤征志 Endo Seiji"
 [cover]
   image = "seijiendo-genji-460.jpeg"
   alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"
@@ -28,15 +36,6 @@ Set among these musical facets, the listener may also pick up hints to classical
 {{< figure src="L1220082-1024.jpg" link="L1220082-1024.jpg" >}}
 
 {{< figure src="seijiendo-genji-inside-1024.png" link="seijiendo-genji-inside-1024.png" >}}
-
-
-## Genji Monogatari Volume 1 by Seiji Endo
-
--   [Seiji Endo](/tags/seiji-endo/) - solo piano and compositions
-
-Released in 2018 on Nippon Acoustic Records as NARP-8015.
-
-_Japanese names: 遠藤征志 Endo Seiji_
 
 
 ## Audio and Video

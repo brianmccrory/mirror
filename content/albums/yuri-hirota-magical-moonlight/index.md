@@ -6,7 +6,35 @@ tags = ["Yuri Hirota", "廣田ゆり", "Daisei Mii", "三井大生", "Kilin Sato
 categories = ["albums"]
 draft = false
 slug = "yuri-hirota-magical-moonlight"
+releaseYear = 2017
+releaseLabel = "Malt Oriental"
+releaseCode = "MORI-0003"
 issue = 348
+[[lineup]]
+  name = "Yuri Hirota"
+  slug = "yuri-hirota"
+  instrument = "piano & arrangement"
+  japanese = "廣田ゆり Hirota Yuri"
+[[lineup]]
+  name = "Daisei Mii"
+  slug = "daisei-mii"
+  instrument = "violin & viola"
+  japanese = "三井大生 Mii Daisei"
+[[lineup]]
+  name = "Kilin Sato"
+  slug = "kilin-sato"
+  instrument = "bass"
+  japanese = "佐藤きりん Sato Kilin"
+[[lineup]]
+  name = "Gen Date"
+  slug = "gen-date"
+  instrument = "conga & other percussion"
+  japanese = "伊達弦 Date Gen"
+[[lineup]]
+  name = "Yuichiro Hiraoka"
+  slug = "yuichiro-hiraoka"
+  instrument = "guitar on #1, 3, 7"
+  japanese = "平岡遊一郎 Hiraoka Yuichiro"
 related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
@@ -80,19 +108,6 @@ Dedicated to the great rum from Guatamala. Drink it, and it’ll make you want t
 A killer tune from the 1980s disco era done with a vaudeville arrangement. Don’t skip the shocking finale!
 
 {{< figure src="L1220519x-1200.jpeg" link="L1220519x-1200.jpeg" >}}
-
-
-## Magical Moonlight by Yuri Hirota
-
--   [Yuri Hirota](/tags/yuri-hirota/) - piano &amp; arrangement
--   [Daisei Mii](/tags/daisei-mii/) - violin &amp; viola
--   [Kilin Sato](/tags/kilin-sato/) - bass
--   [Gen Date](/tags/gen-date/) - conga &amp; other percussion
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar on #1, 3, 7
-
-Released in 2017 on Malt Oriental as MORI-0003.
-
-_Japanese names: 廣田ゆり Hirota Yuri 三井大生 Mii Daisei 佐藤きりん Sato Kilin 伊達弦 Date Gen 平岡遊一郎 Hiraoka Yuichiro_
 
 
 ## Audio and Video

@@ -6,7 +6,35 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-acoustic"
+releaseYear = 2012
+releaseLabel = "Tactile Sounds Records"
+releaseCode = "TS-001"
 issue = 191
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone, effects"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar, effects"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums, percussion"
+  japanese = "橋本学 Hashimoto Manabu"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano (#2, 3, 8)"
+  japanese = "佐藤浩一 Sato Koichi"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryosukehashizume-acoustic-460.jpeg"
@@ -31,19 +59,6 @@ Among the slower songs, the mid-tempo songs are latched to frames in motion thro
 {{< figure src="L1200746x-1024.jpeg" link="L1200746x-1024.jpeg" >}}
 
 {{< figure src="L1120134-1024.jpeg" link="L1120134-1024.jpeg" >}}
-
-
-## Acoustic Fluid by Ryosuke Hashizume Group
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, effects
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
--   [Koichi Sato](/tags/koichi-sato/) - piano (#2, 3, 8)
-
-Released in 2012 on Tactile Sounds Records as TS-001.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 佐藤浩一 Sato Koichi_
 
 
 ## Audio and Video

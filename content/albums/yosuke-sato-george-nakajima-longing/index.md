@@ -6,7 +6,25 @@ tags = ["Yosuke Sato", "佐藤洋祐", "George Nakajima", "中嶋錠二", "Ema",
 categories = ["albums"]
 draft = false
 slug = "yosuke-sato-george-nakajima-longing"
+releaseYear = 2023
+releaseLabel = "Pochizou"
+releaseCode = "POCH-2308"
 issue = 311
+[[lineup]]
+  name = "Yosuke Sato"
+  slug = "yosuke-sato"
+  instrument = "sax"
+  japanese = "佐藤洋祐 Sato Yosuke"
+[[lineup]]
+  name = "George Nakajima"
+  slug = "george-nakajima"
+  instrument = "piano"
+  japanese = "中嶋錠二 Nakajima George"
+[[lineup]]
+  name = "Ema"
+  slug = "ema"
+  instrument = "vocals (#7, 8)"
+  japanese = "エマ Ema"
 related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
@@ -66,17 +84,6 @@ George Nakajima was born in 1981 in Hachinohe, Aomori Prefecture. He studied jaz
 From an early age, Ema has appeared in musicals and dramas, learning the joy and importance of expression while encountering various musical genres. She started with a single-song demo tape and continued under the guidance of producer Tomoaki Ogura to release her debut record with Sony Music Ariola Japan and perform at the Blue Note Jazz Festival. In recent years Ema has starred in musicals and expanded her range into genreless activities.
 
 {{< figure src="L1310130x-1200.jpeg" link="L1310130x-1200.jpeg" >}}
-
-
-## Longing by Yosuke Sato &amp; George Nakajima
-
--   [Yosuke Sato](/tags/yosuke-sato/) - sax
--   [George Nakajima](/tags/george-nakajima/) - piano
--   [Ema](/tags/ema/) - vocals (#7, 8)
-
-Released in 2023 on Pochizou as POCH-2308.
-
-_Japanese names: 佐藤洋祐 Sato Yosuke 中嶋錠二 Nakajima George エマ Ema_
 
 
 ## Audio and Video

@@ -6,7 +6,45 @@ tags = ["Emiko Voice", "エミコヴォイス", "Koichi Sato", "佐藤浩一", "
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-carta"
+releaseYear = 2017
+releaseLabel = "Zipangu Label"
+releaseCode = "ZIP-0058"
 issue = 5
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "vocal"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano, Rhodes"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Akemi Ohta"
+  slug = "akemi-ohta"
+  instrument = "flute"
+  japanese = "太田朱美 Ohta Akemi"
+[[lineup]]
+  name = "Momoko Aida"
+  slug = "momoko-aida"
+  instrument = "violin"
+  japanese = "会田桃子 Aida Momoko"
+[[lineup]]
+  name = "Akira Tanidono"
+  slug = "akira-tanidono"
+  instrument = "trumpet"
+  japanese = "谷殿明良 Tanidono Akira"
+[[lineup]]
+  name = "Toru Nishijima"
+  slug = "toru-nishijima"
+  instrument = "bass"
+  japanese = "西嶋徹 Nishijima Toru"
+[[lineup]]
+  name = "Keita Okada"
+  slug = "keita-okada"
+  instrument = "drums, percussion"
+  japanese = "岡田ケイタ Okada Keita"
 [cover]
   image = "emikovoice-carta-square-460.jpeg"
   alt = "Cover art of Carta by Emiko Voice"
@@ -24,21 +62,6 @@ Emiko’s voice is front-and-center and spans the gamut from quick instrumentesq
 {{< figure src="L1180432-1024.jpg" link="L1180432-1024.jpg" >}}
 
 {{< figure src="L1180433-1024.jpg" link="L1180433-1024.jpg" >}}
-
-
-## Carta by Emiko Voice
-
--   [Emiko Voice](/tags/emiko-voice/) - vocal
--   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
--   [Akemi Ohta](/tags/akemi-ohta/) - flute
--   [Momoko Aida](/tags/momoko-aida/) - violin
--   [Akira Tanidono](/tags/akira-tanidono/) - trumpet
--   [Toru Nishijima](/tags/toru-nishijima/) - bass
--   [Keita Okada](/tags/keita-okada/) - drums, percussion
-
-Released in 2017 on Zipangu Label as ZIP-0058.
-
-_Japanese names: エミコヴォイス Emiko Voice 佐藤浩一 Sato Koichi 太田朱美 Ohta Akemi 会田桃子 Aida Momoko 谷殿明良 Tanidono Akira 西嶋徹 Nishijima Toru 岡田ケイタ Okada Keita_
 
 
 ## Audio and Video

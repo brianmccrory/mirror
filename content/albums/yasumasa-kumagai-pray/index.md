@@ -6,7 +6,29 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜", "
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-pray"
+releaseYear = 2010
+releaseLabel = "Anturtle Tune"
+releaseCode = "ANTX-4009"
 issue = 152
+[[lineup]]
+  name = "Yasumasa Kumagai"
+  slug = "yasumasa-kumagai"
+  instrument = "piano"
+  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
+[[lineup]]
+  name = "Ryu Kawamura"
+  slug = "ryu-kawamura"
+  instrument = "bass"
+  japanese = "川村竜 Kawamura Ryu"
+[[lineup]]
+  name = "Kohzo Komori"
+  slug = "kohzo-komori"
+  instrument = "drums"
+  japanese = "小森耕造 Komori Kohzo"
+[[lineup]]
+  name = "DJ Passo"
+  slug = "dj-passo"
+  instrument = "(on #6)"
 [cover]
   image = "yasumasakumagai-pray-460.jpeg"
   alt = "Cover art of Pray by Yasumasa Kumagai"
@@ -26,18 +48,6 @@ On Pray, Kumagai’s trio opens with “Brotherhood”, setting up an atmospheri
 {{< figure src="L1200473-1024.jpg" link="L1200473-1024.jpg" >}}
 
 {{< figure src="IMG_20150128_151155-1024.jpg" link="IMG_20150128_151155-1024.jpg" >}}
-
-
-## Pray by Yasumasa Kumagai
-
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
--   [Kohzo Komori](/tags/kohzo-komori/) - drums
--   [DJ Passo](/tags/dj-passo/) - (on #6)
-
-Released in 2010 on Anturtle Tune as ANTX-4009.
-
-_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu 小森耕造 Komori Kohzo_
 
 
 ## Audio and Video

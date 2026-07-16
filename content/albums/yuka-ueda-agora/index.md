@@ -6,7 +6,30 @@ tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Sh
 categories = ["albums"]
 draft = false
 slug = "yuka-ueda-agora"
+releaseYear = 2011
+releaseLabel = "Audio Fab Records"
+releaseCode = "AFD-106"
 issue = 116
+[[lineup]]
+  name = "Yuka Ueda"
+  slug = "yuka-ueda"
+  instrument = "vocal"
+  japanese = "上田裕香 Ueda Yuka"
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
+[[lineup]]
+  name = "Shinji Hashimoto"
+  slug = "shinji-hashimoto"
+  instrument = "guitar"
+  japanese = "橋本信二 Hashimoto Shinji"
+[[lineup]]
+  name = "Daisuke Toi"
+  slug = "daisuke-toi"
+  instrument = "piano (#8), electric bass (#10)"
+  japanese = "トオイダイスケ Toi Daisuke"
 [cover]
   image = "yukaueda-agora-460.jpeg"
   alt = "Cover art of Agora by Yuka Ueda"
@@ -34,18 +57,6 @@ Lovers of Brazilian and Latin music will be delighted with songs such as “Reun
 {{< figure src="L1210496-1024.jpg" link="L1210496-1024.jpg" >}}
 
 {{< figure src="L1120175-1024.jpg" link="L1120175-1024.jpg" >}}
-
-
-## Agora by Yuka Ueda
-
--   [Yuka Ueda](/tags/yuka-ueda/) - vocal
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
--   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
--   [Daisuke Toi](/tags/daisuke-toi/) - piano (#8), electric bass (#10)
-
-Released in 2011 on Audio Fab Records as AFD-106.
-
-_Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke_
 
 
 ## Audio and Video

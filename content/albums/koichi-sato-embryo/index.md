@@ -6,7 +6,53 @@ tags = ["Koichi Sato", "佐藤浩一", "Motohiko Ichino", "市野元彦", "Masak
 categories = ["albums"]
 draft = false
 slug = "koichi-sato-embryo"
+releaseYear = 2021
+releaseLabel = "Nagalu"
+releaseCode = "NAGALU-003/004"
 issue = 258
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano, compositions, arrangements"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Masaki Kai"
+  slug = "masaki-kai"
+  instrument = "bass (Disc 2: #1, 7, 8, 9, 11)"
+  japanese = "甲斐正樹 Kai Masaki"
+[[lineup]]
+  name = "Shinya Fukumori"
+  slug = "shinya-fukumori"
+  instrument = "drums (Disc 2: #1, 2, 7, 8, 9, 11)"
+  japanese = "福盛進也 Fukumori Shinya"
+[[lineup]]
+  name = "Aya Ito"
+  slug = "aya-ito"
+  instrument = "violin (Disc 2: #4, 6, 7, 8)"
+  japanese = "伊藤彩 Ito Aya"
+[[lineup]]
+  name = "Yuko Kajitani"
+  slug = "yuko-kajitani"
+  instrument = "violin (Disc 2: #6, 7, 8)"
+  japanese = "梶谷裕子 Kajitani Yuko"
+[[lineup]]
+  name = "Atsuki Yoshida"
+  slug = "atsuki-yoshida"
+  instrument = "viola (Disc 2: #6, 7, 8)"
+  japanese = "吉田篤貴 Yoshida Atsuki"
+[[lineup]]
+  name = "Robin Dupuy"
+  slug = "robin-dupuy"
+  instrument = "cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)"
+[[lineup]]
+  name = "Zeze Wakamatsu"
+  slug = "zeze-wakamatsu"
+  instrument = "soundscape (Disc 2: #4)"
 related = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 [cover]
   image = "koichi-sato-embryo-460.jpeg"
@@ -57,23 +103,6 @@ For example, two of the album highlights, the folksy nostalgic “Hua” and hop
 On disc 2, a guitar/piano/bass/drums quartet plays #11 “Hua” followed by #12 “May Song” with a piano/cello duo, the final track that tenderly ascends to high peaks for both this side and the double album itself. This choice is a great one, emphasizing the care and thought put into the music and overall direction.
 
 {{< figure src="L1240137-1200.jpeg" link="L1240137-1200.jpeg" >}}
-
-
-## Embryo by Koichi Sato
-
--   [Koichi Sato](/tags/koichi-sato/) - piano, compositions, arrangements
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)
--   [Masaki Kai](/tags/masaki-kai/) - bass (Disc 2: #1, 7, 8, 9, 11)
--   [Shinya Fukumori](/tags/shinya-fukumori/) - drums (Disc 2: #1, 2, 7, 8, 9, 11)
--   [Aya Ito](/tags/aya-ito/) - violin (Disc 2: #4, 6, 7, 8)
--   [Yuko Kajitani](/tags/yuko-kajitani/) - violin (Disc 2: #6, 7, 8)
--   [Atsuki Yoshida](/tags/atsuki-yoshida/) - viola (Disc 2: #6, 7, 8)
--   [Robin Dupuy](/tags/robin-dupuy/) - cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)
--   [Zeze Wakamatsu](/tags/zeze-wakamatsu/) - soundscape (Disc 2: #4)
-
-Released in 2021 on Nagalu as NAGALU-003/004.
-
-_Japanese names: 佐藤浩一 Sato Koichi 市野元彦 Ichino Motohiko 甲斐正樹 Kai Masaki 福盛進也 Fukumori Shinya 伊藤彩 Ito Aya 梶谷裕子 Kajitani Yuko 吉田篤貴 Yoshida Atsuki_
 
 
 ## Audio and Video

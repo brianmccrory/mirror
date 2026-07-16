@@ -6,7 +6,20 @@ tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-nanami-haruta-for"
+releaseYear = 2023
+releaseLabel = "Concept Record"
+releaseCode = "CR-17"
 issue = 189
+[[lineup]]
+  name = "Nanami Haruta"
+  slug = "nanami-haruta"
+  instrument = "trombone"
+  japanese = "治田七海 Haruta Nanami"
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
   alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"
@@ -85,16 +98,6 @@ There was a time in high school when I was addicted to looking up the lyrics to 
 By the way, when I happen to hum this song, I’m struck and transformed by the twinkling dreamlike melody and often start to feel uncomfortable or suffering. I wonder if there’s something like light and shadow at work here. (Nanami Haruta)
 
 {{< figure src="L1240171x-1024.jpeg" link="L1240171x-1024.jpeg" >}}
-
-
-## For My Lady by Akane Matsumoto &amp; Nanami Haruta
-
--   [Nanami Haruta](/tags/nanami-haruta/) - trombone
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
-
-Released in 2023 on Concept Record as CR-17.
-
-_Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

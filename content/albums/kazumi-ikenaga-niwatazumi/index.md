@@ -7,7 +7,31 @@ tags = ["Kazumi Ikenaga", "池長和美", "Christian Vuust", "Jakob Buchanan", "
 categories = ["albums"]
 draft = false
 slug = "kazumi-ikenaga-niwatazumi"
+releaseYear = 2017
+releaseLabel = "Cloud"
+releaseCode = "DDCJ-4019"
 issue = 1
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
+[[lineup]]
+  name = "Christian Vuust"
+  slug = "christian-vuust"
+  instrument = "tenor saxophone and clarinet"
+[[lineup]]
+  name = "Jakob Buchanan"
+  slug = "jakob-buchanan"
+  instrument = "flugelhorn"
+[[lineup]]
+  name = "Soren Dahl Jeppesen"
+  slug = "soren-dahl-jeppesen"
+  instrument = "guitar"
+[[lineup]]
+  name = "Klaus Nørgaard"
+  slug = "klaus-nrgaard"
+  instrument = "bass"
 related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
@@ -67,19 +91,6 @@ In English, it means “High Sky”. In Denmark, it’s said to represent the ap
 This is composed of a simple melodic refrain that evokes a philosophical feeling almost as if listening to a Zen dialogue. This song felt appropriate for an ending, where time passes gently as waves ebb and flow on the coastline. The whole song is played with mallets.
 
 {{< figure src="IMG_20231009_074319847_HDRx-1024.jpeg" link="IMG_20231009_074319847_HDRx-1024.jpeg" >}}
-
-
-## Niwatazumi by Kazumi Ikenaga
-
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
--   [Christian Vuust](/tags/christian-vuust/) - tenor saxophone and clarinet
--   [Jakob Buchanan](/tags/jakob-buchanan/) - flugelhorn
--   [Soren Dahl Jeppesen](/tags/soren-dahl-jeppesen/) - guitar
--   [Klaus Nørgaard](/tags/klaus-nrgaard/) - bass
-
-Released in 2017 on Cloud as DDCJ-4019.
-
-_Japanese names: 池長和美 Ikenaga Kazumi_
 
 
 ## Audio and Video

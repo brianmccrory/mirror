@@ -6,7 +6,25 @@ tags = ["Harumi Nomoto", "野本晴美", "Noboru Ando", "安東昇", "Daisuke Yo
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-belinda"
+releaseYear = 2007
+releaseLabel = "Anturtle Tune/BQ Records"
+releaseCode = "BQR-2040"
 issue = 115
+[[lineup]]
+  name = "Harumi Nomoto"
+  slug = "harumi-nomoto"
+  instrument = "piano, Fender Rhodes electric piano"
+  japanese = "野本晴美 Nomoto Harumi"
+[[lineup]]
+  name = "Noboru Ando"
+  slug = "noboru-ando"
+  instrument = "bass"
+  japanese = "安東昇 Ando Noboru"
+[[lineup]]
+  name = "Daisuke Yoshioka"
+  slug = "daisuke-yoshioka"
+  instrument = "drums"
+  japanese = "吉岡大輔 Yoshioka Daisuke"
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
   alt = "Cover art of Belinda by Harumi Nomoto Trio"
@@ -30,17 +48,6 @@ As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the wa
 {{< figure src="L1210341-1024.jpg" link="L1210341-1024.jpg" >}}
 
 {{< figure src="IMG_20150128_151339_hdr-1024.jpg" link="IMG_20150128_151339_hdr-1024.jpg" >}}
-
-
-## Belinda by Harumi Nomoto Trio
-
--   [Harumi Nomoto](/tags/harumi-nomoto/) - piano, Fender Rhodes electric piano
--   [Noboru Ando](/tags/noboru-ando/) - bass
--   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
-
-Released in 2007 on Anturtle Tune/BQ Records as BQR-2040.
-
-_Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Yoshioka Daisuke_
 
 
 ## Audio and Video

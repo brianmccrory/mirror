@@ -7,7 +7,35 @@ tags = ["Mabumi Yamaguchi", "山口真文", "Yoshitaka Shoji", "東海林由孝"
 categories = ["albums"]
 draft = false
 slug = "mabumi-yamaguchi-let-your-mind-alone"
+releaseYear = 2017
+releaseLabel = "Spice of Life"
+releaseCode = "SOLJP-0015"
 issue = 85
+[[lineup]]
+  name = "Mabumi Yamaguchi"
+  slug = "mabumi-yamaguchi"
+  instrument = "Tenor & Soprano Sax"
+  japanese = "山口真文 Yamaguchi Mabumi"
+[[lineup]]
+  name = "Yoshitaka Shoji"
+  slug = "yoshitaka-shoji"
+  instrument = "guitar"
+  japanese = "東海林由孝 Shoji Yoshitaka"
+[[lineup]]
+  name = "Misato Okumura"
+  slug = "misato-okumura"
+  instrument = "piano"
+  japanese = "奥村美里 Okumura Misato"
+[[lineup]]
+  name = "Ryohei Komaki"
+  slug = "ryohei-komaki"
+  instrument = "bass"
+  japanese = "小牧良平 Komaki Ryohei"
+[[lineup]]
+  name = "Nobuyuki Komatsu"
+  slug = "nobuyuki-komatsu"
+  instrument = "drums"
+  japanese = "小松伸之 Komatsu Nobuyuki"
 related = ["naoko-tanaka-appreciation"]
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
@@ -83,19 +111,6 @@ Nobuyuki Komatsu (drummer, 1977, from Niigata Prefecture). A drummer supporting 
 After finishing this album, Mabumi Yamaguchi said his appetite for composing was spurred on and that he wants to write more music after this. May that rising immersive happiness continue on from here.
 
 {{< figure src="L1220385x-1200.jpeg" link="L1220385x-1200.jpeg" >}}
-
-
-## Let Your Mind Alone by Mabumi Yamaguchi
-
--   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - Tenor &amp; Soprano Sax
--   [Yoshitaka Shoji](/tags/yoshitaka-shoji/) - guitar
--   [Misato Okumura](/tags/misato-okumura/) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
-
-Released in 2017 on Spice of Life as SOLJP-0015.
-
-_Japanese names: 山口真文 Yamaguchi Mabumi 東海林由孝 Shoji Yoshitaka 奥村美里 Okumura Misato 小牧良平 Komaki Ryohei 小松伸之 Komatsu Nobuyuki_
 
 
 ## Audio and Video

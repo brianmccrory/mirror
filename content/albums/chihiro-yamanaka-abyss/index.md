@@ -6,7 +6,23 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Vicente Archer", "Kendrick Scott"]
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-abyss"
+releaseYear = 2007
+releaseLabel = "Verve"
+releaseCode = "UCCJ-2060"
 issue = 324
+[[lineup]]
+  name = "Chihiro Yamanaka"
+  slug = "chihiro-yamanaka"
+  instrument = "piano"
+  japanese = "山中千尋 Yamanaka Chihiro"
+[[lineup]]
+  name = "Vicente Archer"
+  slug = "vicente-archer"
+  instrument = "bass"
+[[lineup]]
+  name = "Kendrick Scott"
+  slug = "kendrick-scott"
+  instrument = "drums"
 related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
 [cover]
   image = "chihiro-yamanaka-abyss-460.jpeg"
@@ -88,17 +104,6 @@ As the thrilling piano solo moves freely around an improvised beat pattern, a co
 The striking sound of the organ runs in all directions over a Motown groove loop.
 
 {{< figure src="L1210742x-1200.jpeg" link="L1210742x-1200.jpeg" >}}
-
-
-## Abyss by Chihiro Yamanaka
-
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
--   [Vicente Archer](/tags/vicente-archer/) - bass
--   [Kendrick Scott](/tags/kendrick-scott/) - drums
-
-Released in 2007 on Verve as UCCJ-2060.
-
-_Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
 ## Audio and Video

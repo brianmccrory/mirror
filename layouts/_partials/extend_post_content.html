@@ -1,7 +1,66 @@
-{{ if not (in (.Params.categories | default (slice)) "resources") }}
-<div class="post-content md-content"><p><em>Jazz of Japan &middot; No. {{ .Params.issue }} &middot; {{ if not .Date.IsZero }}<span title='{{ .Date }}'>{{ .Date | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }}</span> &middot; {{ end -}}{{- if not .Params.lastmod.IsZero }}<span title='{{ .Params.lastmod }}'>(rev. {{ .Params.lastmod | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }})</span> &middot; {{ end -}}{{ site.Params.author -}}</em></p></div>
-<hr>
+
+{{- if and .Params.categories (in .Params.categories "albums") }}
+
+{{- $japanese := slice }}
+<div class="post-content md-content">
+{{- $artist := "" }}
+{{ $album := .Params.title }}
+
+{{ $parts := split .Params.title ":" }}
+{{ if eq (len $parts) 2 }}
+  {{ $artist = strings.TrimSpace (index $parts 0) }}
+  {{ $album = strings.TrimSpace (index $parts 1) }}
 {{- end }}
+<h2><em>{{ $album }}</em>{{ with $artist }} by {{ . }}{{ end }}</h2>
+<ul>
+{{- range .Params.lineup }}
+<li><a href="/tags/{{ .slug }}/">{{ .name }}</a> - {{ .instrument }}</li>
+{{- if .japanese }}
+{{ $japanese = $japanese | append .japanese }}
+{{- end }}
+{{- end }}
+</ul>
+
+{{- if $japanese }}
+<p><em>Japanese names: {{ delimit $japanese " " }}</em></p>
+{{- end }}
+
+<p>Released in {{ default "TK" .Params.releaseYear }} on {{ default "TK" .Params.releaseLabel }} as {{ default "TK" .Params.releaseCode }}.</p>
+</div>
+{{- end }}
+
+
+
+{{- if and .Params.categories (in .Params.categories "extra") }}
+{{- $location := "TK" -}}
+{{- if .Params.clubStation2 }}
+{{- $location = printf "%s and %s stations" (default "TK" .Params.clubStation1) (default "TK" .Params.clubStation2) }}
+{{- else }}
+{{- $location = printf "%s station" (default "TK" .Params.clubStation1) }}{{- end }}
+{{- $namePossessive := strings.TrimSuffix "'s" .Params.clubName }}
+{{- $namePossessive = strings.TrimSuffix "’s" $namePossessive }}
+{{- $namePossessive = printf "%s’s" $namePossessive -}}
+<div class="post-content md-content">
+  <h2>Information</h2>
+  <ul>
+    <li><a href="{{ default "TK" .Params.clubUrl }}">{{ $namePossessive }} website</a>
+    <li><a href="{{ default "TK" .Params.clubMap }}">Located near {{ $location }} in {{ default "TK" .Params.clubCity }}, Japan</a>
+  </ul>
+{{- if eq .Params.clubStatus "closed" }}
+<p><em>Note: {{ .Params.clubName }} has permanently closed.</em><p>
+{{- else if eq .Params.clubStatus "hiatus" }}
+<p><em>Note: {{ .Params.clubName }} is temporary closed and may reopen in a new location.</em><p>
+{{- end }}
+</div>
+{{- end }}
+
+{{ if not (in (.Params.categories | default (slice)) "resources") }}
+<div class="post-content md-content">
+<hr>
+<p><em>Jazz of Japan • No. {{ .Params.issue }}{{ if not (in (.Params.categories | default (slice)) "albums") }} (Premium){{ end }} • {{ if not .Date.IsZero }}<span title='{{ .Date }}'>{{ .Date | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }}</span>{{ if not .Params.lastmod.IsZero }}{{if ne .Params.lastmod .Date }}<span title='{{ .Params.lastmod }}'> (rev. {{ .Params.lastmod | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }})</span>{{ end }}{{ end }} • {{ end -}}{{ site.Params.author -}}</em></p></div>
+{{- end }}
+
+<hr>
 
 {{- if and (ne .Type "page") (or .Params.related (.Site.RegularPages.Related .)) }}
 <div class="post-content md-content"><p>

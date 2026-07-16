@@ -6,7 +6,25 @@ tags = ["Masako Kunisada", "国貞雅子", "Manabu Ohishi", "大石学", "M-oto"
 categories = ["albums"]
 draft = false
 slug = "masako-kunisada-m"
+releaseYear = 2014
+releaseLabel = "Masaki Kunisada"
+releaseCode = "M"
 issue = 71
+[[lineup]]
+  name = "Masako Kunisada"
+  slug = "masako-kunisada"
+  instrument = "vocal"
+  japanese = "国貞雅子 Kunisada Masako"
+[[lineup]]
+  name = "Manabu Ohishi"
+  slug = "manabu-ohishi"
+  instrument = "all instruments, arrangements"
+  japanese = "大石学 Ohishi Manabu"
+[[lineup]]
+  name = "M-oto"
+  slug = "m-oto"
+  instrument = "human beat box (tracks #2, 4, 5, 7)"
+  japanese = "エムオート M-oto"
 [cover]
   image = "masakokunisada-m-460.jpeg"
   alt = "Cover art of M by Masako Kunisada"
@@ -30,17 +48,6 @@ An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effecti
 {{< figure src="L1200928-1024.jpg" link="L1200928-1024.jpg" >}}
 
 {{< figure src="L1110647-1024.jpg" link="L1110647-1024.jpg" >}}
-
-
-## M by Masako Kunisada
-
--   [Masako Kunisada](/tags/masako-kunisada/) - vocal
--   [Manabu Ohishi](/tags/manabu-ohishi/) - all instruments, arrangements
--   [M-oto](/tags/m-oto/) - human beat box (tracks #2, 4, 5, 7)
-
-Released in 2014 on Masaki Kunisada as M.
-
-_Japanese names: 国貞雅子 Kunisada Masako 大石学 Ohishi Manabu エムオート M-oto_
 
 
 ## Audio and Video

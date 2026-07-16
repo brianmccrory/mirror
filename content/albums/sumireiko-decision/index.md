@@ -6,7 +6,20 @@ tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ
 categories = ["albums"]
 draft = false
 slug = "sumireiko-decision"
+releaseYear = 2020
+releaseLabel = "Sumireiko"
+releaseCode = "Decision"
 issue = 338
+[[lineup]]
+  name = "Reiko Yamamoto"
+  slug = "reiko-yamamoto"
+  instrument = "vibraphone"
+  japanese = "山本玲子 Yamamoto Reiko"
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano"
+  japanese = "栗林すみれ Kuribayashi Sumire"
 related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 [cover]
   image = "sumireiko-decision-460.jpeg"
@@ -37,16 +50,6 @@ The title track #6 “Decision” is a multi-part suite whose sections introduce
 \#8 “Mattina” as written by Kuribayashi, played as a vibraphone solo by Yamamoto, and is as innocent and nostalgic as the memory of carousel ride from childhood. Finally, the album wraps up with #9 “Mean a Lot to Me”, where the duo works together empathically to develop the same steady and composed musical feeling together, expressed in this finale as a complex mix of a gradually developing farewell suffused with the lingering reluctance to part.
 
 {{< figure src="L1300349x-1200.jpeg" link="L1300349x-1200.jpeg" >}}
-
-
-## Decision by Sumireiko
-
--   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
-
-Released in 2020 on Sumireiko as Decision.
-
-_Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire_
 
 
 ## Audio and Video

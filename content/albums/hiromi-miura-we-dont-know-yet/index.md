@@ -6,7 +6,32 @@ tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoic
 categories = ["albums"]
 draft = false
 slug = "hiromi-miura-we-dont-know-yet"
+releaseYear = 2013
+releaseLabel = "D-neo Daiki Musica"
+releaseCode = "DNCD-03"
 issue = 97
+[[lineup]]
+  name = "Hiromi Miura"
+  slug = "hiromi-miura"
+  instrument = "alto and soprano saxophone"
+  japanese = "三浦裕美 Miura Hiromi"
+[[lineup]]
+  name = "Yago Vázquez"
+  slug = "yago-vzquez"
+  instrument = "piano"
+[[lineup]]
+  name = "Greg Ruggiero"
+  slug = "greg-ruggiero"
+  instrument = "guitar"
+[[lineup]]
+  name = "Ryoichi Zakota"
+  slug = "ryoichi-zakota"
+  instrument = "bass"
+  japanese = "座小田諒一 Zakota Ryoichi"
+[[lineup]]
+  name = "Paolo Orlandi"
+  slug = "paolo-orlandi"
+  instrument = "drums"
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
   alt = "Cover art of We Don’t Know Yet by Hiromi Miura"
@@ -30,19 +55,6 @@ Following the five original jazz pieces, an attention-grabbing jazz blues is per
 {{< figure src="L1200273-1024.jpg" link="L1200273-1024.jpg" >}}
 
 {{< figure src="L1120170-1024.jpg" link="L1120170-1024.jpg" >}}
-
-
-## We Don’t Know Yet by Hiromi Miura
-
--   [Hiromi Miura](/tags/hiromi-miura/) - alto and soprano saxophone
--   [Yago Vázquez](/tags/yago-vzquez/) - piano
--   [Greg Ruggiero](/tags/greg-ruggiero/) - guitar
--   [Ryoichi Zakota](/tags/ryoichi-zakota/) - bass
--   [Paolo Orlandi](/tags/paolo-orlandi/) - drums
-
-Released in 2013 on D-neo Daiki Musica as DNCD-03.
-
-_Japanese names: 三浦裕美 Miura Hiromi 座小田諒一 Zakota Ryoichi_
 
 
 ## Audio and Video

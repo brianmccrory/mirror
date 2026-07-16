@@ -7,7 +7,25 @@ tags = ["Ami Fukui", "福井亜実", "Yoshihito “P” Koizumi", "小泉P克人
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-amizm"
+releaseYear = 2013
+releaseLabel = "Peace Bass Records"
+releaseCode = "PBRS-0002"
 issue = 55
+[[lineup]]
+  name = "Ami Fukui"
+  slug = "ami-fukui"
+  instrument = "piano, Clavinet, Rhodes, CP-80, synth"
+  japanese = "福井亜実 Fukui Ami"
+[[lineup]]
+  name = "Yoshihito “P” Koizumi"
+  slug = "yoshihito-p-koizumi"
+  instrument = "bass"
+  japanese = "小泉P克人 Koizumi Yoshihito “P”"
+[[lineup]]
+  name = "Yasushi Fukumori"
+  slug = "yasushi-fukumori"
+  instrument = "drums"
+  japanese = "福森康 Fukumori Yasushi"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "amifukui-amizm-460.jpeg"
@@ -41,17 +59,6 @@ _(A translation of the album description on the obi.)_
 It’s been about three years since the previous release _Urban Clutter_. The newly-formed group “Amizm” has released their long-awaited new album. Listeners will be captivated by their colorful pop worldview which combines wild strength with heartwarming sounds.
 
 {{< figure src="IMG_20231010_075959487x-1200.jpeg" link="IMG_20231010_075959487x-1200.jpeg" >}}
-
-
-## Amizm by Ami Fukui
-
--   [Ami Fukui](/tags/ami-fukui/) - piano, Clavinet, Rhodes, CP-80, synth
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
-
-Released in 2013 on Peace Bass Records as PBRS-0002.
-
-_Japanese names: 福井亜実 Fukui Ami 小泉P克人 Koizumi Yoshihito “P” 福森康 Fukumori Yasushi_
 
 
 ## Audio and Video

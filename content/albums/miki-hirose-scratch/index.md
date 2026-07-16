@@ -6,7 +6,36 @@ tags = ["Miki Hirose", "広瀬未来", "Xavier Perez", "Toru Dodo", "百々徹",
 categories = ["albums"]
 draft = false
 slug = "miki-hirose-scratch"
+releaseYear = 2013
+releaseLabel = "Jazz Lab Records"
+releaseCode = "JLR-1301"
 issue = 128
+[[lineup]]
+  name = "Miki Hirose"
+  slug = "miki-hirose"
+  instrument = "trumpet & flugelhorn"
+  japanese = "広瀬未来 Hirose Miki"
+[[lineup]]
+  name = "Xavier Perez"
+  slug = "xavier-perez"
+  instrument = "tenor sax"
+[[lineup]]
+  name = "Toru Dodo"
+  slug = "toru-dodo"
+  instrument = "piano, Fender Rhodes"
+  japanese = "百々徹 Dodo Toru"
+[[lineup]]
+  name = "Aiden O’Donnell"
+  slug = "aiden-odonnell"
+  instrument = "bass"
+[[lineup]]
+  name = "Jerome Jennings"
+  slug = "jerome-jennings"
+  instrument = "drums"
+[[lineup]]
+  name = "Mauricio Herrera"
+  slug = "mauricio-herrera"
+  instrument = "congas (#1, 3, 4)"
 [cover]
   image = "mikihirose-scratch-460.jpeg"
   alt = "Cover art of Scratch by Miki Hirose"
@@ -24,20 +53,6 @@ Trumpeter Miki Hirose’s _Scratch_ from 2013 sizzles with energy, fueled by imp
 {{< figure src="L1200661-1024.jpg" link="L1200661-1024.jpg" >}}
 
 {{< figure src="IMG_20150324_123553-1024.jpg" link="IMG_20150324_123553-1024.jpg" >}}
-
-
-## Scratch by Miki Hirose
-
--   [Miki Hirose](/tags/miki-hirose/) - trumpet &amp; flugelhorn
--   [Xavier Perez](/tags/xavier-perez/) - tenor sax
--   [Toru Dodo](/tags/toru-dodo/) - piano, Fender Rhodes
--   [Aiden O’Donnell](/tags/aiden-odonnell/) - bass
--   [Jerome Jennings](/tags/jerome-jennings/) - drums
--   [Mauricio Herrera](/tags/mauricio-herrera/) - congas (#1, 3, 4)
-
-Released in 2013 on Jazz Lab Records as JLR-1301.
-
-_Japanese names: 広瀬未来 Hirose Miki 百々徹 Dodo Toru_
 
 
 ## Audio and Video

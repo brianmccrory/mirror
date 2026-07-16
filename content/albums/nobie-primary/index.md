@@ -6,7 +6,59 @@ tags = ["Nobie", "ノビー", "Toninho Horta", "Junichiro Ohkuchi", "大口純�
 categories = ["albums"]
 draft = false
 slug = "nobie-primary"
+releaseYear = 2011
+releaseLabel = "Anturtle Tune"
+releaseCode = "ANTX-0721"
 issue = 262
+[[lineup]]
+  name = "Nobie"
+  slug = "nobie"
+  instrument = "vocals, handclaps, microKORG, shaker"
+  japanese = "ノビー Nobie"
+[[lineup]]
+  name = "Toninho Horta"
+  slug = "toninho-horta"
+  instrument = "vocals & acoustic guitars (#1, 11)"
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano (#8)"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
+[[lineup]]
+  name = "Shikou Ito"
+  slug = "shikou-ito"
+  instrument = "piano, keyboards, & handclaps (#2, 3, 7, 10)"
+  japanese = "伊藤志宏 Ito Shikou"
+[[lineup]]
+  name = "Kohzo Komori"
+  slug = "kohzo-komori"
+  instrument = "drums & handclaps (#2, 3, 4, 6, 7, 9, 10)"
+  japanese = "小森耕造 Komori Kohzo"
+[[lineup]]
+  name = "Satoshi Yoshida"
+  slug = "satoshi-yoshida"
+  instrument = "electric and acoustic guitars (#4, 5, 6, 9, 10)"
+  japanese = "吉田サトシ Yoshida Satoshi"
+[[lineup]]
+  name = "Yoshihito “P” Koizumi"
+  slug = "yoshihito-p-koizumi"
+  instrument = "electric bass (#4, 6, 7, 9)"
+  japanese = "小泉P克人 Koizumi Yoshihito “P”"
+[[lineup]]
+  name = "Yuri Dazai"
+  slug = "yuri-dazai"
+  instrument = "piano & keyboard (#6, 9)"
+  japanese = "太宰百合 Dazai Yuri"
+[[lineup]]
+  name = "Satoshi Ishikawa"
+  slug = "satoshi-ishikawa"
+  instrument = "percussions (#5)"
+  japanese = "石川智 Ishikawa Satoshi"
+[[lineup]]
+  name = "Satoshi Sano"
+  slug = "satoshi-sano"
+  instrument = "flute (#9)"
+  japanese = "佐野聡 Sano Satoshi"
 related = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 [cover]
   image = "nobie-primary-460.jpeg"
@@ -51,24 +103,6 @@ At live shows, Nobie switches between singing in Portuguese, Japanese, English, 
 Similarly, on _Primary_, Nobie sings in Japanese for five tracks, English for three (fitting the finely-rearranged Beatles and Michael Jackson songs and Nobie’s storytelling love song “Letter”), Portuguese on one, and with instrumental voice on “Black Narcissus” (appropriately sax-like), “Shinkansen” (with train station names appearing near the end, naturally), and “Wind From Minas”, closing the album just like it begins, with irresistible rhythms and addictively lovable singing.
 
 {{< figure src="IMG_20231012_081956616x-1200.jpeg" link="IMG_20231012_081956616x-1200.jpeg" >}}
-
-
-## Primary by Nobie
-
--   [Nobie](/tags/nobie/) - vocals, handclaps, microKORG, shaker
--   [Toninho Horta](/tags/toninho-horta/) - vocals &amp; acoustic guitars (#1, 11)
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (#8)
--   [Shikou Ito](/tags/shikou-ito/) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
--   [Kohzo Komori](/tags/kohzo-komori/) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
--   [Satoshi Yoshida](/tags/satoshi-yoshida/) - electric and acoustic guitars (#4, 5, 6, 9, 10)
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - electric bass (#4, 6, 7, 9)
--   [Yuri Dazai](/tags/yuri-dazai/) - piano &amp; keyboard (#6, 9)
--   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - percussions (#5)
--   [Satoshi Sano](/tags/satoshi-sano/) - flute (#9)
-
-Released in 2011 on Anturtle Tune as ANTX-0721.
-
-_Japanese names: ノビー Nobie 大口純一郎 Ohkuchi Junichiro 伊藤志宏 Ito Shikou 小森耕造 Komori Kohzo 吉田サトシ Yoshida Satoshi 小泉P克人 Koizumi Yoshihito “P” 太宰百合 Dazai Yuri 石川智 Ishikawa Satoshi 佐野聡 Sano Satoshi_
 
 
 ## Audio and Video

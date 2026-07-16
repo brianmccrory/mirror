@@ -6,7 +6,29 @@ tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira",
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-mcy"
+releaseYear = 2023
+releaseLabel = "MAM Records"
+releaseCode = "MR-002"
 issue = 292
+[[lineup]]
+  name = "Ami Fukui"
+  slug = "ami-fukui"
+  instrument = "piano"
+  japanese = "福井亜実 Fukui Ami"
+[[lineup]]
+  name = "Keigo Iwami"
+  slug = "keigo-iwami"
+  instrument = "bass"
+  japanese = "岩見継吾 Iwami Keigo"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums"
+  japanese = "吉良創太 Kira Sota"
+[[lineup]]
+  name = "Kouki"
+  slug = "kouki"
+  instrument = "vocal (track #8)"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
@@ -120,18 +142,6 @@ I also would love to thank all the people who were involved and who lent us thei
 福井亜実 Ami Fukui
 
 {{< figure src="IMG_20240607_083118626_HDRx-1200.jpeg" link="IMG_20240607_083118626_HDRx-1200.jpeg" >}}
-
-
-## MCY by Ami Fukui Trio
-
--   [Ami Fukui](/tags/ami-fukui/) - piano
--   [Keigo Iwami](/tags/keigo-iwami/) - bass
--   [Sota Kira](/tags/sota-kira/) - drums
--   [Kouki](/tags/kouki/) - vocal (track #8)
-
-Released in 2023 on MAM Records as MR-002.
-
-_Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
 ## Audio and Video

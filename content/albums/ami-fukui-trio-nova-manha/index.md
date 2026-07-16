@@ -6,7 +6,25 @@ tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira",
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-nova-manha"
+releaseYear = 2022
+releaseLabel = "MAM Records"
+releaseCode = "MR-001"
 issue = 226
+[[lineup]]
+  name = "Ami Fukui"
+  slug = "ami-fukui"
+  instrument = "piano"
+  japanese = "福井亜実 Fukui Ami"
+[[lineup]]
+  name = "Keigo Iwami"
+  slug = "keigo-iwami"
+  instrument = "bass"
+  japanese = "岩見継吾 Iwami Keigo"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums"
+  japanese = "吉良創太 Kira Sota"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
@@ -114,17 +132,6 @@ I have two black cats who are sisters. The one who came first was pitch black li
 I wrote this song thinking about how fun it is to play with these kitties. The song is a duo with a great bassist.
 
 {{< figure src="L1240186x-1024.jpeg" link="L1240186x-1024.jpeg" >}}
-
-
-## Nova Manhã by Ami Fukui Trio
-
--   [Ami Fukui](/tags/ami-fukui/) - piano
--   [Keigo Iwami](/tags/keigo-iwami/) - bass
--   [Sota Kira](/tags/sota-kira/) - drums
-
-Released in 2022 on MAM Records as MR-001.
-
-_Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
 ## Audio and Video

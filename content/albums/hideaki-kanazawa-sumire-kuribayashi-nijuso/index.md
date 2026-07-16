@@ -6,7 +6,20 @@ tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみ�
 categories = ["albums"]
 draft = false
 slug = "hideaki-kanazawa-sumire-kuribayashi-nijuso"
+releaseYear = 2017
+releaseLabel = "Roving Spirits"
+releaseCode = "RKCJ-2063"
 issue = 94
+[[lineup]]
+  name = "Hideaki Kanazawa"
+  slug = "hideaki-kanazawa"
+  instrument = "contrabass"
+  japanese = "金澤英明 Kanazawa Hideaki"
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano, percussion"
+  japanese = "栗林すみれ Kuribayashi Sumire"
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
   alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"
@@ -30,16 +43,6 @@ From the opening Ornette Coleman number “Mary Hartman, Mary Hartman”, the dr
 {{< figure src="L1220273-1024.jpg" link="L1220273-1024.jpg" >}}
 
 {{< figure src="L1220274-1024.jpg" link="L1220274-1024.jpg" >}}
-
-
-## Nijuso by Hideaki Kanazawa &amp; Sumire Kuribayashi
-
--   [Hideaki Kanazawa](/tags/hideaki-kanazawa/) - contrabass
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano, percussion
-
-Released in 2017 on Roving Spirits as RKCJ-2063.
-
-_Japanese names: 金澤英明 Kanazawa Hideaki 栗林すみれ Kuribayashi Sumire_
 
 
 ## Audio and Video

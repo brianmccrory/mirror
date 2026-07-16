@@ -6,7 +6,29 @@ tags = ["Mamoru Ishida", "石田衛", "Mike Rivett", "Show Kudo", "工藤精", "
 categories = ["albums"]
 draft = false
 slug = "mamoru-ishida-ishida-mamoru-4-feat"
+releaseYear = 2011
+releaseLabel = "Anturtle Analog Recordings"
+releaseCode = "ANTX-1002"
 issue = 203
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Mike Rivett"
+  slug = "mike-rivett"
+  instrument = "saxophone"
+[[lineup]]
+  name = "Show Kudo"
+  slug = "show-kudo"
+  instrument = "bass"
+  japanese = "工藤精 Kudo Show"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
 related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
@@ -82,18 +104,6 @@ Furthermore, another important point was to record two tracks directly onto 1/2-
 The microphone used to capture the piano sound is a 1930s Westrex ribbon mic. This is an old type that Ishida chose for its mellow recorded sound. Rather than having a wide stereo position with each instrument’s sound expanding to the right and left, the drums are set to the left, the bass and piano are in the center, and the sax is set to the right. Also, there is very little reverb, resulting in a fairly dry sound being produced.
 
 {{< figure src="L1240156x-1024.jpeg" link="L1240156x-1024.jpeg" >}}
-
-
-## Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida
-
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Mike Rivett](/tags/mike-rivett/) - saxophone
--   [Show Kudo](/tags/show-kudo/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums
-
-Released in 2011 on Anturtle Analog Recordings as ANTX-1002.
-
-_Japanese names: 石田衛 Ishida Mamoru 工藤精 Kudo Show 大村亘 Omura Ko_
 
 
 ## Audio and Video

@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "b-flat"
+clubName = "B-flat"
+clubUrl = "https://bflat.yamano-music.co.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Akasaka"
+clubMap = "https://maps.app.goo.gl/LtBuTeeXxPS85dwc8"
 issue = 228
 [cover]
   image = "L1170438-1024.jpeg"
@@ -44,9 +49,3 @@ Compared to other smaller jazz bars, the food menu here is more than just bar sn
 B-flat fills a comfortable spot between the tiny, family-style jazz bars and higher-class expensive headliner jazz bars, and every once in a while, more well-known foreign and Japanese professional jazz musicians also grace the B-Flat stage. This is the kind of place that pays off to check the schedule and visit often, especially when you are in the area for business or travel.
 
 {{< figure src="IMG_2776x-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to B-flat" link="IMG_2776x-1024.jpeg" >}}
-
-
-## Information
-
--   [B-flat’s website](https://bflat.yamano-music.co.jp/)
--   [Located near Akasaka station in Tokyo, Japan](https://maps.app.goo.gl/LtBuTeeXxPS85dwc8)

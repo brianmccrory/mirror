@@ -6,7 +6,45 @@ tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", 
 categories = ["albums"]
 draft = false
 slug = "motoi-kanamori-the-live"
+releaseYear = 2023
+releaseLabel = "Laplace Records"
+releaseCode = "LPDCD113-114"
 issue = 288
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Hiroyuki Takubo"
+  slug = "hiroyuki-takubo"
+  instrument = "piano"
+  japanese = "田窪寛之 Takubo Hiroyuki"
+[[lineup]]
+  name = "Akira Yamada"
+  slug = "akira-yamada"
+  instrument = "drums"
+  japanese = "山田玲 Yamada Akira"
+[[lineup]]
+  name = "Taishi Sakurai"
+  slug = "taishi-sakurai"
+  instrument = "violin"
+  japanese = "桜井大士 Sakurai Taishi"
+[[lineup]]
+  name = "Chie Hasegawa"
+  slug = "chie-hasegawa"
+  instrument = "violin"
+  japanese = "長谷川智恵 Hasegawa Chie"
+[[lineup]]
+  name = "Megumi Ozawa"
+  slug = "megumi-ozawa"
+  instrument = "viola"
+  japanese = "小澤恵 Ozawa Megumi"
+[[lineup]]
+  name = "Atsushi Hashimoto"
+  slug = "atsushi-hashimoto"
+  instrument = "cello"
+  japanese = "橋本專史 Hashimoto Atsushi"
 related = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
 [cover]
   image = "motoi-kanamori-the-live-460.jpeg"
@@ -101,21 +139,6 @@ A combination of daringly dashing piano trio and magnificently sweet strings.
 A stunning 2-disc album that captures the stirring concert recorded live in high quality at Tokyo FM Hall!!
 
 {{< figure src="IMG_20240409_111606162_HDRx-1200.jpeg" link="IMG_20240409_111606162_HDRx-1200.jpeg" >}}
-
-
-## The Live by Motoi Kanamori
-
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
--   [Akira Yamada](/tags/akira-yamada/) - drums
--   [Taishi Sakurai](/tags/taishi-sakurai/) - violin
--   [Chie Hasegawa](/tags/chie-hasegawa/) - violin
--   [Megumi Ozawa](/tags/megumi-ozawa/) - viola
--   [Atsushi Hashimoto](/tags/atsushi-hashimoto/) - cello
-
-Released in 2023 on Laplace Records as LPDCD113-114.
-
-_Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山田玲 Yamada Akira 桜井大士 Sakurai Taishi 長谷川智恵 Hasegawa Chie 小澤恵 Ozawa Megumi 橋本專史 Hashimoto Atsushi_
 
 
 ## Audio and Video

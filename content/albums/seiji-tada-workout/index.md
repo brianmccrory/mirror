@@ -6,7 +6,27 @@ tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny
 categories = ["albums"]
 draft = false
 slug = "seiji-tada-workout"
+releaseYear = 2018
+releaseLabel = "Studio TLive Records"
+releaseCode = "STLR-018"
 issue = 89
+[[lineup]]
+  name = "Seiji Tada"
+  slug = "seiji-tada"
+  instrument = "alto sax, flute, alto flute"
+  japanese = "多田誠司 Tada Seiji"
+[[lineup]]
+  name = "Renee Rosnes"
+  slug = "renee-rosnes"
+  instrument = "piano"
+[[lineup]]
+  name = "Peter Washington"
+  slug = "peter-washington"
+  instrument = "bass"
+[[lineup]]
+  name = "Kenny Washington"
+  slug = "kenny-washington"
+  instrument = "drums"
 [cover]
   image = "seijitada-workout-460.jpeg"
   alt = "Cover art of Workout!! by Seiji Tada"
@@ -28,18 +48,6 @@ Whether Japanese or American, in New York or Tokyo, the “This is Jazz!” spir
 {{< figure src="L1220630-1024.jpg" link="L1220630-1024.jpg" >}}
 
 {{< figure src="L1220631-1024.jpg" link="L1220631-1024.jpg" >}}
-
-
-## Workout!! by Seiji Tada
-
--   [Seiji Tada](/tags/seiji-tada/) - alto sax, flute, alto flute
--   [Renee Rosnes](/tags/renee-rosnes/) - piano
--   [Peter Washington](/tags/peter-washington/) - bass
--   [Kenny Washington](/tags/kenny-washington/) - drums
-
-Released in 2018 on Studio TLive Records as STLR-018.
-
-_Japanese names: 多田誠司 Tada Seiji_
 
 
 ## Audio and Video

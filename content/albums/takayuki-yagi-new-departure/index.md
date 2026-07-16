@@ -6,7 +6,31 @@ tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay A
 categories = ["albums"]
 draft = false
 slug = "takayuki-yagi-new-departure"
+releaseYear = 2018
+releaseLabel = "JazzTOKYO RECORDS"
+releaseCode = "JTRC-002"
 issue = 127
+[[lineup]]
+  name = "Takayuki Yagi"
+  slug = "takayuki-yagi"
+  instrument = "piano"
+  japanese = "八木隆幸 Yagi Takayuki"
+[[lineup]]
+  name = "Scott Wendholt"
+  slug = "scott-wendholt"
+  instrument = "trumpet (#1, 2, 3, 5)"
+[[lineup]]
+  name = "Ralph Bowen"
+  slug = "ralph-bowen"
+  instrument = "tenor saxophone (#1, 2, 3, 5)"
+[[lineup]]
+  name = "Jay Anderson"
+  slug = "jay-anderson"
+  instrument = "bass"
+[[lineup]]
+  name = "Billy Drummond"
+  slug = "billy-drummond"
+  instrument = "drums"
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
   alt = "Cover art of New Departure by Takayuki Yagi"
@@ -91,19 +115,6 @@ Pianist Walter Davis Jr. left a lot of wonderful songs despite being very undera
 Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed in two parts with a free section also engaged in close combat.
 
 {{< figure src="L1220403-1024.jpg" link="L1220403-1024.jpg" >}}
-
-
-## New Departure by Takayuki Yagi
-
--   [Takayuki Yagi](/tags/takayuki-yagi/) - piano
--   [Scott Wendholt](/tags/scott-wendholt/) - trumpet (#1, 2, 3, 5)
--   [Ralph Bowen](/tags/ralph-bowen/) - tenor saxophone (#1, 2, 3, 5)
--   [Jay Anderson](/tags/jay-anderson/) - bass
--   [Billy Drummond](/tags/billy-drummond/) - drums
-
-Released in 2018 on JazzTOKYO RECORDS as JTRC-002.
-
-_Japanese names: 八木隆幸 Yagi Takayuki_
 
 
 ## Audio and Video

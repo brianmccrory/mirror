@@ -6,7 +6,32 @@ tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Ko Omura", "大村亘", "
 categories = ["albums"]
 draft = false
 slug = "bungalow-abstract-messages"
+releaseYear = 2020
+releaseLabel = "Studio Songs"
+releaseCode = "YZSO-10109"
 issue = 200
+[[lineup]]
+  name = "Mike Rivett"
+  slug = "mike-rivett"
+  instrument = "tenor sax, woodwinds, 808 bass, samples & sound manipulation"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano, Rhodes, Wurlitzer, Minimoog"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums, tabla, gatam"
+  japanese = "大村亘 Omura Ko"
+[[lineup]]
+  name = "Isabeau Hansen"
+  slug = "isabeau-hansen"
+  instrument = "flute"
+[[lineup]]
+  name = "Gordon Richter"
+  slug = "gordon-richter"
+  instrument = "clarinet & bassoon"
 related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
@@ -90,19 +115,6 @@ Now, let’s take a deep breath, and hang out for a while together.
 _中川ヨウ_ Yo Nakagawa /
 
 {{< figure src="L1240185x-1024.jpeg" link="L1240185x-1024.jpeg" >}}
-
-
-## Abstract Messages by Bungalow
-
--   [Mike Rivett](/tags/mike-rivett/) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
--   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes, Wurlitzer, Minimoog
--   [Ko Omura](/tags/ko-omura/) - drums, tabla, gatam
--   [Isabeau Hansen](/tags/isabeau-hansen/) - flute
--   [Gordon Richter](/tags/gordon-richter/) - clarinet &amp; bassoon
-
-Released in 2020 on Studio Songs as YZSO-10109.
-
-_Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
 
 
 ## Audio and Video

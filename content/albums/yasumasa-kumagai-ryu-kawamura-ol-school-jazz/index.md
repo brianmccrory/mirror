@@ -6,7 +6,20 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜"]
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-ryu-kawamura-ol-school-jazz"
+releaseYear = 2009
+releaseLabel = "Anturtle Tune"
+releaseCode = "ANTX-4005"
 issue = 260
+[[lineup]]
+  name = "Yasumasa Kumagai"
+  slug = "yasumasa-kumagai"
+  instrument = "piano"
+  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
+[[lineup]]
+  name = "Ryu Kawamura"
+  slug = "ryu-kawamura"
+  instrument = "bass"
+  japanese = "川村竜 Kawamura Ryu"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ryukawamura-olschool-460.jpeg"
@@ -29,16 +42,6 @@ Jazz jam session favorites are also represented: “Caravan”, “All the Thing
 Filling out the package is one original song, the comfortable home base of a groovy jazz blues simply titled “Blues”. Each player also gets their own spot alone: Kawamura plays a brilliant bass solo on “Up Jumped Spring” in a relaxed midtempo swing, and Kumagai wraps up the album with a gospel blues piano solo for the last track, the spiritual and expressive “Amazing Grace”.
 
 {{< figure src="L1230298x-1200.jpeg" link="L1230298x-1200.jpeg" >}}
-
-
-## Ol’ School Jazz by Yasumasa Kumagai &amp; Ryu Kawamura
-
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
-
-Released in 2009 on Anturtle Tune as ANTX-4005.
-
-_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu_
 
 
 ## Audio and Video

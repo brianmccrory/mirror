@@ -6,7 +6,35 @@ tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohno
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-virgo"
+releaseYear = 2014
+releaseLabel = "Okra Record"
+releaseCode = "MIKO-1009"
 issue = 73
+[[lineup]]
+  name = "Harumi Nomoto"
+  slug = "harumi-nomoto"
+  instrument = "piano"
+  japanese = "野本晴美 Nomoto Harumi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "electric fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
+[[lineup]]
+  name = "Makiko Sugawara"
+  slug = "makiko-sugawara"
+  instrument = "violin (track #8)"
+  japanese = "菅原牧子 Sugawara Makiko"
+[[lineup]]
+  name = "Nao Sakamoto"
+  slug = "nao-sakamoto"
+  instrument = "Chromasomus/prepared guitar (track #8)"
+  japanese = "坂本直 Sakamoto Nao"
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
   alt = "Cover art of Virgo by Harumi Nomoto Trio"
@@ -30,19 +58,6 @@ Exotic musical elements also surface on _Virgo_, as African music inspires the s
 Plenty of peaceful space is also offered and balances the energy well, with the tender ballad “Aru Hito No Koto” and two versions of the song “Rain”, an ode to the beauty of wet weather and contemplative moods.
 
 {{< figure src="L1210321-1024.jpg" link="L1210321-1024.jpg" >}}
-
-
-## Virgo by Harumi Nomoto Trio
-
--   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
--   [Makiko Sugawara](/tags/makiko-sugawara/) - violin (track #8)
--   [Nao Sakamoto](/tags/nao-sakamoto/) - Chromasomus/prepared guitar (track #8)
-
-Released in 2014 on Okra Record as MIKO-1009.
-
-_Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke 菅原牧子 Sugawara Makiko 坂本直 Sakamoto Nao_
 
 
 ## Audio and Video

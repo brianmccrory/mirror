@@ -6,7 +6,15 @@ tags = ["Toshihiko Inoue", "井上淑彦"]
 categories = ["albums"]
 draft = false
 slug = "toshihiko-inoue-vayu"
+releaseYear = 2016
+releaseLabel = "Foot & Shoe"
+releaseCode = "FSCJ-0011"
 issue = 23
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "solo saxophone"
+  japanese = "井上淑彦 Inoue Toshihiko"
 [cover]
   image = "toshihikoinoue-vayu-460.jpeg"
   alt = "Cover art of Vayu by Toshihiko Inoue"
@@ -41,15 +49,6 @@ This was unearthed from a simple audio recording and certainly not high-quality 
 We would like to thank everyone who helped us in releasing this.
 
 {{< figure src="L1180895-1024.jpg" link="L1180895-1024.jpg" >}}
-
-
-## Vayu by Toshihiko Inoue
-
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - solo saxophone
-
-Released in 2016 on Foot &amp; Shoe as FSCJ-0011.
-
-_Japanese names: 井上淑彦 Inoue Toshihiko_
 
 
 ## Audio and Video

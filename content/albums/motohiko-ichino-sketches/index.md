@@ -6,7 +6,30 @@ tags = ["Motohiko Ichino", "市野元彦", "Hikaru Toho", "東保光", "Shinichi
 categories = ["albums"]
 draft = false
 slug = "motohiko-ichino-sketches"
+releaseYear = 2007
+releaseLabel = "Ammonite Musique"
+releaseCode = "AM-1001"
 issue = 253
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Hikaru Toho"
+  slug = "hikaru-toho"
+  instrument = "acoustic bass"
+  japanese = "東保光 Toho Hikaru"
+[[lineup]]
+  name = "Shinichiro Kamoto"
+  slug = "shinichiro-kamoto"
+  instrument = "drums"
+  japanese = "嘉本信一郎 Kamoto Shinichiro"
+[[lineup]]
+  name = "Taiichi Kamimura"
+  slug = "taiichi-kamimura"
+  instrument = "tenor sax (#2, 5, 6, 10)"
+  japanese = "かみむら泰一 Kamimura Taiichi"
 related = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-frozen-dust", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "motohiko-ichino-sketches-460.jpeg"
@@ -40,18 +63,6 @@ Memories of scenes from the mind’s eye. Ten sketches of sound.
 Motohiko Ichino was born in Kobe. He studied at Berklee College of Music under Mick Goodrick (guitar) and others. He is a winner of the Gibson Jazz Guitar Contest in 2003. He currently plays in trios, quartets, solo improvisation, ELECTRON-4 project, and others at shows with a base at Shinjuku Pit Inn. He is also a member of groups including the Ryosuke Hashizume (tenor sax) Group and the Taiichi Kamimura (tenor sax) Quartet.
 
 {{< figure src="IMG_20240724_150641567_HDRx-1200.jpeg" link="IMG_20240724_150641567_HDRx-1200.jpeg" >}}
-
-
-## Sketches by Motohiko Ichino
-
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Hikaru Toho](/tags/hikaru-toho/) - acoustic bass
--   [Shinichiro Kamoto](/tags/shinichiro-kamoto/) - drums
--   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor sax (#2, 5, 6, 10)
-
-Released in 2007 on Ammonite Musique as AM-1001.
-
-_Japanese names: 市野元彦 Ichino Motohiko 東保光 Toho Hikaru 嘉本信一郎 Kamoto Shinichiro かみむら泰一 Kamimura Taiichi_
 
 
 ## Audio and Video

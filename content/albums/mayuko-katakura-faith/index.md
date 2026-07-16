@@ -6,7 +6,23 @@ tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-faith"
+releaseYear = 2010
+releaseLabel = "Pony Canyon"
+releaseCode = "MYCJ-30578"
 issue = 17
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Rodney Whitaker"
+  slug = "rodney-whitaker"
+  instrument = "bass"
+[[lineup]]
+  name = "Carl Allen"
+  slug = "carl-allen"
+  instrument = "drums"
 [cover]
   image = "mayukokatakura-faith-460.jpeg"
   alt = "Cover art of Faith by Mayuko Katakura"
@@ -24,17 +40,6 @@ This straight-ahead jazz trio is marked by warmth between the musicians, who agr
 {{< figure src="L1180722-1024.jpg" link="L1180722-1024.jpg" >}}
 
 {{< figure src="L1180723-1024.jpg" link="L1180723-1024.jpg" >}}
-
-
-## Faith by Mayuko Katakura
-
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Rodney Whitaker](/tags/rodney-whitaker/) - bass
--   [Carl Allen](/tags/carl-allen/) - drums
-
-Released in 2010 on Pony Canyon as MYCJ-30578.
-
-_Japanese names: 片倉真由子 Katakura Mayuko_
 
 
 ## Audio and Video

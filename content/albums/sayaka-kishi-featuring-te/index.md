@@ -6,7 +6,25 @@ tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ", "Aya Kuro
 categories = ["albums"]
 draft = false
 slug = "sayaka-kishi-featuring-te"
+releaseYear = 2014
+releaseLabel = "Roving Spirits"
+releaseCode = "RKC-8050"
 issue = 9
+[[lineup]]
+  name = "Sayaka Kishi"
+  slug = "sayaka-kishi"
+  instrument = "piano"
+  japanese = "岸淑香 Kishi Sayaka"
+[[lineup]]
+  name = "Mayumi Sano"
+  slug = "mayumi-sano"
+  instrument = "cello (#2, 5, 9)"
+  japanese = "佐野まゆみ Sano Mayumi"
+[[lineup]]
+  name = "Aya Kurosawa"
+  slug = "aya-kurosawa"
+  instrument = "vocal (#11)"
+  japanese = "黒沢綾 Kurosawa Aya"
 [cover]
   image = "sayakakishi-featte-460.jpeg"
   alt = "Cover art of Featuring Te by Sayaka Kishi"
@@ -24,17 +42,6 @@ Although this is mostly a solo piano album spotlighting Kishi and her music, two
 {{< figure src="L1180440-1024.jpg" link="L1180440-1024.jpg" >}}
 
 {{< figure src="L1180438-1024.jpg" link="L1180438-1024.jpg" >}}
-
-
-## Featuring Te by Sayaka Kishi
-
--   [Sayaka Kishi](/tags/sayaka-kishi/) - piano
--   [Mayumi Sano](/tags/mayumi-sano/) - cello (#2, 5, 9)
--   [Aya Kurosawa](/tags/aya-kurosawa/) - vocal (#11)
-
-Released in 2014 on Roving Spirits as RKC-8050.
-
-_Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi 黒沢綾 Kurosawa Aya_
 
 
 ## Audio and Video

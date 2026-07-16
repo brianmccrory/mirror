@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "natural"
+clubName = "Natural"
+clubUrl = "https://musicsalon-natural.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Mitaka"
+clubMap = "https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6"
 issue = 319
 [cover]
   image = "L1270458-1200.jpeg"
@@ -60,9 +65,3 @@ Natural’s rule on photos is like many other venues and displayed (in Japanese)
 {{< figure src="L1270455-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Hamburg plate at Natural" link="L1270455-1200.jpeg" >}}
 
 {{< figure src="L1270450-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Natural" link="L1270450-1200.jpeg" >}}
-
-
-## Information
-
--   [Natural’s website](https://musicsalon-natural.jp/)
--   [Located near Mitaka station in Tokyo, Japan](https://maps.app.goo.gl/7pAqXBkXB4zwQn8Y6)

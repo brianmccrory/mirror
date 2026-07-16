@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "body-and-soul"
+clubName = "Body & Soul"
+clubUrl = "https://www.bodyandsoul.co.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Shibuya"
+clubStation2 = "Harajuku"
+clubMap = "https://maps.app.goo.gl/PVgKKnMY2Ktc3ZiVA"
 issue = 177
 [cover]
   image = "P1020263-1024.jpeg"
@@ -30,9 +36,3 @@ Body &amp; Soul is a perfect choice for both diehard jazz and more casual listen
 {{< figure src="P1040084-1024.jpeg" link="P1040084-1024.jpeg" >}}
 
 {{< figure src="DSC_8761-1024.jpeg" link="DSC_8761-1024.jpeg" >}}
-
-
-## Information
-
--   [Body &amp; Soul’s website](https://www.bodyandsoul.co.jp/)
--   [Located near Shibuya and Harajuku stations in Tokyo, Japan](https://maps.app.goo.gl/PVgKKnMY2Ktc3ZiVA)

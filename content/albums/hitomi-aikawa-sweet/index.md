@@ -6,7 +6,35 @@ tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹", "Hiroshi Su
 categories = ["albums"]
 draft = false
 slug = "hitomi-aikawa-sweet"
+releaseYear = 2018
+releaseLabel = "Hitomi Aikawa"
+releaseCode = "HICD-001"
 issue = 330
+[[lineup]]
+  name = "Hitomi Aikawa"
+  slug = "hitomi-aikawa"
+  instrument = "percussion"
+  japanese = "相川瞳 Aikawa Hitomi"
+[[lineup]]
+  name = "Masaki Hayashi"
+  slug = "masaki-hayashi"
+  instrument = "piano (#2, 11, 13, 14)"
+  japanese = "林正樹 Hayashi Masaki"
+[[lineup]]
+  name = "Hiroshi Suzuki"
+  slug = "hiroshi-suzuki"
+  instrument = "soprano sax (#2, 14), tenor sax (#12), clarinet (#13)"
+  japanese = "鈴木広志 Suzuki Hiroshi"
+[[lineup]]
+  name = "Megumi Hattori"
+  slug = "megumi-hattori"
+  instrument = "vibraphone (#4)"
+  japanese = "服部恵 Hattori Megumi"
+[[lineup]]
+  name = "Eri Uenoyama"
+  slug = "eri-uenoyama"
+  instrument = "piano (#8, 9)"
+  japanese = "上野山英里 Uenoyama Eri"
 related = ["magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
@@ -117,19 +145,6 @@ Thank you very much.
 Hitomi Aikawa
 
 {{< figure src="L1290203x-1200.jpeg" link="L1290203x-1200.jpeg" >}}
-
-
-## Sweet by Hitomi Aikawa
-
--   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
--   [Masaki Hayashi](/tags/masaki-hayashi/) - piano (#2, 11, 13, 14)
--   [Hiroshi Suzuki](/tags/hiroshi-suzuki/) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
--   [Megumi Hattori](/tags/megumi-hattori/) - vibraphone (#4)
--   [Eri Uenoyama](/tags/eri-uenoyama/) - piano (#8, 9)
-
-Released in 2018 on Hitomi Aikawa as HICD-001.
-
-_Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki 鈴木広志 Suzuki Hiroshi 服部恵 Hattori Megumi 上野山英里 Uenoyama Eri_
 
 
 ## Audio and Video

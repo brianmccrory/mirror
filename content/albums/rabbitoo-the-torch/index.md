@@ -6,7 +6,35 @@ tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "
 categories = ["albums"]
 draft = false
 slug = "rabbitoo-the-torch"
+releaseYear = 2016
+releaseLabel = "Song X Jazz"
+releaseCode = "SONGX-036"
 issue = 208
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar, keyboards"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Daisuke Fujiwara"
+  slug = "daisuke-fujiwara"
+  instrument = "tenor saxophone, flute, synthesizer, electronics"
+  japanese = "藤原大輔 Fujiwara Daisuke"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "rhodes, synthesizer, piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroki Chiba"
+  slug = "hiroki-chiba"
+  instrument = "contrabass, electric bass, violin, electronics"
+  japanese = "千葉広樹 Chiba Hiroki"
+[[lineup]]
+  name = "Noritaka Tanaka"
+  slug = "noritaka-tanaka"
+  instrument = "drums"
+  japanese = "田中徳崇 Tanaka Noritaka"
 related = ["rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy"]
 [cover]
   image = "rabbitoo-torch-460.jpeg"
@@ -27,19 +55,6 @@ _The Torch/’s nine songs explore territory that blends digital and analog soun
 Listening to this album creates these sorts of impressions: _A visual prism broadcasting waves…Monochrome soundtrack music, comfortably robotic/human labwork…Layers of melodic interlace cascading down Escher staircases…Sinister underground synth beat, chewy notes, and floating sound waves…A drifting mix of clouds and snowflakes…Bubbling and frothing uptempo odd-meter club beat…Sliding westward roots to country…Circular spiraling groove a la Medeski Martin &amp; Wood…Slow slices of sound intersecting and reflecting…_
 
 {{< figure src="L1230325x-1024.jpeg" link="L1230325x-1024.jpeg" >}}
-
-
-## The Torch by Rabbitoo
-
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, keyboards
--   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, flute, synthesizer, electronics
--   [Koichi Sato](/tags/koichi-sato/) - rhodes, synthesizer, piano
--   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, violin, electronics
--   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
-
-Released in 2016 on Song X Jazz as SONGX-036.
-
-_Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
 
 
 ## Audio and Video

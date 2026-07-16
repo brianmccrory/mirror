@@ -7,6 +7,13 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "jazzspot-j"
+clubName = "Jazzspot J"
+clubUrl = "https://web.archive.org/web/20191118143902/http://www.jazzspot-j.com/"
+clubCity = "Tokyo"
+clubStation1 = "Shinjuku-sanchome"
+clubStation2 = "Shinjuku-gyoemmae"
+clubMap = "https://goo.gl/maps/52JM52ZzWd9zoEBVA"
+clubStatus = "closed"
 issue = 261
 [cover]
   image = "DSC_5408-1200.jpeg"
@@ -60,11 +67,3 @@ Finally, one last remaining tribute to Jazzspot J lives on in the form of anothe
 {{< figure src="IMG_3241-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Coaster at Jazzspot J" link="IMG_3241-1200.jpeg" >}}
 
 {{< figure src="IMG_3239-1200.jpeg" caption="<span class=\"figure-number\">Figure 14: </span>Welcome to Jazzspot J" link="IMG_3239-1200.jpeg" >}}
-
-
-## Information
-
--   [Jazzspot J’s website](https://web.archive.org/web/20191118143902/http://www.jazzspot-j.com/)
--   [Located near Shinjuku-sanchome and Shinjuku-gyoemmae stations in Tokyo, Japan](https://goo.gl/maps/52JM52ZzWd9zoEBVA)
-
-_Note: Jazzspot J has permanently closed._

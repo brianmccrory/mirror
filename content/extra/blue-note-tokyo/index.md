@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "blue-note-tokyo"
+clubName = "Blue Note Tokyo"
+clubUrl = "https://www.bluenote.co.jp/jp/"
+clubCity = "Tokyo"
+clubStation1 = "Omotesando"
+clubMap = "https://maps.app.goo.gl/7Ndbz5pJyP3ViWjt7"
 issue = 244
 [cover]
   image = "IMG_20240313_172834458_HDR-1200.jpeg"
@@ -44,9 +49,3 @@ Blue Note Tokyo is an opulent environment unlike many other more casual jazz spo
 {{< figure src="IMG_20240321_102111588_BURST000_COVER-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Blue Note Tokyo papers" link="IMG_20240321_102111588_BURST000_COVER-1200.jpeg" >}}
 
 {{< figure src="IMG_20240321_102422827-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Blue Note Tokyo back page" link="IMG_20240321_102422827-1200.jpeg" >}}
-
-
-## Information
-
--   [Blue Note Tokyo’s website](https://www.bluenote.co.jp/jp/)
--   [Located near Omotesando station in Tokyo, Japan](https://maps.app.goo.gl/7Ndbz5pJyP3ViWjt7)

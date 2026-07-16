@@ -6,7 +6,27 @@ tags = ["Ayumi Koketsu", "纐纈歩美", "Jeremy Manasia", "Mike Karn", "Mark Ta
 categories = ["albums"]
 draft = false
 slug = "ayumi-koketsu-art"
+releaseYear = 2016
+releaseLabel = "Pony Canyon"
+releaseCode = "MYCJ-30653"
 issue = 3
+[[lineup]]
+  name = "Ayumi Koketsu"
+  slug = "ayumi-koketsu"
+  instrument = "alto sax"
+  japanese = "纐纈歩美 Koketsu Ayumi"
+[[lineup]]
+  name = "Jeremy Manasia"
+  slug = "jeremy-manasia"
+  instrument = "piano"
+[[lineup]]
+  name = "Mike Karn"
+  slug = "mike-karn"
+  instrument = "bass"
+[[lineup]]
+  name = "Mark Taylor"
+  slug = "mark-taylor"
+  instrument = "drums"
 related = ["ayumi-koketsu-rainbow-tales"]
 [cover]
   image = "ayumikoketsu-art-460.jpeg"
@@ -21,18 +41,6 @@ Alto saxophonist Ayumi Koketsu released a sophisticated tribute to Art Pepper on
 {{< figure src="L1180456-1024.jpg" link="L1180456-1024.jpg" >}}
 
 {{< figure src="L1180457-1024.jpg" link="L1180457-1024.jpg" >}}
-
-
-## Art by Ayumi Koketsu
-
--   [Ayumi Koketsu](/tags/ayumi-koketsu/) - alto sax
--   [Jeremy Manasia](/tags/jeremy-manasia/) - piano
--   [Mike Karn](/tags/mike-karn/) - bass
--   [Mark Taylor](/tags/mark-taylor/) - drums
-
-Released in 2016 on Pony Canyon as MYCJ-30653.
-
-_Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 
 ## Audio and Video

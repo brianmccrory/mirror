@@ -6,7 +6,25 @@ tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke I
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-urban-clutter"
+releaseYear = 2010
+releaseLabel = "Anturtle Analog Recordings"
+releaseCode = "ANTX-4008"
 issue = 147
+[[lineup]]
+  name = "Ami Fukui"
+  slug = "ami-fukui"
+  instrument = "piano"
+  japanese = "福井亜実 Fukui Ami"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 [cover]
   image = "amifukui-urbanclutter-460.jpeg"
   alt = "Cover art of Urban Clutter by Ami Fukui Trio"
@@ -73,17 +91,6 @@ URBAN CLUTTER
 This is a song I wrote about 4 years ago which I rearranged for this recording. I really wanted to include this song as it could be said to be my starting point. But of course, my tastes have changed between then and now, so I tried to use the original version and see if I somehow could incorporate my current feelings. In that sense, with the passage of time, I think that who I am now somehow came out most. I hope you can feel the darkness if only a little.
 
 {{< figure src="L1110630-1024.jpg" link="L1110630-1024.jpg" >}}
-
-
-## Urban Clutter by Ami Fukui Trio
-
--   [Ami Fukui](/tags/ami-fukui/) - piano
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
-
-Released in 2010 on Anturtle Analog Recordings as ANTX-4008.
-
-_Japanese names: 福井亜実 Fukui Ami 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
 
 
 ## Audio and Video

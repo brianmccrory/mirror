@@ -6,7 +6,35 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-visible-invisible"
+releaseYear = 2013
+releaseLabel = "Apollo Sounds"
+releaseCode = "APLS-1304"
 issue = 67
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor, soprano saxophones"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums, percussion"
+  japanese = "橋本学 Hashimoto Manabu"
 [cover]
   image = "ryosukehashizume-visible-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"
@@ -24,19 +52,6 @@ With six songs ranging from eight to 16 minutes each, the music breathes with li
 {{< figure src="L1200752-1024.jpg" link="L1200752-1024.jpg" >}}
 
 {{< figure src="L1200757-1024.jpg" link="L1200757-1024.jpg" >}}
-
-
-## _Visible/Invisible_ by Ryosuke Hashizume Group
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor, soprano saxophones
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
-
-Released in 2013 on Apollo Sounds as APLS-1304.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
 ## Audio and Video

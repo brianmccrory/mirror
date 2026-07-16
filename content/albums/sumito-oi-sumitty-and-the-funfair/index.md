@@ -6,7 +6,30 @@ tags = ["Sumito Oi", "大井澄東", "Toyomi Kobayashi", "小林豊美", "Koichi
 categories = ["albums"]
 draft = false
 slug = "sumito-oi-sumitty-and-the-funfair"
+releaseYear = 2015
+releaseLabel = "S&T Music"
+releaseCode = "STMU-1001"
 issue = 27
+[[lineup]]
+  name = "Sumito Oi"
+  slug = "sumito-oi"
+  instrument = "drums"
+  japanese = "大井澄東 Oi Sumito"
+[[lineup]]
+  name = "Toyomi Kobayashi"
+  slug = "toyomi-kobayashi"
+  instrument = "flute, alto flute, bass flute, Andes25F"
+  japanese = "小林豊美 Kobayashi Toyomi"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano, Fender Rhodes, Wurlitzer"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Show Kudo"
+  slug = "show-kudo"
+  instrument = "double bass, electric bass"
+  japanese = "工藤精 Kudo Show"
 [cover]
   image = "sumito-oi-funfair-460.jpeg"
   alt = "Cover art of Sumitty & The Funfair by Sumito Oi"
@@ -22,18 +45,6 @@ As a drummer’s quartet, rhythm moderates the music delightfully, propulsive bu
 {{< figure src="L1180744-1024.jpg" link="L1180744-1024.jpg" >}}
 
 {{< figure src="L1190079-1024.jpg" link="L1190079-1024.jpg" >}}
-
-
-## Sumitty &amp; The Funfair by Sumito Oi
-
--   [Sumito Oi](/tags/sumito-oi/) - drums
--   [Toyomi Kobayashi](/tags/toyomi-kobayashi/) - flute, alto flute, bass flute, Andes25F
--   [Koichi Sato](/tags/koichi-sato/) - piano, Fender Rhodes, Wurlitzer
--   [Show Kudo](/tags/show-kudo/) - double bass, electric bass
-
-Released in 2015 on S&amp;T Music as STMU-1001.
-
-_Japanese names: 大井澄東 Oi Sumito 小林豊美 Kobayashi Toyomi 佐藤浩一 Sato Koichi 工藤精 Kudo Show_
 
 
 ## Audio and Video

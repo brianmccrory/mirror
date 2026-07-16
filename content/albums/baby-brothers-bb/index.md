@@ -6,7 +6,35 @@ tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒
 categories = ["albums"]
 draft = false
 slug = "baby-brothers-bb"
+releaseYear = 2007
+releaseLabel = "Bb Records"
+releaseCode = "Bb"
 issue = 113
+[[lineup]]
+  name = "Sanae Ishikawa"
+  slug = "sanae-ishikawa"
+  instrument = "vocal"
+  japanese = "石川早苗 Ishikawa Sanae"
+[[lineup]]
+  name = "Monet"
+  slug = "monet"
+  instrument = "lead vocal, 2nd chorus"
+  japanese = "モネ Monet"
+[[lineup]]
+  name = "Kyoko Ogata"
+  slug = "kyoko-ogata"
+  instrument = "lead vocal, 3rd chorus"
+  japanese = "緒方京子 Ogata Kyoko"
+[[lineup]]
+  name = "Takahiko Goto"
+  slug = "takahiko-goto"
+  instrument = "lead vocal, 4th chorus, bass, voice trumpet"
+  japanese = "ごとうたかひこ Goto Takahiko"
+[[lineup]]
+  name = "Yohhei"
+  slug = "yohhei"
+  instrument = "lead vocal, bass, 4th chorus, human beat box"
+  japanese = "ようへい Yohhei"
 [cover]
   image = "babybrothers-bbcover-460.jpeg"
   alt = "Cover art of Bb by Baby Brothers"
@@ -26,19 +54,6 @@ In addition to the jazz tunes, other genres perfectly suited to Baby Brothers in
 {{< figure src="L1200609-1024.jpg" link="L1200609-1024.jpg" >}}
 
 {{< figure src="L1200610-1024.jpg" link="L1200610-1024.jpg" >}}
-
-
-## Bb by Baby Brothers
-
--   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
--   [Monet](/tags/monet/) - lead vocal, 2nd chorus
--   [Kyoko Ogata](/tags/kyoko-ogata/) - lead vocal, 3rd chorus
--   [Takahiko Goto](/tags/takahiko-goto/) - lead vocal, 4th chorus, bass, voice trumpet
--   [Yohhei](/tags/yohhei/) - lead vocal, bass, 4th chorus, human beat box
-
-Released in 2007 on Bb Records as Bb.
-
-_Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
 
 
 ## Audio and Video

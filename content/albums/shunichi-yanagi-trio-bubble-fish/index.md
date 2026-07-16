@@ -6,7 +6,25 @@ tags = ["Shunichi Yanagi", "柳隼一", "Ryo Shibata", "柴田亮", "Motoi Kanam
 categories = ["albums"]
 draft = false
 slug = "shunichi-yanagi-trio-bubble-fish"
+releaseYear = 2012
+releaseLabel = "Truestar Entertainment"
+releaseCode = "TSR-51102"
 issue = 112
+[[lineup]]
+  name = "Shunichi Yanagi"
+  slug = "shunichi-yanagi"
+  instrument = "piano"
+  japanese = "柳隼一 Yanagi Shunichi"
+[[lineup]]
+  name = "Ryo Shibata"
+  slug = "ryo-shibata"
+  instrument = "drums"
+  japanese = "柴田亮 Shibata Ryo"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
 [cover]
   image = "shunichiyanagi-bubblefish-460.jpeg"
   alt = "Cover art of Bubble Fish by Shunichi Yanagi Trio"
@@ -22,17 +40,6 @@ On _Bubble Fish_, the jazz trio uses full chords and vital grooves on their comp
 {{< figure src="L1220279-1024.jpg" link="L1220279-1024.jpg" >}}
 
 {{< figure src="L1220282-1024.jpg" link="L1220282-1024.jpg" >}}
-
-
-## Bubble Fish by Shunichi Yanagi Trio
-
--   [Shunichi Yanagi](/tags/shunichi-yanagi/) - piano
--   [Ryo Shibata](/tags/ryo-shibata/) - drums
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
-
-Released in 2012 on Truestar Entertainment as TSR-51102.
-
-_Japanese names: 柳隼一 Yanagi Shunichi 柴田亮 Shibata Ryo 金森もとい Kanamori Motoi_
 
 
 ## Audio and Video

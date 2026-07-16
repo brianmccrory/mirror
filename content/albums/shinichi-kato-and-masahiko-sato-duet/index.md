@@ -6,7 +6,20 @@ tags = ["Shinichi Kato", "加藤真一", "Masahiko Sato", "佐藤允彦"]
 categories = ["albums"]
 draft = false
 slug = "shinichi-kato-and-masahiko-sato-duet"
+releaseYear = 2001
+releaseLabel = "Nagel Heyer Records"
+releaseCode = "CD-2017"
 issue = 140
+[[lineup]]
+  name = "Shinichi Kato"
+  slug = "shinichi-kato"
+  instrument = "bass"
+  japanese = "加藤真一 Kato Shinichi"
+[[lineup]]
+  name = "Masahiko Sato"
+  slug = "masahiko-sato"
+  instrument = "piano"
+  japanese = "佐藤允彦 Sato Masahiko"
 [cover]
   image = "kato-sato-duet-460.jpeg"
   alt = "Cover art of Duet by Shinichi Kato & Masahiko Sato"
@@ -28,16 +41,6 @@ Overall, _Duet_ is a nice balance of absorbing and hazy music, swirling around t
 {{< figure src="L1220560-1024.jpg" link="L1220560-1024.jpg" >}}
 
 {{< figure src="L1220561-1024.jpg" link="L1220561-1024.jpg" >}}
-
-
-## Duet by Shinichi Kato &amp; Masahiko Sato
-
--   [Shinichi Kato](/tags/shinichi-kato/) - bass
--   [Masahiko Sato](/tags/masahiko-sato/) - piano
-
-Released in 2001 on Nagel Heyer Records as CD-2017.
-
-_Japanese names: 加藤真一 Kato Shinichi 佐藤允彦 Sato Masahiko_
 
 
 ## Audio and Video

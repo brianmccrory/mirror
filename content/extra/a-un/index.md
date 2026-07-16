@@ -7,6 +7,13 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "a-un"
+clubName = "A-Un"
+clubUrl = "http://aunaun.fc2web.com/"
+clubCity = "Tokyo"
+clubStation1 = "Shinjuku"
+clubStation2 = "Nishi-shinjuku"
+clubMap = "https://goo.gl/maps/Kjj6pTje5nf73muu8"
+clubStatus = "closed"
 issue = 175
 [cover]
   image = "IMG_0589-1024.jpeg"
@@ -22,11 +29,3 @@ A-Un is a tiny hidden-away bar in the twisty alleys just north of Shinjuku, a ge
 Incidentally, as for the interesting name A-Un, the name refers to the sound of the first and last letters of the Japanese hiragana alphabet あ and ん, which can be spoken together in a way similar to the meditative chant om. This pair of letters can be said to represent the beginning and end of all things, much like the Greek letters Alpha and Omega. Another interpretation points out how the sounds ah and un are often used in Japanese during everyday conversation as active listening confirmations and replies.
 
 {{< figure src="IMG_0586-1024.jpeg" link="IMG_0586-1024.jpeg" >}}
-
-
-## Information
-
--   [A-Un’s website](http://aunaun.fc2web.com/)
--   [Located near Shinjuku and Nishi-shinjuku stations in Tokyo, Japan](https://goo.gl/maps/Kjj6pTje5nf73muu8)
-
-_Note: A-Un has permanently closed._

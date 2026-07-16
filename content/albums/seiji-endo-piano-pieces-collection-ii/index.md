@@ -6,7 +6,15 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-piano-pieces-collection-ii"
+releaseYear = 2023
+releaseLabel = "Fair Play Records"
+releaseCode = "FPCD-1013"
 issue = 281
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano"
+  japanese = "遠藤征志 Endo Seiji"
 related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1", "seiji-endo-piano-pieces-collection"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-ii-460.jpeg"
@@ -49,15 +57,6 @@ Compared to the previous album, the songs are slightly longer here. The titles s
 {{< figure src="L1260306x-1200.jpeg" link="L1260306x-1200.jpeg" >}}
 
 {{< figure src="L1260310x-1200.jpeg" link="L1260310x-1200.jpeg" >}}
-
-
-## Piano Pieces Collection II by Seiji Endo
-
--   [Seiji Endo](/tags/seiji-endo/) - piano
-
-Released in 2023 on Fair Play Records as FPCD-1013.
-
-_Japanese names: 遠藤征志 Endo Seiji_
 
 
 ## Audio and Video

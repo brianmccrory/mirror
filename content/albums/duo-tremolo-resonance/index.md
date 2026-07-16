@@ -6,7 +6,30 @@ tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Se
 categories = ["albums"]
 draft = false
 slug = "duo-tremolo-resonance"
+releaseYear = 2019
+releaseLabel = "Orbit Records"
+releaseCode = "ORG-1004"
 issue = 131
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano, voice and percussion on #11"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "guitar, voice on #11"
+  japanese = "馬場孝喜 Baba Takayoshi"
+[[lineup]]
+  name = "Saori Sendo"
+  slug = "saori-sendo"
+  instrument = "percussion on #3, #8"
+  japanese = "仙道さおり Sendo Saori"
+[[lineup]]
+  name = "Aya Kurosawa"
+  slug = "aya-kurosawa"
+  instrument = "voice on #11"
+  japanese = "黒沢綾 Kurosawa Aya"
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
   alt = "Cover art of Resonance by Duo Tremolo"
@@ -26,18 +49,6 @@ Two of the songs also feature guest percussionist Saori Sendo, and add rich rhyt
 {{< figure src="L1220663-1024.jpg" link="L1220663-1024.jpg" >}}
 
 {{< figure src="L1220665-1024.jpg" link="L1220665-1024.jpg" >}}
-
-
-## Resonance by Duo Tremolo
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano, voice and percussion on #11
--   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar, voice on #11
--   [Saori Sendo](/tags/saori-sendo/) - percussion on #3, #8
--   [Aya Kurosawa](/tags/aya-kurosawa/) - voice on #11
-
-Released in 2019 on Orbit Records as ORG-1004.
-
-_Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さおり Sendo Saori 黒沢綾 Kurosawa Aya_
 
 
 ## Audio and Video

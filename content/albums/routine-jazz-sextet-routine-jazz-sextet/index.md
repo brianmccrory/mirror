@@ -6,7 +6,40 @@ tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wata
 categories = ["albums"]
 draft = false
 slug = "routine-jazz-sextet-routine-jazz-sextet"
+releaseYear = 2008
+releaseLabel = "Routine Records"
+releaseCode = "RCJP-002"
 issue = 91
+[[lineup]]
+  name = "Tomoyuki Konno"
+  slug = "tomoyuki-konno"
+  instrument = "drums"
+  japanese = "紺野智之 Konno Tomoyuki"
+[[lineup]]
+  name = "Shinpei Ruike"
+  slug = "shinpei-ruike"
+  instrument = "trumpet"
+  japanese = "類家心平 Ruike Shinpei"
+[[lineup]]
+  name = "Wataru Hamasaki"
+  slug = "wataru-hamasaki"
+  instrument = "flute, tenor sax, soprano sax"
+  japanese = "浜崎航 Hamasaki Wataru"
+[[lineup]]
+  name = "Taku Akiyama"
+  slug = "taku-akiyama"
+  instrument = "alto sax"
+  japanese = "秋山卓 Akiyama Taku"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Haruhisa Takamichi"
+  slug = "haruhisa-takamichi"
+  instrument = "bass"
+  japanese = "高道晴久 Takamichi Haruhisa"
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
   alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"
@@ -32,20 +65,6 @@ With nine tracks over 39 minutes, the music is propulsive, boiling and full of e
 {{< figure src="L1230069-1024.jpg" link="L1230069-1024.jpg" >}}
 
 {{< figure src="L1230065-1024.jpg" link="L1230065-1024.jpg" >}}
-
-
-## Routine Jazz Sextet by Routine Jazz Sextet
-
--   [Tomoyuki Konno](/tags/tomoyuki-konno/) - drums
--   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
--   [Wataru Hamasaki](/tags/wataru-hamasaki/) - flute, tenor sax, soprano sax
--   [Taku Akiyama](/tags/taku-akiyama/) - alto sax
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Haruhisa Takamichi](/tags/haruhisa-takamichi/) - bass
-
-Released in 2008 on Routine Records as RCJP-002.
-
-_Japanese names: 紺野智之 Konno Tomoyuki 類家心平 Ruike Shinpei 浜崎航 Hamasaki Wataru 秋山卓 Akiyama Taku 佐藤浩一 Sato Koichi 高道晴久 Takamichi Haruhisa_
 
 
 ## Audio and Video

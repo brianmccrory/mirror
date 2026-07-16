@@ -6,7 +6,20 @@ tags = ["Yukako Yamano", "山野友佳子", "Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
 slug = "yukakoyamano-yukariinoue-dubai"
+releaseYear = 2021
+releaseLabel = "Yukako Yamano"
+releaseCode = "YKCJ-0006"
 issue = 148
+[[lineup]]
+  name = "Yukako Yamano"
+  slug = "yukako-yamano"
+  instrument = "piano"
+  japanese = "山野友佳子 Yamano Yukako"
+[[lineup]]
+  name = "Yukari Inoue"
+  slug = "yukari-inoue"
+  instrument = "piano"
+  japanese = "井上ゆかり Inoue Yukari"
 [cover]
   image = "yukakoyamano-dubai-460.jpeg"
   alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"
@@ -30,16 +43,6 @@ The album’s five tracks add up to a brisk 23 minutes and relay a narrative wit
 > _November 2020 was my first overseas tour since Corona. I was worried, I had to take a PCR test, and it was very different from travel before Corona, but it was a very good experience. After all, I like traveling, I like music, and it’s great to be able to live and be together in this way. I’m glad I went. I created a song from my impressions. I made everything intuitively, and I don’t know why I decided on two pianos (laughs)._
 
 {{< figure src="L1230140x-1024.jpeg" link="L1230140x-1024.jpeg" >}}
-
-
-## Dubai Suite by Yukako Yamano &amp; Yukari Inoue
-
--   [Yukako Yamano](/tags/yukako-yamano/) - piano
--   [Yukari Inoue](/tags/yukari-inoue/) - piano
-
-Released in 2021 on Yukako Yamano as YKCJ-0006.
-
-_Japanese names: 山野友佳子 Yamano Yukako 井上ゆかり Inoue Yukari_
 
 
 ## Audio and Video

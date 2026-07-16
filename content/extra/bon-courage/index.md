@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "bon-courage"
+clubName = "Bon Courage"
+clubUrl = "https://bon-courage.tokyo/"
+clubCity = "Tokyo"
+clubStation1 = "Yotsuya"
+clubMap = "https://maps.app.goo.gl/JBEjhHP82RqaDjZV6"
 issue = 237
 [cover]
   image = "L1230211-1024.jpeg"
@@ -50,9 +55,3 @@ However, at Bon Courage, “photo time” begins for the encore or last song of 
 _Note: Bon Courage moved to a new location near Yotsuya station in January 2026._
 
 {{< figure src="L1240459-1200.jpeg" caption="<span class=\"figure-number\">Figure 7: </span>Welcome to Bon Courage" link="L1240459-1200.jpeg" >}}
-
-
-## Information
-
--   [Bon Courage’s website](https://bon-courage.tokyo/)
--   [Located near Yotsuya station in Tokyo, Japan](https://maps.app.goo.gl/JBEjhHP82RqaDjZV6)

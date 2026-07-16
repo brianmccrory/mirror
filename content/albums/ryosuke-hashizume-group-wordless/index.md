@@ -6,7 +6,30 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-wordless"
+releaseYear = 2006
+releaseLabel = "Polystar Jazz Library"
+releaseCode = "MTCJ-3031"
 issue = 105
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone, loops"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums"
+  japanese = "橋本学 Hashimoto Manabu"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
 [cover]
   image = "ryosukehashizume-wordless-460.jpeg"
   alt = "Cover art of Wordless by Ryosuke Hashizume Group"
@@ -26,18 +49,6 @@ With a length of 72 minutes spread out over ten tracks, the songs breathe and bl
 {{< figure src="L1200731-1024.jpg" link="L1200731-1024.jpg" >}}
 
 {{< figure src="L1200733-1024.jpg" link="L1200733-1024.jpg" >}}
-
-
-## Wordless by Ryosuke Hashizume Group
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, loops
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
-
-Released in 2006 on Polystar Jazz Library as MTCJ-3031.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋本学 Hashimoto Manabu 織原良次 Orihara Ryoji_
 
 
 ## Audio and Video

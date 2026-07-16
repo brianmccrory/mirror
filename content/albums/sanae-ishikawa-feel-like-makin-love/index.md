@@ -6,7 +6,39 @@ tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shin
 categories = ["albums"]
 draft = false
 slug = "sanae-ishikawa-feel-like-makin-love"
+releaseYear = 2007
+releaseLabel = "Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow"
+releaseCode = "MTCJ-1098"
 issue = 45
+[[lineup]]
+  name = "Sanae Ishikawa"
+  slug = "sanae-ishikawa"
+  instrument = "vocal"
+  japanese = "石川早苗 Ishikawa Sanae"
+[[lineup]]
+  name = "Shigeo Fukuda"
+  slug = "shigeo-fukuda"
+  instrument = "piano, electric piano"
+  japanese = "福田重男 Fukuda Shigeo"
+[[lineup]]
+  name = "Shinji Hashimoto"
+  slug = "shinji-hashimoto"
+  instrument = "guitar"
+  japanese = "橋本信二 Hashimoto Shinji"
+[[lineup]]
+  name = "Daisuke Toi"
+  slug = "daisuke-toi"
+  instrument = "bass"
+  japanese = "トオイダイスケ Toi Daisuke"
+[[lineup]]
+  name = "Satoshi Kosugi"
+  slug = "satoshi-kosugi"
+  instrument = "bass"
+  japanese = "小杉敏 Kosugi Satoshi"
+[[lineup]]
+  name = "Cecil Monroe"
+  slug = "cecil-monroe"
+  instrument = "drums"
 [cover]
   image = "sanaeishikawa-feellike-460.jpeg"
   alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"
@@ -34,20 +66,6 @@ This 12-track album is well-rounded and arranged like a live performance, with f
 {{< figure src="IMG_20150318_153927-1200.jpeg" link="IMG_20150318_153927-1200.jpeg" >}}
 
 {{< figure src="IMG_20150318_153942-001-1200.jpeg" link="IMG_20150318_153942-001-1200.jpeg" >}}
-
-
-## Feel Like Makin’ Love by Sanae Ishikawa
-
--   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
--   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano, electric piano
--   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
--   [Daisuke Toi](/tags/daisuke-toi/) - bass
--   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass
--   [Cecil Monroe](/tags/cecil-monroe/) - drums
-
-Released in 2007 on Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow as MTCJ-1098.
-
-_Japanese names: 石川早苗 Ishikawa Sanae 福田重男 Fukuda Shigeo 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke 小杉敏 Kosugi Satoshi_
 
 
 ## Audio and Video

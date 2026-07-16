@@ -1,6 +1,6 @@
 +++
 title = "Support"
-author = ["Brian"]
+author = ["Brian McCrory"]
 publishDate = 2018-01-25
 tags = ["resources"]
 categories = ["resources"]

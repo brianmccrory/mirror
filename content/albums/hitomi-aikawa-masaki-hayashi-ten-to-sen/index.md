@@ -6,7 +6,20 @@ tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-aikawa-masaki-hayashi-ten-to-sen"
+releaseYear = 2025
+releaseLabel = "Hitomi Aikawa"
+releaseCode = "HICD-002"
 issue = 362
+[[lineup]]
+  name = "Hitomi Aikawa"
+  slug = "hitomi-aikawa"
+  instrument = "marimba, percussion"
+  japanese = "相川瞳 Aikawa Hitomi"
+[[lineup]]
+  name = "Masaki Hayashi"
+  slug = "masaki-hayashi"
+  instrument = "piano"
+  japanese = "林正樹 Hayashi Masaki"
 related = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
@@ -96,16 +109,6 @@ An incredibly pleasing 47 minutes from two brilliant musicians that I love <br /
 -- Yoshihide Otomo, musician
 
 {{< figure src="L1350389x-1200.jpeg" alt="Disc of Ten to Sen by Hitomi Aikawa & Masaki Hayashi" link="L1350389x-1200.jpeg" >}}
-
-
-## Ten To Sen by Hitomi Aikawa &amp; Masaki Hayashi
-
--   [Hitomi Aikawa](/tags/hitomi-aikawa/) - marimba, percussion
--   [Masaki Hayashi](/tags/masaki-hayashi/) - piano
-
-Released in 2025 on Hitomi Aikawa as HICD-002.
-
-_Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki_
 
 
 ## Audio and Video

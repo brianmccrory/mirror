@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "jz-brat"
+clubName = "JZ Brat"
+clubUrl = "https://www.jzbrat.com/"
+clubCity = "Tokyo"
+clubStation1 = "Shibuya"
+clubMap = "https://maps.app.goo.gl/3K7TYukwU87zKN2V7"
 issue = 176
 [cover]
   image = "P1030831-1024.jpeg"
@@ -22,9 +27,3 @@ Similarly, the bar atmosphere is also resplendent, filled with nice tables and a
 Compared to some other jazz bars, prices match the elegance and are higher than average. Yet, the menu offers a great range of drinks and food which is better than average, making this jazz club seem like a fancy restaurant with a wonderful jazz stage included at one end. JZ Brat is definitely one of the best options to watch a jazz performance in a stylish setting for an exciting night out on the town.
 
 {{< figure src="P1030833-1024.jpeg" link="P1030833-1024.jpeg" >}}
-
-
-## Information
-
--   [JZ Brat’s website](https://www.jzbrat.com/)
--   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/3K7TYukwU87zKN2V7)

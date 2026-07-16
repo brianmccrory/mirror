@@ -6,7 +6,30 @@ tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hir
 categories = ["albums"]
 draft = false
 slug = "bungalow-metropolitan-oasis"
+releaseYear = 2011
+releaseLabel = "Daiki Musica"
+releaseCode = "DMCD-17"
 issue = 114
+[[lineup]]
+  name = "Masahiro Yamamoto"
+  slug = "masahiro-yamamoto"
+  instrument = "alto sax, soprano sax"
+  japanese = "山本昌広 Yamamoto Masahiro"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "bungalow-metropolitan-460.jpeg"
   alt = "Cover art of Metropolitan Oasis by Bungalow"
@@ -24,18 +47,6 @@ Masahiro Yamamoto, an original member of Bungalow featured on their first two al
 {{< figure src="L1200914-1024.jpg" link="L1200914-1024.jpg" >}}
 
 {{< figure src="L1200916-1024.jpg" link="L1200916-1024.jpg" >}}
-
-
-## Metropolitan Oasis by Bungalow
-
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums
-
-Released in 2011 on Daiki Musica as DMCD-17.
-
-_Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

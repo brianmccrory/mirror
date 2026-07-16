@@ -6,7 +6,30 @@ tags = ["Fumiko Yamazaki", "山崎ふみこ", "Keizo Kawano", "河野啓三", "S
 categories = ["albums"]
 draft = false
 slug = "fumiko-yamazaki-here-goes"
+releaseYear = 2011
+releaseLabel = "T&K Entertainment"
+releaseCode = "QACK-35024"
 issue = 139
+[[lineup]]
+  name = "Fumiko Yamazaki"
+  slug = "fumiko-yamazaki"
+  instrument = "vibes, percussion"
+  japanese = "山崎ふみこ Yamazaki Fumiko"
+[[lineup]]
+  name = "Keizo Kawano"
+  slug = "keizo-kawano"
+  instrument = "piano, keyboard"
+  japanese = "河野啓三 Kawano Keizo"
+[[lineup]]
+  name = "Shingo Tanaka"
+  slug = "shingo-tanaka"
+  instrument = "bass"
+  japanese = "田中晋吾 Tanaka Shingo"
+[[lineup]]
+  name = "Takashi Saito"
+  slug = "takashi-saito"
+  instrument = "drums, percussion"
+  japanese = "齋藤たかし Saito Takashi"
 [cover]
   image = "fumiko-yamazaki-here-460.jpeg"
   alt = "Cover art of Here Goes! by Fumiko Yamazaki"
@@ -26,18 +49,6 @@ The poppy tracks are refreshing and positive, sounding suitable as light-hearted
 {{< figure src="L1200543-1024.jpg" link="L1200543-1024.jpg" >}}
 
 {{< figure src="L1200544-1024.jpg" link="L1200544-1024.jpg" >}}
-
-
-## Here Goes! by Fumiko Yamazaki
-
--   [Fumiko Yamazaki](/tags/fumiko-yamazaki/) - vibes, percussion
--   [Keizo Kawano](/tags/keizo-kawano/) - piano, keyboard
--   [Shingo Tanaka](/tags/shingo-tanaka/) - bass
--   [Takashi Saito](/tags/takashi-saito/) - drums, percussion
-
-Released in 2011 on T&amp;K Entertainment as QACK-35024.
-
-_Japanese names: 山崎ふみこ Yamazaki Fumiko 河野啓三 Kawano Keizo 田中晋吾 Tanaka Shingo 齋藤たかし Saito Takashi_
 
 
 ## Audio and Video

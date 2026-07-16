@@ -6,7 +6,23 @@ tags = ["Fumio Karashima", "辛島文雄", "Jack DeJohnette", "Drew Gress"]
 categories = ["albums"]
 draft = false
 slug = "fumio-karashima-great-time"
+releaseYear = 2006
+releaseLabel = "Pit Inn Music"
+releaseCode = "VACM-1277"
 issue = 351
+[[lineup]]
+  name = "Fumio Karashima"
+  slug = "fumio-karashima"
+  instrument = "piano"
+  japanese = "辛島文雄 Karashima Fumio"
+[[lineup]]
+  name = "Jack DeJohnette"
+  slug = "jack-dejohnette"
+  instrument = "drums"
+[[lineup]]
+  name = "Drew Gress"
+  slug = "drew-gress"
+  instrument = "bass"
 related = ["fumio-karashima-trio-its-just-beginning"]
 [cover]
   image = "fumio-karashima-great-time-460.jpeg"
@@ -80,17 +96,6 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 > December 2005 Jin Nakahara
 
 {{< figure src="IMG_4184-1200.jpeg" alt="The Fumio Karashima Trio live at Naru in Tokyo (May 2007)" link="IMG_4184-1200.jpeg" >}}
-
-
-## Great Time by Fumio Karashima
-
--   [Fumio Karashima](/tags/fumio-karashima/) - piano
--   [Jack DeJohnette](/tags/jack-dejohnette/) - drums
--   [Drew Gress](/tags/drew-gress/) - bass
-
-Released in 2006 on Pit Inn Music as VACM-1277.
-
-_Japanese names: 辛島文雄 Karashima Fumio_
 
 
 ## Audio and Video

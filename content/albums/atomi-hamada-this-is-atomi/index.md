@@ -6,7 +6,25 @@ tags = ["Atomi Hamada", "浜田亜東実", "Momo Nonami", "野波桃", "Hiroaki 
 categories = ["albums"]
 draft = false
 slug = "atomi-hamada-this-is-atomi"
+releaseYear = 2017
+releaseLabel = "Atomi Hamada"
+releaseCode = "This is Atomi"
 issue = 33
+[[lineup]]
+  name = "Atomi Hamada"
+  slug = "atomi-hamada"
+  instrument = "vocal"
+  japanese = "浜田亜東実 Hamada Atomi"
+[[lineup]]
+  name = "Momo Nonami"
+  slug = "momo-nonami"
+  instrument = "piano"
+  japanese = "野波桃 Nonami Momo"
+[[lineup]]
+  name = "Hiroaki Mizutani"
+  slug = "hiroaki-mizutani"
+  instrument = "bass"
+  japanese = "水谷浩章 Mizutani Hiroaki"
 [cover]
   image = "atomihamada-thisis-460.jpeg"
   alt = "Cover art of This is Atomi by Atomi Hamada"
@@ -26,17 +44,6 @@ Starting with a quiet dynamic, Hamada sings a wistful “Round Midnight” befor
 {{< figure src="L1190148-1024.jpg" link="L1190148-1024.jpg" >}}
 
 {{< figure src="L1190159-1024.jpg" link="L1190159-1024.jpg" >}}
-
-
-## This is Atomi by Atomi Hamada
-
--   [Atomi Hamada](/tags/atomi-hamada/) - vocal
--   [Momo Nonami](/tags/momo-nonami/) - piano
--   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
-
-Released in 2017 on Atomi Hamada as This is Atomi.
-
-_Japanese names: 浜田亜東実 Hamada Atomi 野波桃 Nonami Momo 水谷浩章 Mizutani Hiroaki_
 
 
 ## Audio and Video

@@ -6,7 +6,29 @@ tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻
 categories = ["albums"]
 draft = false
 slug = "bungalow-you-already-know"
+releaseYear = 2017
+releaseLabel = "Studio Songs"
+releaseCode = "YZSO-10075"
 issue = 4
+[[lineup]]
+  name = "Mike Rivett"
+  slug = "mike-rivett"
+  instrument = "Tenor Sax, Electronics"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "Piano, Fender Rhodes"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "Acoustic Bass, Ukelele Bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "Drums, Tabla"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "bungalow-youalreadyknow-460.jpeg"
   alt = "Cover art of You Already Know by Bungalow"
@@ -22,18 +44,6 @@ _You Already Know_ is part of the band’s series of adventurous and atmospheric
 {{< figure src="L1180443-1024.jpg" link="L1180443-1024.jpg" >}}
 
 {{< figure src="L1180442-1024.jpg" link="L1180442-1024.jpg" >}}
-
-
-## You Already Know by Bungalow
-
--   [Mike Rivett](/tags/mike-rivett/) - Tenor Sax, Electronics
--   [Koichi Sato](/tags/koichi-sato/) - Piano, Fender Rhodes
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - Acoustic Bass, Ukelele Bass
--   [Ko Omura](/tags/ko-omura/) - Drums, Tabla
-
-Released in 2017 on Studio Songs as YZSO-10075.
-
-_Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

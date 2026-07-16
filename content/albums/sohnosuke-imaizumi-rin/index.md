@@ -6,7 +6,30 @@ tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和�
 categories = ["albums"]
 draft = false
 slug = "sohnosuke-imaizumi-rin"
+releaseYear = 2015
+releaseLabel = "Flower Records"
+releaseCode = "FLRC-070"
 issue = 24
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
+[[lineup]]
+  name = "Kazuhiro Sunaga"
+  slug = "kazuhiro-sunaga"
+  instrument = "bass"
+  japanese = "須長和広 Sunaga Kazuhiro"
+[[lineup]]
+  name = "Kazuhiro Tamura"
+  slug = "kazuhiro-tamura"
+  instrument = "piano"
+  japanese = "田村和大 Tamura Kazuhiro"
+[[lineup]]
+  name = "BLAHMUZIK"
+  slug = "blahmuzik"
+  instrument = "sampler"
+  japanese = "ブラムジック BLAHMUZIK"
 [cover]
   image = "sohnosukeimaizumi-rin-460.jpeg"
   alt = "Cover art of Rin by Sohnosuke Imaizumi"
@@ -30,18 +53,6 @@ In addition, six tracks by Imaizumi and sampler artist Blahmuzik are placed betw
 The overall album delivers an exciting variety of moods centered around a modern jazz piano trio with a fun vibe, well-produced, skillfully played, and decorated with stimulating experimentation.
 
 {{< figure src="L1180927-1024.jpg" link="L1180927-1024.jpg" >}}
-
-
-## Rin by Sohnosuke Imaizumi
-
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
--   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga/) - bass
--   [Kazuhiro Tamura](/tags/kazuhiro-tamura/) - piano
--   [BLAHMUZIK](/tags/blahmuzik/) - sampler
-
-Released in 2015 on Flower Records as FLRC-070.
-
-_Japanese names: 今泉総之輔 Imaizumi Sohnosuke 須長和広 Sunaga Kazuhiro 田村和大 Tamura Kazuhiro ブラムジック BLAHMUZIK_
 
 
 ## Audio and Video

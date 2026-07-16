@@ -6,7 +6,30 @@ tags = ["Asuka Watanabe", "渡辺明日香", "Hideaki Yoshioka", "吉岡秀晃",
 categories = ["albums"]
 draft = false
 slug = "asuka-watanabe-unaffected"
+releaseYear = 2004
+releaseLabel = "What’s New Records"
+releaseCode = "WNCJ-2135"
 issue = 357
+[[lineup]]
+  name = "Asuka Watanabe"
+  slug = "asuka-watanabe"
+  instrument = "vocal"
+  japanese = "渡辺明日香 Watanabe Asuka"
+[[lineup]]
+  name = "Hideaki Yoshioka"
+  slug = "hideaki-yoshioka"
+  instrument = "piano"
+  japanese = "吉岡秀晃 Yoshioka Hideaki"
+[[lineup]]
+  name = "Koji Yamashita"
+  slug = "koji-yamashita"
+  instrument = "bass"
+  japanese = "山下弘治 Yamashita Koji"
+[[lineup]]
+  name = "Yoshitaka Uematsu"
+  slug = "yoshitaka-uematsu"
+  instrument = "drums"
+  japanese = "植松良高 Uematsu Yoshitaka"
 related = ["azumi-almost-like-being-in-love", "naoko-akimoto-no-one-else", "yako-horikita-shining-hour", "mie-joke-etrenne", "layla-tomomi-sakai-stolen-moments", "miwo-tranquillo", "rie-taguchi-the-gift-ii", "yoshiko-saita-back-in-time-to-boston"]
 [cover]
   image = "asuka-watanabe-unaffected-460.jpeg"
@@ -107,18 +130,6 @@ As mentioned above, **“Early Autumn”** is a song that was made famous by the
 You’re invited to spend a sublime sophisticated time with mellow singing that is as smooth and gentle as silk and fragrant as a full-bodied wine! The debut album from a new jazz vocal star, Asuka Watanabe.
 
 {{< figure src="L1260895x-1200.jpeg" link="L1260895x-1200.jpeg" >}}
-
-
-## Unaffected by Asuka Watanabe
-
--   [Asuka Watanabe](/tags/asuka-watanabe/) - vocal
--   [Hideaki Yoshioka](/tags/hideaki-yoshioka/) - piano
--   [Koji Yamashita](/tags/koji-yamashita/) - bass
--   [Yoshitaka Uematsu](/tags/yoshitaka-uematsu/) - drums
-
-Released in 2004 on What’s New Records as WNCJ-2135.
-
-_Japanese names: 渡辺明日香 Watanabe Asuka 吉岡秀晃 Yoshioka Hideaki 山下弘治 Yamashita Koji 植松良高 Uematsu Yoshitaka_
 
 
 ## Audio and Video

@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "kanmachi-63"
+clubName = "Kanmachi 63"
+clubUrl = "http://kanmachi63.blog.fc2.com/"
+clubCity = "Yokohama"
+clubStation1 = "Kannai"
+clubStation2 = "Bashamichi"
+clubMap = "https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5"
 issue = 268
 [cover]
   image = "IMG_20190517_213722719-1200.jpeg"
@@ -40,9 +46,3 @@ Another thoughtful gesture is a benefit for non-alcohol drinkers and daytime tee
 {{< figure src="IMG_20190514_194548902-1200.jpeg" link="IMG_20190514_194548902-1200.jpeg" >}}
 
 {{< figure src="IMG_20190515_164057284-1200.jpeg" link="IMG_20190515_164057284-1200.jpeg" >}}
-
-
-## Information
-
--   [Kanmachi 63’s website](http://kanmachi63.blog.fc2.com/)
--   [Located near Kannai and Bashamichi stations in Yokohama, Japan](https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5)

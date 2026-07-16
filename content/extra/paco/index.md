@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "paco"
+clubName = "Paco"
+clubUrl = "http://jazzspotpaco.blog100.fc2.com/"
+clubCity = "Tokyo"
+clubStation1 = "Kojimachi"
+clubStation2 = "Hanzomon"
+clubMap = "https://goo.gl/maps/NhZBvkY4Mm5BxjCk8"
 issue = 159
 [cover]
   image = "IMG_20181110_190247665-1024.jpeg"
@@ -24,9 +30,3 @@ Mine-san, the owner and chef at Paco, used to be the head chef at another famous
 Paco ranks well in the category of cheery and welcoming places for at-home jazz performances. This is a great place for cozy jazz with dinner, and an early closing time allows you to return home before it gets too late.
 
 {{< figure src="IMG_20170921_210913-1024.jpeg" link="IMG_20170921_210913-1024.jpeg" >}}
-
-
-## Information
-
--   [Paco’s website](http://jazzspotpaco.blog100.fc2.com/)
--   [Located near Kojimachi and Hanzomon stations in Tokyo, Japan](https://goo.gl/maps/NhZBvkY4Mm5BxjCk8)

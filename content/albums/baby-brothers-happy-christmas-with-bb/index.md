@@ -6,7 +6,35 @@ tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒
 categories = ["albums"]
 draft = false
 slug = "baby-brothers-happy-christmas-with-bb"
+releaseYear = 2007
+releaseLabel = "Baby Brothers"
+releaseCode = "Side B"
 issue = 219
+[[lineup]]
+  name = "Sanae Ishikawa"
+  slug = "sanae-ishikawa"
+  instrument = "vocal"
+  japanese = "石川早苗 Ishikawa Sanae"
+[[lineup]]
+  name = "Monet"
+  slug = "monet"
+  instrument = "vocal"
+  japanese = "モネ Monet"
+[[lineup]]
+  name = "Kyoko Ogata"
+  slug = "kyoko-ogata"
+  instrument = "vocal"
+  japanese = "緒方京子 Ogata Kyoko"
+[[lineup]]
+  name = "Takahiko Goto"
+  slug = "takahiko-goto"
+  instrument = "vocal"
+  japanese = "ごとうたかひこ Goto Takahiko"
+[[lineup]]
+  name = "Yohhei"
+  slug = "yohhei"
+  instrument = "vocal"
+  japanese = "ようへい Yohhei"
 related = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 [cover]
   image = "babybrothers-happy-christmas-460.jpeg"
@@ -27,19 +55,6 @@ The three songs “Nada Sousou”, “Ookina Furudokei”, and “Furusato” ar
 Following the eight live tracks, four studio-recorded songs include two finely-tuned pop songs and two Christmas classics, ending the album sweetly with a lush “White Christmas” and a serene caroling of “Silent Night” sung in both Japanese and English.
 
 {{< figure src="L1200615x-1024.jpeg" link="L1200615x-1024.jpeg" >}}
-
-
-## Happy Christmas with Bb by Baby Brothers
-
--   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
--   [Monet](/tags/monet/) - vocal
--   [Kyoko Ogata](/tags/kyoko-ogata/) - vocal
--   [Takahiko Goto](/tags/takahiko-goto/) - vocal
--   [Yohhei](/tags/yohhei/) - vocal
-
-Released in 2007 on Baby Brothers as Side B.
-
-_Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
 
 
 ## Audio and Video

@@ -6,7 +6,20 @@ tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 slug = "shinpei-ruike-george-nakajima-n40"
+releaseYear = 2014
+releaseLabel = "Apollo Sounds"
+releaseCode = "APLS-1403"
 issue = 68
+[[lineup]]
+  name = "Shinpei Ruike"
+  slug = "shinpei-ruike"
+  instrument = "trumpet"
+  japanese = "類家心平 Ruike Shinpei"
+[[lineup]]
+  name = "George Nakajima"
+  slug = "george-nakajima"
+  instrument = "piano"
+  japanese = "中嶋錠二 Nakajima George"
 [cover]
   image = "ruike-nakajima-n40-460.jpeg"
   alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"
@@ -28,16 +41,6 @@ Nakajima’s skillful piano provides the cool rhythmic and harmonic underpinning
 {{< figure src="L1200601-1024.jpg" link="L1200601-1024.jpg" >}}
 
 {{< figure src="L1120090-1024.jpg" link="L1120090-1024.jpg" >}}
-
-
-## N.40° by Shinpei Ruike &amp; George Nakajima
-
--   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
--   [George Nakajima](/tags/george-nakajima/) - piano
-
-Released in 2014 on Apollo Sounds as APLS-1403.
-
-_Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 
 ## Audio and Video

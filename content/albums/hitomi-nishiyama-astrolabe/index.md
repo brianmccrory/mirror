@@ -6,7 +6,20 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-astrolabe"
+releaseYear = 2012
+releaseLabel = "Meantone Record"
+releaseCode = "MT-003"
 issue = 335
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "guitar"
+  japanese = "馬場孝喜 Baba Takayoshi"
 related = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-parallax-live", "duo-tremolo-resonance", "nobie-takayoshi-baba-owari-to-hajimari", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-astrolabe-460.jpeg"
@@ -92,16 +105,6 @@ A collection of songs crafted with overwhelming compositional sense.<br />
 A sublime duo of guitar and piano create and expand a magical sound space of two interweaving instruments!
 
 {{< figure src="L1220659x-1200.jpeg" link="L1220659x-1200.jpeg" >}}
-
-
-## Astrolabe by Hitomi Nishiyama
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
-
-Released in 2012 on Meantone Record as MT-003.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 馬場孝喜 Baba Takayoshi_
 
 
 ## Audio and Video

@@ -6,7 +6,45 @@ tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜", "Yasushi
 categories = ["albums"]
 draft = false
 slug = "hamasaki-matsumoto-bigcatch"
+releaseYear = 2013
+releaseLabel = "Concept Records"
+releaseCode = "CR-01"
 issue = 50
+[[lineup]]
+  name = "Wataru Hamasaki"
+  slug = "wataru-hamasaki"
+  instrument = "tenor and soprano sax, flute"
+  japanese = "浜崎航 Hamasaki Wataru"
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Yasushi Gonjyo"
+  slug = "yasushi-gonjyo"
+  instrument = "bass"
+  japanese = "権上康志 Gonjyo Yasushi"
+[[lineup]]
+  name = "Tatsuhiko Takeda"
+  slug = "tatsuhiko-takeda"
+  instrument = "drums"
+  japanese = "竹田達彦 Takeda Tatsuhiko"
+[[lineup]]
+  name = "Osamu Hikage"
+  slug = "osamu-hikage"
+  instrument = "bass (#3, 5, 6, 9)"
+  japanese = "日景修 Hikage Osamu"
+[[lineup]]
+  name = "Kazuyoshi Kuroda"
+  slug = "kazuyoshi-kuroda"
+  instrument = "drums (#3, 5, 6, 9)"
+  japanese = "黒田和良 Kuroda Kazuyoshi"
+[[lineup]]
+  name = "Ryosuke Asai"
+  slug = "ryosuke-asai"
+  instrument = "alto sax (#6)"
+  japanese = "浅井良将 Asai Ryosuke"
 [cover]
   image = "hamasaki-matsumoto-bigcatch-460.jpeg"
   alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"
@@ -34,21 +72,6 @@ Cover art by Akane Matsumoto (_dig those Big Catch big cats having a ball on the
 {{< figure src="L1210144-1024.jpg" link="L1210144-1024.jpg" >}}
 
 {{< figure src="IMG_20150318_161744-1024.jpg" link="IMG_20150318_161744-1024.jpg" >}}
-
-
-## Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio
-
--   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor and soprano sax, flute
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Yasushi Gonjyo](/tags/yasushi-gonjyo/) - bass
--   [Tatsuhiko Takeda](/tags/tatsuhiko-takeda/) - drums
--   [Osamu Hikage](/tags/osamu-hikage/) - bass (#3, 5, 6, 9)
--   [Kazuyoshi Kuroda](/tags/kazuyoshi-kuroda/) - drums (#3, 5, 6, 9)
--   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax (#6)
-
-Released in 2013 on Concept Records as CR-01.
-
-_Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane 権上康志 Gonjyo Yasushi 竹田達彦 Takeda Tatsuhiko 日景修 Hikage Osamu 黒田和良 Kuroda Kazuyoshi 浅井良将 Asai Ryosuke_
 
 
 ## Audio and Video

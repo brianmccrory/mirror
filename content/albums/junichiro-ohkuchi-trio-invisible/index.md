@@ -7,7 +7,25 @@ tags = ["Junichiro Ohkuchi", "大口純一郎", "Yasushi Yoneki", "米木康志"
 categories = ["albums"]
 draft = false
 slug = "junichiro-ohkuchi-trio-invisible"
+releaseYear = 2016
+releaseLabel = "Big Mouth Records"
+releaseCode = "Invisible"
 issue = 16
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
+[[lineup]]
+  name = "Yasushi Yoneki"
+  slug = "yasushi-yoneki"
+  instrument = "bass"
+  japanese = "米木康志 Yoneki Yasushi"
+[[lineup]]
+  name = "Tamaya Honda"
+  slug = "tamaya-honda"
+  instrument = "drums"
+  japanese = "本田珠也 Honda Tamaya"
 related = ["kohsuke-mine-quintet-major-to-minor", "yuka-ueda-dois", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "junichiroohkuchi-invisible-460.jpeg"
@@ -26,17 +44,6 @@ The pianist Ohkuchi contributes three original songs (the opener is a highlight)
 {{< figure src="L1180599x-1024.jpeg" link="L1180599x-1024.jpeg" >}}
 
 {{< figure src="IMG_20231009_083254235x-1024.jpeg" link="IMG_20231009_083254235x-1024.jpeg" >}}
-
-
-## Invisible by Junichiro Ohkuchi Trio
-
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
--   [Yasushi Yoneki](/tags/yasushi-yoneki/) - bass
--   [Tamaya Honda](/tags/tamaya-honda/) - drums
-
-Released in 2016 on Big Mouth Records as Invisible.
-
-_Japanese names: 大口純一郎 Ohkuchi Junichiro 米木康志 Yoneki Yasushi 本田珠也 Honda Tamaya_
 
 
 ## Audio and Video

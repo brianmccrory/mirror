@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "on-a-slow-boat-to"
+clubName = "On A Slow Boat To…"
+clubUrl = "https://slwboat.com/"
+clubCity = "Tokyo"
+clubStation1 = "Jimbocho"
+clubStation2 = "Ochanomizu"
+clubMap = "https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8"
 issue = 328
 [cover]
   image = "L1280249x-1200.jpeg"
@@ -72,9 +78,3 @@ Live performances at _On A Slow Boat To..._ are irregular but savored, and advan
 {{< figure src="IMG_20240316_183815626_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 20: </span>Sign at On A Slow Boat To..." link="IMG_20240316_183815626_HDRx-1200.jpeg" >}}
 
 {{< figure src="IMG_20240307_175322730_HDRx-1200.jpeg" caption="<span class=\"figure-number\">Figure 21: </span>Welcome to On A Slow Boat To..." link="IMG_20240307_175322730_HDRx-1200.jpeg" >}}
-
-
-## Information
-
--   [On A Slow Boat To…’s website](https://slwboat.com/)
--   [Located near Jimbocho and Ochanomizu stations in Tokyo, Japan](https://maps.app.goo.gl/kDMP7oXcE7XQHKwH8)

@@ -6,7 +6,15 @@ tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
 slug = "yuichi-narita-urban-nocturne"
+releaseYear = 2021
+releaseLabel = "Coffee Table Records"
+releaseCode = "COTA-001"
 issue = 197
+[[lineup]]
+  name = "Yuichi Narita"
+  slug = "yuichi-narita"
+  instrument = "piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion"
+  japanese = "成田祐一 Narita Yuichi"
 related = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
@@ -35,15 +43,6 @@ When initially listening to this album, first impressions flit between distingui
 The combination of instruments is also fascinatingly varied. On the electronic tracks (#1, 3, 6, 9), synthesizers and hip-hop drum beats are the primary sounds, with Rhodes piano and electric keyboards looping stylish riffs and groovy melodies. Contrastingly, the interlaced tracks (#2, 4, 5, 7, 8) are rooted in acoustic jazz and ballad playing, where piano, bass, accordion, and percussion create lovely, pensive music draped in rich harmonies, emotional content, and deep reverb. This is especially powerful on the two-part title tracks “Urban Nocturne I” (with piano, accordion, cello) and “Urban Nocturne II” (piano with overdubbed piano), two high points on an album full of equally beautiful yet dissimilar peaks. The final track #10 concludes the journey intimately with a Chopin etude, an emotional farewell that winds down this _Urban Nocturne_ with classical beauty.
 
 {{< figure src="IMG_20230412_193308037x-1024.jpeg" link="IMG_20230412_193308037x-1024.jpeg" >}}
-
-
-## Urban Nocturne by Yuichi Narita
-
--   [Yuichi Narita](/tags/yuichi-narita/) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
-
-Released in 2021 on Coffee Table Records as COTA-001.
-
-_Japanese names: 成田祐一 Narita Yuichi_
 
 
 ## Audio and Video

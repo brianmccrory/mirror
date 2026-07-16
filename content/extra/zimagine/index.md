@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "zimagine"
+clubName = "Zimagine"
+clubUrl = "http://zimagine.genonsha.co.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Omotesando"
+clubMap = "https://goo.gl/maps/5ZbpKVjBr5y8JBdWA"
 issue = 194
 [cover]
   image = "IMG_20230410_205202040-1024.jpeg"
@@ -34,9 +39,3 @@ Zimagine moved in 2017 and is now located near Omote-Sando station, close to the
 {{< figure src="IMG_20160720_215720-1024.jpeg" link="IMG_20160720_215720-1024.jpeg" >}}
 
 {{< figure src="L1120809-1024.jpeg" link="L1120809-1024.jpeg" >}}
-
-
-## Information
-
--   [Zimagine’s website](http://zimagine.genonsha.co.jp/)
--   [Located near Omotesando station in Tokyo, Japan](https://goo.gl/maps/5ZbpKVjBr5y8JBdWA)

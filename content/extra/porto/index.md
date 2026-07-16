@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "porto"
+clubName = "Porto"
+clubUrl = "http://barporto.cocolog-nifty.com/"
+clubCity = "Tokyo"
+clubStation1 = "Nippori"
+clubMap = "https://goo.gl/maps/vnbQVPxV7v5MnGTn7"
 issue = 172
 [cover]
   image = "L1030703-1024.jpeg"
@@ -28,9 +33,3 @@ An extra fun but somewhat rare happening at Porto occurs when the musicians play
 {{< figure src="IMG_20240430_195536547-1200.jpeg" link="IMG_20240430_195536547-1200.jpeg" >}}
 
 {{< figure src="IMG_20230406_194001914-1024.jpeg" link="IMG_20230406_194001914-1024.jpeg" >}}
-
-
-## Information
-
--   [Porto’s website](http://barporto.cocolog-nifty.com/)
--   [Located near Nippori station in Tokyo, Japan](https://goo.gl/maps/vnbQVPxV7v5MnGTn7)

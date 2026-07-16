@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "the-deep"
+clubName = "The Deep"
+clubUrl = "https://jazz-thedeep.com/"
+clubCity = "Tokyo"
+clubStation1 = "Ginza"
+clubStation2 = "Shimbashi"
+clubMap = "https://goo.gl/maps/iCGjmYzcJ1TnkLcj9"
 issue = 167
 [cover]
   image = "L1140712-1024.jpeg"
@@ -28,9 +34,3 @@ This jazz room is simply furnished with a grand piano in the center surrounded b
 Previously there was also a weekly midnight session on Fridays and holidays which ran from around 11 pm until 3 am, for those interested in watching or joining the band for a song or two. Mostly featuring jazz tunes, vocalists or instrumentalists are welcome, or anyone who just wants to stay and listen to a variety of musicians having fun and singing their hearts out. _(This overnight session has been canceled since the pandemic, but hopefully may return in the future.)_
 
 {{< figure src="IMG_20230310_201040729-1024.jpeg" link="IMG_20230310_201040729-1024.jpeg" >}}
-
-
-## Information
-
--   [The Deep’s website](https://jazz-thedeep.com/)
--   [Located near Ginza and Shimbashi stations in Tokyo, Japan](https://goo.gl/maps/iCGjmYzcJ1TnkLcj9)

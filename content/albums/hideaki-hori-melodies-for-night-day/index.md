@@ -6,7 +6,15 @@ tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-melodies-for-night-day"
+releaseYear = 2022
+releaseLabel = "Orbit Records"
+releaseCode = "ORG-1006"
 issue = 216
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
 related = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
@@ -80,15 +88,6 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 (Hideaki Hori)
 
 {{< figure src="L1240168x-1024.jpeg" link="L1240168x-1024.jpeg" >}}
-
-
-## Melodies for Night &amp; Day by Hideaki Hori
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
-
-Released in 2022 on Orbit Records as ORG-1006.
-
-_Japanese names: 堀秀彰 Hori Hideaki_
 
 
 ## Audio and Video

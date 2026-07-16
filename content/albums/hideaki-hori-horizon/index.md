@@ -6,7 +6,35 @@ tags = ["Hideaki Hori", "堀秀彰", "Tetsuyuki Kishi", "岸徹至", "Manabu Has
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-horizon"
+releaseYear = 2003
+releaseLabel = "BQ Records"
+releaseCode = "BQR-2022"
 issue = 215
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Tetsuyuki Kishi"
+  slug = "tetsuyuki-kishi"
+  instrument = "bass"
+  japanese = "岸徹至 Kishi Tetsuyuki"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums (#1, 4, 5, 8)"
+  japanese = "橋本学 Hashimoto Manabu"
+[[lineup]]
+  name = "Nobuyuki Komatsu"
+  slug = "nobuyuki-komatsu"
+  instrument = "drums (#2, 3, 6, 7, 9)"
+  japanese = "小松伸之 Komatsu Nobuyuki"
+[[lineup]]
+  name = "Hideki Kawamura"
+  slug = "hideki-kawamura"
+  instrument = "tenor sax (#1, 2, 6, 9)"
+  japanese = "河村英樹 Kawamura Hideki"
 related = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
@@ -86,19 +114,6 @@ Please take your time and enjoy listening to the footprints of 23-year-old Hidea
 January 10, 2023, Hideaki Hori
 
 {{< figure src="L1240151-1024.jpeg" link="L1240151-1024.jpeg" >}}
-
-
-## Horizon by Hideaki Hori
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi/) - bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums (#1, 4, 5, 8)
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums (#2, 3, 6, 7, 9)
--   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (#1, 2, 6, 9)
-
-Released in 2003 on BQ Records as BQR-2022.
-
-_Japanese names: 堀秀彰 Hori Hideaki 岸徹至 Kishi Tetsuyuki 橋本学 Hashimoto Manabu 小松伸之 Komatsu Nobuyuki 河村英樹 Kawamura Hideki_
 
 
 ## Audio and Video

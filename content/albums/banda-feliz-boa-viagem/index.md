@@ -6,7 +6,40 @@ tags = ["Makiyo Sakai", "酒井麻生代", "Masaaki Ikeda", "池田雅明", "Kaz
 categories = ["albums"]
 draft = false
 slug = "banda-feliz-boa-viagem"
+releaseYear = 2020
+releaseLabel = "Feliz Record"
+releaseCode = "FLZ-0001"
 issue = 257
+[[lineup]]
+  name = "Makiyo Sakai"
+  slug = "makiyo-sakai"
+  instrument = "flute"
+  japanese = "酒井麻生代 Sakai Makiyo"
+[[lineup]]
+  name = "Masaaki Ikeda"
+  slug = "masaaki-ikeda"
+  instrument = "trombone"
+  japanese = "池田雅明 Ikeda Masaaki"
+[[lineup]]
+  name = "Kazuhiko Obata"
+  slug = "kazuhiko-obata"
+  instrument = "guitar"
+  japanese = "小畑和彦 Obata Kazuhiko"
+[[lineup]]
+  name = "Minoru Kato"
+  slug = "minoru-kato"
+  instrument = "piano"
+  japanese = "加藤実 Kato Minoru"
+[[lineup]]
+  name = "Kiichiro Komobuchi"
+  slug = "kiichiro-komobuchi"
+  instrument = "bass"
+  japanese = "コモブチキイチロウ Komobuchi Kiichiro"
+[[lineup]]
+  name = "Satoshi Ishikawa"
+  slug = "satoshi-ishikawa"
+  instrument = "drums"
+  japanese = "石川智 Ishikawa Satoshi"
 [cover]
   image = "banda-feliz-boa-viagem-460.jpeg"
   alt = "Cover art of Boa Viagem by Banda Feliz"
@@ -100,20 +133,6 @@ Makiyo Sakai is this band’s founder. In addition to acting as manager for the 
 The long-awaited first album from “Banda Feliz”, a unit formed of top musicians playing music from the world of Brazilian music! A collection of original gems played with lively rhythms and beautiful harmonies.
 
 {{< figure src="L1240167x-1200.jpeg" link="L1240167x-1200.jpeg" >}}
-
-
-## Boa Viagem by Banda Feliz
-
--   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
--   [Masaaki Ikeda](/tags/masaaki-ikeda/) - trombone
--   [Kazuhiko Obata](/tags/kazuhiko-obata/) - guitar
--   [Minoru Kato](/tags/minoru-kato/) - piano
--   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass
--   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - drums
-
-Released in 2020 on Feliz Record as FLZ-0001.
-
-_Japanese names: 酒井麻生代 Sakai Makiyo 池田雅明 Ikeda Masaaki 小畑和彦 Obata Kazuhiko 加藤実 Kato Minoru コモブチキイチロウ Komobuchi Kiichiro 石川智 Ishikawa Satoshi_
 
 
 ## Audio and Video

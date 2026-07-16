@@ -6,7 +6,25 @@ tags = ["Yuki Ito", "伊東佑季", "Yuka Yanagihara", "柳原由佳", "Hiro Kim
 categories = ["albums"]
 draft = false
 slug = "yuki-ito-trio-semendo-sementes"
+releaseYear = 2021
+releaseLabel = "Yuki Ito"
+releaseCode = "YDM-002"
 issue = 370
+[[lineup]]
+  name = "Yuki Ito"
+  slug = "yuki-ito"
+  instrument = "bass"
+  japanese = "伊東佑季 Ito Yuki"
+[[lineup]]
+  name = "Yuka Yanagihara"
+  slug = "yuka-yanagihara"
+  instrument = "piano"
+  japanese = "柳原由佳 Yanagihara Yuka"
+[[lineup]]
+  name = "Hiro Kimura"
+  slug = "hiro-kimura"
+  instrument = "drums"
+  japanese = "木村紘 Kimura Hiro"
 related = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
 [cover]
   image = "yuki-ito-trio-semendo-sementes-460.jpeg"
@@ -27,17 +45,6 @@ Wrapping up the live set is track #7, Ito’s “Hinageshi” with a beautiful m
 _Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven in Ageo. Included below are videos of the making of this album and the trio’s concerts at Plus Eleven.
 
 {{< figure src="L1260534x-1200.jpeg" alt="Inside case of Semendo Sementes by Yuki Ito Trio" link="L1260534x-1200.jpeg" >}}
-
-
-## Semendo Sementes by Yuki Ito Trio
-
--   [Yuki Ito](/tags/yuki-ito/) - bass
--   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
--   [Hiro Kimura](/tags/hiro-kimura/) - drums
-
-Released in 2021 on Yuki Ito as YDM-002.
-
-_Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Kimura Hiro_
 
 
 ## Audio and Video

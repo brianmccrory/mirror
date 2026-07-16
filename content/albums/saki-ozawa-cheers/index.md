@@ -6,7 +6,35 @@ tags = ["Saki Ozawa", "小沢咲希", "Koji Yasuda", "安田幸司", "Takumi Awa
 categories = ["albums"]
 draft = false
 slug = "saki-ozawa-cheers"
+releaseYear = 2023
+releaseLabel = "ReBorn Wood"
+releaseCode = "RBW-0027"
 issue = 368
+[[lineup]]
+  name = "Saki Ozawa"
+  slug = "saki-ozawa"
+  instrument = "piano"
+  japanese = "小沢咲希 Ozawa Saki"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass (tracks #1, 4, 5, 7)"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Takumi Awaya"
+  slug = "takumi-awaya"
+  instrument = "bass (tracks #2, 6, 8, 9, 10)"
+  japanese = "粟谷巧 Awaya Takumi"
+[[lineup]]
+  name = "Yusuke Yaginuma"
+  slug = "yusuke-yaginuma"
+  instrument = "drums"
+  japanese = "柳沼佑育 Yaginuma Yusuke"
+[[lineup]]
+  name = "Ema"
+  slug = "ema"
+  instrument = "vocal (#7)"
+  japanese = "エマ Ema"
 related = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 [cover]
   image = "saki-ozawa-cheers-460.jpeg"
@@ -46,19 +74,6 @@ This recording centers around her original material, rich in variety, and delive
 In addition to two famous jazz standards, the songs include her blues number “Poppin’” with its second-line rhythm, her charming “I Wanna Be a Duck!” featuring vividly imaginative lyrics and singer Ema’s bright and cheerful voice, and “Dear Gene” which is dedicated to the beloved pianist Gene Harris. The tradition of classic jazz is respected through all ten songs while presenting an authentic portrait of Saki Ozawa.
 
 {{< figure src="L1290954x-1200.jpeg" alt="Disc of Cheers by Saki Ozawa" link="L1290954x-1200.jpeg" >}}
-
-
-## Cheers! by Saki Ozawa
-
--   [Saki Ozawa](/tags/saki-ozawa/) - piano
--   [Koji Yasuda](/tags/koji-yasuda/) - bass (tracks #1, 4, 5, 7)
--   [Takumi Awaya](/tags/takumi-awaya/) - bass (tracks #2, 6, 8, 9, 10)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
--   [Ema](/tags/ema/) - vocal (#7)
-
-Released in 2023 on ReBorn Wood as RBW-0027.
-
-_Japanese names: 小沢咲希 Ozawa Saki 安田幸司 Yasuda Koji 粟谷巧 Awaya Takumi 柳沼佑育 Yaginuma Yusuke エマ Ema_
 
 
 ## Audio and Video

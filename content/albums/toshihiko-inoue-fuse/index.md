@@ -6,7 +6,30 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "B
 categories = ["albums"]
 draft = false
 slug = "toshihiko-inoue-fuse"
+releaseYear = 1999
+releaseLabel = "Ewe Records"
+releaseCode = "EWCD-0010"
 issue = 360
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "saxophone"
+  japanese = "井上淑彦 Inoue Toshihiko"
+[[lineup]]
+  name = "Nobumasa Tanaka"
+  slug = "nobumasa-tanaka"
+  instrument = "piano"
+  japanese = "田中信正 Tanaka Nobumasa"
+[[lineup]]
+  name = "Benisuke Sakai"
+  slug = "benisuke-sakai"
+  instrument = "bass"
+  japanese = "坂井紅介 Sakai Benisuke"
+[[lineup]]
+  name = "Ken Tsunoda"
+  slug = "ken-tsunoda"
+  instrument = "drums"
+  japanese = "角田健 Tsunoda Ken"
 related = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 [cover]
   image = "toshihiko-inoue-fuse-460.jpeg"
@@ -45,18 +68,6 @@ Inoue and fuse followed up this album with their next album _Grasshopper_ in 200
 {{< figure src="L1340749x-1200.jpeg" link="L1340749x-1200.jpeg" >}}
 
 {{< figure src="L1340758x-1200.jpeg" link="L1340758x-1200.jpeg" >}}
-
-
-## Fuse by Toshihiko Inoue
-
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
--   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
--   [Ken Tsunoda](/tags/ken-tsunoda/) - drums
-
-Released in 1999 on Ewe Records as EWCD-0010.
-
-_Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂井紅介 Sakai Benisuke 角田健 Tsunoda Ken_
 
 
 ## Audio and Video

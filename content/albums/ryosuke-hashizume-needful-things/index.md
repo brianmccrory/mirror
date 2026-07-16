@@ -6,7 +6,30 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Takumi Seino", "清野拓巳", "Ma
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-needful-things"
+releaseYear = 2009
+releaseLabel = "Grapes Records"
+releaseCode = "GPS-1206"
 issue = 22
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone, clarinet, effects, voice"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Takumi Seino"
+  slug = "takumi-seino"
+  instrument = "electric, acoustic guitars"
+  japanese = "清野拓巳 Seino Takumi"
+[[lineup]]
+  name = "Masako Hamamura"
+  slug = "masako-hamamura"
+  instrument = "piano"
+  japanese = "浜村昌子 Hamamura Masako"
+[[lineup]]
+  name = "Yasutaka Yorozu"
+  slug = "yasutaka-yorozu"
+  instrument = "bass"
+  japanese = "萬恭隆 Yorozu Yasutaka"
 [cover]
   image = "ryosukehashizume-needfulthings-460.jpeg"
   alt = "Cover art of Needful Things by Ryosuke Hashizume"
@@ -26,18 +49,6 @@ The players evoke a calm confidence together, creating music that grooves with t
 Recorded live at Jalan Jalan in Wakayama, Japan on November 22-23, 2008.
 
 {{< figure src="L1180761-1024.jpg" link="L1180761-1024.jpg" >}}
-
-
-## Needful Things by Ryosuke Hashizume
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, clarinet, effects, voice
--   [Takumi Seino](/tags/takumi-seino/) - electric, acoustic guitars
--   [Masako Hamamura](/tags/masako-hamamura/) - piano
--   [Yasutaka Yorozu](/tags/yasutaka-yorozu/) - bass
-
-Released in 2009 on Grapes Records as GPS-1206.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 清野拓巳 Seino Takumi 浜村昌子 Hamamura Masako 萬恭隆 Yorozu Yasutaka_
 
 
 ## Audio and Video

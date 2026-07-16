@@ -6,7 +6,35 @@ tags = ["Hakuei Kim", "ハクエイ・キム", "Koichi Sato", "佐藤浩一", "M
 categories = ["albums"]
 draft = false
 slug = "ko-omura-introspect"
+releaseYear = 2011
+releaseLabel = "Daiki Musica"
+releaseCode = "DMCD-12"
 issue = 47
+[[lineup]]
+  name = "Hakuei Kim"
+  slug = "hakuei-kim"
+  instrument = "piano"
+  japanese = "ハクエイ・キム Kim Hakuei"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "koomura-introspect-460.jpeg"
   alt = "Cover art of Introspect by Ko Omura"
@@ -28,19 +56,6 @@ A creative aspect used on this recording is the collaboration of three pianists 
 {{< figure src="L1120033-1024.jpg" link="L1120033-1024.jpg" >}}
 
 {{< figure src="IMG_20150326_125425-1024.jpg" link="IMG_20150326_125425-1024.jpg" >}}
-
-
-## Introspect by Ko Omura
-
--   [Hakuei Kim](/tags/hakuei-kim/) - piano
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums
-
-Released in 2011 on Daiki Musica as DMCD-12.
-
-_Japanese names: ハクエイ・キム Kim Hakuei 佐藤浩一 Sato Koichi 石田衛 Ishida Mamoru 安田幸司 Yasuda Koji 大村亘 Omura Ko_
 
 
 ## Audio and Video

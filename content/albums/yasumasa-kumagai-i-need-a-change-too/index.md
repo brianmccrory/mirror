@@ -7,7 +7,40 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Koji Yasuda", "安田幸司",
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-i-need-a-change-too"
+releaseYear = 2008
+releaseLabel = "Anturtle Tune"
+releaseCode = "ANTX-4001"
 issue = 53
+[[lineup]]
+  name = "Yasumasa Kumagai"
+  slug = "yasumasa-kumagai"
+  instrument = "piano"
+  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Shunsuke Umino"
+  slug = "shunsuke-umino"
+  instrument = "drums"
+  japanese = "海野俊輔 Umino Shunsuke"
+[[lineup]]
+  name = "Afra"
+  slug = "afra"
+  instrument = "human beatbox (#7)"
+  japanese = "あふら Afra"
+[[lineup]]
+  name = "Shinobu Ishizaki"
+  slug = "shinobu-ishizaki"
+  instrument = "alto sax (#9, 13)"
+  japanese = "石崎忍 Ishizaki Shinobu"
+[[lineup]]
+  name = "Tabu Zombie"
+  slug = "tabu-zombie"
+  instrument = "trumpet (#13)"
+  japanese = "タブゾンビ Tabu Zombie"
 related = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
@@ -47,20 +80,6 @@ The type of jazz that evolved in Japan’s mixture culture has again been subdiv
 Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 
 {{< figure src="IMG_20150124_102116-1024.jpg" link="IMG_20150124_102116-1024.jpg" >}}
-
-
-## I Need a Change, Too by Yasumasa Kumagai
-
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Shunsuke Umino](/tags/shunsuke-umino/) - drums
--   [Afra](/tags/afra/) - human beatbox (#7)
--   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - alto sax (#9, 13)
--   [Tabu Zombie](/tags/tabu-zombie/) - trumpet (#13)
-
-Released in 2008 on Anturtle Tune as ANTX-4001.
-
-_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 安田幸司 Yasuda Koji 海野俊輔 Umino Shunsuke あふら Afra 石崎忍 Ishizaki Shinobu タブゾンビ Tabu Zombie_
 
 
 ## Audio and Video

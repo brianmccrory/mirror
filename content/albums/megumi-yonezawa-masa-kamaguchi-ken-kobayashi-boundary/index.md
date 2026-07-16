@@ -6,7 +6,25 @@ tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマ
 categories = ["albums"]
 draft = false
 slug = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"
+releaseYear = 2018
+releaseLabel = "ESP-Disk’"
+releaseCode = "ESP-5023"
 issue = 285
+[[lineup]]
+  name = "Megumi Yonezawa"
+  slug = "megumi-yonezawa"
+  instrument = "piano"
+  japanese = "米澤めぐみ Yonezawa Megumi"
+[[lineup]]
+  name = "Masa Kamaguchi"
+  slug = "masa-kamaguchi"
+  instrument = "bass"
+  japanese = "マサ・カマグチ Kamaguchi Masa"
+[[lineup]]
+  name = "Ken Kobayashi"
+  slug = "ken-kobayashi"
+  instrument = "drums"
+  japanese = "小林健 Kobayashi Ken"
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
   alt = "Cover art of Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi"
@@ -55,17 +73,6 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 > This is not a traditional free jazz CD—and it is obviously not a straight-ahead jazz CD. It is also not an attempt to meld the two together. It is not anyone showing off their chops. Also, no one sounds like they are trying to prove anything. What is so beautiful about this CD is that it is really, really honest. Really. This trio knows music but is open to throwing their preconceptions out and seeing where things go. This is an honest statement. Sit back and enjoy the ride. — Matthew Shipp
 
 {{< figure src="IMG_20240527_092056342-1200.jpeg" link="IMG_20240527_092056342-1200.jpeg" >}}
-
-
-## Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi
-
--   [Megumi Yonezawa](/tags/megumi-yonezawa/) - piano
--   [Masa Kamaguchi](/tags/masa-kamaguchi/) - bass
--   [Ken Kobayashi](/tags/ken-kobayashi/) - drums
-
-Released in 2018 on ESP-Disk’ as ESP-5023.
-
-_Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi Masa 小林健 Kobayashi Ken_
 
 
 ## Audio and Video

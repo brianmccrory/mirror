@@ -6,7 +6,35 @@ tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Yoshimoto", "吉本章紘",
 categories = ["albums"]
 draft = false
 slug = "keisuke-nakamura-humadope-2"
+releaseYear = 2019
+releaseLabel = "ANTXDEDE"
+releaseCode = "ANTXDEDE-3105"
 issue = 225
+[[lineup]]
+  name = "Keisuke Nakamura"
+  slug = "keisuke-nakamura"
+  instrument = "trumpet, flugelhorn"
+  japanese = "中村恵介 Nakamura Keisuke"
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "tenor sax, flute"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Ami Ogaeri"
+  slug = "ami-ogaeri"
+  instrument = "piano"
+  japanese = "魚返明未 Ogaeri Ami"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Ittetsu Takemura"
+  slug = "ittetsu-takemura"
+  instrument = "drums"
+  japanese = "竹村一哲 Takemura Ittetsu"
 related = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
 [cover]
   image = "keisuke-nakamura-humadope-2-460.jpeg"
@@ -37,19 +65,6 @@ The whole album is filled with great moments, and picking favorites depends on t
 -   “Sense of Mission”, with its tense speed and rhythm hooks, staccato chops, and searing solos.
 
 {{< figure src="L1240164x-1024.jpeg" link="L1240164x-1024.jpeg" >}}
-
-
-## Humadope 2 by Keisuke Nakamura
-
--   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax, flute
--   [Ami Ogaeri](/tags/ami-ogaeri/) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Ittetsu Takemura](/tags/ittetsu-takemura/) - drums
-
-Released in 2019 on ANTXDEDE as ANTXDEDE-3105.
-
-_Japanese names: 中村恵介 Nakamura Keisuke 吉本章紘 Yoshimoto Akihiro 魚返明未 Ogaeri Ami 金森もとい Kanamori Motoi 竹村一哲 Takemura Ittetsu_
 
 
 ## Audio and Video

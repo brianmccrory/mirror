@@ -6,7 +6,20 @@ tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎"]
 categories = ["albums"]
 draft = false
 slug = "meu-coracao-hall-tone"
+releaseYear = 2009
+releaseLabel = "Coo Records"
+releaseCode = "COO-300"
 issue = 143
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "vocal"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Taro Sukegawa"
+  slug = "taro-sukegawa"
+  instrument = "guitar"
+  japanese = "助川太郎 Sukegawa Taro"
 [cover]
   image = "meucoracao-halltone-460.jpeg"
   alt = "Cover art of Hall Tone by Meu Coracao"
@@ -34,16 +47,6 @@ It’s also worth mentioning that since the 2009 debut of Hall Tone, Meu Coracao
 {{< figure src="L1200806-1024.jpg" link="L1200806-1024.jpg" >}}
 
 {{< figure src="L1110589-1024.jpg" link="L1110589-1024.jpg" >}}
-
-
-## Hall Tone by Meu Coracao
-
--   [Emiko Voice](/tags/emiko-voice/) - vocal
--   [Taro Sukegawa](/tags/taro-sukegawa/) - guitar
-
-Released in 2009 on Coo Records as COO-300.
-
-_Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro_
 
 
 ## Audio and Video

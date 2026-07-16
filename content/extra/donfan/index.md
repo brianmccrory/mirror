@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "donfan"
+clubName = "Donfan"
+clubUrl = "https://www.jazzdonfan.com/"
+clubCity = "Tokyo"
+clubStation1 = "Otsuka"
+clubMap = "https://maps.app.goo.gl/2zZgXB5T3XnFXNSD7"
 issue = 182
 [cover]
   image = "P1020108-1024.jpeg"
@@ -24,9 +29,3 @@ The musicians are top-notch and depending on the performers you may be amazed at
 {{< figure src="P1080636-1024.jpeg" link="P1080636-1024.jpeg" >}}
 
 {{< figure src="P1020104-1024.jpeg" link="P1020104-1024.jpeg" >}}
-
-
-## Information
-
--   [Donfan’s website](https://www.jazzdonfan.com/)
--   [Located near Otsuka station in Tokyo, Japan](https://maps.app.goo.gl/2zZgXB5T3XnFXNSD7)

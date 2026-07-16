@@ -6,7 +6,30 @@ tags = ["Seiji Harakawa", "原川誠司", "Hiroyuki Takubo", "田窪寛之", "Mo
 categories = ["albums"]
 draft = false
 slug = "seiji-harakawa-quartet-skipping-down"
+releaseYear = 2020
+releaseLabel = "T & A Music"
+releaseCode = "SEI-001"
 issue = 186
+[[lineup]]
+  name = "Seiji Harakawa"
+  slug = "seiji-harakawa"
+  instrument = "saxophone"
+  japanese = "原川誠司 Harakawa Seiji"
+[[lineup]]
+  name = "Hiroyuki Takubo"
+  slug = "hiroyuki-takubo"
+  instrument = "piano"
+  japanese = "田窪寛之 Takubo Hiroyuki"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Fukushi Tainaka"
+  slug = "fukushi-tainaka"
+  instrument = "drums"
+  japanese = "田井中福司 Tainaka Fukushi"
 [cover]
   image = "seiji-harakawa-skipping-down-460.jpeg"
   alt = "Cover art of Skipping Down the Street by Seiji Harakawa Quartet"
@@ -34,18 +57,6 @@ I’ve seen Harakawa’s group play through the years and have always been impre
 One of the best things I can say about the music on _Skipping Down the Street_ is that the live performance feeling is captured so well on this recording. A gem that honors Harakawa’s exceptional effort and abilities, this release is full of reliable and pure jazz that doesn’t disappoint, drawing on the skill and love that these musicians have for good honest music.
 
 {{< figure src="L1240032x-1200.jpeg" link="L1240032x-1200.jpeg" >}}
-
-
-## Skipping Down the Street by Seiji Harakawa Quartet
-
--   [Seiji Harakawa](/tags/seiji-harakawa/) - saxophone
--   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
-
-Released in 2020 on T &amp; A Music as SEI-001.
-
-_Japanese names: 原川誠司 Harakawa Seiji 田窪寛之 Takubo Hiroyuki 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
 
 
 ## Audio and Video

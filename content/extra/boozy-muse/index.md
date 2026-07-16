@@ -7,6 +7,13 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "boozy-muse"
+clubName = "Boozy Muse"
+clubUrl = "https://www.boozy-muse.com/"
+clubCity = "Tokyo"
+clubStation1 = "Okubo"
+clubStation2 = "Shin-okubo"
+clubMap = "https://goo.gl/maps/eY1SMnyxKtPzqR1CA"
+clubStatus = "closed"
 issue = 190
 [cover]
   image = "L1050863-1024.jpeg"
@@ -30,11 +37,3 @@ On special occasions such as CD release anniversary celebrations and similar eve
 {{< figure src="L1150539-1024.jpeg" link="L1150539-1024.jpeg" >}}
 
 {{< figure src="P1040711-1024.jpeg" link="P1040711-1024.jpeg" >}}
-
-
-## Information
-
--   [Boozy Muse’s website](https://www.boozy-muse.com/)
--   [Located near Okubo and Shin-okubo stations in Tokyo, Japan](https://goo.gl/maps/eY1SMnyxKtPzqR1CA)
-
-_Note: Boozy Muse has permanently closed._

@@ -6,7 +6,25 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Sora Ichikawa", "市川空", "Yo
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-new-trio-three-roses"
+releaseYear = 2022
+releaseLabel = "Daiki Musika D-neo"
+releaseCode = "DNCD-28"
 issue = 287
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Sora Ichikawa"
+  slug = "sora-ichikawa"
+  instrument = "piano"
+  japanese = "市川空 Ichikawa Sora"
+[[lineup]]
+  name = "Yota Tsukada"
+  slug = "yota-tsukada"
+  instrument = "drums"
+  japanese = "塚田陽太 Tsukada Yota"
 related = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
@@ -40,17 +58,6 @@ The bassist’s six contributions comfortably span these and other territories, 
 Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 2022 with 23-year-old pianist Sora Ichikawa and 22-year-old drummer Yota Tsukada. A combination of originality and the backbone of orthodox jazz, the story is told through 11 songs interwoven with creative compositions from the young and energetic musicians and the increasingly passionate and sensitive playing of Yasukagawa—a memorable debut album.
 
 {{< figure src="L1250006x-1200.jpeg" link="L1250006x-1200.jpeg" >}}
-
-
-## The Three Roses by Daiki Yasukagawa New Trio
-
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Sora Ichikawa](/tags/sora-ichikawa/) - piano
--   [Yota Tsukada](/tags/yota-tsukada/) - drums
-
-Released in 2022 on Daiki Musika D-neo as DNCD-28.
-
-_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 市川空 Ichikawa Sora 塚田陽太 Tsukada Yota_
 
 
 ## Audio and Video

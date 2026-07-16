@@ -6,7 +6,27 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard", "
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-lach-doch-mal"
+releaseYear = 2006
+releaseLabel = "Verve"
+releaseCode = "UCCJ-9077"
 issue = 231
+[[lineup]]
+  name = "Chihiro Yamanaka"
+  slug = "chihiro-yamanaka"
+  instrument = "piano"
+  japanese = "山中千尋 Yamanaka Chihiro"
+[[lineup]]
+  name = "Larry Grenadier"
+  slug = "larry-grenadier"
+  instrument = "bass"
+[[lineup]]
+  name = "Jeff Ballard"
+  slug = "jeff-ballard"
+  instrument = "drums"
+[[lineup]]
+  name = "John Carlini"
+  slug = "john-carlini"
+  instrument = "guitar (#1, 5), banjo (#3)"
 related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing"]
 [cover]
   image = "chihiro-yamanaka-lach-460.jpeg"
@@ -39,18 +59,6 @@ Yamanaka also honors great jazz pianists Geri Allen and McCoy Tyner with thrill-
 The final two tracks also remind us of Yamanaka’s fun and playful nature. In line with the German phrase /Lach Doch Mal /(just laugh, cheer up), the title track is a zany 45-second stride piano sketch, amazing and ear-catching. In this same endearing mood, the jazz standard #11 “What A Diff’rence A Day Made”, layers sounds (piano, keyboard), musical keys, and tempos several times for a chameleon-like arrangement with unexpected endings with pleasantly decaying chaos. Finally, #12 “That’s All” returns the band to a relaxed midtempo swing style, played sweetly and tenderly as suits the end of a set.
 
 {{< figure src="L1210713x-1024.jpeg" link="L1210713x-1024.jpeg" >}}
-
-
-## Lach Doch Mal by Chihiro Yamanaka
-
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
--   [Larry Grenadier](/tags/larry-grenadier/) - bass
--   [Jeff Ballard](/tags/jeff-ballard/) - drums
--   [John Carlini](/tags/john-carlini/) - guitar (#1, 5), banjo (#3)
-
-Released in 2006 on Verve as UCCJ-9077.
-
-_Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
 ## Audio and Video

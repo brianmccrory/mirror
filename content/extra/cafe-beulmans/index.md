@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "cafe-beulmans"
+clubName = "Cafe Beulmans"
+clubUrl = "https://cafebeulmans.com/"
+clubCity = "Tokyo"
+clubStation1 = "Seijogakuen-mae"
+clubStation2 = "Nakano-sakaue"
+clubMap = "https://goo.gl/maps/Aw7WKoHRBvCjF5Kn9"
 issue = 171
 [cover]
   image = "IMG_20181117_150312893_HDR-1024.jpeg"
@@ -22,9 +28,3 @@ Cafe Beulmans is a charming and cheery jazz house that seems like a mix of a cha
 This jazz spot hosts both daytime and evening events on specific days. While this destination may seem out of the way for some, Cafe Beulmans is quite easy to get to from Shinjuku station using the Odakyu Line and provides a nice daytime “coffee and jazz” cafe alternative for those seeking a change from the usual late-night jazz bar experience.
 
 {{< figure src="IMG_20181117_130629418_HDR-1024.jpeg" link="IMG_20181117_130629418_HDR-1024.jpeg" >}}
-
-
-## Information
-
--   [Cafe Beulmans’s website](https://cafebeulmans.com/)
--   [Located near Seijogakuen-mae and Nakano-sakaue stations in Tokyo, Japan](https://goo.gl/maps/Aw7WKoHRBvCjF5Kn9)

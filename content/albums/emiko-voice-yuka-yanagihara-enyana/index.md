@@ -6,7 +6,20 @@ tags = ["Emiko Voice", "エミコヴォイス", "Yuka Yanagihara", "柳原由佳
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-yuka-yanagihara-enyana"
+releaseYear = 2025
+releaseLabel = "ENYANA Music"
+releaseCode = "EYM-0001"
 issue = 295
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "vocal, voice, percussion"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Yuka Yanagihara"
+  slug = "yuka-yanagihara"
+  instrument = "piano"
+  japanese = "柳原由佳 Yanagihara Yuka"
 related = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-coracao-a-tempo", "emiko-voice-carta", "yuka-yanagihara-trio-inner-views", "emiko-voice-standard-trio", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "emiko-voice-yuka-yanagihara-enyana-460.jpeg"
@@ -118,16 +131,6 @@ Music: Edu Lobo   Lyrics: Chico Buarque
 When I first heard this, I thought it was such a beautiful song. As EMiKO explained the meaning of the lyrics to me, I could also appreciate the very Brazilian choice of words and expressions. This is a masterpiece by the maestros Edu Lobo &amp; Chico Buarque. I’m so grateful to have encountered this song, as it’s such a delicate and wonderful piece of music, and one that would crumble and fall away from my hands that were so carefully nurturing it, if I were to let my guard down. (Yanagihara)
 
 {{< figure src="L1280097x-1200.jpeg" link="L1280097x-1200.jpeg" >}}
-
-
-## Enyana by Emiko Voice &amp; Yuka Yanagihara
-
--   [Emiko Voice](/tags/emiko-voice/) - vocal, voice, percussion
--   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
-
-Released in 2025 on ENYANA Music as EYM-0001.
-
-_Japanese names: エミコヴォイス Emiko Voice 柳原由佳 Yanagihara Yuka_
 
 
 ## Audio and Video

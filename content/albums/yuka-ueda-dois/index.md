@@ -6,7 +6,40 @@ tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-ueda-dois"
+releaseYear = 2013
+releaseLabel = "Audio Fab Records"
+releaseCode = "AFD-110"
 issue = 129
+[[lineup]]
+  name = "Yuka Ueda"
+  slug = "yuka-ueda"
+  instrument = "vocal"
+  japanese = "上田裕香 Ueda Yuka"
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "electric fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Nobuyuki Komatsu"
+  slug = "nobuyuki-komatsu"
+  instrument = "drums"
+  japanese = "小松伸之 Komatsu Nobuyuki"
+[[lineup]]
+  name = "Shinji Hashimoto"
+  slug = "shinji-hashimoto"
+  instrument = "electric guitar (#1, 5, 7)"
+  japanese = "橋本信二 Hashimoto Shinji"
+[[lineup]]
+  name = "Jo da Babylonia"
+  slug = "jo-da-babylonia"
+  instrument = "cavaquinho (#1, 8, 9)"
+  japanese = "ジョー・ダ・バビロニア Babylonia Jo da"
 [cover]
   image = "yukaueda-dois-460.jpeg"
   alt = "Cover art of Dois by Yuka Ueda"
@@ -30,20 +63,6 @@ As with her debut album _Agora_, the singer is supported by her familiar guitar 
 {{< figure src="L1210473-1024.jpg" link="L1210473-1024.jpg" >}}
 
 {{< figure src="L1110657-1024.jpg" link="L1110657-1024.jpg" >}}
-
-
-## Dois by Yuka Ueda
-
--   [Yuka Ueda](/tags/yuka-ueda/) - vocal
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
--   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
--   [Shinji Hashimoto](/tags/shinji-hashimoto/) - electric guitar (#1, 5, 7)
--   [Jo da Babylonia](/tags/jo-da-babylonia/) - cavaquinho (#1, 8, 9)
-
-Released in 2013 on Audio Fab Records as AFD-110.
-
-_Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原良次 Orihara Ryoji 小松伸之 Komatsu Nobuyuki 橋本信二 Hashimoto Shinji ジョー・ダ・バビロニア Babylonia Jo da_
 
 
 ## Audio and Video

@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "ginza-swing"
+clubName = "Ginza Swing"
+clubUrl = "http://ginzaswing.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Ginza"
+clubStation2 = "Yurakucho"
+clubMap = "https://maps.app.goo.gl/K3CNhgADfxsyowh76"
 issue = 355
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"
@@ -110,12 +116,6 @@ An [early March 2026 statement](https://ginzaswing.jp/%e9%8a%80%e5%ba%a7swing%e3
 _Note: After 50 years in operation, Ginza Swing was scheduled to close in May 2026, but later announced that their historic club will remain open, introducing some new changes to build on their many successful years. I’m happy to hear that this jazz spot will keep swinging and am eager to experience their new changes. With the closure of many old favorites in Japan during and after the pandemic, it is encouraging to see long-time jazz locales like Ginza Swing, with the support of their dedicated fans, doing all they can to stay open, keep looking forward, and welcome new generations of jazz fans._
 
 {{< figure src="IMG_20251027_183319676_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>An illuminated sign at Ginza INZ2 shopping center lets you know that you are in the right place to find Ginza Swing in a prime location on the 2nd floor." link="IMG_20251027_183319676_HDR-1200.jpeg" >}}
-
-
-## Information
-
--   [Ginza Swing’s website](http://ginzaswing.jp/)
--   [Located near Ginza and Yurakucho stations in Tokyo, Japan](https://maps.app.goo.gl/K3CNhgADfxsyowh76)
 
 
 ## Links

@@ -6,7 +6,25 @@ tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hi
 categories = ["albums"]
 draft = false
 slug = "magnolia-el-viento-y-las-flores"
+releaseYear = 2022
+releaseLabel = "Magnolia"
+releaseCode = "MGNL-0001"
 issue = 290
+[[lineup]]
+  name = "Reiko Yamamoto"
+  slug = "reiko-yamamoto"
+  instrument = "vibraphone"
+  japanese = "山本玲子 Yamamoto Reiko"
+[[lineup]]
+  name = "Yuka Yanagihara"
+  slug = "yuka-yanagihara"
+  instrument = "piano"
+  japanese = "柳原由佳 Yanagihara Yuka"
+[[lineup]]
+  name = "Hitomi Aikawa"
+  slug = "hitomi-aikawa"
+  instrument = "percussion"
+  japanese = "相川瞳 Aikawa Hitomi"
 related = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
@@ -39,17 +57,6 @@ A quick tour through the album tracks starts with an instantly engaging track #1
 Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosity. #5 “Fune” is another catchily ancient-sounding piece that paints a pre-modern tableau. #6 “Blue Mallet” is rousing and groovy, drenched with cinematic drama. #7 “Pause is peaceful and slightly blue, similarly powerful as soundtrack material. #8 “Hanakage” is another otherworldly, absorbing journey with a deep aura, undefinably Old English or Gaelic, perhaps. #9 “Furosato” is an affecting ballad, carrying the same heartwarming, nostalgic power as songs like “Danny Boy”. Finally, #10 “Swaying Willows” with its soft pop shuffle is all farewell hugs, fresh and positive with the promise of a warm welcome in the future.
 
 {{< figure src="L1260229x-1200.jpeg" link="L1260229x-1200.jpeg" >}}
-
-
-## El viento y las flores by Magnolia
-
--   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
--   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
--   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
-
-Released in 2022 on Magnolia as MGNL-0001.
-
-_Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川瞳 Aikawa Hitomi_
 
 
 ## Audio and Video

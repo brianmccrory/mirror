@@ -6,7 +6,15 @@ tags = ["Yuki Ito", "伊東佑季"]
 categories = ["albums"]
 draft = false
 slug = "yuki-ito-retattanni-no-mori"
+releaseYear = 2019
+releaseLabel = "Yuki Ito"
+releaseCode = "YDM-001"
 issue = 249
+[[lineup]]
+  name = "Yuki Ito"
+  slug = "yuki-ito"
+  instrument = "bass"
+  japanese = "伊東佑季 Ito Yuki"
 related = ["toshihiko-inoue-vayu", "maiko-solo"]
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
@@ -102,15 +110,6 @@ The Japanese title printed on the album is interesting. レタッタッニの森
 Also printed on the album are the words _retat-tat-ni kor nitay_, the title in the Ainu language of the Indigenous people of Japan.
 
 {{< figure src="L1240983x-1200.jpeg" link="L1240983x-1200.jpeg" >}}
-
-
-## Retattanni no Mori by Yuki Ito
-
--   [Yuki Ito](/tags/yuki-ito/) - bass
-
-Released in 2019 on Yuki Ito as YDM-001.
-
-_Japanese names: 伊東佑季 Ito Yuki_
 
 
 ## Audio and Video

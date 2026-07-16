@@ -6,7 +6,23 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-trio-living-without-friday"
+releaseYear = 2001
+releaseLabel = "Atelier Sawano"
+releaseCode = "AS-016"
 issue = 104
+[[lineup]]
+  name = "Chihiro Yamanaka"
+  slug = "chihiro-yamanaka"
+  instrument = "piano"
+  japanese = "山中千尋 Yamanaka Chihiro"
+[[lineup]]
+  name = "Ray Parker"
+  slug = "ray-parker"
+  instrument = "bass"
+[[lineup]]
+  name = "LaFrae Olivia Sci"
+  slug = "lafrae-olivia-sci"
+  instrument = "drums"
 [cover]
   image = "chihiroyamanaka-living-460.jpeg"
   alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"
@@ -30,17 +46,6 @@ With her impeccable technique and twisty improvisations, Yamanaka’s dexterity 
 This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, despite being released without any media or advertising support at the time.
 
 {{< figure src="L1210611-1024.jpg" link="L1210611-1024.jpg" >}}
-
-
-## Living Without Friday by Chihiro Yamanaka Trio
-
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
--   [Ray Parker](/tags/ray-parker/) - bass
--   [LaFrae Olivia Sci](/tags/lafrae-olivia-sci/) - drums
-
-Released in 2001 on Atelier Sawano as AS-016.
-
-_Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
 ## Audio and Video

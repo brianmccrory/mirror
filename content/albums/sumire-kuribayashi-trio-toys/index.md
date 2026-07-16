@@ -6,7 +6,25 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Shinichi Kato", "加藤真一"
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-trio-toys"
+releaseYear = 2014
+releaseLabel = "Somethin’ Cool"
+releaseCode = "SCOL-1003"
 issue = 266
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano"
+  japanese = "栗林すみれ Kuribayashi Sumire"
+[[lineup]]
+  name = "Shinichi Kato"
+  slug = "shinichi-kato"
+  instrument = "bass"
+  japanese = "加藤真一 Kato Shinichi"
+[[lineup]]
+  name = "Takehiro Shimizu"
+  slug = "takehiro-shimizu"
+  instrument = "drums"
+  japanese = "清水勇博 Shimizu Takehiro"
 related = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
@@ -97,17 +115,6 @@ _From the fresh, twenty-first century label “Somethin’ Cool” comes the pop
 _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu (drums)_
 
 {{< figure src="L1240155x-1200.jpeg" link="L1240155x-1200.jpeg" >}}
-
-
-## Toys by Sumire Kuribayashi Trio
-
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
--   [Shinichi Kato](/tags/shinichi-kato/) - bass
--   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums
-
-Released in 2014 on Somethin’ Cool as SCOL-1003.
-
-_Japanese names: 栗林すみれ Kuribayashi Sumire 加藤真一 Kato Shinichi 清水勇博 Shimizu Takehiro_
 
 
 ## Audio and Video

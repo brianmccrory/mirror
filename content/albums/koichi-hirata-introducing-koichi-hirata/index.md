@@ -6,7 +6,30 @@ tags = ["Koichi Hirata", "平田晃一", "Mamoru Ishida", "石田衛", "Yutaka Y
 categories = ["albums"]
 draft = false
 slug = "koichi-hirata-introducing-koichi-hirata"
+releaseYear = 2024
+releaseLabel = "Live at Alfie"
+releaseCode = "AFCD-6008"
 issue = 369
+[[lineup]]
+  name = "Koichi Hirata"
+  slug = "koichi-hirata"
+  instrument = "guitar"
+  japanese = "平田晃一 Hirata Koichi"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Yutaka Yoshida"
+  slug = "yutaka-yoshida"
+  instrument = "bass"
+  japanese = "吉田豊 Yoshida Yutaka"
+[[lineup]]
+  name = "Yusuke Yaginuma"
+  slug = "yusuke-yaginuma"
+  instrument = "drums"
+  japanese = "柳沼佑育 Yaginuma Yusuke"
 related = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
 [cover]
   image = "koichi-hirata-introducing-460.jpeg"
@@ -97,18 +120,6 @@ The eighth installment in the popular live stage recording series from Alfie, th
 Jazz guitarist Koichi Hirata is a current college student who has began to make his mark on the jazz scene. He pours his deep love of jazz into his guitar playing and seems to have already reached the level of mastery. A recording of the finest real jazz played with his trusted musical partners!
 
 {{< figure src="L1360067x-1200.jpeg" alt="Disc of Introducing Koichi Hirata by Koichi Hirata" link="L1360067x-1200.jpeg" >}}
-
-
-## Introducing Koichi Hirata by Koichi Hirata
-
--   [Koichi Hirata](/tags/koichi-hirata/) - guitar
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Yutaka Yoshida](/tags/yutaka-yoshida/) - bass
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
-
-Released in 2024 on Live at Alfie as AFCD-6008.
-
-_Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yoshida Yutaka 柳沼佑育 Yaginuma Yusuke_
 
 
 ## Audio and Video

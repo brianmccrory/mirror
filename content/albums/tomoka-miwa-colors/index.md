@@ -6,7 +6,29 @@ tags = ["Tomoka Miwa", "三輪知可", "Yuichi Narita", "成田祐一", "Daisuke
 categories = ["albums"]
 draft = false
 slug = "tomoka-miwa-colors"
+releaseYear = 2015
+releaseLabel = "Tomoka Miwa"
+releaseCode = "MUW-002"
 issue = 28
+[[lineup]]
+  name = "Tomoka Miwa"
+  slug = "tomoka-miwa"
+  instrument = "vocal"
+  japanese = "三輪知可 Miwa Tomoka"
+[[lineup]]
+  name = "Yuichi Narita"
+  slug = "yuichi-narita"
+  instrument = "piano, keyboards"
+  japanese = "成田祐一 Narita Yuichi"
+[[lineup]]
+  name = "Daisuke Toi"
+  slug = "daisuke-toi"
+  instrument = "bass"
+  japanese = "トオイダイスケ Toi Daisuke"
+[[lineup]]
+  name = "Sebastiaan Kaptein"
+  slug = "sebastiaan-kaptein"
+  instrument = "drums"
 [cover]
   image = "tomokamiwa-colors-460.jpeg"
   alt = "Cover art of Colors in Silence by Tomoka Miwa"
@@ -20,18 +42,6 @@ Tomoka Miwa, Tokyo-based jazz and pop singer, uses her jazz palette on _Colors i
 The instrumental musicians get plenty of space for stretching out, with pianist Yuichi Narita pushing for moments of exploratory post-bop jazz with his solos. Each musician is also featured in a duet with the vocalist for extra variety.
 
 {{< figure src="L1190099x-1024.jpeg" link="L1190099x-1024.jpeg" >}}
-
-
-## Colors in Silence by Tomoka Miwa
-
--   [Tomoka Miwa](/tags/tomoka-miwa/) - vocal
--   [Yuichi Narita](/tags/yuichi-narita/) - piano, keyboards
--   [Daisuke Toi](/tags/daisuke-toi/) - bass
--   [Sebastiaan Kaptein](/tags/sebastiaan-kaptein/) - drums
-
-Released in 2015 on Tomoka Miwa as MUW-002.
-
-_Japanese names: 三輪知可 Miwa Tomoka 成田祐一 Narita Yuichi トオイダイスケ Toi Daisuke_
 
 
 ## Audio and Video

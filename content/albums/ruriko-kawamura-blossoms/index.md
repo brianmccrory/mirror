@@ -6,7 +6,30 @@ tags = ["Ruriko Kawamura", "河村留理子", "Seiji Endo", "遠藤征志", "Nor
 categories = ["albums"]
 draft = false
 slug = "ruriko-kawamura-blossoms"
+releaseYear = 2016
+releaseLabel = "LooLoo Entertainment Records"
+releaseCode = "lulu001"
 issue = 146
+[[lineup]]
+  name = "Ruriko Kawamura"
+  slug = "ruriko-kawamura"
+  instrument = "vocal"
+  japanese = "河村留理子 Kawamura Ruriko"
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano"
+  japanese = "遠藤征志 Endo Seiji"
+[[lineup]]
+  name = "Noriko Satomi"
+  slug = "noriko-satomi"
+  instrument = "violin"
+  japanese = "里見紀子 Satomi Noriko"
+[[lineup]]
+  name = "Akira Sekine"
+  slug = "akira-sekine"
+  instrument = "guitar"
+  japanese = "関根彰良 Sekine Akira"
 [cover]
   image = "rurikokawamura-blossoms-460.jpeg"
   alt = "Cover art of Blossoms by Ruriko Kawamura"
@@ -28,18 +51,6 @@ Starting quietly, Endo and Kawamura perform a heartwarming version of “The Rai
 {{< figure src="L1220254-1024.jpg" link="L1220254-1024.jpg" >}}
 
 {{< figure src="L1220258-1024.jpg" link="L1220258-1024.jpg" >}}
-
-
-## Blossoms by Ruriko Kawamura
-
--   [Ruriko Kawamura](/tags/ruriko-kawamura/) - vocal
--   [Seiji Endo](/tags/seiji-endo/) - piano
--   [Noriko Satomi](/tags/noriko-satomi/) - violin
--   [Akira Sekine](/tags/akira-sekine/) - guitar
-
-Released in 2016 on LooLoo Entertainment Records as lulu001.
-
-_Japanese names: 河村留理子 Kawamura Ruriko 遠藤征志 Endo Seiji 里見紀子 Satomi Noriko 関根彰良 Sekine Akira_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一�
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"
+releaseYear = 2025
+releaseLabel = "Days of Delight"
+releaseCode = "DOD-051"
 issue = 326
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano"
+  japanese = "栗林すみれ Kuribayashi Sumire"
+[[lineup]]
+  name = "Kazuma Fujimoto"
+  slug = "kazuma-fujimoto"
+  instrument = "guitar"
+  japanese = "藤本一馬 Fujimoto Kazuma"
+[[lineup]]
+  name = "Takashi Sugawa"
+  slug = "takashi-sugawa"
+  instrument = "bass"
+  japanese = "須川崇志 Sugawa Takashi"
 related = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
@@ -153,17 +171,6 @@ An unparalleled chemistry created by leading personalities in the Japanese jazz 
 “Strong-willed yet elegant, natural yet meticulous. The result is that it’s beautiful without being cluttered. These three know the virtues of acoustic music well, and their sound is gracefully shaped in an open space with lots of room for expression.” — Akiomi Hirano (from the liner notes)
 
 {{< figure src="L1300807x-1200.jpeg" link="L1300807x-1200.jpeg" >}}
-
-
-## Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
-
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
--   [Kazuma Fujimoto](/tags/kazuma-fujimoto/) - guitar
--   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
-
-Released in 2025 on Days of Delight as DOD-051.
-
-_Japanese names: 栗林すみれ Kuribayashi Sumire 藤本一馬 Fujimoto Kazuma 須川崇志 Sugawa Takashi_
 
 
 ## Audio and Video

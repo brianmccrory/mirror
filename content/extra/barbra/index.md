@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "barbra"
+clubName = "Barbra"
+clubUrl = "https://ginza-barbra.com/"
+clubCity = "Tokyo"
+clubStation1 = "Ginza"
+clubStation2 = "Shimbashi"
+clubMap = "https://goo.gl/maps/3TYvp6DhKQtGLcp26"
 issue = 168
 [cover]
   image = "L1030324-1024.jpeg"
@@ -24,9 +30,3 @@ Grab a seat at the bar or amble right up to the seats at the piano to get close 
 If you’re up for it, request a song from the bar master Kazuma-san (“Can’t Help Falling In Love” is a popular request) who summons up memories of his past as a young idol in the world of Tokyo pop. On special event nights, customers may also be able to join in on stage with the supportive musicians and staff.
 
 {{< figure src="L1150239-1024.jpeg" link="L1150239-1024.jpeg" >}}
-
-
-## Information
-
--   [Barbra’s website](https://ginza-barbra.com/)
--   [Located near Ginza and Shimbashi stations in Tokyo, Japan](https://goo.gl/maps/3TYvp6DhKQtGLcp26)

@@ -6,7 +6,25 @@ tags = ["maiko", "マイコ", "Hiroki Miyano", "宮野弘紀", "Shikou Ito", "�
 categories = ["albums"]
 draft = false
 slug = "maiko-trio-live-three"
+releaseYear = 2016
+releaseLabel = "The Glee"
+releaseCode = "GPHR-16011"
 issue = 92
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin"
+  japanese = "マイコ maiko"
+[[lineup]]
+  name = "Hiroki Miyano"
+  slug = "hiroki-miyano"
+  instrument = "guitar"
+  japanese = "宮野弘紀 Miyano Hiroki"
+[[lineup]]
+  name = "Shikou Ito"
+  slug = "shikou-ito"
+  instrument = "piano"
+  japanese = "伊藤志宏 Ito Shikou"
 [cover]
   image = "maikotrio-three-460.jpeg"
   alt = "Cover art of Live! Three by Maiko Trio"
@@ -24,17 +42,6 @@ With a masterful controlled touch, the music is at times played with wild, skill
 With eight tracks, the songs range from colorful uptempo drama to sentimental waltzes and impressionistic ballads. Aside from six originals, two covers are included, the jazz standard “You and the Night and the Music”, and Bill Evans’s poignant “We Will Meet Again”.
 
 {{< figure src="L1220317-1024.jpg" link="L1220317-1024.jpg" >}}
-
-
-## Live! Three by Maiko Trio
-
--   [maiko](/tags/maiko/) - violin
--   [Hiroki Miyano](/tags/hiroki-miyano/) - guitar
--   [Shikou Ito](/tags/shikou-ito/) - piano
-
-Released in 2016 on The Glee as GPHR-16011.
-
-_Japanese names: マイコ maiko 宮野弘紀 Miyano Hiroki 伊藤志宏 Ito Shikou_
 
 
 ## Audio and Video

@@ -6,7 +6,35 @@ tags = ["Naoko Tanaka", "田中菜緒子", "Koji Yasuda", "安田幸司", "Masan
 categories = ["albums"]
 draft = false
 slug = "naoko-tanaka-trio-memories"
+releaseYear = 2015
+releaseLabel = "D-neo Daiki Musica"
+releaseCode = "DNCD-05"
 issue = 124
+[[lineup]]
+  name = "Naoko Tanaka"
+  slug = "naoko-tanaka"
+  instrument = "piano"
+  japanese = "田中菜緒子 Tanaka Naoko"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
+[[lineup]]
+  name = "Yoshiro Okazaki"
+  slug = "yoshiro-okazaki"
+  instrument = "trumpet (tr. #6, 8)"
+  japanese = "岡崎好朗 Okazaki Yoshiro"
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass (tr. #9)"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
 [cover]
   image = "naokotanaka-memories-460.jpeg"
   alt = "Cover art of Memories by Naoko Tanaka Trio"
@@ -28,19 +56,6 @@ From the first track “Sailing” a bracing, uplifting mood is established, exp
 {{< figure src="L1200327-1024.jpg" link="L1200327-1024.jpg" >}}
 
 {{< figure src="L1120025-1024.jpg" link="L1120025-1024.jpg" >}}
-
-
-## Memories by Naoko Tanaka Trio
-
--   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
--   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet (tr. #6, 8)
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass (tr. #9)
-
-Released in 2015 on D-neo Daiki Musica as DNCD-05.
-
-_Japanese names: 田中菜緒子 Tanaka Naoko 安田幸司 Yasuda Koji 安藤正則 Ando Masanori 岡崎好朗 Okazaki Yoshiro 安ヵ川大樹 Yasukagawa Daiki_
 
 
 ## Audio and Video

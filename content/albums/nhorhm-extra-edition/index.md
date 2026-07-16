@@ -6,7 +6,25 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manab
 categories = ["albums"]
 draft = false
 slug = "nhorhm-extra-edition"
+releaseYear = 2019
+releaseLabel = "Apollo Sounds"
+releaseCode = "APLS1905"
 issue = 87
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano, arrangements, composition"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums"
+  japanese = "橋本学 Hashimoto Manabu"
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"
@@ -34,17 +52,6 @@ While a background familiarity with the original heavy metal songs is not necess
 _About the name: Perhaps an unwieldy moniker at first, NHORHM - New Heritage Of Real Heavy Metal - is an affectionate nod to the New Wave Of British Heavy Metal (NWOBHM) of the 1970’s and 80’s which included many great heavy metal bands such as Black Sabbath, Motörhead, and Iron Maiden, and many more. Incidentally, the name NHORHM also nicely serves as an acronym for the three musicians read in Japanese name order: Nishiyama Hitomi, Orihara Ryoji, Hashimoto Manabu._
 
 {{< figure src="L1220785-1024.jpg" link="L1220785-1024.jpg" >}}
-
-
-## New Heritage of Real Heavy Metal -Extra Edition- by NHORHM
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
-
-Released in 2019 on Apollo Sounds as APLS1905.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
 ## Audio and Video

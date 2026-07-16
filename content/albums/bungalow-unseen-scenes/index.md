@@ -6,7 +6,29 @@ tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻
 categories = ["albums"]
 draft = false
 slug = "bungalow-unseen-scenes"
+releaseYear = 2015
+releaseLabel = "Studio Songs"
+releaseCode = "YZSO-10057"
 issue = 149
+[[lineup]]
+  name = "Mike Rivett"
+  slug = "mike-rivett"
+  instrument = "tenor sax, electronics"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums, tabla"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "bungalow-unseen-460.jpeg"
   alt = "Cover art of Unseen Scenes by Bungalow"
@@ -28,18 +50,6 @@ Notable tracks include the modern “Gauge”, the European fusion “Astir”, 
 {{< figure src="L1210099-1024.jpg" link="L1210099-1024.jpg" >}}
 
 {{< figure src="L1210100-1024.jpg" link="L1210100-1024.jpg" >}}
-
-
-## Unseen Scenes by Bungalow
-
--   [Mike Rivett](/tags/mike-rivett/) - tenor sax, electronics
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums, tabla
-
-Released in 2015 on Studio Songs as YZSO-10057.
-
-_Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

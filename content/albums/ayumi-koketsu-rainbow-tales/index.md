@@ -6,7 +6,27 @@ tags = ["Ayumi Koketsu", "纐纈歩美", "Svein Olav Herstad", "Magne Thormodsæ
 categories = ["albums"]
 draft = false
 slug = "ayumi-koketsu-rainbow-tales"
+releaseYear = 2012
+releaseLabel = "Pony Canyon"
+releaseCode = "MYCJ-30620"
 issue = 43
+[[lineup]]
+  name = "Ayumi Koketsu"
+  slug = "ayumi-koketsu"
+  instrument = "alto sax"
+  japanese = "纐纈歩美 Koketsu Ayumi"
+[[lineup]]
+  name = "Svein Olav Herstad"
+  slug = "svein-olav-herstad"
+  instrument = "piano"
+[[lineup]]
+  name = "Magne Thormodsæter"
+  slug = "magne-thormodster"
+  instrument = "bass"
+[[lineup]]
+  name = "Per Oddvar Johansen"
+  slug = "per-oddvar-johansen"
+  instrument = "drums"
 related = ["ayumi-koketsu-art"]
 [cover]
   image = "ayumikoketsu-rainbowtales-460.jpeg"
@@ -29,18 +49,6 @@ The album contains a nice balance on its eleven songs. Along with three swinging
 {{< figure src="L1200187-1024.jpg" link="L1200187-1024.jpg" >}}
 
 {{< figure src="L1110684-003-1024.jpg" link="L1110684-003-1024.jpg" >}}
-
-
-## Rainbow Tales by Ayumi Koketsu
-
--   [Ayumi Koketsu](/tags/ayumi-koketsu/) - alto sax
--   [Svein Olav Herstad](/tags/svein-olav-herstad/) - piano
--   [Magne Thormodsæter](/tags/magne-thormodster/) - bass
--   [Per Oddvar Johansen](/tags/per-oddvar-johansen/) - drums
-
-Released in 2012 on Pony Canyon as MYCJ-30620.
-
-_Japanese names: 纐纈歩美 Koketsu Ayumi_
 
 
 ## Audio and Video

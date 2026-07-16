@@ -6,7 +6,35 @@ tags = ["Hikari Ichihara", "市原ひかり", "Adam Birnbaum", "Peter Washington
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-sara-smile"
+releaseYear = 2006
+releaseLabel = "Leafage Jazz"
+releaseCode = "PCCY-60003"
 issue = 251
+[[lineup]]
+  name = "Hikari Ichihara"
+  slug = "hikari-ichihara"
+  instrument = "trumpet & flugelhorn"
+  japanese = "市原ひかり Ichihara Hikari"
+[[lineup]]
+  name = "Adam Birnbaum"
+  slug = "adam-birnbaum"
+  instrument = "piano"
+[[lineup]]
+  name = "Peter Washington"
+  slug = "peter-washington"
+  instrument = "bass"
+[[lineup]]
+  name = "Lewis Nash"
+  slug = "lewis-nash"
+  instrument = "drums"
+[[lineup]]
+  name = "Dominick Farinacci"
+  slug = "dominick-farinacci"
+  instrument = "trumpet"
+[[lineup]]
+  name = "Grant Stewart"
+  slug = "grant-stewart"
+  instrument = "tenor saxophone"
 related = ["hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-sara-smile-460.jpeg"
@@ -94,20 +122,6 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 (2006/7/16 高木信哉 [Shinya Takagi])
 
 {{< figure src="IMG_20231011_171943883_HDRx-1200.jpeg" link="IMG_20231011_171943883_HDRx-1200.jpeg" >}}
-
-
-## Sara Smile by Hikari Ichihara
-
--   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet &amp; flugelhorn
--   [Adam Birnbaum](/tags/adam-birnbaum/) - piano
--   [Peter Washington](/tags/peter-washington/) - bass
--   [Lewis Nash](/tags/lewis-nash/) - drums
--   [Dominick Farinacci](/tags/dominick-farinacci/) - trumpet
--   [Grant Stewart](/tags/grant-stewart/) - tenor saxophone
-
-Released in 2006 on Leafage Jazz as PCCY-60003.
-
-_Japanese names: 市原ひかり Ichihara Hikari_
 
 
 ## Audio and Video

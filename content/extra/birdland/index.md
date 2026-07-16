@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "birdland"
+clubName = "Birdland"
+clubUrl = "https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html"
+clubCity = "Tokyo"
+clubStation1 = "Kitasenju"
+clubMap = "https://goo.gl/maps/drgMW2AnAsXY1U3Z6"
 issue = 160
 [cover]
   image = "L1090119-1024.jpeg"
@@ -24,9 +29,3 @@ It’s great to be able to have closer-than-front row seats to the musicians. Ke
 Also worth appreciating is the nice selection of scotch, including a mini-cask of Bowmore on the counter which is a personal favorite, a feature which the bar master Morikawa-san maintains regularly with pride.
 
 {{< figure src="IMG_20230416_183801798-1024.jpeg" link="IMG_20230416_183801798-1024.jpeg" >}}
-
-
-## Information
-
--   [Birdland’s website](https://www.jazz.co.jp/LiveSpot/birdland-senjyu.html)
--   [Located near Kitasenju station in Tokyo, Japan](https://goo.gl/maps/drgMW2AnAsXY1U3Z6)

@@ -6,7 +6,35 @@ tags = ["Hiro Kimura", "木村紘", "Kazuhiko Takeda", "竹田一彦", "Miki Hir
 categories = ["albums"]
 draft = false
 slug = "hiro-kimura-quintet-folds"
+releaseYear = 2023
+releaseLabel = "KINO Records"
+releaseCode = "KIN-002"
 issue = 179
+[[lineup]]
+  name = "Hiro Kimura"
+  slug = "hiro-kimura"
+  instrument = "drums"
+  japanese = "木村紘 Kimura Hiro"
+[[lineup]]
+  name = "Kazuhiko Takeda"
+  slug = "kazuhiko-takeda"
+  instrument = "guitar"
+  japanese = "竹田一彦 Takeda Kazuhiko"
+[[lineup]]
+  name = "Miki Hirose"
+  slug = "miki-hirose"
+  instrument = "trumpet"
+  japanese = "広瀬未来 Hirose Miki"
+[[lineup]]
+  name = "Naoko Tanaka"
+  slug = "naoko-tanaka"
+  instrument = "piano"
+  japanese = "田中菜緒子 Tanaka Naoko"
+[[lineup]]
+  name = "Yuji Ito"
+  slug = "yuji-ito"
+  instrument = "bass"
+  japanese = "伊藤勇司 Ito Yuji"
 [cover]
   image = "hiro-kimura-folds-460.jpeg"
   alt = "Cover art of Folds by Hiro Kimura Quintet"
@@ -97,19 +125,6 @@ As for the results… let your ears be the judge.
 Hiro Kimura
 
 {{< figure src="L1240162x-1024.jpeg" link="L1240162x-1024.jpeg" >}}
-
-
-## Folds by Hiro Kimura Quintet
-
--   [Hiro Kimura](/tags/hiro-kimura/) - drums
--   [Kazuhiko Takeda](/tags/kazuhiko-takeda/) - guitar
--   [Miki Hirose](/tags/miki-hirose/) - trumpet
--   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
--   [Yuji Ito](/tags/yuji-ito/) - bass
-
-Released in 2023 on KINO Records as KIN-002.
-
-_Japanese names: 木村紘 Kimura Hiro 竹田一彦 Takeda Kazuhiko 広瀬未来 Hirose Miki 田中菜緒子 Tanaka Naoko 伊藤勇司 Ito Yuji_
 
 
 ## Audio and Video

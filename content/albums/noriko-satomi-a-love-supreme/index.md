@@ -6,7 +6,30 @@ tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Sh
 categories = ["albums"]
 draft = false
 slug = "noriko-satomi-a-love-supreme"
+releaseYear = 2019
+releaseLabel = "T-Toc Records"
+releaseCode = "TTOC-0032"
 issue = 95
+[[lineup]]
+  name = "Noriko Satomi"
+  slug = "noriko-satomi"
+  instrument = "violin"
+  japanese = "里見紀子 Satomi Noriko"
+[[lineup]]
+  name = "Masaaki Imaizumi"
+  slug = "masaaki-imaizumi"
+  instrument = "piano"
+  japanese = "今泉正明 Imaizumi Masaaki"
+[[lineup]]
+  name = "Shin Kamimura"
+  slug = "shin-kamimura"
+  instrument = "bass"
+  japanese = "上村信 Kamimura Shin"
+[[lineup]]
+  name = "Masahiko Osaka"
+  slug = "masahiko-osaka"
+  instrument = "drums"
+  japanese = "大坂昌彦 Osaka Masahiko"
 [cover]
   image = "norikosatomi-lovesupreme-460.jpeg"
   alt = "Cover art of A Love Supreme by Noriko Satomi"
@@ -34,18 +57,6 @@ Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([Jan
 {{< figure src="L1220644-1024.jpg" link="L1220644-1024.jpg" >}}
 
 {{< figure src="L1220645-1024.jpg" link="L1220645-1024.jpg" >}}
-
-
-## A Love Supreme by Noriko Satomi
-
--   [Noriko Satomi](/tags/noriko-satomi/) - violin
--   [Masaaki Imaizumi](/tags/masaaki-imaizumi/) - piano
--   [Shin Kamimura](/tags/shin-kamimura/) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
-
-Released in 2019 on T-Toc Records as TTOC-0032.
-
-_Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 上村信 Kamimura Shin 大坂昌彦 Osaka Masahiko_
 
 
 ## Audio and Video

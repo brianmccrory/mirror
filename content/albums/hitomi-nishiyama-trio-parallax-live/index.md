@@ -6,7 +6,25 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Takuya Sakazaki", "坂崎拓也", "Tak
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-parallax-live"
+releaseYear = 2016
+releaseLabel = "Meantone Records"
+releaseCode = "MT-007"
 issue = 37
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Takuya Sakazaki"
+  slug = "takuya-sakazaki"
+  instrument = "bass"
+  japanese = "坂崎拓也 Sakazaki Takuya"
+[[lineup]]
+  name = "Takehiro Shimizu"
+  slug = "takehiro-shimizu"
+  instrument = "drums"
+  japanese = "清水勇博 Shimizu Takehiro"
 [cover]
   image = "hitominishiyama-parallax-live-460.jpeg"
   alt = "Cover art of Live by Hitomi Nishiyama Trio “Parallax”"
@@ -28,17 +46,6 @@ As complex as the compositions may be, the recorded-live aspect brings tangible 
 {{< figure src="L1180642-1024.jpg" link="L1180642-1024.jpg" >}}
 
 {{< figure src="L1180645-1024.jpg" link="L1180645-1024.jpg" >}}
-
-
-## Live by Hitomi Nishiyama Trio “Parallax”
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Takuya Sakazaki](/tags/takuya-sakazaki/) - bass
--   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums
-
-Released in 2016 on Meantone Records as MT-007.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 坂崎拓也 Sakazaki Takuya 清水勇博 Shimizu Takehiro_
 
 
 ## Audio and Video

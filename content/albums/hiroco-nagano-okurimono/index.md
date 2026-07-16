@@ -6,7 +6,25 @@ tags = ["Hiroco Nagano", "永野寛子", "Seiji Endo", "遠藤征志", "Arata Um
 categories = ["albums"]
 draft = false
 slug = "hiroco-nagano-okurimono"
+releaseYear = 2017
+releaseLabel = "Music Art Records"
+releaseCode = "MAR-1701"
 issue = 11
+[[lineup]]
+  name = "Hiroco Nagano"
+  slug = "hiroco-nagano"
+  instrument = "vocal"
+  japanese = "永野寛子 Nagano Hiroco"
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano"
+  japanese = "遠藤征志 Endo Seiji"
+[[lineup]]
+  name = "Arata Umehara"
+  slug = "arata-umehara"
+  instrument = "guitar"
+  japanese = "梅原新 Umehara Arata"
 [cover]
   image = "hiroconagano-okurimono-460.jpeg"
   alt = "Cover art of Okurimono by Hiroco Nagano"
@@ -22,17 +40,6 @@ Although there are only two tracks here, the music serves to whet the appetite a
 {{< figure src="L1180448-1024.jpg" link="L1180448-1024.jpg" >}}
 
 {{< figure src="L1180449-1024.jpg" link="L1180449-1024.jpg" >}}
-
-
-## Okurimono by Hiroco Nagano
-
--   [Hiroco Nagano](/tags/hiroco-nagano/) - vocal
--   [Seiji Endo](/tags/seiji-endo/) - piano
--   [Arata Umehara](/tags/arata-umehara/) - guitar
-
-Released in 2017 on Music Art Records as MAR-1701.
-
-_Japanese names: 永野寛子 Nagano Hiroco 遠藤征志 Endo Seiji 梅原新 Umehara Arata_
 
 
 ## Audio and Video

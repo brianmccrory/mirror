@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "velera"
+clubName = "Velera"
+clubUrl = "http://velera.tokyo/"
+clubCity = "Tokyo"
+clubStation1 = "Akasaka-mitsuke"
+clubMap = "https://maps.app.goo.gl/VaVAUimqvbkNYTJ37"
 issue = 367
 [cover]
   image = "IMG_20190613_210528443_HDRx-1200.jpeg"
@@ -60,9 +65,3 @@ Originally opened in 2016, Velera has been at the current Akasaka-mitsuka locati
 {{< figure src="IMG_20250305_190218555x-1200.jpeg" caption="<span class=\"figure-number\">Figure 17: </span>Entering the building where Velera is located in the basement" link="IMG_20250305_190218555x-1200.jpeg" >}}
 
 {{< figure src="IMG_20251023_184354672_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 18: </span>Welcome to Velera" link="IMG_20251023_184354672_HDR-1200.jpeg" >}}
-
-
-## Information
-
--   [Velera’s website](http://velera.tokyo/)
--   [Located near Akasaka-mitsuke station in Tokyo, Japan](https://maps.app.goo.gl/VaVAUimqvbkNYTJ37)

@@ -6,7 +6,25 @@ tags = ["Fumie Chiba", "千葉史絵", "Nao Teraya", "寺屋ナオ", "Kaoru Suzu
 categories = ["albums"]
 draft = false
 slug = "fnk-canvas"
+releaseYear = 2022
+releaseLabel = "Fumie Chiba"
+releaseCode = "UR-003"
 issue = 202
+[[lineup]]
+  name = "Fumie Chiba"
+  slug = "fumie-chiba"
+  instrument = "piano"
+  japanese = "千葉史絵 Chiba Fumie"
+[[lineup]]
+  name = "Nao Teraya"
+  slug = "nao-teraya"
+  instrument = "guitar"
+  japanese = "寺屋ナオ Teraya Nao"
+[[lineup]]
+  name = "Kaoru Suzuki"
+  slug = "kaoru-suzuki"
+  instrument = "drums"
+  japanese = "鈴木郁 Suzuki Kaoru"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
 [cover]
   image = "fnk-canvas-460.jpeg"
@@ -86,17 +104,6 @@ The first three minutes begin with piano improvisation followed by the main them
 The reminiscence of a short and simple motif appears several times. From the album’s opening “Prologue” and the general tonal center of Am, and after visiting various other keys, “Reminiscence” finally ends this journey in C, the relative key of Am.
 
 {{< figure src="L1230453x-1024.jpeg" link="L1230453x-1024.jpeg" >}}
-
-
-## Canvas by FNK
-
--   [Fumie Chiba](/tags/fumie-chiba/) - piano
--   [Nao Teraya](/tags/nao-teraya/) - guitar
--   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
-
-Released in 2022 on Fumie Chiba as UR-003.
-
-_Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzuki Kaoru_
 
 
 ## Audio and Video

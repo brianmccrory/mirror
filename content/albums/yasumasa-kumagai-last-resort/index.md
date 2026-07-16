@@ -6,7 +6,30 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Miki Hirose", "広瀬未来",
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-last-resort"
+releaseYear = 2020
+releaseLabel = "Jazzy Bear"
+releaseCode = "JZBR-0002"
 issue = 206
+[[lineup]]
+  name = "Yasumasa Kumagai"
+  slug = "yasumasa-kumagai"
+  instrument = "piano"
+  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
+[[lineup]]
+  name = "Miki Hirose"
+  slug = "miki-hirose"
+  instrument = "trumpet"
+  japanese = "広瀬未来 Hirose Miki"
+[[lineup]]
+  name = "Keisuke Furuki"
+  slug = "keisuke-furuki"
+  instrument = "bass"
+  japanese = "古木佳祐 Furuki Keisuke"
+[[lineup]]
+  name = "Akira Yamada"
+  slug = "akira-yamada"
+  instrument = "drums"
+  japanese = "山田玲 Yamada Akira"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
@@ -90,18 +113,6 @@ This was my first time to try something new, to record all the songs sequentiall
 That’s all for now. We appreciate your support as we continue to release new albums in the future.
 
 {{< figure src="L1240176x-1024.jpeg" link="L1240176x-1024.jpeg" >}}
-
-
-## Last Resort by Yasumasa Kumagai &amp; J-Jazz Homies
-
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
--   [Miki Hirose](/tags/miki-hirose/) - trumpet
--   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
--   [Akira Yamada](/tags/akira-yamada/) - drums
-
-Released in 2020 on Jazzy Bear as JZBR-0002.
-
-_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 広瀬未来 Hirose Miki 古木佳祐 Furuki Keisuke 山田玲 Yamada Akira_
 
 
 ## Audio and Video

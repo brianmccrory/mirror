@@ -6,7 +6,55 @@ tags = ["Toru Takahashi", "高橋徹", "Atsushi Ikeda", "池田篤", "Masanori O
 categories = ["albums"]
 draft = false
 slug = "toru-takahashi-tokyo-groovin-high"
+releaseYear = 2021
+releaseLabel = "T-Swing Music"
+releaseCode = "TSM-0001"
 issue = 341
+[[lineup]]
+  name = "Toru Takahashi"
+  slug = "toru-takahashi"
+  instrument = "drums"
+  japanese = "高橋徹 Takahashi Toru"
+[[lineup]]
+  name = "Atsushi Ikeda"
+  slug = "atsushi-ikeda"
+  instrument = "alto sax (#1-5, 7)"
+  japanese = "池田篤 Ikeda Atsushi"
+[[lineup]]
+  name = "Masanori Okazaki"
+  slug = "masanori-okazaki"
+  instrument = "tenor sax (#3, 4, 8-12)"
+  japanese = "岡崎正典 Okazaki Masanori"
+[[lineup]]
+  name = "Keiichi Yoshida"
+  slug = "keiichi-yoshida"
+  instrument = "piano (#1-7)"
+  japanese = "吉田桂一 Yoshida Keiichi"
+[[lineup]]
+  name = "Kengo Nakamura"
+  slug = "kengo-nakamura"
+  instrument = "bass (#1-7)"
+  japanese = "中村健吾 Nakamura Kengo"
+[[lineup]]
+  name = "Yusuke Chigita"
+  slug = "yusuke-chigita"
+  instrument = "bass (#8-12)"
+  japanese = "千北祐輔 Chigita Yusuke"
+[[lineup]]
+  name = "Jun Satsuma"
+  slug = "jun-satsuma"
+  instrument = "guitar (#8, 9, 12)"
+  japanese = "佐津間純 Satsuma Jun"
+[[lineup]]
+  name = "Koyuza Sanyutei"
+  slug = "koyuza-sanyutei"
+  instrument = "special guest trumpet (#3)"
+  japanese = "三遊亭小遊三 Sanyutei Koyuza"
+[[lineup]]
+  name = "Shota Shunputei"
+  slug = "shota-shunputei"
+  instrument = "special guest trombone (#3)"
+  japanese = "春風亭昇太 Shunputei Shota"
 related = ["hara-dairiki-trio-youve-changed"]
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
@@ -133,23 +181,6 @@ Honestly, I really love sax players that could be called “honkers”. Arnette 
 _Notes by Toru Takahashi_
 
 {{< figure src="L1320895x-1200.jpeg" link="L1320895x-1200.jpeg" >}}
-
-
-## Tokyo Groovin’ High! by Toru Takahashi
-
--   [Toru Takahashi](/tags/toru-takahashi/) - drums
--   [Atsushi Ikeda](/tags/atsushi-ikeda/) - alto sax (#1-5, 7)
--   [Masanori Okazaki](/tags/masanori-okazaki/) - tenor sax (#3, 4, 8-12)
--   [Keiichi Yoshida](/tags/keiichi-yoshida/) - piano (#1-7)
--   [Kengo Nakamura](/tags/kengo-nakamura/) - bass (#1-7)
--   [Yusuke Chigita](/tags/yusuke-chigita/) - bass (#8-12)
--   [Jun Satsuma](/tags/jun-satsuma/) - guitar (#8, 9, 12)
--   [Koyuza Sanyutei](/tags/koyuza-sanyutei/) - special guest trumpet (#3)
--   [Shota Shunputei](/tags/shota-shunputei/) - special guest trombone (#3)
-
-Released in 2021 on T-Swing Music as TSM-0001.
-
-_Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 Okazaki Masanori 吉田桂一 Yoshida Keiichi 中村健吾 Nakamura Kengo 千北祐輔 Chigita Yusuke 佐津間純 Satsuma Jun 三遊亭小遊三 Sanyutei Koyuza 春風亭昇太 Shunputei Shota_
 
 
 ## Audio and Video

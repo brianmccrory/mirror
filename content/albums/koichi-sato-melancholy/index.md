@@ -6,7 +6,40 @@ tags = ["Koichi Sato", "佐藤浩一", "Tokuhiro Doi", "土井徳浩", "Motohiko
 categories = ["albums"]
 draft = false
 slug = "koichi-sato-melancholy"
+releaseYear = 2016
+releaseLabel = "Song X Jazz"
+releaseCode = "SONG X 038"
 issue = 20
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Tokuhiro Doi"
+  slug = "tokuhiro-doi"
+  instrument = "clarinet, bass clarinet"
+  japanese = "土井徳浩 Doi Tokuhiro"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Harutoshi Ito"
+  slug = "harutoshi-ito"
+  instrument = "cello"
+  japanese = "伊藤ハルトシ Ito Harutoshi"
+[[lineup]]
+  name = "Hiroki Chiba"
+  slug = "hiroki-chiba"
+  instrument = "double bass"
+  japanese = "千葉広樹 Chiba Hiroki"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
 [cover]
   image = "koichisato-melancholy-460.jpeg"
   alt = "Cover art of Melancholy of a Journey by Koichi Sato"
@@ -26,20 +59,6 @@ From this setting and throughout the rest of the album, beautiful music blossoms
 {{< figure src="L1180498-1024.jpg" link="L1180498-1024.jpg" >}}
 
 {{< figure src="L1180500-1024.jpg" link="L1180500-1024.jpg" >}}
-
-
-## Melancholy of a Journey by Koichi Sato
-
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Tokuhiro Doi](/tags/tokuhiro-doi/) - clarinet, bass clarinet
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Harutoshi Ito](/tags/harutoshi-ito/) - cello
--   [Hiroki Chiba](/tags/hiroki-chiba/) - double bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
-
-Released in 2016 on Song X Jazz as SONG X 038.
-
-_Japanese names: 佐藤浩一 Sato Koichi 土井徳浩 Doi Tokuhiro 市野元彦 Ichino Motohiko 伊藤ハルトシ Ito Harutoshi 千葉広樹 Chiba Hiroki 則武諒 Noritake Ryo_
 
 
 ## Audio and Video

@@ -6,7 +6,30 @@ tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hir
 categories = ["albums"]
 draft = false
 slug = "bungalow-past-life"
+releaseYear = 2013
+releaseLabel = "Studio Songs"
+releaseCode = "YZSO-10036"
 issue = 44
+[[lineup]]
+  name = "Masahiro Yamamoto"
+  slug = "masahiro-yamamoto"
+  instrument = "alto sax, soprano sax, tenor sax"
+  japanese = "山本昌広 Yamamoto Masahiro"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums, tabla"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "bungalow-pastlife-460.jpeg"
   alt = "Cover art of Past Life by Bungalow"
@@ -26,18 +49,6 @@ Bungalow’s compositions are in focus here, and like modern songwriting from Wa
 {{< figure src="L1200192-1024.jpg" link="L1200192-1024.jpg" >}}
 
 {{< figure src="L1120184-1024.jpg" link="L1120184-1024.jpg" >}}
-
-
-## Past Life by Bungalow
-
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax, tenor sax
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums, tabla
-
-Released in 2013 on Studio Songs as YZSO-10036.
-
-_Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

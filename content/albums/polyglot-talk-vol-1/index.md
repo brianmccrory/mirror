@@ -6,7 +6,29 @@ tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘",
 categories = ["albums"]
 draft = false
 slug = "polyglot-talk-vol-1"
+releaseYear = 2020
+releaseLabel = "Studio Songs"
+releaseCode = "YZSO-10104"
 issue = 227
+[[lineup]]
+  name = "Steve Barry"
+  slug = "steve-barry"
+  instrument = "piano"
+[[lineup]]
+  name = "Kosuke Ochiai"
+  slug = "kosuke-ochiai"
+  instrument = "bass"
+  japanese = "落合康介 Ochiai Kosuke"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums & tabla"
+  japanese = "大村亘 Omura Ko"
+[[lineup]]
+  name = "Hiroyuki Ishikawa"
+  slug = "hiroyuki-ishikawa"
+  instrument = "trumpet (3, 4, & 8)"
+  japanese = "石川広行 Ishikawa Hiroyuki"
 related = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
@@ -44,18 +66,6 @@ _(The notes printed on the obi are an excerpt from the liner notes.)_
 > The playing throughout this recording is superb. It’s particularly wonderful to hear young musicians like these, playing with such high-level technical skills plus deep idiomatic and musical understanding. This stunning music reflects the cutting edge of jazz today and points to very bright creative possibilities for anyone with an open mind and heart.
 
 {{< figure src="L1240158x-1024.jpeg" link="L1240158x-1024.jpeg" >}}
-
-
-## Talk, Vol. 1 by Polyglot
-
--   [Steve Barry](/tags/steve-barry/) - piano
--   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums &amp; tabla
--   [Hiroyuki Ishikawa](/tags/hiroyuki-ishikawa/) - trumpet (3, 4, &amp; 8)
-
-Released in 2020 on Studio Songs as YZSO-10104.
-
-_Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishikawa Hiroyuki_
 
 
 ## Audio and Video

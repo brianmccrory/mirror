@@ -6,7 +6,23 @@ tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
 slug = "manabu-ohishi-trio-gift"
+releaseYear = 2012
+releaseLabel = "Atelier Sawano"
+releaseCode = "AS-122"
 issue = 110
+[[lineup]]
+  name = "Manabu Ohishi"
+  slug = "manabu-ohishi"
+  instrument = "piano, pianica"
+  japanese = "大石学 Ohishi Manabu"
+[[lineup]]
+  name = "Jean-Philippe Viret"
+  slug = "jean-philippe-viret"
+  instrument = "bass"
+[[lineup]]
+  name = "Simon Goubert"
+  slug = "simon-goubert"
+  instrument = "drums"
 [cover]
   image = "manabuohishi-gift-460.jpeg"
   alt = "Cover art of Gift by Manabu Ohishi Trio"
@@ -30,17 +46,6 @@ In addition to the original numbers, a cover of the jazz standard “Softly, As 
 {{< figure src="L1200397-1024.jpg" link="L1200397-1024.jpg" >}}
 
 {{< figure src="L1110797-1024.jpg" link="L1110797-1024.jpg" >}}
-
-
-## Gift by Manabu Ohishi Trio
-
--   [Manabu Ohishi](/tags/manabu-ohishi/) - piano, pianica
--   [Jean-Philippe Viret](/tags/jean-philippe-viret/) - bass
--   [Simon Goubert](/tags/simon-goubert/) - drums
-
-Released in 2012 on Atelier Sawano as AS-122.
-
-_Japanese names: 大石学 Ohishi Manabu_
 
 
 ## Audio and Video

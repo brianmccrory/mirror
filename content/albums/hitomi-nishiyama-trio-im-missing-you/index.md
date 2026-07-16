@@ -6,7 +6,35 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Mitsuaki Hara", "原満章", "Tsutomu 
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-im-missing-you"
+releaseYear = 2004
+releaseLabel = "Steps Records"
+releaseCode = "VNTM-04001"
 issue = 300
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Mitsuaki Hara"
+  slug = "mitsuaki-hara"
+  instrument = "bass"
+  japanese = "原満章 Hara Mitsuaki"
+[[lineup]]
+  name = "Tsutomu Kawauchi"
+  slug = "tsutomu-kawauchi"
+  instrument = "drums"
+  japanese = "川内努 Kawauchi Tsutomu"
+[[lineup]]
+  name = "Satoshi Otani"
+  slug = "satoshi-otani"
+  instrument = "bass (#9, 10, 11)"
+  japanese = "大谷訓史 Otani Satoshi"
+[[lineup]]
+  name = "Takehiro Shimizu"
+  slug = "takehiro-shimizu"
+  instrument = "drums (#9, 10, 11)"
+  japanese = "清水勇博 Shimizu Takehiro"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
@@ -63,19 +91,6 @@ _—Hiroki Sugita, June 2011_
 Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in the International Songwriting Competition 2009 (ISC), one of the world’s largest composition contests. Her first album _I’m Missing You_, considered to be the origin of her career and international recognition, is finally here!
 
 {{< figure src="L1260619x-1200.jpeg" link="L1260619x-1200.jpeg" >}}
-
-
-## I’m Missing You by Hitomi Nishiyama Trio
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Mitsuaki Hara](/tags/mitsuaki-hara/) - bass
--   [Tsutomu Kawauchi](/tags/tsutomu-kawauchi/) - drums
--   [Satoshi Otani](/tags/satoshi-otani/) - bass (#9, 10, 11)
--   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums (#9, 10, 11)
-
-Released in 2004 on Steps Records as VNTM-04001.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Kawauchi Tsutomu 大谷訓史 Otani Satoshi 清水勇博 Shimizu Takehiro_
 
 
 ## Audio and Video

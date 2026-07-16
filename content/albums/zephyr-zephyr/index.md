@@ -6,7 +6,25 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Teiji Taguchi", "田口悌治", "Tak
 categories = ["albums"]
 draft = false
 slug = "zephyr-zephyr"
+releaseYear = 2013
+releaseLabel = "What’s New Records"
+releaseCode = "WNCJ-2249"
 issue = 72
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "soprano, tenor sax"
+  japanese = "井上淑彦 Inoue Toshihiko"
+[[lineup]]
+  name = "Teiji Taguchi"
+  slug = "teiji-taguchi"
+  instrument = "acoustic guitar"
+  japanese = "田口悌治 Taguchi Teiji"
+[[lineup]]
+  name = "Takashi Amano"
+  slug = "takashi-amano"
+  instrument = "electric guitar"
+  japanese = "天野丘 Amano Takashi"
 [cover]
   image = "zephyr-zephyr-460.jpeg"
   alt = "Cover art of Zephyr by Zephyr"
@@ -26,17 +44,6 @@ Aside from original compositions, the album also features the jazz standard “S
 {{< figure src="L1200812-1024.jpg" link="L1200812-1024.jpg" >}}
 
 {{< figure src="L1200818-1024.jpg" link="L1200818-1024.jpg" >}}
-
-
-## Zephyr by Zephyr
-
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - soprano, tenor sax
--   [Teiji Taguchi](/tags/teiji-taguchi/) - acoustic guitar
--   [Takashi Amano](/tags/takashi-amano/) - electric guitar
-
-Released in 2013 on What’s New Records as WNCJ-2249.
-
-_Japanese names: 井上淑彦 Inoue Toshihiko 田口悌治 Taguchi Teiji 天野丘 Amano Takashi_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "M
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-trio-kanmai"
+releaseYear = 2012
+releaseLabel = "D-Neo Daiki Musica"
+releaseCode = "DNCD-01"
 issue = 80
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums"
+  japanese = "橋本学 Hashimoto Manabu"
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
   alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"
@@ -28,17 +46,6 @@ Opening with atmospheric space, unhurried and patient, the modern sound develops
 {{< figure src="L1220824-1024.jpg" link="L1220824-1024.jpg" >}}
 
 {{< figure src="L1220825-1024.jpg" link="L1220825-1024.jpg" >}}
-
-
-## Kanmai by Daiki Yasukagawa Trio
-
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
-
-Released in 2012 on D-Neo Daiki Musica as DNCD-01.
-
-_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 佐藤浩一 Sato Koichi 橋本学 Hashimoto Manabu_
 
 
 ## Audio and Video

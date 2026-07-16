@@ -6,7 +6,35 @@ tags = ["Hiroyuki Yamaguchi", "山口裕之", "Hiroko Mase", "ませひろこ", 
 categories = ["albums"]
 draft = false
 slug = "hiroyuki-yamaguchi-quintet-mowna"
+releaseYear = 2024
+releaseLabel = "What’s New Records"
+releaseCode = "GWNJ-2036"
 issue = 329
+[[lineup]]
+  name = "Hiroyuki Yamaguchi"
+  slug = "hiroyuki-yamaguchi"
+  instrument = "bass"
+  japanese = "山口裕之 Yamaguchi Hiroyuki"
+[[lineup]]
+  name = "Hiroko Mase"
+  slug = "hiroko-mase"
+  instrument = "soprano saxophone"
+  japanese = "ませひろこ Mase Hiroko"
+[[lineup]]
+  name = "Hinata Ishii"
+  slug = "hinata-ishii"
+  instrument = "tenor saxophone"
+  japanese = "石井ひなた Ishii Hinata"
+[[lineup]]
+  name = "Toshihiko Kohno"
+  slug = "toshihiko-kohno"
+  instrument = "piano"
+  japanese = "紅野智彦 Kohno Toshihiko"
+[[lineup]]
+  name = "Tomoyuki Okabe"
+  slug = "tomoyuki-okabe"
+  instrument = "drums"
+  japanese = "岡部朋幸 Okabe Tomoyuki"
 related = ["mase-hiroko-quintet-first-contact"]
 [cover]
   image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
@@ -144,19 +172,6 @@ _Mowna_
 Hiroyuki Yamaguchi Quintet
 
 {{< figure src="L1290450x-1200.jpeg" link="L1290450x-1200.jpeg" >}}
-
-
-## Mowna by Hiroyuki Yamaguchi Quintet
-
--   [Hiroyuki Yamaguchi](/tags/hiroyuki-yamaguchi/) - bass
--   [Hiroko Mase](/tags/hiroko-mase/) - soprano saxophone
--   [Hinata Ishii](/tags/hinata-ishii/) - tenor saxophone
--   [Toshihiko Kohno](/tags/toshihiko-kohno/) - piano
--   [Tomoyuki Okabe](/tags/tomoyuki-okabe/) - drums
-
-Released in 2024 on What’s New Records as GWNJ-2036.
-
-_Japanese names: 山口裕之 Yamaguchi Hiroyuki ませひろこ Mase Hiroko 石井ひなた Ishii Hinata 紅野智彦 Kohno Toshihiko 岡部朋幸 Okabe Tomoyuki_
 
 
 ## Audio and Video

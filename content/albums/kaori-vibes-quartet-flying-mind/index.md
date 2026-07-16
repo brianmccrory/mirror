@@ -6,7 +6,30 @@ tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Y
 categories = ["albums"]
 draft = false
 slug = "kaori-vibes-quartet-flying-mind"
+releaseYear = 2013
+releaseLabel = "Urban Jazz"
+releaseCode = "151A-0007"
 issue = 12
+[[lineup]]
+  name = "Kaori Nakajima"
+  slug = "kaori-nakajima"
+  instrument = "vibraphone"
+  japanese = "中島香里 Nakajima Kaori"
+[[lineup]]
+  name = "Tamashi Goto"
+  slug = "tamashi-goto"
+  instrument = "piano"
+  japanese = "後藤魂 Goto Tamashi"
+[[lineup]]
+  name = "Minoru Yoshiki"
+  slug = "minoru-yoshiki"
+  instrument = "bass"
+  japanese = "吉木稔 Yoshiki Minoru"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
 [cover]
   image = "kaorinakajima-flyingmind-460.jpeg"
   alt = "Cover art of Flying Mind by Kaori Vibes Quartet"
@@ -24,18 +47,6 @@ The magically mellow yet bright sounds of the vibraphone fill the tracks of this
 {{< figure src="L1180731-1024.jpg" link="L1180731-1024.jpg" >}}
 
 {{< figure src="L1180736-1024.jpg" link="L1180736-1024.jpg" >}}
-
-
-## Flying Mind by Kaori Vibes Quartet
-
--   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
--   [Tamashi Goto](/tags/tamashi-goto/) - piano
--   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
-
-Released in 2013 on Urban Jazz as 151A-0007.
-
-_Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
 
 
 ## Audio and Video

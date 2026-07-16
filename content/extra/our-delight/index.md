@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "our-delight"
+clubName = "Our Delight"
+clubUrl = "http://ourdelight.blog.jp/"
+clubCity = "Saitama"
+clubStation1 = "Warabi"
+clubMap = "https://goo.gl/maps/RubwbvnkQoVS1tGT7"
 issue = 161
 [cover]
   image = "IMG_20170210_210301-1024.jpeg"
@@ -28,9 +33,3 @@ Screen monitors are also hung in various locations to show the musicians from di
 _Update: Our Delight permanently closed and reopened as [Re.Delight](https://redelight.jp/) under new management in October 2024. In April 2026, Re.Delight suddenly closed, but the venue [reopened again as Our Delight](https://ourdelight.blog.jp/archives/91315489.html) in May 2026._
 
 {{< figure src="IMG_20230304_131813809-1024.jpeg" link="IMG_20230304_131813809-1024.jpeg" >}}
-
-
-## Information
-
--   [Our Delight’s website](http://ourdelight.blog.jp/)
--   [Located near Warabi station in Saitama, Japan](https://goo.gl/maps/RubwbvnkQoVS1tGT7)

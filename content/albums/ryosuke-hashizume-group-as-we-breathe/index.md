@@ -6,7 +6,40 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-as-we-breathe"
+releaseYear = 2008
+releaseLabel = "BounDEE Jazz Library"
+releaseCode = "DDCJ-13004/DDCJ-7004"
 issue = 323
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone, loops"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar, effects"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums"
+  japanese = "橋本学 Hashimoto Manabu"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Masako Hamamura"
+  slug = "masako-hamamura"
+  instrument = "piano (#2, 8, 9)"
+  japanese = "浜村昌子 Hamamura Masako"
+[[lineup]]
+  name = "Taihei Asakawa"
+  slug = "taihei-asakawa"
+  instrument = "piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)"
+  japanese = "浅川太平 Asakawa Taihei"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-side-two", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
@@ -53,20 +86,6 @@ Finally, #9 “Epilogue” retells the music of #1 “Last Song”, more explora
 As seen in the track listing, there is an interesting use of self-reference in the song titles. The album starts with track #1 titled “Last Song”, and the last song is track #9 “Epilogue”, which is actually a redone version of “Last Song” (an epilogue, the last song). Also, in the middle of the disc is track #5 “Encore” — a strange place for an encore. Yet if you consider the album as one in-out of a single breath, then the midpoint could be the pause between, marking where the structure folds and loops back to the start (the end), and where it completes the circle to restart the next cycle of breath. (Perhaps a propos, “Cycles” is the title of a track included on both their _Wordless_ and [_Visible/Invisible_](/ryosuke-hashizume-group-visible-invisible/) releases.)
 
 {{< figure src="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" link="ryosuke-hashizume-group-as-we-breathe-cover2x-1200.jpeg" >}}
-
-
-## As We Breathe by Ryosuke Hashizume Group
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, loops
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Masako Hamamura](/tags/masako-hamamura/) - piano (#2, 8, 9)
--   [Taihei Asakawa](/tags/taihei-asakawa/) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
-
-Released in 2008 on BounDEE Jazz Library as DDCJ-13004/DDCJ-7004.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋本学 Hashimoto Manabu 織原良次 Orihara Ryoji 浜村昌子 Hamamura Masako 浅川太平 Asakawa Taihei_
 
 
 ## Audio and Video

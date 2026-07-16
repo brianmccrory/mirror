@@ -6,7 +6,23 @@ tags = ["Hakuei Kim", "ハクエイ・キム", "Ben “Donny” Waples", "Dave G
 categories = ["albums"]
 draft = false
 slug = "hakuei-kim-trio-open-the-green-door"
+releaseYear = 2005
+releaseLabel = "DIW Records"
+releaseCode = "DIW-631"
 issue = 54
+[[lineup]]
+  name = "Hakuei Kim"
+  slug = "hakuei-kim"
+  instrument = "piano"
+  japanese = "ハクエイ・キム Kim Hakuei"
+[[lineup]]
+  name = "Ben “Donny” Waples"
+  slug = "ben-donny-waples"
+  instrument = "double bass"
+[[lineup]]
+  name = "Dave Goodman"
+  slug = "dave-goodman"
+  instrument = "drums and percussion"
 [cover]
   image = "hakueikim-open-460.jpeg"
   alt = "Cover art of Open the Green Door by Hakuei Kim Trio"
@@ -26,17 +42,6 @@ Right from the opening track “Offer Refused”, Kim’s impressive hummingbird
 {{< figure src="L1200630-1024.jpg" link="L1200630-1024.jpg" >}}
 
 {{< figure src="L1200636-1024.jpg" link="L1200636-1024.jpg" >}}
-
-
-## Open the Green Door by Hakuei Kim Trio
-
--   [Hakuei Kim](/tags/hakuei-kim/) - piano
--   [Ben “Donny” Waples](/tags/ben-donny-waples/) - double bass
--   [Dave Goodman](/tags/dave-goodman/) - drums and percussion
-
-Released in 2005 on DIW Records as DIW-631.
-
-_Japanese names: ハクエイ・キム Kim Hakuei_
 
 
 ## Audio and Video

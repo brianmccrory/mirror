@@ -7,7 +7,25 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Yosuke Inoue", "井上陽介"
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-j-straight-ahead"
+releaseYear = 2015
+releaseLabel = "Jazzy Bear Records"
+releaseCode = "JZBR-0001"
 issue = 7
+[[lineup]]
+  name = "Yasumasa Kumagai"
+  slug = "yasumasa-kumagai"
+  instrument = "piano"
+  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
+[[lineup]]
+  name = "Yosuke Inoue"
+  slug = "yosuke-inoue"
+  instrument = "bass"
+  japanese = "井上陽介 Inoue Yosuke"
+[[lineup]]
+  name = "Masahiko Osaka"
+  slug = "masahiko-osaka"
+  instrument = "drums"
+  japanese = "大坂昌彦 Osaka Masahiko"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-jstraightahead-460.jpeg"
@@ -40,17 +58,6 @@ Yasumasa Kumagai / _J-Straight Ahead_
 Born in 1979 in Mito, Ibaraki. He began playing piano at three years old and started his self-study of jazz piano during middle school. Moved to the US in 1998, and entered Berklee College of Music. Graduated in 2000 and moved to New York. Studied under Robert Glasper. He returned to Japan in 2003 and is currently active throughout the country with a base of Tokyo. His previous releases include the leader albums _I Need A Change,Too_, _Ol' School Jazz’_, and _Pray_. In 2015 he released his long-awaited work on his own JAZZY BEAR label.
 
 {{< figure src="IMG_20231009_080045647_HDRx-1200.jpeg" link="IMG_20231009_080045647_HDRx-1200.jpeg" >}}
-
-
-## J-Straight Ahead by Yasumasa Kumagai
-
--   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
--   [Yosuke Inoue](/tags/yosuke-inoue/) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
-
-Released in 2015 on Jazzy Bear Records as JZBR-0001.
-
-_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 井上陽介 Inoue Yosuke 大坂昌彦 Osaka Masahiko_
 
 
 ## Audio and Video

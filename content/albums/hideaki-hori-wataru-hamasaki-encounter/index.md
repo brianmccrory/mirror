@@ -6,7 +6,35 @@ tags = ["Hideaki Hori", "堀秀彰", "Wataru Hamasaki", "浜崎航", "Hiroshi Ta
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-wataru-hamasaki-encounter"
+releaseYear = 2008
+releaseLabel = "BQ Records"
+releaseCode = "BQR-2043"
 issue = 293
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Wataru Hamasaki"
+  slug = "wataru-hamasaki"
+  instrument = "tenor & soprano sax, flute"
+  japanese = "浜崎航 Hamasaki Wataru"
+[[lineup]]
+  name = "Hiroshi Takase"
+  slug = "hiroshi-takase"
+  instrument = "bass"
+  japanese = "高瀬裕 Takase Hiroshi"
+[[lineup]]
+  name = "Junji Hirose"
+  slug = "junji-hirose"
+  instrument = "drums"
+  japanese = "広瀬潤次 Hirose Junji"
+[[lineup]]
+  name = "Satoshi Takino"
+  slug = "satoshi-takino"
+  instrument = "guitar (tracks #1, 4, 10)"
+  japanese = "滝野聡 Takino Satoshi"
 related = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
@@ -90,19 +118,6 @@ The theme is just one motif repeating over and over, with the energy increasing 
 This is a gospel-style song dedicated to the inspiration for the title of this song, _kaikyou_, which means Mother Ocean. Perhaps it’s because I was raised in a town where you could see the ocean, but every time I come to the sea I can forget all my worries and relax. We always play this song last at live performances, and Hideaki Hori and I agreed that we should also end the album with this song. I’m barely holding it together at the end (laughs), and since we were originally planning a fade out here, I was having some fun with it. Hideaki Hori really liked it, though, so we left it in as it was recorded. I’d love it if hearing this cheers you up a little bit.
 
 {{< figure src="L1240166x-1200.jpeg" link="L1240166x-1200.jpeg" >}}
-
-
-## Encounter by Hideaki Hori &amp; Wataru Hamasaki
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor &amp; soprano sax, flute
--   [Hiroshi Takase](/tags/hiroshi-takase/) - bass
--   [Junji Hirose](/tags/junji-hirose/) - drums
--   [Satoshi Takino](/tags/satoshi-takino/) - guitar (tracks #1, 4, 10)
-
-Released in 2008 on BQ Records as BQR-2043.
-
-_Japanese names: 堀秀彰 Hori Hideaki 浜崎航 Hamasaki Wataru 高瀬裕 Takase Hiroshi 広瀬潤次 Hirose Junji 滝野聡 Takino Satoshi_
 
 
 ## Audio and Video

@@ -6,7 +6,35 @@ tags = ["Hiroko Mase", "ませひろこ", "Eiji Otogawa", "音川英二", "Nobum
 categories = ["albums"]
 draft = false
 slug = "mase-hiroko-quintet-first-contact"
+releaseYear = 2020
+releaseLabel = "F.S.L."
+releaseCode = "FSCJ-0019"
 issue = 222
+[[lineup]]
+  name = "Hiroko Mase"
+  slug = "hiroko-mase"
+  instrument = "soprano saxophone"
+  japanese = "ませひろこ Mase Hiroko"
+[[lineup]]
+  name = "Eiji Otogawa"
+  slug = "eiji-otogawa"
+  instrument = "tenor saxophone"
+  japanese = "音川英二 Otogawa Eiji"
+[[lineup]]
+  name = "Nobumasa Tanaka"
+  slug = "nobumasa-tanaka"
+  instrument = "piano"
+  japanese = "田中信正 Tanaka Nobumasa"
+[[lineup]]
+  name = "Kosuke Ochiai"
+  slug = "kosuke-ochiai"
+  instrument = "bass, percussion"
+  japanese = "落合康介 Ochiai Kosuke"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums, percussion"
+  japanese = "吉良創太 Kira Sota"
 [cover]
   image = "mase-hiroko-quintet-first-contact-460.jpeg"
   alt = "Cover art of First Contact by Mase Hiroko Quintet"
@@ -125,19 +153,6 @@ My journey of exploring music has just begun. Building these projects together w
 _September 2020_
 
 {{< figure src="L1240180x-1024.jpeg" link="L1240180x-1024.jpeg" >}}
-
-
-## First Contact by Mase Hiroko Quintet
-
--   [Hiroko Mase](/tags/hiroko-mase/) - soprano saxophone
--   [Eiji Otogawa](/tags/eiji-otogawa/) - tenor saxophone
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
--   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass, percussion
--   [Sota Kira](/tags/sota-kira/) - drums, percussion
-
-Released in 2020 on F.S.L. as FSCJ-0019.
-
-_Japanese names: ませひろこ Mase Hiroko 音川英二 Otogawa Eiji 田中信正 Tanaka Nobumasa 落合康介 Ochiai Kosuke 吉良創太 Kira Sota_
 
 
 ## Audio and Video

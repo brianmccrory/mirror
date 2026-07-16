@@ -6,7 +6,30 @@ tags = ["Mariko Maeda", "前田真梨子", "Kota Kaihori", "海堀弘太", "Yosu
 categories = ["albums"]
 draft = false
 slug = "mariko-maeda-awareness"
+releaseYear = 2023
+releaseLabel = "DoLuck Jazz"
+releaseCode = "DLC-28"
 issue = 178
+[[lineup]]
+  name = "Mariko Maeda"
+  slug = "mariko-maeda"
+  instrument = "trombone"
+  japanese = "前田真梨子 Maeda Mariko"
+[[lineup]]
+  name = "Kota Kaihori"
+  slug = "kota-kaihori"
+  instrument = "piano, trumpet on #4"
+  japanese = "海堀弘太 Kaihori Kota"
+[[lineup]]
+  name = "Yosuke Terao"
+  slug = "yosuke-terao"
+  instrument = "bass"
+  japanese = "寺尾陽介 Terao Yosuke"
+[[lineup]]
+  name = "Yuto Maseki"
+  slug = "yuto-maseki"
+  instrument = "drums"
+  japanese = "柵木雄斗 Maseki Yuto"
 [cover]
   image = "mariko-maeda-awareness-460.jpeg"
   alt = "Cover art of Awareness by Mariko Maeda"
@@ -56,18 +79,6 @@ Given such fresh music, instead of summarizing the album overall with a few desc
 {{< figure src="IMG_20230420_213209363x-1024.jpeg" link="IMG_20230420_213209363x-1024.jpeg" >}}
 
 {{< figure src="L1240178x-1024.jpeg" link="L1240178x-1024.jpeg" >}}
-
-
-## Awareness by Mariko Maeda
-
--   [Mariko Maeda](/tags/mariko-maeda/) - trombone
--   [Kota Kaihori](/tags/kota-kaihori/) - piano, trumpet on #4
--   [Yosuke Terao](/tags/yosuke-terao/) - bass
--   [Yuto Maseki](/tags/yuto-maseki/) - drums
-
-Released in 2023 on DoLuck Jazz as DLC-28.
-
-_Japanese names: 前田真梨子 Maeda Mariko 海堀弘太 Kaihori Kota 寺尾陽介 Terao Yosuke 柵木雄斗 Maseki Yuto_
 
 
 ## Audio and Video

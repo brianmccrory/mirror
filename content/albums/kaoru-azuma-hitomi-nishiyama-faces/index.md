@@ -6,7 +6,35 @@ tags = ["Kaoru Azuma", "東かおる", "Hitomi Nishiyama", "西山瞳", "Motohik
 categories = ["albums"]
 draft = false
 slug = "kaoru-azuma-hitomi-nishiyama-faces"
+releaseYear = 2020
+releaseLabel = "Meantone Records"
+releaseCode = "MT-09"
 issue = 220
+[[lineup]]
+  name = "Kaoru Azuma"
+  slug = "kaoru-azuma"
+  instrument = "vocal"
+  japanese = "東かおる Azuma Kaoru"
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano, composition, arrangement"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar (#1, 2, 3, 5, 7, 8)"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Toru Nishijima"
+  slug = "toru-nishijima"
+  instrument = "bass (#1, 2, 3, 5, 6, 7, 9)"
+  japanese = "西嶋徹 Nishijima Toru"
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor & soprano saxophones (#2, 3, 6, 7, 10)"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
 related = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 [cover]
   image = "kaoru-azuma-hitomi-nishiyama-faces-460.jpeg"
@@ -94,19 +122,6 @@ This is based on “Before Night Falls” from _[Many Seasons](/hitomi-nishiyama
 (Hitomi Nishiyama)
 
 {{< figure src="L1240130x-1024.jpeg" link="L1240130x-1024.jpeg" >}}
-
-
-## Faces by Kaoru Azuma / Hitomi Nishiyama
-
--   [Kaoru Azuma](/tags/kaoru-azuma/) - vocal
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, composition, arrangement
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar (#1, 2, 3, 5, 7, 8)
--   [Toru Nishijima](/tags/toru-nishijima/) - bass (#1, 2, 3, 5, 6, 7, 9)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
-
-Released in 2020 on Meantone Records as MT-09.
-
-_Japanese names: 東かおる Azuma Kaoru 西山瞳 Nishiyama Hitomi 市野元彦 Ichino Motohiko 西嶋徹 Nishijima Toru 橋爪亮督 Hashizume Ryosuke_
 
 
 ## Audio and Video

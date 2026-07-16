@@ -6,7 +6,30 @@ tags = ["Sachiko Ikuta", "生田さち子", "Hideaki Kanazawa", "金澤英明", 
 categories = ["albums"]
 draft = false
 slug = "sachiko-ikuta-trio-haru"
+releaseYear = 2012
+releaseLabel = "Studio TLive Records"
+releaseCode = "XQHG-1007"
 issue = 26
+[[lineup]]
+  name = "Sachiko Ikuta"
+  slug = "sachiko-ikuta"
+  instrument = "piano"
+  japanese = "生田さち子 Ikuta Sachiko"
+[[lineup]]
+  name = "Hideaki Kanazawa"
+  slug = "hideaki-kanazawa"
+  instrument = "contrabass"
+  japanese = "金澤英明 Kanazawa Hideaki"
+[[lineup]]
+  name = "Shun Ishiwaka"
+  slug = "shun-ishiwaka"
+  instrument = "drums"
+  japanese = "石若駿 Ishiwaka Shun"
+[[lineup]]
+  name = "Terumasa Hino"
+  slug = "terumasa-hino"
+  instrument = "trumpet, cornet (#3, 6)"
+  japanese = "日野皓正 Hino Terumasa"
 [cover]
   image = "sachikoikuta-haru-460.jpeg"
   alt = "Cover art of Haru No Kaze by Sachiko Ikuta Trio"
@@ -24,18 +47,6 @@ The album’s nine songs feature classic jazz standards, songs by Bills Evans an
 {{< figure src="L1180788-1024.jpg" link="L1180788-1024.jpg" >}}
 
 {{< figure src="L1180790-1024.jpg" link="L1180790-1024.jpg" >}}
-
-
-## Haru No Kaze by Sachiko Ikuta Trio
-
--   [Sachiko Ikuta](/tags/sachiko-ikuta/) - piano
--   [Hideaki Kanazawa](/tags/hideaki-kanazawa/) - contrabass
--   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
--   [Terumasa Hino](/tags/terumasa-hino/) - trumpet, cornet (#3, 6)
-
-Released in 2012 on Studio TLive Records as XQHG-1007.
-
-_Japanese names: 生田さち子 Ikuta Sachiko 金澤英明 Kanazawa Hideaki 石若駿 Ishiwaka Shun 日野皓正 Hino Terumasa_
 
 
 ## Audio and Video

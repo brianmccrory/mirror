@@ -6,7 +6,25 @@ tags = ["Yukako Yamano", "山野友佳子", "Koichi Osamu", "納浩一", "Manabu
 categories = ["albums"]
 draft = false
 slug = "yukako-yamano-1st-stage"
+releaseYear = 2013
+releaseLabel = "Yukako Yamano"
+releaseCode = "YKRN-0001"
 issue = 49
+[[lineup]]
+  name = "Yukako Yamano"
+  slug = "yukako-yamano"
+  instrument = "piano"
+  japanese = "山野友佳子 Yamano Yukako"
+[[lineup]]
+  name = "Koichi Osamu"
+  slug = "koichi-osamu"
+  instrument = "bass"
+  japanese = "納浩一 Osamu Koichi"
+[[lineup]]
+  name = "Manabu Fujii"
+  slug = "manabu-fujii"
+  instrument = "drums"
+  japanese = "藤井学 Fujii Manabu"
 [cover]
   image = "yukakoyamano-first-460.jpeg"
   alt = "Cover art of 1st Stage by Yukako Yamano"
@@ -30,17 +48,6 @@ _1st Stage_ features Yukako Yamano on piano along with regular trio members mult
 {{< figure src="yukakoyamano-first-remastered-460.jpeg" link="yukakoyamano-first-remastered-460.jpeg" >}}
 
 {{< figure src="L1110742-1024.jpg" link="L1110742-1024.jpg" >}}
-
-
-## 1st Stage by Yukako Yamano
-
--   [Yukako Yamano](/tags/yukako-yamano/) - piano
--   [Koichi Osamu](/tags/koichi-osamu/) - bass
--   [Manabu Fujii](/tags/manabu-fujii/) - drums
-
-Released in 2013 on Yukako Yamano as YKRN-0001.
-
-_Japanese names: 山野友佳子 Yamano Yukako 納浩一 Osamu Koichi 藤井学 Fujii Manabu_
 
 
 ## Audio and Video

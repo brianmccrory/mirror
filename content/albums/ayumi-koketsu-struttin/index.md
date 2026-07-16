@@ -6,7 +6,29 @@ tags = ["Ayumi Koketsu", "纐纈歩美", "Yoshihiko Naya", "納谷嘉彦", "Masa
 categories = ["albums"]
 draft = false
 slug = "ayumi-koketsu-struttin"
+releaseYear = 2010
+releaseLabel = "Pony Canyon"
+releaseCode = "MYCJ-30573"
 issue = 365
+[[lineup]]
+  name = "Ayumi Koketsu"
+  slug = "ayumi-koketsu"
+  instrument = "saxophone"
+  japanese = "纐纈歩美 Koketsu Ayumi"
+[[lineup]]
+  name = "Yoshihiko Naya"
+  slug = "yoshihiko-naya"
+  instrument = "piano"
+  japanese = "納谷嘉彦 Naya Yoshihiko"
+[[lineup]]
+  name = "Masayuki Tawarayama"
+  slug = "masayuki-tawarayama"
+  instrument = "bass"
+  japanese = "俵山昌之 Tawarayama Masayuki"
+[[lineup]]
+  name = "Mark Taylor"
+  slug = "mark-taylor"
+  instrument = "drums"
 related = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "ayumi-koketsu-struttin-460.jpeg"
@@ -115,18 +137,6 @@ Her passion is jazz!
 A talented woman makes her debut on the scene with her light yet intense performance at 21 years old!
 
 {{< figure src="L1320996x-1200.jpeg" alt="Disc of Struttin’ by Ayumi Koketsu" link="L1320996x-1200.jpeg" >}}
-
-
-## Struttin’ by Ayumi Koketsu
-
--   [Ayumi Koketsu](/tags/ayumi-koketsu/) - saxophone
--   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
--   [Mark Taylor](/tags/mark-taylor/) - drums
-
-Released in 2010 on Pony Canyon as MYCJ-30573.
-
-_Japanese names: 纐纈歩美 Koketsu Ayumi 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki_
 
 
 ## Audio and Video

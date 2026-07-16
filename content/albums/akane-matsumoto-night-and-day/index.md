@@ -6,7 +6,23 @@ tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-night-and-day"
+releaseYear = 2017
+releaseLabel = "Concept Record"
+releaseCode = "CR07"
 issue = 2
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Peter Washington"
+  slug = "peter-washington"
+  instrument = "bass"
+[[lineup]]
+  name = "Gene Jackson"
+  slug = "gene-jackson"
+  instrument = "drums"
 [cover]
   image = "akanematsumoto-night-460.jpeg"
   alt = "Cover art of Night & Day by Akane Matsumoto"
@@ -24,17 +40,6 @@ Alongside classic and rearranged standards from Cole Porter, Irving Berlin, Bill
 {{< figure src="L1180423-1024.jpg" link="L1180423-1024.jpg" >}}
 
 {{< figure src="L1180424-1024.jpg" link="L1180424-1024.jpg" >}}
-
-
-## Night &amp; Day by Akane Matsumoto
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Peter Washington](/tags/peter-washington/) - bass
--   [Gene Jackson](/tags/gene-jackson/) - drums
-
-Released in 2017 on Concept Record as CR07.
-
-_Japanese names: 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

@@ -6,7 +6,30 @@ tags = ["Noriko Satomi", "里見紀子", "Masaaki Imaizumi", "今泉正明", "Ku
 categories = ["albums"]
 draft = false
 slug = "noriko-satomi-project-n"
+releaseYear = 2017
+releaseLabel = "Altered Records"
+releaseCode = "ALTVN-1001"
 issue = 241
+[[lineup]]
+  name = "Noriko Satomi"
+  slug = "noriko-satomi"
+  instrument = "violin"
+  japanese = "里見紀子 Satomi Noriko"
+[[lineup]]
+  name = "Masaaki Imaizumi"
+  slug = "masaaki-imaizumi"
+  instrument = "piano"
+  japanese = "今泉正明 Imaizumi Masaaki"
+[[lineup]]
+  name = "Kunio Oinuma"
+  slug = "kunio-oinuma"
+  instrument = "bass"
+  japanese = "生沼邦夫 Oinuma Kunio"
+[[lineup]]
+  name = "Masahiko Osaka"
+  slug = "masahiko-osaka"
+  instrument = "drums"
+  japanese = "大坂昌彦 Osaka Masahiko"
 related = ["noriko-satomi-a-love-supreme"]
 [cover]
   image = "noriko-satomi-project-n-460.jpg"
@@ -144,18 +167,6 @@ As a commercial composer, she’s received the ACC Award for works including “
 As an arranger for strings, she’s worked on songs by m-flo, TOKU, and others, receiving favorable reviews.
 
 {{< figure src="L1240860x-1200.jpeg" link="L1240860x-1200.jpeg" >}}
-
-
-## Project-N by Noriko Satomi
-
--   [Noriko Satomi](/tags/noriko-satomi/) - violin
--   [Masaaki Imaizumi](/tags/masaaki-imaizumi/) - piano
--   [Kunio Oinuma](/tags/kunio-oinuma/) - bass
--   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
-
-Released in 2017 on Altered Records as ALTVN-1001.
-
-_Japanese names: 里見紀子 Satomi Noriko 今泉正明 Imaizumi Masaaki 生沼邦夫 Oinuma Kunio 大坂昌彦 Osaka Masahiko_
 
 
 ## Audio and Video

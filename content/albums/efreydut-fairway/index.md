@@ -6,7 +6,24 @@ tags = ["Mikiko Nagatake", "永武幹子", "Ko Omura", "大村亘", "Kanoa Mende
 categories = ["albums"]
 draft = false
 slug = "efreydut-fairway"
+releaseYear = 2024
+releaseLabel = "Tommy’s Record"
+releaseCode = "TW-002"
 issue = 236
+[[lineup]]
+  name = "Mikiko Nagatake"
+  slug = "mikiko-nagatake"
+  instrument = "piano"
+  japanese = "永武幹子 Nagatake Mikiko"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drumset, tabla"
+  japanese = "大村亘 Omura Ko"
+[[lineup]]
+  name = "Kanoa Mendenhall"
+  slug = "kanoa-mendenhall"
+  instrument = "bass"
 related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "efreydut-fairway-460.jpeg"
@@ -117,17 +134,6 @@ In the field of economics, it refers to the liquidity of value. This song was wr
 ◆Fairway: The name of a long-established supermarket in Manhattan that was close to the hotel where I stayed and that I visited many times.
 
 {{< figure src="IMG_20240328_122839403-1200.jpeg" link="IMG_20240328_122839403-1200.jpeg" >}}
-
-
-## Fairway by eFreydut
-
--   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
--   [Ko Omura](/tags/ko-omura/) - drumset, tabla
--   [Kanoa Mendenhall](/tags/kanoa-mendenhall/) - bass
-
-Released in 2024 on Tommy’s Record as TW-002.
-
-_Japanese names: 永武幹子 Nagatake Mikiko 大村亘 Omura Ko_
 
 
 ## Audio and Video

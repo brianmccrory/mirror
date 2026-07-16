@@ -6,7 +6,30 @@ tags = ["Yukari Sekiya", "関谷友加里", "Yuko Tanaka", "田中ゆうこ", "M
 categories = ["albums"]
 draft = false
 slug = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and"
+releaseYear = 2011
+releaseLabel = "Itazura Records"
+releaseCode = "YUMO-713"
 issue = 353
+[[lineup]]
+  name = "Yukari Sekiya"
+  slug = "yukari-sekiya"
+  instrument = "piano"
+  japanese = "関谷友加里 Sekiya Yukari"
+[[lineup]]
+  name = "Yuko Tanaka"
+  slug = "yuko-tanaka"
+  instrument = "voice"
+  japanese = "田中ゆうこ Tanaka Yuko"
+[[lineup]]
+  name = "Michihiro Morisada"
+  slug = "michihiro-morisada"
+  instrument = "bass"
+  japanese = "森定道広 Morisada Michihiro"
+[[lineup]]
+  name = "Tatsuya Hashimoto"
+  slug = "tatsuya-hashimoto"
+  instrument = "drums"
+  japanese = "橋本達哉 Hashimoto Tatsuya"
 related = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
 [cover]
   image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
@@ -89,18 +112,6 @@ The heart pounds, begin to cry, begin to dance, betrayal... Long ago memories ov
 Dec. 14, 2010   A live recording on the final night of the tour   The long-awaited debut album is completed
 
 {{< figure src="L1340891x-1200.jpeg" link="L1340891x-1200.jpeg" >}}
-
-
-## It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka
-
--   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
--   [Yuko Tanaka](/tags/yuko-tanaka/) - voice
--   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
--   [Tatsuya Hashimoto](/tags/tatsuya-hashimoto/) - drums
-
-Released in 2011 on Itazura Records as YUMO-713.
-
-_Japanese names: 関谷友加里 Sekiya Yukari 田中ゆうこ Tanaka Yuko 森定道広 Morisada Michihiro 橋本達哉 Hashimoto Tatsuya_
 
 
 ## Audio and Video

@@ -6,7 +6,35 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-side-two"
+releaseYear = 2014
+releaseLabel = "Apollo Sounds"
+releaseCode = "APLS-1410"
 issue = 274
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor sax, loops"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums, percussion"
+  japanese = "橋本学 Hashimoto Manabu"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryo-hashizume-side-two-460.jpeg"
@@ -82,19 +110,6 @@ None of the songs make use of the “modern jazz cliché” of cycling through s
 Also, the sound of each instrument rings with a tone and texture that seems to have been chosen for the sound to be heard here. This is also a reason why I began to like listening to this for chilling out. The tones are chosen for the overall sound more than for their own individual sounds. Manabu Hashimoto’s dry percussion sounds harmonize with Ryoji Orihara’s thick fretless bass. The reason for having a fretless bass rather than an upright bass is quietly but eloquently heard. I don’t know of any other jazz like this. And, along with Hashizume’s sax, Ichino’s guitar, and Koichi Sato’s piano, everyone plays just the right number of notes and volume for the tone and texture here, without addition or subtraction. The perfectly balanced and smooth sound is built through the improvisation. This gentle thrill is the joy I feel when listening to jazz with the stimulating tranquility of everything in harmony. Considering New York jazz descended from West Coast and cool jazz, or the soundscapes of ECM and Hubro, or the Americana lineage related to Bill Frisell and Brian Blade, this is a different soundscape from all of those.
 
 {{< figure src="L1110949-1200.jpeg" link="L1110949-1200.jpeg" >}}
-
-
-## Side Two by Ryosuke Hashizume Group
-
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax, loops
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
-
-Released in 2014 on Apollo Sounds as APLS-1410.
-
-_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Yukiko Hayakawa", "早川由紀子", "Terumasa Nishikawa", "西川輝�
 categories = ["albums"]
 draft = false
 slug = "yukiko-hayakawa-trio-gallery"
+releaseYear = 2008
+releaseLabel = "Ventain Records"
+releaseCode = "VJYH-8461"
 issue = 135
+[[lineup]]
+  name = "Yukiko Hayakawa"
+  slug = "yukiko-hayakawa"
+  instrument = "piano"
+  japanese = "早川由紀子 Hayakawa Yukiko"
+[[lineup]]
+  name = "Terumasa Nishikawa"
+  slug = "terumasa-nishikawa"
+  instrument = "bass"
+  japanese = "西川輝正 Nishikawa Terumasa"
+[[lineup]]
+  name = "Keiichiro Uemura"
+  slug = "keiichiro-uemura"
+  instrument = "drums"
+  japanese = "上村計一郎 Uemura Keiichiro"
 [cover]
   image = "yukiko-hayakawa-gallery-460.jpeg"
   alt = "Cover art of Gallery by Yukiko Hayakawa Trio"
@@ -22,17 +40,6 @@ Recorded with a live and echoey sound, the trio locks in with opening tracks “
 {{< figure src="L1200619-1024.jpg" link="L1200619-1024.jpg" >}}
 
 {{< figure src="L1200620-1024.jpg" link="L1200620-1024.jpg" >}}
-
-
-## Gallery by Yukiko Hayakawa Trio
-
--   [Yukiko Hayakawa](/tags/yukiko-hayakawa/) - piano
--   [Terumasa Nishikawa](/tags/terumasa-nishikawa/) - bass
--   [Keiichiro Uemura](/tags/keiichiro-uemura/) - drums
-
-Released in 2008 on Ventain Records as VJYH-8461.
-
-_Japanese names: 早川由紀子 Hayakawa Yukiko 西川輝正 Nishikawa Terumasa 上村計一郎 Uemura Keiichiro_
 
 
 ## Audio and Video

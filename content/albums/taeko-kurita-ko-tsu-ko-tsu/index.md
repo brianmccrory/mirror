@@ -6,7 +6,15 @@ tags = ["Taeko Kurita", "栗田妙子"]
 categories = ["albums"]
 draft = false
 slug = "taeko-kurita-ko-tsu-ko-tsu"
+releaseYear = 2012
+releaseLabel = "Kurita Taeko"
+releaseCode = "MP-007"
 issue = 317
+[[lineup]]
+  name = "Taeko Kurita"
+  slug = "taeko-kurita"
+  instrument = "piano"
+  japanese = "栗田妙子 Kurita Taeko"
 related = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
@@ -32,15 +40,6 @@ The song #4 “Mr. M” is 北に生まれ (_born in the north_). I’m not sure
 Like the music in the last song on the album, #8 “Plie ‘A Sublingual Castle’” or 舌下城 (_castle-under-tongue_), both the Engish and Japanese titles are very evocative... While I haven’t been able to figure it out, it feels like there may be more to this title than just its creative image. Perhaps a secret stronghold kept guarded, unvoiced (_a castle beneath the tongue?_)... or an impenetrable fortress created by a slip of the tongue, as a careless remark, or 舌禍 (_zekka_) can have the same sound as 舌下 (_zekka_), possibly?
 
 {{< figure src="L1280892x-1200.jpeg" link="L1280892x-1200.jpeg" >}}
-
-
-## Ko-tsu-ko-tsu by Taeko Kurita
-
--   [Taeko Kurita](/tags/taeko-kurita/) - piano
-
-Released in 2012 on Kurita Taeko as MP-007.
-
-_Japanese names: 栗田妙子 Kurita Taeko_
 
 
 ## Audio and Video

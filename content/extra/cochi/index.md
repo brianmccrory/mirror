@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "cochi"
+clubName = "Cochi"
+clubUrl = "http://www.jazz-cochi.com"
+clubCity = "Tokyo"
+clubStation1 = "Koiwa"
+clubMap = "https://goo.gl/maps/p1qvVio7ZLWceChZA"
 issue = 192
 [cover]
   image = "IMG_20190614_213430448-1024.jpeg"
@@ -30,9 +35,3 @@ Like other tiny spots in Tokyo, there are times when all seats at Cochi are fill
 {{< figure src="IMG_20230429_190909988-1024.jpeg" link="IMG_20230429_190909988-1024.jpeg" >}}
 
 {{< figure src="IMG_20181109_191906250_BURST001-1024.jpeg" link="IMG_20181109_191906250_BURST001-1024.jpeg" >}}
-
-
-## Information
-
--   [Cochi’s website](http://www.jazz-cochi.com)
--   [Located near Koiwa station in Tokyo, Japan](https://goo.gl/maps/p1qvVio7ZLWceChZA)

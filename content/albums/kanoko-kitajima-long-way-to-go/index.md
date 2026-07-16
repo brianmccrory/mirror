@@ -6,7 +6,25 @@ tags = ["Kanoko Kitajima", "北島佳乃子", "Motoi Kanamori", "金森もとい
 categories = ["albums"]
 draft = false
 slug = "kanoko-kitajima-long-way-to-go"
+releaseYear = 2019
+releaseLabel = "T&A Music"
+releaseCode = "Long Way to Go"
 issue = 308
+[[lineup]]
+  name = "Kanoko Kitajima"
+  slug = "kanoko-kitajima"
+  instrument = "piano"
+  japanese = "北島佳乃子 Kitajima Kanoko"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Fukushi Tainaka"
+  slug = "fukushi-tainaka"
+  instrument = "drums"
+  japanese = "田井中福司 Tainaka Fukushi"
 related = ["fumika-asari-introducin"]
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
@@ -91,17 +109,6 @@ Harry Warren gave us more than 800 impressive compositions, including “The Mor
 A brilliant debut record from a pianist with a naturally sophisticated talent! You’re moved to smile with every note from all the songs… this is real jazz!
 
 {{< figure src="L1270653x-1200.jpeg" link="L1270653x-1200.jpeg" >}}
-
-
-## Long Way to Go by Kanoko Kitajima
-
--   [Kanoko Kitajima](/tags/kanoko-kitajima/) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
-
-Released in 2019 on T&amp;A Music as Long Way to Go.
-
-_Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
 
 
 ## Audio and Video

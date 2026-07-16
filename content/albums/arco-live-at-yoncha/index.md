@@ -6,7 +6,20 @@ tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 slug = "arco-live-at-yoncha"
+releaseYear = 2018
+releaseLabel = "Arco"
+releaseCode = "handmade compact discs"
 issue = 134
+[[lineup]]
+  name = "Sayaka Kishi"
+  slug = "sayaka-kishi"
+  instrument = "piano, melodion"
+  japanese = "岸淑香 Kishi Sayaka"
+[[lineup]]
+  name = "Mayumi Sano"
+  slug = "mayumi-sano"
+  instrument = "cello"
+  japanese = "佐野まゆみ Sano Mayumi"
 [cover]
   image = "arco-liveatyoncha-460.jpeg"
   alt = "Cover art of Live At Yoncha by Arco"
@@ -28,16 +41,6 @@ On _Live At Yoncha_, the set kicks off with an original tune, the fiery “Fiest
 {{< figure src="L1220149-1024.jpg" link="L1220149-1024.jpg" >}}
 
 {{< figure src="L1220154-1024.jpg" link="L1220154-1024.jpg" >}}
-
-
-## Live At Yoncha by Arco
-
--   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
--   [Mayumi Sano](/tags/mayumi-sano/) - cello
-
-Released in 2018 on Arco as handmade compact discs.
-
-_Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 
 ## Audio and Video

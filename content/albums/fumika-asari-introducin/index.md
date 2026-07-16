@@ -6,7 +6,60 @@ tags = ["Fumika Asari", "浅利史花", "Sadanori Nakamure", "中牟礼貞則", 
 categories = ["albums"]
 draft = false
 slug = "fumika-asari-introducin"
+releaseYear = 2020
+releaseLabel = "ReBorn Wood"
+releaseCode = "RBW-0018"
 issue = 193
+[[lineup]]
+  name = "Fumika Asari"
+  slug = "fumika-asari"
+  instrument = "guitar"
+  japanese = "浅利史花 Asari Fumika"
+[[lineup]]
+  name = "Sadanori Nakamure"
+  slug = "sadanori-nakamure"
+  instrument = "guitar (#3)"
+  japanese = "中牟礼貞則 Nakamure Sadanori"
+[[lineup]]
+  name = "Satoshi Kosugi"
+  slug = "satoshi-kosugi"
+  instrument = "bass (#1, 2)"
+  japanese = "小杉敏 Kosugi Satoshi"
+[[lineup]]
+  name = "Daiki Mishima"
+  slug = "daiki-mishima"
+  instrument = "bass (#4, 5, 7, 8)"
+  japanese = "三嶋大輝 Mishima Daiki"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano, Rhodes (#6, 8)"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Kanoko Kitajima"
+  slug = "kanoko-kitajima"
+  instrument = "piano (#1, 4)"
+  japanese = "北島佳乃子 Kitajima Kanoko"
+[[lineup]]
+  name = "Hiro Kimura"
+  slug = "hiro-kimura"
+  instrument = "drums (#1, 2, 8)"
+  japanese = "木村紘 Kimura Hiro"
+[[lineup]]
+  name = "Yusuke Yaginuma"
+  slug = "yusuke-yaginuma"
+  instrument = "drums (#4, 5)"
+  japanese = "柳沼佑育 Yaginuma Yusuke"
+[[lineup]]
+  name = "Akane Ezawa"
+  slug = "akane-ezawa"
+  instrument = "alto saxophone (#7, 8)"
+  japanese = "江澤茜 Ezawa Akane"
+[[lineup]]
+  name = "Itsumi Komano"
+  slug = "itsumi-komano"
+  instrument = "trombone (#7, 8)"
+  japanese = "駒野逸美 Komano Itsumi"
 [cover]
   image = "fumika-asari-introducin-460.jpeg"
   alt = "Cover art of Introducin’ by Fumika Asari"
@@ -59,24 +112,6 @@ How is Fumika Asari’s debut album? The guitar tone is incredibly beautiful! Pl
 _Jazz journalist Hiro Yamanaka 山中弘行_
 
 {{< figure src="L1240149x-1024.jpeg" link="L1240149x-1024.jpeg" >}}
-
-
-## Introducin’ by Fumika Asari
-
--   [Fumika Asari](/tags/fumika-asari/) - guitar
--   [Sadanori Nakamure](/tags/sadanori-nakamure/) - guitar (#3)
--   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass (#1, 2)
--   [Daiki Mishima](/tags/daiki-mishima/) - bass (#4, 5, 7, 8)
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano, Rhodes (#6, 8)
--   [Kanoko Kitajima](/tags/kanoko-kitajima/) - piano (#1, 4)
--   [Hiro Kimura](/tags/hiro-kimura/) - drums (#1, 2, 8)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums (#4, 5)
--   [Akane Ezawa](/tags/akane-ezawa/) - alto saxophone (#7, 8)
--   [Itsumi Komano](/tags/itsumi-komano/) - trombone (#7, 8)
-
-Released in 2020 on ReBorn Wood as RBW-0018.
-
-_Japanese names: 浅利史花 Asari Fumika 中牟礼貞則 Nakamure Sadanori 小杉敏 Kosugi Satoshi 三嶋大輝 Mishima Daiki 石田衛 Ishida Mamoru 北島佳乃子 Kitajima Kanoko 木村紘 Kimura Hiro 柳沼佑育 Yaginuma Yusuke 江澤茜 Ezawa Akane 駒野逸美 Komano Itsumi_
 
 
 ## Audio and Video

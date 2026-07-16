@@ -6,7 +6,35 @@ tags = ["Hiroshi Fukutomi", "福冨博", "Masahiro Yamamoto", "山本昌広", "K
 categories = ["albums"]
 draft = false
 slug = "hiroshi-fukutomi-quintet-rings-of-saturn"
+releaseYear = 2010
+releaseLabel = "D-musica"
+releaseCode = "DMCD-04"
 issue = 346
+[[lineup]]
+  name = "Hiroshi Fukutomi"
+  slug = "hiroshi-fukutomi"
+  instrument = "guitar"
+  japanese = "福冨博 Fukutomi Hiroshi"
+[[lineup]]
+  name = "Masahiro Yamamoto"
+  slug = "masahiro-yamamoto"
+  instrument = "alto and soprano sax"
+  japanese = "山本昌広 Yamamoto Masahiro"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ryo Shibata"
+  slug = "ryo-shibata"
+  instrument = "drums"
+  japanese = "柴田亮 Shibata Ryo"
 related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
@@ -101,19 +129,6 @@ Born in Osaka in 1981, Ryo Shibata had a love for music at a young age and began
 The resonance of five distinct personalities blossoms with a rich harmony.
 
 {{< figure src="L1240184x-1200.jpeg" link="L1240184x-1200.jpeg" >}}
-
-
-## Rings of Saturn by Hiroshi Fukutomi Quintet
-
--   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - guitar
--   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto and soprano sax
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Ryo Shibata](/tags/ryo-shibata/) - drums
-
-Released in 2010 on D-musica as DMCD-04.
-
-_Japanese names: 福冨博 Fukutomi Hiroshi 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 柴田亮 Shibata Ryo_
 
 
 ## Audio and Video

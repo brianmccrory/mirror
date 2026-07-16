@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "into-the-blue"
+clubName = "Into the Blue"
+clubUrl = "http://intotheblue.info/"
+clubCity = "Tokyo"
+clubStation1 = "Machida"
+clubMap = "https://goo.gl/maps/C8u4y5hN3uZfAs67A"
 issue = 157
 [cover]
   image = "IMG_20181113_193121771-1024.jpeg"
@@ -22,9 +27,3 @@ Here at Into the Blue, the sound is upfront and close, like a mini concert hall 
 There are many options for drinks and food on the menu including Margherita pizza and the like. The Into the Blue house cocktail is tempting, surely going well with the ocean blue lighting and overall calm sense of this tidy shop.
 
 {{< figure src="IMG_20181113_194136875-1024.jpeg" link="IMG_20181113_194136875-1024.jpeg" >}}
-
-
-## Information
-
--   [Into the Blue’s website](http://intotheblue.info/)
--   [Located near Machida station in Tokyo, Japan](https://goo.gl/maps/C8u4y5hN3uZfAs67A)

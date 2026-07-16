@@ -6,7 +6,30 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-music-in-you"
+releaseYear = 2011
+releaseLabel = "Meantone Records"
+releaseCode = "MT-002"
 issue = 29
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Yasuhiko “Hachi” Sato"
+  slug = "yasuhiko-hachi-sato"
+  instrument = "bass"
+  japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor sax (#12)"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
 [cover]
   image = "hitominishiyama-musicinyou-460.jpeg"
   alt = "Cover art of Music in You by Hitomi Nishiyama Trio"
@@ -30,18 +53,6 @@ All of the compositions on _Music in You_ are by Nishiyama, several with novel t
 Alongside these are songs with more direct titles, such as “Standing There”, “Pictures”, “Pathos”, and “Just By Thinking Of You”. With the considered imagery of both compositional and title choices on _Music in You_, the musical and literary personality of the accomplished pianist can be further appreciated and understood. Yet words can only go so far. The best way to get the music in you is to listen.
 
 {{< figure src="L1210072-1024.jpg" link="L1210072-1024.jpg" >}}
-
-
-## Music in You by Hitomi Nishiyama Trio
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax (#12)
-
-Released in 2011 on Meantone Records as MT-002.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi 橋爪亮督 Hashizume Ryosuke_
 
 
 ## Audio and Video

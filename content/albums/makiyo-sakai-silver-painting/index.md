@@ -6,7 +6,35 @@ tags = ["Makiyo Sakai", "酒井麻生代", "Yoshihiko Naya", "納谷嘉彦", "Ma
 categories = ["albums"]
 draft = false
 slug = "makiyo-sakai-silver-painting"
+releaseYear = 2016
+releaseLabel = "Pony Canyon"
+releaseCode = "PCCY-30231"
 issue = 273
+[[lineup]]
+  name = "Makiyo Sakai"
+  slug = "makiyo-sakai"
+  instrument = "flute"
+  japanese = "酒井麻生代 Sakai Makiyo"
+[[lineup]]
+  name = "Yoshihiko Naya"
+  slug = "yoshihiko-naya"
+  instrument = "piano/Rhodes"
+  japanese = "納谷嘉彦 Naya Yoshihiko"
+[[lineup]]
+  name = "Masayuki Tawarayama"
+  slug = "masayuki-tawarayama"
+  instrument = "bass"
+  japanese = "俵山昌之 Tawarayama Masayuki"
+[[lineup]]
+  name = "Akira Yamada"
+  slug = "akira-yamada"
+  instrument = "drums"
+  japanese = "山田玲 Yamada Akira"
+[[lineup]]
+  name = "Jun Kimura"
+  slug = "jun-kimura"
+  instrument = "acoustic guitar (#2, 7)"
+  japanese = "木村純 Kimura Jun"
 related = ["banda-feliz-boa-viagem"]
 [cover]
   image = "makiyo-sakai-silver-painting-460.jpeg"
@@ -104,19 +132,6 @@ Following a bass intro, the flute plays the melody slowly. The piano enters at a
 This is the third movement from _Suite Bergamaque_, a four-part piano solo piece written in 1890. Its easy-to-love theme has become extremely popular. The _Bergamasque /of the title, meaning /Bergamo dance_, was taken from a poem by Paul Verlaine. Piano and flute play the first half of the original music slowly, then take the second half at a faster tempo with free-spirited, intertwining improvisation.
 
 {{< figure src="L1260491x-1200.jpeg" link="L1260491x-1200.jpeg" >}}
-
-
-## Silver Painting by Makiyo Sakai
-
--   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
--   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano/Rhodes
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
--   [Akira Yamada](/tags/akira-yamada/) - drums
--   [Jun Kimura](/tags/jun-kimura/) - acoustic guitar (#2, 7)
-
-Released in 2016 on Pony Canyon as PCCY-30231.
-
-_Japanese names: 酒井麻生代 Sakai Makiyo 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki 山田玲 Yamada Akira 木村純 Kimura Jun_
 
 
 ## Audio and Video

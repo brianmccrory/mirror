@@ -6,7 +6,35 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Kosuke Mine", "峰厚介", "Mamoru 
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-beyond-the-sea"
+releaseYear = 2024
+releaseLabel = "Coume Music"
+releaseCode = "CUM-2401"
 issue = 291
+[[lineup]]
+  name = "Miyuki Moriya"
+  slug = "miyuki-moriya"
+  instrument = "alto sax, soprano sax"
+  japanese = "守谷美由貴 Moriya Miyuki"
+[[lineup]]
+  name = "Kosuke Mine"
+  slug = "kosuke-mine"
+  instrument = "tenor sax (#2, 3, 5, 6, 7)"
+  japanese = "峰厚介 Mine Kosuke"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Junichi Sato"
+  slug = "junichi-sato"
+  instrument = "bass"
+  japanese = "佐藤潤一 Sato Junichi"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 related = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", "miyuki-moriya-uta-oto"]
 [cover]
   image = "miyuki-moriya-beyond-the-sea-460.jpeg"
@@ -95,19 +123,6 @@ At the beginning of these liner notes, I mentioned that this album feels like a 
 The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor player Kosuke Mine as a special guest on her summer album that is making a splash.
 
 {{< figure src="L1260206x-1200.jpeg" link="L1260206x-1200.jpeg" >}}
-
-
-## Beyond the Sea by Miyuki Moriya
-
--   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax, soprano sax
--   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (#2, 3, 5, 6, 7)
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Junichi Sato](/tags/junichi-sato/) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
-
-Released in 2024 on Coume Music as CUM-2401.
-
-_Japanese names: 守谷美由貴 Moriya Miyuki 峰厚介 Mine Kosuke 石田衛 Ishida Mamoru 佐藤潤一 Sato Junichi 今泉総之輔 Imaizumi Sohnosuke_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshit
 categories = ["albums"]
 draft = false
 slug = "trispace-trispace"
+releaseYear = 2010
+releaseLabel = "Leccia Records / feel free products"
+releaseCode = "LRTR-0004"
 issue = 61
+[[lineup]]
+  name = "Yuichi Hayashi"
+  slug = "yuichi-hayashi"
+  instrument = "Piano, Composition"
+  japanese = "林祐市 Hayashi Yuichi"
+[[lineup]]
+  name = "Morihiro Omura"
+  slug = "morihiro-omura"
+  instrument = "bass"
+  japanese = "大村守弘 Omura Morihiro"
+[[lineup]]
+  name = "Yoshitaka Yamashita"
+  slug = "yoshitaka-yamashita"
+  instrument = "drums"
+  japanese = "山下佳孝 Yamashita Yoshitaka"
 [cover]
   image = "trispace-trispace-460.jpeg"
   alt = "Cover art of Trispace by Trispace"
@@ -26,17 +44,6 @@ With nine original songs spanning jazz-rock, soft ballads, and a light EST and B
 {{< figure src="L1200355-1024.jpg" link="L1200355-1024.jpg" >}}
 
 {{< figure src="L1200357-1024.jpg" link="L1200357-1024.jpg" >}}
-
-
-## Trispace by Trispace
-
--   [Yuichi Hayashi](/tags/yuichi-hayashi/) - Piano, Composition
--   [Morihiro Omura](/tags/morihiro-omura/) - bass
--   [Yoshitaka Yamashita](/tags/yoshitaka-yamashita/) - drums
-
-Released in 2010 on Leccia Records / feel free products as LRTR-0004.
-
-_Japanese names: 林祐市 Hayashi Yuichi 大村守弘 Omura Morihiro 山下佳孝 Yamashita Yoshitaka_
 
 
 ## Audio and Video

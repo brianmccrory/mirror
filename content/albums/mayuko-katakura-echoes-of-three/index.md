@@ -6,7 +6,24 @@ tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士"
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-echoes-of-three"
+releaseYear = 2015
+releaseLabel = "55 Records"
+releaseCode = "JNCJ-5561"
 issue = 36
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Yasushi Nakamura"
+  slug = "yasushi-nakamura"
+  instrument = "bass"
+  japanese = "中村恭士 Nakamura Yasushi"
+[[lineup]]
+  name = "Carmen Intorre Jr."
+  slug = "carmen-intorre-jr"
+  instrument = "drums"
 [cover]
   image = "mayukokatakura-echoes-460.jpeg"
   alt = "Cover art of The Echoes of Three by Mayuko Katakura"
@@ -26,17 +43,6 @@ The second half features a slow-dancing “Serene” (Eric Dolphy), a ripping �
 {{< figure src="L1190001-1024.jpg" link="L1190001-1024.jpg" >}}
 
 {{< figure src="L1190012-1024.jpg" link="L1190012-1024.jpg" >}}
-
-
-## The Echoes of Three by Mayuko Katakura
-
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Yasushi Nakamura](/tags/yasushi-nakamura/) - bass
--   [Carmen Intorre Jr.](/tags/carmen-intorre-jr/) - drums
-
-Released in 2015 on 55 Records as JNCJ-5561.
-
-_Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 
 ## Audio and Video

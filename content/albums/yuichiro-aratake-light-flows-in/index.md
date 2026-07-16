@@ -6,7 +6,30 @@ tags = ["Yuichiro Aratake", "荒武裕一朗", "Tamaya Honda", "本田珠也", "
 categories = ["albums"]
 draft = false
 slug = "yuichiro-aratake-light-flows-in"
+releaseYear = 2005
+releaseLabel = "S2S"
+releaseCode = "SSDF-5006"
 issue = 74
+[[lineup]]
+  name = "Yuichiro Aratake"
+  slug = "yuichiro-aratake"
+  instrument = "piano"
+  japanese = "荒武裕一朗 Aratake Yuichiro"
+[[lineup]]
+  name = "Tamaya Honda"
+  slug = "tamaya-honda"
+  instrument = "drums (tr. #10)"
+  japanese = "本田珠也 Honda Tamaya"
+[[lineup]]
+  name = "Hideki Kawamura"
+  slug = "hideki-kawamura"
+  instrument = "tenor sax (tr. #2)"
+  japanese = "河村英樹 Kawamura Hideki"
+[[lineup]]
+  name = "Noboru Ando"
+  slug = "noboru-ando"
+  instrument = "bass (tr. #7)"
+  japanese = "安東昇 Ando Noboru"
 [cover]
   image = "yuichiroaratake-light-460.jpeg"
   alt = "Cover art of The Light Flows In by Yuichiro Aratake"
@@ -26,18 +49,6 @@ In addition to solo piano, 3 of the 12 tracks feature duos: a piano and sax outi
 {{< figure src="L1210239-1024.jpg" link="L1210239-1024.jpg" >}}
 
 {{< figure src="L1210240-1024.jpg" link="L1210240-1024.jpg" >}}
-
-
-## The Light Flows In by Yuichiro Aratake
-
--   [Yuichiro Aratake](/tags/yuichiro-aratake/) - piano
--   [Tamaya Honda](/tags/tamaya-honda/) - drums (tr. #10)
--   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (tr. #2)
--   [Noboru Ando](/tags/noboru-ando/) - bass (tr. #7)
-
-Released in 2005 on S2S as SSDF-5006.
-
-_Japanese names: 荒武裕一朗 Aratake Yuichiro 本田珠也 Honda Tamaya 河村英樹 Kawamura Hideki 安東昇 Ando Noboru_
 
 
 ## Audio and Video

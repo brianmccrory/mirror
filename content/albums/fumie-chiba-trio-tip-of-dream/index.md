@@ -6,7 +6,25 @@ tags = ["Fumie Chiba", "千葉史絵", "Koichi Kuniwake", "国分航一", "Shige
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-trio-tip-of-dream"
+releaseYear = 2009
+releaseLabel = "TRL Music"
+releaseCode = "TRL-0826"
 issue = 62
+[[lineup]]
+  name = "Fumie Chiba"
+  slug = "fumie-chiba"
+  instrument = "piano"
+  japanese = "千葉史絵 Chiba Fumie"
+[[lineup]]
+  name = "Koichi Kuniwake"
+  slug = "koichi-kuniwake"
+  instrument = "bass"
+  japanese = "国分航一 Kuniwake Koichi"
+[[lineup]]
+  name = "Shigehito Kawamura"
+  slug = "shigehito-kawamura"
+  instrument = "drums"
+  japanese = "川村成史 Kawamura Shigehito"
 [cover]
   image = "fumiechiba-tip-460.jpeg"
   alt = "Cover art of Tip of Dream by Fumie Chiba Trio"
@@ -28,17 +46,6 @@ Along with the six original songs, Chiba’s reharmonizations and arrangements a
 {{< figure src="L1200532-1024.jpg" link="L1200532-1024.jpg" >}}
 
 {{< figure src="L1200535-1024.jpg" link="L1200535-1024.jpg" >}}
-
-
-## Tip of Dream by Fumie Chiba Trio
-
--   [Fumie Chiba](/tags/fumie-chiba/) - piano
--   [Koichi Kuniwake](/tags/koichi-kuniwake/) - bass
--   [Shigehito Kawamura](/tags/shigehito-kawamura/) - drums
-
-Released in 2009 on TRL Music as TRL-0826.
-
-_Japanese names: 千葉史絵 Chiba Fumie 国分航一 Kuniwake Koichi 川村成史 Kawamura Shigehito_
 
 
 ## Audio and Video

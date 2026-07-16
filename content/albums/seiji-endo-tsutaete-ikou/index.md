@@ -6,7 +6,40 @@ tags = ["Hiroco Nagano", "永野寛子", "Shinya Nitta", "仁田真也", "Seiji 
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-tsutaete-ikou"
+releaseYear = 2015
+releaseLabel = "Music Art Records"
+releaseCode = "MAR-1501"
 issue = 30
+[[lineup]]
+  name = "Hiroco Nagano"
+  slug = "hiroco-nagano"
+  instrument = "vocal"
+  japanese = "永野寛子 Nagano Hiroco"
+[[lineup]]
+  name = "Shinya Nitta"
+  slug = "shinya-nitta"
+  instrument = "vocal"
+  japanese = "仁田真也 Nitta Shinya"
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano, vocals"
+  japanese = "遠藤征志 Endo Seiji"
+[[lineup]]
+  name = "Yasuhiro Hasegawa"
+  slug = "yasuhiro-hasegawa"
+  instrument = "bass (#2)"
+  japanese = "長谷川泰弘 Hasegawa Yasuhiro"
+[[lineup]]
+  name = "Yoshiyuki Nakaya"
+  slug = "yoshiyuki-nakaya"
+  instrument = "drums (#2)"
+  japanese = "中屋啓之 Nakaya Yoshiyuki"
+[[lineup]]
+  name = "Arata Umehara"
+  slug = "arata-umehara"
+  instrument = "guitar (#2)"
+  japanese = "梅原新 Umehara Arata"
 [cover]
   image = "seijiendo-tsutaeteikou-460.jpeg"
   alt = "Cover art of Tsutaete Ikou by Seiji Endo"
@@ -24,20 +57,6 @@ The CD contains three versions of the song “Tsutaete Ikou”, and proceeds wer
 {{< figure src="L1180631x-1024.jpeg" link="L1180631x-1024.jpeg" >}}
 
 {{< figure src="L1180632x-1024.jpeg" link="L1180632x-1024.jpeg" >}}
-
-
-## Tsutaete Ikou by Seiji Endo
-
--   [Hiroco Nagano](/tags/hiroco-nagano/) - vocal
--   [Shinya Nitta](/tags/shinya-nitta/) - vocal
--   [Seiji Endo](/tags/seiji-endo/) - piano, vocals
--   [Yasuhiro Hasegawa](/tags/yasuhiro-hasegawa/) - bass (#2)
--   [Yoshiyuki Nakaya](/tags/yoshiyuki-nakaya/) - drums (#2)
--   [Arata Umehara](/tags/arata-umehara/) - guitar (#2)
-
-Released in 2015 on Music Art Records as MAR-1501.
-
-_Japanese names: 永野寛子 Nagano Hiroco 仁田真也 Nitta Shinya 遠藤征志 Endo Seiji 長谷川泰弘 Hasegawa Yasuhiro 中屋啓之 Nakaya Yoshiyuki 梅原新 Umehara Arata_
 
 
 ## Audio and Video

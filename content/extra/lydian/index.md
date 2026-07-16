@@ -7,6 +7,13 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "lydian"
+clubName = "Lydian"
+clubUrl = "http://jazzlydian.com/"
+clubCity = "Tokyo"
+clubStation1 = "Ogawamachi"
+clubStation2 = "Awajicho"
+clubMap = "https://maps.app.goo.gl/M2WPY32A5h91Yfvg6"
+clubStatus = "closed"
 issue = 214
 [cover]
   image = "left-right-crop-2048.jpeg"
@@ -40,14 +47,6 @@ As for the mysterious-sounding name Lydian, jazz musicians will likely recognize
 {{< figure src="IMG_20181009_191942797x-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Pianist Yukako Yamano and bassist Yuuki Nakano kick off a Lydian jam session in 2018" link="IMG_20181009_191942797x-1024.jpeg" >}}
 
 {{< figure src="IMG_20170816_190519-1024.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Lydian" link="IMG_20170816_190519-1024.jpeg" >}}
-
-
-## Information
-
--   [Lydian’s website](http://jazzlydian.com/)
--   [Located near Ogawamachi and Awajicho stations in Tokyo, Japan](https://maps.app.goo.gl/M2WPY32A5h91Yfvg6)
-
-_Note: Lydian has permanently closed._
 
 
 ## Links

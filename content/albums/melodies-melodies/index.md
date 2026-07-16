@@ -6,7 +6,30 @@ tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Min
 categories = ["albums"]
 draft = false
 slug = "melodies-melodies"
+releaseYear = 2025
+releaseLabel = "Ammonite Musique"
+releaseCode = "AM-006"
 issue = 315
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar, baritone guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Kenta Tsugami"
+  slug = "kenta-tsugami"
+  instrument = "alto saxophone"
+  japanese = "津上研太 Tsugami Kenta"
+[[lineup]]
+  name = "Minyen Hsieh"
+  slug = "minyen-hsieh"
+  instrument = "tenor saxophone (#1, 2, 3, 4, 6, 8)"
+  japanese = "謝明諺 Hsieh Minyen"
+[[lineup]]
+  name = "Akira Sotoyama"
+  slug = "akira-sotoyama"
+  instrument = "drums"
+  japanese = "外山明 Sotoyama Akira"
 related = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
 [cover]
   image = "melodies-melodies-460.jpeg"
@@ -35,18 +58,6 @@ Track #5 “Spring” has the muted hopefulness of a timid flower blossoming slo
 {{< figure src="L1310921x-1200.jpeg" link="L1310921x-1200.jpeg" >}}
 
 {{< figure src="L1310929x-1200.jpeg" link="L1310929x-1200.jpeg" >}}
-
-
-## Melodies by Melodies
-
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, baritone guitar
--   [Kenta Tsugami](/tags/kenta-tsugami/) - alto saxophone
--   [Minyen Hsieh](/tags/minyen-hsieh/) - tenor saxophone (#1, 2, 3, 4, 6, 8)
--   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
-
-Released in 2025 on Ammonite Musique as AM-006.
-
-_Japanese names: 市野元彦 Ichino Motohiko 津上研太 Tsugami Kenta 謝明諺 Hsieh Minyen 外山明 Sotoyama Akira_
 
 
 ## Audio and Video

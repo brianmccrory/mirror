@@ -6,7 +6,23 @@ tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
 slug = "manabu-ohishi-trio-wish"
+releaseYear = 2010
+releaseLabel = "Atelier Sawano"
+releaseCode = "AS-100"
 issue = 38
+[[lineup]]
+  name = "Manabu Ohishi"
+  slug = "manabu-ohishi"
+  instrument = "piano"
+  japanese = "大石学 Ohishi Manabu"
+[[lineup]]
+  name = "Jean-Philippe Viret"
+  slug = "jean-philippe-viret"
+  instrument = "bass"
+[[lineup]]
+  name = "Simon Goubert"
+  slug = "simon-goubert"
+  instrument = "drums"
 [cover]
   image = "manabuohishi-wish-460.jpeg"
   alt = "Cover art of Wish by Manabu Ohishi Trio"
@@ -28,17 +44,6 @@ Another moving feature is Ohishi’s lovely reharmonization of popular standards
 {{< figure src="L1200157-1024.jpg" link="L1200157-1024.jpg" >}}
 
 {{< figure src="L1120054-1024.jpeg" link="L1120054-1024.jpeg" >}}
-
-
-## Wish by Manabu Ohishi Trio
-
--   [Manabu Ohishi](/tags/manabu-ohishi/) - piano
--   [Jean-Philippe Viret](/tags/jean-philippe-viret/) - bass
--   [Simon Goubert](/tags/simon-goubert/) - drums
-
-Released in 2010 on Atelier Sawano as AS-100.
-
-_Japanese names: 大石学 Ohishi Manabu_
 
 
 ## Audio and Video

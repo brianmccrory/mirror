@@ -6,7 +6,20 @@ tags = ["Akane Matsumoto", "松本茜", "Ayumi Koketsu", "纐纈歩美"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-ayumi-koketsu-trust"
+releaseYear = 2024
+releaseLabel = "Concept Record"
+releaseCode = "CR-18"
 issue = 302
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Ayumi Koketsu"
+  slug = "ayumi-koketsu"
+  instrument = "saxophone"
+  japanese = "纐纈歩美 Koketsu Ayumi"
 related = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-ayumi-koketsu-trust-460.jpeg"
@@ -75,16 +88,6 @@ This is a ballad made famous by Bill Evans’ beautiful performance. The soft, g
 A twelve-year path walked together, carefully listening to and harmonizing with each other’s sound. As musicians on a long and challenging journey, uncovering the secret to expressing the wonders of music. It’s nothing other than “Trust.”
 
 {{< figure src="L1280705x-1200.jpeg" link="L1280705x-1200.jpeg" >}}
-
-
-## Trust by Akane Matsumoto &amp; Ayumi Koketsu
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Ayumi Koketsu](/tags/ayumi-koketsu/) - saxophone
-
-Released in 2024 on Concept Record as CR-18.
-
-_Japanese names: 松本茜 Matsumoto Akane 纐纈歩美 Koketsu Ayumi_
 
 
 ## Audio and Video

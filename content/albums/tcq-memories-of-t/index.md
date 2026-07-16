@@ -6,7 +6,29 @@ tags = ["Shawna Yang", "Naoko Tanaka", "田中菜緒子", "Daiki Yasukagawa", "�
 categories = ["albums"]
 draft = false
 slug = "tcq-memories-of-t"
+releaseYear = 2017
+releaseLabel = "D-neo Daiki Musica"
+releaseCode = "DNCD-13"
 issue = 125
+[[lineup]]
+  name = "Shawna Yang"
+  slug = "shawna-yang"
+  instrument = "alto sax"
+[[lineup]]
+  name = "Naoko Tanaka"
+  slug = "naoko-tanaka"
+  instrument = "piano"
+  japanese = "田中菜緒子 Tanaka Naoko"
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Takeshi Sakamoto"
+  slug = "takeshi-sakamoto"
+  instrument = "drums"
+  japanese = "坂本健志 Sakamoto Takeshi"
 [cover]
   image = "tcq-memoriesoft-460.jpeg"
   alt = "Cover art of Memories of T by TCQ"
@@ -40,18 +62,6 @@ Sakamoto also provides a special essay in the liner notes with background inform
 {{< figure src="L1220869-1024.jpg" link="L1220869-1024.jpg" >}}
 
 {{< figure src="L1220870-1024.jpg" link="L1220870-1024.jpg" >}}
-
-
-## Memories of T by TCQ
-
--   [Shawna Yang](/tags/shawna-yang/) - alto sax
--   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Takeshi Sakamoto](/tags/takeshi-sakamoto/) - drums
-
-Released in 2017 on D-neo Daiki Musica as DNCD-13.
-
-_Japanese names: 田中菜緒子 Tanaka Naoko 安ヵ川大樹 Yasukagawa Daiki 坂本健志 Sakamoto Takeshi_
 
 
 ## Audio and Video

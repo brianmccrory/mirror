@@ -6,7 +6,25 @@ tags = ["Shikou Ito", "伊藤志宏", "Benisuke Sakai", "坂井紅介", "Gen Ogi
 categories = ["albums"]
 draft = false
 slug = "shikou-ito-trio-syncretia-kakusareta-guwa"
+releaseYear = 2025
+releaseLabel = "Musica Visionaire"
+releaseCode = "MVSI-1003"
 issue = 352
+[[lineup]]
+  name = "Shikou Ito"
+  slug = "shikou-ito"
+  instrument = "piano"
+  japanese = "伊藤志宏 Ito Shikou"
+[[lineup]]
+  name = "Benisuke Sakai"
+  slug = "benisuke-sakai"
+  instrument = "bass"
+  japanese = "坂井紅介 Sakai Benisuke"
+[[lineup]]
+  name = "Gen Ogimi"
+  slug = "gen-ogimi"
+  instrument = "percussion"
+  japanese = "大儀見元 Ogimi Gen"
 related = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
@@ -43,17 +61,6 @@ True to the ideal of artistic independence, Ito is uncompromising with his music
 Themes from these titles include nature, fantasy, and musical ideas, but taken as a whole, the tales told through _allegorical stories-shaded_ are evocative and, just like Trio Syncretia’s music, absorbing and thrilling.
 
 {{< figure src="L1320859x-1200.jpeg" link="L1320859x-1200.jpeg" >}}
-
-
-## Kakusareta Guwa by Shikou Ito Trio Syncretia
-
--   [Shikou Ito](/tags/shikou-ito/) - piano
--   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
--   [Gen Ogimi](/tags/gen-ogimi/) - percussion
-
-Released in 2025 on Musica Visionaire as MVSI-1003.
-
-_Japanese names: 伊藤志宏 Ito Shikou 坂井紅介 Sakai Benisuke 大儀見元 Ogimi Gen_
 
 
 ## Audio and Video

@@ -6,7 +6,55 @@ tags = ["Yukari Sekiya", "関谷友加里", "Taiichi Kamimura", "かみむら泰
 categories = ["albums"]
 draft = false
 slug = "yukari-sekiya-duets-till-now-from-here"
+releaseYear = 2025
+releaseLabel = "Umishima Records"
+releaseCode = "USM-001"
 issue = 354
+[[lineup]]
+  name = "Yukari Sekiya"
+  slug = "yukari-sekiya"
+  instrument = "piano"
+  japanese = "関谷友加里 Sekiya Yukari"
+[[lineup]]
+  name = "Taiichi Kamimura"
+  slug = "taiichi-kamimura"
+  instrument = "tenor & soprano sax"
+  japanese = "かみむら泰一 Kamimura Taiichi"
+[[lineup]]
+  name = "Tsutomu Takei"
+  slug = "tsutomu-takei"
+  instrument = "tenor & soprano sax"
+  japanese = "武井努 Takei Tsutomu"
+[[lineup]]
+  name = "Yuzumi Tanimukai"
+  slug = "yuzumi-tanimukai"
+  instrument = "voice"
+  japanese = "谷向柚美 Tanimukai Yuzumi"
+[[lineup]]
+  name = "Suomi Morishita"
+  slug = "suomi-morishita"
+  instrument = "guitar"
+  japanese = "森下周央彌 Morishita Suomi"
+[[lineup]]
+  name = "Michihiro Morisada"
+  slug = "michihiro-morisada"
+  instrument = "bass"
+  japanese = "森定道広 Morisada Michihiro"
+[[lineup]]
+  name = "Megumi Otsuka"
+  slug = "megumi-otsuka"
+  instrument = "bass"
+  japanese = "大塚恵 Otsuka Megumi"
+[[lineup]]
+  name = "Masaki Kai"
+  slug = "masaki-kai"
+  instrument = "bass"
+  japanese = "甲斐正樹 Kai Masaki"
+[[lineup]]
+  name = "Jin Mitsuda"
+  slug = "jin-mitsuda"
+  instrument = "drums"
+  japanese = "光田じん Mitsuda Jin"
 related = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and", "koichi-sato-embryo"]
 [cover]
   image = "yukari-sekiya-duets-till-now-from-here-460.jpeg"
@@ -75,23 +123,6 @@ There are no “thorns” in the piano she plays. That is not something with a h
 — Jazz pianist Akira Ishii
 
 {{< figure src="L1330991x-1200.jpeg" link="L1330991x-1200.jpeg" >}}
-
-
-## Duets Till Now, From Here by Yukari Sekiya
-
--   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
--   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor &amp; soprano sax
--   [Tsutomu Takei](/tags/tsutomu-takei/) - tenor &amp; soprano sax
--   [Yuzumi Tanimukai](/tags/yuzumi-tanimukai/) - voice
--   [Suomi Morishita](/tags/suomi-morishita/) - guitar
--   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
--   [Megumi Otsuka](/tags/megumi-otsuka/) - bass
--   [Masaki Kai](/tags/masaki-kai/) - bass
--   [Jin Mitsuda](/tags/jin-mitsuda/) - drums
-
-Released in 2025 on Umishima Records as USM-001.
-
-_Japanese names: 関谷友加里 Sekiya Yukari かみむら泰一 Kamimura Taiichi 武井努 Takei Tsutomu 谷向柚美 Tanimukai Yuzumi 森下周央彌 Morishita Suomi 森定道広 Morisada Michihiro 大塚恵 Otsuka Megumi 甲斐正樹 Kai Masaki 光田じん Mitsuda Jin_
 
 
 ## Audio and Video

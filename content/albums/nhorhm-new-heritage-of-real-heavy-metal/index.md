@@ -6,7 +6,45 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manab
 categories = ["albums"]
 draft = false
 slug = "nhorhm-new-heritage-of-real-heavy-metal"
+releaseYear = 2015
+releaseLabel = "Apollo Sounds"
+releaseCode = "APLS1905/APLS1510R"
 issue = 320
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano, arrangements, composition"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "percussion"
+  japanese = "橋本学 Hashimoto Manabu"
+[[lineup]]
+  name = "Tomomi Oda"
+  slug = "tomomi-oda"
+  instrument = "vocals (track #4)"
+  japanese = "小田朋美 Oda Tomomi"
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "acoustic guitar (track #5)"
+  japanese = "馬場孝喜 Baba Takayoshi"
+[[lineup]]
+  name = "Hikari Ichihara"
+  slug = "hikari-ichihara"
+  instrument = "trumpet (track #8)"
+  japanese = "市原ひかり Ichihara Hikari"
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "sax (track #10)"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
 related = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
@@ -190,21 +228,6 @@ Groundbreaking! A jazz pianist releases a cover album of famous heavy metal song
 Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fujisaki&gt;
 
 {{< figure src="L1310973x-1200.jpeg" link="L1310973x-1200.jpeg" >}}
-
-
-## New Heritage of Real Heavy Metal by NHORHM
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - percussion
--   [Tomomi Oda](/tags/tomomi-oda/) - vocals (track #4)
--   [Takayoshi Baba](/tags/takayoshi-baba/) - acoustic guitar (track #5)
--   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet (track #8)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - sax (track #10)
-
-Released in 2015 on Apollo Sounds as APLS1905/APLS1510R.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 小田朋美 Oda Tomomi 馬場孝喜 Baba Takayoshi 市原ひかり Ichihara Hikari 橋爪亮督 Hashizume Ryosuke_
 
 
 ## Audio and Video

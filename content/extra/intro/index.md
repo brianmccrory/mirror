@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "intro"
+clubName = "Intro"
+clubUrl = "https://jazzspot.intro.co.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Takadanobaba"
+clubMap = "https://goo.gl/maps/Anw6TTTyBteFPyWMA"
 issue = 184
 [cover]
   image = "P1040487-1024.jpeg"
@@ -34,9 +39,3 @@ One long-standing draw of Intro is the all-night, 12-hour jazz session every Sat
 {{< figure src="IMG_3219-1024.jpeg" link="IMG_3219-1024.jpeg" >}}
 
 {{< figure src="IMG_0307-1024.jpeg" link="IMG_0307-1024.jpeg" >}}
-
-
-## Information
-
--   [Intro’s website](https://jazzspot.intro.co.jp/)
--   [Located near Takadanobaba station in Tokyo, Japan](https://goo.gl/maps/Anw6TTTyBteFPyWMA)

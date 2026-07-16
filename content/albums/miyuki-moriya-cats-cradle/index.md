@@ -6,7 +6,35 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Mamoru Ishida", "石田衛", "Kohei
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-cats-cradle"
+releaseYear = 2010
+releaseLabel = "Coume Music"
+releaseCode = "DQC-565"
 issue = 102
+[[lineup]]
+  name = "Miyuki Moriya"
+  slug = "miyuki-moriya"
+  instrument = "alto sax"
+  japanese = "守谷美由貴 Moriya Miyuki"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Kohei Kamuro"
+  slug = "kohei-kamuro"
+  instrument = "guitar"
+  japanese = "かむろ耕平 Kamuro Kohei"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 [cover]
   image = "miyukimoriya-cats-460.jpeg"
   alt = "Cover art of Cat’s Cradle by Miyuki Moriya"
@@ -26,19 +54,6 @@ Sharply-crafted jazz with a modern spark particularly identifies Moriya’s musi
 {{< figure src="L1200316-1024.jpg" link="L1200316-1024.jpg" >}}
 
 {{< figure src="L1210517-1024.jpg" link="L1210517-1024.jpg" >}}
-
-
-## Cat’s Cradle by Miyuki Moriya
-
--   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Kohei Kamuro](/tags/kohei-kamuro/) - guitar
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
-
-Released in 2010 on Coume Music as DQC-565.
-
-_Japanese names: 守谷美由貴 Moriya Miyuki 石田衛 Ishida Mamoru かむろ耕平 Kamuro Kohei 池尻洋史 Ikejiri Hiroshi 今泉総之輔 Imaizumi Sohnosuke_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo 
 categories = ["albums"]
 draft = false
 slug = "michiyo-matsushita-trio-free"
+releaseYear = 2024
+releaseLabel = "MUGI Record"
+releaseCode = "MUGI-2408"
 issue = 322
+[[lineup]]
+  name = "Michiyo Matsushita"
+  slug = "michiyo-matsushita"
+  instrument = "piano"
+  japanese = "松下美千代 Matsushita Michiyo"
+[[lineup]]
+  name = "Show Kudo"
+  slug = "show-kudo"
+  instrument = "bass"
+  japanese = "工藤精 Kudo Show"
+[[lineup]]
+  name = "Ryo Saito"
+  slug = "ryo-saito"
+  instrument = "drums"
+  japanese = "斉藤良 Saito Ryo"
 related = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
@@ -35,17 +53,6 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 \#6 “Exoplanet” is a darker hue of swing/Latin bop jazz construction built for Matsushita’s solo piano improv. #7 “Harujion” (ハルジオン, _spring fleabane, a white and yellow flower_) is a quiet ballad, sweet and subtle. #8 “Unity of Mind”, like “Exoplanet”, has swing/Latin sections like Horace Silver, with intense hard bop rhythms and modern touches. #9 “Kiyoshi no Hiru” (きよしこの昼, _silent day_) is a medium-tempo 4/4 swing, light and nimble, with a straight-played chamber-like classical or march feel, with jazz standard constructions a la the Modern Jazz Quartet. The dynamic #10 “SR Brothers” (S and R for Show and Ryo) is an uptempo outing with adventurous time-meter shifts between pulse-racing swing and laid-back funk grooves (and, a very short free jazz section, there it is!). Lastly, track #11 “Ame no Koe” (雨の声, _voice of the rain_) is a meditative ballad where the ambient sounds of water linger in the beginning and end of the piece to bookend a folky Ghibli-hued warmth, leaving us free to imagine what comes after this happy farewell.
 
 {{< figure src="L1290249x-1200.jpeg" link="L1290249x-1200.jpeg" >}}
-
-
-## Free by Michiyo Matsushita Trio
-
--   [Michiyo Matsushita](/tags/michiyo-matsushita/) - piano
--   [Show Kudo](/tags/show-kudo/) - bass
--   [Ryo Saito](/tags/ryo-saito/) - drums
-
-Released in 2024 on MUGI Record as MUGI-2408.
-
-_Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤良 Saito Ryo_
 
 
 ## Audio and Video

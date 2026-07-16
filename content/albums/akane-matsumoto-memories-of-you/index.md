@@ -6,7 +6,23 @@ tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-memories-of-you"
+releaseYear = 2015
+releaseLabel = "Concept Records"
+releaseCode = "CR-03"
 issue = 126
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Peter Washington"
+  slug = "peter-washington"
+  instrument = "bass"
+[[lineup]]
+  name = "Gene Jackson"
+  slug = "gene-jackson"
+  instrument = "drums"
 [cover]
   image = "akanematsumoto-memories-460.jpeg"
   alt = "Cover art of Memories of You by Akane Matsumoto"
@@ -30,17 +46,6 @@ On the other hand, as an interesting twist, classic jazz tunes which are often h
 The final two tracks feature the pianist in a more mellow mood, with a tribute to pianist Mulgrew Miller in her bewitching composition “Goodbye Mr. Miller”, followed by Matsumoto’s “Hometown”, a tender ballad dedicated to Totori, Japan and communicating a shared love of home to all of us.
 
 {{< figure src="L1210164-1024.jpg" link="L1210164-1024.jpg" >}}
-
-
-## Memories of You by Akane Matsumoto
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Peter Washington](/tags/peter-washington/) - bass
--   [Gene Jackson](/tags/gene-jackson/) - drums
-
-Released in 2015 on Concept Records as CR-03.
-
-_Japanese names: 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

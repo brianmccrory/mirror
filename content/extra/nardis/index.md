@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "nardis"
+clubName = "Nardis"
+clubUrl = "http://knardis.com/"
+clubCity = "Kashiwa"
+clubStation1 = "Kashiwa"
+clubMap = "https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8"
 issue = 303
 [cover]
   image = "IMG_20240325_200215138_HDR-1200.jpeg"
@@ -60,9 +65,3 @@ Congratulations are also due to Nardis and Komine-san, as Nardis, having origina
 {{< figure src="IMG_20230413_220221858-1200.jpeg" caption="<span class=\"figure-number\">Figure 15: </span>Counter at Nardis" link="IMG_20230413_220221858-1200.jpeg" >}}
 
 {{< figure src="L1280363-1200.jpeg" caption="<span class=\"figure-number\">Figure 16: </span>Welcome to Nardis" link="L1280363-1200.jpeg" >}}
-
-
-## Information
-
--   [Nardis’s website](http://knardis.com/)
--   [Located near Kashiwa station in Kashiwa, Japan](https://maps.app.goo.gl/XRU4FSxxPKcYRG2G8)

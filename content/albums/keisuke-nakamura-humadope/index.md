@@ -6,7 +6,45 @@ tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Nishiguchi", "西口明宏"
 categories = ["albums"]
 draft = false
 slug = "keisuke-nakamura-humadope"
+releaseYear = 2014
+releaseLabel = "M581 Records"
+releaseCode = "SDR1401"
 issue = 15
+[[lineup]]
+  name = "Keisuke Nakamura"
+  slug = "keisuke-nakamura"
+  instrument = "trumpet, flugelhorn"
+  japanese = "中村恵介 Nakamura Keisuke"
+[[lineup]]
+  name = "Akihiro Nishiguchi"
+  slug = "akihiro-nishiguchi"
+  instrument = "tenor sax, soprano sax"
+  japanese = "西口明宏 Nishiguchi Akihiro"
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Yasushi Fukumori"
+  slug = "yasushi-fukumori"
+  instrument = "drums"
+  japanese = "福森康 Fukumori Yasushi"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "Rhodes (tr. #5, 6)"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Shun Ishiwaka"
+  slug = "shun-ishiwaka"
+  instrument = "drums (tr. #1)"
+  japanese = "石若駿 Ishiwaka Shun"
 [cover]
   image = "keisukenakamura-humadope-460.jpeg"
   alt = "Cover art of Humadope by Keisuke Nakamura"
@@ -22,21 +60,6 @@ This album consists of well-written original compositions with a few covers thro
 {{< figure src="L1180583-1024.jpg" link="L1180583-1024.jpg" >}}
 
 {{< figure src="L1180590-1024.jpg" link="L1180590-1024.jpg" >}}
-
-
-## Humadope by Keisuke Nakamura
-
--   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
--   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, soprano sax
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
--   [Mamoru Ishida](/tags/mamoru-ishida/) - Rhodes (tr. #5, 6)
--   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums (tr. #1)
-
-Released in 2014 on M581 Records as SDR1401.
-
-_Japanese names: 中村恵介 Nakamura Keisuke 西口明宏 Nishiguchi Akihiro 松本茜 Matsumoto Akane 金森もとい Kanamori Motoi 福森康 Fukumori Yasushi 石田衛 Ishida Mamoru 石若駿 Ishiwaka Shun_
 
 
 ## Audio and Video

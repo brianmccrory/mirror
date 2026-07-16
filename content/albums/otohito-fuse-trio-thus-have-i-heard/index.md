@@ -6,7 +6,25 @@ tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Na
 categories = ["albums"]
 draft = false
 slug = "otohito-fuse-trio-thus-have-i-heard"
+releaseYear = 2025
+releaseLabel = "Otohito Fuse Music"
+releaseCode = "OFM-002"
 issue = 371
+[[lineup]]
+  name = "Otohito Fuse"
+  slug = "otohito-fuse"
+  instrument = "piano"
+  japanese = "布施音人 Fuse Otohito"
+[[lineup]]
+  name = "Riku Takahashi"
+  slug = "riku-takahashi"
+  instrument = "bass"
+  japanese = "高橋陸 Takahashi Riku"
+[[lineup]]
+  name = "Kaito Nakamura"
+  slug = "kaito-nakamura"
+  instrument = "drums"
+  japanese = "中村海斗 Nakamura Kaito"
 related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
 [cover]
   image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
@@ -155,17 +173,6 @@ Fuse’s music carries themes of scenery and spiritual concepts as a picture scr
 Includes a 20-page booklet of photographs and writings.
 
 {{< figure src="L1350890x-1200.jpeg" alt="Disc of Thus Have I Heard by Otohito Fuse Trio" link="L1350890x-1200.jpeg" >}}
-
-
-## Thus Have I Heard by Otohito Fuse Trio
-
--   [Otohito Fuse](/tags/otohito-fuse/) - piano
--   [Riku Takahashi](/tags/riku-takahashi/) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
-
-Released in 2025 on Otohito Fuse Music as OFM-002.
-
-_Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗 Nakamura Kaito_
 
 
 ## Audio and Video

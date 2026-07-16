@@ -6,7 +6,40 @@ tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎",
 categories = ["albums"]
 draft = false
 slug = "meu-coracao-a-tempo"
+releaseYear = 2016
+releaseLabel = "Eclectic Records"
+releaseCode = "ECLC-101"
 issue = 31
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "vocals"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Taro Sukegawa"
+  slug = "taro-sukegawa"
+  instrument = "acoustic & electric guitar, cavaquinho"
+  japanese = "助川太郎 Sukegawa Taro"
+[[lineup]]
+  name = "Ken'ichiro Shinzawa"
+  slug = "kenichiro-shinzawa"
+  instrument = "keyboards"
+  japanese = "新澤健一郎 Shinzawa Ken'ichiro"
+[[lineup]]
+  name = "Cokky"
+  slug = "cokky"
+  instrument = "electric bass"
+  japanese = "コッキー Cokky"
+[[lineup]]
+  name = "Kiyotaka Kuroda"
+  slug = "kiyotaka-kuroda"
+  instrument = "drums"
+  japanese = "黒田清高 Kuroda Kiyotaka"
+[[lineup]]
+  name = "Yasuhiro Yoshigaki"
+  slug = "yasuhiro-yoshigaki"
+  instrument = "percussion (#4, 7)"
+  japanese = "芳垣安洋 Yoshigaki Yasuhiro"
 [cover]
   image = "meucoracao-atempo-460.jpeg"
   alt = "Cover art of A Tempo by Meu Coracao"
@@ -24,20 +57,6 @@ The music grooves with creative arrangements and interesting effects, rooted by 
 {{< figure src="L1190126-1024.jpg" link="L1190126-1024.jpg" >}}
 
 {{< figure src="L1190136-1024.jpg" link="L1190136-1024.jpg" >}}
-
-
-## A Tempo by Meu Coracao
-
--   [Emiko Voice](/tags/emiko-voice/) - vocals
--   [Taro Sukegawa](/tags/taro-sukegawa/) - acoustic &amp; electric guitar, cavaquinho
--   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa/) - keyboards
--   [Cokky](/tags/cokky/) - electric bass
--   [Kiyotaka Kuroda](/tags/kiyotaka-kuroda/) - drums
--   [Yasuhiro Yoshigaki](/tags/yasuhiro-yoshigaki/) - percussion (#4, 7)
-
-Released in 2016 on Eclectic Records as ECLC-101.
-
-_Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro 新澤健一郎 Shinzawa Ken'ichiro コッキー Cokky 黒田清高 Kuroda Kiyotaka 芳垣安洋 Yoshigaki Yasuhiro_
 
 
 ## Audio and Video

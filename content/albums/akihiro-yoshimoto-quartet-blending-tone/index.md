@@ -6,7 +6,30 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・�
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-blending-tone"
+releaseYear = 2012
+releaseLabel = "Orbit Records"
+releaseCode = "ORB-1001"
 issue = 356
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "tenor sax"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Aaron Choulai"
+  slug = "aaron-choulai"
+  instrument = "piano"
+  japanese = "アーロン・チューライ Choulai Aaron"
+[[lineup]]
+  name = "Takuya Sakazaki"
+  slug = "takuya-sakazaki"
+  instrument = "bass"
+  japanese = "坂崎拓也 Sakazaki Takuya"
+[[lineup]]
+  name = "Shun Ishiwaka"
+  slug = "shun-ishiwaka"
+  instrument = "drums"
+  japanese = "石若駿 Ishiwaka Shun"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
 [cover]
   image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
@@ -63,18 +86,6 @@ _Toshihiko Hoshino 星野利彦 / Music Writer_
 Young, fierce tenor saxophonist Akihiro Yoshimoto with his quartet releases his long awaited debut album _Blending Tone_!
 
 {{< figure src="L1340199x-1200.jpeg" link="L1340199x-1200.jpeg" >}}
-
-
-## Blending Tone by Akihiro Yoshimoto Quartet
-
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax
--   [Aaron Choulai](/tags/aaron-choulai/) - piano
--   [Takuya Sakazaki](/tags/takuya-sakazaki/) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
-
-Released in 2012 on Orbit Records as ORB-1001.
-
-_Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 坂崎拓也 Sakazaki Takuya 石若駿 Ishiwaka Shun_
 
 
 ## Audio and Video

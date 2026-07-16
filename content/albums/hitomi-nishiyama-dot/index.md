@@ -6,7 +6,40 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Nor
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-dot"
+releaseYear = 2023
+releaseLabel = "Meantone Records"
+releaseCode = "MT-12"
 issue = 267
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Toru Nishijima"
+  slug = "toru-nishijima"
+  instrument = "bass"
+  japanese = "西嶋徹 Nishijima Toru"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
+[[lineup]]
+  name = "Takanori Suzuki"
+  slug = "takanori-suzuki"
+  instrument = "clarinet (#2, 3, 5, 6, 9)"
+  japanese = "鈴木孝紀 Suzuki Takanori"
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone (#3, 5, 6, 9), flute (#2)"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin (#2, 3, 5, 6, 9)"
+  japanese = "マイコ maiko"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "hitomi-nishiyama-dot-460.jpeg"
@@ -45,20 +78,6 @@ What about _Dot_? Is this innocent word a hidden theme or message for the album?
 There are also the dot-like sequences of melody in some of the songs. And, there is the single extended note that ends the album, the last note of “Lighthouse” played in unison by the sextet, a fading dot beamed out to show the way home.
 
 {{< figure src="L1250332x-1200.jpeg" link="L1250332x-1200.jpeg" >}}
-
-
-## Dot by Hitomi Nishiyama
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Toru Nishijima](/tags/toru-nishijima/) - bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
--   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (#2, 3, 5, 6, 9)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone (#3, 5, 6, 9), flute (#2)
--   [maiko](/tags/maiko/) - violin (#2, 3, 5, 6, 9)
-
-Released in 2023 on Meantone Records as MT-12.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
 
 
 ## Audio and Video

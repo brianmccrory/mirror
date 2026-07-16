@@ -6,7 +6,15 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-circle-for-peace"
+releaseYear = 2016
+releaseLabel = "Nippon Acoustic Records, Inc"
+releaseCode = "NARP-8009"
 issue = 19
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "solo piano and compositions"
+  japanese = "遠藤征志 Endo Seiji"
 [cover]
   image = "seijiendo-circle-460.jpeg"
   alt = "Cover art of Circle for Peace by Seiji Endo"
@@ -24,15 +32,6 @@ Through sincerity depicted on the album cover and title, the concept is peace an
 {{< figure src="L1180532-1024.jpg" link="L1180532-1024.jpg" >}}
 
 {{< figure src="L1180878-1024.jpg" link="L1180878-1024.jpg" >}}
-
-
-## Circle for Peace by Seiji Endo
-
--   [Seiji Endo](/tags/seiji-endo/) - solo piano and compositions
-
-Released in 2016 on Nippon Acoustic Records, Inc as NARP-8009.
-
-_Japanese names: 遠藤征志 Endo Seiji_
 
 
 ## Audio and Video

@@ -6,7 +6,45 @@ tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suz
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-rougequeue"
+releaseYear = 2015
+releaseLabel = "Usagi Record"
+releaseCode = "UR-001"
 issue = 276
+[[lineup]]
+  name = "Fumie Chiba"
+  slug = "fumie-chiba"
+  instrument = "piano"
+  japanese = "千葉史絵 Chiba Fumie"
+[[lineup]]
+  name = "Koji Tetsui"
+  slug = "koji-tetsui"
+  instrument = "bass on #1, 2, 4"
+  japanese = "鉄井孝司 Tetsui Koji"
+[[lineup]]
+  name = "Kaoru Suzuki"
+  slug = "kaoru-suzuki"
+  instrument = "drums on #1, 2, 4"
+  japanese = "鈴木郁 Suzuki Kaoru"
+[[lineup]]
+  name = "Mitsuru Tanaka"
+  slug = "mitsuru-tanaka"
+  instrument = "trumpet, horn on #1, 4"
+  japanese = "田中充 Tanaka Mitsuru"
+[[lineup]]
+  name = "Shunosuke Ishikawa"
+  slug = "shunosuke-ishikawa"
+  instrument = "tenor sax on #1, 4"
+  japanese = "石川周之介 Ishikawa Shunosuke"
+[[lineup]]
+  name = "Nao Teraya"
+  slug = "nao-teraya"
+  instrument = "guitar on #1, 4"
+  japanese = "寺屋ナオ Teraya Nao"
+[[lineup]]
+  name = "Hirokazu Ishida"
+  slug = "hirokazu-ishida"
+  instrument = "soprano sax on #1"
+  japanese = "石田寛和 Ishida Hirokazu"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-rougequeue-460.jpeg"
@@ -35,21 +73,6 @@ Chiba returns to solo piano for #5 “Water Flower” (ending with a solo piano 
 {{< figure src="L1220759x-1200.jpeg" link="L1220759x-1200.jpeg" >}}
 
 {{< figure src="L1220760x-1200.jpeg" link="L1220760x-1200.jpeg" >}}
-
-
-## Rougequeue by Fumie Chiba
-
--   [Fumie Chiba](/tags/fumie-chiba/) - piano
--   [Koji Tetsui](/tags/koji-tetsui/) - bass on #1, 2, 4
--   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums on #1, 2, 4
--   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, horn on #1, 4
--   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax on #1, 4
--   [Nao Teraya](/tags/nao-teraya/) - guitar on #1, 4
--   [Hirokazu Ishida](/tags/hirokazu-ishida/) - soprano sax on #1
-
-Released in 2015 on Usagi Record as UR-001.
-
-_Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 寺屋ナオ Teraya Nao 石田寛和 Ishida Hirokazu_
 
 
 ## Audio and Video

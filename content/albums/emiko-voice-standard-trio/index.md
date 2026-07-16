@@ -6,7 +6,25 @@ tags = ["Emiko Voice", "エミコヴォイス", "Keisuke Ohta", "太田惠資", 
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-standard-trio"
+releaseYear = 2022
+releaseLabel = "GardenNotes Music"
+releaseCode = "GNM-1018"
 issue = 207
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "voice, percussions, kalimba"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Keisuke Ohta"
+  slug = "keisuke-ohta"
+  instrument = "violin, voice"
+  japanese = "太田惠資 Ohta Keisuke"
+[[lineup]]
+  name = "Atsushi Abe"
+  slug = "atsushi-abe"
+  instrument = "piano"
+  japanese = "阿部篤志 Abe Atsushi"
 related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 [cover]
   image = "emiko-voice-standard-trio-460.jpeg"
@@ -29,17 +47,6 @@ Over half of the music draws from Latin influences, yet a distinct feeling is de
 The other album tracks include “Azure”, a dreamy, drifting tune from Duke Ellington and Irving Mills (who, with Juan Tizol, also gave us “Caravan”), “Improvisation”, a dramatic scene of wordless vocalizing and musical painting, a brief and bare “My Funny Valentine”, and the album closer, “Spring Is Here”, the bittersweet parting of a beautiful ballad that is almost played as a lullaby.
 
 {{< figure src="L1230258x-1024.jpeg" link="L1230258x-1024.jpeg" >}}
-
-
-## Standard Trio by Emiko Voice
-
--   [Emiko Voice](/tags/emiko-voice/) - voice, percussions, kalimba
--   [Keisuke Ohta](/tags/keisuke-ohta/) - violin, voice
--   [Atsushi Abe](/tags/atsushi-abe/) - piano
-
-Released in 2022 on GardenNotes Music as GNM-1018.
-
-_Japanese names: エミコヴォイス Emiko Voice 太田惠資 Ohta Keisuke 阿部篤志 Abe Atsushi_
 
 
 ## Audio and Video

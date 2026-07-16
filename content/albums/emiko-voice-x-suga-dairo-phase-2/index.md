@@ -6,7 +6,20 @@ tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロ�
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-x-suga-dairo-phase-2"
+releaseYear = 2009
+releaseLabel = "Cool Fool"
+releaseCode = "CLFL-0003"
 issue = 106
+[[lineup]]
+  name = "Emiko Voice"
+  slug = "emiko-voice"
+  instrument = "vocal"
+  japanese = "エミコヴォイス Emiko Voice"
+[[lineup]]
+  name = "Dairo Suga"
+  slug = "dairo-suga"
+  instrument = "piano"
+  japanese = "スガダイロー Suga Dairo"
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
   alt = "Cover art of Phase 2 by Emiko Voice x Suga Dairo"
@@ -28,16 +41,6 @@ Playful yet serious, the duo also covers mid-tempo and ballad tracks such as “
 {{< figure src="L1200766-1024.jpg" link="L1200766-1024.jpg" >}}
 
 {{< figure src="L1200769-1024.jpg" link="L1200769-1024.jpg" >}}
-
-
-## Phase 2 by Emiko Voice x Suga Dairo
-
--   [Emiko Voice](/tags/emiko-voice/) - vocal
--   [Dairo Suga](/tags/dairo-suga/) - piano
-
-Released in 2009 on Cool Fool as CLFL-0003.
-
-_Japanese names: エミコヴォイス Emiko Voice スガダイロー Suga Dairo_
 
 
 ## Audio and Video

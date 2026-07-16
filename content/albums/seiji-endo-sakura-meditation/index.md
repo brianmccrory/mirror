@@ -7,7 +7,15 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-sakura-meditation"
+releaseYear = 2012
+releaseLabel = "Concordia"
+releaseCode = "CONR-002"
 issue = 59
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano, composition"
+  japanese = "遠藤征志 Endo Seiji"
 related = ["naoko-akimoto-no-one-else", "seiji-endo-tsutaete-ikou", "ruriko-kawamura-blossoms", "rie-taguchi-gift", "seiji-endo-circle-for-peace", "hiroco-nagano-okurimono", "seiji-endo-genji-monogatari-volume-1", "rie-taguchi-the-gift-ii"]
 [cover]
   image = "seijiendo-sakura-460.jpeg"
@@ -83,15 +91,6 @@ In April 2012, he was invited to perform at the Sakura Festival in New York Saku
 With his delicate and rich tone colors and performances with a strong sense of spirituality, Seiji Endo’s original works are endlessly fascinating and overflowing with talent. We look forward to his continued activities as a young pianist and composer who transcends genres.
 
 {{< figure src="L1110546-1024.jpg" link="L1110546-1024.jpg" >}}
-
-
-## Sakura Meditation by Seiji Endo
-
--   [Seiji Endo](/tags/seiji-endo/) - piano, composition
-
-Released in 2012 on Concordia as CONR-002.
-
-_Japanese names: 遠藤征志 Endo Seiji_
 
 
 ## Audio and Video

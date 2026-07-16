@@ -7,7 +7,30 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・�
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-moving-color"
+releaseYear = 2015
+releaseLabel = "MOR Records"
+releaseCode = "MOR-1001"
 issue = 51
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "saxophone"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Aaron Choulai"
+  slug = "aaron-choulai"
+  instrument = "piano"
+  japanese = "アーロン・チューライ Choulai Aaron"
+[[lineup]]
+  name = "Takashi Sugawa"
+  slug = "takashi-sugawa"
+  instrument = "bass"
+  japanese = "須川崇志 Sugawa Takashi"
+[[lineup]]
+  name = "Shun Ishiwaka"
+  slug = "shun-ishiwaka"
+  instrument = "drums"
+  japanese = "石若駿 Ishiwaka Shun"
 related = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
@@ -63,18 +86,6 @@ The shape of Akihiro Yoshimoto Quartet, which has achieved remarkable growth, wa
 _Toshihiko Hoshino 星野利彦 / Music Writer_
 
 {{< figure src="L1200509-1024.jpg" link="L1200509-1024.jpg" >}}
-
-
-## Moving Color by Akihiro Yoshimoto Quartet
-
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
--   [Aaron Choulai](/tags/aaron-choulai/) - piano
--   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
-
-Released in 2015 on MOR Records as MOR-1001.
-
-_Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 須川崇志 Sugawa Takashi 石若駿 Ishiwaka Shun_
 
 
 ## Audio and Video

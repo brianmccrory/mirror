@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "knuttel-house"
+clubName = "Knuttel House"
+clubUrl = "https://knuttelhouse.com/"
+clubCity = "Tokyo"
+clubStation1 = "Asakusa"
+clubStation2 = "Iriya"
+clubMap = "https://goo.gl/maps/QT7k3i5WPeHH8ndP9"
 issue = 196
 [cover]
   image = "IMG_20230319_154246554-1024.jpeg"
@@ -26,9 +32,3 @@ The space is simply furnished with about a dozen chairs spread around some table
 {{< figure src="L1230401-1024.jpeg" link="L1230401-1024.jpeg" >}}
 
 {{< figure src="IMG_20230319_142038918_HDR-1024.jpeg" link="IMG_20230319_142038918_HDR-1024.jpeg" >}}
-
-
-## Information
-
--   [Knuttel House’s website](https://knuttelhouse.com/)
--   [Located near Asakusa and Iriya stations in Tokyo, Japan](https://goo.gl/maps/QT7k3i5WPeHH8ndP9)

@@ -6,7 +6,35 @@ tags = ["Yako Horikita", "堀北やこ", "Takenori Sawaki", "佐脇武則", "Mak
 categories = ["albums"]
 draft = false
 slug = "yako-horikita-shining-hour"
+releaseYear = 2017
+releaseLabel = "Kylym Records"
+releaseCode = "KYLYM-0001"
 issue = 86
+[[lineup]]
+  name = "Yako Horikita"
+  slug = "yako-horikita"
+  instrument = "vocal"
+  japanese = "堀北やこ Horikita Yako"
+[[lineup]]
+  name = "Takenori Sawaki"
+  slug = "takenori-sawaki"
+  instrument = "alto saxophone"
+  japanese = "佐脇武則 Sawaki Takenori"
+[[lineup]]
+  name = "Makoto Deguchi"
+  slug = "makoto-deguchi"
+  instrument = "piano"
+  japanese = "出口誠 Deguchi Makoto"
+[[lineup]]
+  name = "Ken Kaneko"
+  slug = "ken-kaneko"
+  instrument = "bass"
+  japanese = "金子健 Kaneko Ken"
+[[lineup]]
+  name = "Nobuhiko Yamashita"
+  slug = "nobuhiko-yamashita"
+  instrument = "drums"
+  japanese = "山下暢彦 Yamashita Nobuhiko"
 [cover]
   image = "yakohorikita-shininghour-460.jpeg"
   alt = "Cover art of Shining Hour by Yako Horikita"
@@ -24,19 +52,6 @@ While most of the tracks are straightforward mid-tempo swingers, a few of tunes 
 {{< figure src="L1220616-1024.jpg" link="L1220616-1024.jpg" >}}
 
 {{< figure src="L1220621-1024.jpg" link="L1220621-1024.jpg" >}}
-
-
-## Shining Hour by Yako Horikita
-
--   [Yako Horikita](/tags/yako-horikita/) - vocal
--   [Takenori Sawaki](/tags/takenori-sawaki/) - alto saxophone
--   [Makoto Deguchi](/tags/makoto-deguchi/) - piano
--   [Ken Kaneko](/tags/ken-kaneko/) - bass
--   [Nobuhiko Yamashita](/tags/nobuhiko-yamashita/) - drums
-
-Released in 2017 on Kylym Records as KYLYM-0001.
-
-_Japanese names: 堀北やこ Horikita Yako 佐脇武則 Sawaki Takenori 出口誠 Deguchi Makoto 金子健 Kaneko Ken 山下暢彦 Yamashita Nobuhiko_
 
 
 ## Audio and Video

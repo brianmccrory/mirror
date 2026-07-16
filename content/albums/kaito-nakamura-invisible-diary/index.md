@@ -6,7 +6,35 @@ tags = ["Kaito Nakamura", "中村海斗", "Riko Sasaki", "佐々木梨子", "Oto
 categories = ["albums"]
 draft = false
 slug = "kaito-nakamura-invisible-diary"
+releaseYear = 2025
+releaseLabel = "MidVillage"
+releaseCode = "MV-001"
 issue = 304
+[[lineup]]
+  name = "Kaito Nakamura"
+  slug = "kaito-nakamura"
+  instrument = "drums"
+  japanese = "中村海斗 Nakamura Kaito"
+[[lineup]]
+  name = "Riko Sasaki"
+  slug = "riko-sasaki"
+  instrument = "alto saxophone"
+  japanese = "佐々木梨子 Sasaki Riko"
+[[lineup]]
+  name = "Otohito Fuse"
+  slug = "otohito-fuse"
+  instrument = "piano"
+  japanese = "布施音人 Fuse Otohito"
+[[lineup]]
+  name = "Riku Takahashi"
+  slug = "riku-takahashi"
+  instrument = "bass"
+  japanese = "高橋陸 Takahashi Riku"
+[[lineup]]
+  name = "Ippei Kato"
+  slug = "ippei-kato"
+  instrument = "guitar (#1, 2, 3, 7, 8, 9)"
+  japanese = "加藤一平 Kato Ippei"
 related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated"]
 [cover]
   image = "kaito-nakamura-invisible-diary-460.jpeg"
@@ -35,19 +63,6 @@ Throughout the album, this new music can be both edgily exciting and serene, cre
 With no liner notes to explain the music, the songs speak for themselves. It’s an _Invisible Diary_ after all. The playing is powerful and the skill and ambition of the youthful group members are clear. Yet, their control over the sometimes frenzied, sometimes patient, musical passages can be seen in their group cohesion. Most of all, the diary reveals the results of Nakamura’s mindset and his group’s appreciation of the beauty of music and the strength of their collaborations, all to a modern jazz fan’s delight.
 
 {{< figure src="L1280863x-1200.jpeg" link="L1280863x-1200.jpeg" >}}
-
-
-## Invisible Diary by Kaito Nakamura
-
--   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
--   [Riko Sasaki](/tags/riko-sasaki/) - alto saxophone
--   [Otohito Fuse](/tags/otohito-fuse/) - piano
--   [Riku Takahashi](/tags/riku-takahashi/) - bass
--   [Ippei Kato](/tags/ippei-kato/) - guitar (#1, 2, 3, 7, 8, 9)
-
-Released in 2025 on MidVillage as MV-001.
-
-_Japanese names: 中村海斗 Nakamura Kaito 佐々木梨子 Sasaki Riko 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 加藤一平 Kato Ippei_
 
 
 ## Audio and Video

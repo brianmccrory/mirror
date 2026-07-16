@@ -6,7 +6,23 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Robert Hurst", "Jeff “Tain” Wat
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-outside-by-the-swing"
+releaseYear = 2005
+releaseLabel = "Verve"
+releaseCode = "UCCJ-2040"
 issue = 156
+[[lineup]]
+  name = "Chihiro Yamanaka"
+  slug = "chihiro-yamanaka"
+  instrument = "piano"
+  japanese = "山中千尋 Yamanaka Chihiro"
+[[lineup]]
+  name = "Robert Hurst"
+  slug = "robert-hurst"
+  instrument = "bass"
+[[lineup]]
+  name = "Jeff “Tain” Watts"
+  slug = "jeff-tain-watts"
+  instrument = "drums"
 [cover]
   image = "chihiroyamanaka-outsideby-460.jpeg"
   alt = "Cover art of Outside by the Swing by Chihiro Yamanaka"
@@ -28,17 +44,6 @@ Perfectly in line with the direct reference in the album title, pure, simple, st
 {{< figure src="L1210672x-1024.jpeg" link="L1210672x-1024.jpeg" >}}
 
 {{< figure src="L1210681x-1024.jpeg" link="L1210681x-1024.jpeg" >}}
-
-
-## Outside by the Swing by Chihiro Yamanaka
-
--   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
--   [Robert Hurst](/tags/robert-hurst/) - bass
--   [Jeff “Tain” Watts](/tags/jeff-tain-watts/) - drums
-
-Released in 2005 on Verve as UCCJ-2040.
-
-_Japanese names: 山中千尋 Yamanaka Chihiro_
 
 
 ## Audio and Video

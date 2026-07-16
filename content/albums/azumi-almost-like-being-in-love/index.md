@@ -6,7 +6,30 @@ tags = ["Azumi", "あづみ", "Sachiko Ikuta", "生田さち子", "Tetsuro Arata
 categories = ["albums"]
 draft = false
 slug = "azumi-almost-like-being-in-love"
+releaseYear = 2010
+releaseLabel = "Jazz On Top Records"
+releaseCode = "JOT-1009-1"
 issue = 96
+[[lineup]]
+  name = "Azumi"
+  slug = "azumi"
+  instrument = "vocal"
+  japanese = "あづみ Azumi"
+[[lineup]]
+  name = "Sachiko Ikuta"
+  slug = "sachiko-ikuta"
+  instrument = "piano"
+  japanese = "生田さち子 Ikuta Sachiko"
+[[lineup]]
+  name = "Tetsuro Aratama"
+  slug = "tetsuro-aratama"
+  instrument = "bass"
+  japanese = "荒玉哲郎 Aratama Tetsuro"
+[[lineup]]
+  name = "Kengo Komae"
+  slug = "kengo-komae"
+  instrument = "drums"
+  japanese = "小前賢吾 Komae Kengo"
 [cover]
   image = "azumi-almostlike-460.jpeg"
   alt = "Cover art of Almost Like Being in Love by Azumi"
@@ -28,18 +51,6 @@ With the essence of soft blues and pure whites like the album design itself, Azu
 {{< figure src="L1200266-1024.jpg" link="L1200266-1024.jpg" >}}
 
 {{< figure src="L1110901-1024.jpg" link="L1110901-1024.jpg" >}}
-
-
-## Almost Like Being in Love by Azumi
-
--   [Azumi](/tags/azumi/) - vocal
--   [Sachiko Ikuta](/tags/sachiko-ikuta/) - piano
--   [Tetsuro Aratama](/tags/tetsuro-aratama/) - bass
--   [Kengo Komae](/tags/kengo-komae/) - drums
-
-Released in 2010 on Jazz On Top Records as JOT-1009-1.
-
-_Japanese names: あづみ Azumi 生田さち子 Ikuta Sachiko 荒玉哲郎 Aratama Tetsuro 小前賢吾 Komae Kengo_
 
 
 ## Audio and Video

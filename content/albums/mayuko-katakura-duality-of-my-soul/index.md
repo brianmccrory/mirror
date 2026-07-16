@@ -6,7 +6,25 @@ tags = ["Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Nori
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-duality-of-my-soul"
+releaseYear = 2025
+releaseLabel = "Mayuko Katakura Music"
+releaseCode = "MKM-001"
 issue = 313
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Takumi Awaya"
+  slug = "takumi-awaya"
+  instrument = "bass"
+  japanese = "粟谷巧 Awaya Takumi"
+[[lineup]]
+  name = "Noritaka Tanaka"
+  slug = "noritaka-tanaka"
+  instrument = "drums"
+  japanese = "田中徳崇 Tanaka Noritaka"
 related = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
 [cover]
   image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
@@ -31,17 +49,6 @@ Track #1, “A Dancer’s Melancholy” (also featured on Katakura’s releases 
 Finally, the last track #8 “Being Me” is a sweet and slow ballad, played with a fully romantic sentiment. In this vulnerable setting, Lincoln’s original lyrics seem to come through Katakura’s wordless piano notes, singing a personal meditation on self-discovery and acceptance, and possibly referencing (somehow) the duality of this great pianist’s own musical soul.
 
 {{< figure src="L1280813x-1200.jpeg" link="L1280813x-1200.jpeg" >}}
-
-
-## The Duality of My Soul by Mayuko Katakura
-
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Takumi Awaya](/tags/takumi-awaya/) - bass
--   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
-
-Released in 2025 on Mayuko Katakura Music as MKM-001.
-
-_Japanese names: 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 田中徳崇 Tanaka Noritaka_
 
 
 ## Audio and Video

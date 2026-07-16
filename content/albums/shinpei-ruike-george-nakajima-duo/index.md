@@ -6,7 +6,20 @@ tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 slug = "shinpei-ruike-george-nakajima-duo"
+releaseYear = 2022
+releaseLabel = "Core Port"
+releaseCode = "RPOL-10012"
 issue = 211
+[[lineup]]
+  name = "Shinpei Ruike"
+  slug = "shinpei-ruike"
+  instrument = "trumpet"
+  japanese = "類家心平 Ruike Shinpei"
+[[lineup]]
+  name = "George Nakajima"
+  slug = "george-nakajima"
+  instrument = "piano"
+  japanese = "中嶋錠二 Nakajima George"
 related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
 [cover]
   image = "shinpeiruike-georgenakajima-duo-460.jpeg"
@@ -42,16 +55,6 @@ It seems like the relative size of humans to viruses is about the same as the ea
 Shinpei Ruike
 
 {{< figure src="L1240175x-1024.jpeg" link="L1240175x-1024.jpeg" >}}
-
-
-## Duo by Shinpei Ruike &amp; George Nakajima
-
--   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
--   [George Nakajima](/tags/george-nakajima/) - piano
-
-Released in 2022 on Core Port as RPOL-10012.
-
-_Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
 
 
 ## Audio and Video

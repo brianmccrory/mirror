@@ -6,7 +6,25 @@ tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", 
 categories = ["albums"]
 draft = false
 slug = "trio-export-small-pieces-for-flying-padre"
+releaseYear = 2019
+releaseLabel = "Trio Export 63.1.0.X"
+releaseCode = "Small Pieces for Flying Padre"
 issue = 103
+[[lineup]]
+  name = "Heitetsu Rin"
+  slug = "heitetsu-rin"
+  instrument = "piano"
+  japanese = "リンヘイテツ Rin Heitetsu"
+[[lineup]]
+  name = "Keisuke Furuki"
+  slug = "keisuke-furuki"
+  instrument = "bass"
+  japanese = "古木佳祐 Furuki Keisuke"
+[[lineup]]
+  name = "Masatsugu Hattori"
+  slug = "masatsugu-hattori"
+  instrument = "drums"
+  japanese = "服部正嗣 Hattori Masatsugu"
 [cover]
   image = "trioexport-smallpieces-460.jpeg"
   alt = "Cover art of Small Pieces for Flying Padre by Trio Export 63.1.0.X"
@@ -28,17 +46,6 @@ Original, catchy, and unique, this handmade album is available for sale at the j
 {{< figure src="L1220725-1024.jpg" link="L1220725-1024.jpg" >}}
 
 {{< figure src="IMG_20190517_224529937-1024.jpg" link="IMG_20190517_224529937-1024.jpg" >}}
-
-
-## Small Pieces for Flying Padre by Trio Export 63.1.0.X
-
--   [Heitetsu Rin](/tags/heitetsu-rin/) - piano
--   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
--   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
-
-Released in 2019 on Trio Export 63.1.0.X as Small Pieces for Flying Padre.
-
-_Japanese names: リンヘイテツ Rin Heitetsu 古木佳祐 Furuki Keisuke 服部正嗣 Hattori Masatsugu_
 
 
 ## Audio and Video

@@ -6,7 +6,23 @@ tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-playing-new-york"
+releaseYear = 2010
+releaseLabel = "TK Entertainment"
+releaseCode = "QACK-35007"
 issue = 69
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Nat Reeves"
+  slug = "nat-reeves"
+  instrument = "bass"
+[[lineup]]
+  name = "Joe Farnsworth"
+  slug = "joe-farnsworth"
+  instrument = "drums"
 [cover]
   image = "akanematsumoto-playing-460.jpeg"
   alt = "Cover art of Playing New York by Akane Matsumoto"
@@ -30,17 +46,6 @@ At medium tempos, Matsumoto’s relaxed rhythmic sense is unerringly charming, p
 {{< figure src="L1210187-1024.jpg" link="L1210187-1024.jpg" >}}
 
 {{< figure src="L1210190-1024.jpg" link="L1210190-1024.jpg" >}}
-
-
-## Playing New York by Akane Matsumoto
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Nat Reeves](/tags/nat-reeves/) - bass
--   [Joe Farnsworth](/tags/joe-farnsworth/) - drums
-
-Released in 2010 on TK Entertainment as QACK-35007.
-
-_Japanese names: 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

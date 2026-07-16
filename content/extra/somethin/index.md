@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "somethin"
+clubName = "Somethin’"
+clubUrl = "https://www.somethinjazz.com/jp/"
+clubCity = "Tokyo"
+clubStation1 = "Ikebukuro"
+clubMap = "https://maps.app.goo.gl/WpLMZpQa8YdUq47Z8"
 issue = 255
 [cover]
   image = "IMG_20190611_210428751-1200.jpeg"
@@ -54,9 +59,3 @@ As with most free-form jam sessions, the amount of hands-on playing per person d
 Incidentally, this same Somethin’ jazz club also had a branch in New York once upon a time, but that spot closed many years ago. Also, Somethin’ was formerly called Miles’ Cafe in the past, and sometimes it is still referenced by that name by players who still remember those days.
 
 {{< figure src="IMG-20130216-02934-1200.jpeg" caption="<span class=\"figure-number\">Figure 6: </span>Welcome to Somethin' Jazz Club" link="IMG-20130216-02934-1200.jpeg" >}}
-
-
-## Information
-
--   [Somethin’’s website](https://www.somethinjazz.com/jp/)
--   [Located near Ikebukuro station in Tokyo, Japan](https://maps.app.goo.gl/WpLMZpQa8YdUq47Z8)

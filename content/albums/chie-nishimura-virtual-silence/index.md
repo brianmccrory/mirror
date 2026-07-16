@@ -6,7 +6,30 @@ tags = ["Chie Nishimura", "西村知恵", "Ryoji Orihara", "織原良次", "May 
 categories = ["albums"]
 draft = false
 slug = "chie-nishimura-virtual-silence"
+releaseYear = 2021
+releaseLabel = "en records"
+releaseCode = "Virtual Silence / Chie Nishimura"
 issue = 272
+[[lineup]]
+  name = "Chie Nishimura"
+  slug = "chie-nishimura"
+  instrument = "vocal"
+  japanese = "西村知恵 Nishimura Chie"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "May Inoue"
+  slug = "may-inoue"
+  instrument = "guitar"
+  japanese = "井上銘 Inoue May"
+[[lineup]]
+  name = "Tamaya Honda"
+  slug = "tamaya-honda"
+  instrument = "drums"
+  japanese = "本田珠也 Honda Tamaya"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
 [cover]
   image = "chie-nishimura-virtual-silence-460.jpeg"
@@ -51,18 +74,6 @@ The guitar tones and drum patterns veer between heavy density and light ambience
 Particularly impactful, the last track #5 “Grief Runs Deep” starts with a heavy drum beat resembling the iconic booming of John Bonham’s drum intro to “When the Levee Breaks” (and perhaps it’s no coincidence that drummer Tamaya Honda is a member of ZEK3, an all-Led-Zepplin-songs jazz trio). This head-turning beat maintains its rock rhythm framing as guitar riffing and band jamming layer in near-psychedelic grunge riffs and painted streaks of Nishimura’s slow, soul-piercing vocals. Led Zeppelin meets Pink Floyd with Jimi Hendrix and Faith No More swirling in the stars, a dramatic high point to end the experience, and to return safely to earth.
 
 {{< figure src="L1250108x-1200.jpeg" link="L1250108x-1200.jpeg" >}}
-
-
-## Virtual Silence by Chie Nishimura
-
--   [Chie Nishimura](/tags/chie-nishimura/) - vocal
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [May Inoue](/tags/may-inoue/) - guitar
--   [Tamaya Honda](/tags/tamaya-honda/) - drums
-
-Released in 2021 on en records as Virtual Silence / Chie Nishimura.
-
-_Japanese names: 西村知恵 Nishimura Chie 織原良次 Orihara Ryoji 井上銘 Inoue May 本田珠也 Honda Tamaya_
 
 
 ## Audio and Video

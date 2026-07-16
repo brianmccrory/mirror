@@ -6,7 +6,20 @@ tags = ["Kazumi Ikenaga", "池長和美", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 slug = "kazumi-ikenaga-taihei-asakawa-nordnote"
+releaseYear = 2020
+releaseLabel = "Time Machine Record"
+releaseCode = "TMCD-1020"
 issue = 250
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
+[[lineup]]
+  name = "Taihei Asakawa"
+  slug = "taihei-asakawa"
+  instrument = "piano"
+  japanese = "浅川太平 Asakawa Taihei"
 related = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-winter", "kazumi-ikenaga-niwatazumi", "taihei-asakawa-waltz-for-debby"]
 [cover]
   image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
@@ -143,16 +156,6 @@ DPA 4006-TL x 2
 </ol>
 
 {{< figure src="L1250242x-1200.jpeg" link="L1250242x-1200.jpeg" >}}
-
-
-## NordNote by Kazumi Ikenaga &amp; Taihei Asakawa
-
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
--   [Taihei Asakawa](/tags/taihei-asakawa/) - piano
-
-Released in 2020 on Time Machine Record as TMCD-1020.
-
-_Japanese names: 池長和美 Ikenaga Kazumi 浅川太平 Asakawa Taihei_
 
 
 ## Audio and Video

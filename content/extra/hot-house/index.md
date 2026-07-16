@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "hot-house"
+clubName = "Hot House"
+clubUrl = "https://hothousegogo.hatenablog.com/"
+clubCity = "Tokyo"
+clubStation1 = "Takadanobaba"
+clubMap = "https://goo.gl/maps/asgdJD5qELaTEheh7"
+clubStatus = "closed"
 issue = 163
 [cover]
   image = "L1040205-1024.jpeg"
@@ -32,11 +38,3 @@ From Takadanobaba station it’s about a 10-minute walk down the street to Hot H
 Last thing to note and it’s worth saying again: this precious Tokyo gem has almost closed down once before; it would be a shame to miss stopping by Hot House at least once before it closes its doors for good, someday, perhaps before we know it.
 
 {{< figure src="L1040225-1024.jpeg" link="L1040225-1024.jpeg" >}}
-
-
-## Information
-
--   [Hot House’s website](https://hothousegogo.hatenablog.com/)
--   [Located near Takadanobaba station in Tokyo, Japan](https://goo.gl/maps/asgdJD5qELaTEheh7)
-
-_Note: Hot House has permanently closed._

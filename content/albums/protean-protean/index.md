@@ -6,7 +6,25 @@ tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan 
 categories = ["albums"]
 draft = false
 slug = "protean-protean"
+releaseYear = 2009
+releaseLabel = "Protean"
+releaseCode = "Protean"
 issue = 142
+[[lineup]]
+  name = "Naoko Tanaka"
+  slug = "naoko-tanaka"
+  instrument = "piano"
+  japanese = "田中菜緒子 Tanaka Naoko"
+[[lineup]]
+  name = "Naoyuki Seto"
+  slug = "naoyuki-seto"
+  instrument = "electric bass"
+  japanese = "瀬戸尚幸 Seto Naoyuki"
+[[lineup]]
+  name = "Dan Yoshikawa"
+  slug = "dan-yoshikawa"
+  instrument = "drums"
+  japanese = "吉川弾 Yoshikawa Dan"
 [cover]
   image = "protean-protean-460.jpeg"
   alt = "Cover art of Protean by Protean"
@@ -26,17 +44,6 @@ Although this release is on the shorter side, it previews what is to come from T
 {{< figure src="L1200372-1024.jpg" link="L1200372-1024.jpg" >}}
 
 {{< figure src="L1200374-1024.jpg" link="L1200374-1024.jpg" >}}
-
-
-## Protean by Protean
-
--   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
--   [Naoyuki Seto](/tags/naoyuki-seto/) - electric bass
--   [Dan Yoshikawa](/tags/dan-yoshikawa/) - drums
-
-Released in 2009 on Protean as Protean.
-
-_Japanese names: 田中菜緒子 Tanaka Naoko 瀬戸尚幸 Seto Naoyuki 吉川弾 Yoshikawa Dan_
 
 
 ## Audio and Video

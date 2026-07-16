@@ -6,7 +6,24 @@ tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gen
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-trio-in-my-words"
+releaseYear = 2010
+releaseLabel = "Daiki Musica"
+releaseCode = "DMCD-06"
 issue = 90
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Gene Jackson"
+  slug = "gene-jackson"
+  instrument = "drums"
 [cover]
   image = "hideakihori-inmywords-460.jpeg"
   alt = "Cover art of In My Words by Hideaki Hori Trio"
@@ -30,17 +47,6 @@ Hori’s songwriting is also on display, with six originals (the crowd favorite 
 {{< figure src="L1220732-1024.jpg" link="L1220732-1024.jpg" >}}
 
 {{< figure src="L1220735-1024.jpg" link="L1220735-1024.jpg" >}}
-
-
-## In My Words by Hideaki Hori Trio
-
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Gene Jackson](/tags/gene-jackson/) - drums
-
-Released in 2010 on Daiki Musica as DMCD-06.
-
-_Japanese names: 堀秀彰 Hori Hideaki 安ヵ川大樹 Yasukagawa Daiki_
 
 
 ## Audio and Video

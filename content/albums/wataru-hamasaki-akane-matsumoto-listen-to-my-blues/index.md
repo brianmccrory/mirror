@@ -6,7 +6,20 @@ tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues"
+releaseYear = 2025
+releaseLabel = "Concept Record"
+releaseCode = "CR-21"
 issue = 358
+[[lineup]]
+  name = "Wataru Hamasaki"
+  slug = "wataru-hamasaki"
+  instrument = "saxophone"
+  japanese = "浜崎航 Hamasaki Wataru"
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
 related = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
@@ -65,16 +78,6 @@ _Wataru Hamasaki_
 An explosive pianist, a roaring horn. The mad rush of movement and rare presence of the full use of the saxophone family, from baritone to soprano, and even flute playing. An appetizing recording that fully expresses the allure of jazz and pulls listeners into a state of joy.
 
 {{< figure src="L1340802x-1200.jpeg" link="L1340802x-1200.jpeg" >}}
-
-
-## Listen to My Blues by Wataru Hamasaki &amp; Akane Matsumoto
-
--   [Wataru Hamasaki](/tags/wataru-hamasaki/) - saxophone
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
-
-Released in 2025 on Concept Record as CR-21.
-
-_Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

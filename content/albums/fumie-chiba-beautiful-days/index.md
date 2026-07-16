@@ -6,7 +6,40 @@ tags = ["Fumie Chiba", "千葉史絵", "Mitsuru Tanaka", "田中充", "Shunosuke
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-beautiful-days"
+releaseYear = 2017
+releaseLabel = "USAGI Records"
+releaseCode = "UR-002"
 issue = 138
+[[lineup]]
+  name = "Fumie Chiba"
+  slug = "fumie-chiba"
+  instrument = "piano"
+  japanese = "千葉史絵 Chiba Fumie"
+[[lineup]]
+  name = "Mitsuru Tanaka"
+  slug = "mitsuru-tanaka"
+  instrument = "trumpet, flugelhorn"
+  japanese = "田中充 Tanaka Mitsuru"
+[[lineup]]
+  name = "Shunosuke Ishikawa"
+  slug = "shunosuke-ishikawa"
+  instrument = "tenor sax, soprano sax, flute"
+  japanese = "石川周之介 Ishikawa Shunosuke"
+[[lineup]]
+  name = "Aya Kurosawa"
+  slug = "aya-kurosawa"
+  instrument = "voice"
+  japanese = "黒沢綾 Kurosawa Aya"
+[[lineup]]
+  name = "Koji Tetsui"
+  slug = "koji-tetsui"
+  instrument = "bass"
+  japanese = "鉄井孝司 Tetsui Koji"
+[[lineup]]
+  name = "Kaoru Suzuki"
+  slug = "kaoru-suzuki"
+  instrument = "drums"
+  japanese = "鈴木郁 Suzuki Kaoru"
 [cover]
   image = "fumiechiba-beautifuldays-460.jpeg"
   alt = "Cover art of Beautiful Days by Fumie Chiba"
@@ -30,20 +63,6 @@ As the music is consistently interesting and the songs are varied, it’s hard t
 Most songs feature the full group, with songs for two piano trio and one solo piano piece. As with Chiba’s other albums, _Beautiful Days_ concludes with the pianist alone, playing a moving solo piano feature with full notes and heartfelt passages.
 
 {{< figure src="L1220772-1024.jpg" link="L1220772-1024.jpg" >}}
-
-
-## Beautiful Days by Fumie Chiba
-
--   [Fumie Chiba](/tags/fumie-chiba/) - piano
--   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, flugelhorn
--   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax, soprano sax, flute
--   [Aya Kurosawa](/tags/aya-kurosawa/) - voice
--   [Koji Tetsui](/tags/koji-tetsui/) - bass
--   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
-
-Released in 2017 on USAGI Records as UR-002.
-
-_Japanese names: 千葉史絵 Chiba Fumie 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 黒沢綾 Kurosawa Aya 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
 
 
 ## Audio and Video

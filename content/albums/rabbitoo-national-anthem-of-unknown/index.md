@@ -6,7 +6,35 @@ tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "
 categories = ["albums"]
 draft = false
 slug = "rabbitoo-national-anthem-of-unknown"
+releaseYear = 2014
+releaseLabel = "SONG X JAZZ"
+releaseCode = "SONG X 019"
 issue = 93
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitars, keyboards"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Daisuke Fujiwara"
+  slug = "daisuke-fujiwara"
+  instrument = "tenor saxophone, electronics"
+  japanese = "藤原大輔 Fujiwara Daisuke"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "Rhodes, Minimoog, Nord, piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroki Chiba"
+  slug = "hiroki-chiba"
+  instrument = "contrabass, electric bass, electronics"
+  japanese = "千葉広樹 Chiba Hiroki"
+[[lineup]]
+  name = "Noritaka Tanaka"
+  slug = "noritaka-tanaka"
+  instrument = "drums"
+  japanese = "田中徳崇 Tanaka Noritaka"
 [cover]
   image = "rabbitoo-national-460.jpeg"
   alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"
@@ -28,19 +56,6 @@ Definitely not following the typical jazz formula, this beat-centered music with
 {{< figure src="L1220806-1024.jpg" link="L1220806-1024.jpg" >}}
 
 {{< figure src="L1220809-1024.jpg" link="L1220809-1024.jpg" >}}
-
-
-## National Anthem of Unknown Country by Rabbitoo
-
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitars, keyboards
--   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, electronics
--   [Koichi Sato](/tags/koichi-sato/) - Rhodes, Minimoog, Nord, piano
--   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, electronics
--   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
-
-Released in 2014 on SONG X JAZZ as SONG X 019.
-
-_Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
 
 
 ## Audio and Video

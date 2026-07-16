@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "naru"
+clubName = "Naru"
+clubUrl = "http://ocha-naru.com/"
+clubCity = "Tokyo"
+clubStation1 = "Ochanomizu"
+clubMap = "https://maps.app.goo.gl/kPfEyFtbnvdbD1sS7"
 issue = 277
 [cover]
   image = "IMG_4184-1200.jpeg"
@@ -58,9 +63,3 @@ While at Naru, you may also notice the manager Hiro-san, a tall, besuited man wh
 {{< figure src="IMG_20240307_190804069_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Reaching Naru" link="IMG_20240307_190804069_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20240307_190816699_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Naru" link="IMG_20240307_190816699_HDR-1200.jpeg" >}}
-
-
-## Information
-
--   [Naru’s website](http://ocha-naru.com/)
--   [Located near Ochanomizu station in Tokyo, Japan](https://maps.app.goo.gl/kPfEyFtbnvdbD1sS7)

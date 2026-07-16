@@ -6,7 +6,24 @@ tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor 
 categories = ["albums"]
 draft = false
 slug = "miki-hayama-trio-wide-angle"
+releaseYear = 2009
+releaseLabel = "ART UNION/@jazz"
+releaseCode = "ARTCD-114"
 issue = 41
+[[lineup]]
+  name = "Miki Hayama"
+  slug = "miki-hayama"
+  instrument = "piano"
+  japanese = "早間美紀 Hayama Miki"
+[[lineup]]
+  name = "Kiyoshi Kitagawa"
+  slug = "kiyoshi-kitagawa"
+  instrument = "bass"
+  japanese = "北川潔 Kitagawa Kiyoshi"
+[[lineup]]
+  name = "Victor Lewis"
+  slug = "victor-lewis"
+  instrument = "drums"
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
   alt = "Cover art of Wide Angle by Miki Hayama Trio"
@@ -28,17 +45,6 @@ In addition to straight-ahead locomotion, other angles are explored: wisps of fa
 {{< figure src="L1200172-1024.jpg" link="L1200172-1024.jpg" >}}
 
 {{< figure src="L1120060-1024.jpg" link="L1120060-1024.jpg" >}}
-
-
-## Wide Angle by Miki Hayama Trio
-
--   [Miki Hayama](/tags/miki-hayama/) - piano
--   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa/) - bass
--   [Victor Lewis](/tags/victor-lewis/) - drums
-
-Released in 2009 on ART UNION/@jazz as ARTCD-114.
-
-_Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
 
 
 ## Audio and Video

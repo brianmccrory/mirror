@@ -6,7 +6,50 @@ tags = ["Mie Joké", "情家みえ", "Tsuyoshi Yamamoto", "山本剛", "Hiroshi 
 categories = ["albums"]
 draft = false
 slug = "mie-joke-etrenne"
+releaseYear = 2018
+releaseLabel = "Ultra Art Record"
+releaseCode = "UA-1001"
 issue = 84
+[[lineup]]
+  name = "Mie Joké"
+  slug = "mie-joke"
+  instrument = "vocal"
+  japanese = "情家みえ Joké Mie"
+[[lineup]]
+  name = "Tsuyoshi Yamamoto"
+  slug = "tsuyoshi-yamamoto"
+  instrument = "piano (tr. #1-5)"
+  japanese = "山本剛 Yamamoto Tsuyoshi"
+[[lineup]]
+  name = "Hiroshi Kagawa"
+  slug = "hiroshi-kagawa"
+  instrument = "bass (tr. #1-5)"
+  japanese = "香川裕史 Kagawa Hiroshi"
+[[lineup]]
+  name = "Toshio Osumi"
+  slug = "toshio-osumi"
+  instrument = "drums (tr. #1-5)"
+  japanese = "大隅寿男 Osumi Toshio"
+[[lineup]]
+  name = "Koji Goto"
+  slug = "koji-goto"
+  instrument = "piano (tr. #6-11)"
+  japanese = "後藤浩二 Goto Koji"
+[[lineup]]
+  name = "Satsuki Kusui"
+  slug = "satsuki-kusui"
+  instrument = "bass (tr. #6-11)"
+  japanese = "楠井五月 Kusui Satsuki"
+[[lineup]]
+  name = "Akira Yamada"
+  slug = "akira-yamada"
+  instrument = "drums (tr. #6-11)"
+  japanese = "山田玲 Yamada Akira"
+[[lineup]]
+  name = "Wataru Hamasaki"
+  slug = "wataru-hamasaki"
+  instrument = "sax, flute (tr. #6-11)"
+  japanese = "浜崎航 Hamasaki Wataru"
 [cover]
   image = "miejoke-etrenne-460.jpeg"
   alt = "Cover art of Etrenne by Mie Joké"
@@ -28,22 +71,6 @@ The music is done right, with an honest, straight-ahead vision, swinging and sli
 {{< figure src="L1220341-1024.jpg" link="L1220341-1024.jpg" >}}
 
 {{< figure src="L1220343-1024.jpg" link="L1220343-1024.jpg" >}}
-
-
-## Etrenne by Mie Joké
-
--   [Mie Joké](/tags/mie-joke/) - vocal
--   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto/) - piano (tr. #1-5)
--   [Hiroshi Kagawa](/tags/hiroshi-kagawa/) - bass (tr. #1-5)
--   [Toshio Osumi](/tags/toshio-osumi/) - drums (tr. #1-5)
--   [Koji Goto](/tags/koji-goto/) - piano (tr. #6-11)
--   [Satsuki Kusui](/tags/satsuki-kusui/) - bass (tr. #6-11)
--   [Akira Yamada](/tags/akira-yamada/) - drums (tr. #6-11)
--   [Wataru Hamasaki](/tags/wataru-hamasaki/) - sax, flute (tr. #6-11)
-
-Released in 2018 on Ultra Art Record as UA-1001.
-
-_Japanese names: 情家みえ Joké Mie 山本剛 Yamamoto Tsuyoshi 香川裕史 Kagawa Hiroshi 大隅寿男 Osumi Toshio 後藤浩二 Goto Koji 楠井五月 Kusui Satsuki 山田玲 Yamada Akira 浜崎航 Hamasaki Wataru_
 
 
 ## Audio and Video

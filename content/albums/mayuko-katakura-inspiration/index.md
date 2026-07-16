@@ -6,7 +6,24 @@ tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士"
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-inspiration"
+releaseYear = 2009
+releaseLabel = "Pony Canyon"
+releaseCode = "MYCJ-30554"
 issue = 25
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Yasushi Nakamura"
+  slug = "yasushi-nakamura"
+  instrument = "bass"
+  japanese = "中村恭士 Nakamura Yasushi"
+[[lineup]]
+  name = "Carl Allen"
+  slug = "carl-allen"
+  instrument = "drums"
 [cover]
   image = "mayukokatakura-inspiration-460.jpeg"
   alt = "Cover art of Inspiration by Mayuko Katakura"
@@ -24,17 +41,6 @@ In addition to speed, Katakura’s confident jazz piano sense extends to bluesy 
 {{< figure src="L1180980-1024.jpg" link="L1180980-1024.jpg" >}}
 
 {{< figure src="L1180985-1024.jpg" link="L1180985-1024.jpg" >}}
-
-
-## Inspiration by Mayuko Katakura
-
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Yasushi Nakamura](/tags/yasushi-nakamura/) - bass
--   [Carl Allen](/tags/carl-allen/) - drums
-
-Released in 2009 on Pony Canyon as MYCJ-30554.
-
-_Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Om
 categories = ["albums"]
 draft = false
 slug = "koichi-sato-utopia"
+releaseYear = 2011
+releaseLabel = "Pony Canyon / Twinkle Note"
+releaseCode = "PCCY-30186"
 issue = 56
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Hiroshi Ikejiri"
+  slug = "hiroshi-ikejiri"
+  instrument = "bass"
+  japanese = "池尻洋史 Ikejiri Hiroshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
 [cover]
   image = "koichisato-utopia-460.jpeg"
   alt = "Cover art of Utopia by Koichi Sato"
@@ -26,17 +44,6 @@ The nine original songs on this album are full of lyrical freshness balanced wit
 {{< figure src="L1200240-1024.jpg" link="L1200240-1024.jpg" >}}
 
 {{< figure src="IMG_20150318_153908-1024.jpg" link="IMG_20150318_153908-1024.jpg" >}}
-
-
-## Utopia by Koichi Sato
-
--   [Koichi Sato](/tags/koichi-sato/) - piano
--   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums
-
-Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.
-
-_Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

@@ -6,7 +6,30 @@ tags = ["Yuto Komatsu", "小松悠人", "Mikiko Nagatake", "永武幹子", "Dais
 categories = ["albums"]
 draft = false
 slug = "yuto-komatsu-quartet-defune"
+releaseYear = 2025
+releaseLabel = "YK Offshore"
+releaseCode = "“02”"
 issue = 359
+[[lineup]]
+  name = "Yuto Komatsu"
+  slug = "yuto-komatsu"
+  instrument = "trumpet, flugelhorn"
+  japanese = "小松悠人 Komatsu Yuto"
+[[lineup]]
+  name = "Mikiko Nagatake"
+  slug = "mikiko-nagatake"
+  instrument = "piano"
+  japanese = "永武幹子 Nagatake Mikiko"
+[[lineup]]
+  name = "Daisuke Ijichi"
+  slug = "daisuke-ijichi"
+  instrument = "bass"
+  japanese = "伊地知大輔 Ijichi Daisuke"
+[[lineup]]
+  name = "Makoto Rikitake"
+  slug = "makoto-rikitake"
+  instrument = "drums"
+  japanese = "力武誠 Rikitake Makoto"
 related = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
@@ -100,18 +123,6 @@ When I returned home for a visit, I went for a walk at my old elementary school 
 I had thought that bursts were things that happened in the world of F1. Then, one day, I was driving on Japan National Route 6 from the Matsudo region to Tokyo when my tire burst at an uneven bridge junction. Fortunately, I wasn’t on the highway, and I managed to avoid an accident. But ever since then, I’ve tried to change my tires sooner rather than later. This song is explosively fast and ends before you know it, but I hope you enjoy the ensemble performance of the band.
 
 {{< figure src="L1350595x-1200.jpeg" link="L1350595x-1200.jpeg" >}}
-
-
-## Defune by Yuto Komatsu Quartet
-
--   [Yuto Komatsu](/tags/yuto-komatsu/) - trumpet, flugelhorn
--   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
--   [Daisuke Ijichi](/tags/daisuke-ijichi/) - bass
--   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
-
-Released in 2025 on YK Offshore as “02”.
-
-_Japanese names: 小松悠人 Komatsu Yuto 永武幹子 Nagatake Mikiko 伊地知大輔 Ijichi Daisuke 力武誠 Rikitake Makoto_
 
 
 ## Audio and Video

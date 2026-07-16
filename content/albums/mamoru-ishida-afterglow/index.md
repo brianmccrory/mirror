@@ -6,7 +6,25 @@ tags = ["Mamoru Ishida", "石田衛", "Ryohei Komaki", "小牧良平", "Kaito Na
 categories = ["albums"]
 draft = false
 slug = "mamoru-ishida-afterglow"
+releaseYear = 2023
+releaseLabel = "Days of Delight"
+releaseCode = "DOD-039"
 issue = 269
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Ryohei Komaki"
+  slug = "ryohei-komaki"
+  instrument = "bass"
+  japanese = "小牧良平 Komaki Ryohei"
+[[lineup]]
+  name = "Kaito Nakamura"
+  slug = "kaito-nakamura"
+  instrument = "drums"
+  japanese = "中村海斗 Nakamura Kaito"
 related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-ishida-mamoru-4-feat", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin", "miwo-tranquillo", "nami-kano-mawsim"]
 [cover]
   image = "mamoru-ishida-afterglow-460.jpeg"
@@ -86,17 +104,6 @@ This is jazz pianist Mamoru Ishida’s most important priority.
 …
 
 {{< figure src="L1250960x-1200.jpeg" link="L1250960x-1200.jpeg" >}}
-
-
-## Afterglow by Mamoru Ishida
-
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
-
-Released in 2023 on Days of Delight as DOD-039.
-
-_Japanese names: 石田衛 Ishida Mamoru 小牧良平 Komaki Ryohei 中村海斗 Nakamura Kaito_
 
 
 ## Audio and Video

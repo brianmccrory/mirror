@@ -6,7 +6,25 @@ tags = ["Akane Matsumoto", "松本茜", "Ryu Kawamura", "川村竜", "Junji Hiro
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-oh-lady-be-good"
+releaseYear = 2019
+releaseLabel = "Concept Records"
+releaseCode = "CR-12"
 issue = 283
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
+[[lineup]]
+  name = "Ryu Kawamura"
+  slug = "ryu-kawamura"
+  instrument = "bass"
+  japanese = "川村竜 Kawamura Ryu"
+[[lineup]]
+  name = "Junji Hirose"
+  slug = "junji-hirose"
+  instrument = "drums"
+  japanese = "広瀬潤次 Hirose Junji"
 related = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
@@ -85,17 +103,6 @@ This album is the crystallization of her wish to “make lots of people smile th
 Filled with the fun, the beauty, and the charm of the piano trio!!
 
 {{< figure src="L1250713x-1200.jpeg" link="L1250713x-1200.jpeg" >}}
-
-
-## Oh, Lady Be Good by Akane Matsumoto
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
--   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
--   [Junji Hirose](/tags/junji-hirose/) - drums
-
-Released in 2019 on Concept Records as CR-12.
-
-_Japanese names: 松本茜 Matsumoto Akane 川村竜 Kawamura Ryu 広瀬潤次 Hirose Junji_
 
 
 ## Audio and Video

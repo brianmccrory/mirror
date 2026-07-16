@@ -6,7 +6,15 @@ tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-little-girl-blue"
+releaseYear = 2022
+releaseLabel = "Concept Records"
+releaseCode = "CR-14"
 issue = 212
+[[lineup]]
+  name = "Akane Matsumoto"
+  slug = "akane-matsumoto"
+  instrument = "piano"
+  japanese = "松本茜 Matsumoto Akane"
 related = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
@@ -90,15 +98,6 @@ My grandfather was interned in Siberia for four years after the war. He would of
 This song was written during the civil rights movement, and it must have become a great support to all the people who were trying to regain the freedom that is often taken for granted. This is a powerful message from Peterson, a wish for a peaceful and free world.
 
 {{< figure src="L1240157x-1024.jpeg" link="L1240157x-1024.jpeg" >}}
-
-
-## Little Girl Blue by Akane Matsumoto
-
--   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
-
-Released in 2022 on Concept Records as CR-14.
-
-_Japanese names: 松本茜 Matsumoto Akane_
 
 
 ## Audio and Video

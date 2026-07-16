@@ -6,7 +6,30 @@ tags = ["Yudo Matsuo", "松尾由堂", "Junichiro Ohkuchi", "大口純一郎", "
 categories = ["albums"]
 draft = false
 slug = "yudo-matsuo-quartet-songs-in-motion"
+releaseYear = 2018
+releaseLabel = "Song X Jazz"
+releaseCode = "SONGX-055"
 issue = 373
+[[lineup]]
+  name = "Yudo Matsuo"
+  slug = "yudo-matsuo"
+  instrument = "electric & acoustic guitar"
+  japanese = "松尾由堂 Matsuo Yudo"
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano, Fender Rhodes"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
+[[lineup]]
+  name = "Yoshimasa Otsuka"
+  slug = "yoshimasa-otsuka"
+  instrument = "bass"
+  japanese = "大塚義将 Otsuka Yoshimasa"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums"
+  japanese = "吉良創太 Kira Sota"
 related = ["yudo-matsuo-bonanza"]
 [cover]
   image = "yudo-matsuo-quartet-songs-in-motion-460.jpeg"

@@ -6,7 +6,35 @@ tags = ["Mikiko Nagatake", "永武幹子", "Ryoji Orihara", "織原良次", "Sot
 categories = ["albums"]
 draft = false
 slug = "mikiko-nagatake-trio-breathe-beneath-the-sun"
+releaseYear = 2022
+releaseLabel = "Owl Wing Record"
+releaseCode = "OWL-041"
 issue = 345
+[[lineup]]
+  name = "Mikiko Nagatake"
+  slug = "mikiko-nagatake"
+  instrument = "piano"
+  japanese = "永武幹子 Nagatake Mikiko"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums"
+  japanese = "吉良創太 Kira Sota"
+[[lineup]]
+  name = "Kosuke Mine"
+  slug = "kosuke-mine"
+  instrument = "tenor sax (track #8)"
+  japanese = "峰厚介 Mine Kosuke"
+[[lineup]]
+  name = "Eiichi Hayashi"
+  slug = "eiichi-hayashi"
+  instrument = "alto sax (track #9)"
+  japanese = "林栄一 Hayashi Eiichi"
 related = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
@@ -180,19 +208,6 @@ He became a professional musician at 17 years of age by training in big bands an
 “The music was inspiring, and there were many moments that touched my heart directly. I love that kind of music.” Yoshiaki Masuo
 
 {{< figure src="L1240173x-1200.jpeg" link="L1240173x-1200.jpeg" >}}
-
-
-## Breathe Beneath the Sun by Mikiko Nagatake Trio
-
--   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Sota Kira](/tags/sota-kira/) - drums
--   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (track #8)
--   [Eiichi Hayashi](/tags/eiichi-hayashi/) - alto sax (track #9)
-
-Released in 2022 on Owl Wing Record as OWL-041.
-
-_Japanese names: 永武幹子 Nagatake Mikiko 織原良次 Orihara Ryoji 吉良創太 Kira Sota 峰厚介 Mine Kosuke 林栄一 Hayashi Eiichi_
 
 
 ## Audio and Video

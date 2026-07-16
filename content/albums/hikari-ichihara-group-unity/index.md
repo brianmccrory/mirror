@@ -6,7 +6,35 @@ tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "H
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-group-unity"
+releaseYear = 2011
+releaseLabel = "After Beat / Pony Canyon"
+releaseCode = "PCCY-30187"
 issue = 297
+[[lineup]]
+  name = "Hikari Ichihara"
+  slug = "hikari-ichihara"
+  instrument = "trumpet, flugelhorn"
+  japanese = "市原ひかり Ichihara Hikari"
+[[lineup]]
+  name = "Ryosuke Asai"
+  slug = "ryosuke-asai"
+  instrument = "alto saxophone"
+  japanese = "浅井良将 Asai Ryosuke"
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Kunpei Nakabayashi"
+  slug = "kunpei-nakabayashi"
+  instrument = "bass"
+  japanese = "中林薫平 Nakabayashi Kunpei"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
 related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-group-unity-460.jpeg"
@@ -78,19 +106,6 @@ Thanks to your support, we were able to release our second album under the name 
 Ichihara Hikari
 
 {{< figure src="L1240153x-1200.jpeg" link="L1240153x-1200.jpeg" >}}
-
-
-## Unity by Hikari Ichihara Group
-
--   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
--   [Ryosuke Asai](/tags/ryosuke-asai/) - alto saxophone
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
-
-Released in 2011 on After Beat / Pony Canyon as PCCY-30187.
-
-_Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
 
 
 ## Audio and Video

@@ -6,7 +6,75 @@ tags = ["Yuichiro Aratake", "荒武裕一朗", "Kunio Oinuma", "生沼邦夫", "
 categories = ["albums"]
 draft = false
 slug = "yuichiro-aratake-music-make-us-one"
+releaseYear = 2010
+releaseLabel = "Urban Jazz"
+releaseCode = "151A-0003"
 issue = 183
+[[lineup]]
+  name = "Yuichiro Aratake"
+  slug = "yuichiro-aratake"
+  instrument = "piano"
+  japanese = "荒武裕一朗 Aratake Yuichiro"
+[[lineup]]
+  name = "Kunio Oinuma"
+  slug = "kunio-oinuma"
+  instrument = "bass"
+  japanese = "生沼邦夫 Oinuma Kunio"
+[[lineup]]
+  name = "Koichi Inoue"
+  slug = "koichi-inoue"
+  instrument = "drums"
+  japanese = "井上功一 Inoue Koichi"
+[[lineup]]
+  name = "Koei Tanaka"
+  slug = "koei-tanaka"
+  instrument = "harmonica"
+  japanese = "田中光栄 Tanaka Koei"
+[[lineup]]
+  name = "Ryutaro Makino"
+  slug = "ryutaro-makino"
+  instrument = "vocal"
+  japanese = "牧野竜太郎 Makino Ryutaro"
+[[lineup]]
+  name = "Naomi Urushibara"
+  slug = "naomi-urushibara"
+  instrument = "violin"
+  japanese = "漆原直美 Urushibara Naomi"
+[[lineup]]
+  name = "Leina Ushiyama"
+  slug = "leina-ushiyama"
+  instrument = "violin"
+  japanese = "牛山玲名 Ushiyama Leina"
+[[lineup]]
+  name = "Kanae Shima"
+  slug = "kanae-shima"
+  instrument = "violin"
+  japanese = "志摩かなえ Shima Kanae"
+[[lineup]]
+  name = "Asami Matsuda"
+  slug = "asami-matsuda"
+  instrument = "violin"
+  japanese = "松田麻美 Matsuda Asami"
+[[lineup]]
+  name = "Daisuke Tomita"
+  slug = "daisuke-tomita"
+  instrument = "viola"
+  japanese = "富田大輔 Tomita Daisuke"
+[[lineup]]
+  name = "Ryosuke Sato"
+  slug = "ryosuke-sato"
+  instrument = "viola"
+  japanese = "佐藤良輔 Sato Ryosuke"
+[[lineup]]
+  name = "Takefumi Shirasa"
+  slug = "takefumi-shirasa"
+  instrument = "cello"
+  japanese = "白佐武史 Shirasa Takefumi"
+[[lineup]]
+  name = "Masato Kubo"
+  slug = "masato-kubo"
+  instrument = "cello"
+  japanese = "久保公人 Kubo Masato"
 [cover]
   image = "yuichiro-aratake-music-make-460.jpeg"
   alt = "Cover art of Music Make Us One by Yuichiro Aratake"
@@ -26,27 +94,6 @@ In addition to bluesy songs, romantic ballads, and pop, the album’s jazzier mo
 {{< figure src="L1210284x-1024.jpeg" link="L1210284x-1024.jpeg" >}}
 
 {{< figure src="L1210289x-1024.jpeg" link="L1210289x-1024.jpeg" >}}
-
-
-## Music Make Us One by Yuichiro Aratake
-
--   [Yuichiro Aratake](/tags/yuichiro-aratake/) - piano
--   [Kunio Oinuma](/tags/kunio-oinuma/) - bass
--   [Koichi Inoue](/tags/koichi-inoue/) - drums
--   [Koei Tanaka](/tags/koei-tanaka/) - harmonica
--   [Ryutaro Makino](/tags/ryutaro-makino/) - vocal
--   [Naomi Urushibara](/tags/naomi-urushibara/) - violin
--   [Leina Ushiyama](/tags/leina-ushiyama/) - violin
--   [Kanae Shima](/tags/kanae-shima/) - violin
--   [Asami Matsuda](/tags/asami-matsuda/) - violin
--   [Daisuke Tomita](/tags/daisuke-tomita/) - viola
--   [Ryosuke Sato](/tags/ryosuke-sato/) - viola
--   [Takefumi Shirasa](/tags/takefumi-shirasa/) - cello
--   [Masato Kubo](/tags/masato-kubo/) - cello
-
-Released in 2010 on Urban Jazz as 151A-0003.
-
-_Japanese names: 荒武裕一朗 Aratake Yuichiro 生沼邦夫 Oinuma Kunio 井上功一 Inoue Koichi 田中光栄 Tanaka Koei 牧野竜太郎 Makino Ryutaro 漆原直美 Urushibara Naomi 牛山玲名 Ushiyama Leina 志摩かなえ Shima Kanae 松田麻美 Matsuda Asami 富田大輔 Tomita Daisuke 佐藤良輔 Sato Ryosuke 白佐武史 Shirasa Takefumi 久保公人 Kubo Masato_
 
 
 ## Audio and Video

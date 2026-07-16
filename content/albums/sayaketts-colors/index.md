@@ -6,7 +6,25 @@ tags = ["Sayaka Kishi", "岸淑香", "Satoshi Kohno", "鴻野暁司", "Yoshihiro
 categories = ["albums"]
 draft = false
 slug = "sayaketts-colors"
+releaseYear = 2009
+releaseLabel = "Sayaketts"
+releaseCode = "SKTS-001"
 issue = 58
+[[lineup]]
+  name = "Sayaka Kishi"
+  slug = "sayaka-kishi"
+  instrument = "piano, Rhodes, keyboards, pianica"
+  japanese = "岸淑香 Kishi Sayaka"
+[[lineup]]
+  name = "Satoshi Kohno"
+  slug = "satoshi-kohno"
+  instrument = "electric bass"
+  japanese = "鴻野暁司 Kohno Satoshi"
+[[lineup]]
+  name = "Yoshihiro Nakagawa"
+  slug = "yoshihiro-nakagawa"
+  instrument = "drums"
+  japanese = "中川喜博 Nakagawa Yoshihiro"
 [cover]
   image = "sayaketts-colors-460.jpeg"
   alt = "Cover art of Colors by Sayaketts"
@@ -26,17 +44,6 @@ About half of the 13 songs on this album are upbeat, funky, and energized with t
 {{< figure src="L1200424-1024.jpg" link="L1200424-1024.jpg" >}}
 
 {{< figure src="L1120080-1024.jpg" link="L1120080-1024.jpg" >}}
-
-
-## Colors by Sayaketts
-
--   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, Rhodes, keyboards, pianica
--   [Satoshi Kohno](/tags/satoshi-kohno/) - electric bass
--   [Yoshihiro Nakagawa](/tags/yoshihiro-nakagawa/) - drums
-
-Released in 2009 on Sayaketts as SKTS-001.
-
-_Japanese names: 岸淑香 Kishi Sayaka 鴻野暁司 Kohno Satoshi 中川喜博 Nakagawa Yoshihiro_
 
 
 ## Audio and Video

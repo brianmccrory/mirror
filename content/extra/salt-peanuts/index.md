@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "salt-peanuts"
+clubName = "Salt Peanuts"
+clubUrl = "https://saltpeanuts.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Ekoda"
+clubStation2 = "Shin-egota"
+clubMap = "https://maps.app.goo.gl/1jy49ehuvGVD3rjz8"
 issue = 246
 [cover]
   image = "IMG_20240416_191848986_HDR-1200.jpeg"
@@ -284,9 +290,3 @@ _Included here are 100+ more photos from Salt Peanuts taken between 2011-2024._
 {{< figure src="IMG_20140629_190530-1200.jpeg" caption="<span class=\"figure-number\">Figure 116: </span>Music-related movie posters on the wall outside Salt Peanuts" link="IMG_20140629_190530-1200.jpeg" >}}
 
 {{< figure src="IMG_20230205_181505581-1200.jpeg" caption="<span class=\"figure-number\">Figure 117: </span>Salt Peanuts" link="IMG_20230205_181505581-1200.jpeg" >}}
-
-
-## Information
-
--   [Salt Peanuts’s website](https://saltpeanuts.jp/)
--   [Located near Ekoda and Shin-egota stations in Tokyo, Japan](https://maps.app.goo.gl/1jy49ehuvGVD3rjz8)

@@ -6,7 +6,40 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Nor
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-echo"
+releaseYear = 2024
+releaseLabel = "Meantone Records"
+releaseCode = "MT-13"
 issue = 299
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano, compositions"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Toru Nishijima"
+  slug = "toru-nishijima"
+  instrument = "bass"
+  japanese = "西嶋徹 Nishijima Toru"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
+[[lineup]]
+  name = "Takanori Suzuki"
+  slug = "takanori-suzuki"
+  instrument = "clarinet (all tracks except #5)"
+  japanese = "鈴木孝紀 Suzuki Takanori"
+[[lineup]]
+  name = "Ryosuke Hashizume"
+  slug = "ryosuke-hashizume"
+  instrument = "tenor saxophone and flute (all tracks except #5)"
+  japanese = "橋爪亮督 Hashizume Ryosuke"
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin (all tracks except #5)"
+  japanese = "マイコ maiko"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 [cover]
   image = "hitomi-nishiyama-echo-460.jpeg"
@@ -35,20 +68,6 @@ Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, exp
 {{< figure src="L1280375x-1200.jpeg" link="L1280375x-1200.jpeg" >}}
 
 {{< figure src="L1280373x-1200.jpeg" link="L1280373x-1200.jpeg" >}}
-
-
-## Echo by Hitomi Nishiyama
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, compositions
--   [Toru Nishijima](/tags/toru-nishijima/) - bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
--   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (all tracks except #5)
--   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone and flute (all tracks except #5)
--   [maiko](/tags/maiko/) - violin (all tracks except #5)
-
-Released in 2024 on Meantone Records as MT-13.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
 
 
 ## Audio and Video

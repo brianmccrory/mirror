@@ -6,7 +6,30 @@ tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ
 categories = ["albums"]
 draft = false
 slug = "reiko-yamamoto-square-pyramid"
+releaseYear = 2019
+releaseLabel = "Somethin’ Cool"
+releaseCode = "SCOL-1032"
 issue = 248
+[[lineup]]
+  name = "Reiko Yamamoto"
+  slug = "reiko-yamamoto"
+  instrument = "vibraphone"
+  japanese = "山本玲子 Yamamoto Reiko"
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano"
+  japanese = "栗林すみれ Kuribayashi Sumire"
+[[lineup]]
+  name = "Keisuke Furuki"
+  slug = "keisuke-furuki"
+  instrument = "bass"
+  japanese = "古木佳祐 Furuki Keisuke"
+[[lineup]]
+  name = "Hiro Kimura"
+  slug = "hiro-kimura"
+  instrument = "drums"
+  japanese = "木村紘 Kimura Hiro"
 [cover]
   image = "reiko-yamamoto-square-pyramid-460.jpeg"
   alt = "Cover art of The Square Pyramid by Reiko Yamamoto"
@@ -94,18 +117,6 @@ The long-awaited all-originals release from the new band debut.
 Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (Terasima Records), participated in genre-crossing collaborations, and has become known for the endless possibilities of her vibraphone sound. She now releases a full album of her original compositions fully unleashing her well-established compositional and arrangement techniques. Throughout jazz history from swing to hard bop, fusion, and contemporary genres, the vibraphone has produced many songs and has been incorporated into many bands as a novel instrument. Here again, a new part of this history will be recorded.
 
 {{< figure src="L1260068x-1200.jpeg" link="L1260068x-1200.jpeg" >}}
-
-
-## The Square Pyramid by Reiko Yamamoto
-
--   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
--   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
--   [Hiro Kimura](/tags/hiro-kimura/) - drums
-
-Released in 2019 on Somethin’ Cool as SCOL-1032.
-
-_Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire 古木佳祐 Furuki Keisuke 木村紘 Kimura Hiro_
 
 
 ## Audio and Video

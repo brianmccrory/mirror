@@ -6,7 +6,15 @@ tags = ["Harumi Nomoto", "野本晴美"]
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-ill-be-home-for-christmas"
+releaseYear = 2023
+releaseLabel = "Okra Record"
+releaseCode = "HTM-1224"
 issue = 343
+[[lineup]]
+  name = "Harumi Nomoto"
+  slug = "harumi-nomoto"
+  instrument = "piano, Nord Stage EX"
+  japanese = "野本晴美 Nomoto Harumi"
 related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo"]
 [cover]
   image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
@@ -39,15 +47,6 @@ Cheery and cozy, the spirit of jazz piano comes through each song on this album.
 {{< figure src="L1330630x-1200.jpeg" link="L1330630x-1200.jpeg" >}}
 
 {{< figure src="L1330635x-1200.jpeg" link="L1330635x-1200.jpeg" >}}
-
-
-## I’ll Be Home for Christmas by Harumi Nomoto
-
--   [Harumi Nomoto](/tags/harumi-nomoto/) - piano, Nord Stage EX
-
-Released in 2023 on Okra Record as HTM-1224.
-
-_Japanese names: 野本晴美 Nomoto Harumi_
 
 
 ## Audio and Video

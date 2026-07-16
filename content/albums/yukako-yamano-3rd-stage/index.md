@@ -6,7 +6,15 @@ tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
 slug = "yukako-yamano-3rd-stage"
+releaseYear = 2017
+releaseLabel = "Yukako Yamano"
+releaseCode = "YKRN-0003"
 issue = 151
+[[lineup]]
+  name = "Yukako Yamano"
+  slug = "yukako-yamano"
+  instrument = "piano"
+  japanese = "山野友佳子 Yamano Yukako"
 [cover]
   image = "yukakoyamano-third-460.jpeg"
   alt = "Cover art of 3rd Stage by Yukako Yamano"
@@ -24,15 +32,6 @@ Differing from the first two releases, this album focuses on her work as a solo 
 {{< figure src="L1230163-1024.jpg" link="L1230163-1024.jpg" >}}
 
 {{< figure src="L1230168-1024.jpg" link="L1230168-1024.jpg" >}}
-
-
-## 3rd Stage by Yukako Yamano
-
--   [Yukako Yamano](/tags/yukako-yamano/) - piano
-
-Released in 2017 on Yukako Yamano as YKRN-0003.
-
-_Japanese names: 山野友佳子 Yamano Yukako_
 
 
 ## Audio and Video

@@ -6,7 +6,30 @@ tags = ["Hiroshi Fukutomi", "福冨博", "Koichi Sato", "佐藤浩一", "Koji Ya
 categories = ["albums"]
 draft = false
 slug = "hiroshi-fukutomi-memory-stones"
+releaseYear = 2014
+releaseLabel = "MOF Records"
+releaseCode = "MOF-101"
 issue = 229
+[[lineup]]
+  name = "Hiroshi Fukutomi"
+  slug = "hiroshi-fukutomi"
+  instrument = "electric guitar, acoustic guitar, harmonica"
+  japanese = "福冨博 Fukutomi Hiroshi"
+[[lineup]]
+  name = "Koichi Sato"
+  slug = "koichi-sato"
+  instrument = "piano, Rhodes"
+  japanese = "佐藤浩一 Sato Koichi"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Ryo Noritake"
+  slug = "ryo-noritake"
+  instrument = "drums"
+  japanese = "則武諒 Noritake Ryo"
 [cover]
   image = "hiroshi-fukutomi-memory-stones-460.jpeg"
   alt = "Cover art of Memory Stones by Hiroshi Fukutomi"
@@ -30,18 +53,6 @@ This modern groove sound and the variation in instrumentation are well-suited to
 The final two tracks close the album with friendly, down-to-earth elements to the already easily approachable music. On #9, “Mawaru Sekai”, Fukutomi adds his harmonica playing to the quartet, while the final song #10, “Trees &amp; Branches”, features Fukutomi alone for a quiet guitar ballad played with emotion and soul, conjuring the bittersweet feeling of parting, for now.
 
 {{< figure src="L1230477x-1024.jpeg" link="L1230477x-1024.jpeg" >}}
-
-
-## Memory Stones by Hiroshi Fukutomi
-
--   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - electric guitar, acoustic guitar, harmonica
--   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Ryo Noritake](/tags/ryo-noritake/) - drums
-
-Released in 2014 on MOF Records as MOF-101.
-
-_Japanese names: 福冨博 Fukutomi Hiroshi 佐藤浩一 Sato Koichi 安田幸司 Yasuda Koji 則武諒 Noritake Ryo_
 
 
 ## Audio and Video

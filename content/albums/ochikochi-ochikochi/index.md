@@ -6,7 +6,25 @@ tags = ["Taiichi Kamimura", "かみむら泰一", "Norikatsu Koreyasu", "是安�
 categories = ["albums"]
 draft = false
 slug = "ochikochi-ochikochi"
+releaseYear = 2012
+releaseLabel = "K’s Project"
+releaseCode = "KP-0001"
 issue = 366
+[[lineup]]
+  name = "Taiichi Kamimura"
+  slug = "taiichi-kamimura"
+  instrument = "tenor and soprano sax"
+  japanese = "かみむら泰一 Kamimura Taiichi"
+[[lineup]]
+  name = "Norikatsu Koreyasu"
+  slug = "norikatsu-koreyasu"
+  instrument = "wood bass"
+  japanese = "是安則克 Koreyasu Norikatsu"
+[[lineup]]
+  name = "Manabu Hashimoto"
+  slug = "manabu-hashimoto"
+  instrument = "drums"
+  japanese = "橋本学 Hashimoto Manabu"
 related = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
 [cover]
   image = "ochikochi-ochikochi-460.jpeg"
@@ -58,17 +76,6 @@ Three distant gazes intersect and unfold. Looking upwards, downwards, and far aw
 A recording of the distance, far and near (_ochikochi_), that is the musical performance of Kamimura, Koreyasu, and Hashimoto. At Shinjuku Pit Inn and Yokohama Airegin. First album.
 
 {{< figure src="L1340941x-1200.jpeg" alt="Disc of Ochikochi by Ochikochi" link="L1340941x-1200.jpeg" >}}
-
-
-## Ochikochi by Ochikochi
-
--   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor and soprano sax
--   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu/) - wood bass
--   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
-
-Released in 2012 on K’s Project as KP-0001.
-
-_Japanese names: かみむら泰一 Kamimura Taiichi 是安則克 Koreyasu Norikatsu 橋本学 Hashimoto Manabu_
 
 
 ## Audio and Video

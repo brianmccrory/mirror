@@ -6,7 +6,60 @@ tags = ["Tokuhiro Doi", "土井徳浩", "Akihiro Nishiguchi", "西口明宏", "Y
 categories = ["albums"]
 draft = false
 slug = "kunpei-nakabayashi-orchestra-circles"
+releaseYear = 2021
+releaseLabel = "KP-LAB"
+releaseCode = "KP-0001"
 issue = 312
+[[lineup]]
+  name = "Tokuhiro Doi"
+  slug = "tokuhiro-doi"
+  instrument = "alto sax, flute, clarinet"
+  japanese = "土井徳浩 Doi Tokuhiro"
+[[lineup]]
+  name = "Akihiro Nishiguchi"
+  slug = "akihiro-nishiguchi"
+  instrument = "tenor sax, flute"
+  japanese = "西口明宏 Nishiguchi Akihiro"
+[[lineup]]
+  name = "Yu Kuga"
+  slug = "yu-kuga"
+  instrument = "baritone sax"
+  japanese = "陸悠 Kuga Yu"
+[[lineup]]
+  name = "Miki Hirose"
+  slug = "miki-hirose"
+  instrument = "trumpet 1"
+  japanese = "広瀬未来 Hirose Miki"
+[[lineup]]
+  name = "Takuya Kuroda"
+  slug = "takuya-kuroda"
+  instrument = "trumpet 2"
+  japanese = "黒田卓也 Kuroda Takuya"
+[[lineup]]
+  name = "Hirotsugu Sakemoto"
+  slug = "hirotsugu-sakemoto"
+  instrument = "trombone 1"
+  japanese = "酒本廣継 Sakemoto Hirotsugu"
+[[lineup]]
+  name = "Shigetaka Ikemoto"
+  slug = "shigetaka-ikemoto"
+  instrument = "trombone 2"
+  japanese = "池本茂貴 Ikemoto Shigetaka"
+[[lineup]]
+  name = "Jun Miyakawa"
+  slug = "jun-miyakawa"
+  instrument = "piano"
+  japanese = "宮川純 Miyakawa Jun"
+[[lineup]]
+  name = "Kunpei Nakabayashi"
+  slug = "kunpei-nakabayashi"
+  instrument = "bass"
+  japanese = "中林薫平 Nakabayashi Kunpei"
+[[lineup]]
+  name = "Tomo Kanno"
+  slug = "tomo-kanno"
+  instrument = "drums"
+  japanese = "菅野知明 Kanno Tomo"
 related = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichihara-group-unity", "tokuhiro-doi-quartet-amalthea", "yoshihito-p-koizumi-by-coincidence", "miki-hirose-scratch", "koichi-sato-melancholy", "yasumasa-kumagai-last-resort", "hiro-kimura-quintet-folds"]
 [cover]
   image = "kunpei-nakabayashi-orchestra-circles-460.jpeg"
@@ -33,24 +86,6 @@ As a long-experienced bassist, Nakabayashi knows how to expertly deliver the ess
 \#5 “My Ship” (tracks #5 and 6 are switched on the CD jacket), the sole jazz standard, is a laidback cool-down interval. #6 “Evenfall” is a magnificently suspenseful journey guided by an extended flute solo. #7 “Nocturne” has an emotional, graceful Ellingtonian sound, and together with track #5 offers a restful period on a disc otherwise filled with engaging whirlwinds. Finally, #8 “R.B.” is a fun, loud jazz blues that builds with popping swing-dance energy. Here the humble leader, not one to hog the mic, at last takes his only bass solo on the album (likely invoking “R.B.”, or Ray Brown, the famous long-time bassist in the Oscar Peterson trio). Nakabayashi plays a great four choruses on four strings before the ensemble locks into a lively orchestrated fanfare, a perfect way to close this _Circle_.
 
 {{< figure src="L1270979-closeup-1200.jpeg" link="L1270979-closeup-1200.jpeg" >}}
-
-
-## Circles by Kunpei Nakabayashi Orchestra
-
--   [Tokuhiro Doi](/tags/tokuhiro-doi/) - alto sax, flute, clarinet
--   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, flute
--   [Yu Kuga](/tags/yu-kuga/) - baritone sax
--   [Miki Hirose](/tags/miki-hirose/) - trumpet 1
--   [Takuya Kuroda](/tags/takuya-kuroda/) - trumpet 2
--   [Hirotsugu Sakemoto](/tags/hirotsugu-sakemoto/) - trombone 1
--   [Shigetaka Ikemoto](/tags/shigetaka-ikemoto/) - trombone 2
--   [Jun Miyakawa](/tags/jun-miyakawa/) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
--   [Tomo Kanno](/tags/tomo-kanno/) - drums
-
-Released in 2021 on KP-LAB as KP-0001.
-
-_Japanese names: 土井徳浩 Doi Tokuhiro 西口明宏 Nishiguchi Akihiro 陸悠 Kuga Yu 広瀬未来 Hirose Miki 黒田卓也 Kuroda Takuya 酒本廣継 Sakemoto Hirotsugu 池本茂貴 Ikemoto Shigetaka 宮川純 Miyakawa Jun 中林薫平 Nakabayashi Kunpei 菅野知明 Kanno Tomo_
 
 
 ## Audio and Video

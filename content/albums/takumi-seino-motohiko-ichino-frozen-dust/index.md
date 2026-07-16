@@ -6,7 +6,20 @@ tags = ["Takumi Seino", "清野拓巳", "Motohiko Ichino", "市野元彦"]
 categories = ["albums"]
 draft = false
 slug = "takumi-seino-motohiko-ichino-frozen-dust"
+releaseYear = 2011
+releaseLabel = "Voice of Silence"
+releaseCode = "VOS-635"
 issue = 240
+[[lineup]]
+  name = "Takumi Seino"
+  slug = "takumi-seino"
+  instrument = "guitar"
+  japanese = "清野拓巳 Seino Takumi"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
 related = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
@@ -55,16 +68,6 @@ From the promotional material:
 As a final, perhaps trivial, note, there is a brief out-of-place moment near the end of “Frozen Dust” when somebody’s sneeze is audibly captured on the recording, forever embedded in the music for one second. This happy accident brings into focus the in-the-moment musical creation, as well as the intimate music venue where musicians and listeners gather closely to create and appreciate… not to mention adding a humorous momentary dimension to the title of the song itself.
 
 {{< figure src="L1240787x-1200.jpeg" link="L1240787x-1200.jpeg" >}}
-
-
-## Frozen Dust by Takumi Seino &amp; Motohiko Ichino
-
--   [Takumi Seino](/tags/takumi-seino/) - guitar
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
-
-Released in 2011 on Voice of Silence as VOS-635.
-
-_Japanese names: 清野拓巳 Seino Takumi 市野元彦 Ichino Motohiko_
 
 
 ## Audio and Video

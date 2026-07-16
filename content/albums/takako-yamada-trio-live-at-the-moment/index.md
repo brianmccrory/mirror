@@ -6,7 +6,25 @@ tags = ["Takako Yamada", "山田貴子", "Akiyoshi Shimizu", "清水昭好", "Ko
 categories = ["albums"]
 draft = false
 slug = "takako-yamada-trio-live-at-the-moment"
+releaseYear = 2024
+releaseLabel = "GoodNessPlus Records"
+releaseCode = "GNPR-1195"
 issue = 327
+[[lineup]]
+  name = "Takako Yamada"
+  slug = "takako-yamada"
+  instrument = "piano"
+  japanese = "山田貴子 Yamada Takako"
+[[lineup]]
+  name = "Akiyoshi Shimizu"
+  slug = "akiyoshi-shimizu"
+  instrument = "bass"
+  japanese = "清水昭好 Shimizu Akiyoshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums, tabla"
+  japanese = "大村亘 Omura Ko"
 related = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
 [cover]
   image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
@@ -46,17 +64,6 @@ A special album recorded with an audience who was invited to wear headphones and
 Takako Yamada Trio
 
 {{< figure src="L1290237x-1200.jpeg" link="L1290237x-1200.jpeg" >}}
-
-
-## Live at The Moment by Takako Yamada Trio
-
--   [Takako Yamada](/tags/takako-yamada/) - piano
--   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums, tabla
-
-Released in 2024 on GoodNessPlus Records as GNPR-1195.
-
-_Japanese names: 山田貴子 Yamada Takako 清水昭好 Shimizu Akiyoshi 大村亘 Omura Ko_
 
 
 ## Audio and Video

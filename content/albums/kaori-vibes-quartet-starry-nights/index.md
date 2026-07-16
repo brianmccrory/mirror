@@ -6,7 +6,30 @@ tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Y
 categories = ["albums"]
 draft = false
 slug = "kaori-vibes-quartet-starry-nights"
+releaseYear = 2021
+releaseLabel = "Urban Jazz"
+releaseCode = "151A-0027"
 issue = 210
+[[lineup]]
+  name = "Kaori Nakajima"
+  slug = "kaori-nakajima"
+  instrument = "vibraphone"
+  japanese = "中島香里 Nakajima Kaori"
+[[lineup]]
+  name = "Tamashi Goto"
+  slug = "tamashi-goto"
+  instrument = "piano"
+  japanese = "後藤魂 Goto Tamashi"
+[[lineup]]
+  name = "Minoru Yoshiki"
+  slug = "minoru-yoshiki"
+  instrument = "bass"
+  japanese = "吉木稔 Yoshiki Minoru"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
 related = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
 [cover]
   image = "kaori-vibes-quartet-starry-nights-460.jpeg"
@@ -74,18 +97,6 @@ My second album included the recording of “Cross Point”, a song written as s
 At the end of 2020, on the day before my birthday, my beloved grandfather passed away. He lived a full life to 96 years old. Whenever he opened his mouth it was to make jokes, and the neighborhood children, facility staff, and others were always filled with smiles around him. He was always a sunny person. While thinking about my grandfather I sat at the piano and reflected back on the incredibly fun memories, and with naturally happy and honest feelings I tried to write this song. I chose a title that symbolizes sunshine in the language of flowers.
 
 {{< figure src="L1240169x-1024.jpeg" link="L1240169x-1024.jpeg" >}}
-
-
-## Starry Nights by Kaori Vibes Quartet
-
--   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
--   [Tamashi Goto](/tags/tamashi-goto/) - piano
--   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
-
-Released in 2021 on Urban Jazz as 151A-0027.
-
-_Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
 
 
 ## Audio and Video

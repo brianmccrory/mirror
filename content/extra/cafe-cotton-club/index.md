@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "cafe-cotton-club"
+clubName = "Cafe Cotton Club"
+clubUrl = "https://www.cafecottonclub.com/"
+clubCity = "Tokyo"
+clubStation1 = "Takadanobaba"
+clubMap = "https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7"
 issue = 344
 [cover]
   image = "IMG_20251111_204631406_HDR-1200.jpeg"
@@ -104,12 +109,6 @@ Note 2: The calendar of events available on Cafe Cotton Club’s website may not
 {{< figure src="IMG_20160730_004652-1200.jpeg" caption="<span class=\"figure-number\">Figure 31: </span>Mexican pizza with jalapeno at Cafe Cotton Club (July 2016)" link="IMG_20160730_004652-1200.jpeg" >}}
 
 {{< figure src="IMG_20251111_193535599-1200.jpeg" caption="<span class=\"figure-number\">Figure 32: </span>Caprese salad at Cafe Cotton Club (November 2025)" link="IMG_20251111_193535599-1200.jpeg" >}}
-
-
-## Information
-
--   [Cafe Cotton Club’s website](https://www.cafecottonclub.com/)
--   [Located near Takadanobaba station in Tokyo, Japan](https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7)
 
 
 ## Links

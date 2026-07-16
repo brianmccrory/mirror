@@ -6,7 +6,20 @@ tags = ["Shinichi Kato", "加藤真一", "Taihei Asakawa", "浅川太平"]
 categories = ["albums"]
 draft = false
 slug = "shinichi-kato-bass-on-cinema"
+releaseYear = 2011
+releaseLabel = "Roving Spirits"
+releaseCode = "RKCJ-2048"
 issue = 83
+[[lineup]]
+  name = "Shinichi Kato"
+  slug = "shinichi-kato"
+  instrument = "bass"
+  japanese = "加藤真一 Kato Shinichi"
+[[lineup]]
+  name = "Taihei Asakawa"
+  slug = "taihei-asakawa"
+  instrument = "piano, synthesizers, arrangements"
+  japanese = "浅川太平 Asakawa Taihei"
 [cover]
   image = "shinichikato-bassoncinema-460.jpeg"
   alt = "Cover art of Bass on Cinema by Shinichi Kato"
@@ -28,16 +41,6 @@ Other album highlights include music from the Italian classic _Cinema Paradiso_ 
 {{< figure src="L1220548-1024.jpg" link="L1220548-1024.jpg" >}}
 
 {{< figure src="L1220550-1024.jpg" link="L1220550-1024.jpg" >}}
-
-
-## Bass on Cinema by Shinichi Kato
-
--   [Shinichi Kato](/tags/shinichi-kato/) - bass
--   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, synthesizers, arrangements
-
-Released in 2011 on Roving Spirits as RKCJ-2048.
-
-_Japanese names: 加藤真一 Kato Shinichi 浅川太平 Asakawa Taihei_
 
 
 ## Audio and Video

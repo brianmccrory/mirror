@@ -6,7 +6,25 @@ tags = ["Ayako Tsuchiya", "土屋絢子", "Kozue Tsukayama", "津嘉山梢", "Yu
 categories = ["albums"]
 draft = false
 slug = "koto-ha-to-shiro-o-matoeba"
+releaseYear = 2017
+releaseLabel = "KOTOHATO"
+releaseCode = "KTHT-0001"
 issue = 318
+[[lineup]]
+  name = "Ayako Tsuchiya"
+  slug = "ayako-tsuchiya"
+  instrument = "vocal"
+  japanese = "土屋絢子 Tsuchiya Ayako"
+[[lineup]]
+  name = "Kozue Tsukayama"
+  slug = "kozue-tsukayama"
+  instrument = "piano"
+  japanese = "津嘉山梢 Tsukayama Kozue"
+[[lineup]]
+  name = "Yuki Ito"
+  slug = "yuki-ito"
+  instrument = "bass"
+  japanese = "伊東佑季 Ito Yuki"
 related = ["yuki-ito-retattanni-no-mori"]
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
@@ -276,17 +294,6 @@ _Lyrics: Ayako Tsuchiya  Music: Kozue Tsukayama_
 > 消えた　太陽             the vanished sun
 
 {{< figure src="L1320359x-1200.jpeg" link="L1320359x-1200.jpeg" >}}
-
-
-## Shiro o Matoeba by Koto ha, To
-
--   [Ayako Tsuchiya](/tags/ayako-tsuchiya/) - vocal
--   [Kozue Tsukayama](/tags/kozue-tsukayama/) - piano
--   [Yuki Ito](/tags/yuki-ito/) - bass
-
-Released in 2017 on KOTOHATO as KTHT-0001.
-
-_Japanese names: 土屋絢子 Tsuchiya Ayako 津嘉山梢 Tsukayama Kozue 伊東佑季 Ito Yuki_
 
 
 ## Audio and Video

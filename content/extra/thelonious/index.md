@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "thelonious"
+clubName = "Thelonious"
+clubUrl = "https://thelonious-hp.jimdofree.com/"
+clubCity = "Tokyo"
+clubStation1 = "Higashi-nakano"
+clubStation2 = "Ochiai"
+clubMap = "https://maps.app.goo.gl/uwQm138qQ5RsMqDs6"
 issue = 310
 [cover]
   image = "IMG_20250303_200615544-1200.jpeg"
@@ -109,9 +115,3 @@ After the first three years, Thelonious moved to a second location nearby, opera
 {{< figure src="IMG_20240414_171219821_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 33: </span>Welcome to Thelonious (daytime)" link="IMG_20240414_171219821_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20250303_190553430-1200.jpeg" caption="<span class=\"figure-number\">Figure 34: </span>Welcome to Thelonious (nighttime)" link="IMG_20250303_190553430-1200.jpeg" >}}
-
-
-## Information
-
--   [Thelonious’s website](https://thelonious-hp.jimdofree.com/)
--   [Located near Higashi-nakano and Ochiai stations in Tokyo, Japan](https://maps.app.goo.gl/uwQm138qQ5RsMqDs6)

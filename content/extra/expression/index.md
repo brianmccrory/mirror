@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "expression"
+clubName = "Expression"
+clubUrl = "https://expression-jimbocho.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Jimbocho"
+clubMap = "https://maps.app.goo.gl/HmwL13C4zvh6fMMJ6"
 issue = 235
 [cover]
   image = "IMG_20240305_185004197_HDR-1200.jpeg"
@@ -42,9 +47,3 @@ At night, the jazz lessons are friendly and easy-going. Currently, attendance on
 As far as food and drinks go, it is still early days but there’s not much on offer. Similar to a hotel honor bar, the mini-kitchen offers canned drinks and snacks like potato chips, with payment made through a smartphone app or coin box. Evening guests are also welcome to bring their own provisions from nearby groceries or convenience stores.
 
 {{< figure src="IMG_20240227_185205233-1200.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Welcome to Expression" link="IMG_20240227_185205233-1200.jpeg" >}}
-
-
-## Information
-
--   [Expression’s website](https://expression-jimbocho.jp/)
--   [Located near Jimbocho station in Tokyo, Japan](https://maps.app.goo.gl/HmwL13C4zvh6fMMJ6)

@@ -6,7 +6,30 @@ tags = ["Mikiko Nagatake", "永武幹子", "Nami Kano", "加納奈実", "Ryoji O
 categories = ["albums"]
 draft = false
 slug = "jabuticaba-jabuticaba"
+releaseYear = 2021
+releaseLabel = "Owl Wing Record"
+releaseCode = "OWL-020"
 issue = 233
+[[lineup]]
+  name = "Mikiko Nagatake"
+  slug = "mikiko-nagatake"
+  instrument = "piano"
+  japanese = "永武幹子 Nagatake Mikiko"
+[[lineup]]
+  name = "Nami Kano"
+  slug = "nami-kano"
+  instrument = "saxophone"
+  japanese = "加納奈実 Kano Nami"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass (track #8)"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums (track #8)"
+  japanese = "吉良創太 Kira Sota"
 related = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "jabuticaba-jabuticaba-460.jpeg"
@@ -130,18 +153,6 @@ The fact that we were able to record in the turbulent year 2020 is also largely 
 _Jabuticaba  Mikiko Nagatake  Nami Kano_
 
 {{< figure src="IMG_20230414_121556486x-1024.jpeg" link="IMG_20230414_121556486x-1024.jpeg" >}}
-
-
-## Jabuticaba by Jabuticaba
-
--   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
--   [Nami Kano](/tags/nami-kano/) - saxophone
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass (track #8)
--   [Sota Kira](/tags/sota-kira/) - drums (track #8)
-
-Released in 2021 on Owl Wing Record as OWL-020.
-
-_Japanese names: 永武幹子 Nagatake Mikiko 加納奈実 Kano Nami 織原良次 Orihara Ryoji 吉良創太 Kira Sota_
 
 
 ## Audio and Video

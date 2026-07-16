@@ -6,7 +6,25 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-sympathy"
+releaseYear = 2013
+releaseLabel = "Meantone Records"
+releaseCode = "MT-004"
 issue = 76
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Yasuhiko “Hachi” Sato"
+  slug = "yasuhiko-hachi-sato"
+  instrument = "bass"
+  japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
 [cover]
   image = "hitominishiyama-sympathy-460.jpeg"
   alt = "Cover art of Sympathy by Hitomi Nishiyama Trio"
@@ -34,17 +52,6 @@ The presence of the fellow lyrical jazz pianist Bill Evans is also felt througho
 {{< figure src="L1210128-1024.jpg" link="L1210128-1024.jpg" >}}
 
 {{< figure src="L1110811-1024.jpg" link="L1110811-1024.jpg" >}}
-
-
-## Sympathy by Hitomi Nishiyama Trio
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
-
-Released in 2013 on Meantone Records as MT-004.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi_
 
 
 ## Audio and Video

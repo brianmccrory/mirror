@@ -6,7 +6,25 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Hitomi Nishiyama", "西山瞳", 
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life"
+releaseYear = 2019
+releaseLabel = "Daiki Musica D-neo"
+releaseCode = "DNCD-18"
 issue = 342
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin"
+  japanese = "マイコ maiko"
 related = ["daiki-yasukagawa-trio-trios-ii", "maiko-trio-live-three", "maiko-solo", "hitomi-nishiyama-vibrant", "daiki-yasukagawa-new-trio-three-roses", "hitomi-nishiyama-echo"]
 [cover]
   image = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life-460.jpeg"
@@ -27,17 +45,6 @@ There are eight original songs, four from Nishiyama and two each from Yasukagawa
 {{< figure src="L1250891x-1200.jpeg" link="L1250891x-1200.jpeg" >}}
 
 {{< figure src="L1340513x-1200.jpeg" link="L1340513x-1200.jpeg" >}}
-
-
-## The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko
-
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [maiko](/tags/maiko/) - violin
-
-Released in 2019 on Daiki Musica D-neo as DNCD-18.
-
-_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 西山瞳 Nishiyama Hitomi マイコ maiko_
 
 
 ## Audio and Video

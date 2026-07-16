@@ -6,6 +6,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "someday"
+clubName = "Someday"
+clubUrl = "http://someday.net/"
+clubCity = "Tokyo"
+clubStation1 = "Asakusa/Tawaramachi"
+clubStation2 = "Kuramae"
+clubMap = "https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7"
 issue = 275
 [cover]
   image = "IMG_2354-1200.jpeg"
@@ -31,9 +37,3 @@ Also, assuming that the name _Someday_ is a reference to the popular jazz standa
 _Note: Someday moved from its previous Shinjuku-Sanchome location in Jan 2025. Someday is now located near Asakusa._
 
 {{< figure src="IMG_0046-1200.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Welcome to Someday" link="IMG_0046-1200.jpeg" >}}
-
-
-## Information
-
--   [Someday’s website](http://someday.net/)
--   [Located near Asakusa/Tawaramachi and Kuramae stations in Tokyo, Japan](https://maps.app.goo.gl/1W2aQhvWZEBgwjwD7)

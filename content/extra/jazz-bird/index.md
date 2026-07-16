@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "jazz-bird"
+clubName = "Jazz Bird"
+clubUrl = "https://jazzbird.tokyo/"
+clubCity = "Tokyo"
+clubStation1 = "Omotesando"
+clubMap = "https://goo.gl/maps/GybUU9a26G3xPFpFA"
 issue = 188
 [cover]
   image = "P1060849-1024.jpeg"
@@ -22,9 +27,3 @@ As the sign describes, “Cocktails, dinner, and standard jazz live” is what y
 With three- and four-piece groups playing standard jazz most nights of the week, this jazz bar delivers a nice jazz hideaway atmosphere with easy access to the station and an open jazz jam on selected Sundays.
 
 {{< figure src="IMG_20230410_220859267-1024.jpeg" link="IMG_20230410_220859267-1024.jpeg" >}}
-
-
-## Information
-
--   [Jazz Bird’s website](https://jazzbird.tokyo/)
--   [Located near Omotesando station in Tokyo, Japan](https://goo.gl/maps/GybUU9a26G3xPFpFA)

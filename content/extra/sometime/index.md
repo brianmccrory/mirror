@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "sometime"
+clubName = "Sometime"
+clubUrl = "https://www.sometime.co.jp/sometime/"
+clubCity = "Tokyo"
+clubStation1 = "Kichijoji"
+clubMap = "https://maps.app.goo.gl/6o4VFztnHDWpVZGa9"
 issue = 209
 [cover]
   image = "L1030851-1024.jpeg"
@@ -36,9 +41,3 @@ Sunday afternoon shows are easy to love, and on occasion, lucky, early-arriving 
 One last note: While the name _Sometime_ is short and sweet, there are other similarly-named clubs in Tokyo (like _Someday_, _Somethin’_, and others), so it’s always a good idea to double-check that you are headed to the right place.
 
 {{< figure src="IMG_0426-1024.jpeg" caption="<span class=\"figure-number\">Figure 3: </span>Welcome to Sometime" link="IMG_0426-1024.jpeg" >}}
-
-
-## Information
-
--   [Sometime’s website](https://www.sometime.co.jp/sometime/)
--   [Located near Kichijoji station in Tokyo, Japan](https://maps.app.goo.gl/6o4VFztnHDWpVZGa9)

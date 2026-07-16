@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "apple-jump"
+clubName = "Apple Jump"
+clubUrl = "http://applejump.net/"
+clubCity = "Tokyo"
+clubStation1 = "Ikebukuro"
+clubMap = "https://maps.app.goo.gl/QKkb15TfxoM5VK4S6"
 issue = 264
 [cover]
   image = "L1030595x-1200.jpeg"
@@ -74,9 +79,3 @@ From Ikebukuro station, Apple Jump is about 10 minutes by foot from the west exi
 {{< figure src="IMG_20150826_201302-1200.jpeg" caption="<span class=\"figure-number\">Figure 19: </span>Handmade pizza at Apple Jump" link="IMG_20150826_201302-1200.jpeg" >}}
 
 {{< figure src="IMG_20240324_190943655_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 20: </span>Welcome to Apple Jump" link="IMG_20240324_190943655_HDR-1200.jpeg" >}}
-
-
-## Information
-
--   [Apple Jump’s website](http://applejump.net/)
--   [Located near Ikebukuro station in Tokyo, Japan](https://maps.app.goo.gl/QKkb15TfxoM5VK4S6)

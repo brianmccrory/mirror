@@ -6,7 +6,29 @@ tags = ["MIWO", "Mamoru Ishida", "石田衛", "Daiki Yasukagawa", "安ヵ川大�
 categories = ["albums"]
 draft = false
 slug = "miwo-tranquillo"
+releaseYear = 2020
+releaseLabel = "Musica Fortunata"
+releaseCode = "MF-001"
 issue = 247
+[[lineup]]
+  name = "MIWO"
+  slug = "miwo"
+  instrument = "vocal"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Daiki Yasukagawa"
+  slug = "daiki-yasukagawa"
+  instrument = "bass"
+  japanese = "安ヵ川大樹 Yasukagawa Daiki"
+[[lineup]]
+  name = "Akira Sekine"
+  slug = "akira-sekine"
+  instrument = "guitar"
+  japanese = "関根彰良 Sekine Akira"
 [cover]
   image = "miwo-tranquillo-460.jpeg"
   alt = "Cover art of Tranquillo by Miwo"
@@ -57,18 +79,6 @@ MIWO’s voice certainly possesses that beautiful qualification. This album’s 
 _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calendar)_
 
 {{< figure src="L1240831x-1200.jpeg" link="L1240831x-1200.jpeg" >}}
-
-
-## Tranquillo by Miwo
-
--   [MIWO](/tags/miwo/) - vocal
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
--   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
--   [Akira Sekine](/tags/akira-sekine/) - guitar
-
-Released in 2020 on Musica Fortunata as MF-001.
-
-_Japanese names: 石田衛 Ishida Mamoru 安ヵ川大樹 Yasukagawa Daiki 関根彰良 Sekine Akira_
 
 
 ## Audio and Video

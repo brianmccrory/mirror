@@ -6,7 +6,45 @@ tags = ["Nami Kano", "加納奈実", "Tomokazu Sugimoto", "杉本智和", "Mamor
 categories = ["albums"]
 draft = false
 slug = "nami-kano-mawsim"
+releaseYear = 2024
+releaseLabel = "Wave Records"
+releaseCode = "WR-001"
 issue = 234
+[[lineup]]
+  name = "Nami Kano"
+  slug = "nami-kano"
+  instrument = "alto/soprano saxophone, flute, duduk, chorus"
+  japanese = "加納奈実 Kano Nami"
+[[lineup]]
+  name = "Tomokazu Sugimoto"
+  slug = "tomokazu-sugimoto"
+  instrument = "basses, arrangement, programming, co-producer"
+  japanese = "杉本智和 Sugimoto Tomokazu"
+[[lineup]]
+  name = "Mamoru Ishida"
+  slug = "mamoru-ishida"
+  instrument = "piano, Rhodes, keyboard"
+  japanese = "石田衛 Ishida Mamoru"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums, percussion"
+  japanese = "吉良創太 Kira Sota"
+[[lineup]]
+  name = "maiko"
+  slug = "maiko"
+  instrument = "violin (tracks 2, 5)"
+  japanese = "マイコ maiko"
+[[lineup]]
+  name = "Orie Hirayama"
+  slug = "orie-hirayama"
+  instrument = "cello (tracks 2, 5)"
+  japanese = "平山織絵 Hirayama Orie"
+[[lineup]]
+  name = "Shoko Mochiyama"
+  slug = "shoko-mochiyama"
+  instrument = "strings arrangement (tracks 2, 5)"
+  japanese = "持山翔子 Mochiyama Shoko"
 related = ["jabuticaba-jabuticaba"]
 [cover]
   image = "nami-kano-mawsim-460.jpeg"
@@ -49,21 +87,6 @@ Suddenly, the modern world emerges with electric rhythms halfway in, something l
 As for the name _mawsim_ (_season_), Kano explained that in certain places the group name and album title are stylized in lowercase for fun aesthetic reasons: In cursive, the writing of 𝓂𝒶𝓌𝓈𝒾𝓂 resembles and gives the feeling of waves, and in Japanese, “wave” is _nami_ 波, which has the same sound as Kano’s first name _Nami_ 奈実.
 
 {{< figure src="flyer-1200.jpeg" link="flyer-1200.jpeg" >}}
-
-
-## Mawsim by Nami Kano
-
--   [Nami Kano](/tags/nami-kano/) - alto/soprano saxophone, flute, duduk, chorus
--   [Tomokazu Sugimoto](/tags/tomokazu-sugimoto/) - basses, arrangement, programming, co-producer
--   [Mamoru Ishida](/tags/mamoru-ishida/) - piano, Rhodes, keyboard
--   [Sota Kira](/tags/sota-kira/) - drums, percussion
--   [maiko](/tags/maiko/) - violin (tracks 2, 5)
--   [Orie Hirayama](/tags/orie-hirayama/) - cello (tracks 2, 5)
--   [Shoko Mochiyama](/tags/shoko-mochiyama/) - strings arrangement (tracks 2, 5)
-
-Released in 2024 on Wave Records as WR-001.
-
-_Japanese names: 加納奈実 Kano Nami 杉本智和 Sugimoto Tomokazu 石田衛 Ishida Mamoru 吉良創太 Kira Sota マイコ maiko 平山織絵 Hirayama Orie 持山翔子 Mochiyama Shoko_
 
 
 ## Audio and Video

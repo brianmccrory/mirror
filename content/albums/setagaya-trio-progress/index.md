@@ -6,7 +6,25 @@ tags = ["Yusei Takahashi", "高橋佑成", "Keigo Iwami", "岩見継吾", "Sota 
 categories = ["albums"]
 draft = false
 slug = "setagaya-trio-progress"
+releaseYear = 2024
+releaseLabel = "Setagaya Trio"
+releaseCode = "Progress"
 issue = 309
+[[lineup]]
+  name = "Yusei Takahashi"
+  slug = "yusei-takahashi"
+  instrument = "piano"
+  japanese = "高橋佑成 Takahashi Yusei"
+[[lineup]]
+  name = "Keigo Iwami"
+  slug = "keigo-iwami"
+  instrument = "bass"
+  japanese = "岩見継吾 Iwami Keigo"
+[[lineup]]
+  name = "Sota Kira"
+  slug = "sota-kira"
+  instrument = "drums"
+  japanese = "吉良創太 Kira Sota"
 related = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-fukui-trio-nova-manha", "ami-fukui-trio-mcy", "nami-kano-mawsim"]
 [cover]
   image = "setagaya-trio-progress-460.jpeg"
@@ -44,17 +62,6 @@ There is no musical leader, and their style is characterized by the free express
 They released their first album _Introducing Setagaya Trio_ in 2017, which was featured on NHK-FM’s “Jazz Tonight” program. Currently, in addition to performing at jazz clubs centered around the Tokyo metropolitan area, they are expanding the scope of their activities, including musical support for hip-hop producer STUTS.
 
 {{< figure src="L1280792x-1200.jpeg" link="L1280792x-1200.jpeg" >}}
-
-
-## Progress by Setagaya Trio
-
--   [Yusei Takahashi](/tags/yusei-takahashi/) - piano
--   [Keigo Iwami](/tags/keigo-iwami/) - bass
--   [Sota Kira](/tags/sota-kira/) - drums
-
-Released in 2024 on Setagaya Trio as Progress.
-
-_Japanese names: 高橋佑成 Takahashi Yusei 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
 
 
 ## Audio and Video

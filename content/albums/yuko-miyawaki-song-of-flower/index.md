@@ -6,7 +6,40 @@ tags = ["Yuko Miyawaki", "宮脇裕子", "Yutaka Handa", "伴田裕", "Taeko Kur
 categories = ["albums"]
 draft = false
 slug = "yuko-miyawaki-song-of-flower"
+releaseYear = 2011
+releaseLabel = "Coume Music"
+releaseCode = "DQC-614"
 issue = 111
+[[lineup]]
+  name = "Yuko Miyawaki"
+  slug = "yuko-miyawaki"
+  instrument = "trumpet, flugelhorn"
+  japanese = "宮脇裕子 Miyawaki Yuko"
+[[lineup]]
+  name = "Yutaka Handa"
+  slug = "yutaka-handa"
+  instrument = "tenor sax"
+  japanese = "伴田裕 Handa Yutaka"
+[[lineup]]
+  name = "Taeko Kurita"
+  slug = "taeko-kurita"
+  instrument = "piano"
+  japanese = "栗田妙子 Kurita Taeko"
+[[lineup]]
+  name = "Yutaka Kaido"
+  slug = "yutaka-kaido"
+  instrument = "bass"
+  japanese = "カイドーユタカ Kaido Yutaka"
+[[lineup]]
+  name = "Masashi Tomikawa"
+  slug = "masashi-tomikawa"
+  instrument = "drums"
+  japanese = "冨川政嗣 Tomikawa Masashi"
+[[lineup]]
+  name = "Junichiro Ohkuchi"
+  slug = "junichiro-ohkuchi"
+  instrument = "piano (tr. #3, 5, 6, 8, 9)"
+  japanese = "大口純一郎 Ohkuchi Junichiro"
 [cover]
   image = "yukomiyawaki-songof-460.jpeg"
   alt = "Cover art of Song of Flower by Yuko Miyawaki"
@@ -26,20 +59,6 @@ In addition to her compelling horn playing, Miyawaki’s contributions also incl
 {{< figure src="L1200342-1024.jpg" link="L1200342-1024.jpg" >}}
 
 {{< figure src="L1110816-1024.jpg" link="L1110816-1024.jpg" >}}
-
-
-## Song of Flower by Yuko Miyawaki
-
--   [Yuko Miyawaki](/tags/yuko-miyawaki/) - trumpet, flugelhorn
--   [Yutaka Handa](/tags/yutaka-handa/) - tenor sax
--   [Taeko Kurita](/tags/taeko-kurita/) - piano
--   [Yutaka Kaido](/tags/yutaka-kaido/) - bass
--   [Masashi Tomikawa](/tags/masashi-tomikawa/) - drums
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (tr. #3, 5, 6, 8, 9)
-
-Released in 2011 on Coume Music as DQC-614.
-
-_Japanese names: 宮脇裕子 Miyawaki Yuko 伴田裕 Handa Yutaka 栗田妙子 Kurita Taeko カイドーユタカ Kaido Yutaka 冨川政嗣 Tomikawa Masashi 大口純一郎 Ohkuchi Junichiro_
 
 
 ## Audio and Video

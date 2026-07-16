@@ -6,7 +6,30 @@ tags = ["Yuta Ikedo", "池戸祐太", "Ko Omura", "大村亘", "Keisuke Furuki",
 categories = ["albums"]
 draft = false
 slug = "fe-live-at-virtuoso"
+releaseYear = 2021
+releaseLabel = "Virtuoso"
+releaseCode = "VTS-006"
 issue = 301
+[[lineup]]
+  name = "Yuta Ikedo"
+  slug = "yuta-ikedo"
+  instrument = "guitar"
+  japanese = "池戸祐太 Ikedo Yuta"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
+[[lineup]]
+  name = "Keisuke Furuki"
+  slug = "keisuke-furuki"
+  instrument = "bass"
+  japanese = "古木佳祐 Furuki Keisuke"
+[[lineup]]
+  name = "Shinobu Ishizaki"
+  slug = "shinobu-ishizaki"
+  instrument = "saxophone"
+  japanese = "石崎忍 Ishizaki Shinobu"
 related = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 [cover]
   image = "fe-live-at-virtuoso-460.jpeg"
@@ -39,18 +62,6 @@ The songs on _Live at Asakusa_ are original compositions by co-leaders Ikedo and
 \#1 “Invisible Essence” (Ikedo) is energetic and bright (the audio for this track is available in the live recorded video included below). #2 “Flow of the Circumference” (Ikedo) leans towards a lush fusion sound through an adventurous circuit. #3 “Sheepwash” (Omura) is comfortably warm, memorable, and unique. #4 “Flux” (Ikedo) has irresistible angles with openness and a drum solo by Omura over a final vamp. #5 “Ebb and Flow” (Omura) sways sweetly like a hammock nap on a ship at sea before threatening waves appear with Ishizaki’s roiling sax. The subtle asymmetry of #6 “GMM” (Ikedo) constructs a fascinating portrait dedicated to Ikedo’s grandmother Misao-san and serves as the perfect magnum opus of the album, along with the initially placid but increasingly intense scenes of #7 “Irreversible” (Ikedo), a song inspired by the harrowing Gaspar Noé movie.
 
 {{< figure src="L1280692x-1200.jpeg" link="L1280692x-1200.jpeg" >}}
-
-
-## Live at Virtuoso by Fe
-
--   [Yuta Ikedo](/tags/yuta-ikedo/) - guitar
--   [Ko Omura](/tags/ko-omura/) - drums
--   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
--   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - saxophone
-
-Released in 2021 on Virtuoso as VTS-006.
-
-_Japanese names: 池戸祐太 Ikedo Yuta 大村亘 Omura Ko 古木佳祐 Furuki Keisuke 石崎忍 Ishizaki Shinobu_
 
 
 ## Audio and Video

@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "kohaku"
+clubName = "Kohaku"
+clubUrl = "https://www.udagawacafe.com/kohaku/"
+clubCity = "Tokyo"
+clubStation1 = "Shibuya"
+clubMap = "https://maps.app.goo.gl/g19TLVLQaXmHF3RX9"
 issue = 224
 [cover]
   image = "IMG_20230405_200313739-1024.jpeg"
@@ -30,9 +35,3 @@ Battling the party atmosphere that may carry in from the environment, a good rem
 Kohaku’s menu lists beers, whisky, custom sangria drinks, and original blend coffee that is a nod to the space’s former cafe business using Udagawa coffee beans. For those split between caffeine and alcohol, there is a tempting homemade coffee shochu on the menu. There are also some food offerings, including a special year-round _oden_ set.
 
 {{< figure src="IMG_20230405_195654613x-1024.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Welcome to Kohaku" link="IMG_20230405_195654613x-1024.jpeg" >}}
-
-
-## Information
-
--   [Kohaku’s website](https://www.udagawacafe.com/kohaku/)
--   [Located near Shibuya station in Tokyo, Japan](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9)

@@ -6,7 +6,30 @@ tags = ["Yuji Ito", "伊藤勇司", "Koichi Hirata", "平田晃一", "Kosuke Min
 categories = ["albums"]
 draft = false
 slug = "yuji-ito-koichi-hirata-duo-two-for-the-road"
+releaseYear = 2024
+releaseLabel = "NONET"
+releaseCode = "NONET-3"
 issue = 321
+[[lineup]]
+  name = "Yuji Ito"
+  slug = "yuji-ito"
+  instrument = "bass"
+  japanese = "伊藤勇司 Ito Yuji"
+[[lineup]]
+  name = "Koichi Hirata"
+  slug = "koichi-hirata"
+  instrument = "guitar"
+  japanese = "平田晃一 Hirata Koichi"
+[[lineup]]
+  name = "Kosuke Mine"
+  slug = "kosuke-mine"
+  instrument = "tenor sax (tracks #5, 9)"
+  japanese = "峰厚介 Mine Kosuke"
+[[lineup]]
+  name = "Yusuke Yaginuma"
+  slug = "yusuke-yaginuma"
+  instrument = "drums (tracks #4, 5)"
+  japanese = "柳沼佑育 Yaginuma Yusuke"
 related = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
@@ -41,18 +64,6 @@ The duo stays close to the original compositions in their play-through, honoring
 In general, there’s a happy, relaxed feel that runs through the tracks. Three songs are played as sentimental ballads (#1, 6, 9) or comfortably subdued moments and mid-tempo swinging sessions on the majority of the songs. The two tracks with sax, #5 “Wilton’s Mood” and the album closer #9 “My One and Only Love”, are played with energetic verve and romantic tenderness, respectively.
 
 {{< figure src="L1310558x-1200.jpeg" link="L1310558x-1200.jpeg" >}}
-
-
-## Two for the Road by Yuji Ito &amp; Koichi Hirata Duo
-
--   [Yuji Ito](/tags/yuji-ito/) - bass
--   [Koichi Hirata](/tags/koichi-hirata/) - guitar
--   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (tracks #5, 9)
--   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums (tracks #4, 5)
-
-Released in 2024 on NONET as NONET-3.
-
-_Japanese names: 伊藤勇司 Ito Yuji 平田晃一 Hirata Koichi 峰厚介 Mine Kosuke 柳沼佑育 Yaginuma Yusuke_
 
 
 ## Audio and Video

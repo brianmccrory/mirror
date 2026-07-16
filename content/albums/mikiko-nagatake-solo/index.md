@@ -6,7 +6,15 @@ tags = ["Mikiko Nagatake", "永武幹子"]
 categories = ["albums"]
 draft = false
 slug = "mikiko-nagatake-solo"
+releaseYear = 2022
+releaseLabel = "Owl Wing Record"
+releaseCode = "OWR-044"
 issue = 205
+[[lineup]]
+  name = "Mikiko Nagatake"
+  slug = "mikiko-nagatake"
+  instrument = "piano"
+  japanese = "永武幹子 Nagatake Mikiko"
 related = ["tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "mikiko-nagatake-solo-460.jpeg"
@@ -52,15 +60,6 @@ In this way, I have selected standard songs with a high degree of freedom for th
 This album was recorded on solo piano in a one-room studio, and I’m extremely grateful for the care and attention from engineer Morishita and the label’s Aratake and Komori, who graciously arranged for me quiet recording conditions allowing for concentration. Thank you very much. Whether for one listener or to many, I hope this album reaches you.
 
 {{< figure src="L1230367x-1024.jpeg" link="L1230367x-1024.jpeg" >}}
-
-
-## Solo by Mikiko Nagatake
-
--   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
-
-Released in 2022 on Owl Wing Record as OWR-044.
-
-_Japanese names: 永武幹子 Nagatake Mikiko_
 
 
 ## Audio and Video

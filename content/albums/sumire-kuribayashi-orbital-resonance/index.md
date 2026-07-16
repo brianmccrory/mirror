@@ -6,7 +6,30 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Motohiko Ichino", "市野元�
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-orbital-resonance"
+releaseYear = 2025
+releaseLabel = "Somethin’ Cool"
+releaseCode = "SCOL-1078"
 issue = 349
+[[lineup]]
+  name = "Sumire Kuribayashi"
+  slug = "sumire-kuribayashi"
+  instrument = "piano"
+  japanese = "栗林すみれ Kuribayashi Sumire"
+[[lineup]]
+  name = "Motohiko Ichino"
+  slug = "motohiko-ichino"
+  instrument = "guitar"
+  japanese = "市野元彦 Ichino Motohiko"
+[[lineup]]
+  name = "Kyrie Anderson"
+  slug = "kyrie-anderson"
+  instrument = "drums"
+  japanese = "キリー・アンダーソン Anderson Kyrie"
+[[lineup]]
+  name = "Niran Dasika"
+  slug = "niran-dasika"
+  instrument = "trumpet (#4, 5, 7)"
+  japanese = "ニラン・ダシカ Dasika Niran"
 related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
@@ -43,18 +66,6 @@ An emotional hue colors the album, with colors ranging from ethereal and gentle 
 This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _Orbital Resonance_ also marked a special anniversary for the pianist, as it has been a full decade since her debut album [_Toys_](/sumire-kuribayashi-trio-toys/) (2014) came out. This CD was [released in September 2025](https://diskunion.net/jazz/ct/news/article/1/133753), and an LP release of _Orbital Resonance_ is planned to be [released in May 2026](https://diskunion.net/jazz/ct/detail/1009180133). More information on this album can be found at [_Orbital Resonance_ album/streaming links](https://scol.lnk.to/1078) and the [Sumire Kuribayashi Online Shop](https://sumirepiano.thebase.in/).
 
 {{< figure src="L1340614x-1200.jpeg" link="L1340614x-1200.jpeg" >}}
-
-
-## Orbital Resonance by Sumire Kuribayashi
-
--   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
--   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
--   [Kyrie Anderson](/tags/kyrie-anderson/) - drums
--   [Niran Dasika](/tags/niran-dasika/) - trumpet (#4, 5, 7)
-
-Released in 2025 on Somethin’ Cool as SCOL-1078.
-
-_Japanese names: 栗林すみれ Kuribayashi Sumire 市野元彦 Ichino Motohiko キリー・アンダーソン Anderson Kyrie ニラン・ダシカ Dasika Niran_
 
 
 ## Audio and Video

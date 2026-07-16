@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "no-room-for-squares"
+clubName = "No Room for Squares"
+clubUrl = "https://www.nrfsbar.com/"
+clubCity = "Tokyo"
+clubStation1 = "Shimo-kitazawa"
+clubMap = "https://maps.app.goo.gl/ARoF5s7kJ4kRb2v89"
 issue = 204
 [cover]
   image = "IMG_20230325_233326128-1024.jpeg"
@@ -32,9 +37,3 @@ Another sign of the creative effort put forth by No Room for Squares, the bar al
 {{< figure src="IMG_20230325_185930891x-1024.jpeg" caption="<span class=\"figure-number\">Figure 4: </span>Welcome" link="IMG_20230325_185930891x-1024.jpeg" >}}
 
 {{< figure src="IMG_20230325_190051950-1024.jpeg" caption="<span class=\"figure-number\">Figure 5: </span>Drink Coca-Cola in bottles" link="IMG_20230325_190051950-1024.jpeg" >}}
-
-
-## Information
-
--   [No Room for Squares’s website](https://www.nrfsbar.com/)
--   [Located near Shimo-kitazawa station in Tokyo, Japan](https://maps.app.goo.gl/ARoF5s7kJ4kRb2v89)

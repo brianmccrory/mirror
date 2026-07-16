@@ -1,10 +1,14 @@
 +++
 title = "Indexes"
-author = ["Brian"]
+author = ["Brian McCrory"]
+description = "Albums, musicians, and articles discussed on Jazz of Japan"
 publishDate = 2018-01-25
-tags = ["resources"]
+lastmod = 2026-07-16
+tags = [""]
 categories = ["resources"]
 draft = false
+slug = "indexes"
+issue = 1002
 +++
 
 <a href="#albums">Albums (299)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (375)</a>
@@ -1654,7 +1658,7 @@ _Chronological sitemap with links to articles_
 -   [Akane Matsumoto: _Night &amp; Day_](/akane-matsumoto-night-and-day/)
 -   [Kazumi Ikenaga: _Niwatazumi_](/kazumi-ikenaga-niwatazumi/)
 -   [Audio](/audio/) i
--   [Index](/index/) i
+-   [Indexes](/indexes/) i
 -   [About Jazz of Japan](/about/) i
 
 ---

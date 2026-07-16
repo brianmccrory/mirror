@@ -6,7 +6,35 @@ tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "H
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-group-move-on"
+releaseYear = 2010
+releaseLabel = "After Beat"
+releaseCode = "PCCY-30157"
 issue = 75
+[[lineup]]
+  name = "Hikari Ichihara"
+  slug = "hikari-ichihara"
+  instrument = "trumpet, flugelhorn"
+  japanese = "市原ひかり Ichihara Hikari"
+[[lineup]]
+  name = "Ryosuke Asai"
+  slug = "ryosuke-asai"
+  instrument = "alto sax"
+  japanese = "浅井良将 Asai Ryosuke"
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
+[[lineup]]
+  name = "Kunpei Nakabayashi"
+  slug = "kunpei-nakabayashi"
+  instrument = "bass"
+  japanese = "中林薫平 Nakabayashi Kunpei"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
 [cover]
   image = "hikariichihara-moveon-460.jpeg"
   alt = "Cover art of Move On by Hikari Ichihara Group"
@@ -28,19 +56,6 @@ Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspirat
 {{< figure src="L1200521-1024.jpg" link="L1200521-1024.jpg" >}}
 
 {{< figure src="L1110588-1024.jpg" link="L1110588-1024.jpg" >}}
-
-
-## Move On by Hikari Ichihara Group
-
--   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
--   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
-
-Released in 2010 on After Beat as PCCY-30157.
-
-_Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
 
 
 ## Audio and Video

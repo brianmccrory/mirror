@@ -6,7 +6,30 @@ tags = ["Shinji Miyazaki", "宮崎真司", "Natsuki Tamura", "田村夏樹", "Ta
 categories = ["albums"]
 draft = false
 slug = "ghost-peak-goat-on-a-peak"
+releaseYear = 2023
+releaseLabel = "Stereo Equipment Music Works"
+releaseCode = "SEMW-04"
 issue = 296
+[[lineup]]
+  name = "Shinji Miyazaki"
+  slug = "shinji-miyazaki"
+  instrument = "guitar"
+  japanese = "宮崎真司 Miyazaki Shinji"
+[[lineup]]
+  name = "Natsuki Tamura"
+  slug = "natsuki-tamura"
+  instrument = "trumpet"
+  japanese = "田村夏樹 Tamura Natsuki"
+[[lineup]]
+  name = "Taeko Kurita"
+  slug = "taeko-kurita"
+  instrument = "piano"
+  japanese = "栗田妙子 Kurita Taeko"
+[[lineup]]
+  name = "Hiroaki Mizutani"
+  slug = "hiroaki-mizutani"
+  instrument = "bass"
+  japanese = "水谷浩章 Mizutani Hiroaki"
 related = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
@@ -33,18 +56,6 @@ Yet, there are musical ideas or basic structures to each track that are usually 
 Here are some too-brief glances at the overall album flow: The thirty-seven minutes travel through the gentle prettiness and swelling up of #1 “Summer Days”, the step-stair theme and intensity of #2 “A Goat Climbs a Peak”, the zany madness and flights of fancy on #3 “Unwritten Law”, the beautiful mess of soundscapes of #4 “Gone”, and the quiet serenity of #5 “The Nebulous Crowd (Ghost Peak Suite Part 4)”.
 
 {{< figure src="L1270667x-1200.jpeg" link="L1270667x-1200.jpeg" >}}
-
-
-## The Goat on a Peak by Ghost Peak
-
--   [Shinji Miyazaki](/tags/shinji-miyazaki/) - guitar
--   [Natsuki Tamura](/tags/natsuki-tamura/) - trumpet
--   [Taeko Kurita](/tags/taeko-kurita/) - piano
--   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
-
-Released in 2023 on Stereo Equipment Music Works as SEMW-04.
-
-_Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田妙子 Kurita Taeko 水谷浩章 Mizutani Hiroaki_
 
 
 ## Audio and Video

@@ -6,7 +6,30 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Yoshiaki Sato", "佐藤芳明", "Mas
 categories = ["albums"]
 draft = false
 slug = "clepsydra-un-jour"
+releaseYear = 2011
+releaseLabel = "Casnet Music"
+releaseCode = "CSNT-8006"
 issue = 265
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "tenor sax, soprano sax"
+  japanese = "井上淑彦 Inoue Toshihiko"
+[[lineup]]
+  name = "Yoshiaki Sato"
+  slug = "yoshiaki-sato"
+  instrument = "accordion, clavietta, chorus"
+  japanese = "佐藤芳明 Sato Yoshiaki"
+[[lineup]]
+  name = "Masaki Hayashi"
+  slug = "masaki-hayashi"
+  instrument = "piano, chorus"
+  japanese = "林正樹 Hayashi Masaki"
+[[lineup]]
+  name = "Saori Sendo"
+  slug = "saori-sendo"
+  instrument = "percussion, glockenspiel, chorus"
+  japanese = "仙道さおり Sendo Saori"
 related = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
 [cover]
   image = "clepsydra-un-jour-460.jpeg"
@@ -56,18 +79,6 @@ The first album from Toshihiko Inoue’s “Clepsydra”.
 (_...Sadly, saxophonist Toshihiko Inoue passed away far too soon in 2015. I was lucky enough to be able to hear him live numerous times. In fact, Inoue played at some of the first live jazz concerts I ever attended in Japan and imprinted on me an indelible impression of his music and of jazz in Japan. I am deeply grateful to have been not only his fan but also his friend._)
 
 {{< figure src="IMG_20231011_165841096x-1200.jpeg" link="IMG_20231011_165841096x-1200.jpeg" >}}
-
-
-## Un Jour by Clepsydra
-
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - tenor sax, soprano sax
--   [Yoshiaki Sato](/tags/yoshiaki-sato/) - accordion, clavietta, chorus
--   [Masaki Hayashi](/tags/masaki-hayashi/) - piano, chorus
--   [Saori Sendo](/tags/saori-sendo/) - percussion, glockenspiel, chorus
-
-Released in 2011 on Casnet Music as CSNT-8006.
-
-_Japanese names: 井上淑彦 Inoue Toshihiko 佐藤芳明 Sato Yoshiaki 林正樹 Hayashi Masaki 仙道さおり Sendo Saori_
 
 
 ## Audio and Video

@@ -6,7 +6,35 @@ tags = ["Nanami Haruta", "治田七海", "Akihiro Yoshimoto", "吉本章紘", "M
 categories = ["albums"]
 draft = false
 slug = "nanami-haruta-ii"
+releaseYear = 2022
+releaseLabel = "Media Stylist"
+releaseCode = "MSC-9020"
 issue = 213
+[[lineup]]
+  name = "Nanami Haruta"
+  slug = "nanami-haruta"
+  instrument = "trombone"
+  japanese = "治田七海 Haruta Nanami"
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "saxophone"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Takumi Awaya"
+  slug = "takumi-awaya"
+  instrument = "bass"
+  japanese = "粟谷巧 Awaya Takumi"
+[[lineup]]
+  name = "Shun Ishiwaka"
+  slug = "shun-ishiwaka"
+  instrument = "drums"
+  japanese = "石若駿 Ishiwaka Shun"
 related = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "nanami-haruta-ii-460.jpeg"
@@ -62,19 +90,6 @@ This album was brought about through Nanami Haruta’s gathering of the best mus
 Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 
 {{< figure src="L1240188x-1200.jpeg" link="L1240188x-1200.jpeg" >}}
-
-
-## II by Nanami Haruta
-
--   [Nanami Haruta](/tags/nanami-haruta/) - trombone
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Takumi Awaya](/tags/takumi-awaya/) - bass
--   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
-
-Released in 2022 on Media Stylist as MSC-9020.
-
-_Japanese names: 治田七海 Haruta Nanami 吉本章紘 Yoshimoto Akihiro 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 石若駿 Ishiwaka Shun_
 
 
 ## Audio and Video

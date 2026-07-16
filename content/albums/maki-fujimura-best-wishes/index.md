@@ -6,7 +6,20 @@ tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 slug = "maki-fujimura-best-wishes"
+releaseYear = 2013
+releaseLabel = "Maki Fujimura"
+releaseCode = "MAKI.TV-0001"
 issue = 66
+[[lineup]]
+  name = "Maki Fujimura"
+  slug = "maki-fujimura"
+  instrument = "vocal"
+  japanese = "藤村麻紀 Fujimura Maki"
+[[lineup]]
+  name = "Hideaki Hori"
+  slug = "hideaki-hori"
+  instrument = "piano"
+  japanese = "堀秀彰 Hori Hideaki"
 [cover]
   image = "makifujimura-best-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"
@@ -34,16 +47,6 @@ In addition, the duo thrills with arrangements of standards such as “Summertim
 {{< figure src="L1210026-1024.jpg" link="L1210026-1024.jpg" >}}
 
 {{< figure src="IMG_1519-1024.jpg" link="IMG_1519-1024.jpg" >}}
-
-
-## Best Wishes by Maki Fujimura
-
--   [Maki Fujimura](/tags/maki-fujimura/) - vocal
--   [Hideaki Hori](/tags/hideaki-hori/) - piano
-
-Released in 2013 on Maki Fujimura as MAKI.TV-0001.
-
-_Japanese names: 藤村麻紀 Fujimura Maki 堀秀彰 Hori Hideaki_
 
 
 ## Audio and Video

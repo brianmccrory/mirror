@@ -6,7 +6,23 @@ tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
 slug = "shinya-fukumori-trio-for-2-akis"
+releaseYear = 2018
+releaseLabel = "ECM"
+releaseCode = "ECM-2574"
 issue = 305
+[[lineup]]
+  name = "Matthieu Bordenave"
+  slug = "matthieu-bordenave"
+  instrument = "saxophone"
+[[lineup]]
+  name = "Walter Lang"
+  slug = "walter-lang"
+  instrument = "piano"
+[[lineup]]
+  name = "Shinya Fukumori"
+  slug = "shinya-fukumori"
+  instrument = "drums"
+  japanese = "福盛進也 Fukumori Shinya"
 related = ["koichi-sato-embryo"]
 [cover]
   image = "shinya-fukumori-trio-for-2-akis-460.jpeg"
@@ -39,17 +55,6 @@ The wide range of years found in the song selection here brings something extra 
 {{< figure src="L1290386x-1200.jpeg" link="L1290386x-1200.jpeg" >}}
 
 {{< figure src="L1290388x-1200.jpeg" link="L1290388x-1200.jpeg" >}}
-
-
-## For 2 Akis by Shinya Fukumori Trio
-
--   [Matthieu Bordenave](/tags/matthieu-bordenave/) - saxophone
--   [Walter Lang](/tags/walter-lang/) - piano
--   [Shinya Fukumori](/tags/shinya-fukumori/) - drums
-
-Released in 2018 on ECM as ECM-2574.
-
-_Japanese names: 福盛進也 Fukumori Shinya_
 
 
 ## Audio and Video

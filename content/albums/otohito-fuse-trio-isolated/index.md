@@ -6,7 +6,25 @@ tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Na
 categories = ["albums"]
 draft = false
 slug = "otohito-fuse-trio-isolated"
+releaseYear = 2024
+releaseLabel = "Otohito Fuse Music"
+releaseCode = "OFM-001"
 issue = 245
+[[lineup]]
+  name = "Otohito Fuse"
+  slug = "otohito-fuse"
+  instrument = "piano"
+  japanese = "布施音人 Fuse Otohito"
+[[lineup]]
+  name = "Riku Takahashi"
+  slug = "riku-takahashi"
+  instrument = "bass"
+  japanese = "高橋陸 Takahashi Riku"
+[[lineup]]
+  name = "Kaito Nakamura"
+  slug = "kaito-nakamura"
+  instrument = "drums"
+  japanese = "中村海斗 Nakamura Kaito"
 related = ["yuya-wakai-images"]
 [cover]
   image = "otohito-fuse-trio-isolated-460.jpeg"
@@ -43,17 +61,6 @@ The time frame shared by the trio slightly slows, briefly stops, and resumes wit
 It’s impressive that such young players are already producing a mature, respectful, and creative sound. Pianist Fuse, bassist Riku Takahashi, and drummer Kaita Nakamura are all in their twenties, naturally enthusiastic, independent, and full of spirit. At the same time, they are able to exhibit the skills resulting from natural talent, dedication to practice, and sharp listening, confident in their abilities and taking care of their music.
 
 {{< figure src="L1240971x-1200.jpeg" link="L1240971x-1200.jpeg" >}}
-
-
-## Isolated by Otohito Fuse Trio
-
--   [Otohito Fuse](/tags/otohito-fuse/) - piano
--   [Riku Takahashi](/tags/riku-takahashi/) - bass
--   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
-
-Released in 2024 on Otohito Fuse Music as OFM-001.
-
-_Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗 Nakamura Kaito_
 
 
 ## Audio and Video

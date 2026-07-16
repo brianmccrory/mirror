@@ -6,7 +6,25 @@ tags = ["George Nakajima", "中嶋錠二", "Yutaka Yoshida", "吉田豊", "Masan
 categories = ["albums"]
 draft = false
 slug = "george-nakajima-trio-first-touch"
+releaseYear = 2021
+releaseLabel = "Owl Wing Record"
+releaseCode = "OWL-022"
 issue = 174
+[[lineup]]
+  name = "George Nakajima"
+  slug = "george-nakajima"
+  instrument = "piano"
+  japanese = "中嶋錠二 Nakajima George"
+[[lineup]]
+  name = "Yutaka Yoshida"
+  slug = "yutaka-yoshida"
+  instrument = "bass"
+  japanese = "吉田豊 Yoshida Yutaka"
+[[lineup]]
+  name = "Masanori Ando"
+  slug = "masanori-ando"
+  instrument = "drums"
+  japanese = "安藤正則 Ando Masanori"
 [cover]
   image = "george-nakajima-first-touch-460.jpeg"
   alt = "Cover art of First Touch by George Nakajima Trio"
@@ -59,17 +77,6 @@ As the world is still unsettled due to corona, I continue to pray for a steady r
 _2021.4 George Nakajima_
 
 {{< figure src="L1230240x-1024.jpeg" link="L1230240x-1024.jpeg" >}}
-
-
-## First Touch by George Nakajima Trio
-
--   [George Nakajima](/tags/george-nakajima/) - piano
--   [Yutaka Yoshida](/tags/yutaka-yoshida/) - bass
--   [Masanori Ando](/tags/masanori-ando/) - drums
-
-Released in 2021 on Owl Wing Record as OWL-022.
-
-_Japanese names: 中嶋錠二 Nakajima George 吉田豊 Yoshida Yutaka 安藤正則 Ando Masanori_
 
 
 ## Audio and Video

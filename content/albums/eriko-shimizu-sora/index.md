@@ -6,7 +6,35 @@ tags = ["Eriko Shimizu", "清水絵理子", "Toshihiko Inoue", "井上淑彦", "
 categories = ["albums"]
 draft = false
 slug = "eriko-shimizu-sora"
+releaseYear = 2010
+releaseLabel = "Casnet"
+releaseCode = "CSNT-8003"
 issue = 109
+[[lineup]]
+  name = "Eriko Shimizu"
+  slug = "eriko-shimizu"
+  instrument = "piano"
+  japanese = "清水絵理子 Shimizu Eriko"
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "saxophone"
+  japanese = "井上淑彦 Inoue Toshihiko"
+[[lineup]]
+  name = "Saori Sendo"
+  slug = "saori-sendo"
+  instrument = "percussion"
+  japanese = "仙道さおり Sendo Saori"
+[[lineup]]
+  name = "Kunpei Nakabayashi"
+  slug = "kunpei-nakabayashi"
+  instrument = "bass"
+  japanese = "中林薫平 Nakabayashi Kunpei"
+[[lineup]]
+  name = "Daisuke Yoshioka"
+  slug = "daisuke-yoshioka"
+  instrument = "drums"
+  japanese = "吉岡大輔 Yoshioka Daisuke"
 [cover]
   image = "erikoshimizu-sora-460.jpeg"
   alt = "Cover art of Sora by Eriko Shimizu"
@@ -24,19 +52,6 @@ Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” j
 {{< figure src="L1200404-1024.jpg" link="L1200404-1024.jpg" >}}
 
 {{< figure src="L1200405-1024.jpg" link="L1200405-1024.jpg" >}}
-
-
-## Sora by Eriko Shimizu
-
--   [Eriko Shimizu](/tags/eriko-shimizu/) - piano
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
--   [Saori Sendo](/tags/saori-sendo/) - percussion
--   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
--   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
-
-Released in 2010 on Casnet as CSNT-8003.
-
-_Japanese names: 清水絵理子 Shimizu Eriko 井上淑彦 Inoue Toshihiko 仙道さおり Sendo Saori 中林薫平 Nakabayashi Kunpei 吉岡大輔 Yoshioka Daisuke_
 
 
 ## Audio and Video

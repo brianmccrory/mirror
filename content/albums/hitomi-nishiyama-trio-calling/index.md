@@ -6,7 +6,25 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-calling"
+releaseYear = 2021
+releaseLabel = "Meantone Records"
+releaseCode = "MT-10"
 issue = 239
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
+[[lineup]]
+  name = "Yasuhiko “Hachi” Sato"
+  slug = "yasuhiko-hachi-sato"
+  instrument = "bass"
+  japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "hitomi-nishiyama-trio-calling-460.jpeg"
@@ -116,17 +134,6 @@ Although the CD was released in September, we haven’t been able to schedule a 
 I’ve been asked “When is the CD release live show”, here and there and through messages, and I apologize that I haven’t been able to reply properly to everyone, but I would like to think about scheduling that when the conditions are safe and it feels right.
 
 {{< figure src="L1240160x-1200.jpeg" link="L1240160x-1200.jpeg" >}}
-
-
-## Calling by Hitomi Nishiyama Trio
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
--   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
-
-Released in 2021 on Meantone Records as MT-10.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi_
 
 
 ## Audio and Video

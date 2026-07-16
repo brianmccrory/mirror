@@ -6,7 +6,15 @@ tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-vibrant"
+releaseYear = 2020
+releaseLabel = "Meantone Records"
+releaseCode = "MT-08"
 issue = 181
+[[lineup]]
+  name = "Hitomi Nishiyama"
+  slug = "hitomi-nishiyama"
+  instrument = "piano"
+  japanese = "西山瞳 Nishiyama Hitomi"
 [cover]
   image = "hitomi-nishiyama-vibrant-460.jpeg"
   alt = "Cover art of Vibrant by Hitomi Nishiyama"
@@ -34,15 +42,6 @@ The dramatic songs “To the North” and “Snow Train” are also ear-catching
 This is a solo piano album and its sound qualities are defined by the single instrument’s dynamic and sonic range, so one way to listen is to allow the music to drift in and out of consciousness as the tracks change. In that manner, this music can work as a background for work, walks, or relaxation. Paying closer attention also packs an impact, and allows for focusing on the stirring compositions and accomplished playing which evokes each title’s meaning vibrantly.
 
 {{< figure src="L1240177x-1024.jpeg" link="L1240177x-1024.jpeg" >}}
-
-
-## Vibrant by Hitomi Nishiyama
-
--   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
-
-Released in 2020 on Meantone Records as MT-08.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi_
 
 
 ## Audio and Video

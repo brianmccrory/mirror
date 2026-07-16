@@ -6,7 +6,25 @@ tags = ["Yoshihito “P” Koizumi", "小泉P克人", "Jun Miyakawa", "宮川純
 categories = ["albums"]
 draft = false
 slug = "yoshihito-p-koizumi-by-coincidence"
+releaseYear = 2011
+releaseLabel = "Peace Bass Records"
+releaseCode = "PBRS-0001"
 issue = 136
+[[lineup]]
+  name = "Yoshihito “P” Koizumi"
+  slug = "yoshihito-p-koizumi"
+  instrument = "bass"
+  japanese = "小泉P克人 Koizumi Yoshihito “P”"
+[[lineup]]
+  name = "Jun Miyakawa"
+  slug = "jun-miyakawa"
+  instrument = "keyboards"
+  japanese = "宮川純 Miyakawa Jun"
+[[lineup]]
+  name = "Kohzo Komori"
+  slug = "kohzo-komori"
+  instrument = "drums"
+  japanese = "小森耕造 Komori Kohzo"
 [cover]
   image = "yoshihitopkoizumi-bycoin-460.jpeg"
   alt = "Cover art of By Coincidence by Yoshihito “P” Koizumi P-Project"
@@ -24,17 +42,6 @@ While session leader and bassist Koizimi states that the recording was not origi
 {{< figure src="L1200557-1024.jpg" link="L1200557-1024.jpg" >}}
 
 {{< figure src="L1200564-1024.jpg" link="L1200564-1024.jpg" >}}
-
-
-## By Coincidence by Yoshihito “P” Koizumi P-Project
-
--   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - bass
--   [Jun Miyakawa](/tags/jun-miyakawa/) - keyboards
--   [Kohzo Komori](/tags/kohzo-komori/) - drums
-
-Released in 2011 on Peace Bass Records as PBRS-0001.
-
-_Japanese names: 小泉P克人 Koizumi Yoshihito “P” 宮川純 Miyakawa Jun 小森耕造 Komori Kohzo_
 
 
 ## Audio and Video

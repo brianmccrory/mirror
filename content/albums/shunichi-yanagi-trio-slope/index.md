@@ -6,7 +6,25 @@ tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Ma
 categories = ["albums"]
 draft = false
 slug = "shunichi-yanagi-trio-slope"
+releaseYear = 2015
+releaseLabel = "GoodNessPlus Records"
+releaseCode = "GNPR-1148"
 issue = 166
+[[lineup]]
+  name = "Shunichi Yanagi"
+  slug = "shunichi-yanagi"
+  instrument = "piano"
+  japanese = "柳隼一 Yanagi Shunichi"
+[[lineup]]
+  name = "Motoi Kanamori"
+  slug = "motoi-kanamori"
+  instrument = "bass"
+  japanese = "金森もとい Kanamori Motoi"
+[[lineup]]
+  name = "Masatsugu Hattori"
+  slug = "masatsugu-hattori"
+  instrument = "drums"
+  japanese = "服部正嗣 Hattori Masatsugu"
 [cover]
   image = "shunichi-yanagi-slope-460.jpeg"
   alt = "Cover art of Slope by Shunichi Yanagi Trio"
@@ -26,17 +44,6 @@ Some tunes like the grunge of the opener “I Can’t Fly” and the sad ballad 
 {{< figure src="L1220799-2-1024.jpeg" link="L1220799-2-1024.jpeg" >}}
 
 {{< figure src="L1220800-2-1024.jpeg" link="L1220800-2-1024.jpeg" >}}
-
-
-## Slope by Shunichi Yanagi Trio
-
--   [Shunichi Yanagi](/tags/shunichi-yanagi/) - piano
--   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
--   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
-
-Released in 2015 on GoodNessPlus Records as GNPR-1148.
-
-_Japanese names: 柳隼一 Yanagi Shunichi 金森もとい Kanamori Motoi 服部正嗣 Hattori Masatsugu_
 
 
 ## Audio and Video

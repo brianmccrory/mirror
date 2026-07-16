@@ -6,7 +6,25 @@ tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suz
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-trio-echoes"
+releaseYear = 2013
+releaseLabel = "T-TOC Records Cadenza"
+releaseCode = "CADE-0009"
 issue = 336
+[[lineup]]
+  name = "Fumie Chiba"
+  slug = "fumie-chiba"
+  instrument = "piano"
+  japanese = "千葉史絵 Chiba Fumie"
+[[lineup]]
+  name = "Koji Tetsui"
+  slug = "koji-tetsui"
+  instrument = "bass"
+  japanese = "鉄井孝司 Tetsui Koji"
+[[lineup]]
+  name = "Kaoru Suzuki"
+  slug = "kaoru-suzuki"
+  instrument = "drums"
+  japanese = "鈴木郁 Suzuki Kaoru"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-trio-echoes-460.jpeg"
@@ -92,17 +110,6 @@ Currently performing as a regular member of Shimpei Ruike’s band as well as wi
 Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. Received a scholarship in 1997 to attend the Boston Berklee College of Music. Obtained an artist visa and performed at events including a reception party for former American Vice-President Al Gore and as the opening act for Ray Charles. Returned to Japan in 2001 and is currently active in the Tokyo area as a member of groups including the instrumental band RF and Takeshi Nakatsuka’s support band.
 
 {{< figure src="L1220747x-1200.jpeg" link="L1220747x-1200.jpeg" >}}
-
-
-## Echoes by Fumie Chiba Trio
-
--   [Fumie Chiba](/tags/fumie-chiba/) - piano
--   [Koji Tetsui](/tags/koji-tetsui/) - bass
--   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
-
-Released in 2013 on T-TOC Records Cadenza as CADE-0009.
-
-_Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
 
 
 ## Audio and Video

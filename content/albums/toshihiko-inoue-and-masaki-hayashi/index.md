@@ -6,7 +6,20 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Masaki Hayashi", "林正樹"]
 categories = ["albums"]
 draft = false
 slug = "toshihiko-inoue-and-masaki-hayashi"
+releaseYear = 2013
+releaseLabel = "78 Label"
+releaseCode = "FNFY-06"
 issue = 144
+[[lineup]]
+  name = "Toshihiko Inoue"
+  slug = "toshihiko-inoue"
+  instrument = "tenor sax, soprano sax"
+  japanese = "井上淑彦 Inoue Toshihiko"
+[[lineup]]
+  name = "Masaki Hayashi"
+  slug = "masaki-hayashi"
+  instrument = "piano"
+  japanese = "林正樹 Hayashi Masaki"
 [cover]
   image = "toshihikoinoue-mistral-460.jpeg"
   alt = "Cover art of Mistral by Toshihiko Inoue & Masaki Hayashi"
@@ -26,16 +39,6 @@ The album opens up with Inoue striking out alone on solo saxophone on the beauti
 {{< figure src="L1200903-1024.jpg" link="L1200903-1024.jpg" >}}
 
 {{< figure src="L1200905-1024.jpg" link="L1200905-1024.jpg" >}}
-
-
-## Mistral by Toshihiko Inoue &amp; Masaki Hayashi
-
--   [Toshihiko Inoue](/tags/toshihiko-inoue/) - tenor sax, soprano sax
--   [Masaki Hayashi](/tags/masaki-hayashi/) - piano
-
-Released in 2013 on 78 Label as FNFY-06.
-
-_Japanese names: 井上淑彦 Inoue Toshihiko 林正樹 Hayashi Masaki_
 
 
 ## Audio and Video

@@ -6,7 +6,15 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-piano-pieces-collection"
+releaseYear = 2021
+releaseLabel = "Fair Play Records"
+releaseCode = "FPCD-1011"
 issue = 279
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano"
+  japanese = "遠藤征志 Endo Seiji"
 related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-460.jpeg"
@@ -59,15 +67,6 @@ Most of the tracks on this album are given Japanese titles. Roughly translating 
 </ol>
 
 {{< figure src="L1240159x-1200.jpeg" link="L1240159x-1200.jpeg" >}}
-
-
-## Piano Pieces Collection by Seiji Endo
-
--   [Seiji Endo](/tags/seiji-endo/) - piano
-
-Released in 2021 on Fair Play Records as FPCD-1011.
-
-_Japanese names: 遠藤征志 Endo Seiji_
 
 
 ## Audio and Video

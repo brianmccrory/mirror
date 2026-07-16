@@ -6,7 +6,45 @@ tags = ["Naoko Akimoto", "秋元直子", "Seiji Endo", "遠藤征志", "Akiyoshi
 categories = ["albums"]
 draft = false
 slug = "naoko-akimoto-no-one-else"
+releaseYear = 2012
+releaseLabel = "Marmalade Records"
+releaseCode = "MARM-0004"
 issue = 162
+[[lineup]]
+  name = "Naoko Akimoto"
+  slug = "naoko-akimoto"
+  instrument = "vocal"
+  japanese = "秋元直子 Akimoto Naoko"
+[[lineup]]
+  name = "Seiji Endo"
+  slug = "seiji-endo"
+  instrument = "piano"
+  japanese = "遠藤征志 Endo Seiji"
+[[lineup]]
+  name = "Akiyoshi Shimizu"
+  slug = "akiyoshi-shimizu"
+  instrument = "bass"
+  japanese = "清水昭好 Shimizu Akiyoshi"
+[[lineup]]
+  name = "Ko Omura"
+  slug = "ko-omura"
+  instrument = "drums"
+  japanese = "大村亘 Omura Ko"
+[[lineup]]
+  name = "Shinpei Inoue"
+  slug = "shinpei-inoue"
+  instrument = "flute"
+  japanese = "井上信平 Inoue Shinpei"
+[[lineup]]
+  name = "Yasuhiro Matsuda"
+  slug = "yasuhiro-matsuda"
+  instrument = "alto sax"
+  japanese = "松田靖弘 Matsuda Yasuhiro"
+[[lineup]]
+  name = "Shinpei Ruike"
+  slug = "shinpei-ruike"
+  instrument = "trumpet"
+  japanese = "類家心平 Ruike Shinpei"
 [cover]
   image = "naoko-akimoto-no-one-else-460.jpeg"
   alt = "Cover art of No One Else by Naoko Akimoto"
@@ -26,21 +64,6 @@ After the classy opener, the album continues with the title track “No One Else
 {{< figure src="L1200592x-1024.jpeg" link="L1200592x-1024.jpeg" >}}
 
 {{< figure src="L1200596x-1024.jpeg" link="L1200596x-1024.jpeg" >}}
-
-
-## No One Else by Naoko Akimoto
-
--   [Naoko Akimoto](/tags/naoko-akimoto/) - vocal
--   [Seiji Endo](/tags/seiji-endo/) - piano
--   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu/) - bass
--   [Ko Omura](/tags/ko-omura/) - drums
--   [Shinpei Inoue](/tags/shinpei-inoue/) - flute
--   [Yasuhiro Matsuda](/tags/yasuhiro-matsuda/) - alto sax
--   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
-
-Released in 2012 on Marmalade Records as MARM-0004.
-
-_Japanese names: 秋元直子 Akimoto Naoko 遠藤征志 Endo Seiji 清水昭好 Shimizu Akiyoshi 大村亘 Omura Ko 井上信平 Inoue Shinpei 松田靖弘 Matsuda Yasuhiro 類家心平 Ruike Shinpei_
 
 
 ## Audio and Video

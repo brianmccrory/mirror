@@ -6,7 +6,38 @@ tags = ["Rio Osawa", "大澤理央", "Yuichiro Hiraoka", "平岡遊一郎", "Gus
 categories = ["albums"]
 draft = false
 slug = "rio-osawa-rio"
+releaseYear = 2021
+releaseLabel = "Noel Records"
+releaseCode = "NR-001"
 issue = 363
+[[lineup]]
+  name = "Rio Osawa"
+  slug = "rio-osawa"
+  instrument = "vocal"
+  japanese = "大澤理央 Osawa Rio"
+[[lineup]]
+  name = "Yuichiro Hiraoka"
+  slug = "yuichiro-hiraoka"
+  instrument = "guitar (#1, 2, 4, 5, 6)"
+  japanese = "平岡遊一郎 Hiraoka Yuichiro"
+[[lineup]]
+  name = "Gustavo Anacleto"
+  slug = "gustavo-anacleto"
+  instrument = "soprano sax, flute, voice (#1, 2, 4, 5)"
+[[lineup]]
+  name = "Francis Silva"
+  slug = "francis-silva"
+  instrument = "percussion, voice (#1, 2, 4, 5)"
+[[lineup]]
+  name = "Norihito Nagasawa"
+  slug = "norihito-nagasawa"
+  instrument = "guitar (#3) (from Momijin)"
+  japanese = "長澤紀仁 Nagasawa Norihito"
+[[lineup]]
+  name = "Matsumonica"
+  slug = "matsumonica"
+  instrument = "chromatic harmonica (#3) (from Momijin)"
+  japanese = "マツモニカ Matsumonica"
 related = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 [cover]
   image = "rio-osawa-rio-460.jpeg"
@@ -46,20 +77,6 @@ Under the sun’s gentle rays and carried by a gentle breeze, you sure to be eng
 Finally released, the long-awaited first album from Brazilian music lover Rio Osawa!
 
 {{< figure src="L1340663x-1200.jpeg" alt="Disc of Rio by Rio Osawa" link="L1340663x-1200.jpeg" >}}
-
-
-## Rio by Rio Osawa
-
--   [Rio Osawa](/tags/rio-osawa/) - vocal
--   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar (#1, 2, 4, 5, 6)
--   [Gustavo Anacleto](/tags/gustavo-anacleto/) - soprano sax, flute, voice (#1, 2, 4, 5)
--   [Francis Silva](/tags/francis-silva/) - percussion, voice (#1, 2, 4, 5)
--   [Norihito Nagasawa](/tags/norihito-nagasawa/) - guitar (#3) (from Momijin)
--   [Matsumonica](/tags/matsumonica/) - chromatic harmonica (#3) (from Momijin)
-
-Released in 2021 on Noel Records as NR-001.
-
-_Japanese names: 大澤理央 Osawa Rio 平岡遊一郎 Hiraoka Yuichiro 長澤紀仁 Nagasawa Norihito マツモニカ Matsumonica_
 
 
 ## Audio and Video

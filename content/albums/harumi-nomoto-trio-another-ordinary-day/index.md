@@ -6,7 +6,34 @@ tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tom
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-another-ordinary-day"
+releaseYear = 2002
+releaseLabel = "Venus Records"
+releaseCode = "TKCV-35311"
 issue = 150
+[[lineup]]
+  name = "Harumi Nomoto"
+  slug = "harumi-nomoto"
+  instrument = "piano"
+  japanese = "野本晴美 Nomoto Harumi"
+[[lineup]]
+  name = "Norihide Shioda"
+  slug = "norihide-shioda"
+  instrument = "bass (#1, 2, 3, 4, 8)"
+  japanese = "塩田哲嗣 Shioda Norihide"
+[[lineup]]
+  name = "Tommy Campbell"
+  slug = "tommy-campbell"
+  instrument = "drums (#1, 2, 3, 4, 8)"
+[[lineup]]
+  name = "Masayuki Tawarayama"
+  slug = "masayuki-tawarayama"
+  instrument = "bass (#5, 7)"
+  japanese = "俵山昌之 Tawarayama Masayuki"
+[[lineup]]
+  name = "Yoshihito Eto"
+  slug = "yoshihito-eto"
+  instrument = "drums (#5, 7)"
+  japanese = "江藤良人 Eto Yoshihito"
 [cover]
   image = "haruminomoto-another-460.jpeg"
   alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"
@@ -28,19 +55,6 @@ In addition to these three jazz covers, three originals by Nomoto and two origin
 {{< figure src="L1210370x-1024.jpeg" link="L1210370x-1024.jpeg" >}}
 
 {{< figure src="L1110913-1024.jpeg" link="L1110913-1024.jpeg" >}}
-
-
-## Another Ordinary Day by Harumi Nomoto Trio
-
--   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
--   [Norihide Shioda](/tags/norihide-shioda/) - bass (#1, 2, 3, 4, 8)
--   [Tommy Campbell](/tags/tommy-campbell/) - drums (#1, 2, 3, 4, 8)
--   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass (#5, 7)
--   [Yoshihito Eto](/tags/yoshihito-eto/) - drums (#5, 7)
-
-Released in 2002 on Venus Records as TKCV-35311.
-
-_Japanese names: 野本晴美 Nomoto Harumi 塩田哲嗣 Shioda Norihide 俵山昌之 Tawarayama Masayuki 江藤良人 Eto Yoshihito_
 
 
 ## Audio and Video

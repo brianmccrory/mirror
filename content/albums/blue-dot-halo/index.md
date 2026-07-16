@@ -6,7 +6,35 @@ tags = ["Makoto Rikitake", "力武誠", "Tamashi Goto", "後藤魂", "Masanori S
 categories = ["albums"]
 draft = false
 slug = "blue-dot-halo"
+releaseYear = 2016
+releaseLabel = "Blue Dot"
+releaseCode = "Halo"
 issue = 70
+[[lineup]]
+  name = "Makoto Rikitake"
+  slug = "makoto-rikitake"
+  instrument = "drums"
+  japanese = "力武誠 Rikitake Makoto"
+[[lineup]]
+  name = "Tamashi Goto"
+  slug = "tamashi-goto"
+  instrument = "piano"
+  japanese = "後藤魂 Goto Tamashi"
+[[lineup]]
+  name = "Masanori Sugimoto"
+  slug = "masanori-sugimoto"
+  instrument = "tenor sax"
+  japanese = "杉本匡教 Sugimoto Masanori"
+[[lineup]]
+  name = "Goro Katano"
+  slug = "goro-katano"
+  instrument = "electric bass"
+  japanese = "片野吾朗 Katano Goro"
+[[lineup]]
+  name = "Maki Fujimura"
+  slug = "maki-fujimura"
+  instrument = "vocals (track #10)"
+  japanese = "藤村麻紀 Fujimura Maki"
 [cover]
   image = "bluedot-halo-460.jpeg"
   alt = "Cover art of Halo by Blue Dot"
@@ -32,19 +60,6 @@ In a memorable closer, the vocalist Maki Fujimura is featured on the last tune �
 Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-rock, quirky uptempo funk, and snappy Latin beats, all infused with a sense of open-eyed wonder and appreciation for nature and life on this blue dot of a planet.
 
 {{< figure src="L1220160-1024.jpg" link="L1220160-1024.jpg" >}}
-
-
-## Halo by Blue Dot
-
--   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
--   [Tamashi Goto](/tags/tamashi-goto/) - piano
--   [Masanori Sugimoto](/tags/masanori-sugimoto/) - tenor sax
--   [Goro Katano](/tags/goro-katano/) - electric bass
--   [Maki Fujimura](/tags/maki-fujimura/) - vocals (track #10)
-
-Released in 2016 on Blue Dot as Halo.
-
-_Japanese names: 力武誠 Rikitake Makoto 後藤魂 Goto Tamashi 杉本匡教 Sugimoto Masanori 片野吾朗 Katano Goro 藤村麻紀 Fujimura Maki_
 
 
 ## Audio and Video

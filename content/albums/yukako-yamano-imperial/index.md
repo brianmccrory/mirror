@@ -6,7 +6,15 @@ tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
 slug = "yukako-yamano-imperial"
+releaseYear = 2018
+releaseLabel = "Yukako Yamano"
+releaseCode = "YKRN-0004"
 issue = 199
+[[lineup]]
+  name = "Yukako Yamano"
+  slug = "yukako-yamano"
+  instrument = "piano"
+  japanese = "山野友佳子 Yamano Yukako"
 related = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
 [cover]
   image = "yukakoyamano-imperial-460.jpeg"
@@ -29,15 +37,6 @@ Pleased with the result of the piano’s sound, Yamano decided to release the se
 Yamano leads off _Imperial_ with “Symphony of Lights”, an adventurous composition with a magnificent grandeur suiting the album concept, light and cheery with an underlying fullness. The next track, “Yusha” (Hero), summons an old-world setting like a rousing march forming a grand impression. Finally, the outstanding “Catherine no Yuutsu” (Melancholy of Catherine) opens slowly in a minor key and develops into a happier gallop with promenade-style accents. This song (amusingly inspired by a diet slimming patch commercial she watched in Barcelona) is a winner, balanced and uplifting with its subtly Studio Ghibli-esque Japanese harmony rooted within an addictive and modern seven-beat frame.
 
 {{< figure src="L1230169x-1024.jpeg" link="L1230169x-1024.jpeg" >}}
-
-
-## Imperial by Yukako Yamano
-
--   [Yukako Yamano](/tags/yukako-yamano/) - piano
-
-Released in 2018 on Yukako Yamano as YKRN-0004.
-
-_Japanese names: 山野友佳子 Yamano Yukako_
 
 
 ## Audio and Video

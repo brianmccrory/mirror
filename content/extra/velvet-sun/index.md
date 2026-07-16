@@ -7,6 +7,12 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "velvet-sun"
+clubName = "Velvet Sun"
+clubUrl = "http://www.velvetsun.jp/"
+clubCity = "Tokyo"
+clubStation1 = "Ogikubo"
+clubStation2 = "Asagaya"
+clubMap = "https://maps.app.goo.gl/AVGAMKrjVta4HitX9"
 issue = 289
 [cover]
   image = "L1240615-1200.jpeg"
@@ -58,9 +64,3 @@ There is usually a nice discount offered if an online reservation was made at le
 {{< figure src="L1270613-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Trees’ life at Velvet Sun" link="L1270613-1200.jpeg" >}}
 
 {{< figure src="IMG_20240510_204408861_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to Velvet Sun" link="IMG_20240510_204408861_HDR-1200.jpeg" >}}
-
-
-## Information
-
--   [Velvet Sun’s website](http://www.velvetsun.jp/)
--   [Located near Ogikubo and Asagaya stations in Tokyo, Japan](https://maps.app.goo.gl/AVGAMKrjVta4HitX9)

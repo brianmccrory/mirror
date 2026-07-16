@@ -7,6 +7,11 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "strings"
+clubName = "Strings"
+clubUrl = "http://www.jazz-strings.com/"
+clubCity = "Tokyo"
+clubStation1 = "Kichijoji"
+clubMap = "https://maps.app.goo.gl/eMqXkKYdD3Q7v6Jd6"
 issue = 294
 [cover]
   image = "L1270806x-1200.jpeg"
@@ -88,9 +93,3 @@ In addition to jazz, Brazilian music, and stringed instruments including violin 
 {{< figure src="L1270791-1200.jpeg" caption="<span class=\"figure-number\">Figure 32: </span>The outside sign for Strings" link="L1270791-1200.jpeg" >}}
 
 {{< figure src="L1270792-1200.jpeg" caption="<span class=\"figure-number\">Figure 33: </span>Welcome to Strings" link="L1270792-1200.jpeg" >}}
-
-
-## Information
-
--   [Strings’s website](http://www.jazz-strings.com/)
--   [Located near Kichijoji station in Tokyo, Japan](https://maps.app.goo.gl/eMqXkKYdD3Q7v6Jd6)

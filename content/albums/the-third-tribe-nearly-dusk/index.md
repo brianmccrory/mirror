@@ -6,7 +6,20 @@ tags = ["Yoko Kobayashi", "小林洋子", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
 slug = "the-third-tribe-nearly-dusk"
+releaseYear = 2019
+releaseLabel = "Timemachine Record"
+releaseCode = "TMCD-1014"
 issue = 337
+[[lineup]]
+  name = "Yoko Kobayashi"
+  slug = "yoko-kobayashi"
+  instrument = "piano"
+  japanese = "小林洋子 Kobayashi Yoko"
+[[lineup]]
+  name = "Kazumi Ikenaga"
+  slug = "kazumi-ikenaga"
+  instrument = "drums"
+  japanese = "池長和美 Ikenaga Kazumi"
 related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "kazumi-ikenaga-niwatazumi", "kazumi-ikenaga-taihei-asakawa-nordnote", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "the-third-tribe-nearly-dusk-460.jpeg"
@@ -146,16 +159,6 @@ Here begins the history of a new musical tribe!!!<br />
 A prayer to the infinite universe, a completely new duo format and their shocking debut!!
 
 {{< figure src="L1300991x-1200.jpeg" link="L1300991x-1200.jpeg" >}}
-
-
-## Nearly Dusk by The Third Tribe
-
--   [Yoko Kobayashi](/tags/yoko-kobayashi/) - piano
--   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
-
-Released in 2019 on Timemachine Record as TMCD-1014.
-
-_Japanese names: 小林洋子 Kobayashi Yoko 池長和美 Ikenaga Kazumi_
 
 
 ## Audio and Video

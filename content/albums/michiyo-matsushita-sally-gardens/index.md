@@ -6,7 +6,15 @@ tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
 slug = "michiyo-matsushita-sally-gardens"
+releaseYear = 2018
+releaseLabel = "Michiyo Matsushita"
+releaseCode = "Sally Gardens"
 issue = 60
+[[lineup]]
+  name = "Michiyo Matsushita"
+  slug = "michiyo-matsushita"
+  instrument = "piano, melodion"
+  japanese = "松下美千代 Matsushita Michiyo"
 [cover]
   image = "michiyomatsushita-sally-460.jpeg"
   alt = "Cover art of Sally Gardens by Michiyo Matsushita"
@@ -22,15 +30,6 @@ Through the rich, evocative style of folk music (“Sally Gardens”, “Paddy R
 Apart from the lovely folk tunes and jazzy moments, over half of the songs on _Sally Gardens_ are original compositions from Matsushita, where she gracefully combines jazz with poppy catchiness and emotional drama. Her solo playing shines on uplifting, magical performances (“Infinity”, “Soratobu Usagi”), and also during soothing moments of softly sweet playing on ballads (“Kodou”, “Arigatou.”). As an extra bonus, on “Aki No Sora” (an album highlight), Matsushita plays a breath-powered Melodion with her piano accompaniment, creating a spirited duet sound to striking effect on this excitingly propulsive tune.
 
 {{< figure src="L1210898-1024.jpeg" link="L1210898-1024.jpeg" >}}
-
-
-## Sally Gardens by Michiyo Matsushita
-
--   [Michiyo Matsushita](/tags/michiyo-matsushita/) - piano, melodion
-
-Released in 2018 on Michiyo Matsushita as Sally Gardens.
-
-_Japanese names: 松下美千代 Matsushita Michiyo_
 
 
 ## Audio and Video

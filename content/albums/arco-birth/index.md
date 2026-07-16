@@ -6,7 +6,20 @@ tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 slug = "arco-birth"
+releaseYear = 2019
+releaseLabel = "dandanorchestra"
+releaseCode = "DAN-012"
 issue = 118
+[[lineup]]
+  name = "Sayaka Kishi"
+  slug = "sayaka-kishi"
+  instrument = "piano, melodion"
+  japanese = "岸淑香 Kishi Sayaka"
+[[lineup]]
+  name = "Mayumi Sano"
+  slug = "mayumi-sano"
+  instrument = "cello"
+  japanese = "佐野まゆみ Sano Mayumi"
 [cover]
   image = "arco-birth-460.jpeg"
   alt = "Cover art of Birth by Arco"
@@ -30,16 +43,6 @@ Also featured on this well-crafted album of uplifting music is the icing on the 
 {{< figure src="L1220710-1024.jpg" link="L1220710-1024.jpg" >}}
 
 {{< figure src="L1220711-1024.jpg" link="L1220711-1024.jpg" >}}
-
-
-## Birth by Arco
-
--   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
--   [Mayumi Sano](/tags/mayumi-sano/) - cello
-
-Released in 2019 on dandanorchestra as DAN-012.
-
-_Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
 
 
 ## Audio and Video

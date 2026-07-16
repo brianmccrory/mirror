@@ -6,7 +6,35 @@ tags = ["Yudo Matsuo", "松尾由堂", "Keisuke Nakamura", "中村恵介", "Ryoj
 categories = ["albums"]
 draft = false
 slug = "yudo-matsuo-bonanza"
+releaseYear = 2012
+releaseLabel = "Coume Music"
+releaseCode = "DQC-919"
 issue = 98
+[[lineup]]
+  name = "Yudo Matsuo"
+  slug = "yudo-matsuo"
+  instrument = "electric & acoustic guitar"
+  japanese = "松尾由堂 Matsuo Yudo"
+[[lineup]]
+  name = "Keisuke Nakamura"
+  slug = "keisuke-nakamura"
+  instrument = "trumpet, flugelhorn"
+  japanese = "中村恵介 Nakamura Keisuke"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless electric bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Yasushi Fukumori"
+  slug = "yasushi-fukumori"
+  instrument = "drums"
+  japanese = "福森康 Fukumori Yasushi"
+[[lineup]]
+  name = "Takeru Yamazaki"
+  slug = "takeru-yamazaki"
+  instrument = "keyboards (#2, 4, 9)"
+  japanese = "ヤマザキタケル Yamazaki Takeru"
 [cover]
   image = "yudomatsuo-bonanza-460.jpeg"
   alt = "Cover art of Bonanza by Yudo Matsuo"
@@ -30,19 +58,6 @@ All the musician shine with visceral playing and a clean sound, with solos, duos
 {{< figure src="L1200259-1024.jpg" link="L1200259-1024.jpg" >}}
 
 {{< figure src="L1110427-1024.jpg" link="L1110427-1024.jpg" >}}
-
-
-## Bonanza by Yudo Matsuo
-
--   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
--   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless electric bass
--   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
--   [Takeru Yamazaki](/tags/takeru-yamazaki/) - keyboards (#2, 4, 9)
-
-Released in 2012 on Coume Music as DQC-919.
-
-_Japanese names: 松尾由堂 Matsuo Yudo 中村恵介 Nakamura Keisuke 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi ヤマザキタケル Yamazaki Takeru_
 
 
 ## Audio and Video

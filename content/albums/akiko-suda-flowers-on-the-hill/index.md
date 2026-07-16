@@ -6,7 +6,40 @@ tags = ["Akiko Suda", "須田晶子", "Yuichi Narita", "成田祐一", "Koji Yas
 categories = ["albums"]
 draft = false
 slug = "akiko-suda-flowers-on-the-hill"
+releaseYear = 2016
+releaseLabel = "Diw The Grace"
+releaseCode = "DW-1008"
 issue = 10
+[[lineup]]
+  name = "Akiko Suda"
+  slug = "akiko-suda"
+  instrument = "vocal"
+  japanese = "須田晶子 Suda Akiko"
+[[lineup]]
+  name = "Yuichi Narita"
+  slug = "yuichi-narita"
+  instrument = "piano, accordion, chorus"
+  japanese = "成田祐一 Narita Yuichi"
+[[lineup]]
+  name = "Koji Yasuda"
+  slug = "koji-yasuda"
+  instrument = "bass"
+  japanese = "安田幸司 Yasuda Koji"
+[[lineup]]
+  name = "Yu Kudo"
+  slug = "yu-kudo"
+  instrument = "drums, percussion"
+  japanese = "工藤悠 Kudo Yu"
+[[lineup]]
+  name = "Nao Teraya"
+  slug = "nao-teraya"
+  instrument = "guitar"
+  japanese = "寺屋ナオ Teraya Nao"
+[[lineup]]
+  name = "Toyomi Kobayashi"
+  slug = "toyomi-kobayashi"
+  instrument = "flute, andes"
+  japanese = "小林豊美 Kobayashi Toyomi"
 [cover]
   image = "akikosuda-flowersonthehill-460.jpeg"
   alt = "Cover art of Flowers On The Hill by Akiko Suda"
@@ -26,20 +59,6 @@ The album starts strongly with four catchy and elaborate originals penned by Sud
 {{< figure src="L1180466-1024.jpg" link="L1180466-1024.jpg" >}}
 
 {{< figure src="L1180468-1024.jpg" link="L1180468-1024.jpg" >}}
-
-
-## Flowers On The Hill by Akiko Suda
-
--   [Akiko Suda](/tags/akiko-suda/) - vocal
--   [Yuichi Narita](/tags/yuichi-narita/) - piano, accordion, chorus
--   [Koji Yasuda](/tags/koji-yasuda/) - bass
--   [Yu Kudo](/tags/yu-kudo/) - drums, percussion
--   [Nao Teraya](/tags/nao-teraya/) - guitar
--   [Toyomi Kobayashi](/tags/toyomi-kobayashi/) - flute, andes
-
-Released in 2016 on Diw The Grace as DW-1008.
-
-_Japanese names: 須田晶子 Suda Akiko 成田祐一 Narita Yuichi 安田幸司 Yasuda Koji 工藤悠 Kudo Yu 寺屋ナオ Teraya Nao 小林豊美 Kobayashi Toyomi_
 
 
 ## Audio and Video

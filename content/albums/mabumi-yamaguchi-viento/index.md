@@ -6,7 +6,30 @@ tags = ["Mabumi Yamaguchi", "山口真文", "Mayuko Katakura", "片倉真由子"
 categories = ["albums"]
 draft = false
 slug = "mabumi-yamaguchi-viento"
+releaseYear = 2023
+releaseLabel = "Days of Delight"
+releaseCode = "DOD-040"
 issue = 271
+[[lineup]]
+  name = "Mabumi Yamaguchi"
+  slug = "mabumi-yamaguchi"
+  instrument = "soprano saxophone"
+  japanese = "山口真文 Yamaguchi Mabumi"
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Ryohei Komaki"
+  slug = "ryohei-komaki"
+  instrument = "bass"
+  japanese = "小牧良平 Komaki Ryohei"
+[[lineup]]
+  name = "Tamaya Honda"
+  slug = "tamaya-honda"
+  instrument = "drums"
+  japanese = "本田珠也 Honda Tamaya"
 related = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "mayuko-katakura-faith", "les-komatis-les-komatis", "mayuko-katakura-echoes-of-three", "junichiro-ohkuchi-trio-invisible", "mabumi-yamaguchi-let-your-mind-alone", "nanami-haruta-ii", "naoko-tanaka-appreciation", "mamoru-ishida-afterglow"]
 [cover]
   image = "mabumi-yamaguchi-viento-460.jpeg"
@@ -96,18 +119,6 @@ Akiomi Hirano (Days of Delight)
 Founder/Producer
 
 {{< figure src="L1260016x-1200.jpeg" link="L1260016x-1200.jpeg" >}}
-
-
-## Viento by Mabumi Yamaguchi
-
--   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - soprano saxophone
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
--   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
--   [Tamaya Honda](/tags/tamaya-honda/) - drums
-
-Released in 2023 on Days of Delight as DOD-040.
-
-_Japanese names: 山口真文 Yamaguchi Mabumi 片倉真由子 Katakura Mayuko 小牧良平 Komaki Ryohei 本田珠也 Honda Tamaya_
 
 
 ## Audio and Video

@@ -6,7 +6,25 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Takashi Sugawa", "須川崇志", "
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-takashi-sugawa-oxymoron"
+releaseYear = 2017
+releaseLabel = "MOR Records"
+releaseCode = "MOR-1002"
 issue = 252
+[[lineup]]
+  name = "Akihiro Yoshimoto"
+  slug = "akihiro-yoshimoto"
+  instrument = "soprano sax, clarinet"
+  japanese = "吉本章紘 Yoshimoto Akihiro"
+[[lineup]]
+  name = "Takashi Sugawa"
+  slug = "takashi-sugawa"
+  instrument = "cello, contrabass"
+  japanese = "須川崇志 Sugawa Takashi"
+[[lineup]]
+  name = "Niran Dasika"
+  slug = "niran-dasika"
+  instrument = "piccolo trumpet (track #10)"
+  japanese = "ニラン・ダシカ Dasika Niran"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
@@ -43,17 +61,6 @@ The three-part “Mokume” series (tracks #4, #8, and #10) has a particular imp
 The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a trio as the sax and bass are joined by piccolo trumpet (played by Niran Dasika). Playful mayhem is entertained as the trio balances on a tightrope of unity and disarray. Roaming improvisation leads to unintelligible scrambles of speech and juggling of squeaks, pitches, and volume before ending with a satisfyingly clear, slightly bluesy conclusion.
 
 {{< figure src="L1260992x-1200.jpeg" link="L1260992x-1200.jpeg" >}}
-
-
-## Oxymoron by Akihiro Yoshimoto &amp; Takashi Sugawa
-
--   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - soprano sax, clarinet
--   [Takashi Sugawa](/tags/takashi-sugawa/) - cello, contrabass
--   [Niran Dasika](/tags/niran-dasika/) - piccolo trumpet (track #10)
-
-Released in 2017 on MOR Records as MOR-1002.
-
-_Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニラン・ダシカ Dasika Niran_
 
 
 ## Audio and Video

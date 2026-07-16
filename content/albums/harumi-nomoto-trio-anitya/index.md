@@ -6,7 +6,25 @@ tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohno
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-anitya"
+releaseYear = 2025
+releaseLabel = "Okra Record"
+releaseCode = "MIKO-9001"
 issue = 347
+[[lineup]]
+  name = "Harumi Nomoto"
+  slug = "harumi-nomoto"
+  instrument = "piano"
+  japanese = "野本晴美 Nomoto Harumi"
+[[lineup]]
+  name = "Ryoji Orihara"
+  slug = "ryoji-orihara"
+  instrument = "fretless bass"
+  japanese = "織原良次 Orihara Ryoji"
+[[lineup]]
+  name = "Sohnosuke Imaizumi"
+  slug = "sohnosuke-imaizumi"
+  instrument = "drums"
+  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
 [cover]
   image = "harumi-nomoto-trio-anitya-460.jpeg"
@@ -84,17 +102,6 @@ If I recall correctly, around the time the coronavirus had started spreading, th
 I created this song while imagining waves coming in and going out. I borrowed the name from the legendary diver Jacques Mayol, who loved the sea around Tateyama in his later years.
 
 {{< figure src="L1330746x-1200.jpeg" alt="Printed on the CD: “The cut of the okra is like a star. Also, the flowers are beautiful. I like them very much”." link="L1330746x-1200.jpeg" >}}
-
-
-## Anitya by Harumi Nomoto Trio
-
--   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
--   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
--   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
-
-Released in 2025 on Okra Record as MIKO-9001.
-
-_Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke_
 
 
 ## Audio and Video

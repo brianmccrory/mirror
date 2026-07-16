@@ -6,7 +6,40 @@ tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka
 categories = ["albums"]
 draft = false
 slug = "nobie-takayoshi-baba-owari-to-hajimari"
+releaseYear = 2023
+releaseLabel = "F.S.L."
+releaseCode = "FSCJ-0024"
 issue = 286
+[[lineup]]
+  name = "Nobie"
+  slug = "nobie"
+  instrument = "vocal/percussion/chorus"
+  japanese = "ノビー Nobie"
+[[lineup]]
+  name = "Takayoshi Baba"
+  slug = "takayoshi-baba"
+  instrument = "guitar/chorus"
+  japanese = "馬場孝喜 Baba Takayoshi"
+[[lineup]]
+  name = "Nobumasa Tanaka"
+  slug = "nobumasa-tanaka"
+  instrument = "piano (#5)"
+  japanese = "田中信正 Tanaka Nobumasa"
+[[lineup]]
+  name = "Mayuko Katakura"
+  slug = "mayuko-katakura"
+  instrument = "piano (#4, 10)"
+  japanese = "片倉真由子 Katakura Mayuko"
+[[lineup]]
+  name = "Kiichiro Komobuchi"
+  slug = "kiichiro-komobuchi"
+  instrument = "bass/chorus (#2, 4, 10)"
+  japanese = "コモブチキイチロウ Komobuchi Kiichiro"
+[[lineup]]
+  name = "Yoichi Okabe"
+  slug = "yoichi-okabe"
+  instrument = "percussion (#2, 4, 10)"
+  japanese = "岡部洋一 Okabe Yoichi"
 related = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
@@ -74,20 +107,6 @@ Note 1: _Gray-Zone_ (2013, Song&amp;Co label)
 Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of ballads with her regular trio after 8 years” (interview and text: Mitsutaka Nagira [柳樂光隆]) [https://ototoy.jp/feature/20171110](https://ototoy.jp/feature/20171110)
 
 {{< figure src="L1270343x-1200.jpeg" link="L1270343x-1200.jpeg" >}}
-
-
-## Owari to Hajimari by Nobie &amp; Takayoshi Baba
-
--   [Nobie](/tags/nobie/) - vocal/percussion/chorus
--   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar/chorus
--   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano (#5)
--   [Mayuko Katakura](/tags/mayuko-katakura/) - piano (#4, 10)
--   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass/chorus (#2, 4, 10)
--   [Yoichi Okabe](/tags/yoichi-okabe/) - percussion (#2, 4, 10)
-
-Released in 2023 on F.S.L. as FSCJ-0024.
-
-_Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka Nobumasa 片倉真由子 Katakura Mayuko コモブチキイチロウ Komobuchi Kiichiro 岡部洋一 Okabe Yoichi_
 
 
 ## Audio and Video

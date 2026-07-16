@@ -6,7 +6,25 @@ tags = ["Fumio Karashima", "辛島文雄", "Yosuke Inoue", "井上陽介", "Shin
 categories = ["albums"]
 draft = false
 slug = "fumio-karashima-trio-its-just-beginning"
+releaseYear = 2004
+releaseLabel = "Pit Inn Music"
+releaseCode = "VACM-1240"
 issue = 100
+[[lineup]]
+  name = "Fumio Karashima"
+  slug = "fumio-karashima"
+  instrument = "piano"
+  japanese = "辛島文雄 Karashima Fumio"
+[[lineup]]
+  name = "Yosuke Inoue"
+  slug = "yosuke-inoue"
+  instrument = "bass"
+  japanese = "井上陽介 Inoue Yosuke"
+[[lineup]]
+  name = "Shingo Okudaira"
+  slug = "shingo-okudaira"
+  instrument = "drums"
+  japanese = "奥平慎吾 Okudaira Shingo"
 [cover]
   image = "fumiokarashima-beginning-460.jpeg"
   alt = "Cover art of It’s Just Beginning by Fumio Karashima Trio"
@@ -26,17 +44,6 @@ Three of Karashima’s originals are also included, with a funky Herbie Hancock-
 {{< figure src="L1200650-1024.jpg" link="L1200650-1024.jpg" >}}
 
 {{< figure src="L1200653-1024.jpg" link="L1200653-1024.jpg" >}}
-
-
-## It’s Just Beginning by Fumio Karashima Trio
-
--   [Fumio Karashima](/tags/fumio-karashima/) - piano
--   [Yosuke Inoue](/tags/yosuke-inoue/) - bass
--   [Shingo Okudaira](/tags/shingo-okudaira/) - drums
-
-Released in 2004 on Pit Inn Music as VACM-1240.
-
-_Japanese names: 辛島文雄 Karashima Fumio 井上陽介 Inoue Yosuke 奥平慎吾 Okudaira Shingo_
 
 
 ## Audio and Video

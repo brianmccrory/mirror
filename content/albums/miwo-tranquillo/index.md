@@ -10,21 +10,21 @@ releaseYear = 2020
 releaseLabel = "Musica Fortunata"
 releaseCode = "MF-001"
 issue = 247
-[[lineup]]
+[[credits]]
   name = "MIWO"
   slug = "miwo"
   instrument = "vocal"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Akira Sekine"
   slug = "akira-sekine"
   instrument = "guitar"

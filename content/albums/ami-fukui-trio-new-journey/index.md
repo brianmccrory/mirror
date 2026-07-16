@@ -10,22 +10,22 @@ releaseYear = 2016
 releaseLabel = "Diw The Grace"
 releaseCode = "DG-1007"
 issue = 32
-[[lineup]]
+[[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
   instrument = "piano"
   japanese = "福井亜実 Fukui Ami"
-[[lineup]]
+[[credits]]
   name = "Show Kudo"
   slug = "show-kudo"
   instrument = "double bass, electric bass"
   japanese = "工藤精 Kudo Show"
-[[lineup]]
+[[credits]]
   name = "Yasushi Fukumori"
   slug = "yasushi-fukumori"
   instrument = "drums"
   japanese = "福森康 Fukumori Yasushi"
-[[lineup]]
+[[credits]]
   name = "Akiko Suda"
   slug = "akiko-suda"
   instrument = "vocals (#7)"

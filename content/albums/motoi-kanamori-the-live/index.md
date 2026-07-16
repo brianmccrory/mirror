@@ -10,37 +10,37 @@ releaseYear = 2023
 releaseLabel = "Laplace Records"
 releaseCode = "LPDCD113-114"
 issue = 288
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Hiroyuki Takubo"
   slug = "hiroyuki-takubo"
   instrument = "piano"
   japanese = "田窪寛之 Takubo Hiroyuki"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[[lineup]]
+[[credits]]
   name = "Taishi Sakurai"
   slug = "taishi-sakurai"
   instrument = "violin"
   japanese = "桜井大士 Sakurai Taishi"
-[[lineup]]
+[[credits]]
   name = "Chie Hasegawa"
   slug = "chie-hasegawa"
   instrument = "violin"
   japanese = "長谷川智恵 Hasegawa Chie"
-[[lineup]]
+[[credits]]
   name = "Megumi Ozawa"
   slug = "megumi-ozawa"
   instrument = "viola"
   japanese = "小澤恵 Ozawa Megumi"
-[[lineup]]
+[[credits]]
   name = "Atsushi Hashimoto"
   slug = "atsushi-hashimoto"
   instrument = "cello"

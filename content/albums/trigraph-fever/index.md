@@ -10,27 +10,27 @@ releaseYear = 2014
 releaseLabel = "Haru Records"
 releaseCode = "HARU-20"
 issue = 145
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar & chorus"
   japanese = "馬場孝喜 Baba Takayoshi"
-[[lineup]]
+[[credits]]
   name = "Reikan Kobayashi"
   slug = "reikan-kobayashi"
   instrument = "shakuhachi, piano, keyboard, voice percussion, shaker, chorus"
   japanese = "小林鈴勘 Kobayashi Reikan"
-[[lineup]]
+[[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
   instrument = "vocal & chorus"
   japanese = "石川早苗 Ishikawa Sanae"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "electric fretless bass & chorus"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Yasushi Fukumori"
   slug = "yasushi-fukumori"
   instrument = "drums & chorus"

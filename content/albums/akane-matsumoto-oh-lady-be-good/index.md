@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "Concept Records"
 releaseCode = "CR-12"
 issue = 283
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Ryu Kawamura"
   slug = "ryu-kawamura"
   instrument = "bass"
   japanese = "川村竜 Kawamura Ryu"
-[[lineup]]
+[[credits]]
   name = "Junji Hirose"
   slug = "junji-hirose"
   instrument = "drums"

@@ -10,7 +10,7 @@ releaseYear = 2018
 releaseLabel = "Cortez Sound"
 releaseCode = "CSJ0008"
 issue = 63
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano"

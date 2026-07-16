@@ -10,20 +10,20 @@ releaseYear = 2018
 releaseLabel = "Studio TLive Records"
 releaseCode = "STLR-018"
 issue = 89
-[[lineup]]
+[[credits]]
   name = "Seiji Tada"
   slug = "seiji-tada"
   instrument = "alto sax, flute, alto flute"
   japanese = "多田誠司 Tada Seiji"
-[[lineup]]
+[[credits]]
   name = "Renee Rosnes"
   slug = "renee-rosnes"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Peter Washington"
   slug = "peter-washington"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Kenny Washington"
   slug = "kenny-washington"
   instrument = "drums"

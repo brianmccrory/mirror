@@ -10,12 +10,12 @@ releaseYear = 2013
 releaseLabel = "Maki Fujimura"
 releaseCode = "MAKI.TV-0001"
 issue = 66
-[[lineup]]
+[[credits]]
   name = "Maki Fujimura"
   slug = "maki-fujimura"
   instrument = "vocal"
   japanese = "藤村麻紀 Fujimura Maki"
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"

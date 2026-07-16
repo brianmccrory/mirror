@@ -10,12 +10,12 @@ releaseYear = 2018
 releaseLabel = "Arco"
 releaseCode = "handmade compact discs"
 issue = 134
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano, melodion"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Mayumi Sano"
   slug = "mayumi-sano"
   instrument = "cello"

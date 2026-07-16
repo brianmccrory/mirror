@@ -10,26 +10,26 @@ releaseYear = 2002
 releaseLabel = "Venus Records"
 releaseCode = "TKCV-35311"
 issue = 150
-[[lineup]]
+[[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano"
   japanese = "野本晴美 Nomoto Harumi"
-[[lineup]]
+[[credits]]
   name = "Norihide Shioda"
   slug = "norihide-shioda"
   instrument = "bass (#1, 2, 3, 4, 8)"
   japanese = "塩田哲嗣 Shioda Norihide"
-[[lineup]]
+[[credits]]
   name = "Tommy Campbell"
   slug = "tommy-campbell"
   instrument = "drums (#1, 2, 3, 4, 8)"
-[[lineup]]
+[[credits]]
   name = "Masayuki Tawarayama"
   slug = "masayuki-tawarayama"
   instrument = "bass (#5, 7)"
   japanese = "俵山昌之 Tawarayama Masayuki"
-[[lineup]]
+[[credits]]
   name = "Yoshihito Eto"
   slug = "yoshihito-eto"
   instrument = "drums (#5, 7)"

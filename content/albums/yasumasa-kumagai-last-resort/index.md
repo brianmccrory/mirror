@@ -10,22 +10,22 @@ releaseYear = 2020
 releaseLabel = "Jazzy Bear"
 releaseCode = "JZBR-0002"
 issue = 206
-[[lineup]]
+[[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
   instrument = "piano"
   japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[lineup]]
+[[credits]]
   name = "Miki Hirose"
   slug = "miki-hirose"
   instrument = "trumpet"
   japanese = "広瀬未来 Hirose Miki"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"

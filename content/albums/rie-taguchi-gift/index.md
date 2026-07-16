@@ -10,37 +10,37 @@ releaseYear = 2016
 releaseLabel = "Rose Happy Music"
 releaseCode = "RHM002"
 issue = 21
-[[lineup]]
+[[credits]]
   name = "Rie Taguchi"
   slug = "rie-taguchi"
   instrument = "vocals, piano"
   japanese = "田口理恵 Taguchi Rie"
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano, arrangements"
   japanese = "遠藤征志 Endo Seiji"
-[[lineup]]
+[[credits]]
   name = "Seiji Tada"
   slug = "seiji-tada"
   instrument = "alto sax, flute"
   japanese = "多田誠司 Tada Seiji"
-[[lineup]]
+[[credits]]
   name = "Noriko Satomi"
   slug = "noriko-satomi"
   instrument = "violin"
   japanese = "里見紀子 Satomi Noriko"
-[[lineup]]
+[[credits]]
   name = "Mitsukuni Tanabe"
   slug = "mitsukuni-tanabe"
   instrument = "guitar"
   japanese = "田辺充邦 Tanabe Mitsukuni"
-[[lineup]]
+[[credits]]
   name = "Yusuke Nakaishi"
   slug = "yusuke-nakaishi"
   instrument = "bass"
   japanese = "仲石裕介 Nakaishi Yusuke"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"

@@ -10,32 +10,32 @@ releaseYear = 2017
 releaseLabel = "USAGI Records"
 releaseCode = "UR-002"
 issue = 138
-[[lineup]]
+[[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
   instrument = "piano"
   japanese = "千葉史絵 Chiba Fumie"
-[[lineup]]
+[[credits]]
   name = "Mitsuru Tanaka"
   slug = "mitsuru-tanaka"
   instrument = "trumpet, flugelhorn"
   japanese = "田中充 Tanaka Mitsuru"
-[[lineup]]
+[[credits]]
   name = "Shunosuke Ishikawa"
   slug = "shunosuke-ishikawa"
   instrument = "tenor sax, soprano sax, flute"
   japanese = "石川周之介 Ishikawa Shunosuke"
-[[lineup]]
+[[credits]]
   name = "Aya Kurosawa"
   slug = "aya-kurosawa"
   instrument = "voice"
   japanese = "黒沢綾 Kurosawa Aya"
-[[lineup]]
+[[credits]]
   name = "Koji Tetsui"
   slug = "koji-tetsui"
   instrument = "bass"
   japanese = "鉄井孝司 Tetsui Koji"
-[[lineup]]
+[[credits]]
   name = "Kaoru Suzuki"
   slug = "kaoru-suzuki"
   instrument = "drums"

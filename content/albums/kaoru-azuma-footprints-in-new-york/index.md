@@ -10,28 +10,28 @@ releaseYear = 2008
 releaseLabel = "River East Music"
 releaseCode = "REM-1002"
 issue = 339
-[[lineup]]
+[[credits]]
   name = "Kaoru Azuma"
   slug = "kaoru-azuma"
   instrument = "vocal"
   japanese = "東かおる Azuma Kaoru"
-[[lineup]]
+[[credits]]
   name = "Scott Reeves"
   slug = "scott-reeves"
   instrument = "alto flugelhorn & trombone (track #6)"
-[[lineup]]
+[[credits]]
   name = "Mike Holober"
   slug = "mike-holober"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Jesse Forest"
   slug = "jesse-forest"
   instrument = "guitar"
-[[lineup]]
+[[credits]]
   name = "Robinson Morse"
   slug = "robinson-morse"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Paolo Orlandi"
   slug = "paolo-orlandi"
   instrument = "drums"

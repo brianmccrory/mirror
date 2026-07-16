@@ -10,27 +10,27 @@ releaseYear = 2012
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0005"
 issue = 122
-[[lineup]]
+[[credits]]
   name = "Masako Kunisada"
   slug = "masako-kunisada"
   instrument = "vocal"
   japanese = "国貞雅子 Kunisada Masako"
-[[lineup]]
+[[credits]]
   name = "Shigeru Morishita"
   slug = "shigeru-morishita"
   instrument = "piano, Rhodes piano, Hammond organ (#1-6, 8-12)"
   japanese = "森下滋 Morishita Shigeru"
-[[lineup]]
+[[credits]]
   name = "Ryo Ogihara"
   slug = "ryo-ogihara"
   instrument = "electric guitar (#1-3, 7, 10)"
   japanese = "荻原亮 Ogihara Ryo"
-[[lineup]]
+[[credits]]
   name = "Shinichi Sato"
   slug = "shinichi-sato"
   instrument = "acoustic bass, electric bass"
   japanese = "佐藤慎一 Sato Shinichi"
-[[lineup]]
+[[credits]]
   name = "Manabu Fujii"
   slug = "manabu-fujii"
   instrument = "drums (tr. 1-6, 8-11)"

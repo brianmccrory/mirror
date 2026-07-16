@@ -10,27 +10,27 @@ releaseYear = 2016
 releaseLabel = "Blue Dot"
 releaseCode = "Halo"
 issue = 70
-[[lineup]]
+[[credits]]
   name = "Makoto Rikitake"
   slug = "makoto-rikitake"
   instrument = "drums"
   japanese = "力武誠 Rikitake Makoto"
-[[lineup]]
+[[credits]]
   name = "Tamashi Goto"
   slug = "tamashi-goto"
   instrument = "piano"
   japanese = "後藤魂 Goto Tamashi"
-[[lineup]]
+[[credits]]
   name = "Masanori Sugimoto"
   slug = "masanori-sugimoto"
   instrument = "tenor sax"
   japanese = "杉本匡教 Sugimoto Masanori"
-[[lineup]]
+[[credits]]
   name = "Goro Katano"
   slug = "goro-katano"
   instrument = "electric bass"
   japanese = "片野吾朗 Katano Goro"
-[[lineup]]
+[[credits]]
   name = "Maki Fujimura"
   slug = "maki-fujimura"
   instrument = "vocals (track #10)"

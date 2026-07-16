@@ -10,32 +10,32 @@ releaseYear = 2023
 releaseLabel = "Meantone Records"
 releaseCode = "MT-12"
 issue = 267
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Toru Nishijima"
   slug = "toru-nishijima"
   instrument = "bass"
   japanese = "西嶋徹 Nishijima Toru"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-[[lineup]]
+[[credits]]
   name = "Takanori Suzuki"
   slug = "takanori-suzuki"
   instrument = "clarinet (#2, 3, 5, 6, 9)"
   japanese = "鈴木孝紀 Suzuki Takanori"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor saxophone (#3, 5, 6, 9), flute (#2)"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[[lineup]]
+[[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin (#2, 3, 5, 6, 9)"

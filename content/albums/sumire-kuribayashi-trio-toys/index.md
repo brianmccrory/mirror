@@ -10,17 +10,17 @@ releaseYear = 2014
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1003"
 issue = 266
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano"
   japanese = "栗林すみれ Kuribayashi Sumire"
-[[lineup]]
+[[credits]]
   name = "Shinichi Kato"
   slug = "shinichi-kato"
   instrument = "bass"
   japanese = "加藤真一 Kato Shinichi"
-[[lineup]]
+[[credits]]
   name = "Takehiro Shimizu"
   slug = "takehiro-shimizu"
   instrument = "drums"

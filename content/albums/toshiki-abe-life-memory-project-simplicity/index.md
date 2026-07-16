@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "Yokohama Reunion"
 releaseCode = "YRCD-020"
 issue = 332
-[[lineup]]
+[[credits]]
   name = "Toshiki Abe"
   slug = "toshiki-abe"
   instrument = "saxophone"
   japanese = "阿部俊貴 Abe Toshiki"
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "organ"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Tetsunori Morinaga"
   slug = "tetsunori-morinaga"
   instrument = "drums"

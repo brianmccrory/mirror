@@ -10,16 +10,16 @@ releaseYear = 2010
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30578"
 issue = 17
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Rodney Whitaker"
   slug = "rodney-whitaker"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Carl Allen"
   slug = "carl-allen"
   instrument = "drums"

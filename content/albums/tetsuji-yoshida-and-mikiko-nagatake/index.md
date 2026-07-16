@@ -10,12 +10,12 @@ releaseYear = 2021
 releaseLabel = "Yoshidamusic"
 releaseCode = "NYAN-382"
 issue = 195
-[[lineup]]
+[[credits]]
   name = "Tetsuji Yoshida"
   slug = "tetsuji-yoshida"
   instrument = "trumpet"
   japanese = "吉田哲治 Yoshida Tetsuji"
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"

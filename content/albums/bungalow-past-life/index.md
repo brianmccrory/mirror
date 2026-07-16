@@ -10,22 +10,22 @@ releaseYear = 2013
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10036"
 issue = 44
-[[lineup]]
+[[credits]]
   name = "Masahiro Yamamoto"
   slug = "masahiro-yamamoto"
   instrument = "alto sax, soprano sax, tenor sax"
   japanese = "山本昌広 Yamamoto Masahiro"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Ikejiri"
   slug = "hiroshi-ikejiri"
   instrument = "bass"
   japanese = "池尻洋史 Ikejiri Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums, tabla"

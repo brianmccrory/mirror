@@ -10,12 +10,12 @@ releaseYear = 2025
 releaseLabel = "Concept Record"
 releaseCode = "CR-21"
 issue = 358
-[[lineup]]
+[[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
   instrument = "saxophone"
   japanese = "浜崎航 Hamasaki Wataru"
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"

@@ -10,42 +10,42 @@ releaseYear = 2018
 releaseLabel = "Ultra Art Record"
 releaseCode = "UA-1001"
 issue = 84
-[[lineup]]
+[[credits]]
   name = "Mie Joké"
   slug = "mie-joke"
   instrument = "vocal"
   japanese = "情家みえ Joké Mie"
-[[lineup]]
+[[credits]]
   name = "Tsuyoshi Yamamoto"
   slug = "tsuyoshi-yamamoto"
   instrument = "piano (tr. #1-5)"
   japanese = "山本剛 Yamamoto Tsuyoshi"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Kagawa"
   slug = "hiroshi-kagawa"
   instrument = "bass (tr. #1-5)"
   japanese = "香川裕史 Kagawa Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Toshio Osumi"
   slug = "toshio-osumi"
   instrument = "drums (tr. #1-5)"
   japanese = "大隅寿男 Osumi Toshio"
-[[lineup]]
+[[credits]]
   name = "Koji Goto"
   slug = "koji-goto"
   instrument = "piano (tr. #6-11)"
   japanese = "後藤浩二 Goto Koji"
-[[lineup]]
+[[credits]]
   name = "Satsuki Kusui"
   slug = "satsuki-kusui"
   instrument = "bass (tr. #6-11)"
   japanese = "楠井五月 Kusui Satsuki"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums (tr. #6-11)"
   japanese = "山田玲 Yamada Akira"
-[[lineup]]
+[[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
   instrument = "sax, flute (tr. #6-11)"

@@ -10,17 +10,17 @@ releaseYear = 2013
 releaseLabel = "T-TOC Records Cadenza"
 releaseCode = "CADE-0009"
 issue = 336
-[[lineup]]
+[[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
   instrument = "piano"
   japanese = "千葉史絵 Chiba Fumie"
-[[lineup]]
+[[credits]]
   name = "Koji Tetsui"
   slug = "koji-tetsui"
   instrument = "bass"
   japanese = "鉄井孝司 Tetsui Koji"
-[[lineup]]
+[[credits]]
   name = "Kaoru Suzuki"
   slug = "kaoru-suzuki"
   instrument = "drums"

@@ -10,27 +10,27 @@ releaseYear = 2014
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS-1410"
 issue = 274
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor sax, loops"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums, percussion"

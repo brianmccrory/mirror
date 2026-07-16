@@ -10,16 +10,16 @@ releaseYear = 2005
 releaseLabel = "Verve"
 releaseCode = "UCCJ-2040"
 issue = 156
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Robert Hurst"
   slug = "robert-hurst"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Jeff “Tain” Watts"
   slug = "jeff-tain-watts"
   instrument = "drums"

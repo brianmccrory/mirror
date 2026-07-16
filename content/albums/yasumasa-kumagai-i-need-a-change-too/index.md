@@ -11,32 +11,32 @@ releaseYear = 2008
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4001"
 issue = 53
-[[lineup]]
+[[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
   instrument = "piano"
   japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Shunsuke Umino"
   slug = "shunsuke-umino"
   instrument = "drums"
   japanese = "海野俊輔 Umino Shunsuke"
-[[lineup]]
+[[credits]]
   name = "Afra"
   slug = "afra"
   instrument = "human beatbox (#7)"
   japanese = "あふら Afra"
-[[lineup]]
+[[credits]]
   name = "Shinobu Ishizaki"
   slug = "shinobu-ishizaki"
   instrument = "alto sax (#9, 13)"
   japanese = "石崎忍 Ishizaki Shinobu"
-[[lineup]]
+[[credits]]
   name = "Tabu Zombie"
   slug = "tabu-zombie"
   instrument = "trumpet (#13)"

@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "T-TOC Records"
 releaseCode = "TTOC-0034"
 issue = 81
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano, keyboard, keyharmonica, percussion"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"

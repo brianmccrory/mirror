@@ -10,27 +10,27 @@ releaseYear = 2008
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2043"
 issue = 293
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
   instrument = "tenor & soprano sax, flute"
   japanese = "浜崎航 Hamasaki Wataru"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Takase"
   slug = "hiroshi-takase"
   instrument = "bass"
   japanese = "高瀬裕 Takase Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Junji Hirose"
   slug = "junji-hirose"
   instrument = "drums"
   japanese = "広瀬潤次 Hirose Junji"
-[[lineup]]
+[[credits]]
   name = "Satoshi Takino"
   slug = "satoshi-takino"
   instrument = "guitar (tracks #1, 4, 10)"

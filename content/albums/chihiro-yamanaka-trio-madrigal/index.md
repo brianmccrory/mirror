@@ -10,20 +10,20 @@ releaseYear = 2004
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-038"
 issue = 133
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Larry Grenadier"
   slug = "larry-grenadier"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Rodney Green"
   slug = "rodney-green"
   instrument = "drums (#1, 3, 4)"
-[[lineup]]
+[[credits]]
   name = "Jeff Ballard"
   slug = "jeff-ballard"
   instrument = "drums"

@@ -10,22 +10,22 @@ releaseYear = 2025
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1078"
 issue = 349
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano"
   japanese = "栗林すみれ Kuribayashi Sumire"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Kyrie Anderson"
   slug = "kyrie-anderson"
   instrument = "drums"
   japanese = "キリー・アンダーソン Anderson Kyrie"
-[[lineup]]
+[[credits]]
   name = "Niran Dasika"
   slug = "niran-dasika"
   instrument = "trumpet (#4, 5, 7)"

@@ -10,17 +10,17 @@ releaseYear = 2011
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2046"
 issue = 46
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano, compositions"
   japanese = "浅川太平 Asakawa Taihei"
-[[lineup]]
+[[credits]]
   name = "Shinichi Kato"
   slug = "shinichi-kato"
   instrument = "bass"
   japanese = "加藤真一 Kato Shinichi"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums"

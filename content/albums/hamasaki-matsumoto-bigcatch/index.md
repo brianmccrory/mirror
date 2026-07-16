@@ -10,37 +10,37 @@ releaseYear = 2013
 releaseLabel = "Concept Records"
 releaseCode = "CR-01"
 issue = 50
-[[lineup]]
+[[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
   instrument = "tenor and soprano sax, flute"
   japanese = "浜崎航 Hamasaki Wataru"
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Yasushi Gonjyo"
   slug = "yasushi-gonjyo"
   instrument = "bass"
   japanese = "権上康志 Gonjyo Yasushi"
-[[lineup]]
+[[credits]]
   name = "Tatsuhiko Takeda"
   slug = "tatsuhiko-takeda"
   instrument = "drums"
   japanese = "竹田達彦 Takeda Tatsuhiko"
-[[lineup]]
+[[credits]]
   name = "Osamu Hikage"
   slug = "osamu-hikage"
   instrument = "bass (#3, 5, 6, 9)"
   japanese = "日景修 Hikage Osamu"
-[[lineup]]
+[[credits]]
   name = "Kazuyoshi Kuroda"
   slug = "kazuyoshi-kuroda"
   instrument = "drums (#3, 5, 6, 9)"
   japanese = "黒田和良 Kuroda Kazuyoshi"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Asai"
   slug = "ryosuke-asai"
   instrument = "alto sax (#6)"

@@ -10,16 +10,16 @@ releaseYear = 2012
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-122"
 issue = 110
-[[lineup]]
+[[credits]]
   name = "Manabu Ohishi"
   slug = "manabu-ohishi"
   instrument = "piano, pianica"
   japanese = "大石学 Ohishi Manabu"
-[[lineup]]
+[[credits]]
   name = "Jean-Philippe Viret"
   slug = "jean-philippe-viret"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Simon Goubert"
   slug = "simon-goubert"
   instrument = "drums"

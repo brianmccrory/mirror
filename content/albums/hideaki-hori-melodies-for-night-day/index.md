@@ -10,7 +10,7 @@ releaseYear = 2022
 releaseLabel = "Orbit Records"
 releaseCode = "ORG-1006"
 issue = 216
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"

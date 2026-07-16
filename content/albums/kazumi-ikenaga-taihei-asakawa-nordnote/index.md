@@ -10,12 +10,12 @@ releaseYear = 2020
 releaseLabel = "Time Machine Record"
 releaseCode = "TMCD-1020"
 issue = 250
-[[lineup]]
+[[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
   instrument = "drums"
   japanese = "池長和美 Ikenaga Kazumi"
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano"

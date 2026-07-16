@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "Audio Fab Records"
 releaseCode = "AFD-106"
 issue = 116
-[[lineup]]
+[[credits]]
   name = "Yuka Ueda"
   slug = "yuka-ueda"
   instrument = "vocal"
   japanese = "上田裕香 Ueda Yuka"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Shinji Hashimoto"
   slug = "shinji-hashimoto"
   instrument = "guitar"
   japanese = "橋本信二 Hashimoto Shinji"
-[[lineup]]
+[[credits]]
   name = "Daisuke Toi"
   slug = "daisuke-toi"
   instrument = "piano (#8), electric bass (#10)"

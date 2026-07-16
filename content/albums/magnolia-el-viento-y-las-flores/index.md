@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "Magnolia"
 releaseCode = "MGNL-0001"
 issue = 290
-[[lineup]]
+[[credits]]
   name = "Reiko Yamamoto"
   slug = "reiko-yamamoto"
   instrument = "vibraphone"
   japanese = "山本玲子 Yamamoto Reiko"
-[[lineup]]
+[[credits]]
   name = "Yuka Yanagihara"
   slug = "yuka-yanagihara"
   instrument = "piano"
   japanese = "柳原由佳 Yanagihara Yuka"
-[[lineup]]
+[[credits]]
   name = "Hitomi Aikawa"
   slug = "hitomi-aikawa"
   instrument = "percussion"

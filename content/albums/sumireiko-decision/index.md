@@ -10,12 +10,12 @@ releaseYear = 2020
 releaseLabel = "Sumireiko"
 releaseCode = "Decision"
 issue = 338
-[[lineup]]
+[[credits]]
   name = "Reiko Yamamoto"
   slug = "reiko-yamamoto"
   instrument = "vibraphone"
   japanese = "山本玲子 Yamamoto Reiko"
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano"

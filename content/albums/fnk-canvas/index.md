@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "Fumie Chiba"
 releaseCode = "UR-003"
 issue = 202
-[[lineup]]
+[[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
   instrument = "piano"
   japanese = "千葉史絵 Chiba Fumie"
-[[lineup]]
+[[credits]]
   name = "Nao Teraya"
   slug = "nao-teraya"
   instrument = "guitar"
   japanese = "寺屋ナオ Teraya Nao"
-[[lineup]]
+[[credits]]
   name = "Kaoru Suzuki"
   slug = "kaoru-suzuki"
   instrument = "drums"

@@ -10,27 +10,27 @@ releaseYear = 2022
 releaseLabel = "Media Stylist"
 releaseCode = "MSC-9020"
 issue = 213
-[[lineup]]
+[[credits]]
   name = "Nanami Haruta"
   slug = "nanami-haruta"
   instrument = "trombone"
   japanese = "治田七海 Haruta Nanami"
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "saxophone"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Takumi Awaya"
   slug = "takumi-awaya"
   instrument = "bass"
   japanese = "粟谷巧 Awaya Takumi"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums"

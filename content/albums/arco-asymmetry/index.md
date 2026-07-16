@@ -10,12 +10,12 @@ releaseYear = 2017
 releaseLabel = "dandanorchestra"
 releaseCode = "DAN-007"
 issue = 8
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano, melodion"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Mayumi Sano"
   slug = "mayumi-sano"
   instrument = "cello"

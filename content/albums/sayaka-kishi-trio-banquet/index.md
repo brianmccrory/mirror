@@ -10,22 +10,22 @@ releaseYear = 2024
 releaseLabel = "Daiki Musica"
 releaseCode = "DNCD-32"
 issue = 263
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Hiroe Kobayashi"
   slug = "hiroe-kobayashi"
   instrument = "vocals (#8)"

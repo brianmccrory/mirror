@@ -10,12 +10,12 @@ releaseYear = 2014
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS-1403"
 issue = 68
-[[lineup]]
+[[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
   instrument = "trumpet"
   japanese = "類家心平 Ruike Shinpei"
-[[lineup]]
+[[credits]]
   name = "George Nakajima"
   slug = "george-nakajima"
   instrument = "piano"

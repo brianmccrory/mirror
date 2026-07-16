@@ -10,17 +10,17 @@ releaseYear = 2025
 releaseLabel = "Okra Record"
 releaseCode = "MIKO-9001"
 issue = 347
-[[lineup]]
+[[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano"
   japanese = "野本晴美 Nomoto Harumi"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"

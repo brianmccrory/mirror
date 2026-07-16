@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "T&K Entertainment"
 releaseCode = "QACK-35024"
 issue = 139
-[[lineup]]
+[[credits]]
   name = "Fumiko Yamazaki"
   slug = "fumiko-yamazaki"
   instrument = "vibes, percussion"
   japanese = "山崎ふみこ Yamazaki Fumiko"
-[[lineup]]
+[[credits]]
   name = "Keizo Kawano"
   slug = "keizo-kawano"
   instrument = "piano, keyboard"
   japanese = "河野啓三 Kawano Keizo"
-[[lineup]]
+[[credits]]
   name = "Shingo Tanaka"
   slug = "shingo-tanaka"
   instrument = "bass"
   japanese = "田中晋吾 Tanaka Shingo"
-[[lineup]]
+[[credits]]
   name = "Takashi Saito"
   slug = "takashi-saito"
   instrument = "drums, percussion"

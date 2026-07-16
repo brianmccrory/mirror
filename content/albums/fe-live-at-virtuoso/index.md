@@ -10,22 +10,22 @@ releaseYear = 2021
 releaseLabel = "Virtuoso"
 releaseCode = "VTS-006"
 issue = 301
-[[lineup]]
+[[credits]]
   name = "Yuta Ikedo"
   slug = "yuta-ikedo"
   instrument = "guitar"
   japanese = "池戸祐太 Ikedo Yuta"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Shinobu Ishizaki"
   slug = "shinobu-ishizaki"
   instrument = "saxophone"

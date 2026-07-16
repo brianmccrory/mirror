@@ -10,28 +10,28 @@ releaseYear = 2006
 releaseLabel = "Leafage Jazz"
 releaseCode = "PCCY-60003"
 issue = 251
-[[lineup]]
+[[credits]]
   name = "Hikari Ichihara"
   slug = "hikari-ichihara"
   instrument = "trumpet & flugelhorn"
   japanese = "市原ひかり Ichihara Hikari"
-[[lineup]]
+[[credits]]
   name = "Adam Birnbaum"
   slug = "adam-birnbaum"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Peter Washington"
   slug = "peter-washington"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Lewis Nash"
   slug = "lewis-nash"
   instrument = "drums"
-[[lineup]]
+[[credits]]
   name = "Dominick Farinacci"
   slug = "dominick-farinacci"
   instrument = "trumpet"
-[[lineup]]
+[[credits]]
   name = "Grant Stewart"
   slug = "grant-stewart"
   instrument = "tenor saxophone"

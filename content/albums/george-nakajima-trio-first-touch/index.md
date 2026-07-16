@@ -10,17 +10,17 @@ releaseYear = 2021
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWL-022"
 issue = 174
-[[lineup]]
+[[credits]]
   name = "George Nakajima"
   slug = "george-nakajima"
   instrument = "piano"
   japanese = "中嶋錠二 Nakajima George"
-[[lineup]]
+[[credits]]
   name = "Yutaka Yoshida"
   slug = "yutaka-yoshida"
   instrument = "bass"
   japanese = "吉田豊 Yoshida Yutaka"
-[[lineup]]
+[[credits]]
   name = "Masanori Ando"
   slug = "masanori-ando"
   instrument = "drums"

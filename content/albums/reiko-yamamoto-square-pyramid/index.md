@@ -10,22 +10,22 @@ releaseYear = 2019
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1032"
 issue = 248
-[[lineup]]
+[[credits]]
   name = "Reiko Yamamoto"
   slug = "reiko-yamamoto"
   instrument = "vibraphone"
   japanese = "山本玲子 Yamamoto Reiko"
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano"
   japanese = "栗林すみれ Kuribayashi Sumire"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
   instrument = "drums"

@@ -10,12 +10,12 @@ releaseYear = 2011
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2048"
 issue = 83
-[[lineup]]
+[[credits]]
   name = "Shinichi Kato"
   slug = "shinichi-kato"
   instrument = "bass"
   japanese = "加藤真一 Kato Shinichi"
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano, synthesizers, arrangements"

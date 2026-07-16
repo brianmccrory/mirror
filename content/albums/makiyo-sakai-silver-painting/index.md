@@ -10,27 +10,27 @@ releaseYear = 2016
 releaseLabel = "Pony Canyon"
 releaseCode = "PCCY-30231"
 issue = 273
-[[lineup]]
+[[credits]]
   name = "Makiyo Sakai"
   slug = "makiyo-sakai"
   instrument = "flute"
   japanese = "酒井麻生代 Sakai Makiyo"
-[[lineup]]
+[[credits]]
   name = "Yoshihiko Naya"
   slug = "yoshihiko-naya"
   instrument = "piano/Rhodes"
   japanese = "納谷嘉彦 Naya Yoshihiko"
-[[lineup]]
+[[credits]]
   name = "Masayuki Tawarayama"
   slug = "masayuki-tawarayama"
   instrument = "bass"
   japanese = "俵山昌之 Tawarayama Masayuki"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[[lineup]]
+[[credits]]
   name = "Jun Kimura"
   slug = "jun-kimura"
   instrument = "acoustic guitar (#2, 7)"

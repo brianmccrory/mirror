@@ -10,37 +10,37 @@ releaseYear = 2012
 releaseLabel = "Marmalade Records"
 releaseCode = "MARM-0004"
 issue = 162
-[[lineup]]
+[[credits]]
   name = "Naoko Akimoto"
   slug = "naoko-akimoto"
   instrument = "vocal"
   japanese = "秋元直子 Akimoto Naoko"
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano"
   japanese = "遠藤征志 Endo Seiji"
-[[lineup]]
+[[credits]]
   name = "Akiyoshi Shimizu"
   slug = "akiyoshi-shimizu"
   instrument = "bass"
   japanese = "清水昭好 Shimizu Akiyoshi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "Shinpei Inoue"
   slug = "shinpei-inoue"
   instrument = "flute"
   japanese = "井上信平 Inoue Shinpei"
-[[lineup]]
+[[credits]]
   name = "Yasuhiro Matsuda"
   slug = "yasuhiro-matsuda"
   instrument = "alto sax"
   japanese = "松田靖弘 Matsuda Yasuhiro"
-[[lineup]]
+[[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
   instrument = "trumpet"

@@ -10,22 +10,22 @@ releaseYear = 2023
 releaseLabel = "DoLuck Jazz"
 releaseCode = "DLC-28"
 issue = 178
-[[lineup]]
+[[credits]]
   name = "Mariko Maeda"
   slug = "mariko-maeda"
   instrument = "trombone"
   japanese = "前田真梨子 Maeda Mariko"
-[[lineup]]
+[[credits]]
   name = "Kota Kaihori"
   slug = "kota-kaihori"
   instrument = "piano, trumpet on #4"
   japanese = "海堀弘太 Kaihori Kota"
-[[lineup]]
+[[credits]]
   name = "Yosuke Terao"
   slug = "yosuke-terao"
   instrument = "bass"
   japanese = "寺尾陽介 Terao Yosuke"
-[[lineup]]
+[[credits]]
   name = "Yuto Maseki"
   slug = "yuto-maseki"
   instrument = "drums"

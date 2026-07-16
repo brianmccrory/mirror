@@ -10,17 +10,17 @@ releaseYear = 2010
 releaseLabel = "Leccia Records / feel free products"
 releaseCode = "LRTR-0004"
 issue = 61
-[[lineup]]
+[[credits]]
   name = "Yuichi Hayashi"
   slug = "yuichi-hayashi"
   instrument = "Piano, Composition"
   japanese = "林祐市 Hayashi Yuichi"
-[[lineup]]
+[[credits]]
   name = "Morihiro Omura"
   slug = "morihiro-omura"
   instrument = "bass"
   japanese = "大村守弘 Omura Morihiro"
-[[lineup]]
+[[credits]]
   name = "Yoshitaka Yamashita"
   slug = "yoshitaka-yamashita"
   instrument = "drums"

@@ -10,25 +10,25 @@ releaseYear = 2020
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10109"
 issue = 200
-[[lineup]]
+[[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
   instrument = "tenor sax, woodwinds, 808 bass, samples & sound manipulation"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano, Rhodes, Wurlitzer, Minimoog"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums, tabla, gatam"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "Isabeau Hansen"
   slug = "isabeau-hansen"
   instrument = "flute"
-[[lineup]]
+[[credits]]
   name = "Gordon Richter"
   slug = "gordon-richter"
   instrument = "clarinet & bassoon"

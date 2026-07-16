@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "Itazura Records"
 releaseCode = "YUMO-713"
 issue = 353
-[[lineup]]
+[[credits]]
   name = "Yukari Sekiya"
   slug = "yukari-sekiya"
   instrument = "piano"
   japanese = "関谷友加里 Sekiya Yukari"
-[[lineup]]
+[[credits]]
   name = "Yuko Tanaka"
   slug = "yuko-tanaka"
   instrument = "voice"
   japanese = "田中ゆうこ Tanaka Yuko"
-[[lineup]]
+[[credits]]
   name = "Michihiro Morisada"
   slug = "michihiro-morisada"
   instrument = "bass"
   japanese = "森定道広 Morisada Michihiro"
-[[lineup]]
+[[credits]]
   name = "Tatsuya Hashimoto"
   slug = "tatsuya-hashimoto"
   instrument = "drums"

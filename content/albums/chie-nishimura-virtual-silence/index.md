@@ -10,22 +10,22 @@ releaseYear = 2021
 releaseLabel = "en records"
 releaseCode = "Virtual Silence / Chie Nishimura"
 issue = 272
-[[lineup]]
+[[credits]]
   name = "Chie Nishimura"
   slug = "chie-nishimura"
   instrument = "vocal"
   japanese = "西村知恵 Nishimura Chie"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "May Inoue"
   slug = "may-inoue"
   instrument = "guitar"
   japanese = "井上銘 Inoue May"
-[[lineup]]
+[[credits]]
   name = "Tamaya Honda"
   slug = "tamaya-honda"
   instrument = "drums"

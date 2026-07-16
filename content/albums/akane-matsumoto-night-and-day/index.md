@@ -10,16 +10,16 @@ releaseYear = 2017
 releaseLabel = "Concept Record"
 releaseCode = "CR07"
 issue = 2
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Peter Washington"
   slug = "peter-washington"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Gene Jackson"
   slug = "gene-jackson"
   instrument = "drums"

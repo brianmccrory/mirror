@@ -11,27 +11,27 @@ releaseYear = 2017
 releaseLabel = "Spice of Life"
 releaseCode = "SOLJP-0015"
 issue = 85
-[[lineup]]
+[[credits]]
   name = "Mabumi Yamaguchi"
   slug = "mabumi-yamaguchi"
   instrument = "Tenor & Soprano Sax"
   japanese = "山口真文 Yamaguchi Mabumi"
-[[lineup]]
+[[credits]]
   name = "Yoshitaka Shoji"
   slug = "yoshitaka-shoji"
   instrument = "guitar"
   japanese = "東海林由孝 Shoji Yoshitaka"
-[[lineup]]
+[[credits]]
   name = "Misato Okumura"
   slug = "misato-okumura"
   instrument = "piano"
   japanese = "奥村美里 Okumura Misato"
-[[lineup]]
+[[credits]]
   name = "Ryohei Komaki"
   slug = "ryohei-komaki"
   instrument = "bass"
   japanese = "小牧良平 Komaki Ryohei"
-[[lineup]]
+[[credits]]
   name = "Nobuyuki Komatsu"
   slug = "nobuyuki-komatsu"
   instrument = "drums"

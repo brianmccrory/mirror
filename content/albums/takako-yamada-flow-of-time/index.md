@@ -10,31 +10,31 @@ releaseYear = 2013
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1146"
 issue = 48
-[[lineup]]
+[[credits]]
   name = "Takako Yamada"
   slug = "takako-yamada"
   instrument = "piano"
   japanese = "山田貴子 Yamada Takako"
-[[lineup]]
+[[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
   instrument = "trumpet"
   japanese = "類家心平 Ruike Shinpei"
-[[lineup]]
+[[credits]]
   name = "Teriver Cheung"
   slug = "teriver-cheung"
   instrument = "guitar"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Gaku Hasegawa"
   slug = "gaku-hasegawa"
   instrument = "drums"
   japanese = "長谷川ガク Hasegawa Gaku"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "tabla, drums"

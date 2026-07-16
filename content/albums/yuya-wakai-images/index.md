@@ -10,7 +10,7 @@ releaseYear = 2013
 releaseLabel = "Mikorin Music"
 releaseCode = "MM-002"
 issue = 42
-[[lineup]]
+[[credits]]
   name = "Yuya Wakai"
   slug = "yuya-wakai"
   instrument = "piano"

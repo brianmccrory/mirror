@@ -10,17 +10,17 @@ releaseYear = 2021
 releaseLabel = "Coume Music"
 releaseCode = "CUM-2101"
 issue = 218
-[[lineup]]
+[[credits]]
   name = "Miyuki Moriya"
   slug = "miyuki-moriya"
   instrument = "saxophone"
   japanese = "守谷美由貴 Moriya Miyuki"
-[[lineup]]
+[[credits]]
   name = "Nobumasa Tanaka"
   slug = "nobumasa-tanaka"
   instrument = "piano"
   japanese = "田中信正 Tanaka Nobumasa"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Yoshino"
   slug = "hiroshi-yoshino"
   instrument = "bass"

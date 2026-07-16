@@ -10,22 +10,22 @@ releaseYear = 2019
 releaseLabel = "T-Toc Records"
 releaseCode = "TTOC-0032"
 issue = 95
-[[lineup]]
+[[credits]]
   name = "Noriko Satomi"
   slug = "noriko-satomi"
   instrument = "violin"
   japanese = "里見紀子 Satomi Noriko"
-[[lineup]]
+[[credits]]
   name = "Masaaki Imaizumi"
   slug = "masaaki-imaizumi"
   instrument = "piano"
   japanese = "今泉正明 Imaizumi Masaaki"
-[[lineup]]
+[[credits]]
   name = "Shin Kamimura"
   slug = "shin-kamimura"
   instrument = "bass"
   japanese = "上村信 Kamimura Shin"
-[[lineup]]
+[[credits]]
   name = "Masahiko Osaka"
   slug = "masahiko-osaka"
   instrument = "drums"

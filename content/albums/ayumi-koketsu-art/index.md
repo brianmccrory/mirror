@@ -10,20 +10,20 @@ releaseYear = 2016
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30653"
 issue = 3
-[[lineup]]
+[[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
   instrument = "alto sax"
   japanese = "纐纈歩美 Koketsu Ayumi"
-[[lineup]]
+[[credits]]
   name = "Jeremy Manasia"
   slug = "jeremy-manasia"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Mike Karn"
   slug = "mike-karn"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Mark Taylor"
   slug = "mark-taylor"
   instrument = "drums"

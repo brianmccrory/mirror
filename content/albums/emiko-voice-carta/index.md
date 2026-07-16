@@ -10,37 +10,37 @@ releaseYear = 2017
 releaseLabel = "Zipangu Label"
 releaseCode = "ZIP-0058"
 issue = 5
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "vocal"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano, Rhodes"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Akemi Ohta"
   slug = "akemi-ohta"
   instrument = "flute"
   japanese = "太田朱美 Ohta Akemi"
-[[lineup]]
+[[credits]]
   name = "Momoko Aida"
   slug = "momoko-aida"
   instrument = "violin"
   japanese = "会田桃子 Aida Momoko"
-[[lineup]]
+[[credits]]
   name = "Akira Tanidono"
   slug = "akira-tanidono"
   instrument = "trumpet"
   japanese = "谷殿明良 Tanidono Akira"
-[[lineup]]
+[[credits]]
   name = "Toru Nishijima"
   slug = "toru-nishijima"
   instrument = "bass"
   japanese = "西嶋徹 Nishijima Toru"
-[[lineup]]
+[[credits]]
   name = "Keita Okada"
   slug = "keita-okada"
   instrument = "drums, percussion"

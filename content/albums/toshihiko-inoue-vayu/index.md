@@ -10,7 +10,7 @@ releaseYear = 2016
 releaseLabel = "Foot & Shoe"
 releaseCode = "FSCJ-0011"
 issue = 23
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "solo saxophone"

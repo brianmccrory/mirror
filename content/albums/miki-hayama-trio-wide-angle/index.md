@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "ART UNION/@jazz"
 releaseCode = "ARTCD-114"
 issue = 41
-[[lineup]]
+[[credits]]
   name = "Miki Hayama"
   slug = "miki-hayama"
   instrument = "piano"
   japanese = "早間美紀 Hayama Miki"
-[[lineup]]
+[[credits]]
   name = "Kiyoshi Kitagawa"
   slug = "kiyoshi-kitagawa"
   instrument = "bass"
   japanese = "北川潔 Kitagawa Kiyoshi"
-[[lineup]]
+[[credits]]
   name = "Victor Lewis"
   slug = "victor-lewis"
   instrument = "drums"

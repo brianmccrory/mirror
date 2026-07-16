@@ -10,7 +10,7 @@ releaseYear = 2023
 releaseLabel = "Fair Play Records"
 releaseCode = "FPCD-1013"
 issue = 281
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano"

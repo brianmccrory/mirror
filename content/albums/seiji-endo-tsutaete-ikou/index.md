@@ -10,32 +10,32 @@ releaseYear = 2015
 releaseLabel = "Music Art Records"
 releaseCode = "MAR-1501"
 issue = 30
-[[lineup]]
+[[credits]]
   name = "Hiroco Nagano"
   slug = "hiroco-nagano"
   instrument = "vocal"
   japanese = "永野寛子 Nagano Hiroco"
-[[lineup]]
+[[credits]]
   name = "Shinya Nitta"
   slug = "shinya-nitta"
   instrument = "vocal"
   japanese = "仁田真也 Nitta Shinya"
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano, vocals"
   japanese = "遠藤征志 Endo Seiji"
-[[lineup]]
+[[credits]]
   name = "Yasuhiro Hasegawa"
   slug = "yasuhiro-hasegawa"
   instrument = "bass (#2)"
   japanese = "長谷川泰弘 Hasegawa Yasuhiro"
-[[lineup]]
+[[credits]]
   name = "Yoshiyuki Nakaya"
   slug = "yoshiyuki-nakaya"
   instrument = "drums (#2)"
   japanese = "中屋啓之 Nakaya Yoshiyuki"
-[[lineup]]
+[[credits]]
   name = "Arata Umehara"
   slug = "arata-umehara"
   instrument = "guitar (#2)"

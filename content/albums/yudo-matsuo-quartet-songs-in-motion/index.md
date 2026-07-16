@@ -10,22 +10,22 @@ releaseYear = 2018
 releaseLabel = "Song X Jazz"
 releaseCode = "SONGX-055"
 issue = 373
-[[lineup]]
+[[credits]]
   name = "Yudo Matsuo"
   slug = "yudo-matsuo"
   instrument = "electric & acoustic guitar"
   japanese = "松尾由堂 Matsuo Yudo"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano, Fender Rhodes"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Yoshimasa Otsuka"
   slug = "yoshimasa-otsuka"
   instrument = "bass"
   japanese = "大塚義将 Otsuka Yoshimasa"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums"
@@ -59,18 +59,6 @@ Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous
 {{< figure src="L1320765x-1200.jpeg" alt="Sticker of Songs in Motion by Yudo Matsuo Quartet" link="L1320765x-1200.jpeg" >}}
 
 {{< figure src="L1350325x-1200.jpeg" alt="Disc of Songs in Motion by Yudo Matsuo Quartet" link="L1350325x-1200.jpeg" >}}
-
-
-## Songs in Motion by Yudo Matsuo Quartet
-
--   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
--   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano, Fender Rhodes
--   [Yoshimasa Otsuka](/tags/yoshimasa-otsuka/) - bass
--   [Sota Kira](/tags/sota-kira/) - drums
-
-Released in 2018 on Song X Jazz as SONGX-055.
-
-_Japanese names: 松尾由堂 Matsuo Yudo 大口純一郎 Ohkuchi Junichiro 大塚義将 Otsuka Yoshimasa 吉良創太 Kira Sota_
 
 
 ## Audio and Video

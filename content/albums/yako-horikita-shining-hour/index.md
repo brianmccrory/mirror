@@ -10,27 +10,27 @@ releaseYear = 2017
 releaseLabel = "Kylym Records"
 releaseCode = "KYLYM-0001"
 issue = 86
-[[lineup]]
+[[credits]]
   name = "Yako Horikita"
   slug = "yako-horikita"
   instrument = "vocal"
   japanese = "堀北やこ Horikita Yako"
-[[lineup]]
+[[credits]]
   name = "Takenori Sawaki"
   slug = "takenori-sawaki"
   instrument = "alto saxophone"
   japanese = "佐脇武則 Sawaki Takenori"
-[[lineup]]
+[[credits]]
   name = "Makoto Deguchi"
   slug = "makoto-deguchi"
   instrument = "piano"
   japanese = "出口誠 Deguchi Makoto"
-[[lineup]]
+[[credits]]
   name = "Ken Kaneko"
   slug = "ken-kaneko"
   instrument = "bass"
   japanese = "金子健 Kaneko Ken"
-[[lineup]]
+[[credits]]
   name = "Nobuhiko Yamashita"
   slug = "nobuhiko-yamashita"
   instrument = "drums"

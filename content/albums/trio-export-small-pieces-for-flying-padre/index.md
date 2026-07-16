@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "Trio Export 63.1.0.X"
 releaseCode = "Small Pieces for Flying Padre"
 issue = 103
-[[lineup]]
+[[credits]]
   name = "Heitetsu Rin"
   slug = "heitetsu-rin"
   instrument = "piano"
   japanese = "リンヘイテツ Rin Heitetsu"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Masatsugu Hattori"
   slug = "masatsugu-hattori"
   instrument = "drums"

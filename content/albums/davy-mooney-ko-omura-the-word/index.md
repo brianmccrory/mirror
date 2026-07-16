@@ -10,24 +10,24 @@ releaseYear = 2025
 releaseLabel = "Sunnyside Communications"
 releaseCode = "SSC-1764"
 issue = 333
-[[lineup]]
+[[credits]]
   name = "Davy Mooney"
   slug = "davy-mooney"
   instrument = "guitar"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums, tabla (#7, 9)"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "John Ellis"
   slug = "john-ellis"
   instrument = "tenor & soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)"
-[[lineup]]
+[[credits]]
   name = "Glenn Zaleski"
   slug = "glenn-zaleski"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Matt Clohesy"
   slug = "matt-clohesy"
   instrument = "bass"

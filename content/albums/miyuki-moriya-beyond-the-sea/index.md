@@ -10,27 +10,27 @@ releaseYear = 2024
 releaseLabel = "Coume Music"
 releaseCode = "CUM-2401"
 issue = 291
-[[lineup]]
+[[credits]]
   name = "Miyuki Moriya"
   slug = "miyuki-moriya"
   instrument = "alto sax, soprano sax"
   japanese = "守谷美由貴 Moriya Miyuki"
-[[lineup]]
+[[credits]]
   name = "Kosuke Mine"
   slug = "kosuke-mine"
   instrument = "tenor sax (#2, 3, 5, 6, 7)"
   japanese = "峰厚介 Mine Kosuke"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Junichi Sato"
   slug = "junichi-sato"
   instrument = "bass"
   japanese = "佐藤潤一 Sato Junichi"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"

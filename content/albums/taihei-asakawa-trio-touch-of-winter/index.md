@@ -10,17 +10,17 @@ releaseYear = 2013
 releaseLabel = "D-musica Daiki Musica"
 releaseCode = "DMCD-26"
 issue = 57
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano, compositions"
   japanese = "浅川太平 Asakawa Taihei"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums"

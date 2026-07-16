@@ -10,27 +10,27 @@ releaseYear = 2018
 releaseLabel = "Hitomi Aikawa"
 releaseCode = "HICD-001"
 issue = 330
-[[lineup]]
+[[credits]]
   name = "Hitomi Aikawa"
   slug = "hitomi-aikawa"
   instrument = "percussion"
   japanese = "相川瞳 Aikawa Hitomi"
-[[lineup]]
+[[credits]]
   name = "Masaki Hayashi"
   slug = "masaki-hayashi"
   instrument = "piano (#2, 11, 13, 14)"
   japanese = "林正樹 Hayashi Masaki"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Suzuki"
   slug = "hiroshi-suzuki"
   instrument = "soprano sax (#2, 14), tenor sax (#12), clarinet (#13)"
   japanese = "鈴木広志 Suzuki Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Megumi Hattori"
   slug = "megumi-hattori"
   instrument = "vibraphone (#4)"
   japanese = "服部恵 Hattori Megumi"
-[[lineup]]
+[[credits]]
   name = "Eri Uenoyama"
   slug = "eri-uenoyama"
   instrument = "piano (#8, 9)"

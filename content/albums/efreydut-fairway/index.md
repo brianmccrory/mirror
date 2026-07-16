@@ -10,17 +10,17 @@ releaseYear = 2024
 releaseLabel = "Tommy’s Record"
 releaseCode = "TW-002"
 issue = 236
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drumset, tabla"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "Kanoa Mendenhall"
   slug = "kanoa-mendenhall"
   instrument = "bass"

@@ -10,27 +10,27 @@ releaseYear = 1993
 releaseLabel = "Verve Records"
 releaseCode = "POCJ-1195"
 issue = 121
-[[lineup]]
+[[credits]]
   name = "Kosuke Mine"
   slug = "kosuke-mine"
   instrument = "tenor saxophone"
   japanese = "峰厚介 Mine Kosuke"
-[[lineup]]
+[[credits]]
   name = "Kazumasa Akiyama"
   slug = "kazumasa-akiyama"
   instrument = "guitar"
   japanese = "秋山一将 Akiyama Kazumasa"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Tsutomu Okada"
   slug = "tsutomu-okada"
   instrument = "bass"
   japanese = "岡田勉 Okada Tsutomu"
-[[lineup]]
+[[credits]]
   name = "Ryojiro Furusawa"
   slug = "ryojiro-furusawa"
   instrument = "drums"

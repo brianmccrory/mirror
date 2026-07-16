@@ -10,22 +10,22 @@ releaseYear = 2015
 releaseLabel = "Flower Records"
 releaseCode = "FLRC-070"
 issue = 24
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[[lineup]]
+[[credits]]
   name = "Kazuhiro Sunaga"
   slug = "kazuhiro-sunaga"
   instrument = "bass"
   japanese = "須長和広 Sunaga Kazuhiro"
-[[lineup]]
+[[credits]]
   name = "Kazuhiro Tamura"
   slug = "kazuhiro-tamura"
   instrument = "piano"
   japanese = "田村和大 Tamura Kazuhiro"
-[[lineup]]
+[[credits]]
   name = "BLAHMUZIK"
   slug = "blahmuzik"
   instrument = "sampler"

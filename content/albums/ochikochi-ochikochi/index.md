@@ -10,17 +10,17 @@ releaseYear = 2012
 releaseLabel = "K’s Project"
 releaseCode = "KP-0001"
 issue = 366
-[[lineup]]
+[[credits]]
   name = "Taiichi Kamimura"
   slug = "taiichi-kamimura"
   instrument = "tenor and soprano sax"
   japanese = "かみむら泰一 Kamimura Taiichi"
-[[lineup]]
+[[credits]]
   name = "Norikatsu Koreyasu"
   slug = "norikatsu-koreyasu"
   instrument = "wood bass"
   japanese = "是安則克 Koreyasu Norikatsu"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums"

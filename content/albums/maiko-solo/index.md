@@ -10,7 +10,7 @@ releaseYear = 2018
 releaseLabel = "T-Toc Records"
 releaseCode = "TTOC-0029"
 issue = 107
-[[lineup]]
+[[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin"

@@ -10,37 +10,37 @@ releaseYear = 2015
 releaseLabel = "Usagi Record"
 releaseCode = "UR-001"
 issue = 276
-[[lineup]]
+[[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
   instrument = "piano"
   japanese = "千葉史絵 Chiba Fumie"
-[[lineup]]
+[[credits]]
   name = "Koji Tetsui"
   slug = "koji-tetsui"
   instrument = "bass on #1, 2, 4"
   japanese = "鉄井孝司 Tetsui Koji"
-[[lineup]]
+[[credits]]
   name = "Kaoru Suzuki"
   slug = "kaoru-suzuki"
   instrument = "drums on #1, 2, 4"
   japanese = "鈴木郁 Suzuki Kaoru"
-[[lineup]]
+[[credits]]
   name = "Mitsuru Tanaka"
   slug = "mitsuru-tanaka"
   instrument = "trumpet, horn on #1, 4"
   japanese = "田中充 Tanaka Mitsuru"
-[[lineup]]
+[[credits]]
   name = "Shunosuke Ishikawa"
   slug = "shunosuke-ishikawa"
   instrument = "tenor sax on #1, 4"
   japanese = "石川周之介 Ishikawa Shunosuke"
-[[lineup]]
+[[credits]]
   name = "Nao Teraya"
   slug = "nao-teraya"
   instrument = "guitar on #1, 4"
   japanese = "寺屋ナオ Teraya Nao"
-[[lineup]]
+[[credits]]
   name = "Hirokazu Ishida"
   slug = "hirokazu-ishida"
   instrument = "soprano sax on #1"

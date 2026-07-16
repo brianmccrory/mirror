@@ -10,20 +10,20 @@ releaseYear = 2006
 releaseLabel = "Verve"
 releaseCode = "UCCJ-9077"
 issue = 231
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Larry Grenadier"
   slug = "larry-grenadier"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Jeff Ballard"
   slug = "jeff-ballard"
   instrument = "drums"
-[[lineup]]
+[[credits]]
   name = "John Carlini"
   slug = "john-carlini"
   instrument = "guitar (#1, 5), banjo (#3)"

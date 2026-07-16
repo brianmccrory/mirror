@@ -10,25 +10,25 @@ releaseYear = 2013
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-03"
 issue = 97
-[[lineup]]
+[[credits]]
   name = "Hiromi Miura"
   slug = "hiromi-miura"
   instrument = "alto and soprano saxophone"
   japanese = "三浦裕美 Miura Hiromi"
-[[lineup]]
+[[credits]]
   name = "Yago Vázquez"
   slug = "yago-vzquez"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Greg Ruggiero"
   slug = "greg-ruggiero"
   instrument = "guitar"
-[[lineup]]
+[[credits]]
   name = "Ryoichi Zakota"
   slug = "ryoichi-zakota"
   instrument = "bass"
   japanese = "座小田諒一 Zakota Ryoichi"
-[[lineup]]
+[[credits]]
   name = "Paolo Orlandi"
   slug = "paolo-orlandi"
   instrument = "drums"

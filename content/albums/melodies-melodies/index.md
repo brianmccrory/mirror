@@ -10,22 +10,22 @@ releaseYear = 2025
 releaseLabel = "Ammonite Musique"
 releaseCode = "AM-006"
 issue = 315
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar, baritone guitar"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Kenta Tsugami"
   slug = "kenta-tsugami"
   instrument = "alto saxophone"
   japanese = "津上研太 Tsugami Kenta"
-[[lineup]]
+[[credits]]
   name = "Minyen Hsieh"
   slug = "minyen-hsieh"
   instrument = "tenor saxophone (#1, 2, 3, 4, 6, 8)"
   japanese = "謝明諺 Hsieh Minyen"
-[[lineup]]
+[[credits]]
   name = "Akira Sotoyama"
   slug = "akira-sotoyama"
   instrument = "drums"

@@ -10,27 +10,27 @@ releaseYear = 2007
 releaseLabel = "Bb Records"
 releaseCode = "Bb"
 issue = 113
-[[lineup]]
+[[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
   instrument = "vocal"
   japanese = "石川早苗 Ishikawa Sanae"
-[[lineup]]
+[[credits]]
   name = "Monet"
   slug = "monet"
   instrument = "lead vocal, 2nd chorus"
   japanese = "モネ Monet"
-[[lineup]]
+[[credits]]
   name = "Kyoko Ogata"
   slug = "kyoko-ogata"
   instrument = "lead vocal, 3rd chorus"
   japanese = "緒方京子 Ogata Kyoko"
-[[lineup]]
+[[credits]]
   name = "Takahiko Goto"
   slug = "takahiko-goto"
   instrument = "lead vocal, 4th chorus, bass, voice trumpet"
   japanese = "ごとうたかひこ Goto Takahiko"
-[[lineup]]
+[[credits]]
   name = "Yohhei"
   slug = "yohhei"
   instrument = "lead vocal, bass, 4th chorus, human beat box"

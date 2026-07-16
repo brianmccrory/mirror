@@ -10,17 +10,17 @@ releaseYear = 2010
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-06"
 issue = 90
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Gene Jackson"
   slug = "gene-jackson"
   instrument = "drums"

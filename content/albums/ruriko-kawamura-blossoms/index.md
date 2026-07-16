@@ -10,22 +10,22 @@ releaseYear = 2016
 releaseLabel = "LooLoo Entertainment Records"
 releaseCode = "lulu001"
 issue = 146
-[[lineup]]
+[[credits]]
   name = "Ruriko Kawamura"
   slug = "ruriko-kawamura"
   instrument = "vocal"
   japanese = "河村留理子 Kawamura Ruriko"
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano"
   japanese = "遠藤征志 Endo Seiji"
-[[lineup]]
+[[credits]]
   name = "Noriko Satomi"
   slug = "noriko-satomi"
   instrument = "violin"
   japanese = "里見紀子 Satomi Noriko"
-[[lineup]]
+[[credits]]
   name = "Akira Sekine"
   slug = "akira-sekine"
   instrument = "guitar"

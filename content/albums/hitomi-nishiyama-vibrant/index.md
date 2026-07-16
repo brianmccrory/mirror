@@ -10,7 +10,7 @@ releaseYear = 2020
 releaseLabel = "Meantone Records"
 releaseCode = "MT-08"
 issue = 181
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"

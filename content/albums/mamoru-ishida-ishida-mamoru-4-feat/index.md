@@ -10,21 +10,21 @@ releaseYear = 2011
 releaseLabel = "Anturtle Analog Recordings"
 releaseCode = "ANTX-1002"
 issue = 203
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
   instrument = "saxophone"
-[[lineup]]
+[[credits]]
   name = "Show Kudo"
   slug = "show-kudo"
   instrument = "bass"
   japanese = "工藤精 Kudo Show"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums"

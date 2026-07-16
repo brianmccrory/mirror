@@ -10,27 +10,27 @@ releaseYear = 2009
 releaseLabel = "Pax Box Press"
 releaseCode = "PBP-0001"
 issue = 13
-[[lineup]]
+[[credits]]
   name = "Satoshi Kosugi"
   slug = "satoshi-kosugi"
   instrument = "bass"
   japanese = "小杉敏 Kosugi Satoshi"
-[[lineup]]
+[[credits]]
   name = "Yoshiro Okazaki"
   slug = "yoshiro-okazaki"
   instrument = "trumpet"
   japanese = "岡崎好朗 Okazaki Yoshiro"
-[[lineup]]
+[[credits]]
   name = "Kazuhide Motooka"
   slug = "kazuhide-motooka"
   instrument = "piano"
   japanese = "元岡一英 Motooka Kazuhide"
-[[lineup]]
+[[credits]]
   name = "Shinji Hashimoto"
   slug = "shinji-hashimoto"
   instrument = "guitar"
   japanese = "橋本信二 Hashimoto Shinji"
-[[lineup]]
+[[credits]]
   name = "Yoshihito Eto"
   slug = "yoshihito-eto"
   instrument = "drums"

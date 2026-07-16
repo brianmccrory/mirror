@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "Urban Jazz"
 releaseCode = "Path of Hope"
 issue = 82
-[[lineup]]
+[[credits]]
   name = "Minoru Yoshiki"
   slug = "minoru-yoshiki"
   instrument = "contrabass"
   japanese = "吉木稔 Yoshiki Minoru"
-[[lineup]]
+[[credits]]
   name = "Osamu Soda"
   slug = "osamu-soda"
   instrument = "piano"
   japanese = "祖田修 Soda Osamu"
-[[lineup]]
+[[credits]]
   name = "Shuji Morita"
   slug = "shuji-morita"
   instrument = "tenor sax"

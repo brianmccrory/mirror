@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "Sayaketts"
 releaseCode = "SKTS-001"
 issue = 58
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano, Rhodes, keyboards, pianica"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Satoshi Kohno"
   slug = "satoshi-kohno"
   instrument = "electric bass"
   japanese = "鴻野暁司 Kohno Satoshi"
-[[lineup]]
+[[credits]]
   name = "Yoshihiro Nakagawa"
   slug = "yoshihiro-nakagawa"
   instrument = "drums"

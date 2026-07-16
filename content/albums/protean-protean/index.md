@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "Protean"
 releaseCode = "Protean"
 issue = 142
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Naoyuki Seto"
   slug = "naoyuki-seto"
   instrument = "electric bass"
   japanese = "瀬戸尚幸 Seto Naoyuki"
-[[lineup]]
+[[credits]]
   name = "Dan Yoshikawa"
   slug = "dan-yoshikawa"
   instrument = "drums"

@@ -10,52 +10,52 @@ releaseYear = 2021
 releaseLabel = "KP-LAB"
 releaseCode = "KP-0001"
 issue = 312
-[[lineup]]
+[[credits]]
   name = "Tokuhiro Doi"
   slug = "tokuhiro-doi"
   instrument = "alto sax, flute, clarinet"
   japanese = "土井徳浩 Doi Tokuhiro"
-[[lineup]]
+[[credits]]
   name = "Akihiro Nishiguchi"
   slug = "akihiro-nishiguchi"
   instrument = "tenor sax, flute"
   japanese = "西口明宏 Nishiguchi Akihiro"
-[[lineup]]
+[[credits]]
   name = "Yu Kuga"
   slug = "yu-kuga"
   instrument = "baritone sax"
   japanese = "陸悠 Kuga Yu"
-[[lineup]]
+[[credits]]
   name = "Miki Hirose"
   slug = "miki-hirose"
   instrument = "trumpet 1"
   japanese = "広瀬未来 Hirose Miki"
-[[lineup]]
+[[credits]]
   name = "Takuya Kuroda"
   slug = "takuya-kuroda"
   instrument = "trumpet 2"
   japanese = "黒田卓也 Kuroda Takuya"
-[[lineup]]
+[[credits]]
   name = "Hirotsugu Sakemoto"
   slug = "hirotsugu-sakemoto"
   instrument = "trombone 1"
   japanese = "酒本廣継 Sakemoto Hirotsugu"
-[[lineup]]
+[[credits]]
   name = "Shigetaka Ikemoto"
   slug = "shigetaka-ikemoto"
   instrument = "trombone 2"
   japanese = "池本茂貴 Ikemoto Shigetaka"
-[[lineup]]
+[[credits]]
   name = "Jun Miyakawa"
   slug = "jun-miyakawa"
   instrument = "piano"
   japanese = "宮川純 Miyakawa Jun"
-[[lineup]]
+[[credits]]
   name = "Kunpei Nakabayashi"
   slug = "kunpei-nakabayashi"
   instrument = "bass"
   japanese = "中林薫平 Nakabayashi Kunpei"
-[[lineup]]
+[[credits]]
   name = "Tomo Kanno"
   slug = "tomo-kanno"
   instrument = "drums"

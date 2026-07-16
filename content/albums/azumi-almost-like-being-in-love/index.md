@@ -10,22 +10,22 @@ releaseYear = 2010
 releaseLabel = "Jazz On Top Records"
 releaseCode = "JOT-1009-1"
 issue = 96
-[[lineup]]
+[[credits]]
   name = "Azumi"
   slug = "azumi"
   instrument = "vocal"
   japanese = "あづみ Azumi"
-[[lineup]]
+[[credits]]
   name = "Sachiko Ikuta"
   slug = "sachiko-ikuta"
   instrument = "piano"
   japanese = "生田さち子 Ikuta Sachiko"
-[[lineup]]
+[[credits]]
   name = "Tetsuro Aratama"
   slug = "tetsuro-aratama"
   instrument = "bass"
   japanese = "荒玉哲郎 Aratama Tetsuro"
-[[lineup]]
+[[credits]]
   name = "Kengo Komae"
   slug = "kengo-komae"
   instrument = "drums"

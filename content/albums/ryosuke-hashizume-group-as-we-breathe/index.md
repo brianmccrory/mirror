@@ -10,32 +10,32 @@ releaseYear = 2008
 releaseLabel = "BounDEE Jazz Library"
 releaseCode = "DDCJ-13004/DDCJ-7004"
 issue = 323
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor saxophone, loops"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar, effects"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums"
   japanese = "橋本学 Hashimoto Manabu"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Masako Hamamura"
   slug = "masako-hamamura"
   instrument = "piano (#2, 8, 9)"
   japanese = "浜村昌子 Hamamura Masako"
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)"

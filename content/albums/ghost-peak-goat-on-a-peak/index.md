@@ -10,22 +10,22 @@ releaseYear = 2023
 releaseLabel = "Stereo Equipment Music Works"
 releaseCode = "SEMW-04"
 issue = 296
-[[lineup]]
+[[credits]]
   name = "Shinji Miyazaki"
   slug = "shinji-miyazaki"
   instrument = "guitar"
   japanese = "宮崎真司 Miyazaki Shinji"
-[[lineup]]
+[[credits]]
   name = "Natsuki Tamura"
   slug = "natsuki-tamura"
   instrument = "trumpet"
   japanese = "田村夏樹 Tamura Natsuki"
-[[lineup]]
+[[credits]]
   name = "Taeko Kurita"
   slug = "taeko-kurita"
   instrument = "piano"
   japanese = "栗田妙子 Kurita Taeko"
-[[lineup]]
+[[credits]]
   name = "Hiroaki Mizutani"
   slug = "hiroaki-mizutani"
   instrument = "bass"

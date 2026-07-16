@@ -10,27 +10,27 @@ releaseYear = 2015
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-05"
 issue = 124
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Masanori Ando"
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-[[lineup]]
+[[credits]]
   name = "Yoshiro Okazaki"
   slug = "yoshiro-okazaki"
   instrument = "trumpet (tr. #6, 8)"
   japanese = "岡崎好朗 Okazaki Yoshiro"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass (tr. #9)"

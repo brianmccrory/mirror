@@ -10,22 +10,22 @@ releaseYear = 2024
 releaseLabel = "Live at Alfie"
 releaseCode = "AFCD-6008"
 issue = 369
-[[lineup]]
+[[credits]]
   name = "Koichi Hirata"
   slug = "koichi-hirata"
   instrument = "guitar"
   japanese = "平田晃一 Hirata Koichi"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Yutaka Yoshida"
   slug = "yutaka-yoshida"
   instrument = "bass"
   japanese = "吉田豊 Yoshida Yutaka"
-[[lineup]]
+[[credits]]
   name = "Yusuke Yaginuma"
   slug = "yusuke-yaginuma"
   instrument = "drums"

@@ -10,27 +10,27 @@ releaseYear = 2003
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2022"
 issue = 215
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Tetsuyuki Kishi"
   slug = "tetsuyuki-kishi"
   instrument = "bass"
   japanese = "岸徹至 Kishi Tetsuyuki"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums (#1, 4, 5, 8)"
   japanese = "橋本学 Hashimoto Manabu"
-[[lineup]]
+[[credits]]
   name = "Nobuyuki Komatsu"
   slug = "nobuyuki-komatsu"
   instrument = "drums (#2, 3, 6, 7, 9)"
   japanese = "小松伸之 Komatsu Nobuyuki"
-[[lineup]]
+[[credits]]
   name = "Hideki Kawamura"
   slug = "hideki-kawamura"
   instrument = "tenor sax (#1, 2, 6, 9)"

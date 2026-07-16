@@ -10,32 +10,32 @@ releaseYear = 2011
 releaseLabel = "Coume Music"
 releaseCode = "DQC-614"
 issue = 111
-[[lineup]]
+[[credits]]
   name = "Yuko Miyawaki"
   slug = "yuko-miyawaki"
   instrument = "trumpet, flugelhorn"
   japanese = "宮脇裕子 Miyawaki Yuko"
-[[lineup]]
+[[credits]]
   name = "Yutaka Handa"
   slug = "yutaka-handa"
   instrument = "tenor sax"
   japanese = "伴田裕 Handa Yutaka"
-[[lineup]]
+[[credits]]
   name = "Taeko Kurita"
   slug = "taeko-kurita"
   instrument = "piano"
   japanese = "栗田妙子 Kurita Taeko"
-[[lineup]]
+[[credits]]
   name = "Yutaka Kaido"
   slug = "yutaka-kaido"
   instrument = "bass"
   japanese = "カイドーユタカ Kaido Yutaka"
-[[lineup]]
+[[credits]]
   name = "Masashi Tomikawa"
   slug = "masashi-tomikawa"
   instrument = "drums"
   japanese = "冨川政嗣 Tomikawa Masashi"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano (tr. #3, 5, 6, 8, 9)"

@@ -10,22 +10,22 @@ releaseYear = 2007
 releaseLabel = "Ammonite Musique"
 releaseCode = "AM-1001"
 issue = 253
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Hikaru Toho"
   slug = "hikaru-toho"
   instrument = "acoustic bass"
   japanese = "東保光 Toho Hikaru"
-[[lineup]]
+[[credits]]
   name = "Shinichiro Kamoto"
   slug = "shinichiro-kamoto"
   instrument = "drums"
   japanese = "嘉本信一郎 Kamoto Shinichiro"
-[[lineup]]
+[[credits]]
   name = "Taiichi Kamimura"
   slug = "taiichi-kamimura"
   instrument = "tenor sax (#2, 5, 6, 10)"

@@ -10,17 +10,17 @@ releaseYear = 2012
 releaseLabel = "Truestar Entertainment"
 releaseCode = "TSR-51102"
 issue = 112
-[[lineup]]
+[[credits]]
   name = "Shunichi Yanagi"
   slug = "shunichi-yanagi"
   instrument = "piano"
   japanese = "柳隼一 Yanagi Shunichi"
-[[lineup]]
+[[credits]]
   name = "Ryo Shibata"
   slug = "ryo-shibata"
   instrument = "drums"
   japanese = "柴田亮 Shibata Ryo"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"

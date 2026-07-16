@@ -10,17 +10,17 @@ releaseYear = 2015
 releaseLabel = "55 Records"
 releaseCode = "JNCJ-5561"
 issue = 36
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Yasushi Nakamura"
   slug = "yasushi-nakamura"
   instrument = "bass"
   japanese = "中村恭士 Nakamura Yasushi"
-[[lineup]]
+[[credits]]
   name = "Carmen Intorre Jr."
   slug = "carmen-intorre-jr"
   instrument = "drums"

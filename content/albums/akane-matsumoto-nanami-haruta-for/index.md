@@ -10,12 +10,12 @@ releaseYear = 2023
 releaseLabel = "Concept Record"
 releaseCode = "CR-17"
 issue = 189
-[[lineup]]
+[[credits]]
   name = "Nanami Haruta"
   slug = "nanami-haruta"
   instrument = "trombone"
   japanese = "治田七海 Haruta Nanami"
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"

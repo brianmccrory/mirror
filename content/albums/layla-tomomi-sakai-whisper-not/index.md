@@ -10,17 +10,17 @@ releaseYear = 2016
 releaseLabel = "Sakai Layla Tomomi"
 releaseCode = 1
 issue = 132
-[[lineup]]
+[[credits]]
   name = "Layla Tomomi Sakai"
   slug = "layla-tomomi-sakai"
   instrument = "vocal"
   japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[lineup]]
+[[credits]]
   name = "Yuichiro Hiraoka"
   slug = "yuichiro-hiraoka"
   instrument = "guitar"
   japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Ryuichi Takase"
   slug = "ryuichi-takase"
   instrument = "trumpet"

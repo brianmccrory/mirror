@@ -11,24 +11,24 @@ releaseYear = 2017
 releaseLabel = "Cloud"
 releaseCode = "DDCJ-4019"
 issue = 1
-[[lineup]]
+[[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
   instrument = "drums"
   japanese = "池長和美 Ikenaga Kazumi"
-[[lineup]]
+[[credits]]
   name = "Christian Vuust"
   slug = "christian-vuust"
   instrument = "tenor saxophone and clarinet"
-[[lineup]]
+[[credits]]
   name = "Jakob Buchanan"
   slug = "jakob-buchanan"
   instrument = "flugelhorn"
-[[lineup]]
+[[credits]]
   name = "Soren Dahl Jeppesen"
   slug = "soren-dahl-jeppesen"
   instrument = "guitar"
-[[lineup]]
+[[credits]]
   name = "Klaus Nørgaard"
   slug = "klaus-nrgaard"
   instrument = "bass"

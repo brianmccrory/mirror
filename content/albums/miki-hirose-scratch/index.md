@@ -10,29 +10,29 @@ releaseYear = 2013
 releaseLabel = "Jazz Lab Records"
 releaseCode = "JLR-1301"
 issue = 128
-[[lineup]]
+[[credits]]
   name = "Miki Hirose"
   slug = "miki-hirose"
   instrument = "trumpet & flugelhorn"
   japanese = "広瀬未来 Hirose Miki"
-[[lineup]]
+[[credits]]
   name = "Xavier Perez"
   slug = "xavier-perez"
   instrument = "tenor sax"
-[[lineup]]
+[[credits]]
   name = "Toru Dodo"
   slug = "toru-dodo"
   instrument = "piano, Fender Rhodes"
   japanese = "百々徹 Dodo Toru"
-[[lineup]]
+[[credits]]
   name = "Aiden O’Donnell"
   slug = "aiden-odonnell"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Jerome Jennings"
   slug = "jerome-jennings"
   instrument = "drums"
-[[lineup]]
+[[credits]]
   name = "Mauricio Herrera"
   slug = "mauricio-herrera"
   instrument = "congas (#1, 3, 4)"

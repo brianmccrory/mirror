@@ -10,27 +10,27 @@ releaseYear = 2010
 releaseLabel = "Coume Music"
 releaseCode = "DQC-565"
 issue = 102
-[[lineup]]
+[[credits]]
   name = "Miyuki Moriya"
   slug = "miyuki-moriya"
   instrument = "alto sax"
   japanese = "守谷美由貴 Moriya Miyuki"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Kohei Kamuro"
   slug = "kohei-kamuro"
   instrument = "guitar"
   japanese = "かむろ耕平 Kamuro Kohei"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Ikejiri"
   slug = "hiroshi-ikejiri"
   instrument = "bass"
   japanese = "池尻洋史 Ikejiri Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"

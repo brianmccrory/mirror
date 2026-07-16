@@ -10,12 +10,12 @@ releaseYear = 2022
 releaseLabel = "Core Port"
 releaseCode = "RPOL-10012"
 issue = 211
-[[lineup]]
+[[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
   instrument = "trumpet"
   japanese = "類家心平 Ruike Shinpei"
-[[lineup]]
+[[credits]]
   name = "George Nakajima"
   slug = "george-nakajima"
   instrument = "piano"

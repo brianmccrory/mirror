@@ -10,22 +10,22 @@ releaseYear = 2014
 releaseLabel = "MOF Records"
 releaseCode = "MOF-101"
 issue = 229
-[[lineup]]
+[[credits]]
   name = "Hiroshi Fukutomi"
   slug = "hiroshi-fukutomi"
   instrument = "electric guitar, acoustic guitar, harmonica"
   japanese = "福冨博 Fukutomi Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano, Rhodes"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums"

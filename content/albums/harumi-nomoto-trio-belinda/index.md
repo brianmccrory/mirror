@@ -10,17 +10,17 @@ releaseYear = 2007
 releaseLabel = "Anturtle Tune/BQ Records"
 releaseCode = "BQR-2040"
 issue = 115
-[[lineup]]
+[[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano, Fender Rhodes electric piano"
   japanese = "野本晴美 Nomoto Harumi"
-[[lineup]]
+[[credits]]
   name = "Noboru Ando"
   slug = "noboru-ando"
   instrument = "bass"
   japanese = "安東昇 Ando Noboru"
-[[lineup]]
+[[credits]]
   name = "Daisuke Yoshioka"
   slug = "daisuke-yoshioka"
   instrument = "drums"

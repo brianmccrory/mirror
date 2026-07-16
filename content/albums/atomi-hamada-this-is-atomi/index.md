@@ -10,17 +10,17 @@ releaseYear = 2017
 releaseLabel = "Atomi Hamada"
 releaseCode = "This is Atomi"
 issue = 33
-[[lineup]]
+[[credits]]
   name = "Atomi Hamada"
   slug = "atomi-hamada"
   instrument = "vocal"
   japanese = "浜田亜東実 Hamada Atomi"
-[[lineup]]
+[[credits]]
   name = "Momo Nonami"
   slug = "momo-nonami"
   instrument = "piano"
   japanese = "野波桃 Nonami Momo"
-[[lineup]]
+[[credits]]
   name = "Hiroaki Mizutani"
   slug = "hiroaki-mizutani"
   instrument = "bass"

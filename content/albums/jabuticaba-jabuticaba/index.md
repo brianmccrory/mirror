@@ -10,22 +10,22 @@ releaseYear = 2021
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWL-020"
 issue = 233
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
-[[lineup]]
+[[credits]]
   name = "Nami Kano"
   slug = "nami-kano"
   instrument = "saxophone"
   japanese = "加納奈実 Kano Nami"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass (track #8)"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums (track #8)"

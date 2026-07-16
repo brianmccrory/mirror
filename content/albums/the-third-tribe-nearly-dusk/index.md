@@ -10,12 +10,12 @@ releaseYear = 2019
 releaseLabel = "Timemachine Record"
 releaseCode = "TMCD-1014"
 issue = 337
-[[lineup]]
+[[credits]]
   name = "Yoko Kobayashi"
   slug = "yoko-kobayashi"
   instrument = "piano"
   japanese = "小林洋子 Kobayashi Yoko"
-[[lineup]]
+[[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
   instrument = "drums"

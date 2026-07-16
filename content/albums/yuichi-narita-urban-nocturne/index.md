@@ -10,7 +10,7 @@ releaseYear = 2021
 releaseLabel = "Coffee Table Records"
 releaseCode = "COTA-001"
 issue = 197
-[[lineup]]
+[[credits]]
   name = "Yuichi Narita"
   slug = "yuichi-narita"
   instrument = "piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion"

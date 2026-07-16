@@ -10,22 +10,22 @@ releaseYear = 2010
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4009"
 issue = 152
-[[lineup]]
+[[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
   instrument = "piano"
   japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[lineup]]
+[[credits]]
   name = "Ryu Kawamura"
   slug = "ryu-kawamura"
   instrument = "bass"
   japanese = "川村竜 Kawamura Ryu"
-[[lineup]]
+[[credits]]
   name = "Kohzo Komori"
   slug = "kohzo-komori"
   instrument = "drums"
   japanese = "小森耕造 Komori Kohzo"
-[[lineup]]
+[[credits]]
   name = "DJ Passo"
   slug = "dj-passo"
   instrument = "(on #6)"

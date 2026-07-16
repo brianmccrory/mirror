@@ -10,27 +10,27 @@ releaseYear = 2014
 releaseLabel = "Sunmoon Music"
 releaseCode = "SMCD-0005"
 issue = 130
-[[lineup]]
+[[credits]]
   name = "Ayako Taira"
   slug = "ayako-taira"
   instrument = "vocal"
   japanese = "平良亜矢子 Taira Ayako"
-[[lineup]]
+[[credits]]
   name = "Noriko Kotani"
   slug = "noriko-kotani"
   instrument = "vocal"
   japanese = "小谷のりこ Kotani Noriko"
-[[lineup]]
+[[credits]]
   name = "Norihiko Kawakubo"
   slug = "norihiko-kawakubo"
   instrument = "piano"
   japanese = "川久保典彦 Kawakubo Norihiko"
-[[lineup]]
+[[credits]]
   name = "Yohei Tanaka"
   slug = "yohei-tanaka"
   instrument = "bass"
   japanese = "田中洋平 Tanaka Yohei"
-[[lineup]]
+[[credits]]
   name = "Tomohiro Ota"
   slug = "tomohiro-ota"
   instrument = "drums"

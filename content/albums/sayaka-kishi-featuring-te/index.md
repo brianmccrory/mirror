@@ -10,17 +10,17 @@ releaseYear = 2014
 releaseLabel = "Roving Spirits"
 releaseCode = "RKC-8050"
 issue = 9
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Mayumi Sano"
   slug = "mayumi-sano"
   instrument = "cello (#2, 5, 9)"
   japanese = "佐野まゆみ Sano Mayumi"
-[[lineup]]
+[[credits]]
   name = "Aya Kurosawa"
   slug = "aya-kurosawa"
   instrument = "vocal (#11)"

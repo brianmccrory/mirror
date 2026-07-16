@@ -10,22 +10,22 @@ releaseYear = 2017
 releaseLabel = "Altered Records"
 releaseCode = "ALTVN-1001"
 issue = 241
-[[lineup]]
+[[credits]]
   name = "Noriko Satomi"
   slug = "noriko-satomi"
   instrument = "violin"
   japanese = "里見紀子 Satomi Noriko"
-[[lineup]]
+[[credits]]
   name = "Masaaki Imaizumi"
   slug = "masaaki-imaizumi"
   instrument = "piano"
   japanese = "今泉正明 Imaizumi Masaaki"
-[[lineup]]
+[[credits]]
   name = "Kunio Oinuma"
   slug = "kunio-oinuma"
   instrument = "bass"
   japanese = "生沼邦夫 Oinuma Kunio"
-[[lineup]]
+[[credits]]
   name = "Masahiko Osaka"
   slug = "masahiko-osaka"
   instrument = "drums"

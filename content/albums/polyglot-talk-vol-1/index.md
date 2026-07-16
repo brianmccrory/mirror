@@ -10,21 +10,21 @@ releaseYear = 2020
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10104"
 issue = 227
-[[lineup]]
+[[credits]]
   name = "Steve Barry"
   slug = "steve-barry"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Kosuke Ochiai"
   slug = "kosuke-ochiai"
   instrument = "bass"
   japanese = "落合康介 Ochiai Kosuke"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums & tabla"
   japanese = "大村亘 Omura Ko"
-[[lineup]]
+[[credits]]
   name = "Hiroyuki Ishikawa"
   slug = "hiroyuki-ishikawa"
   instrument = "trumpet (3, 4, & 8)"

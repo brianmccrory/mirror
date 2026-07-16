@@ -10,12 +10,12 @@ releaseYear = 2001
 releaseLabel = "Nagel Heyer Records"
 releaseCode = "CD-2017"
 issue = 140
-[[lineup]]
+[[credits]]
   name = "Shinichi Kato"
   slug = "shinichi-kato"
   instrument = "bass"
   japanese = "加藤真一 Kato Shinichi"
-[[lineup]]
+[[credits]]
   name = "Masahiko Sato"
   slug = "masahiko-sato"
   instrument = "piano"

@@ -10,22 +10,22 @@ releaseYear = 2005
 releaseLabel = "S2S"
 releaseCode = "SSDF-5006"
 issue = 74
-[[lineup]]
+[[credits]]
   name = "Yuichiro Aratake"
   slug = "yuichiro-aratake"
   instrument = "piano"
   japanese = "荒武裕一朗 Aratake Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Tamaya Honda"
   slug = "tamaya-honda"
   instrument = "drums (tr. #10)"
   japanese = "本田珠也 Honda Tamaya"
-[[lineup]]
+[[credits]]
   name = "Hideki Kawamura"
   slug = "hideki-kawamura"
   instrument = "tenor sax (tr. #2)"
   japanese = "河村英樹 Kawamura Hideki"
-[[lineup]]
+[[credits]]
   name = "Noboru Ando"
   slug = "noboru-ando"
   instrument = "bass (tr. #7)"

@@ -10,16 +10,16 @@ releaseYear = 2013
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-129"
 issue = 137
-[[lineup]]
+[[credits]]
   name = "Naoko Sakata"
   slug = "naoko-sakata"
   instrument = "piano"
   japanese = "坂田尚子 Sakata Naoko"
-[[lineup]]
+[[credits]]
   name = "Anton Blomgren"
   slug = "anton-blomgren"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Johan Birgenius"
   slug = "johan-birgenius"
   instrument = "drums"

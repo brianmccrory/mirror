@@ -10,7 +10,7 @@ releaseYear = 2012
 releaseLabel = "Kurita Taeko"
 releaseCode = "MP-007"
 issue = 317
-[[lineup]]
+[[credits]]
   name = "Taeko Kurita"
   slug = "taeko-kurita"
   instrument = "piano"

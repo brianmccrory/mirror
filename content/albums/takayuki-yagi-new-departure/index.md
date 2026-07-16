@@ -10,24 +10,24 @@ releaseYear = 2018
 releaseLabel = "JazzTOKYO RECORDS"
 releaseCode = "JTRC-002"
 issue = 127
-[[lineup]]
+[[credits]]
   name = "Takayuki Yagi"
   slug = "takayuki-yagi"
   instrument = "piano"
   japanese = "八木隆幸 Yagi Takayuki"
-[[lineup]]
+[[credits]]
   name = "Scott Wendholt"
   slug = "scott-wendholt"
   instrument = "trumpet (#1, 2, 3, 5)"
-[[lineup]]
+[[credits]]
   name = "Ralph Bowen"
   slug = "ralph-bowen"
   instrument = "tenor saxophone (#1, 2, 3, 5)"
-[[lineup]]
+[[credits]]
   name = "Jay Anderson"
   slug = "jay-anderson"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Billy Drummond"
   slug = "billy-drummond"
   instrument = "drums"

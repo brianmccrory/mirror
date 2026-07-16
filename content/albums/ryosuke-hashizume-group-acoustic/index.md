@@ -10,27 +10,27 @@ releaseYear = 2012
 releaseLabel = "Tactile Sounds Records"
 releaseCode = "TS-001"
 issue = 191
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor saxophone, effects"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar, effects"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums, percussion"
   japanese = "橋本学 Hashimoto Manabu"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano (#2, 3, 8)"

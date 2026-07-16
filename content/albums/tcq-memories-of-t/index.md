@@ -10,21 +10,21 @@ releaseYear = 2017
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-13"
 issue = 125
-[[lineup]]
+[[credits]]
   name = "Shawna Yang"
   slug = "shawna-yang"
   instrument = "alto sax"
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Takeshi Sakamoto"
   slug = "takeshi-sakamoto"
   instrument = "drums"

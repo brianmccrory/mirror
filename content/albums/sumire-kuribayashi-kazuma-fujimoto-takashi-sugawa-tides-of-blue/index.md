@@ -10,17 +10,17 @@ releaseYear = 2025
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-051"
 issue = 326
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano"
   japanese = "栗林すみれ Kuribayashi Sumire"
-[[lineup]]
+[[credits]]
   name = "Kazuma Fujimoto"
   slug = "kazuma-fujimoto"
   instrument = "guitar"
   japanese = "藤本一馬 Fujimoto Kazuma"
-[[lineup]]
+[[credits]]
   name = "Takashi Sugawa"
   slug = "takashi-sugawa"
   instrument = "bass"

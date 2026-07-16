@@ -10,27 +10,27 @@ releaseYear = 2014
 releaseLabel = "SONG X JAZZ"
 releaseCode = "SONG X 019"
 issue = 93
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitars, keyboards"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Daisuke Fujiwara"
   slug = "daisuke-fujiwara"
   instrument = "tenor saxophone, electronics"
   japanese = "藤原大輔 Fujiwara Daisuke"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "Rhodes, Minimoog, Nord, piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroki Chiba"
   slug = "hiroki-chiba"
   instrument = "contrabass, electric bass, electronics"
   japanese = "千葉広樹 Chiba Hiroki"
-[[lineup]]
+[[credits]]
   name = "Noritaka Tanaka"
   slug = "noritaka-tanaka"
   instrument = "drums"

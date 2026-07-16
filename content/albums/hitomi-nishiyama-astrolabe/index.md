@@ -10,12 +10,12 @@ releaseYear = 2012
 releaseLabel = "Meantone Record"
 releaseCode = "MT-003"
 issue = 335
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar"

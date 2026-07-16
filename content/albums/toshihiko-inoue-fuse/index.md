@@ -10,22 +10,22 @@ releaseYear = 1999
 releaseLabel = "Ewe Records"
 releaseCode = "EWCD-0010"
 issue = 360
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "saxophone"
   japanese = "井上淑彦 Inoue Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Nobumasa Tanaka"
   slug = "nobumasa-tanaka"
   instrument = "piano"
   japanese = "田中信正 Tanaka Nobumasa"
-[[lineup]]
+[[credits]]
   name = "Benisuke Sakai"
   slug = "benisuke-sakai"
   instrument = "bass"
   japanese = "坂井紅介 Sakai Benisuke"
-[[lineup]]
+[[credits]]
   name = "Ken Tsunoda"
   slug = "ken-tsunoda"
   instrument = "drums"

@@ -11,17 +11,17 @@ releaseYear = 2015
 releaseLabel = "Jazzy Bear Records"
 releaseCode = "JZBR-0001"
 issue = 7
-[[lineup]]
+[[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
   instrument = "piano"
   japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[lineup]]
+[[credits]]
   name = "Yosuke Inoue"
   slug = "yosuke-inoue"
   instrument = "bass"
   japanese = "井上陽介 Inoue Yosuke"
-[[lineup]]
+[[credits]]
   name = "Masahiko Osaka"
   slug = "masahiko-osaka"
   instrument = "drums"

@@ -10,52 +10,52 @@ releaseYear = 2020
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0018"
 issue = 193
-[[lineup]]
+[[credits]]
   name = "Fumika Asari"
   slug = "fumika-asari"
   instrument = "guitar"
   japanese = "浅利史花 Asari Fumika"
-[[lineup]]
+[[credits]]
   name = "Sadanori Nakamure"
   slug = "sadanori-nakamure"
   instrument = "guitar (#3)"
   japanese = "中牟礼貞則 Nakamure Sadanori"
-[[lineup]]
+[[credits]]
   name = "Satoshi Kosugi"
   slug = "satoshi-kosugi"
   instrument = "bass (#1, 2)"
   japanese = "小杉敏 Kosugi Satoshi"
-[[lineup]]
+[[credits]]
   name = "Daiki Mishima"
   slug = "daiki-mishima"
   instrument = "bass (#4, 5, 7, 8)"
   japanese = "三嶋大輝 Mishima Daiki"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano, Rhodes (#6, 8)"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Kanoko Kitajima"
   slug = "kanoko-kitajima"
   instrument = "piano (#1, 4)"
   japanese = "北島佳乃子 Kitajima Kanoko"
-[[lineup]]
+[[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
   instrument = "drums (#1, 2, 8)"
   japanese = "木村紘 Kimura Hiro"
-[[lineup]]
+[[credits]]
   name = "Yusuke Yaginuma"
   slug = "yusuke-yaginuma"
   instrument = "drums (#4, 5)"
   japanese = "柳沼佑育 Yaginuma Yusuke"
-[[lineup]]
+[[credits]]
   name = "Akane Ezawa"
   slug = "akane-ezawa"
   instrument = "alto saxophone (#7, 8)"
   japanese = "江澤茜 Ezawa Akane"
-[[lineup]]
+[[credits]]
   name = "Itsumi Komano"
   slug = "itsumi-komano"
   instrument = "trombone (#7, 8)"

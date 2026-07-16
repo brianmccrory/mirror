@@ -10,22 +10,22 @@ releaseYear = 2013
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0007"
 issue = 12
-[[lineup]]
+[[credits]]
   name = "Kaori Nakajima"
   slug = "kaori-nakajima"
   instrument = "vibraphone"
   japanese = "中島香里 Nakajima Kaori"
-[[lineup]]
+[[credits]]
   name = "Tamashi Goto"
   slug = "tamashi-goto"
   instrument = "piano"
   japanese = "後藤魂 Goto Tamashi"
-[[lineup]]
+[[credits]]
   name = "Minoru Yoshiki"
   slug = "minoru-yoshiki"
   instrument = "bass"
   japanese = "吉木稔 Yoshiki Minoru"
-[[lineup]]
+[[credits]]
   name = "Masanori Ando"
   slug = "masanori-ando"
   instrument = "drums"

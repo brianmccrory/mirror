@@ -10,17 +10,17 @@ releaseYear = 2018
 releaseLabel = "ESP-Disk’"
 releaseCode = "ESP-5023"
 issue = 285
-[[lineup]]
+[[credits]]
   name = "Megumi Yonezawa"
   slug = "megumi-yonezawa"
   instrument = "piano"
   japanese = "米澤めぐみ Yonezawa Megumi"
-[[lineup]]
+[[credits]]
   name = "Masa Kamaguchi"
   slug = "masa-kamaguchi"
   instrument = "bass"
   japanese = "マサ・カマグチ Kamaguchi Masa"
-[[lineup]]
+[[credits]]
   name = "Ken Kobayashi"
   slug = "ken-kobayashi"
   instrument = "drums"

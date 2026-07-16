@@ -10,27 +10,27 @@ releaseYear = 2019
 releaseLabel = "ANTXDEDE"
 releaseCode = "ANTXDEDE-3105"
 issue = 225
-[[lineup]]
+[[credits]]
   name = "Keisuke Nakamura"
   slug = "keisuke-nakamura"
   instrument = "trumpet, flugelhorn"
   japanese = "中村恵介 Nakamura Keisuke"
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "tenor sax, flute"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Ami Ogaeri"
   slug = "ami-ogaeri"
   instrument = "piano"
   japanese = "魚返明未 Ogaeri Ami"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Ittetsu Takemura"
   slug = "ittetsu-takemura"
   instrument = "drums"

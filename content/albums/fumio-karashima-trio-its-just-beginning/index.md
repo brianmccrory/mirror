@@ -10,17 +10,17 @@ releaseYear = 2004
 releaseLabel = "Pit Inn Music"
 releaseCode = "VACM-1240"
 issue = 100
-[[lineup]]
+[[credits]]
   name = "Fumio Karashima"
   slug = "fumio-karashima"
   instrument = "piano"
   japanese = "辛島文雄 Karashima Fumio"
-[[lineup]]
+[[credits]]
   name = "Yosuke Inoue"
   slug = "yosuke-inoue"
   instrument = "bass"
   japanese = "井上陽介 Inoue Yosuke"
-[[lineup]]
+[[credits]]
   name = "Shingo Okudaira"
   slug = "shingo-okudaira"
   instrument = "drums"

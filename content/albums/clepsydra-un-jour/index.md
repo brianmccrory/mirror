@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "Casnet Music"
 releaseCode = "CSNT-8006"
 issue = 265
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "tenor sax, soprano sax"
   japanese = "井上淑彦 Inoue Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Yoshiaki Sato"
   slug = "yoshiaki-sato"
   instrument = "accordion, clavietta, chorus"
   japanese = "佐藤芳明 Sato Yoshiaki"
-[[lineup]]
+[[credits]]
   name = "Masaki Hayashi"
   slug = "masaki-hayashi"
   instrument = "piano, chorus"
   japanese = "林正樹 Hayashi Masaki"
-[[lineup]]
+[[credits]]
   name = "Saori Sendo"
   slug = "saori-sendo"
   instrument = "percussion, glockenspiel, chorus"

@@ -10,12 +10,12 @@ releaseYear = 2025
 releaseLabel = "ENYANA Music"
 releaseCode = "EYM-0001"
 issue = 295
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "vocal, voice, percussion"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Yuka Yanagihara"
   slug = "yuka-yanagihara"
   instrument = "piano"

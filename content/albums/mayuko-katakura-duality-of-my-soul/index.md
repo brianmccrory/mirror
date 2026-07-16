@@ -10,17 +10,17 @@ releaseYear = 2025
 releaseLabel = "Mayuko Katakura Music"
 releaseCode = "MKM-001"
 issue = 313
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Takumi Awaya"
   slug = "takumi-awaya"
   instrument = "bass"
   japanese = "粟谷巧 Awaya Takumi"
-[[lineup]]
+[[credits]]
   name = "Noritaka Tanaka"
   slug = "noritaka-tanaka"
   instrument = "drums"

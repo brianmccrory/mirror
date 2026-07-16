@@ -10,16 +10,16 @@ releaseYear = 2006
 releaseLabel = "Pit Inn Music"
 releaseCode = "VACM-1277"
 issue = 351
-[[lineup]]
+[[credits]]
   name = "Fumio Karashima"
   slug = "fumio-karashima"
   instrument = "piano"
   japanese = "辛島文雄 Karashima Fumio"
-[[lineup]]
+[[credits]]
   name = "Jack DeJohnette"
   slug = "jack-dejohnette"
   instrument = "drums"
-[[lineup]]
+[[credits]]
   name = "Drew Gress"
   slug = "drew-gress"
   instrument = "bass"

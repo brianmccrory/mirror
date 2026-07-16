@@ -10,15 +10,15 @@ releaseYear = 2018
 releaseLabel = "ECM"
 releaseCode = "ECM-2574"
 issue = 305
-[[lineup]]
+[[credits]]
   name = "Matthieu Bordenave"
   slug = "matthieu-bordenave"
   instrument = "saxophone"
-[[lineup]]
+[[credits]]
   name = "Walter Lang"
   slug = "walter-lang"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Shinya Fukumori"
   slug = "shinya-fukumori"
   instrument = "drums"

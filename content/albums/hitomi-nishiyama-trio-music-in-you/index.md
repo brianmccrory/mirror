@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "Meantone Records"
 releaseCode = "MT-002"
 issue = 29
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Yasuhiko “Hachi” Sato"
   slug = "yasuhiko-hachi-sato"
   instrument = "bass"
   japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
-[[lineup]]
+[[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
   instrument = "drums"
   japanese = "池長和美 Ikenaga Kazumi"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor sax (#12)"

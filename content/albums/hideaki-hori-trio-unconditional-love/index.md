@@ -10,17 +10,17 @@ releaseYear = 2014
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2064/2065"
 issue = 52
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Yuhei Honkawa"
   slug = "yuhei-honkawa"
   instrument = "bass"
   japanese = "本川悠平 Honkawa Yuhei"
-[[lineup]]
+[[credits]]
   name = "Gaku Hasegawa"
   slug = "gaku-hasegawa"
   instrument = "drums"

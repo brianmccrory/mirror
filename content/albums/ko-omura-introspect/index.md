@@ -10,27 +10,27 @@ releaseYear = 2011
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-12"
 issue = 47
-[[lineup]]
+[[credits]]
   name = "Hakuei Kim"
   slug = "hakuei-kim"
   instrument = "piano"
   japanese = "ハクエイ・キム Kim Hakuei"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums"

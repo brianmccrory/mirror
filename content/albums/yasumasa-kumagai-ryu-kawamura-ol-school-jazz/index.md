@@ -10,12 +10,12 @@ releaseYear = 2009
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4005"
 issue = 260
-[[lineup]]
+[[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
   instrument = "piano"
   japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[lineup]]
+[[credits]]
   name = "Ryu Kawamura"
   slug = "ryu-kawamura"
   instrument = "bass"

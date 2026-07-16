@@ -10,12 +10,12 @@ releaseYear = 2024
 releaseLabel = "Concept Record"
 releaseCode = "CR-18"
 issue = 302
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
   instrument = "saxophone"

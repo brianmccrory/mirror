@@ -10,22 +10,22 @@ releaseYear = 2004
 releaseLabel = "What’s New Records"
 releaseCode = "WNCJ-2135"
 issue = 357
-[[lineup]]
+[[credits]]
   name = "Asuka Watanabe"
   slug = "asuka-watanabe"
   instrument = "vocal"
   japanese = "渡辺明日香 Watanabe Asuka"
-[[lineup]]
+[[credits]]
   name = "Hideaki Yoshioka"
   slug = "hideaki-yoshioka"
   instrument = "piano"
   japanese = "吉岡秀晃 Yoshioka Hideaki"
-[[lineup]]
+[[credits]]
   name = "Koji Yamashita"
   slug = "koji-yamashita"
   instrument = "bass"
   japanese = "山下弘治 Yamashita Koji"
-[[lineup]]
+[[credits]]
   name = "Yoshitaka Uematsu"
   slug = "yoshitaka-uematsu"
   instrument = "drums"

@@ -10,27 +10,27 @@ releaseYear = 2020
 releaseLabel = "F.S.L."
 releaseCode = "FSCJ-0019"
 issue = 222
-[[lineup]]
+[[credits]]
   name = "Hiroko Mase"
   slug = "hiroko-mase"
   instrument = "soprano saxophone"
   japanese = "ませひろこ Mase Hiroko"
-[[lineup]]
+[[credits]]
   name = "Eiji Otogawa"
   slug = "eiji-otogawa"
   instrument = "tenor saxophone"
   japanese = "音川英二 Otogawa Eiji"
-[[lineup]]
+[[credits]]
   name = "Nobumasa Tanaka"
   slug = "nobumasa-tanaka"
   instrument = "piano"
   japanese = "田中信正 Tanaka Nobumasa"
-[[lineup]]
+[[credits]]
   name = "Kosuke Ochiai"
   slug = "kosuke-ochiai"
   instrument = "bass, percussion"
   japanese = "落合康介 Ochiai Kosuke"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums, percussion"

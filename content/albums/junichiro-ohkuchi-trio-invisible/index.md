@@ -11,17 +11,17 @@ releaseYear = 2016
 releaseLabel = "Big Mouth Records"
 releaseCode = "Invisible"
 issue = 16
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Yasushi Yoneki"
   slug = "yasushi-yoneki"
   instrument = "bass"
   japanese = "米木康志 Yoneki Yasushi"
-[[lineup]]
+[[credits]]
   name = "Tamaya Honda"
   slug = "tamaya-honda"
   instrument = "drums"

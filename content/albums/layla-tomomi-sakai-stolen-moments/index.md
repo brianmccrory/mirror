@@ -10,37 +10,37 @@ releaseYear = 2019
 releaseLabel = "Laydrunker Records"
 releaseCode = "Layla-003"
 issue = 307
-[[lineup]]
+[[credits]]
   name = "Layla Tomomi Sakai"
   slug = "layla-tomomi-sakai"
   instrument = "vocal"
   japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[lineup]]
+[[credits]]
   name = "Yuichiro Hiraoka"
   slug = "yuichiro-hiraoka"
   instrument = "guitar"
   japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Ryuichi Takase"
   slug = "ryuichi-takase"
   instrument = "trumpet"
   japanese = "高瀬龍一 Takase Ryuichi"
-[[lineup]]
+[[credits]]
   name = "Hideaki Nakaji"
   slug = "hideaki-nakaji"
   instrument = "trombone"
   japanese = "中路英明 Nakaji Hideaki"
-[[lineup]]
+[[credits]]
   name = "Heitetsu Rin"
   slug = "heitetsu-rin"
   instrument = "piano"
   japanese = "リンヘイテツ Rin Heitetsu"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Ryo Saito"
   slug = "ryo-saito"
   instrument = "drums"

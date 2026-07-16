@@ -10,22 +10,22 @@ releaseYear = 2015
 releaseLabel = "Tomoka Miwa"
 releaseCode = "MUW-002"
 issue = 28
-[[lineup]]
+[[credits]]
   name = "Tomoka Miwa"
   slug = "tomoka-miwa"
   instrument = "vocal"
   japanese = "三輪知可 Miwa Tomoka"
-[[lineup]]
+[[credits]]
   name = "Yuichi Narita"
   slug = "yuichi-narita"
   instrument = "piano, keyboards"
   japanese = "成田祐一 Narita Yuichi"
-[[lineup]]
+[[credits]]
   name = "Daisuke Toi"
   slug = "daisuke-toi"
   instrument = "bass"
   japanese = "トオイダイスケ Toi Daisuke"
-[[lineup]]
+[[credits]]
   name = "Sebastiaan Kaptein"
   slug = "sebastiaan-kaptein"
   instrument = "drums"

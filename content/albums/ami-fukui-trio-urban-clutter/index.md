@@ -10,17 +10,17 @@ releaseYear = 2010
 releaseLabel = "Anturtle Analog Recordings"
 releaseCode = "ANTX-4008"
 issue = 147
-[[lineup]]
+[[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
   instrument = "piano"
   japanese = "福井亜実 Fukui Ami"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"

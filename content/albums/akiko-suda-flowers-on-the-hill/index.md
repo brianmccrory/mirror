@@ -10,32 +10,32 @@ releaseYear = 2016
 releaseLabel = "Diw The Grace"
 releaseCode = "DW-1008"
 issue = 10
-[[lineup]]
+[[credits]]
   name = "Akiko Suda"
   slug = "akiko-suda"
   instrument = "vocal"
   japanese = "須田晶子 Suda Akiko"
-[[lineup]]
+[[credits]]
   name = "Yuichi Narita"
   slug = "yuichi-narita"
   instrument = "piano, accordion, chorus"
   japanese = "成田祐一 Narita Yuichi"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Yu Kudo"
   slug = "yu-kudo"
   instrument = "drums, percussion"
   japanese = "工藤悠 Kudo Yu"
-[[lineup]]
+[[credits]]
   name = "Nao Teraya"
   slug = "nao-teraya"
   instrument = "guitar"
   japanese = "寺屋ナオ Teraya Nao"
-[[lineup]]
+[[credits]]
   name = "Toyomi Kobayashi"
   slug = "toyomi-kobayashi"
   instrument = "flute, andes"

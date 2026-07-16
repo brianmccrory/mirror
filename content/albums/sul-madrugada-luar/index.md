@@ -10,12 +10,12 @@ releaseYear = 2022
 releaseLabel = "River City Music Entertainment"
 releaseCode = "RRCRK-220101"
 issue = 198
-[[lineup]]
+[[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
   instrument = "piano, keyboard"
   japanese = "岸淑香 Kishi Sayaka"
-[[lineup]]
+[[credits]]
   name = "Hiroe Kobayashi"
   slug = "hiroe-kobayashi"
   instrument = "voice"

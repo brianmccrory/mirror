@@ -10,46 +10,46 @@ releaseYear = 2021
 releaseLabel = "Nagalu"
 releaseCode = "NAGALU-003/004"
 issue = 258
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano, compositions, arrangements"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar (Disc 2: #1, 2, 5, 6, 7, 8, 10, 11)"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Masaki Kai"
   slug = "masaki-kai"
   instrument = "bass (Disc 2: #1, 7, 8, 9, 11)"
   japanese = "甲斐正樹 Kai Masaki"
-[[lineup]]
+[[credits]]
   name = "Shinya Fukumori"
   slug = "shinya-fukumori"
   instrument = "drums (Disc 2: #1, 2, 7, 8, 9, 11)"
   japanese = "福盛進也 Fukumori Shinya"
-[[lineup]]
+[[credits]]
   name = "Aya Ito"
   slug = "aya-ito"
   instrument = "violin (Disc 2: #4, 6, 7, 8)"
   japanese = "伊藤彩 Ito Aya"
-[[lineup]]
+[[credits]]
   name = "Yuko Kajitani"
   slug = "yuko-kajitani"
   instrument = "violin (Disc 2: #6, 7, 8)"
   japanese = "梶谷裕子 Kajitani Yuko"
-[[lineup]]
+[[credits]]
   name = "Atsuki Yoshida"
   slug = "atsuki-yoshida"
   instrument = "viola (Disc 2: #6, 7, 8)"
   japanese = "吉田篤貴 Yoshida Atsuki"
-[[lineup]]
+[[credits]]
   name = "Robin Dupuy"
   slug = "robin-dupuy"
   instrument = "cello (Disc 2: #2, 3, 4, 5, 6, 7, 8, 12)"
-[[lineup]]
+[[credits]]
   name = "Zeze Wakamatsu"
   slug = "zeze-wakamatsu"
   instrument = "soundscape (Disc 2: #4)"

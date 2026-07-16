@@ -10,7 +10,7 @@ releaseYear = 2018
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKRN-0004"
 issue = 199
-[[lineup]]
+[[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
   instrument = "piano"

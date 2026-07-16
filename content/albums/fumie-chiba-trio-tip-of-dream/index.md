@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "TRL Music"
 releaseCode = "TRL-0826"
 issue = 62
-[[lineup]]
+[[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
   instrument = "piano"
   japanese = "千葉史絵 Chiba Fumie"
-[[lineup]]
+[[credits]]
   name = "Koichi Kuniwake"
   slug = "koichi-kuniwake"
   instrument = "bass"
   japanese = "国分航一 Kuniwake Koichi"
-[[lineup]]
+[[credits]]
   name = "Shigehito Kawamura"
   slug = "shigehito-kawamura"
   instrument = "drums"

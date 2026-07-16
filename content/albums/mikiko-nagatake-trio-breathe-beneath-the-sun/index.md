@@ -10,27 +10,27 @@ releaseYear = 2022
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWL-041"
 issue = 345
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums"
   japanese = "吉良創太 Kira Sota"
-[[lineup]]
+[[credits]]
   name = "Kosuke Mine"
   slug = "kosuke-mine"
   instrument = "tenor sax (track #8)"
   japanese = "峰厚介 Mine Kosuke"
-[[lineup]]
+[[credits]]
   name = "Eiichi Hayashi"
   slug = "eiichi-hayashi"
   instrument = "alto sax (track #9)"

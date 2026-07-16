@@ -10,27 +10,27 @@ releaseYear = 2014
 releaseLabel = "Okra Record"
 releaseCode = "MIKO-1009"
 issue = 73
-[[lineup]]
+[[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano"
   japanese = "野本晴美 Nomoto Harumi"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "electric fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[[lineup]]
+[[credits]]
   name = "Makiko Sugawara"
   slug = "makiko-sugawara"
   instrument = "violin (track #8)"
   japanese = "菅原牧子 Sugawara Makiko"
-[[lineup]]
+[[credits]]
   name = "Nao Sakamoto"
   slug = "nao-sakamoto"
   instrument = "Chromasomus/prepared guitar (track #8)"

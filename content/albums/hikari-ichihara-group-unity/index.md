@@ -10,27 +10,27 @@ releaseYear = 2011
 releaseLabel = "After Beat / Pony Canyon"
 releaseCode = "PCCY-30187"
 issue = 297
-[[lineup]]
+[[credits]]
   name = "Hikari Ichihara"
   slug = "hikari-ichihara"
   instrument = "trumpet, flugelhorn"
   japanese = "市原ひかり Ichihara Hikari"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Asai"
   slug = "ryosuke-asai"
   instrument = "alto saxophone"
   japanese = "浅井良将 Asai Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Kunpei Nakabayashi"
   slug = "kunpei-nakabayashi"
   instrument = "bass"
   japanese = "中林薫平 Nakabayashi Kunpei"
-[[lineup]]
+[[credits]]
   name = "Masanori Ando"
   slug = "masanori-ando"
   instrument = "drums"

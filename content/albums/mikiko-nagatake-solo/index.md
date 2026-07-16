@@ -10,7 +10,7 @@ releaseYear = 2022
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWR-044"
 issue = 205
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"

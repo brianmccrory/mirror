@@ -10,32 +10,32 @@ releaseYear = 2016
 releaseLabel = "Song X Jazz"
 releaseCode = "SONG X 038"
 issue = 20
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Tokuhiro Doi"
   slug = "tokuhiro-doi"
   instrument = "clarinet, bass clarinet"
   japanese = "土井徳浩 Doi Tokuhiro"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Harutoshi Ito"
   slug = "harutoshi-ito"
   instrument = "cello"
   japanese = "伊藤ハルトシ Ito Harutoshi"
-[[lineup]]
+[[credits]]
   name = "Hiroki Chiba"
   slug = "hiroki-chiba"
   instrument = "double bass"
   japanese = "千葉広樹 Chiba Hiroki"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums"

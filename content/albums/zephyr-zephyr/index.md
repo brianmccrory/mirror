@@ -10,17 +10,17 @@ releaseYear = 2013
 releaseLabel = "What’s New Records"
 releaseCode = "WNCJ-2249"
 issue = 72
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "soprano, tenor sax"
   japanese = "井上淑彦 Inoue Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Teiji Taguchi"
   slug = "teiji-taguchi"
   instrument = "acoustic guitar"
   japanese = "田口悌治 Taguchi Teiji"
-[[lineup]]
+[[credits]]
   name = "Takashi Amano"
   slug = "takashi-amano"
   instrument = "electric guitar"

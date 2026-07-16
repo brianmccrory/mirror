@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "T&A Music"
 releaseCode = "Long Way to Go"
 issue = 308
-[[lineup]]
+[[credits]]
   name = "Kanoko Kitajima"
   slug = "kanoko-kitajima"
   instrument = "piano"
   japanese = "北島佳乃子 Kitajima Kanoko"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Fukushi Tainaka"
   slug = "fukushi-tainaka"
   instrument = "drums"

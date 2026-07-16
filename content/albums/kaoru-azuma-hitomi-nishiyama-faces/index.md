@@ -10,27 +10,27 @@ releaseYear = 2020
 releaseLabel = "Meantone Records"
 releaseCode = "MT-09"
 issue = 220
-[[lineup]]
+[[credits]]
   name = "Kaoru Azuma"
   slug = "kaoru-azuma"
   instrument = "vocal"
   japanese = "東かおる Azuma Kaoru"
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano, composition, arrangement"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar (#1, 2, 3, 5, 7, 8)"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Toru Nishijima"
   slug = "toru-nishijima"
   instrument = "bass (#1, 2, 3, 5, 6, 7, 9)"
   japanese = "西嶋徹 Nishijima Toru"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor & soprano saxophones (#2, 3, 6, 7, 10)"

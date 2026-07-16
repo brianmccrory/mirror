@@ -10,27 +10,27 @@ releaseYear = 2018
 releaseLabel = "Sanae Ishikawa Seasonal Japanese Songbook Project"
 releaseCode = "SJSP-002"
 issue = 64
-[[lineup]]
+[[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
   instrument = "vocal"
   japanese = "石川早苗 Ishikawa Sanae"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar"
   japanese = "馬場孝喜 Baba Takayoshi"
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano, keyboard"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
   instrument = "drums, bell"

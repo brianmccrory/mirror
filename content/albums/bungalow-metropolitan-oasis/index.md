@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-17"
 issue = 114
-[[lineup]]
+[[credits]]
   name = "Masahiro Yamamoto"
   slug = "masahiro-yamamoto"
   instrument = "alto sax, soprano sax"
   japanese = "山本昌広 Yamamoto Masahiro"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Ikejiri"
   slug = "hiroshi-ikejiri"
   instrument = "bass"
   japanese = "池尻洋史 Ikejiri Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums"

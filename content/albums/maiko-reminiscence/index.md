@@ -10,27 +10,27 @@ releaseYear = 2024
 releaseLabel = "GardenNotes Music"
 releaseCode = "GNM-1026"
 issue = 364
-[[lineup]]
+[[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin"
   japanese = "マイコ maiko"
-[[lineup]]
+[[credits]]
   name = "Shikou Ito"
   slug = "shikou-ito"
   instrument = "piano (#1, 2, 3, 6, 7, 8)"
   japanese = "伊藤志宏 Ito Shikou"
-[[lineup]]
+[[credits]]
   name = "Yuki Ito"
   slug = "yuki-ito"
   instrument = "bass (#1, 3, 8)"
   japanese = "伊東佑季 Ito Yuki"
-[[lineup]]
+[[credits]]
   name = "Kazuma Fujimoto"
   slug = "kazuma-fujimoto"
   instrument = "guitar (#1, 5, 6)"
   japanese = "藤本一馬 Fujimoto Kazuma"
-[[lineup]]
+[[credits]]
   name = "Aya Kurosawa"
   slug = "aya-kurosawa"
   instrument = "voice (#2), vocals, piano, lyrics (#4)"

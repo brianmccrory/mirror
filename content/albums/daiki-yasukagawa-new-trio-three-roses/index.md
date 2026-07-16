@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "Daiki Musika D-neo"
 releaseCode = "DNCD-28"
 issue = 287
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Sora Ichikawa"
   slug = "sora-ichikawa"
   instrument = "piano"
   japanese = "市川空 Ichikawa Sora"
-[[lineup]]
+[[credits]]
   name = "Yota Tsukada"
   slug = "yota-tsukada"
   instrument = "drums"

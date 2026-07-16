@@ -10,32 +10,32 @@ releaseYear = 2020
 releaseLabel = "Feliz Record"
 releaseCode = "FLZ-0001"
 issue = 257
-[[lineup]]
+[[credits]]
   name = "Makiyo Sakai"
   slug = "makiyo-sakai"
   instrument = "flute"
   japanese = "酒井麻生代 Sakai Makiyo"
-[[lineup]]
+[[credits]]
   name = "Masaaki Ikeda"
   slug = "masaaki-ikeda"
   instrument = "trombone"
   japanese = "池田雅明 Ikeda Masaaki"
-[[lineup]]
+[[credits]]
   name = "Kazuhiko Obata"
   slug = "kazuhiko-obata"
   instrument = "guitar"
   japanese = "小畑和彦 Obata Kazuhiko"
-[[lineup]]
+[[credits]]
   name = "Minoru Kato"
   slug = "minoru-kato"
   instrument = "piano"
   japanese = "加藤実 Kato Minoru"
-[[lineup]]
+[[credits]]
   name = "Kiichiro Komobuchi"
   slug = "kiichiro-komobuchi"
   instrument = "bass"
   japanese = "コモブチキイチロウ Komobuchi Kiichiro"
-[[lineup]]
+[[credits]]
   name = "Satoshi Ishikawa"
   slug = "satoshi-ishikawa"
   instrument = "drums"

@@ -10,12 +10,12 @@ releaseYear = 2017
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2063"
 issue = 94
-[[lineup]]
+[[credits]]
   name = "Hideaki Kanazawa"
   slug = "hideaki-kanazawa"
   instrument = "contrabass"
   japanese = "金澤英明 Kanazawa Hideaki"
-[[lineup]]
+[[credits]]
   name = "Sumire Kuribayashi"
   slug = "sumire-kuribayashi"
   instrument = "piano, percussion"

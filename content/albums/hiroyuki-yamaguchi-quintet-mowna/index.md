@@ -10,27 +10,27 @@ releaseYear = 2024
 releaseLabel = "What’s New Records"
 releaseCode = "GWNJ-2036"
 issue = 329
-[[lineup]]
+[[credits]]
   name = "Hiroyuki Yamaguchi"
   slug = "hiroyuki-yamaguchi"
   instrument = "bass"
   japanese = "山口裕之 Yamaguchi Hiroyuki"
-[[lineup]]
+[[credits]]
   name = "Hiroko Mase"
   slug = "hiroko-mase"
   instrument = "soprano saxophone"
   japanese = "ませひろこ Mase Hiroko"
-[[lineup]]
+[[credits]]
   name = "Hinata Ishii"
   slug = "hinata-ishii"
   instrument = "tenor saxophone"
   japanese = "石井ひなた Ishii Hinata"
-[[lineup]]
+[[credits]]
   name = "Toshihiko Kohno"
   slug = "toshihiko-kohno"
   instrument = "piano"
   japanese = "紅野智彦 Kohno Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Tomoyuki Okabe"
   slug = "tomoyuki-okabe"
   instrument = "drums"

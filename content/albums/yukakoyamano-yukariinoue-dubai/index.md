@@ -10,12 +10,12 @@ releaseYear = 2021
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKCJ-0006"
 issue = 148
-[[lineup]]
+[[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
   instrument = "piano"
   japanese = "山野友佳子 Yamano Yukako"
-[[lineup]]
+[[credits]]
   name = "Yukari Inoue"
   slug = "yukari-inoue"
   instrument = "piano"

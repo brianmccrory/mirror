@@ -10,27 +10,27 @@ releaseYear = 2010
 releaseLabel = "D-musica"
 releaseCode = "DMCD-04"
 issue = 346
-[[lineup]]
+[[credits]]
   name = "Hiroshi Fukutomi"
   slug = "hiroshi-fukutomi"
   instrument = "guitar"
   japanese = "福冨博 Fukutomi Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Masahiro Yamamoto"
   slug = "masahiro-yamamoto"
   instrument = "alto and soprano sax"
   japanese = "山本昌広 Yamamoto Masahiro"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Ikejiri"
   slug = "hiroshi-ikejiri"
   instrument = "bass"
   japanese = "池尻洋史 Ikejiri Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Ryo Shibata"
   slug = "ryo-shibata"
   instrument = "drums"

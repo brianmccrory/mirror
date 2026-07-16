@@ -10,7 +10,7 @@ releaseYear = 2023
 releaseLabel = "Okra Record"
 releaseCode = "HTM-1224"
 issue = 343
-[[lineup]]
+[[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano, Nord Stage EX"

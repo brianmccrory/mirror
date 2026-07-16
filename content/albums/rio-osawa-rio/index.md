@@ -10,30 +10,30 @@ releaseYear = 2021
 releaseLabel = "Noel Records"
 releaseCode = "NR-001"
 issue = 363
-[[lineup]]
+[[credits]]
   name = "Rio Osawa"
   slug = "rio-osawa"
   instrument = "vocal"
   japanese = "大澤理央 Osawa Rio"
-[[lineup]]
+[[credits]]
   name = "Yuichiro Hiraoka"
   slug = "yuichiro-hiraoka"
   instrument = "guitar (#1, 2, 4, 5, 6)"
   japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Gustavo Anacleto"
   slug = "gustavo-anacleto"
   instrument = "soprano sax, flute, voice (#1, 2, 4, 5)"
-[[lineup]]
+[[credits]]
   name = "Francis Silva"
   slug = "francis-silva"
   instrument = "percussion, voice (#1, 2, 4, 5)"
-[[lineup]]
+[[credits]]
   name = "Norihito Nagasawa"
   slug = "norihito-nagasawa"
   instrument = "guitar (#3) (from Momijin)"
   japanese = "長澤紀仁 Nagasawa Norihito"
-[[lineup]]
+[[credits]]
   name = "Matsumonica"
   slug = "matsumonica"
   instrument = "chromatic harmonica (#3) (from Momijin)"

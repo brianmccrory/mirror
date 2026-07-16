@@ -10,16 +10,16 @@ releaseYear = 2024
 releaseLabel = "Viva Sounds of DADA"
 releaseCode = "VSDD-004"
 issue = 254
-[[lineup]]
+[[credits]]
   name = "Yoshiko Saita"
   slug = "yoshiko-saita"
   instrument = "vocal"
   japanese = "斉田佳子 Saita Yoshiko"
-[[lineup]]
+[[credits]]
   name = "Kenny Werner"
   slug = "kenny-werner"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Grégoire Maret"
   slug = "gregoire-maret"
   instrument = "harmonica"

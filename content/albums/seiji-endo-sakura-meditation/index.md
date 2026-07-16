@@ -11,7 +11,7 @@ releaseYear = 2012
 releaseLabel = "Concordia"
 releaseCode = "CONR-002"
 issue = 59
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano, composition"

@@ -10,17 +10,17 @@ releaseYear = 2016
 releaseLabel = "Meantone Records"
 releaseCode = "MT-007"
 issue = 37
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Takuya Sakazaki"
   slug = "takuya-sakazaki"
   instrument = "bass"
   japanese = "坂崎拓也 Sakazaki Takuya"
-[[lineup]]
+[[credits]]
   name = "Takehiro Shimizu"
   slug = "takehiro-shimizu"
   instrument = "drums"

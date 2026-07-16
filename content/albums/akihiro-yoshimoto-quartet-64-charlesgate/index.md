@@ -10,22 +10,22 @@ releaseYear = 2022
 releaseLabel = "Quint Co. Ltd. / Chitei Records"
 releaseCode = "B102F"
 issue = 185
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "saxophone"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Nanami Haruta"
   slug = "nanami-haruta"
   instrument = "trombone"
   japanese = "治田七海 Haruta Nanami"
-[[lineup]]
+[[credits]]
   name = "Raiga Hayashi"
   slug = "raiga-hayashi"
   instrument = "drums"
   japanese = "林頼我 Hayashi Raiga"
-[[lineup]]
+[[credits]]
   name = "Makoto Togashi"
   slug = "makoto-togashi"
   instrument = "bass"

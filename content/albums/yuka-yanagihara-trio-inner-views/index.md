@@ -10,17 +10,17 @@ releaseYear = 2019
 releaseLabel = "Tomtom Cherry Music"
 releaseCode = "TCM-2002"
 issue = 223
-[[lineup]]
+[[credits]]
   name = "Yuka Yanagihara"
   slug = "yuka-yanagihara"
   instrument = "piano"
   japanese = "柳原由佳 Yanagihara Yuka"
-[[lineup]]
+[[credits]]
   name = "Yoshiki Yamada"
   slug = "yoshiki-yamada"
   instrument = "bass"
   japanese = "山田吉輝 Yamada Yoshiki"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums"

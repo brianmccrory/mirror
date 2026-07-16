@@ -10,22 +10,22 @@ releaseYear = 2010
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30573"
 issue = 365
-[[lineup]]
+[[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
   instrument = "saxophone"
   japanese = "纐纈歩美 Koketsu Ayumi"
-[[lineup]]
+[[credits]]
   name = "Yoshihiko Naya"
   slug = "yoshihiko-naya"
   instrument = "piano"
   japanese = "納谷嘉彦 Naya Yoshihiko"
-[[lineup]]
+[[credits]]
   name = "Masayuki Tawarayama"
   slug = "masayuki-tawarayama"
   instrument = "bass"
   japanese = "俵山昌之 Tawarayama Masayuki"
-[[lineup]]
+[[credits]]
   name = "Mark Taylor"
   slug = "mark-taylor"
   instrument = "drums"

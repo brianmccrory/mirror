@@ -10,22 +10,22 @@ releaseYear = 2011
 releaseLabel = "D-musica Daiki Music"
 releaseCode = "DMCD-15"
 issue = 65
-[[lineup]]
+[[credits]]
   name = "Tokuhiro Doi"
   slug = "tokuhiro-doi"
   instrument = "clarinet"
   japanese = "土井徳浩 Doi Tokuhiro"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Yuhei Honkawa"
   slug = "yuhei-honkawa"
   instrument = "bass"
   japanese = "本川悠平 Honkawa Yuhei"
-[[lineup]]
+[[credits]]
   name = "Tomoyuki Konno"
   slug = "tomoyuki-konno"
   instrument = "drums"

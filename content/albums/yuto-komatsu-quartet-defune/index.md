@@ -10,22 +10,22 @@ releaseYear = 2025
 releaseLabel = "YK Offshore"
 releaseCode = "“02”"
 issue = 359
-[[lineup]]
+[[credits]]
   name = "Yuto Komatsu"
   slug = "yuto-komatsu"
   instrument = "trumpet, flugelhorn"
   japanese = "小松悠人 Komatsu Yuto"
-[[lineup]]
+[[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
-[[lineup]]
+[[credits]]
   name = "Daisuke Ijichi"
   slug = "daisuke-ijichi"
   instrument = "bass"
   japanese = "伊地知大輔 Ijichi Daisuke"
-[[lineup]]
+[[credits]]
   name = "Makoto Rikitake"
   slug = "makoto-rikitake"
   instrument = "drums"

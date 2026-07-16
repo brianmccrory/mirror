@@ -10,12 +10,12 @@ releaseYear = 2011
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2053"
 issue = 141
-[[lineup]]
+[[credits]]
   name = "Shigeo Fukuda"
   slug = "shigeo-fukuda"
   instrument = "piano"
   japanese = "福田重男 Fukuda Shigeo"
-[[lineup]]
+[[credits]]
   name = "Toshiki Nunokawa"
   slug = "toshiki-nunokawa"
   instrument = "guitar"

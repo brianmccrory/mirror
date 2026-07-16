@@ -10,32 +10,32 @@ releaseYear = 2022
 releaseLabel = "Naop Record"
 releaseCode = "NT-0405"
 issue = 232
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Yoshiro Okazaki"
   slug = "yoshiro-okazaki"
   instrument = "trumpet (#1, 4)"
   japanese = "岡崎好朗 Okazaki Yoshiro"
-[[lineup]]
+[[credits]]
   name = "Takayuki Sato"
   slug = "takayuki-sato"
   instrument = "alto sax (#1, 6)"
   japanese = "佐藤敬幸 Sato Takayuki"
-[[lineup]]
+[[credits]]
   name = "Mabumi Yamaguchi"
   slug = "mabumi-yamaguchi"
   instrument = "tenor sax (#4)"
   japanese = "山口真文 Yamaguchi Mabumi"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Masanori Ando"
   slug = "masanori-ando"
   instrument = "drums"

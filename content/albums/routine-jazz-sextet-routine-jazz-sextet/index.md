@@ -10,32 +10,32 @@ releaseYear = 2008
 releaseLabel = "Routine Records"
 releaseCode = "RCJP-002"
 issue = 91
-[[lineup]]
+[[credits]]
   name = "Tomoyuki Konno"
   slug = "tomoyuki-konno"
   instrument = "drums"
   japanese = "紺野智之 Konno Tomoyuki"
-[[lineup]]
+[[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
   instrument = "trumpet"
   japanese = "類家心平 Ruike Shinpei"
-[[lineup]]
+[[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
   instrument = "flute, tenor sax, soprano sax"
   japanese = "浜崎航 Hamasaki Wataru"
-[[lineup]]
+[[credits]]
   name = "Taku Akiyama"
   slug = "taku-akiyama"
   instrument = "alto sax"
   japanese = "秋山卓 Akiyama Taku"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Haruhisa Takamichi"
   slug = "haruhisa-takamichi"
   instrument = "bass"

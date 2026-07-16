@@ -10,17 +10,17 @@ releaseYear = 2024
 releaseLabel = "Otohito Fuse Music"
 releaseCode = "OFM-001"
 issue = 245
-[[lineup]]
+[[credits]]
   name = "Otohito Fuse"
   slug = "otohito-fuse"
   instrument = "piano"
   japanese = "布施音人 Fuse Otohito"
-[[lineup]]
+[[credits]]
   name = "Riku Takahashi"
   slug = "riku-takahashi"
   instrument = "bass"
   japanese = "高橋陸 Takahashi Riku"
-[[lineup]]
+[[credits]]
   name = "Kaito Nakamura"
   slug = "kaito-nakamura"
   instrument = "drums"

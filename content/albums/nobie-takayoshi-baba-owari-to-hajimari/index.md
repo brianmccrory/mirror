@@ -10,32 +10,32 @@ releaseYear = 2023
 releaseLabel = "F.S.L."
 releaseCode = "FSCJ-0024"
 issue = 286
-[[lineup]]
+[[credits]]
   name = "Nobie"
   slug = "nobie"
   instrument = "vocal/percussion/chorus"
   japanese = "ノビー Nobie"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar/chorus"
   japanese = "馬場孝喜 Baba Takayoshi"
-[[lineup]]
+[[credits]]
   name = "Nobumasa Tanaka"
   slug = "nobumasa-tanaka"
   instrument = "piano (#5)"
   japanese = "田中信正 Tanaka Nobumasa"
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano (#4, 10)"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Kiichiro Komobuchi"
   slug = "kiichiro-komobuchi"
   instrument = "bass/chorus (#2, 4, 10)"
   japanese = "コモブチキイチロウ Komobuchi Kiichiro"
-[[lineup]]
+[[credits]]
   name = "Yoichi Okabe"
   slug = "yoichi-okabe"
   instrument = "percussion (#2, 4, 10)"

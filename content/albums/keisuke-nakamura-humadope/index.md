@@ -10,37 +10,37 @@ releaseYear = 2014
 releaseLabel = "M581 Records"
 releaseCode = "SDR1401"
 issue = 15
-[[lineup]]
+[[credits]]
   name = "Keisuke Nakamura"
   slug = "keisuke-nakamura"
   instrument = "trumpet, flugelhorn"
   japanese = "中村恵介 Nakamura Keisuke"
-[[lineup]]
+[[credits]]
   name = "Akihiro Nishiguchi"
   slug = "akihiro-nishiguchi"
   instrument = "tenor sax, soprano sax"
   japanese = "西口明宏 Nishiguchi Akihiro"
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Yasushi Fukumori"
   slug = "yasushi-fukumori"
   instrument = "drums"
   japanese = "福森康 Fukumori Yasushi"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "Rhodes (tr. #5, 6)"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums (tr. #1)"

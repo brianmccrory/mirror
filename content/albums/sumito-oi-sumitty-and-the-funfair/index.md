@@ -10,22 +10,22 @@ releaseYear = 2015
 releaseLabel = "S&T Music"
 releaseCode = "STMU-1001"
 issue = 27
-[[lineup]]
+[[credits]]
   name = "Sumito Oi"
   slug = "sumito-oi"
   instrument = "drums"
   japanese = "大井澄東 Oi Sumito"
-[[lineup]]
+[[credits]]
   name = "Toyomi Kobayashi"
   slug = "toyomi-kobayashi"
   instrument = "flute, alto flute, bass flute, Andes25F"
   japanese = "小林豊美 Kobayashi Toyomi"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "piano, Fender Rhodes, Wurlitzer"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Show Kudo"
   slug = "show-kudo"
   instrument = "double bass, electric bass"

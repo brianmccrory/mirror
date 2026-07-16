@@ -10,12 +10,12 @@ releaseYear = 2009
 releaseLabel = "Coo Records"
 releaseCode = "COO-300"
 issue = 143
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "vocal"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Taro Sukegawa"
   slug = "taro-sukegawa"
   instrument = "guitar"

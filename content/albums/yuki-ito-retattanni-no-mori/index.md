@@ -10,7 +10,7 @@ releaseYear = 2019
 releaseLabel = "Yuki Ito"
 releaseCode = "YDM-001"
 issue = 249
-[[lineup]]
+[[credits]]
   name = "Yuki Ito"
   slug = "yuki-ito"
   instrument = "bass"

@@ -10,22 +10,22 @@ releaseYear = 2015
 releaseLabel = "F.S.L"
 releaseCode = "FSCJ-0007"
 issue = 35
-[[lineup]]
+[[credits]]
   name = "Nobie"
   slug = "nobie"
   instrument = "vocal, voice, percussion"
   japanese = "ノビー Nobie"
-[[lineup]]
+[[credits]]
   name = "Akemi Ohta"
   slug = "akemi-ohta"
   instrument = "flute, alto flute, percussion, chorus"
   japanese = "太田朱美 Ohta Akemi"
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano, Rhodes piano, chorus"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Nobumasa Yamada"
   slug = "nobumasa-yamada"
   instrument = "percussion"

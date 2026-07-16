@@ -10,42 +10,42 @@ releaseYear = 2018
 releaseLabel = "Laydrunker Records"
 releaseCode = "LAYLA-002"
 issue = 78
-[[lineup]]
+[[credits]]
   name = "Layla Tomomi Sakai"
   slug = "layla-tomomi-sakai"
   instrument = "vocal"
   japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[lineup]]
+[[credits]]
   name = "Yuichiro Hiraoka"
   slug = "yuichiro-hiraoka"
   instrument = "guitar (#1, 3, 4, 5, 6)"
   japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Ryuichi Takase"
   slug = "ryuichi-takase"
   instrument = "trumpet (#1, 4)"
   japanese = "高瀬龍一 Takase Ryuichi"
-[[lineup]]
+[[credits]]
   name = "Toshio Miki"
   slug = "toshio-miki"
   instrument = "sax (#3, 5)"
   japanese = "三木俊雄 Miki Toshio"
-[[lineup]]
+[[credits]]
   name = "Masaru Okuyama"
   slug = "masaru-okuyama"
   instrument = "piano (#1, 3, 4)"
   japanese = "奥山勝 Okuyama Masaru"
-[[lineup]]
+[[credits]]
   name = "Satoshi Ishikawa"
   slug = "satoshi-ishikawa"
   instrument = "drums (#1, 3, 4)"
   japanese = "石川智 Ishikawa Satoshi"
-[[lineup]]
+[[credits]]
   name = "Matsumonica"
   slug = "matsumonica"
   instrument = "harmonica (from Momijin) (#2)"
   japanese = "マツモニカ Matsumonica"
-[[lineup]]
+[[credits]]
   name = "Norihito Nagasawa"
   slug = "norihito-nagasawa"
   instrument = "guitar (from Momijin) (#2)"

@@ -10,27 +10,27 @@ releaseYear = 2025
 releaseLabel = "MidVillage"
 releaseCode = "MV-001"
 issue = 304
-[[lineup]]
+[[credits]]
   name = "Kaito Nakamura"
   slug = "kaito-nakamura"
   instrument = "drums"
   japanese = "中村海斗 Nakamura Kaito"
-[[lineup]]
+[[credits]]
   name = "Riko Sasaki"
   slug = "riko-sasaki"
   instrument = "alto saxophone"
   japanese = "佐々木梨子 Sasaki Riko"
-[[lineup]]
+[[credits]]
   name = "Otohito Fuse"
   slug = "otohito-fuse"
   instrument = "piano"
   japanese = "布施音人 Fuse Otohito"
-[[lineup]]
+[[credits]]
   name = "Riku Takahashi"
   slug = "riku-takahashi"
   instrument = "bass"
   japanese = "高橋陸 Takahashi Riku"
-[[lineup]]
+[[credits]]
   name = "Ippei Kato"
   slug = "ippei-kato"
   instrument = "guitar (#1, 2, 3, 7, 8, 9)"

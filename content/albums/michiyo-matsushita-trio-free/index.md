@@ -10,17 +10,17 @@ releaseYear = 2024
 releaseLabel = "MUGI Record"
 releaseCode = "MUGI-2408"
 issue = 322
-[[lineup]]
+[[credits]]
   name = "Michiyo Matsushita"
   slug = "michiyo-matsushita"
   instrument = "piano"
   japanese = "松下美千代 Matsushita Michiyo"
-[[lineup]]
+[[credits]]
   name = "Show Kudo"
   slug = "show-kudo"
   instrument = "bass"
   japanese = "工藤精 Kudo Show"
-[[lineup]]
+[[credits]]
   name = "Ryo Saito"
   slug = "ryo-saito"
   instrument = "drums"

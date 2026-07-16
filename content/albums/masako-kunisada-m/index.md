@@ -10,17 +10,17 @@ releaseYear = 2014
 releaseLabel = "Masaki Kunisada"
 releaseCode = "M"
 issue = 71
-[[lineup]]
+[[credits]]
   name = "Masako Kunisada"
   slug = "masako-kunisada"
   instrument = "vocal"
   japanese = "国貞雅子 Kunisada Masako"
-[[lineup]]
+[[credits]]
   name = "Manabu Ohishi"
   slug = "manabu-ohishi"
   instrument = "all instruments, arrangements"
   japanese = "大石学 Ohishi Manabu"
-[[lineup]]
+[[credits]]
   name = "M-oto"
   slug = "m-oto"
   instrument = "human beat box (tracks #2, 4, 5, 7)"

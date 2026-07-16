@@ -10,92 +10,92 @@ releaseYear = 2022
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0024"
 issue = 256
-[[lineup]]
+[[credits]]
   name = "Eri Chichibu"
   slug = "eri-chichibu"
   instrument = "piano, keyboard, extra instruments, composition"
   japanese = "秩父英里 Chichibu Eri"
-[[lineup]]
+[[credits]]
   name = "Kunihiro Kikuta"
   slug = "kunihiro-kikuta"
   instrument = "trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)"
   japanese = "菊田邦裕 Kikuta Kunihiro"
-[[lineup]]
+[[credits]]
   name = "David Negrete"
   slug = "david-negrete"
   instrument = "alto sax, flute (tr. #1, 2, 5)"
   japanese = "デイビッド・ネグレテ Negrete David"
-[[lineup]]
+[[credits]]
   name = "Akihiro Nishiguchi"
   slug = "akihiro-nishiguchi"
   instrument = "tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5"
   japanese = "西口明宏 Nishiguchi Akihiro"
-[[lineup]]
+[[credits]]
   name = "Itsumi Komano"
   slug = "itsumi-komano"
   instrument = "trombone (tr. #1, 2, 5)"
   japanese = "駒野逸美 Komano Itsumi"
-[[lineup]]
+[[credits]]
   name = "Haruka Sasaki"
   slug = "haruka-sasaki"
   instrument = "baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)"
   japanese = "佐々木はるか Sasaki Haruka"
-[[lineup]]
+[[credits]]
   name = "Takahiro Nawashiro"
   slug = "takahiro-nawashiro"
   instrument = "guitar (tr. #1, 2, 5, 6)"
   japanese = "苗代尚寬 Nawashiro Takahiro"
-[[lineup]]
+[[credits]]
   name = "Marty Holoubek"
   slug = "marty-holoubek"
   instrument = "electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)"
   japanese = "マーティ・ホロベック Holoubek Marty"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums (tr. #1, 2, 3, 4, 5, 6)"
   japanese = "石若駿 Ishiwaka Shun"
-[[lineup]]
+[[credits]]
   name = "Milena Casado"
   slug = "milena-casado"
   instrument = "flugelhorn (tr. #4)"
   japanese = "ミレナ・カサード Casado Milena"
-[[lineup]]
+[[credits]]
   name = "Madoka Koike"
   slug = "madoka-koike"
   instrument = "violin (tr. #6)"
   japanese = "小池まどか Koike Madoka"
-[[lineup]]
+[[credits]]
   name = "Tamako Yashima"
   slug = "tamako-yashima"
   instrument = "cello (tr. #6)"
   japanese = "八島珠子 Yashima Tamako"
-[[lineup]]
+[[credits]]
   name = "Remy Le Boeuf"
   slug = "remy-le-boeuf"
   instrument = "alto sax (tr. #6)"
   japanese = "レミー・ル・ブーフ Le Boeuf Remy"
-[[lineup]]
+[[credits]]
   name = "Kan"
   slug = "kan"
   instrument = "percussion (tr. #7, 8)"
   japanese = "日高歓 Kan"
-[[lineup]]
+[[credits]]
   name = "Hiroki Hayashi"
   slug = "hiroki-hayashi"
   instrument = "alto sax, tenor sax (tr. #8)"
   japanese = "林宏樹 Hayashi Hiroki"
-[[lineup]]
+[[credits]]
   name = "Jiro Suzuki"
   slug = "jiro-suzuki"
   instrument = "guitar (tr. #8)"
   japanese = "鈴木次郎 Suzuki Jiro"
-[[lineup]]
+[[credits]]
   name = "Masaaki Saito"
   slug = "masaaki-saito"
   instrument = "electric bass (tr. #8)"
   japanese = "齋藤大陽 Saito Masaaki"
-[[lineup]]
+[[credits]]
   name = "Yuta Fukuhara"
   slug = "yuta-fukuhara"
   instrument = "drums (tr. #8)"

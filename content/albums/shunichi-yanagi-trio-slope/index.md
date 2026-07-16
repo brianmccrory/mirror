@@ -10,17 +10,17 @@ releaseYear = 2015
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1148"
 issue = 166
-[[lineup]]
+[[credits]]
   name = "Shunichi Yanagi"
   slug = "shunichi-yanagi"
   instrument = "piano"
   japanese = "柳隼一 Yanagi Shunichi"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Masatsugu Hattori"
   slug = "masatsugu-hattori"
   instrument = "drums"

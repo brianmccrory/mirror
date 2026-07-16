@@ -10,32 +10,32 @@ releaseYear = 2016
 releaseLabel = "Eclectic Records"
 releaseCode = "ECLC-101"
 issue = 31
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "vocals"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Taro Sukegawa"
   slug = "taro-sukegawa"
   instrument = "acoustic & electric guitar, cavaquinho"
   japanese = "助川太郎 Sukegawa Taro"
-[[lineup]]
+[[credits]]
   name = "Ken'ichiro Shinzawa"
   slug = "kenichiro-shinzawa"
   instrument = "keyboards"
   japanese = "新澤健一郎 Shinzawa Ken'ichiro"
-[[lineup]]
+[[credits]]
   name = "Cokky"
   slug = "cokky"
   instrument = "electric bass"
   japanese = "コッキー Cokky"
-[[lineup]]
+[[credits]]
   name = "Kiyotaka Kuroda"
   slug = "kiyotaka-kuroda"
   instrument = "drums"
   japanese = "黒田清高 Kuroda Kiyotaka"
-[[lineup]]
+[[credits]]
   name = "Yasuhiro Yoshigaki"
   slug = "yasuhiro-yoshigaki"
   instrument = "percussion (#4, 7)"

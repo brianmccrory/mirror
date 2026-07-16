@@ -10,27 +10,27 @@ releaseYear = 2010
 releaseLabel = "Casnet"
 releaseCode = "CSNT-8003"
 issue = 109
-[[lineup]]
+[[credits]]
   name = "Eriko Shimizu"
   slug = "eriko-shimizu"
   instrument = "piano"
   japanese = "清水絵理子 Shimizu Eriko"
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "saxophone"
   japanese = "井上淑彦 Inoue Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Saori Sendo"
   slug = "saori-sendo"
   instrument = "percussion"
   japanese = "仙道さおり Sendo Saori"
-[[lineup]]
+[[credits]]
   name = "Kunpei Nakabayashi"
   slug = "kunpei-nakabayashi"
   instrument = "bass"
   japanese = "中林薫平 Nakabayashi Kunpei"
-[[lineup]]
+[[credits]]
   name = "Daisuke Yoshioka"
   slug = "daisuke-yoshioka"
   instrument = "drums"

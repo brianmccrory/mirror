@@ -11,22 +11,22 @@ releaseYear = 2015
 releaseLabel = "MOR Records"
 releaseCode = "MOR-1001"
 issue = 51
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "saxophone"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Aaron Choulai"
   slug = "aaron-choulai"
   instrument = "piano"
   japanese = "アーロン・チューライ Choulai Aaron"
-[[lineup]]
+[[credits]]
   name = "Takashi Sugawa"
   slug = "takashi-sugawa"
   instrument = "bass"
   japanese = "須川崇志 Sugawa Takashi"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums"

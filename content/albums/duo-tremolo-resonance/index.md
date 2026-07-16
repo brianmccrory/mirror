@@ -10,22 +10,22 @@ releaseYear = 2019
 releaseLabel = "Orbit Records"
 releaseCode = "ORG-1004"
 issue = 131
-[[lineup]]
+[[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
   instrument = "piano, voice and percussion on #11"
   japanese = "堀秀彰 Hori Hideaki"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar, voice on #11"
   japanese = "馬場孝喜 Baba Takayoshi"
-[[lineup]]
+[[credits]]
   name = "Saori Sendo"
   slug = "saori-sendo"
   instrument = "percussion on #3, #8"
   japanese = "仙道さおり Sendo Saori"
-[[lineup]]
+[[credits]]
   name = "Aya Kurosawa"
   slug = "aya-kurosawa"
   instrument = "voice on #11"

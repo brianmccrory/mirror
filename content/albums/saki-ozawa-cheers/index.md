@@ -10,27 +10,27 @@ releaseYear = 2023
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0027"
 issue = 368
-[[lineup]]
+[[credits]]
   name = "Saki Ozawa"
   slug = "saki-ozawa"
   instrument = "piano"
   japanese = "小沢咲希 Ozawa Saki"
-[[lineup]]
+[[credits]]
   name = "Koji Yasuda"
   slug = "koji-yasuda"
   instrument = "bass (tracks #1, 4, 5, 7)"
   japanese = "安田幸司 Yasuda Koji"
-[[lineup]]
+[[credits]]
   name = "Takumi Awaya"
   slug = "takumi-awaya"
   instrument = "bass (tracks #2, 6, 8, 9, 10)"
   japanese = "粟谷巧 Awaya Takumi"
-[[lineup]]
+[[credits]]
   name = "Yusuke Yaginuma"
   slug = "yusuke-yaginuma"
   instrument = "drums"
   japanese = "柳沼佑育 Yaginuma Yusuke"
-[[lineup]]
+[[credits]]
   name = "Ema"
   slug = "ema"
   instrument = "vocal (#7)"

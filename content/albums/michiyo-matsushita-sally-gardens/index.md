@@ -10,7 +10,7 @@ releaseYear = 2018
 releaseLabel = "Michiyo Matsushita"
 releaseCode = "Sally Gardens"
 issue = 60
-[[lineup]]
+[[credits]]
   name = "Michiyo Matsushita"
   slug = "michiyo-matsushita"
   instrument = "piano, melodion"

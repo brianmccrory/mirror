@@ -10,7 +10,7 @@ releaseYear = 2012
 releaseLabel = "Silver Fingers/Roving Spirits"
 releaseCode = "RKCJ-2053"
 issue = 108
-[[lineup]]
+[[credits]]
   name = "Yukari Inoue"
   slug = "yukari-inoue"
   instrument = "piano"

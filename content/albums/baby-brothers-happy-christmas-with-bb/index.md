@@ -10,27 +10,27 @@ releaseYear = 2007
 releaseLabel = "Baby Brothers"
 releaseCode = "Side B"
 issue = 219
-[[lineup]]
+[[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
   instrument = "vocal"
   japanese = "石川早苗 Ishikawa Sanae"
-[[lineup]]
+[[credits]]
   name = "Monet"
   slug = "monet"
   instrument = "vocal"
   japanese = "モネ Monet"
-[[lineup]]
+[[credits]]
   name = "Kyoko Ogata"
   slug = "kyoko-ogata"
   instrument = "vocal"
   japanese = "緒方京子 Ogata Kyoko"
-[[lineup]]
+[[credits]]
   name = "Takahiko Goto"
   slug = "takahiko-goto"
   instrument = "vocal"
   japanese = "ごとうたかひこ Goto Takahiko"
-[[lineup]]
+[[credits]]
   name = "Yohhei"
   slug = "yohhei"
   instrument = "vocal"

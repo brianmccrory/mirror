@@ -11,17 +11,17 @@ releaseYear = 2013
 releaseLabel = "Peace Bass Records"
 releaseCode = "PBRS-0002"
 issue = 55
-[[lineup]]
+[[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
   instrument = "piano, Clavinet, Rhodes, CP-80, synth"
   japanese = "福井亜実 Fukui Ami"
-[[lineup]]
+[[credits]]
   name = "Yoshihito “P” Koizumi"
   slug = "yoshihito-p-koizumi"
   instrument = "bass"
   japanese = "小泉P克人 Koizumi Yoshihito “P”"
-[[lineup]]
+[[credits]]
   name = "Yasushi Fukumori"
   slug = "yasushi-fukumori"
   instrument = "drums"

@@ -10,7 +10,7 @@ releaseYear = 2009
 releaseLabel = "Iceblue Records"
 releaseCode = "IBRC-8001"
 issue = 40
-[[lineup]]
+[[credits]]
   name = "Ken'ichiro Shinzawa"
   slug = "kenichiro-shinzawa"
   instrument = "piano, composition"

@@ -10,7 +10,7 @@ releaseYear = 2022
 releaseLabel = "Concept Records"
 releaseCode = "CR-14"
 issue = 212
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"

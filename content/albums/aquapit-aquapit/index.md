@@ -10,17 +10,17 @@ releaseYear = 2011
 releaseLabel = "Mocloud Records"
 releaseCode = "DDCZ-1758"
 issue = 123
-[[lineup]]
+[[credits]]
   name = "Yuta Kaneko"
   slug = "yuta-kaneko"
   instrument = "Hammond B3 Organ"
   japanese = "金子雄太 Kaneko Yuta"
-[[lineup]]
+[[credits]]
   name = "Yosuke Onuma"
   slug = "yosuke-onuma"
   instrument = "guitar"
   japanese = "小沼ようすけ Onuma Yosuke"
-[[lineup]]
+[[credits]]
   name = "Hidenobu “Kalta” Otsuki"
   slug = "hidenobu-kalta-otsuki"
   instrument = "drums"

@@ -10,12 +10,12 @@ releaseYear = 2011
 releaseLabel = "Voice of Silence"
 releaseCode = "VOS-635"
 issue = 240
-[[lineup]]
+[[credits]]
   name = "Takumi Seino"
   slug = "takumi-seino"
   instrument = "guitar"
   japanese = "清野拓巳 Seino Takumi"
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar"

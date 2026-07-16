@@ -10,17 +10,17 @@ releaseYear = 2024
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1195"
 issue = 327
-[[lineup]]
+[[credits]]
   name = "Takako Yamada"
   slug = "takako-yamada"
   instrument = "piano"
   japanese = "山田貴子 Yamada Takako"
-[[lineup]]
+[[credits]]
   name = "Akiyoshi Shimizu"
   slug = "akiyoshi-shimizu"
   instrument = "bass"
   japanese = "清水昭好 Shimizu Akiyoshi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "drums, tabla"

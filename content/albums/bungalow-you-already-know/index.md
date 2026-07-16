@@ -10,21 +10,21 @@ releaseYear = 2017
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10075"
 issue = 4
-[[lineup]]
+[[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
   instrument = "Tenor Sax, Electronics"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "Piano, Fender Rhodes"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroshi Ikejiri"
   slug = "hiroshi-ikejiri"
   instrument = "Acoustic Bass, Ukelele Bass"
   japanese = "池尻洋史 Ikejiri Hiroshi"
-[[lineup]]
+[[credits]]
   name = "Ko Omura"
   slug = "ko-omura"
   instrument = "Drums, Tabla"

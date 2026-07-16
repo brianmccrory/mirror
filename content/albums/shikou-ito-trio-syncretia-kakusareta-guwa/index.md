@@ -10,17 +10,17 @@ releaseYear = 2025
 releaseLabel = "Musica Visionaire"
 releaseCode = "MVSI-1003"
 issue = 352
-[[lineup]]
+[[credits]]
   name = "Shikou Ito"
   slug = "shikou-ito"
   instrument = "piano"
   japanese = "伊藤志宏 Ito Shikou"
-[[lineup]]
+[[credits]]
   name = "Benisuke Sakai"
   slug = "benisuke-sakai"
   instrument = "bass"
   japanese = "坂井紅介 Sakai Benisuke"
-[[lineup]]
+[[credits]]
   name = "Gen Ogimi"
   slug = "gen-ogimi"
   instrument = "percussion"

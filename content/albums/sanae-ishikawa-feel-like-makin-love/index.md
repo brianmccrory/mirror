@@ -10,32 +10,32 @@ releaseYear = 2007
 releaseLabel = "Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow"
 releaseCode = "MTCJ-1098"
 issue = 45
-[[lineup]]
+[[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
   instrument = "vocal"
   japanese = "石川早苗 Ishikawa Sanae"
-[[lineup]]
+[[credits]]
   name = "Shigeo Fukuda"
   slug = "shigeo-fukuda"
   instrument = "piano, electric piano"
   japanese = "福田重男 Fukuda Shigeo"
-[[lineup]]
+[[credits]]
   name = "Shinji Hashimoto"
   slug = "shinji-hashimoto"
   instrument = "guitar"
   japanese = "橋本信二 Hashimoto Shinji"
-[[lineup]]
+[[credits]]
   name = "Daisuke Toi"
   slug = "daisuke-toi"
   instrument = "bass"
   japanese = "トオイダイスケ Toi Daisuke"
-[[lineup]]
+[[credits]]
   name = "Satoshi Kosugi"
   slug = "satoshi-kosugi"
   instrument = "bass"
   japanese = "小杉敏 Kosugi Satoshi"
-[[lineup]]
+[[credits]]
   name = "Cecil Monroe"
   slug = "cecil-monroe"
   instrument = "drums"

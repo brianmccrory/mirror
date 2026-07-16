@@ -10,37 +10,37 @@ releaseYear = 2024
 releaseLabel = "Wave Records"
 releaseCode = "WR-001"
 issue = 234
-[[lineup]]
+[[credits]]
   name = "Nami Kano"
   slug = "nami-kano"
   instrument = "alto/soprano saxophone, flute, duduk, chorus"
   japanese = "加納奈実 Kano Nami"
-[[lineup]]
+[[credits]]
   name = "Tomokazu Sugimoto"
   slug = "tomokazu-sugimoto"
   instrument = "basses, arrangement, programming, co-producer"
   japanese = "杉本智和 Sugimoto Tomokazu"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano, Rhodes, keyboard"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums, percussion"
   japanese = "吉良創太 Kira Sota"
-[[lineup]]
+[[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin (tracks 2, 5)"
   japanese = "マイコ maiko"
-[[lineup]]
+[[credits]]
   name = "Orie Hirayama"
   slug = "orie-hirayama"
   instrument = "cello (tracks 2, 5)"
   japanese = "平山織絵 Hirayama Orie"
-[[lineup]]
+[[credits]]
   name = "Shoko Mochiyama"
   slug = "shoko-mochiyama"
   instrument = "strings arrangement (tracks 2, 5)"

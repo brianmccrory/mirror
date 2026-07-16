@@ -10,17 +10,17 @@ releaseYear = 2023
 releaseLabel = "Pochizou"
 releaseCode = "POCH-2308"
 issue = 311
-[[lineup]]
+[[credits]]
   name = "Yosuke Sato"
   slug = "yosuke-sato"
   instrument = "sax"
   japanese = "佐藤洋祐 Sato Yosuke"
-[[lineup]]
+[[credits]]
   name = "George Nakajima"
   slug = "george-nakajima"
   instrument = "piano"
   japanese = "中嶋錠二 Nakajima George"
-[[lineup]]
+[[credits]]
   name = "Ema"
   slug = "ema"
   instrument = "vocals (#7, 8)"

@@ -10,22 +10,22 @@ releaseYear = 2023
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-040"
 issue = 271
-[[lineup]]
+[[credits]]
   name = "Mabumi Yamaguchi"
   slug = "mabumi-yamaguchi"
   instrument = "soprano saxophone"
   japanese = "山口真文 Yamaguchi Mabumi"
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Ryohei Komaki"
   slug = "ryohei-komaki"
   instrument = "bass"
   japanese = "小牧良平 Komaki Ryohei"
-[[lineup]]
+[[credits]]
   name = "Tamaya Honda"
   slug = "tamaya-honda"
   instrument = "drums"

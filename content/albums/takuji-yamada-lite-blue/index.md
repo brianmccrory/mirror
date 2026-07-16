@@ -10,25 +10,25 @@ releaseYear = 2012
 releaseLabel = "D-Musica"
 releaseCode = "DMCD-18"
 issue = 18
-[[lineup]]
+[[credits]]
   name = "Takuji Yamada"
   slug = "takuji-yamada"
   instrument = "alto and soprano saxophones, bass clarinet"
   japanese = "山田拓児 Yamada Takuji"
-[[lineup]]
+[[credits]]
   name = "Danny Grissett"
   slug = "danny-grissett"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Daisuke Abe"
   slug = "daisuke-abe"
   instrument = "guitar (tr. 3, 5, 6, 8, 9, 10)"
   japanese = "阿部大輔 Abe Daisuke"
-[[lineup]]
+[[credits]]
   name = "Luques Curtis"
   slug = "luques-curtis"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Quincy Davis"
   slug = "quincy-davis"
   instrument = "drums"

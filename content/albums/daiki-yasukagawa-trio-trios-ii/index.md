@@ -10,42 +10,42 @@ releaseYear = 2015
 releaseLabel = "D-Musica"
 releaseCode = "DMCD-28"
 issue = 99
-[[lineup]]
+[[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
   instrument = "bass"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[lineup]]
+[[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano (#1, 2)"
   japanese = "浅川太平 Asakawa Taihei"
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano (#3, 4)"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano (#5, 6)"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano (#7, 8, 9, 10, 11)"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Ryo Noritake"
   slug = "ryo-noritake"
   instrument = "drums (#1, 2)"
   japanese = "則武諒 Noritake Ryo"
-[[lineup]]
+[[credits]]
   name = "Yuto Hirase"
   slug = "yuto-hirase"
   instrument = "drums (#3, 4)"
   japanese = "平瀬祐人 Hirase Yuto"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "drums (#5, 6, 7, 8, 9, 10, 11)"

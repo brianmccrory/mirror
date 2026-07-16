@@ -10,42 +10,42 @@ releaseYear = 2021
 releaseLabel = "KINO Records"
 releaseCode = "KIN-001"
 issue = 282
-[[lineup]]
+[[credits]]
   name = "Akiha Nakashima"
   slug = "akiha-nakashima"
   instrument = "alto sax, soprano sax (#2, 4, 5, 8)"
   japanese = "中島朱葉 Nakashima Akiha"
-[[lineup]]
+[[credits]]
   name = "Kohei Ando"
   slug = "kohei-ando"
   instrument = "alto sax, soprano sax (#1, 3, 4, 7, 9)"
   japanese = "安藤康平 Ando Kohei"
-[[lineup]]
+[[credits]]
   name = "Mao Sone"
   slug = "mao-sone"
   instrument = "trumpet (#1), piano (#6), Fender Rhodes & keys (#9)"
   japanese = "曽根麻央 Sone Mao"
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano (#2, 4, 5, 8)"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano (#1, 3, 7, 9)"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Keisuke Furuki"
   slug = "keisuke-furuki"
   instrument = "bass (#2, 4, 5, 8)"
   japanese = "古木佳祐 Furuki Keisuke"
-[[lineup]]
+[[credits]]
   name = "Yuji Ito"
   slug = "yuji-ito"
   instrument = "bass (#1, 3, 6, 7, 9)"
   japanese = "伊藤勇司 Ito Yuji"
-[[lineup]]
+[[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
   instrument = "drums, percussion (#3)"

@@ -10,17 +10,17 @@ releaseYear = 2011
 releaseLabel = "Peace Bass Records"
 releaseCode = "PBRS-0001"
 issue = 136
-[[lineup]]
+[[credits]]
   name = "Yoshihito “P” Koizumi"
   slug = "yoshihito-p-koizumi"
   instrument = "bass"
   japanese = "小泉P克人 Koizumi Yoshihito “P”"
-[[lineup]]
+[[credits]]
   name = "Jun Miyakawa"
   slug = "jun-miyakawa"
   instrument = "keyboards"
   japanese = "宮川純 Miyakawa Jun"
-[[lineup]]
+[[credits]]
   name = "Kohzo Komori"
   slug = "kohzo-komori"
   instrument = "drums"

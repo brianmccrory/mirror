@@ -10,16 +10,16 @@ releaseYear = 2002
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-025"
 issue = 120
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Larry Grenadier"
   slug = "larry-grenadier"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Jeff Ballard"
   slug = "jeff-ballard"
   instrument = "drums"

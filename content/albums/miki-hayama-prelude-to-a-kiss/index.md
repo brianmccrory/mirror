@@ -10,17 +10,17 @@ releaseYear = 2006
 releaseLabel = "Art Jazz Records"
 releaseCode = "ARTCD-112"
 issue = 88
-[[lineup]]
+[[credits]]
   name = "Miki Hayama"
   slug = "miki-hayama"
   instrument = "piano"
   japanese = "早間美紀 Hayama Miki"
-[[lineup]]
+[[credits]]
   name = "Kiyoshi Kitagawa"
   slug = "kiyoshi-kitagawa"
   instrument = "bass"
   japanese = "北川潔 Kitagawa Kiyoshi"
-[[lineup]]
+[[credits]]
   name = "Eric McPherson"
   slug = "eric-mcpherson"
   instrument = "drums"

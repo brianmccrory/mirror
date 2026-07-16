@@ -10,27 +10,27 @@ releaseYear = 2016
 releaseLabel = "Song X Jazz"
 releaseCode = "SONGX-036"
 issue = 208
-[[lineup]]
+[[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
   instrument = "guitar, keyboards"
   japanese = "市野元彦 Ichino Motohiko"
-[[lineup]]
+[[credits]]
   name = "Daisuke Fujiwara"
   slug = "daisuke-fujiwara"
   instrument = "tenor saxophone, flute, synthesizer, electronics"
   japanese = "藤原大輔 Fujiwara Daisuke"
-[[lineup]]
+[[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
   instrument = "rhodes, synthesizer, piano"
   japanese = "佐藤浩一 Sato Koichi"
-[[lineup]]
+[[credits]]
   name = "Hiroki Chiba"
   slug = "hiroki-chiba"
   instrument = "contrabass, electric bass, violin, electronics"
   japanese = "千葉広樹 Chiba Hiroki"
-[[lineup]]
+[[credits]]
   name = "Noritaka Tanaka"
   slug = "noritaka-tanaka"
   instrument = "drums"

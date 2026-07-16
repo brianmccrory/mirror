@@ -10,20 +10,20 @@ releaseYear = 2018
 releaseLabel = "Dear Heart"
 releaseCode = "DBCW-3333"
 issue = 79
-[[lineup]]
+[[credits]]
   name = "Nobie"
   slug = "nobie"
   instrument = "vocal"
   japanese = "ノビー Nobie"
-[[lineup]]
+[[credits]]
   name = "Lionel Loueke"
   slug = "lionel-loueke"
   instrument = "guitar, vocals (#1-4)"
-[[lineup]]
+[[credits]]
   name = "Toninho Horta"
   slug = "toninho-horta"
   instrument = "guitar, vocals (#5-6)"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "guitar (#8)"

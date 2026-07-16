@@ -10,22 +10,22 @@ releaseYear = 2009
 releaseLabel = "Grapes Records"
 releaseCode = "GPS-1206"
 issue = 22
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "tenor saxophone, clarinet, effects, voice"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Takumi Seino"
   slug = "takumi-seino"
   instrument = "electric, acoustic guitars"
   japanese = "清野拓巳 Seino Takumi"
-[[lineup]]
+[[credits]]
   name = "Masako Hamamura"
   slug = "masako-hamamura"
   instrument = "piano"
   japanese = "浜村昌子 Hamamura Masako"
-[[lineup]]
+[[credits]]
   name = "Yasutaka Yorozu"
   slug = "yasutaka-yorozu"
   instrument = "bass"

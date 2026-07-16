@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "GardenNotes Music"
 releaseCode = "GNM-1018"
 issue = 207
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "voice, percussions, kalimba"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Keisuke Ohta"
   slug = "keisuke-ohta"
   instrument = "violin, voice"
   japanese = "太田惠資 Ohta Keisuke"
-[[lineup]]
+[[credits]]
   name = "Atsushi Abe"
   slug = "atsushi-abe"
   instrument = "piano"

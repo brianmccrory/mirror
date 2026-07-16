@@ -10,17 +10,17 @@ releaseYear = 2013
 releaseLabel = "Meantone Records"
 releaseCode = "MT-004"
 issue = 76
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Yasuhiko “Hachi” Sato"
   slug = "yasuhiko-hachi-sato"
   instrument = "bass"
   japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
-[[lineup]]
+[[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
   instrument = "drums"

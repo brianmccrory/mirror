@@ -10,67 +10,67 @@ releaseYear = 2010
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0003"
 issue = 183
-[[lineup]]
+[[credits]]
   name = "Yuichiro Aratake"
   slug = "yuichiro-aratake"
   instrument = "piano"
   japanese = "荒武裕一朗 Aratake Yuichiro"
-[[lineup]]
+[[credits]]
   name = "Kunio Oinuma"
   slug = "kunio-oinuma"
   instrument = "bass"
   japanese = "生沼邦夫 Oinuma Kunio"
-[[lineup]]
+[[credits]]
   name = "Koichi Inoue"
   slug = "koichi-inoue"
   instrument = "drums"
   japanese = "井上功一 Inoue Koichi"
-[[lineup]]
+[[credits]]
   name = "Koei Tanaka"
   slug = "koei-tanaka"
   instrument = "harmonica"
   japanese = "田中光栄 Tanaka Koei"
-[[lineup]]
+[[credits]]
   name = "Ryutaro Makino"
   slug = "ryutaro-makino"
   instrument = "vocal"
   japanese = "牧野竜太郎 Makino Ryutaro"
-[[lineup]]
+[[credits]]
   name = "Naomi Urushibara"
   slug = "naomi-urushibara"
   instrument = "violin"
   japanese = "漆原直美 Urushibara Naomi"
-[[lineup]]
+[[credits]]
   name = "Leina Ushiyama"
   slug = "leina-ushiyama"
   instrument = "violin"
   japanese = "牛山玲名 Ushiyama Leina"
-[[lineup]]
+[[credits]]
   name = "Kanae Shima"
   slug = "kanae-shima"
   instrument = "violin"
   japanese = "志摩かなえ Shima Kanae"
-[[lineup]]
+[[credits]]
   name = "Asami Matsuda"
   slug = "asami-matsuda"
   instrument = "violin"
   japanese = "松田麻美 Matsuda Asami"
-[[lineup]]
+[[credits]]
   name = "Daisuke Tomita"
   slug = "daisuke-tomita"
   instrument = "viola"
   japanese = "富田大輔 Tomita Daisuke"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Sato"
   slug = "ryosuke-sato"
   instrument = "viola"
   japanese = "佐藤良輔 Sato Ryosuke"
-[[lineup]]
+[[credits]]
   name = "Takefumi Shirasa"
   slug = "takefumi-shirasa"
   instrument = "cello"
   japanese = "白佐武史 Shirasa Takefumi"
-[[lineup]]
+[[credits]]
   name = "Masato Kubo"
   slug = "masato-kubo"
   instrument = "cello"

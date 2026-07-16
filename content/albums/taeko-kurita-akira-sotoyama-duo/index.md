@@ -10,12 +10,12 @@ releaseYear = 2024
 releaseLabel = "Taeko Kurita"
 releaseCode = "T59T-07"
 issue = 316
-[[lineup]]
+[[credits]]
   name = "Taeko Kurita"
   slug = "taeko-kurita"
   instrument = "piano"
   japanese = "栗田妙子 Kurita Taeko"
-[[lineup]]
+[[credits]]
   name = "Akira Sotoyama"
   slug = "akira-sotoyama"
   instrument = "drums"

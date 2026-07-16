@@ -10,27 +10,27 @@ releaseYear = 2017
 releaseLabel = "Malt Oriental"
 releaseCode = "MORI-0003"
 issue = 348
-[[lineup]]
+[[credits]]
   name = "Yuri Hirota"
   slug = "yuri-hirota"
   instrument = "piano & arrangement"
   japanese = "廣田ゆり Hirota Yuri"
-[[lineup]]
+[[credits]]
   name = "Daisei Mii"
   slug = "daisei-mii"
   instrument = "violin & viola"
   japanese = "三井大生 Mii Daisei"
-[[lineup]]
+[[credits]]
   name = "Kilin Sato"
   slug = "kilin-sato"
   instrument = "bass"
   japanese = "佐藤きりん Sato Kilin"
-[[lineup]]
+[[credits]]
   name = "Gen Date"
   slug = "gen-date"
   instrument = "conga & other percussion"
   japanese = "伊達弦 Date Gen"
-[[lineup]]
+[[credits]]
   name = "Yuichiro Hiraoka"
   slug = "yuichiro-hiraoka"
   instrument = "guitar on #1, 3, 7"

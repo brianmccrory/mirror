@@ -10,20 +10,20 @@ releaseYear = 2012
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30620"
 issue = 43
-[[lineup]]
+[[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
   instrument = "alto sax"
   japanese = "纐纈歩美 Koketsu Ayumi"
-[[lineup]]
+[[credits]]
   name = "Svein Olav Herstad"
   slug = "svein-olav-herstad"
   instrument = "piano"
-[[lineup]]
+[[credits]]
   name = "Magne Thormodsæter"
   slug = "magne-thormodster"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Per Oddvar Johansen"
   slug = "per-oddvar-johansen"
   instrument = "drums"

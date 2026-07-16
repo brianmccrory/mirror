@@ -10,22 +10,22 @@ releaseYear = 2024
 releaseLabel = "NONET"
 releaseCode = "NONET-3"
 issue = 321
-[[lineup]]
+[[credits]]
   name = "Yuji Ito"
   slug = "yuji-ito"
   instrument = "bass"
   japanese = "伊藤勇司 Ito Yuji"
-[[lineup]]
+[[credits]]
   name = "Koichi Hirata"
   slug = "koichi-hirata"
   instrument = "guitar"
   japanese = "平田晃一 Hirata Koichi"
-[[lineup]]
+[[credits]]
   name = "Kosuke Mine"
   slug = "kosuke-mine"
   instrument = "tenor sax (tracks #5, 9)"
   japanese = "峰厚介 Mine Kosuke"
-[[lineup]]
+[[credits]]
   name = "Yusuke Yaginuma"
   slug = "yusuke-yaginuma"
   instrument = "drums (tracks #4, 5)"

@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30554"
 issue = 25
-[[lineup]]
+[[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
   instrument = "piano"
   japanese = "片倉真由子 Katakura Mayuko"
-[[lineup]]
+[[credits]]
   name = "Yasushi Nakamura"
   slug = "yasushi-nakamura"
   instrument = "bass"
   japanese = "中村恭士 Nakamura Yasushi"
-[[lineup]]
+[[credits]]
   name = "Carl Allen"
   slug = "carl-allen"
   instrument = "drums"

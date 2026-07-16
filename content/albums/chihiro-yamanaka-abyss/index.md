@@ -10,16 +10,16 @@ releaseYear = 2007
 releaseLabel = "Verve"
 releaseCode = "UCCJ-2060"
 issue = 324
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Vicente Archer"
   slug = "vicente-archer"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Kendrick Scott"
   slug = "kendrick-scott"
   instrument = "drums"

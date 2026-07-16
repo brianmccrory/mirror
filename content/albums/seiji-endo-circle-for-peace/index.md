@@ -10,7 +10,7 @@ releaseYear = 2016
 releaseLabel = "Nippon Acoustic Records, Inc"
 releaseCode = "NARP-8009"
 issue = 19
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "solo piano and compositions"

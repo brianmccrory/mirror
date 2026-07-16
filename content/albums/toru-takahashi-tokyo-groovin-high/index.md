@@ -10,47 +10,47 @@ releaseYear = 2021
 releaseLabel = "T-Swing Music"
 releaseCode = "TSM-0001"
 issue = 341
-[[lineup]]
+[[credits]]
   name = "Toru Takahashi"
   slug = "toru-takahashi"
   instrument = "drums"
   japanese = "高橋徹 Takahashi Toru"
-[[lineup]]
+[[credits]]
   name = "Atsushi Ikeda"
   slug = "atsushi-ikeda"
   instrument = "alto sax (#1-5, 7)"
   japanese = "池田篤 Ikeda Atsushi"
-[[lineup]]
+[[credits]]
   name = "Masanori Okazaki"
   slug = "masanori-okazaki"
   instrument = "tenor sax (#3, 4, 8-12)"
   japanese = "岡崎正典 Okazaki Masanori"
-[[lineup]]
+[[credits]]
   name = "Keiichi Yoshida"
   slug = "keiichi-yoshida"
   instrument = "piano (#1-7)"
   japanese = "吉田桂一 Yoshida Keiichi"
-[[lineup]]
+[[credits]]
   name = "Kengo Nakamura"
   slug = "kengo-nakamura"
   instrument = "bass (#1-7)"
   japanese = "中村健吾 Nakamura Kengo"
-[[lineup]]
+[[credits]]
   name = "Yusuke Chigita"
   slug = "yusuke-chigita"
   instrument = "bass (#8-12)"
   japanese = "千北祐輔 Chigita Yusuke"
-[[lineup]]
+[[credits]]
   name = "Jun Satsuma"
   slug = "jun-satsuma"
   instrument = "guitar (#8, 9, 12)"
   japanese = "佐津間純 Satsuma Jun"
-[[lineup]]
+[[credits]]
   name = "Koyuza Sanyutei"
   slug = "koyuza-sanyutei"
   instrument = "special guest trumpet (#3)"
   japanese = "三遊亭小遊三 Sanyutei Koyuza"
-[[lineup]]
+[[credits]]
   name = "Shota Shunputei"
   slug = "shota-shunputei"
   instrument = "special guest trombone (#3)"

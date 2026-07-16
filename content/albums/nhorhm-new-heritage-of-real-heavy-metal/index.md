@@ -10,37 +10,37 @@ releaseYear = 2015
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS1905/APLS1510R"
 issue = 320
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano, arrangements, composition"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Manabu Hashimoto"
   slug = "manabu-hashimoto"
   instrument = "percussion"
   japanese = "橋本学 Hashimoto Manabu"
-[[lineup]]
+[[credits]]
   name = "Tomomi Oda"
   slug = "tomomi-oda"
   instrument = "vocals (track #4)"
   japanese = "小田朋美 Oda Tomomi"
-[[lineup]]
+[[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
   instrument = "acoustic guitar (track #5)"
   japanese = "馬場孝喜 Baba Takayoshi"
-[[lineup]]
+[[credits]]
   name = "Hikari Ichihara"
   slug = "hikari-ichihara"
   instrument = "trumpet (track #8)"
   japanese = "市原ひかり Ichihara Hikari"
-[[lineup]]
+[[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
   instrument = "sax (track #10)"

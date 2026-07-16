@@ -10,27 +10,27 @@ releaseYear = 2012
 releaseLabel = "Coume Music"
 releaseCode = "DQC-919"
 issue = 98
-[[lineup]]
+[[credits]]
   name = "Yudo Matsuo"
   slug = "yudo-matsuo"
   instrument = "electric & acoustic guitar"
   japanese = "松尾由堂 Matsuo Yudo"
-[[lineup]]
+[[credits]]
   name = "Keisuke Nakamura"
   slug = "keisuke-nakamura"
   instrument = "trumpet, flugelhorn"
   japanese = "中村恵介 Nakamura Keisuke"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "fretless electric bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Yasushi Fukumori"
   slug = "yasushi-fukumori"
   instrument = "drums"
   japanese = "福森康 Fukumori Yasushi"
-[[lineup]]
+[[credits]]
   name = "Takeru Yamazaki"
   slug = "takeru-yamazaki"
   instrument = "keyboards (#2, 4, 9)"

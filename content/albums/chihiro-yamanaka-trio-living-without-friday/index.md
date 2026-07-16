@@ -10,16 +10,16 @@ releaseYear = 2001
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-016"
 issue = 104
-[[lineup]]
+[[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
   instrument = "piano"
   japanese = "山中千尋 Yamanaka Chihiro"
-[[lineup]]
+[[credits]]
   name = "Ray Parker"
   slug = "ray-parker"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "LaFrae Olivia Sci"
   slug = "lafrae-olivia-sci"
   instrument = "drums"

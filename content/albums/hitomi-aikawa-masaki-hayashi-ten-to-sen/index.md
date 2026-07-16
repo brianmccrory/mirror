@@ -10,12 +10,12 @@ releaseYear = 2025
 releaseLabel = "Hitomi Aikawa"
 releaseCode = "HICD-002"
 issue = 362
-[[lineup]]
+[[credits]]
   name = "Hitomi Aikawa"
   slug = "hitomi-aikawa"
   instrument = "marimba, percussion"
   japanese = "相川瞳 Aikawa Hitomi"
-[[lineup]]
+[[credits]]
   name = "Masaki Hayashi"
   slug = "masaki-hayashi"
   instrument = "piano"

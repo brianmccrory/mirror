@@ -10,27 +10,27 @@ releaseYear = 2004
 releaseLabel = "Steps Records"
 releaseCode = "VNTM-04001"
 issue = 300
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Mitsuaki Hara"
   slug = "mitsuaki-hara"
   instrument = "bass"
   japanese = "原満章 Hara Mitsuaki"
-[[lineup]]
+[[credits]]
   name = "Tsutomu Kawauchi"
   slug = "tsutomu-kawauchi"
   instrument = "drums"
   japanese = "川内努 Kawauchi Tsutomu"
-[[lineup]]
+[[credits]]
   name = "Satoshi Otani"
   slug = "satoshi-otani"
   instrument = "bass (#9, 10, 11)"
   japanese = "大谷訓史 Otani Satoshi"
-[[lineup]]
+[[credits]]
   name = "Takehiro Shimizu"
   slug = "takehiro-shimizu"
   instrument = "drums (#9, 10, 11)"

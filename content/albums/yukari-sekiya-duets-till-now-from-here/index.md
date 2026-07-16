@@ -10,47 +10,47 @@ releaseYear = 2025
 releaseLabel = "Umishima Records"
 releaseCode = "USM-001"
 issue = 354
-[[lineup]]
+[[credits]]
   name = "Yukari Sekiya"
   slug = "yukari-sekiya"
   instrument = "piano"
   japanese = "関谷友加里 Sekiya Yukari"
-[[lineup]]
+[[credits]]
   name = "Taiichi Kamimura"
   slug = "taiichi-kamimura"
   instrument = "tenor & soprano sax"
   japanese = "かみむら泰一 Kamimura Taiichi"
-[[lineup]]
+[[credits]]
   name = "Tsutomu Takei"
   slug = "tsutomu-takei"
   instrument = "tenor & soprano sax"
   japanese = "武井努 Takei Tsutomu"
-[[lineup]]
+[[credits]]
   name = "Yuzumi Tanimukai"
   slug = "yuzumi-tanimukai"
   instrument = "voice"
   japanese = "谷向柚美 Tanimukai Yuzumi"
-[[lineup]]
+[[credits]]
   name = "Suomi Morishita"
   slug = "suomi-morishita"
   instrument = "guitar"
   japanese = "森下周央彌 Morishita Suomi"
-[[lineup]]
+[[credits]]
   name = "Michihiro Morisada"
   slug = "michihiro-morisada"
   instrument = "bass"
   japanese = "森定道広 Morisada Michihiro"
-[[lineup]]
+[[credits]]
   name = "Megumi Otsuka"
   slug = "megumi-otsuka"
   instrument = "bass"
   japanese = "大塚恵 Otsuka Megumi"
-[[lineup]]
+[[credits]]
   name = "Masaki Kai"
   slug = "masaki-kai"
   instrument = "bass"
   japanese = "甲斐正樹 Kai Masaki"
-[[lineup]]
+[[credits]]
   name = "Jin Mitsuda"
   slug = "jin-mitsuda"
   instrument = "drums"

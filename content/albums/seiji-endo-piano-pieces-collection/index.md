@@ -10,7 +10,7 @@ releaseYear = 2021
 releaseLabel = "Fair Play Records"
 releaseCode = "FPCD-1011"
 issue = 279
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano"

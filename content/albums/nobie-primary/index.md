@@ -10,51 +10,51 @@ releaseYear = 2011
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-0721"
 issue = 262
-[[lineup]]
+[[credits]]
   name = "Nobie"
   slug = "nobie"
   instrument = "vocals, handclaps, microKORG, shaker"
   japanese = "ノビー Nobie"
-[[lineup]]
+[[credits]]
   name = "Toninho Horta"
   slug = "toninho-horta"
   instrument = "vocals & acoustic guitars (#1, 11)"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano (#8)"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Shikou Ito"
   slug = "shikou-ito"
   instrument = "piano, keyboards, & handclaps (#2, 3, 7, 10)"
   japanese = "伊藤志宏 Ito Shikou"
-[[lineup]]
+[[credits]]
   name = "Kohzo Komori"
   slug = "kohzo-komori"
   instrument = "drums & handclaps (#2, 3, 4, 6, 7, 9, 10)"
   japanese = "小森耕造 Komori Kohzo"
-[[lineup]]
+[[credits]]
   name = "Satoshi Yoshida"
   slug = "satoshi-yoshida"
   instrument = "electric and acoustic guitars (#4, 5, 6, 9, 10)"
   japanese = "吉田サトシ Yoshida Satoshi"
-[[lineup]]
+[[credits]]
   name = "Yoshihito “P” Koizumi"
   slug = "yoshihito-p-koizumi"
   instrument = "electric bass (#4, 6, 7, 9)"
   japanese = "小泉P克人 Koizumi Yoshihito “P”"
-[[lineup]]
+[[credits]]
   name = "Yuri Dazai"
   slug = "yuri-dazai"
   instrument = "piano & keyboard (#6, 9)"
   japanese = "太宰百合 Dazai Yuri"
-[[lineup]]
+[[credits]]
   name = "Satoshi Ishikawa"
   slug = "satoshi-ishikawa"
   instrument = "percussions (#5)"
   japanese = "石川智 Ishikawa Satoshi"
-[[lineup]]
+[[credits]]
   name = "Satoshi Sano"
   slug = "satoshi-sano"
   instrument = "flute (#9)"

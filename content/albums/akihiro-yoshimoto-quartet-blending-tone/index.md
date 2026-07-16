@@ -10,22 +10,22 @@ releaseYear = 2012
 releaseLabel = "Orbit Records"
 releaseCode = "ORB-1001"
 issue = 356
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "tenor sax"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Aaron Choulai"
   slug = "aaron-choulai"
   instrument = "piano"
   japanese = "アーロン・チューライ Choulai Aaron"
-[[lineup]]
+[[credits]]
   name = "Takuya Sakazaki"
   slug = "takuya-sakazaki"
   instrument = "bass"
   japanese = "坂崎拓也 Sakazaki Takuya"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums"

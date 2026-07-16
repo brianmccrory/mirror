@@ -10,16 +10,16 @@ releaseYear = 2007
 releaseLabel = "Spice of Life"
 releaseCode = "SOLJP-0005"
 issue = 14
-[[lineup]]
+[[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[[lineup]]
+[[credits]]
   name = "Hans Backenroth"
   slug = "hans-backenroth"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Anders Kjellberg"
   slug = "anders-kjellberg"
   instrument = "drums"

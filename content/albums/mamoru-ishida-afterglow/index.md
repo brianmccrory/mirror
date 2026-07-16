@@ -10,17 +10,17 @@ releaseYear = 2023
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-039"
 issue = 269
-[[lineup]]
+[[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
   instrument = "piano"
   japanese = "石田衛 Ishida Mamoru"
-[[lineup]]
+[[credits]]
   name = "Ryohei Komaki"
   slug = "ryohei-komaki"
   instrument = "bass"
   japanese = "小牧良平 Komaki Ryohei"
-[[lineup]]
+[[credits]]
   name = "Kaito Nakamura"
   slug = "kaito-nakamura"
   instrument = "drums"

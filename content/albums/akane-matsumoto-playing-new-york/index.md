@@ -10,16 +10,16 @@ releaseYear = 2010
 releaseLabel = "TK Entertainment"
 releaseCode = "QACK-35007"
 issue = 69
-[[lineup]]
+[[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[[lineup]]
+[[credits]]
   name = "Nat Reeves"
   slug = "nat-reeves"
   instrument = "bass"
-[[lineup]]
+[[credits]]
   name = "Joe Farnsworth"
   slug = "joe-farnsworth"
   instrument = "drums"

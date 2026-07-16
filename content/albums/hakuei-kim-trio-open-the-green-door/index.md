@@ -10,16 +10,16 @@ releaseYear = 2005
 releaseLabel = "DIW Records"
 releaseCode = "DIW-631"
 issue = 54
-[[lineup]]
+[[credits]]
   name = "Hakuei Kim"
   slug = "hakuei-kim"
   instrument = "piano"
   japanese = "ハクエイ・キム Kim Hakuei"
-[[lineup]]
+[[credits]]
   name = "Ben “Donny” Waples"
   slug = "ben-donny-waples"
   instrument = "double bass"
-[[lineup]]
+[[credits]]
   name = "Dave Goodman"
   slug = "dave-goodman"
   instrument = "drums and percussion"

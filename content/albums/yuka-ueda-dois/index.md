@@ -10,32 +10,32 @@ releaseYear = 2013
 releaseLabel = "Audio Fab Records"
 releaseCode = "AFD-110"
 issue = 129
-[[lineup]]
+[[credits]]
   name = "Yuka Ueda"
   slug = "yuka-ueda"
   instrument = "vocal"
   japanese = "上田裕香 Ueda Yuka"
-[[lineup]]
+[[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
   instrument = "piano"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[[lineup]]
+[[credits]]
   name = "Ryoji Orihara"
   slug = "ryoji-orihara"
   instrument = "electric fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[[lineup]]
+[[credits]]
   name = "Nobuyuki Komatsu"
   slug = "nobuyuki-komatsu"
   instrument = "drums"
   japanese = "小松伸之 Komatsu Nobuyuki"
-[[lineup]]
+[[credits]]
   name = "Shinji Hashimoto"
   slug = "shinji-hashimoto"
   instrument = "electric guitar (#1, 5, 7)"
   japanese = "橋本信二 Hashimoto Shinji"
-[[lineup]]
+[[credits]]
   name = "Jo da Babylonia"
   slug = "jo-da-babylonia"
   instrument = "cavaquinho (#1, 8, 9)"

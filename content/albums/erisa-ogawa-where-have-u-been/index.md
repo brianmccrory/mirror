@@ -10,66 +10,66 @@ releaseYear = 2019
 releaseLabel = "Uplift Jazz Record"
 releaseCode = "UJRC-19014"
 issue = 243
-[[lineup]]
+[[credits]]
   name = "Erisa Ogawa"
   slug = "erisa-ogawa"
   instrument = "flute"
   japanese = "小川恵理紗 Ogawa Erisa"
-[[lineup]]
+[[credits]]
   name = "Sota Seta"
   slug = "sota-seta"
   instrument = "piano"
   japanese = "瀬田創太 Seta Sota"
-[[lineup]]
+[[credits]]
   name = "Yusuke Morita"
   slug = "yusuke-morita"
   instrument = "electric bass"
   japanese = "森田悠介 Morita Yusuke"
-[[lineup]]
+[[credits]]
   name = "Ryo Shibata"
   slug = "ryo-shibata"
   instrument = "drums"
   japanese = "柴田亮 Shibata Ryo"
-[[lineup]]
+[[credits]]
   name = "Sayaka (Violin)"
   slug = "sayaka-violin"
   instrument = "violin (#3, 4)"
-[[lineup]]
+[[credits]]
   name = "Ayumi Hashimoto"
   slug = "ayumi-hashimoto"
   instrument = "cello (#4)"
   japanese = "橋本歩 Hashimoto Ayumi"
-[[lineup]]
+[[credits]]
   name = "Issei Yoshiba"
   slug = "issei-yoshiba"
   instrument = "percussion (#3)"
   japanese = "吉羽 一星 Yoshiba Issei"
-[[lineup]]
+[[credits]]
   name = "Tetsuo Koizumi"
   slug = "tetsuo-koizumi"
   instrument = "baby bass (#3)"
   japanese = "小泉哲夫 Koizumi Tetsuo"
-[[lineup]]
+[[credits]]
   name = "Jo Endo"
   slug = "jo-endo"
   instrument = "wood bass (#2, 6, 8)"
   japanese = "遠藤 定 Endo Jo"
-[[lineup]]
+[[credits]]
   name = "Nao Teraya"
   slug = "nao-teraya"
   instrument = "guitar (#6)"
   japanese = "寺屋ナオ Teraya Nao"
-[[lineup]]
+[[credits]]
   name = "Masaru Okuyama"
   slug = "masaru-okuyama"
   instrument = "piano (#3)"
   japanese = "奥山勝 Okuyama Masaru"
-[[lineup]]
+[[credits]]
   name = "Keita Harigai"
   slug = "keita-harigai"
   instrument = "trombone (#8)"
   japanese = "張替啓太 Harigai Keita"
-[[lineup]]
+[[credits]]
   name = "Takeru Yamazaki"
   slug = "takeru-yamazaki"
   instrument = "Rhodes & piano (#9)"

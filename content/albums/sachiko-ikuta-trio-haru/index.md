@@ -10,22 +10,22 @@ releaseYear = 2012
 releaseLabel = "Studio TLive Records"
 releaseCode = "XQHG-1007"
 issue = 26
-[[lineup]]
+[[credits]]
   name = "Sachiko Ikuta"
   slug = "sachiko-ikuta"
   instrument = "piano"
   japanese = "生田さち子 Ikuta Sachiko"
-[[lineup]]
+[[credits]]
   name = "Hideaki Kanazawa"
   slug = "hideaki-kanazawa"
   instrument = "contrabass"
   japanese = "金澤英明 Kanazawa Hideaki"
-[[lineup]]
+[[credits]]
   name = "Shun Ishiwaka"
   slug = "shun-ishiwaka"
   instrument = "drums"
   japanese = "石若駿 Ishiwaka Shun"
-[[lineup]]
+[[credits]]
   name = "Terumasa Hino"
   slug = "terumasa-hino"
   instrument = "trumpet, cornet (#3, 6)"

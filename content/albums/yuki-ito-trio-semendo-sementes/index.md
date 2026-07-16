@@ -10,17 +10,17 @@ releaseYear = 2021
 releaseLabel = "Yuki Ito"
 releaseCode = "YDM-002"
 issue = 370
-[[lineup]]
+[[credits]]
   name = "Yuki Ito"
   slug = "yuki-ito"
   instrument = "bass"
   japanese = "伊東佑季 Ito Yuki"
-[[lineup]]
+[[credits]]
   name = "Yuka Yanagihara"
   slug = "yuka-yanagihara"
   instrument = "piano"
   japanese = "柳原由佳 Yanagihara Yuka"
-[[lineup]]
+[[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
   instrument = "drums"

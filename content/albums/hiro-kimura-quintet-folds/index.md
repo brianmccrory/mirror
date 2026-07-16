@@ -10,27 +10,27 @@ releaseYear = 2023
 releaseLabel = "KINO Records"
 releaseCode = "KIN-002"
 issue = 179
-[[lineup]]
+[[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
   instrument = "drums"
   japanese = "木村紘 Kimura Hiro"
-[[lineup]]
+[[credits]]
   name = "Kazuhiko Takeda"
   slug = "kazuhiko-takeda"
   instrument = "guitar"
   japanese = "竹田一彦 Takeda Kazuhiko"
-[[lineup]]
+[[credits]]
   name = "Miki Hirose"
   slug = "miki-hirose"
   instrument = "trumpet"
   japanese = "広瀬未来 Hirose Miki"
-[[lineup]]
+[[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
   instrument = "piano"
   japanese = "田中菜緒子 Tanaka Naoko"
-[[lineup]]
+[[credits]]
   name = "Yuji Ito"
   slug = "yuji-ito"
   instrument = "bass"

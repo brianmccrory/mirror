@@ -10,7 +10,7 @@ releaseYear = 2011
 releaseLabel = "Mokorin Music"
 releaseCode = "MM-001"
 issue = 101
-[[lineup]]
+[[credits]]
   name = "Reikan Kobayashi"
   slug = "reikan-kobayashi"
   instrument = "Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot"

@@ -10,17 +10,17 @@ releaseYear = 2017
 releaseLabel = "Music Art Records"
 releaseCode = "MAR-1701"
 issue = 11
-[[lineup]]
+[[credits]]
   name = "Hiroco Nagano"
   slug = "hiroco-nagano"
   instrument = "vocal"
   japanese = "永野寛子 Nagano Hiroco"
-[[lineup]]
+[[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano"
   japanese = "遠藤征志 Endo Seiji"
-[[lineup]]
+[[credits]]
   name = "Arata Umehara"
   slug = "arata-umehara"
   instrument = "guitar"

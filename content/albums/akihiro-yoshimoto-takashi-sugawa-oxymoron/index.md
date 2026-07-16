@@ -10,17 +10,17 @@ releaseYear = 2017
 releaseLabel = "MOR Records"
 releaseCode = "MOR-1002"
 issue = 252
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "soprano sax, clarinet"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[[lineup]]
+[[credits]]
   name = "Takashi Sugawa"
   slug = "takashi-sugawa"
   instrument = "cello, contrabass"
   japanese = "須川崇志 Sugawa Takashi"
-[[lineup]]
+[[credits]]
   name = "Niran Dasika"
   slug = "niran-dasika"
   instrument = "piccolo trumpet (track #10)"

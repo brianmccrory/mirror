@@ -10,17 +10,17 @@ releaseYear = 2022
 releaseLabel = "MAM Records"
 releaseCode = "MR-001"
 issue = 226
-[[lineup]]
+[[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
   instrument = "piano"
   japanese = "福井亜実 Fukui Ami"
-[[lineup]]
+[[credits]]
   name = "Keigo Iwami"
   slug = "keigo-iwami"
   instrument = "bass"
   japanese = "岩見継吾 Iwami Keigo"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums"

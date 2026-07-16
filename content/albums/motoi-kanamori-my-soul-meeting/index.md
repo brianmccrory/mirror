@@ -10,27 +10,27 @@ releaseYear = 2018
 releaseLabel = "Laplace Records"
 releaseCode = "LPDCD-103"
 issue = 117
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Hiroyuki Takubo"
   slug = "hiroyuki-takubo"
   instrument = "piano"
   japanese = "田窪寛之 Takubo Hiroyuki"
-[[lineup]]
+[[credits]]
   name = "Akira Yamada"
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[[lineup]]
+[[credits]]
   name = "Erena Terakubo"
   slug = "erena-terakubo"
   instrument = "alto sax (tr. #6, 7)"
   japanese = "寺久保エレナ Terakubo Erena"
-[[lineup]]
+[[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
   instrument = "tenor sax (tr. #6, 7)"

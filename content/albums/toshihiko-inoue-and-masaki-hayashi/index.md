@@ -10,12 +10,12 @@ releaseYear = 2013
 releaseLabel = "78 Label"
 releaseCode = "FNFY-06"
 issue = 144
-[[lineup]]
+[[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "tenor sax, soprano sax"
   japanese = "井上淑彦 Inoue Toshihiko"
-[[lineup]]
+[[credits]]
   name = "Masaki Hayashi"
   slug = "masaki-hayashi"
   instrument = "piano"

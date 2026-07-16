@@ -10,22 +10,22 @@ releaseYear = 2020
 releaseLabel = "T & A Music"
 releaseCode = "SEI-001"
 issue = 186
-[[lineup]]
+[[credits]]
   name = "Seiji Harakawa"
   slug = "seiji-harakawa"
   instrument = "saxophone"
   japanese = "原川誠司 Harakawa Seiji"
-[[lineup]]
+[[credits]]
   name = "Hiroyuki Takubo"
   slug = "hiroyuki-takubo"
   instrument = "piano"
   japanese = "田窪寛之 Takubo Hiroyuki"
-[[lineup]]
+[[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[[lineup]]
+[[credits]]
   name = "Fukushi Tainaka"
   slug = "fukushi-tainaka"
   instrument = "drums"

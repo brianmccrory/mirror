@@ -10,17 +10,17 @@ releaseYear = 2016
 releaseLabel = "The Glee"
 releaseCode = "GPHR-16011"
 issue = 92
-[[lineup]]
+[[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin"
   japanese = "マイコ maiko"
-[[lineup]]
+[[credits]]
   name = "Hiroki Miyano"
   slug = "hiroki-miyano"
   instrument = "guitar"
   japanese = "宮野弘紀 Miyano Hiroki"
-[[lineup]]
+[[credits]]
   name = "Shikou Ito"
   slug = "shikou-ito"
   instrument = "piano"

@@ -10,17 +10,17 @@ releaseYear = 2024
 releaseLabel = "Setagaya Trio"
 releaseCode = "Progress"
 issue = 309
-[[lineup]]
+[[credits]]
   name = "Yusei Takahashi"
   slug = "yusei-takahashi"
   instrument = "piano"
   japanese = "高橋佑成 Takahashi Yusei"
-[[lineup]]
+[[credits]]
   name = "Keigo Iwami"
   slug = "keigo-iwami"
   instrument = "bass"
   japanese = "岩見継吾 Iwami Keigo"
-[[lineup]]
+[[credits]]
   name = "Sota Kira"
   slug = "sota-kira"
   instrument = "drums"

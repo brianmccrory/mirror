@@ -10,17 +10,17 @@ releaseYear = 2017
 releaseLabel = "KOTOHATO"
 releaseCode = "KTHT-0001"
 issue = 318
-[[lineup]]
+[[credits]]
   name = "Ayako Tsuchiya"
   slug = "ayako-tsuchiya"
   instrument = "vocal"
   japanese = "土屋絢子 Tsuchiya Ayako"
-[[lineup]]
+[[credits]]
   name = "Kozue Tsukayama"
   slug = "kozue-tsukayama"
   instrument = "piano"
   japanese = "津嘉山梢 Tsukayama Kozue"
-[[lineup]]
+[[credits]]
   name = "Yuki Ito"
   slug = "yuki-ito"
   instrument = "bass"

@@ -10,17 +10,17 @@ releaseYear = 2013
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKRN-0001"
 issue = 49
-[[lineup]]
+[[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
   instrument = "piano"
   japanese = "山野友佳子 Yamano Yukako"
-[[lineup]]
+[[credits]]
   name = "Koichi Osamu"
   slug = "koichi-osamu"
   instrument = "bass"
   japanese = "納浩一 Osamu Koichi"
-[[lineup]]
+[[credits]]
   name = "Manabu Fujii"
   slug = "manabu-fujii"
   instrument = "drums"

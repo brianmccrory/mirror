@@ -10,17 +10,17 @@ releaseYear = 2009
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4004"
 issue = 39
-[[lineup]]
+[[credits]]
   name = "Dairiki Hara"
   slug = "dairiki-hara"
   instrument = "drums"
   japanese = "原大力 Hara Dairiki"
-[[lineup]]
+[[credits]]
   name = "Atsushi Ikeda"
   slug = "atsushi-ikeda"
   instrument = "alto sax"
   japanese = "池田篤 Ikeda Atsushi"
-[[lineup]]
+[[credits]]
   name = "Yasushi Yoneki"
   slug = "yasushi-yoneki"
   instrument = "bass"

@@ -10,17 +10,17 @@ releaseYear = 2008
 releaseLabel = "Ventain Records"
 releaseCode = "VJYH-8461"
 issue = 135
-[[lineup]]
+[[credits]]
   name = "Yukiko Hayakawa"
   slug = "yukiko-hayakawa"
   instrument = "piano"
   japanese = "早川由紀子 Hayakawa Yukiko"
-[[lineup]]
+[[credits]]
   name = "Terumasa Nishikawa"
   slug = "terumasa-nishikawa"
   instrument = "bass"
   japanese = "西川輝正 Nishikawa Terumasa"
-[[lineup]]
+[[credits]]
   name = "Keiichiro Uemura"
   slug = "keiichiro-uemura"
   instrument = "drums"

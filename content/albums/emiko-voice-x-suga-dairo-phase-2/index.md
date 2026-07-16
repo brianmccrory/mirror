@@ -10,12 +10,12 @@ releaseYear = 2009
 releaseLabel = "Cool Fool"
 releaseCode = "CLFL-0003"
 issue = 106
-[[lineup]]
+[[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
   instrument = "vocal"
   japanese = "エミコヴォイス Emiko Voice"
-[[lineup]]
+[[credits]]
   name = "Dairo Suga"
   slug = "dairo-suga"
   instrument = "piano"

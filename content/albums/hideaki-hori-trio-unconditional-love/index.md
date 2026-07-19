@@ -9,7 +9,10 @@ slug = "hideaki-hori-trio-unconditional-love"
 releaseYear = 2014
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2064/2065"
-issue = 52
+[cover]
+  image = "hideakihori-unconditional-460.jpeg"
+  alt = "Cover art of Unconditional Love by Hideaki Hori Trio"
+  relative = true
 [[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
@@ -25,10 +28,6 @@ issue = 52
   slug = "gaku-hasegawa"
   instrument = "drums"
   japanese = "長谷川ガク Hasegawa Gaku"
-[cover]
-  image = "hideakihori-unconditional-460.jpeg"
-  alt = "Cover art of Unconditional Love by Hideaki Hori Trio"
-  relative = true
 +++
 
 _Unconditional Love_ is the 11th album from pianist Hideaki Hori and features his trio playing live at Nardis, a gem among Tokyo’s many respected and intimate jazz bars. Throughout this double album, the trio captures the relaxed and friendly atmosphere that this home-ground bar provides, all while creating top-notch jazz to delight the audience.

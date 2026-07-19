@@ -9,7 +9,10 @@ slug = "hideaki-hori-trio-in-my-words"
 releaseYear = 2010
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-06"
-issue = 90
+[cover]
+  image = "hideakihori-inmywords-460.jpeg"
+  alt = "Cover art of In My Words by Hideaki Hori Trio"
+  relative = true
 [[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
@@ -24,10 +27,6 @@ issue = 90
   name = "Gene Jackson"
   slug = "gene-jackson"
   instrument = "drums"
-[cover]
-  image = "hideakihori-inmywords-460.jpeg"
-  alt = "Cover art of In My Words by Hideaki Hori Trio"
-  relative = true
 +++
 
 Pianist Hideaki Hori lets his dexterous fingers do the talking on _In My Words_ from 2010, a solid jazz trio record from Japan.

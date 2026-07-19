@@ -9,7 +9,10 @@ slug = "nami-kano-mawsim"
 releaseYear = 2024
 releaseLabel = "Wave Records"
 releaseCode = "WR-001"
-issue = 234
+[cover]
+  image = "nami-kano-mawsim-460.jpeg"
+  alt = "Cover art of Mawsim by Nami Kano"
+  relative = true
 [[credits]]
   name = "Nami Kano"
   slug = "nami-kano"
@@ -46,10 +49,6 @@ issue = 234
   instrument = "strings arrangement (tracks 2, 5)"
   japanese = "持山翔子 Mochiyama Shoko"
 related = ["jabuticaba-jabuticaba"]
-[cover]
-  image = "nami-kano-mawsim-460.jpeg"
-  alt = "Cover art of Mawsim by Nami Kano"
-  relative = true
 +++
 
 Saxophonist and composer Nami Kano has just released a long-awaited album _mawsim_ with her group of the same name today in Japan. Nami Kano’s name may be familiar as part of [Jabuticaba](/jabuticaba-jabuticaba/) from last week’s article, another compelling side of her creative musical personality.

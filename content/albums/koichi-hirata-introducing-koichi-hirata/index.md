@@ -9,7 +9,10 @@ slug = "koichi-hirata-introducing-koichi-hirata"
 releaseYear = 2024
 releaseLabel = "Live at Alfie"
 releaseCode = "AFCD-6008"
-issue = 369
+[cover]
+  image = "koichi-hirata-introducing-460.jpeg"
+  alt = "Cover art of Introducing Koichi Hirata by Koichi Hirata"
+  relative = true
 [[credits]]
   name = "Koichi Hirata"
   slug = "koichi-hirata"
@@ -31,10 +34,6 @@ issue = 369
   instrument = "drums"
   japanese = "柳沼佑育 Yaginuma Yusuke"
 related = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
-[cover]
-  image = "koichi-hirata-introducing-460.jpeg"
-  alt = "Cover art of Introducing Koichi Hirata by Koichi Hirata"
-  relative = true
 +++
 
 _Introducing Koichi Hirata_ is the 2024 debut release from jazz guitarist Koichi Hirata. Hirata is a young, up-and-coming player who has established himself as a popular musician in the live Tokyo circuit, playing live often as a support musician or a leader at his own gigs and popular jazz jam sessions. His style is unadorned with a comfortably warm sound and style that immediately brings to mind the much-admired jazz guitarists of previous generations.

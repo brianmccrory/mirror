@@ -9,7 +9,10 @@ slug = "hiroshi-fukutomi-memory-stones"
 releaseYear = 2014
 releaseLabel = "MOF Records"
 releaseCode = "MOF-101"
-issue = 229
+[cover]
+  image = "hiroshi-fukutomi-memory-stones-460.jpeg"
+  alt = "Cover art of Memory Stones by Hiroshi Fukutomi"
+  relative = true
 [[credits]]
   name = "Hiroshi Fukutomi"
   slug = "hiroshi-fukutomi"
@@ -30,10 +33,6 @@ issue = 229
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-[cover]
-  image = "hiroshi-fukutomi-memory-stones-460.jpeg"
-  alt = "Cover art of Memory Stones by Hiroshi Fukutomi"
-  relative = true
 +++
 
 _Memory Stones_ is the 2014 album from guitarist Hiroshi Fukutomi, his second album after his debut _Rings of Saturn_ (2010). On this 57-minute recording of Fukutomi’s original music, the guitarist leads a quartet featuring Koichi Sato on piano and Rhodes, Koji Yasuda on bass, and Ryo Noritake on drums.

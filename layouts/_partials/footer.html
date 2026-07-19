@@ -11,12 +11,7 @@
 
     {{- with site.Params.footer.text }}
         {{ . | markdownify }}
-        {{- print " · "}}
     {{- end }}
-    <span>
-      (on
-        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a>/<a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>/ <a href="https://buttondown.com/refer/jazzofjapan" rel="noopener" target="_blank">Buttondown</a>)
-    </span>
 </footer>
 {{- end }}
 

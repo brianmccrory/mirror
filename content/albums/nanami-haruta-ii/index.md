@@ -9,7 +9,10 @@ slug = "nanami-haruta-ii"
 releaseYear = 2022
 releaseLabel = "Media Stylist"
 releaseCode = "MSC-9020"
-issue = 213
+[cover]
+  image = "nanami-haruta-ii-460.jpeg"
+  alt = "Cover art of II by Nanami Haruta"
+  relative = true
 [[credits]]
   name = "Nanami Haruta"
   slug = "nanami-haruta"
@@ -36,10 +39,6 @@ issue = 213
   instrument = "drums"
   japanese = "石若駿 Ishiwaka Shun"
 related = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-haruta-for"]
-[cover]
-  image = "nanami-haruta-ii-460.jpeg"
-  alt = "Cover art of II by Nanami Haruta"
-  relative = true
 +++
 
 Trombonist Nanami Haruta’s debut release _II_ from 2022 is another great example of new jazz albums from new players that keep flowing to the hands and ears of eager fans. Haruta, a young player who has been making an impact in the Japanese jazz scene, has been frequently featured as both leader and guest member at various live shows. In addition to this debut, she has also participated in other recent recordings such as _[64 Charlesgate](/akihiro-yoshimoto-quartet-64-charlesgate/)_ (2022) and _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ (2023).

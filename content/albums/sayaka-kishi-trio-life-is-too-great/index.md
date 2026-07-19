@@ -9,7 +9,10 @@ slug = "sayaka-kishi-trio-life-is-too-great"
 releaseYear = 2019
 releaseLabel = "T-TOC Records"
 releaseCode = "TTOC-0034"
-issue = 81
+[cover]
+  image = "sayakakishi-lifeis-460.jpeg"
+  alt = "Cover art of Life Is Too Great by Sayaka Kishi Trio"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -25,10 +28,6 @@ issue = 81
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[cover]
-  image = "sayakakishi-lifeis-460.jpeg"
-  alt = "Cover art of Life Is Too Great by Sayaka Kishi Trio"
-  relative = true
 +++
 
 Expressing an exuberance for life with an original jazz spirit, _Life Is Too Great_ from the Sayaka Kishi Trio is a vivid recording, full of variety and infused with the pure music spirit of Sayaka Kishi.

@@ -9,7 +9,10 @@ slug = "ayumi-koketsu-struttin"
 releaseYear = 2010
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30573"
-issue = 365
+[cover]
+  image = "ayumi-koketsu-struttin-460.jpeg"
+  alt = "Cover art of Struttin’ by Ayumi Koketsu"
+  relative = true
 [[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
@@ -30,10 +33,6 @@ issue = 365
   slug = "mark-taylor"
   instrument = "drums"
 related = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
-[cover]
-  image = "ayumi-koketsu-struttin-460.jpeg"
-  alt = "Cover art of Struttin’ by Ayumi Koketsu"
-  relative = true
 +++
 
 _Struttin’_ is saxophone player Ayumi Koketsu’s jazz quartet album released in Japan in 2010. This is her debut album, the first of over a dozen killer jazz albums that she has been releasing through the years, each filled with material ranging from straight-ahead, cool jazz, hard bop, ballads, bossa nova, and other themes. This first album features Koketsu on alto sax with her quartet of Yoshihiko Naya on piano, Masayuki Tawarayama on bass, and Mark Taylor on drums.

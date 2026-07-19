@@ -9,17 +9,16 @@ slug = "taeko-kurita-ko-tsu-ko-tsu"
 releaseYear = 2012
 releaseLabel = "Kurita Taeko"
 releaseCode = "MP-007"
-issue = 317
+[cover]
+  image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
+  alt = "Cover art of Ko-tsu-ko-tsu by Taeko Kurita"
+  relative = true
 [[credits]]
   name = "Taeko Kurita"
   slug = "taeko-kurita"
   instrument = "piano"
   japanese = "栗田妙子 Kurita Taeko"
 related = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
-[cover]
-  image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
-  alt = "Cover art of Ko-tsu-ko-tsu by Taeko Kurita"
-  relative = true
 +++
 
 Taeko Kurita’s _Ko-tsu-ko-tsu_ is a solo piano album from 2012 featuring eight of her original songs. In addition to being a member of other groups such as jazz trios, many of her earlier releases as a leader are showcases for her solo piano compositions and improvisation. In fact, one of her most recent albums is simply called _SOLO 5_, mentioned in the previous article on her piano-drums album [_DUO_](/taeko-kurita-akira-sotoyama-duo/). Like that album, _Ko-tsu-ko-tsu_ is another great pick from her past catalog.

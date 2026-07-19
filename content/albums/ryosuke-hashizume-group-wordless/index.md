@@ -9,7 +9,10 @@ slug = "ryosuke-hashizume-group-wordless"
 releaseYear = 2006
 releaseLabel = "Polystar Jazz Library"
 releaseCode = "MTCJ-3031"
-issue = 105
+[cover]
+  image = "ryosukehashizume-wordless-460.jpeg"
+  alt = "Cover art of Wordless by Ryosuke Hashizume Group"
+  relative = true
 [[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
@@ -30,10 +33,6 @@ issue = 105
   slug = "ryoji-orihara"
   instrument = "fretless bass"
   japanese = "織原良次 Orihara Ryoji"
-[cover]
-  image = "ryosukehashizume-wordless-460.jpeg"
-  alt = "Cover art of Wordless by Ryosuke Hashizume Group"
-  relative = true
 +++
 
 _Wordless_ is Ryosuke Hashizume’s first album released in Japan in 2006, kicking off a rewarding series of modern and absorbing albums from this jazz saxophonist’s stellar group.

@@ -9,7 +9,10 @@ slug = "nobie-benin-rio-tokyo"
 releaseYear = 2018
 releaseLabel = "Dear Heart"
 releaseCode = "DBCW-3333"
-issue = 79
+[cover]
+  image = "nobie-benin-460.jpeg"
+  alt = "Cover art of Bénin Rio Tokyo by Nobie"
+  relative = true
 [[credits]]
   name = "Nobie"
   slug = "nobie"
@@ -28,10 +31,6 @@ issue = 79
   slug = "takayoshi-baba"
   instrument = "guitar (#8)"
   japanese = "馬場孝喜 Baba Takayoshi"
-[cover]
-  image = "nobie-benin-460.jpeg"
-  alt = "Cover art of Bénin Rio Tokyo by Nobie"
-  relative = true
 +++
 
 On _Bénin Rio Tokyo_, Japanese vocalist Nobie takes us on a musical journey spanning West Africa, Brazil, and Tokyo with sparkling duo collaborations. This music is catchy and deep, with layers of voice and guitar infused with a spirit of love, respect, and masterful finesse. With an ideal selection of musical partners and songs, Nobie’s rhythmically thrilling and lush voice cascades through the music like water over rocks, beautifully soft and dynamic.

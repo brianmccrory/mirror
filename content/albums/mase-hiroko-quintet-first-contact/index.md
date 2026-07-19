@@ -9,7 +9,10 @@ slug = "mase-hiroko-quintet-first-contact"
 releaseYear = 2020
 releaseLabel = "F.S.L."
 releaseCode = "FSCJ-0019"
-issue = 222
+[cover]
+  image = "mase-hiroko-quintet-first-contact-460.jpeg"
+  alt = "Cover art of First Contact by Mase Hiroko Quintet"
+  relative = true
 [[credits]]
   name = "Hiroko Mase"
   slug = "hiroko-mase"
@@ -35,10 +38,6 @@ issue = 222
   slug = "sota-kira"
   instrument = "drums, percussion"
   japanese = "吉良創太 Kira Sota"
-[cover]
-  image = "mase-hiroko-quintet-first-contact-460.jpeg"
-  alt = "Cover art of First Contact by Mase Hiroko Quintet"
-  relative = true
 +++
 
 “Hard bop jazz aimed towards the universe” might be a good way to introduce soprano saxophonist Hiroko Mase’s debut album _First Contact_ from 2020. Together with her double-sax quintet, the album features ten of her original songs in a vibrant arrangement of energetic hard-swinging and mid-tempo songs brimming with atmospheric layers.

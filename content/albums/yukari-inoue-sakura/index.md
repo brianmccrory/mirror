@@ -9,16 +9,15 @@ slug = "yukari-inoue-sakura"
 releaseYear = 2012
 releaseLabel = "Silver Fingers/Roving Spirits"
 releaseCode = "RKCJ-2053"
-issue = 108
+[cover]
+  image = "yukariinoue-sakura-460.jpeg"
+  alt = "Cover art of Sakura by Yukari Inoue"
+  relative = true
 [[credits]]
   name = "Yukari Inoue"
   slug = "yukari-inoue"
   instrument = "piano"
   japanese = "井上ゆかり Inoue Yukari"
-[cover]
-  image = "yukariinoue-sakura-460.jpeg"
-  alt = "Cover art of Sakura by Yukari Inoue"
-  relative = true
 +++
 
 Pianist Yukari Inoue’s _Sakura_ from 2016 blooms with colorful variety as she jumps across genres as brightly as she hops around the keys. This is her first solo piano album, recorded with a beautiful sound in concert-hall quality.

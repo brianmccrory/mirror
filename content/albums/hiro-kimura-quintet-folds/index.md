@@ -9,7 +9,10 @@ slug = "hiro-kimura-quintet-folds"
 releaseYear = 2023
 releaseLabel = "KINO Records"
 releaseCode = "KIN-002"
-issue = 179
+[cover]
+  image = "hiro-kimura-folds-460.jpeg"
+  alt = "Cover art of Folds by Hiro Kimura Quintet"
+  relative = true
 [[credits]]
   name = "Hiro Kimura"
   slug = "hiro-kimura"
@@ -35,10 +38,6 @@ issue = 179
   slug = "yuji-ito"
   instrument = "bass"
   japanese = "伊藤勇司 Ito Yuji"
-[cover]
-  image = "hiro-kimura-folds-460.jpeg"
-  alt = "Cover art of Folds by Hiro Kimura Quintet"
-  relative = true
 +++
 
 The full title of this 2023 album sets the stage: “/Folds - Live at 100Ban Hall/ by the Hiro Kimura Quintet featuring Kazuhiko Takeda”.

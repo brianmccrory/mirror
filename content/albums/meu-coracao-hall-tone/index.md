@@ -9,7 +9,10 @@ slug = "meu-coracao-hall-tone"
 releaseYear = 2009
 releaseLabel = "Coo Records"
 releaseCode = "COO-300"
-issue = 143
+[cover]
+  image = "meucoracao-halltone-460.jpeg"
+  alt = "Cover art of Hall Tone by Meu Coracao"
+  relative = true
 [[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
@@ -20,10 +23,6 @@ issue = 143
   slug = "taro-sukegawa"
   instrument = "guitar"
   japanese = "助川太郎 Sukegawa Taro"
-[cover]
-  image = "meucoracao-halltone-460.jpeg"
-  alt = "Cover art of Hall Tone by Meu Coracao"
-  relative = true
 +++
 
 As jazz fans know, Brazilian music and bossa nova tunes are frequently present on jazz albums, playlists, and jazz bars, and Japan’s live scene is no exception. Naturally, Japanese jazz musicians and groups who specialize in Latin genres can also be found in Japan.

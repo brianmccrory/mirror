@@ -9,7 +9,10 @@ slug = "sayaka-kishi-trio-banquet"
 releaseYear = 2024
 releaseLabel = "Daiki Musica"
 releaseCode = "DNCD-32"
-issue = 263
+[cover]
+  image = "sayaka-kishi-trio-banquet-460.jpeg"
+  alt = "Cover art of Banquet by Sayaka Kishi Trio"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -31,10 +34,6 @@ issue = 263
   instrument = "vocals (#8)"
   japanese = "小林宏衣 Kobayashi Hiroe"
 related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "arco-birth", "sayaka-kishi-trio-life-is-too-great", "sul-madrugada-luar"]
-[cover]
-  image = "sayaka-kishi-trio-banquet-460.jpeg"
-  alt = "Cover art of Banquet by Sayaka Kishi Trio"
-  relative = true
 +++
 
 On _Banquet_, pianist and composer Sayaka Kishi’s latest album from 2024, her piano trio brightens things up with a banquet of delights. Kishi has long been a musician who loves to explore and mix genres with a sense of fun and dedication, and she is often found playing in Latin, Afro-Cuban, flamenco, fusion, and other groups. While the genres are many, Kishi consistently pulls from her knowledge of jazz standards, pop, classical, and other roots, bound together with swing and Latin beats and ad-libbed improvisation.

@@ -9,7 +9,10 @@ slug = "fumiko-yamazaki-here-goes"
 releaseYear = 2011
 releaseLabel = "T&K Entertainment"
 releaseCode = "QACK-35024"
-issue = 139
+[cover]
+  image = "fumiko-yamazaki-here-460.jpeg"
+  alt = "Cover art of Here Goes! by Fumiko Yamazaki"
+  relative = true
 [[credits]]
   name = "Fumiko Yamazaki"
   slug = "fumiko-yamazaki"
@@ -30,10 +33,6 @@ issue = 139
   slug = "takashi-saito"
   instrument = "drums, percussion"
   japanese = "齋藤たかし Saito Takashi"
-[cover]
-  image = "fumiko-yamazaki-here-460.jpeg"
-  alt = "Cover art of Here Goes! by Fumiko Yamazaki"
-  relative = true
 +++
 
 From vibraphonist Fumiko Yamazaki, the aptly titled _Here Goes!_ is an enthusiastic introduction to her music with her jazz quartet on her 2011 debut release.

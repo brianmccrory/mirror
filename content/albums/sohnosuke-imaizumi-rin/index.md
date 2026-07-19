@@ -9,7 +9,10 @@ slug = "sohnosuke-imaizumi-rin"
 releaseYear = 2015
 releaseLabel = "Flower Records"
 releaseCode = "FLRC-070"
-issue = 24
+[cover]
+  image = "sohnosukeimaizumi-rin-460.jpeg"
+  alt = "Cover art of Rin by Sohnosuke Imaizumi"
+  relative = true
 [[credits]]
   name = "Sohnosuke Imaizumi"
   slug = "sohnosuke-imaizumi"
@@ -30,10 +33,6 @@ issue = 24
   slug = "blahmuzik"
   instrument = "sampler"
   japanese = "ブラムジック BLAHMUZIK"
-[cover]
-  image = "sohnosukeimaizumi-rin-460.jpeg"
-  alt = "Cover art of Rin by Sohnosuke Imaizumi"
-  relative = true
 +++
 
 Drummer Sohnosuke Imaizumi lays down impressive foundations with his debut album _Rin_. Having worked as a member of groups including Quasimode and Beatmoss, this is his first album as a leader. These 14 tracks feature his trio playing original songs and jazz standards, interwoven with hip-hop-influenced grooves and spacey drums-and-sampler interludes.

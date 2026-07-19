@@ -9,7 +9,10 @@ slug = "yasumasa-kumagai-pray"
 releaseYear = 2010
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4009"
-issue = 152
+[cover]
+  image = "yasumasakumagai-pray-460.jpeg"
+  alt = "Cover art of Pray by Yasumasa Kumagai"
+  relative = true
 [[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
@@ -29,10 +32,6 @@ issue = 152
   name = "DJ Passo"
   slug = "dj-passo"
   instrument = "(on #6)"
-[cover]
-  image = "yasumasakumagai-pray-460.jpeg"
-  alt = "Cover art of Pray by Yasumasa Kumagai"
-  relative = true
 +++
 
 Yasumasa Kumagai’s _Pray_ (2010) is a stylishly straight ahead affair, a cool and groovy collection of the pianist’s original tunes which melds modern jazz, soulful grooves, and gospel influences with his characteristic piano playing and original compositions.

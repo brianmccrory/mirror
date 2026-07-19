@@ -9,7 +9,10 @@ slug = "shinpei-ruike-george-nakajima-duo"
 releaseYear = 2022
 releaseLabel = "Core Port"
 releaseCode = "RPOL-10012"
-issue = 211
+[cover]
+  image = "shinpeiruike-georgenakajima-duo-460.jpeg"
+  alt = "Cover art of Duo by Shinpei Ruike & George Nakajima"
+  relative = true
 [[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
@@ -21,10 +24,6 @@ issue = 211
   instrument = "piano"
   japanese = "中嶋錠二 Nakajima George"
 related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
-[cover]
-  image = "shinpeiruike-georgenakajima-duo-460.jpeg"
-  alt = "Cover art of Duo by Shinpei Ruike & George Nakajima"
-  relative = true
 +++
 
 _Duo_ is the latest album from trumpeter Shinpei Ruike and pianist George Nakajima, two Tokyo-based jazz musicians who hail from the same area in northern Japan, along with many of the people who helped to create this recording.

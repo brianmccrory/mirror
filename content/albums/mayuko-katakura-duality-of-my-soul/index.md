@@ -9,7 +9,10 @@ slug = "mayuko-katakura-duality-of-my-soul"
 releaseYear = 2025
 releaseLabel = "Mayuko Katakura Music"
 releaseCode = "MKM-001"
-issue = 313
+[cover]
+  image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
+  alt = "Cover art of The Duality of My Soul by Mayuko Katakura"
+  relative = true
 [[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
@@ -26,10 +29,6 @@ issue = 313
   instrument = "drums"
   japanese = "田中徳崇 Tanaka Noritaka"
 related = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
-[cover]
-  image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
-  alt = "Cover art of The Duality of My Soul by Mayuko Katakura"
-  relative = true
 +++
 
 I’m always excited to get my hands and ears on a new release from pianist Mayuko Katakura. Her latest trio disc, recorded with bassist Takumi Awaya and drummer Noritaka Tanaka, is titled _The Duality of My Soul_ and was released earlier this year. It hits the spot as a sharply modern jazz piano trio album.

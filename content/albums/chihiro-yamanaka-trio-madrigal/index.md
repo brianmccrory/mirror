@@ -9,7 +9,10 @@ slug = "chihiro-yamanaka-trio-madrigal"
 releaseYear = 2004
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-038"
-issue = 133
+[cover]
+  image = "chihiroyamanaka-madrigal-460.jpeg"
+  alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"
+  relative = true
 [[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
@@ -27,10 +30,6 @@ issue = 133
   name = "Jeff Ballard"
   slug = "jeff-ballard"
   instrument = "drums"
-[cover]
-  image = "chihiroyamanaka-madrigal-460.jpeg"
-  alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"
-  relative = true
 +++
 
 On her third album _Madrigal_, jazz pianist Chihiro Yamanaka continues on her upward arc, working her magic on jazz standards and originals with a top-notch trio.

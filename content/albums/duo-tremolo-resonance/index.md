@@ -9,7 +9,10 @@ slug = "duo-tremolo-resonance"
 releaseYear = 2019
 releaseLabel = "Orbit Records"
 releaseCode = "ORG-1004"
-issue = 131
+[cover]
+  image = "duo-tremolo-resonance-460.jpeg"
+  alt = "Cover art of Resonance by Duo Tremolo"
+  relative = true
 [[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
@@ -30,10 +33,6 @@ issue = 131
   slug = "aya-kurosawa"
   instrument = "voice on #11"
   japanese = "黒沢綾 Kurosawa Aya"
-[cover]
-  image = "duo-tremolo-resonance-460.jpeg"
-  alt = "Cover art of Resonance by Duo Tremolo"
-  relative = true
 +++
 
 Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on _Resonance_, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.

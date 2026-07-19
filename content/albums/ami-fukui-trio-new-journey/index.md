@@ -9,7 +9,10 @@ slug = "ami-fukui-trio-new-journey"
 releaseYear = 2016
 releaseLabel = "Diw The Grace"
 releaseCode = "DG-1007"
-issue = 32
+[cover]
+  image = "amifukui-newjourney-460.jpeg"
+  alt = "Cover art of New Journey by Ami Fukui Trio"
+  relative = true
 [[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
@@ -30,10 +33,6 @@ issue = 32
   slug = "akiko-suda"
   instrument = "vocals (#7)"
   japanese = "須田晶子 Suda Akiko"
-[cover]
-  image = "amifukui-newjourney-460.jpeg"
-  alt = "Cover art of New Journey by Ami Fukui Trio"
-  relative = true
 +++
 
 Ami Fukui’s third album _New Journey_ grabs the listener’s attention with colorful, immersive songs, 11 well-crafted originals played with exciting energy and vigor.

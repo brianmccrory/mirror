@@ -9,7 +9,10 @@ slug = "hitomi-nishiyama-dot"
 releaseYear = 2023
 releaseLabel = "Meantone Records"
 releaseCode = "MT-12"
-issue = 267
+[cover]
+  image = "hitomi-nishiyama-dot-460.jpeg"
+  alt = "Cover art of Dot by Hitomi Nishiyama"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -41,10 +44,6 @@ issue = 267
   instrument = "violin (#2, 3, 5, 6, 9)"
   japanese = "マイコ maiko"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
-[cover]
-  image = "hitomi-nishiyama-dot-460.jpeg"
-  alt = "Cover art of Dot by Hitomi Nishiyama"
-  relative = true
 +++
 
 _Dot_ is the 2023 album by pianist/composer Hitomi Nishiyama. Until this week’s release of _Echo_, _Dot_ was her latest album; _Echo_ is _Dot_ ’s twin, recorded with the same members and during the same sessions.

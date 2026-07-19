@@ -9,7 +9,10 @@ slug = "akihiro-yoshimoto-takashi-sugawa-oxymoron"
 releaseYear = 2017
 releaseLabel = "MOR Records"
 releaseCode = "MOR-1002"
-issue = 252
+[cover]
+  image = "akihiro-yoshimoto-oxymoron-460.jpeg"
+  alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"
+  relative = true
 [[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
@@ -26,10 +29,6 @@ issue = 252
   instrument = "piccolo trumpet (track #10)"
   japanese = "ニラン・ダシカ Dasika Niran"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
-[cover]
-  image = "akihiro-yoshimoto-oxymoron-460.jpeg"
-  alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"
-  relative = true
 +++
 
 _Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](/apollo/) in Tokyo, Japan, and released that recording as this album in 2017.

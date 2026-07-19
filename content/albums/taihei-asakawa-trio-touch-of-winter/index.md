@@ -9,7 +9,10 @@ slug = "taihei-asakawa-trio-touch-of-winter"
 releaseYear = 2013
 releaseLabel = "D-musica Daiki Musica"
 releaseCode = "DMCD-26"
-issue = 57
+[cover]
+  image = "taiheiasakawa-touch-460.jpeg"
+  alt = "Cover art of Touch of Winter by Taihei Asakawa Trio"
+  relative = true
 [[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
@@ -25,10 +28,6 @@ issue = 57
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-[cover]
-  image = "taiheiasakawa-touch-460.jpeg"
-  alt = "Cover art of Touch of Winter by Taihei Asakawa Trio"
-  relative = true
 +++
 
 Taihei Asakawa’s beautiful _Touch of Winter_ from 2013 is a contemplative jazz album rooted in calm emotion: Memory, melancholy, and rebirth combine to paint stimulating music on a pure white winter tableau.

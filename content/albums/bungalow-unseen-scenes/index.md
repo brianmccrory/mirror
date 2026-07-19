@@ -9,7 +9,10 @@ slug = "bungalow-unseen-scenes"
 releaseYear = 2015
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10057"
-issue = 149
+[cover]
+  image = "bungalow-unseen-460.jpeg"
+  alt = "Cover art of Unseen Scenes by Bungalow"
+  relative = true
 [[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
@@ -29,10 +32,6 @@ issue = 149
   slug = "ko-omura"
   instrument = "drums, tabla"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "bungalow-unseen-460.jpeg"
-  alt = "Cover art of Unseen Scenes by Bungalow"
-  relative = true
 +++
 
 Like explorers on a caravan, Bungalow produces imaginative music on their third album _Unseen Scenes_ from 2015, carving their unique path through new jazz and rhythms.

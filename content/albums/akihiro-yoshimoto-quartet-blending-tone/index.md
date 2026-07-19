@@ -9,7 +9,10 @@ slug = "akihiro-yoshimoto-quartet-blending-tone"
 releaseYear = 2012
 releaseLabel = "Orbit Records"
 releaseCode = "ORB-1001"
-issue = 356
+[cover]
+  image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
+  alt = "Cover art of Blending Tone by Akihiro Yoshimoto Quartet"
+  relative = true
 [[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
@@ -31,10 +34,6 @@ issue = 356
   instrument = "drums"
   japanese = "石若駿 Ishiwaka Shun"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
-[cover]
-  image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
-  alt = "Cover art of Blending Tone by Akihiro Yoshimoto Quartet"
-  relative = true
 +++
 
 The jazz album _Blending Tone_ is the 2012 debut release from the Tokyo-based Akihiro Yoshimoto Quartet. Saxophone player and leader Yoshimoto recorded this with a tightly bound group of musicians including Aaron Choulai on piano, Takuya Sakazaki on bass, and Shun Ishiwaka on drums, working together to blend their tones while staying on top of Yoshimoto’s music.

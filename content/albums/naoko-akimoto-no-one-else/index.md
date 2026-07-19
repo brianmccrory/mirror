@@ -9,7 +9,10 @@ slug = "naoko-akimoto-no-one-else"
 releaseYear = 2012
 releaseLabel = "Marmalade Records"
 releaseCode = "MARM-0004"
-issue = 162
+[cover]
+  image = "naoko-akimoto-no-one-else-460.jpeg"
+  alt = "Cover art of No One Else by Naoko Akimoto"
+  relative = true
 [[credits]]
   name = "Naoko Akimoto"
   slug = "naoko-akimoto"
@@ -45,10 +48,6 @@ issue = 162
   slug = "shinpei-ruike"
   instrument = "trumpet"
   japanese = "類家心平 Ruike Shinpei"
-[cover]
-  image = "naoko-akimoto-no-one-else-460.jpeg"
-  alt = "Cover art of No One Else by Naoko Akimoto"
-  relative = true
 +++
 
 Vocalist Naoko Akimoto’s debut release _No One Else_ is a seven-song introduction to the popular singer, a presentation of standard jazz and Japanese pop arranged with care and performed by top musicians from Tokyo.

@@ -9,16 +9,15 @@ slug = "toshihiko-inoue-vayu"
 releaseYear = 2016
 releaseLabel = "Foot & Shoe"
 releaseCode = "FSCJ-0011"
-issue = 23
+[cover]
+  image = "toshihikoinoue-vayu-460.jpeg"
+  alt = "Cover art of Vayu by Toshihiko Inoue"
+  relative = true
 [[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
   instrument = "solo saxophone"
   japanese = "井上淑彦 Inoue Toshihiko"
-[cover]
-  image = "toshihikoinoue-vayu-460.jpeg"
-  alt = "Cover art of Vayu by Toshihiko Inoue"
-  relative = true
 +++
 
 _Vayu_ captures a solo saxophone performance from veteran jazz player Toshihiko Inoue in 2006, released in 2016.

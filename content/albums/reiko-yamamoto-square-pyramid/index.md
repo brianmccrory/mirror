@@ -9,7 +9,10 @@ slug = "reiko-yamamoto-square-pyramid"
 releaseYear = 2019
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1032"
-issue = 248
+[cover]
+  image = "reiko-yamamoto-square-pyramid-460.jpeg"
+  alt = "Cover art of The Square Pyramid by Reiko Yamamoto"
+  relative = true
 [[credits]]
   name = "Reiko Yamamoto"
   slug = "reiko-yamamoto"
@@ -30,10 +33,6 @@ issue = 248
   slug = "hiro-kimura"
   instrument = "drums"
   japanese = "木村紘 Kimura Hiro"
-[cover]
-  image = "reiko-yamamoto-square-pyramid-460.jpeg"
-  alt = "Cover art of The Square Pyramid by Reiko Yamamoto"
-  relative = true
 +++
 
 Reiko Yamamoto’s _The Square Pyramid_ is a jazz record built around her vivid and precise vibraphone sound. With excitement heightened by the targeted force and agility of four mallets striking and bouncing on the metal bars, the crystal clear and warmly sustained sounds of Yamamoto’s instrument pull the listener into the heart of the colorful structure through her compelling compositions.

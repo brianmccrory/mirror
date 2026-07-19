@@ -9,16 +9,15 @@ slug = "hitomi-nishiyama-vibrant"
 releaseYear = 2020
 releaseLabel = "Meantone Records"
 releaseCode = "MT-08"
-issue = 181
+[cover]
+  image = "hitomi-nishiyama-vibrant-460.jpeg"
+  alt = "Cover art of Vibrant by Hitomi Nishiyama"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
   instrument = "piano"
   japanese = "西山瞳 Nishiyama Hitomi"
-[cover]
-  image = "hitomi-nishiyama-vibrant-460.jpeg"
-  alt = "Cover art of Vibrant by Hitomi Nishiyama"
-  relative = true
 +++
 
 _Vibrant_ is a 2020 solo piano recording from Hitomi Nishiyama, her second solo album after 2013’s _Crossing_ and her 20th overall release. At the time of this recording, her heavy metal project [NHORHM](/nhorhm-extra-edition/) had recently finished, and on this album she chose to face the piano quietly and alone, playing nine of her original compositions.

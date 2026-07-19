@@ -9,7 +9,10 @@ slug = "yudo-matsuo-bonanza"
 releaseYear = 2012
 releaseLabel = "Coume Music"
 releaseCode = "DQC-919"
-issue = 98
+[cover]
+  image = "yudomatsuo-bonanza-460.jpeg"
+  alt = "Cover art of Bonanza by Yudo Matsuo"
+  relative = true
 [[credits]]
   name = "Yudo Matsuo"
   slug = "yudo-matsuo"
@@ -35,10 +38,6 @@ issue = 98
   slug = "takeru-yamazaki"
   instrument = "keyboards (#2, 4, 9)"
   japanese = "ヤマザキタケル Yamazaki Takeru"
-[cover]
-  image = "yudomatsuo-bonanza-460.jpeg"
-  alt = "Cover art of Bonanza by Yudo Matsuo"
-  relative = true
 +++
 
 _Bonanza_, from 2012, is the debut release from guitarist Yudo Matsuo, whose kinetic quartet performs original songs with influences from electric jazz fusion to pop songwriters, a palette of sounds reflecting his varied artistic sides.

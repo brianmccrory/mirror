@@ -9,7 +9,10 @@ slug = "sul-madrugada-luar"
 releaseYear = 2022
 releaseLabel = "River City Music Entertainment"
 releaseCode = "RRCRK-220101"
-issue = 198
+[cover]
+  image = "sul-madrugada-luar-460.jpeg"
+  alt = "Cover art of Luar by Sul Madrugada"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -21,10 +24,6 @@ issue = 198
   instrument = "voice"
   japanese = "小林宏衣 Kobayashi Hiroe"
 related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
-[cover]
-  image = "sul-madrugada-luar-460.jpeg"
-  alt = "Cover art of Luar by Sul Madrugada"
-  relative = true
 +++
 
 While leading and participating in different groups through the years, musicians Hiroe Kobayashi and Sayaka Kishi have also played together on various projects incorporating standard jazz, pop, and Latin genres, and even Disney and movie songs. In 2022, the duo released their first full-length album entitled _Luar_ under the band name Sul Madrugada. This name, Portuguese for “southern dawn”, together with the title _Luar_ for “moonlight” beautifully describes the atmospheric direction the pair gravitates towards with this Latin jazz project. On this release, the duo is devoted to creating South American music in a package that embraces nature through the icons of the sun and moon.

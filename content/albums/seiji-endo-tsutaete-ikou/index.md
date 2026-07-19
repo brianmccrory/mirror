@@ -9,7 +9,10 @@ slug = "seiji-endo-tsutaete-ikou"
 releaseYear = 2015
 releaseLabel = "Music Art Records"
 releaseCode = "MAR-1501"
-issue = 30
+[cover]
+  image = "seijiendo-tsutaeteikou-460.jpeg"
+  alt = "Cover art of Tsutaete Ikou by Seiji Endo"
+  relative = true
 [[credits]]
   name = "Hiroco Nagano"
   slug = "hiroco-nagano"
@@ -40,10 +43,6 @@ issue = 30
   slug = "arata-umehara"
   instrument = "guitar (#2)"
   japanese = "梅原新 Umehara Arata"
-[cover]
-  image = "seijiendo-tsutaeteikou-460.jpeg"
-  alt = "Cover art of Tsutaete Ikou by Seiji Endo"
-  relative = true
 +++
 
 In memory of the lives taken by the devastating Tohoku earthquake and tsunami of March 11, 2011, three musicians formed the _Tsutaete Ikou_ project. Pianist Seiji Endo and vocalists Hiroco Nagano and Shinya Nitta were touched by the brave and kindhearted students they met at a benefit concert, children who became an inspiration for the musicians.

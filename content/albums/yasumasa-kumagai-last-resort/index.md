@@ -9,7 +9,10 @@ slug = "yasumasa-kumagai-last-resort"
 releaseYear = 2020
 releaseLabel = "Jazzy Bear"
 releaseCode = "JZBR-0002"
-issue = 206
+[cover]
+  image = "yasumasa-kumagai-last-resort-460.jpeg"
+  alt = "Cover art of Last Resort by Yasumasa Kumagai & J-Jazz Homies"
+  relative = true
 [[credits]]
   name = "Yasumasa Kumagai"
   slug = "yasumasa-kumagai"
@@ -31,10 +34,6 @@ issue = 206
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
-[cover]
-  image = "yasumasa-kumagai-last-resort-460.jpeg"
-  alt = "Cover art of Last Resort by Yasumasa Kumagai & J-Jazz Homies"
-  relative = true
 +++
 
 The latest album from J Jazz pianist Yasumasa Kumagai is titled _Last Resort_, released in 2020 on his own independent label with his jazz piano trio plus Miki Hirose on trumpet. Although the eye-catching cover design may be a world away from typical jazz albums, the aggressive, tongue-in-cheek image succeeds in standing out, a conscious attempt to challenge flagging CD sales in recent years by piquing interest and possibly head-scratching confusion.

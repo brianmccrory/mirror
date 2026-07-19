@@ -9,7 +9,10 @@ slug = "nhorhm-new-heritage-of-real-heavy-metal"
 releaseYear = 2015
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS1905/APLS1510R"
-issue = 320
+[cover]
+  image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
+  alt = "Cover art of New Heritage of Real Heavy Metal by NHORHM"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -46,10 +49,6 @@ issue = 320
   instrument = "sax (track #10)"
   japanese = "橋爪亮督 Hashizume Ryosuke"
 related = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
-[cover]
-  image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
-  alt = "Cover art of New Heritage of Real Heavy Metal by NHORHM"
-  relative = true
 +++
 
 NHORHM is _New Heritage of Real Heavy Metal_. It’s not only a homage to the original NWOBHM abbreviation, but also an incredible initialism of the three musicians: **N** ishiyama **H** itomi (piano), **O** rihaya **R** yoji (bass), and **H** ashimoto **M** anabu (drums), with names in the last-name-first Japanese convention. (_I include a brief diversion on “What is NWOBHM?” later, below..._)

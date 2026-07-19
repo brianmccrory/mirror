@@ -9,7 +9,10 @@ slug = "trispace-trispace"
 releaseYear = 2010
 releaseLabel = "Leccia Records / feel free products"
 releaseCode = "LRTR-0004"
-issue = 61
+[cover]
+  image = "trispace-trispace-460.jpeg"
+  alt = "Cover art of Trispace by Trispace"
+  relative = true
 [[credits]]
   name = "Yuichi Hayashi"
   slug = "yuichi-hayashi"
@@ -25,10 +28,6 @@ issue = 61
   slug = "yoshitaka-yamashita"
   instrument = "drums"
   japanese = "山下佳孝 Yamashita Yoshitaka"
-[cover]
-  image = "trispace-trispace-460.jpeg"
-  alt = "Cover art of Trispace by Trispace"
-  relative = true
 +++
 
 Inspired by a modern, clean European jazz sound, the jazz piano trio Trispace on their debut 2010 album brings to mind modern jazz along the lines of Swedish jazz supergroup Esbjörn Svensson Trio (EST). Focused in concept, Trispace plays with delicate, beautifully recorded instruments, airy jazz-rock beats, and occasional odd-beat rhythmic structures that carry the listener along on comfortable musical journeys. Even the stylishly serene jacket design conveys the intended atmosphere, perhaps paying homage to the great modern jazz recordings from the ECM label visually as well as aurally.

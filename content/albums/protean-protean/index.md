@@ -9,7 +9,10 @@ slug = "protean-protean"
 releaseYear = 2009
 releaseLabel = "Protean"
 releaseCode = "Protean"
-issue = 142
+[cover]
+  image = "protean-protean-460.jpeg"
+  alt = "Cover art of Protean by Protean"
+  relative = true
 [[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
@@ -25,10 +28,6 @@ issue = 142
   slug = "dan-yoshikawa"
   instrument = "drums"
   japanese = "吉川弾 Yoshikawa Dan"
-[cover]
-  image = "protean-protean-460.jpeg"
-  alt = "Cover art of Protean by Protean"
-  relative = true
 +++
 
 _Protean_ is the first release from jazz pianist Naoko Tanaka, who self-produced and released this album in 2009 under the name Protean along with bassist Naoyuki Seto and drummer Dan Yoshikawa.

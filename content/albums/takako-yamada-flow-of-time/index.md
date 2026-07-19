@@ -9,7 +9,10 @@ slug = "takako-yamada-flow-of-time"
 releaseYear = 2013
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1146"
-issue = 48
+[cover]
+  image = "takakoyamada-flow-460.jpeg"
+  alt = "Cover art of The Flow of Time by Takako Yamada"
+  relative = true
 [[credits]]
   name = "Takako Yamada"
   slug = "takako-yamada"
@@ -39,10 +42,6 @@ issue = 48
   slug = "ko-omura"
   instrument = "tabla, drums"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "takakoyamada-flow-460.jpeg"
-  alt = "Cover art of The Flow of Time by Takako Yamada"
-  relative = true
 +++
 
 Takako Yamada’s _The Flow of Time_ features 11 original compositions from the pianist, a bold collection of exciting moods and modern compositions in adventurous style.

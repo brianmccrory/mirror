@@ -9,7 +9,10 @@ slug = "takumi-seino-motohiko-ichino-frozen-dust"
 releaseYear = 2011
 releaseLabel = "Voice of Silence"
 releaseCode = "VOS-635"
-issue = 240
+[cover]
+  image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
+  alt = "Cover art of Frozen Dust by Takumi Seino & Motohiko Ichino"
+  relative = true
 [[credits]]
   name = "Takumi Seino"
   slug = "takumi-seino"
@@ -21,10 +24,6 @@ issue = 240
   instrument = "guitar"
   japanese = "市野元彦 Ichino Motohiko"
 related = ["ryosuke-hashizume-needful-things", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices"]
-[cover]
-  image = "takumi-seino-motohiko-ichino-frozen-dust-460.jpeg"
-  alt = "Cover art of Frozen Dust by Takumi Seino & Motohiko Ichino"
-  relative = true
 +++
 
 _Frozen Dust_ is a live recording that captures guitarists Takumi Seino and Motohiko Ichino playing improvised jazz during their first set of the night at Kanmachi 63 in Yokohama. The two-track album is full of abstract improvisation throughout its forty-six minutes. The music is experimental to a degree, but close listening reveals musical themes within the subtle compositional frameworks and free improvisation.

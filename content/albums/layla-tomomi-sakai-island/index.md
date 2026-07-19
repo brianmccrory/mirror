@@ -9,7 +9,10 @@ slug = "layla-tomomi-sakai-island"
 releaseYear = 2018
 releaseLabel = "Laydrunker Records"
 releaseCode = "LAYLA-002"
-issue = 78
+[cover]
+  image = "laylatomomisakai-island-460.jpeg"
+  alt = "Cover art of The Island by Layla Tomomi Sakai"
+  relative = true
 [[credits]]
   name = "Layla Tomomi Sakai"
   slug = "layla-tomomi-sakai"
@@ -50,10 +53,6 @@ issue = 78
   slug = "norihito-nagasawa"
   instrument = "guitar (from Momijin) (#2)"
   japanese = "長澤紀仁 Nagasawa Norihito"
-[cover]
-  image = "laylatomomisakai-island-460.jpeg"
-  alt = "Cover art of The Island by Layla Tomomi Sakai"
-  relative = true
 +++
 
 Easy and breezy, as if dozing in a hammock between palm trees, Layla Tomomi Sakai’s _The Island_ stirs up visions of vacationing and relaxing in sultry lands as music floats softly by.

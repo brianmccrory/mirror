@@ -9,7 +9,10 @@ slug = "naoko-tanaka-trio-memories"
 releaseYear = 2015
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-05"
-issue = 124
+[cover]
+  image = "naokotanaka-memories-460.jpeg"
+  alt = "Cover art of Memories by Naoko Tanaka Trio"
+  relative = true
 [[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
@@ -35,10 +38,6 @@ issue = 124
   slug = "daiki-yasukagawa"
   instrument = "bass (tr. #9)"
   japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[cover]
-  image = "naokotanaka-memories-460.jpeg"
-  alt = "Cover art of Memories by Naoko Tanaka Trio"
-  relative = true
 +++
 
 A satisfyingly neat outing, Naoko Tanaka Trio’s _Memories_ (2015) leaves a fresh impression of modern Japanese jazz trios. The playing on this album is both playful and precise, with considered arrangements and decorations sprinkled through the welcoming music. Light touches and coordinated rhythmic hits play a role, hinting at styles employed by greats such as the Ahmad Jamal Trio. Attention is paid to the structure of each song, and as with any good jazz record, those structures are filled out with each soloist’s improvisations, bouncing solos off the harmonic movements and the rhythmic frames.

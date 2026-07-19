@@ -9,7 +9,10 @@ slug = "sanae-ishikawa-feel-like-makin-love"
 releaseYear = 2007
 releaseLabel = "Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow"
 releaseCode = "MTCJ-1098"
-issue = 45
+[cover]
+  image = "sanaeishikawa-feellike-460.jpeg"
+  alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"
+  relative = true
 [[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
@@ -39,10 +42,6 @@ issue = 45
   name = "Cecil Monroe"
   slug = "cecil-monroe"
   instrument = "drums"
-[cover]
-  image = "sanaeishikawa-feellike-460.jpeg"
-  alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"
-  relative = true
 +++
 
 Tokyo-based jazz singer Sanae Ishikawa sings from her heart, presenting her full, confident voice on choice jazz standards with her 2007 debut _Feel Like Makin’ Love_.

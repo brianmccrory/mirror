@@ -9,7 +9,10 @@ slug = "takako-yamada-trio-live-at-the-moment"
 releaseYear = 2024
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1195"
-issue = 327
+[cover]
+  image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
+  alt = "Cover art of Live at The Moment by Takako Yamada Trio"
+  relative = true
 [[credits]]
   name = "Takako Yamada"
   slug = "takako-yamada"
@@ -26,10 +29,6 @@ issue = 327
   instrument = "drums, tabla"
   japanese = "大村亘 Omura Ko"
 related = ["ko-omura-introspect", "takako-yamada-flow-of-time"]
-[cover]
-  image = "takako-yamada-trio-live-at-the-moment-460.jpeg"
-  alt = "Cover art of Live at The Moment by Takako Yamada Trio"
-  relative = true
 +++
 
 _Live at The Moment_ is a new album from pianist Takako Yamada’s jazz trio. The music was recorded during a live performance at The Moment in 2024 and released later that year. The Moment is a relatively new Tokyo jazz club, a polished recording studio-styled spot designed to produce and capture high-quality live audio, as was done with this album (_jazz improv in the moment_ is a winning concept). Here, this sixty-one-minute set includes seven tracks, six jazz standards and one original song from the pianist.

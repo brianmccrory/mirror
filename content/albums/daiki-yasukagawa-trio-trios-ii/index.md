@@ -9,7 +9,10 @@ slug = "daiki-yasukagawa-trio-trios-ii"
 releaseYear = 2015
 releaseLabel = "D-Musica"
 releaseCode = "DMCD-28"
-issue = 99
+[cover]
+  image = "daikiyasukagawa-trios2-460.jpeg"
+  alt = "Cover art of Trios II by Daiki Yasukagawa Trio"
+  relative = true
 [[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
@@ -50,10 +53,6 @@ issue = 99
   slug = "manabu-hashimoto"
   instrument = "drums (#5, 6, 7, 8, 9, 10, 11)"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "daikiyasukagawa-trios2-460.jpeg"
-  alt = "Cover art of Trios II by Daiki Yasukagawa Trio"
-  relative = true
 +++
 
 Similar in concept to Ray Brown’s _Some Of My Best Friends Are…_ album series in which the legendary bassist plays with assorted partners in jazz, bassist Daiki Yasukagawa’s release _Trios II_ from 2015 features the bassist performing with four different trios assembled from multiple pianists and drummers. A followup to Yasukagawa’s _Trios_ (2010), _Trios II_ brings even more musicians into the recording studio and offers up a new album with the various trios performing 11 songs.

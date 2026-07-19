@@ -9,7 +9,10 @@ slug = "ochikochi-ochikochi"
 releaseYear = 2012
 releaseLabel = "K’s Project"
 releaseCode = "KP-0001"
-issue = 366
+[cover]
+  image = "ochikochi-ochikochi-460.jpeg"
+  alt = "Cover art of Ochikochi by Ochikochi"
+  relative = true
 [[credits]]
   name = "Taiichi Kamimura"
   slug = "taiichi-kamimura"
@@ -26,10 +29,6 @@ issue = 366
   instrument = "drums"
   japanese = "橋本学 Hashimoto Manabu"
 related = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
-[cover]
-  image = "ochikochi-ochikochi-460.jpeg"
-  alt = "Cover art of Ochikochi by Ochikochi"
-  relative = true
 +++
 
 _Ochikochi_ is the 2013 album released from a trio of the same name consisting of Taiichi Kamimura on sax, Norikatsu Koreyasu on bass, and Manabu Hashimoto on drums. All songs are by the group’s front horn player Kamimura. It’s adventurous jazz music in the uninhibited hip style of rugged jazz legends like Ornette Coleman and Eric Dolphy. Even through to the current day, when Kamimura plays live, he still often leads Ornette Coleman-style concerts and jam sessions at various jazz spots around Japan.

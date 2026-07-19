@@ -9,7 +9,10 @@ slug = "koichi-sato-melancholy"
 releaseYear = 2016
 releaseLabel = "Song X Jazz"
 releaseCode = "SONG X 038"
-issue = 20
+[cover]
+  image = "koichisato-melancholy-460.jpeg"
+  alt = "Cover art of Melancholy of a Journey by Koichi Sato"
+  relative = true
 [[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
@@ -40,10 +43,6 @@ issue = 20
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-[cover]
-  image = "koichisato-melancholy-460.jpeg"
-  alt = "Cover art of Melancholy of a Journey by Koichi Sato"
-  relative = true
 +++
 
 Pianist and composer Koichi Sato’s 2016 release _Melancholy of a Journey_ features a distinctive jazz sextet: a piano trio adding clarinet and guitar for modern groundedness and cello providing graceful maturity.

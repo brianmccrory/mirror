@@ -9,7 +9,10 @@ slug = "masako-kunisada-wonderful-life"
 releaseYear = 2012
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0005"
-issue = 122
+[cover]
+  image = "masakokunisada-wonderful-460.jpeg"
+  alt = "Cover art of Wonderful Life by Masako Kunisada"
+  relative = true
 [[credits]]
   name = "Masako Kunisada"
   slug = "masako-kunisada"
@@ -35,10 +38,6 @@ issue = 122
   slug = "manabu-fujii"
   instrument = "drums (tr. 1-6, 8-11)"
   japanese = "藤井学 Fujii Manabu"
-[cover]
-  image = "masakokunisada-wonderful-460.jpeg"
-  alt = "Cover art of Wonderful Life by Masako Kunisada"
-  relative = true
 +++
 
 Masako Kunisada’s spiritual, soulful voice channels truth and joy on her first album _Wonderful Life_ from 2012.

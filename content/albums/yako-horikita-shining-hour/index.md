@@ -9,7 +9,10 @@ slug = "yako-horikita-shining-hour"
 releaseYear = 2017
 releaseLabel = "Kylym Records"
 releaseCode = "KYLYM-0001"
-issue = 86
+[cover]
+  image = "yakohorikita-shininghour-460.jpeg"
+  alt = "Cover art of Shining Hour by Yako Horikita"
+  relative = true
 [[credits]]
   name = "Yako Horikita"
   slug = "yako-horikita"
@@ -35,10 +38,6 @@ issue = 86
   slug = "nobuhiko-yamashita"
   instrument = "drums"
   japanese = "山下暢彦 Yamashita Nobuhiko"
-[cover]
-  image = "yakohorikita-shininghour-460.jpeg"
-  alt = "Cover art of Shining Hour by Yako Horikita"
-  relative = true
 +++
 
 Fans of vintage vocal jazz will be drawn to singer Yako Horikita’s debut album _Shining Hour_, a swinging collection of twelve jazz standards delivered with a shining, sparking sincerity.

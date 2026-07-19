@@ -9,7 +9,10 @@ slug = "rabbitoo-the-torch"
 releaseYear = 2016
 releaseLabel = "Song X Jazz"
 releaseCode = "SONGX-036"
-issue = 208
+[cover]
+  image = "rabbitoo-torch-460.jpeg"
+  alt = "Cover art of The Torch by Rabbitoo"
+  relative = true
 [[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
@@ -36,10 +39,6 @@ issue = 208
   instrument = "drums"
   japanese = "田中徳崇 Tanaka Noritaka"
 related = ["rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy"]
-[cover]
-  image = "rabbitoo-torch-460.jpeg"
-  alt = "Cover art of The Torch by Rabbitoo"
-  relative = true
 +++
 
 Opening with a single-tone drone, electronic jazz music group Rabbitoo continues their retro-futuristic sound on their second album /The Torch /from 2016.

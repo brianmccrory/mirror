@@ -9,7 +9,10 @@ slug = "yoshiko-saita-back-in-time-to-boston"
 releaseYear = 2024
 releaseLabel = "Viva Sounds of DADA"
 releaseCode = "VSDD-004"
-issue = 254
+[cover]
+  image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
+  alt = "Cover art of Back in Time to Boston by Yoshiko Saita"
+  relative = true
 [[credits]]
   name = "Yoshiko Saita"
   slug = "yoshiko-saita"
@@ -23,10 +26,6 @@ issue = 254
   name = "Grégoire Maret"
   slug = "gregoire-maret"
   instrument = "harmonica"
-[cover]
-  image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
-  alt = "Cover art of Back in Time to Boston by Yoshiko Saita"
-  relative = true
 +++
 
 Singer Yoshiko Saita’s latest release is _Back in Time to Boston_, an album whose recording was both a homecoming and a musical trip down memory lane. It’s a trip not troubled by turbulence or misadventure, as the entire album occupies a relaxed, late-night mood that’s perfect for this combination of Saita’s rich voice and mellow delivery.

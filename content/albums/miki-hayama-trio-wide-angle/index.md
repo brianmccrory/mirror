@@ -9,7 +9,10 @@ slug = "miki-hayama-trio-wide-angle"
 releaseYear = 2009
 releaseLabel = "ART UNION/@jazz"
 releaseCode = "ARTCD-114"
-issue = 41
+[cover]
+  image = "miki-hayama-wideangle-460.jpeg"
+  alt = "Cover art of Wide Angle by Miki Hayama Trio"
+  relative = true
 [[credits]]
   name = "Miki Hayama"
   slug = "miki-hayama"
@@ -24,10 +27,6 @@ issue = 41
   name = "Victor Lewis"
   slug = "victor-lewis"
   instrument = "drums"
-[cover]
-  image = "miki-hayama-wideangle-460.jpeg"
-  alt = "Cover art of Wide Angle by Miki Hayama Trio"
-  relative = true
 +++
 
 Pianist Miki Hayama creates superb jazz on _Wide Angle_, exploring powerful, edge-of-your-seat quickness with modern dimensions. This album is her third as a leader and received awards from the Japanese jazz magazine _Swing Journal_ in 2009 and 2010.

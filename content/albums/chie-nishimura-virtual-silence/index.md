@@ -9,7 +9,10 @@ slug = "chie-nishimura-virtual-silence"
 releaseYear = 2021
 releaseLabel = "en records"
 releaseCode = "Virtual Silence / Chie Nishimura"
-issue = 272
+[cover]
+  image = "chie-nishimura-virtual-silence-460.jpeg"
+  alt = "Cover art of Virtual Silence by Chie Nishimura"
+  relative = true
 [[credits]]
   name = "Chie Nishimura"
   slug = "chie-nishimura"
@@ -31,10 +34,6 @@ issue = 272
   instrument = "drums"
   japanese = "本田珠也 Honda Tamaya"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
-[cover]
-  image = "chie-nishimura-virtual-silence-460.jpeg"
-  alt = "Cover art of Virtual Silence by Chie Nishimura"
-  relative = true
 +++
 
 _Virtual Silence_ (2022) is a 38-minute experience in five chapters, a project born of a moodily lit and ambient concept from bassist Ryoji Orihara and vocalist Chie Nishimura. On their first album, the pair are joined by guests May Inoue on guitar and Tamaya Honda on drums, an addition that marvelously decorates the simple but evocative themes with ethereal dimensions and deep textures. Throughout, Nishimura’s voice is used as a melodic instrument alongside guitar and bass, singing minimalistically on all five tracks with no lyrics or words.

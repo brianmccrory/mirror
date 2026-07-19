@@ -9,7 +9,10 @@ slug = "kohsuke-mine-quintet-major-to-minor"
 releaseYear = 1993
 releaseLabel = "Verve Records"
 releaseCode = "POCJ-1195"
-issue = 121
+[cover]
+  image = "kohsukemine-major-460.jpeg"
+  alt = "Cover art of Major to Minor by Kohsuke Mine Quintet"
+  relative = true
 [[credits]]
   name = "Kosuke Mine"
   slug = "kosuke-mine"
@@ -35,10 +38,6 @@ issue = 121
   slug = "ryojiro-furusawa"
   instrument = "drums"
   japanese = "古澤良治郎 Furusawa Ryojiro"
-[cover]
-  image = "kohsukemine-major-460.jpeg"
-  alt = "Cover art of Major to Minor by Kohsuke Mine Quintet"
-  relative = true
 +++
 
 Kohsuke Mine Quintet’s 1993 album _Major to Minor_ is full of life, a straight-ahead jazz outing built upon solid group unity and stimulating jazz improvisation.

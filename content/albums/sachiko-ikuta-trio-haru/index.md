@@ -9,7 +9,10 @@ slug = "sachiko-ikuta-trio-haru"
 releaseYear = 2012
 releaseLabel = "Studio TLive Records"
 releaseCode = "XQHG-1007"
-issue = 26
+[cover]
+  image = "sachikoikuta-haru-460.jpeg"
+  alt = "Cover art of Haru No Kaze by Sachiko Ikuta Trio"
+  relative = true
 [[credits]]
   name = "Sachiko Ikuta"
   slug = "sachiko-ikuta"
@@ -30,10 +33,6 @@ issue = 26
   slug = "terumasa-hino"
   instrument = "trumpet, cornet (#3, 6)"
   japanese = "日野皓正 Hino Terumasa"
-[cover]
-  image = "sachikoikuta-haru-460.jpeg"
-  alt = "Cover art of Haru No Kaze by Sachiko Ikuta Trio"
-  relative = true
 +++
 
 A jazz pianist who balances lyricism with boldness, Sachiko Ikuta leads a piano trio on _Haru No Kaze (Spring Wind)_ from 2012. Legendary jazz trumpeter Terumasa Hino also joins on two songs, adding an adventurous splash of avant-garde improvisation to the album.

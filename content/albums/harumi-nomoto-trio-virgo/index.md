@@ -9,7 +9,10 @@ slug = "harumi-nomoto-trio-virgo"
 releaseYear = 2014
 releaseLabel = "Okra Record"
 releaseCode = "MIKO-1009"
-issue = 73
+[cover]
+  image = "haruminomoto-virgo-460.jpeg"
+  alt = "Cover art of Virgo by Harumi Nomoto Trio"
+  relative = true
 [[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
@@ -35,10 +38,6 @@ issue = 73
   slug = "nao-sakamoto"
   instrument = "Chromasomus/prepared guitar (track #8)"
   japanese = "坂本直 Sakamoto Nao"
-[cover]
-  image = "haruminomoto-virgo-460.jpeg"
-  alt = "Cover art of Virgo by Harumi Nomoto Trio"
-  relative = true
 +++
 
 Pianist Harumi Nomoto’s 2014 release _Virgo_ is a constellation of grooves, moods, and textures, boldly incorporating inter-genre approaches as piano jazz is woven with Eastern sounds, African rhythms, and hip-hop-influenced beats.

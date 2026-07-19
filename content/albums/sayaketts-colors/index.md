@@ -9,7 +9,10 @@ slug = "sayaketts-colors"
 releaseYear = 2009
 releaseLabel = "Sayaketts"
 releaseCode = "SKTS-001"
-issue = 58
+[cover]
+  image = "sayaketts-colors-460.jpeg"
+  alt = "Cover art of Colors by Sayaketts"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -25,10 +28,6 @@ issue = 58
   slug = "yoshihiro-nakagawa"
   instrument = "drums"
   japanese = "中川喜博 Nakagawa Yoshihiro"
-[cover]
-  image = "sayaketts-colors-460.jpeg"
-  alt = "Cover art of Colors by Sayaketts"
-  relative = true
 +++
 
 At times light and carefree, yet also deeply and seriously musical, Sayaka Kishi’s “pure music” spirit shines beautifully on _Colors_. While the pianist is a vibrant part of many collaborations covering standard jazz, pop, classical, and Latin fusion among others, here with her group Sayaketts the trio focuses on a fusion of electric funky jazz and R&amp;B pop music amid calmer moments and heart-warming pop-styled piano jazz.

@@ -9,7 +9,10 @@ slug = "ryosuke-hashizume-group-incomplete-voices"
 releaseYear = 2017
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS1704"
-issue = 6
+[cover]
+  image = "ryosukehashizume-incompletevoices-460.jpeg"
+  alt = "Cover art of Incomplete Voices by Ryosuke Hashizume Group"
+  relative = true
 [[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
@@ -35,10 +38,6 @@ issue = 6
   slug = "manabu-hashimoto"
   instrument = "drums, percussion"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "ryosukehashizume-incompletevoices-460.jpeg"
-  alt = "Cover art of Incomplete Voices by Ryosuke Hashizume Group"
-  relative = true
 +++
 
 Incomplete Voices is the latest release from the Ryosuke Hashizume Group, released in 2017. As with prior albums, this is a wonderful collection of carefully conceived modern jazz compositions showcasing the saxophonist’s concepts and the tight-knit group dynamics. Close attention is paid to the harmonic and rhythmic layers in the music with excitement built on climactic resolutions and striking moods.

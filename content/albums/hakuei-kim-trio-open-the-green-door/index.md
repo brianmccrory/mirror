@@ -9,7 +9,10 @@ slug = "hakuei-kim-trio-open-the-green-door"
 releaseYear = 2005
 releaseLabel = "DIW Records"
 releaseCode = "DIW-631"
-issue = 54
+[cover]
+  image = "hakueikim-open-460.jpeg"
+  alt = "Cover art of Open the Green Door by Hakuei Kim Trio"
+  relative = true
 [[credits]]
   name = "Hakuei Kim"
   slug = "hakuei-kim"
@@ -23,10 +26,6 @@ issue = 54
   name = "Dave Goodman"
   slug = "dave-goodman"
   instrument = "drums and percussion"
-[cover]
-  image = "hakueikim-open-460.jpeg"
-  alt = "Cover art of Open the Green Door by Hakuei Kim Trio"
-  relative = true
 +++
 
 Modern to the point of futuristic, _Open the Green Door_ features an exciting jazz piano trio with the pianist Hakuei Kim leading a stellar Australian rhythm section of Ben “Donny” Waples on bass and Dave Goodman on drums.

@@ -9,7 +9,10 @@ slug = "chihiro-yamanaka-outside-by-the-swing"
 releaseYear = 2005
 releaseLabel = "Verve"
 releaseCode = "UCCJ-2040"
-issue = 156
+[cover]
+  image = "chihiroyamanaka-outsideby-460.jpeg"
+  alt = "Cover art of Outside by the Swing by Chihiro Yamanaka"
+  relative = true
 [[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
@@ -23,10 +26,6 @@ issue = 156
   name = "Jeff “Tain” Watts"
   slug = "jeff-tain-watts"
   instrument = "drums"
-[cover]
-  image = "chihiroyamanaka-outsideby-460.jpeg"
-  alt = "Cover art of Outside by the Swing by Chihiro Yamanaka"
-  relative = true
 +++
 
 Chihiro Yamanaka’s _Outside By The Swing_ (2005) is her fourth piano trio album and continues her annual series of releases since bursting on the scene with her 2001 debut _Living Without Friday_. While previous releases were on the Osaka boutique jazz label Atelier Sawano, this release marks her first in a long run with Verve Records.

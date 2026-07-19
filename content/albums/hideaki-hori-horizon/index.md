@@ -9,7 +9,10 @@ slug = "hideaki-hori-horizon"
 releaseYear = 2003
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2022"
-issue = 215
+[cover]
+  image = "hideaki-hori-horizon-460.jpeg"
+  alt = "Cover art of Horizon by Hideaki Hori"
+  relative = true
 [[credits]]
   name = "Hideaki Hori"
   slug = "hideaki-hori"
@@ -36,10 +39,6 @@ issue = 215
   instrument = "tenor sax (#1, 2, 6, 9)"
   japanese = "河村英樹 Kawamura Hideki"
 related = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
-[cover]
-  image = "hideaki-hori-horizon-460.jpeg"
-  alt = "Cover art of Horizon by Hideaki Hori"
-  relative = true
 +++
 
 Jazz pianist Hideaki Hori kicked off his recording career 20 years ago, and it all started with this debut album _Horizon_ from 2003. Since then, he’s released another 20 albums as leader in his nearly 30-year career under his own name or as the group “Encounter” with saxophonist Wataru Hamasaki. As a session musician and recording partner, Hori has also played on more than 160 albums for many notable Japanese and international acts including “Dreams Come True”, “Paris Match”, Eddie Henderson, Mabumi Yamaguchi, and many others. It’s an impressive resume for an accomplished pianist who’s still actively playing live music somewhere in front of an audience almost every day.

@@ -9,16 +9,15 @@ slug = "seiji-endo-genji-monogatari-volume-1"
 releaseYear = 2018
 releaseLabel = "Nippon Acoustic Records"
 releaseCode = "NARP-8015"
-issue = 77
+[cover]
+  image = "seijiendo-genji-460.jpeg"
+  alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"
+  relative = true
 [[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "solo piano and compositions"
   japanese = "遠藤征志 Endo Seiji"
-[cover]
-  image = "seijiendo-genji-460.jpeg"
-  alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"
-  relative = true
 +++
 
 Through a beautiful piano sound with deep reverberations, Seiji Endo’s latest solo album releases atmospheric music as if arising from the dreams and memories of ancient Japan. _Genji Monogatari Volume 1_ features the pianist performing his original compositions with dramatic textures woven from this ancient Japanese epic.

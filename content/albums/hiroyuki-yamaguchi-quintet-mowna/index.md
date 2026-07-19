@@ -9,7 +9,10 @@ slug = "hiroyuki-yamaguchi-quintet-mowna"
 releaseYear = 2024
 releaseLabel = "What’s New Records"
 releaseCode = "GWNJ-2036"
-issue = 329
+[cover]
+  image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
+  alt = "Cover art of Mowna by Hiroyuki Yamaguchi Quintet"
+  relative = true
 [[credits]]
   name = "Hiroyuki Yamaguchi"
   slug = "hiroyuki-yamaguchi"
@@ -36,10 +39,6 @@ issue = 329
   instrument = "drums"
   japanese = "岡部朋幸 Okabe Tomoyuki"
 related = ["mase-hiroko-quintet-first-contact"]
-[cover]
-  image = "hiroyuki-yamaguchi-quintet-mowna-460.jpeg"
-  alt = "Cover art of Mowna by Hiroyuki Yamaguchi Quintet"
-  relative = true
 +++
 
 _Mowna_ is a 2024 album from bassist and composer Hiroyuki Yamaguchi. For this release, Yamaguchi wrote and arranged all nine tracks, which he recorded with a quintet composed of several musicians that played on his previous album _Inner Perception_ (2018) by his Thursday Night Sextet, a band formed through jam sessions at the Tokyo jazz bar and local institution Manhattan.

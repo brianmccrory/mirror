@@ -9,7 +9,10 @@ slug = "blue-dot-halo"
 releaseYear = 2016
 releaseLabel = "Blue Dot"
 releaseCode = "Halo"
-issue = 70
+[cover]
+  image = "bluedot-halo-460.jpeg"
+  alt = "Cover art of Halo by Blue Dot"
+  relative = true
 [[credits]]
   name = "Makoto Rikitake"
   slug = "makoto-rikitake"
@@ -35,10 +38,6 @@ issue = 70
   slug = "maki-fujimura"
   instrument = "vocals (track #10)"
   japanese = "藤村麻紀 Fujimura Maki"
-[cover]
-  image = "bluedot-halo-460.jpeg"
-  alt = "Cover art of Halo by Blue Dot"
-  relative = true
 +++
 
 United by a stellar theme of the universe, the Tokyo jazz quartet Blue Dot explores stars and galaxies on their debut album _Halo_ from 2016.

@@ -9,7 +9,10 @@ slug = "fumie-chiba-trio-tip-of-dream"
 releaseYear = 2009
 releaseLabel = "TRL Music"
 releaseCode = "TRL-0826"
-issue = 62
+[cover]
+  image = "fumiechiba-tip-460.jpeg"
+  alt = "Cover art of Tip of Dream by Fumie Chiba Trio"
+  relative = true
 [[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
@@ -25,10 +28,6 @@ issue = 62
   slug = "shigehito-kawamura"
   instrument = "drums"
   japanese = "川村成史 Kawamura Shigehito"
-[cover]
-  image = "fumiechiba-tip-460.jpeg"
-  alt = "Cover art of Tip of Dream by Fumie Chiba Trio"
-  relative = true
 +++
 
 Jazz pianist and composer Fumie Chiba’s _Tip of Dream_ is a great example of modern jazz piano from Japan, displaying high-caliber technique and creative approaches to modern jazz composition.

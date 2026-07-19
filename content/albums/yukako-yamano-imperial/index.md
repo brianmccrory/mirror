@@ -9,17 +9,16 @@ slug = "yukako-yamano-imperial"
 releaseYear = 2018
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKRN-0004"
-issue = 199
+[cover]
+  image = "yukakoyamano-imperial-460.jpeg"
+  alt = "Cover art of Imperial by Yukako Yamano"
+  relative = true
 [[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
   instrument = "piano"
   japanese = "山野友佳子 Yamano Yukako"
 related = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
-[cover]
-  image = "yukakoyamano-imperial-460.jpeg"
-  alt = "Cover art of Imperial by Yukako Yamano"
-  relative = true
 +++
 
 World-traveling pianist Yukako Yamano released _Imperial_ in 2018, a three-song mini-album showcasing not only her original songs but also the special instrument after which the album is named.

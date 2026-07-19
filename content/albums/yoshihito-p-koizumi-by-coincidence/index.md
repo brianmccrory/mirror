@@ -9,7 +9,10 @@ slug = "yoshihito-p-koizumi-by-coincidence"
 releaseYear = 2011
 releaseLabel = "Peace Bass Records"
 releaseCode = "PBRS-0001"
-issue = 136
+[cover]
+  image = "yoshihitopkoizumi-bycoin-460.jpeg"
+  alt = "Cover art of By Coincidence by Yoshihito “P” Koizumi P-Project"
+  relative = true
 [[credits]]
   name = "Yoshihito “P” Koizumi"
   slug = "yoshihito-p-koizumi"
@@ -25,10 +28,6 @@ issue = 136
   slug = "kohzo-komori"
   instrument = "drums"
   japanese = "小森耕造 Komori Kohzo"
-[cover]
-  image = "yoshihitopkoizumi-bycoin-460.jpeg"
-  alt = "Cover art of By Coincidence by Yoshihito “P” Koizumi P-Project"
-  relative = true
 +++
 
 Jazz, soul, and funk bassist Yoshihito “P” Koizumi is an active member of a number of Japanese jazz groups and events, and the 2011 album _By Coincidence_ marks his debut release as “P-Project” featuring Jun Miyakawa on keyboards and Kohzo Komori on drums. With nine tracks and a running time of 34 minutes, the album is full of funky beats, laid-back grooves, retroesque electronic keyboards, and slick bass lines.

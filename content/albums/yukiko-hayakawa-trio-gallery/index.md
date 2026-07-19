@@ -9,7 +9,10 @@ slug = "yukiko-hayakawa-trio-gallery"
 releaseYear = 2008
 releaseLabel = "Ventain Records"
 releaseCode = "VJYH-8461"
-issue = 135
+[cover]
+  image = "yukiko-hayakawa-gallery-460.jpeg"
+  alt = "Cover art of Gallery by Yukiko Hayakawa Trio"
+  relative = true
 [[credits]]
   name = "Yukiko Hayakawa"
   slug = "yukiko-hayakawa"
@@ -25,10 +28,6 @@ issue = 135
   slug = "keiichiro-uemura"
   instrument = "drums"
   japanese = "上村計一郎 Uemura Keiichiro"
-[cover]
-  image = "yukiko-hayakawa-gallery-460.jpeg"
-  alt = "Cover art of Gallery by Yukiko Hayakawa Trio"
-  relative = true
 +++
 
 _Gallery_ is the 2008 debut release from jazz pianist Yukiko Hayakawa’s trio, an all-original outing with seven tracks clocking in at 44 minutes . Overall somewhat dark and musing, the music conveys mystery with pensive touches of nostalgia and grace.

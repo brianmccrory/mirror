@@ -9,7 +9,10 @@ slug = "takuji-yamada-lite-blue"
 releaseYear = 2012
 releaseLabel = "D-Musica"
 releaseCode = "DMCD-18"
-issue = 18
+[cover]
+  image = "takujiyamada-liteblue-460.jpeg"
+  alt = "Cover art of Lite Blue by Takuji Yamada"
+  relative = true
 [[credits]]
   name = "Takuji Yamada"
   slug = "takuji-yamada"
@@ -32,10 +35,6 @@ issue = 18
   name = "Quincy Davis"
   slug = "quincy-davis"
   instrument = "drums"
-[cover]
-  image = "takujiyamada-liteblue-460.jpeg"
-  alt = "Cover art of Lite Blue by Takuji Yamada"
-  relative = true
 +++
 
 Takuji Yamada is a professional jazz musician who takes care with his jazz. His first album _Lite Blue_ from 2012 reflects that care through his beautifully written compositions and nicely-arranged standards, not to mention his spot-on stimulating jazz sax playing.

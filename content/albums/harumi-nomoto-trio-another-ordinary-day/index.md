@@ -9,7 +9,10 @@ slug = "harumi-nomoto-trio-another-ordinary-day"
 releaseYear = 2002
 releaseLabel = "Venus Records"
 releaseCode = "TKCV-35311"
-issue = 150
+[cover]
+  image = "haruminomoto-another-460.jpeg"
+  alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"
+  relative = true
 [[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
@@ -34,10 +37,6 @@ issue = 150
   slug = "yoshihito-eto"
   instrument = "drums (#5, 7)"
   japanese = "江藤良人 Eto Yoshihito"
-[cover]
-  image = "haruminomoto-another-460.jpeg"
-  alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"
-  relative = true
 +++
 
 _Another Ordinary Day_ from 2002 is pianist Harumi Nomoto’s debut album as a leader of her own jazz trio… actually, two jazz trios. Recorded over two summer days in Tokyo, the exciting young pianist runs through eight tunes: five songs with one trio arrangement and two songs with a second trio. Also included among the trio tracks is one solo piece, where Nomoto plays on piano the quiet and affectionate “You Only Know What I Know” by saxophonist Atsushi Ikeda.

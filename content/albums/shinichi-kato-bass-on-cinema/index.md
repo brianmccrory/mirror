@@ -9,7 +9,10 @@ slug = "shinichi-kato-bass-on-cinema"
 releaseYear = 2011
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2048"
-issue = 83
+[cover]
+  image = "shinichikato-bassoncinema-460.jpeg"
+  alt = "Cover art of Bass on Cinema by Shinichi Kato"
+  relative = true
 [[credits]]
   name = "Shinichi Kato"
   slug = "shinichi-kato"
@@ -20,10 +23,6 @@ issue = 83
   slug = "taihei-asakawa"
   instrument = "piano, synthesizers, arrangements"
   japanese = "浅川太平 Asakawa Taihei"
-[cover]
-  image = "shinichikato-bassoncinema-460.jpeg"
-  alt = "Cover art of Bass on Cinema by Shinichi Kato"
-  relative = true
 +++
 
 With a vintage romantic feel inspired by classic cinema, Shinichi Kato’s 2011 release _Bass on Cinema_ is a well-crafted collection of great film music. Performed as a duo, with Kato on bass and Taihei Asakawa on piano and synthesizer, the album contains absorbing and dramatic moments, as befitting a tribute to the great songs of cinema. With the deep bass on melody, the dazzling piano and arrangements fill out the canvas with cinematic moods ranging from calm, sweet, and introspective to mysterious suspense, classical refinement, rock-and-roll abandon, and delicate melancholy.

@@ -10,7 +10,10 @@ slug = "akihiro-yoshimoto-quartet-moving-color"
 releaseYear = 2015
 releaseLabel = "MOR Records"
 releaseCode = "MOR-1001"
-issue = 51
+[cover]
+  image = "akihiroyoshimoto-moving-460.jpeg"
+  alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"
+  relative = true
 [[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
@@ -32,10 +35,6 @@ issue = 51
   instrument = "drums"
   japanese = "石若駿 Ishiwaka Shun"
 related = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
-[cover]
-  image = "akihiroyoshimoto-moving-460.jpeg"
-  alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"
-  relative = true
 +++
 
 _Moving Color_ is the second album from saxophonist Akihiro Yoshimoto and his quartet. With eight original songs drawn from his palette, he blends serious musical exploration and improvisation with elements of modernity, jazz tradition, and a bit of humor. Strength in composition and group cohesion is clear: the quartet plays confidently, as if they are disclosing a secret bit by bit, modestly exhibiting their skills yet playing with brimming energy and a locked-together sense of where they are going.

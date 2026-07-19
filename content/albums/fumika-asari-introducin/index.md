@@ -9,7 +9,10 @@ slug = "fumika-asari-introducin"
 releaseYear = 2020
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0018"
-issue = 193
+[cover]
+  image = "fumika-asari-introducin-460.jpeg"
+  alt = "Cover art of Introducin’ by Fumika Asari"
+  relative = true
 [[credits]]
   name = "Fumika Asari"
   slug = "fumika-asari"
@@ -60,10 +63,6 @@ issue = 193
   slug = "itsumi-komano"
   instrument = "trombone (#7, 8)"
   japanese = "駒野逸美 Komano Itsumi"
-[cover]
-  image = "fumika-asari-introducin-460.jpeg"
-  alt = "Cover art of Introducin’ by Fumika Asari"
-  relative = true
 +++
 
 Fumika Asari’s first album is _Introducin’_ from 2020, a satisfying debut with a mix of players, combinations, and a to-the-point title with a respectful nod to classic jazz album titles. The beautiful sound of acoustic jazz matches well with the young guitarist’s natural style and concept, jazz that shuns attention-seeking tricks and lofty effects in favor of a genuine, pared-down jazz feeling.

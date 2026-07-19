@@ -9,16 +9,15 @@ slug = "reikan-kobayashi-gakudan-hitori"
 releaseYear = 2011
 releaseLabel = "Mokorin Music"
 releaseCode = "MM-001"
-issue = 101
+[cover]
+  image = "reikankobayashi-gakudan-460.jpeg"
+  alt = "Cover art of Gakudan Hitori by Reikan Kobayashi"
+  relative = true
 [[credits]]
   name = "Reikan Kobayashi"
   slug = "reikan-kobayashi"
   instrument = "Shakuhachi, piano, keyboard, guitar, wood bass, flute, melodion, egg shaker, voice percussion, whistle, nabe pot"
   japanese = "小林鈴勘 Kobayashi Reikan"
-[cover]
-  image = "reikankobayashi-gakudan-460.jpeg"
-  alt = "Cover art of Gakudan Hitori by Reikan Kobayashi"
-  relative = true
 +++
 
 A novel album in several ways, _Gakudan Hitori_ from musician Reikan Kobayashi contains interesting dimensions and juxtapositions. Kobayashi is proficient on many instruments but has primarily made a name for himself by playing shakuhachi in Japan and using the traditional Japanese bamboo flute in jazz music. As strong a voice the whistling wind of the wooden flute is itself, the incorporation of this characteristically Japanese sound to jazz and other music adds to the originality of this 2011 release.

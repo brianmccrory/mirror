@@ -9,7 +9,10 @@ slug = "bungalow-metropolitan-oasis"
 releaseYear = 2011
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-17"
-issue = 114
+[cover]
+  image = "bungalow-metropolitan-460.jpeg"
+  alt = "Cover art of Metropolitan Oasis by Bungalow"
+  relative = true
 [[credits]]
   name = "Masahiro Yamamoto"
   slug = "masahiro-yamamoto"
@@ -30,10 +33,6 @@ issue = 114
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "bungalow-metropolitan-460.jpeg"
-  alt = "Cover art of Metropolitan Oasis by Bungalow"
-  relative = true
 +++
 
 Jazz quartet Bungalow issued an imaginative and flavorful debut album with _Metropolitan Oasis_ in 2011. Striking and singular, the songs reward repeat listens by offering creative jazz compositions with stimulating blueprints. The songs ebb and flow with energy, grooves, and clever rhythms, where folk and ethnic influences converge with modern jazz, bop, classical, and free elements, pushing boundaries to reach new vistas.

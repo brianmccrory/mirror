@@ -9,7 +9,10 @@ slug = "sumito-oi-sumitty-and-the-funfair"
 releaseYear = 2015
 releaseLabel = "S&T Music"
 releaseCode = "STMU-1001"
-issue = 27
+[cover]
+  image = "sumito-oi-funfair-460.jpeg"
+  alt = "Cover art of Sumitty & The Funfair by Sumito Oi"
+  relative = true
 [[credits]]
   name = "Sumito Oi"
   slug = "sumito-oi"
@@ -30,10 +33,6 @@ issue = 27
   slug = "show-kudo"
   instrument = "double bass, electric bass"
   japanese = "工藤精 Kudo Show"
-[cover]
-  image = "sumito-oi-funfair-460.jpeg"
-  alt = "Cover art of Sumitty & The Funfair by Sumito Oi"
-  relative = true
 +++
 
 _Sumitty &amp; the Funfair_ is a 2015 release from drummer Sumito Oi and his band of merry music makers, assembling here to produce an original work of creatively poppy jazz. Not circus clown tomfoolery, but, rather, light and glittery music played with a cheerful buoyancy and sensitivity by improvisational jazz musicians. The theme is musical fun, wide-smiled mirth carried by a sweet nostalgia for amusement park ambiance.

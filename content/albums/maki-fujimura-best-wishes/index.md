@@ -9,7 +9,10 @@ slug = "maki-fujimura-best-wishes"
 releaseYear = 2013
 releaseLabel = "Maki Fujimura"
 releaseCode = "MAKI.TV-0001"
-issue = 66
+[cover]
+  image = "makifujimura-best-460.jpeg"
+  alt = "Cover art of Best Wishes by Maki Fujimura"
+  relative = true
 [[credits]]
   name = "Maki Fujimura"
   slug = "maki-fujimura"
@@ -20,10 +23,6 @@ issue = 66
   slug = "hideaki-hori"
   instrument = "piano"
   japanese = "堀秀彰 Hori Hideaki"
-[cover]
-  image = "makifujimura-best-460.jpeg"
-  alt = "Cover art of Best Wishes by Maki Fujimura"
-  relative = true
 +++
 
 Glamorous Osaka-based singer Maki Fujimura enraptures the audience with her silky voice and energetic improvisation on this live album recorded at the intimate Tokyo jazz bar “Apple Jump”.

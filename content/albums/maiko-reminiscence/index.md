@@ -9,7 +9,10 @@ slug = "maiko-reminiscence"
 releaseYear = 2024
 releaseLabel = "GardenNotes Music"
 releaseCode = "GNM-1026"
-issue = 364
+[cover]
+  image = "maiko-reminiscence-460.jpeg"
+  alt = "Cover art of Reminiscence by maiko"
+  relative = true
 [[credits]]
   name = "maiko"
   slug = "maiko"
@@ -36,10 +39,6 @@ issue = 364
   instrument = "voice (#2), vocals, piano, lyrics (#4)"
   japanese = "黒沢綾 Kurosawa Aya"
 related = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
-[cover]
-  image = "maiko-reminiscence-460.jpeg"
-  alt = "Cover art of Reminiscence by maiko"
-  relative = true
 +++
 
 Jazz violinist maiko’s new album _Reminiscence_ is a milestone release for the Tokyo-based musician. It’s both a look back at her start 25 years ago when she moved to Tokyo and began to play jazz, as well as a gratitude-filled mark of appreciation to the many musicians she’s played with and the experiences she’s had through her years of development as live musician in Japan’s music scene.

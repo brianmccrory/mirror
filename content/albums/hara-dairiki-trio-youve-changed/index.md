@@ -9,7 +9,10 @@ slug = "hara-dairiki-trio-youve-changed"
 releaseYear = 2009
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4004"
-issue = 39
+[cover]
+  image = "haradairiki-youvechanged-460.jpeg"
+  alt = "Cover art of You’ve Changed by Hara Dairiki Trio"
+  relative = true
 [[credits]]
   name = "Dairiki Hara"
   slug = "dairiki-hara"
@@ -25,10 +28,6 @@ issue = 39
   slug = "yasushi-yoneki"
   instrument = "bass"
   japanese = "米木康志 Yoneki Yasushi"
-[cover]
-  image = "haradairiki-youvechanged-460.jpeg"
-  alt = "Cover art of You’ve Changed by Hara Dairiki Trio"
-  relative = true
 +++
 
 The Hara Dairiki Trio creates a jubilant atmosphere on _You’ve Changed_, playing choice jazz standards from the bebop and straight-ahead jazz songbook.

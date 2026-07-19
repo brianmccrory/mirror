@@ -9,7 +9,10 @@ slug = "toru-takahashi-tokyo-groovin-high"
 releaseYear = 2021
 releaseLabel = "T-Swing Music"
 releaseCode = "TSM-0001"
-issue = 341
+[cover]
+  image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
+  alt = "Cover art of Tokyo Groovin’ High! by Toru Takahashi"
+  relative = true
 [[credits]]
   name = "Toru Takahashi"
   slug = "toru-takahashi"
@@ -56,10 +59,6 @@ issue = 341
   instrument = "special guest trombone (#3)"
   japanese = "春風亭昇太 Shunputei Shota"
 related = ["hara-dairiki-trio-youve-changed"]
-[cover]
-  image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
-  alt = "Cover art of Tokyo Groovin’ High! by Toru Takahashi"
-  relative = true
 +++
 
 Drummer Toru Takahashi’s debut album is _Tokyo Groovin’ High_, a 2021 release that presents addictive jazz bebop favorites performed by long-time musical partners and friends. This is a drummer-led album where Takahashi makes the most of arranging the musicians in various forms. With three different rhythm sections, the drummer plays with quartet and quintet forms, the classic piano trio, and even a septet featuring two special guests known for _rakugo_ storytelling performances and television appearances.

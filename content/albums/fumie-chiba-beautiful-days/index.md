@@ -9,7 +9,10 @@ slug = "fumie-chiba-beautiful-days"
 releaseYear = 2017
 releaseLabel = "USAGI Records"
 releaseCode = "UR-002"
-issue = 138
+[cover]
+  image = "fumiechiba-beautifuldays-460.jpeg"
+  alt = "Cover art of Beautiful Days by Fumie Chiba"
+  relative = true
 [[credits]]
   name = "Fumie Chiba"
   slug = "fumie-chiba"
@@ -40,10 +43,6 @@ issue = 138
   slug = "kaoru-suzuki"
   instrument = "drums"
   japanese = "鈴木郁 Suzuki Kaoru"
-[cover]
-  image = "fumiechiba-beautifuldays-460.jpeg"
-  alt = "Cover art of Beautiful Days by Fumie Chiba"
-  relative = true
 +++
 
 On her fourth and latest album _Beautiful Days_ (2017), pianist Fumie Chiba records eleven new compositions with a jazz sextet, a piano trio plus trumpet, sax, and vocals. While her first two albums _Tip of Dream_ (2009) and _Echoes_ (2013) featured her jazz trio, the expanded group on her previous _Roguequeue_ (2015) and on this album well suits the textures she strives for. Freshness and energy flow through the rich harmonies and interplay with attention paid to the compositional detail throughout the music.

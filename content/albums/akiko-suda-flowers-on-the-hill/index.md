@@ -9,7 +9,10 @@ slug = "akiko-suda-flowers-on-the-hill"
 releaseYear = 2016
 releaseLabel = "Diw The Grace"
 releaseCode = "DW-1008"
-issue = 10
+[cover]
+  image = "akikosuda-flowersonthehill-460.jpeg"
+  alt = "Cover art of Flowers On The Hill by Akiko Suda"
+  relative = true
 [[credits]]
   name = "Akiko Suda"
   slug = "akiko-suda"
@@ -40,10 +43,6 @@ issue = 10
   slug = "toyomi-kobayashi"
   instrument = "flute, andes"
   japanese = "小林豊美 Kobayashi Toyomi"
-[cover]
-  image = "akikosuda-flowersonthehill-460.jpeg"
-  alt = "Cover art of Flowers On The Hill by Akiko Suda"
-  relative = true
 +++
 
 _Flowers On The Hill_ is a beautiful album of tender and impeccably delivered music from the vocalist Akiko Suda. The album features lovely original compositions together with jazz, bossa nova, and pop standards performed artistically with creative arrangements.

@@ -9,7 +9,10 @@ slug = "naoko-tanaka-appreciation"
 releaseYear = 2022
 releaseLabel = "Naop Record"
 releaseCode = "NT-0405"
-issue = 232
+[cover]
+  image = "naoko-tanaka-appreciation-460.jpeg"
+  alt = "Cover art of Appreciation by Naoko Tanaka"
+  relative = true
 [[credits]]
   name = "Naoko Tanaka"
   slug = "naoko-tanaka"
@@ -41,10 +44,6 @@ issue = 232
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
 related = ["protean-protean", "naoko-tanaka-trio-memories", "daiki-yasukagawa-trio-trios-ii", "tcq-memories-of-t", "hiro-kimura-quintet-folds"]
-[cover]
-  image = "naoko-tanaka-appreciation-460.jpeg"
-  alt = "Cover art of Appreciation by Naoko Tanaka"
-  relative = true
 +++
 
 _Appreciation_ is pianist and composer Naoko Tanaka’s 2022 jazz release, her latest in a series of exciting new albums from young Japanese musicians. Several of her previous leader albums (_Home_, _I Fall In Love Too Easily_, _Memories_) featured her piano trio as a trio, which _Appreciation_ also does. But this release also brings in the expert sounds of horn players Yoshiro Okazaki (trumpet), Takayuki Sato (alto sax), and Mabumi Yamaguchi (tenor sax) for three songs. In the rhythm section with the sparkling star are her regular trio members Koji Yasuda on bass and Masanori Ando on drums.

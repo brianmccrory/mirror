@@ -9,7 +9,10 @@ slug = "naoko-sakata-trio-flower-clouds"
 releaseYear = 2013
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-129"
-issue = 137
+[cover]
+  image = "naokosakata-flowerclouds-460.jpeg"
+  alt = "Cover art of Flower Clouds by Naoko Sakata Trio"
+  relative = true
 [[credits]]
   name = "Naoko Sakata"
   slug = "naoko-sakata"
@@ -23,10 +26,6 @@ issue = 137
   name = "Johan Birgenius"
   slug = "johan-birgenius"
   instrument = "drums"
-[cover]
-  image = "naokosakata-flowerclouds-460.jpeg"
-  alt = "Cover art of Flower Clouds by Naoko Sakata Trio"
-  relative = true
 +++
 
 The Naoko Sakata Trio’s second album _Flower Clouds_ from 2013 describes modern jazz in ethereal form, summoning images like glaciers slowly breaking, waves cresting, powerful and mysterious changes patiently unfolding. It is like floating on an ocean raft, subject to unpredictable swells and unsure of the next movement.

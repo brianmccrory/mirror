@@ -9,7 +9,10 @@ slug = "ruriko-kawamura-blossoms"
 releaseYear = 2016
 releaseLabel = "LooLoo Entertainment Records"
 releaseCode = "lulu001"
-issue = 146
+[cover]
+  image = "rurikokawamura-blossoms-460.jpeg"
+  alt = "Cover art of Blossoms by Ruriko Kawamura"
+  relative = true
 [[credits]]
   name = "Ruriko Kawamura"
   slug = "ruriko-kawamura"
@@ -30,10 +33,6 @@ issue = 146
   slug = "akira-sekine"
   instrument = "guitar"
   japanese = "関根彰良 Sekine Akira"
-[cover]
-  image = "rurikokawamura-blossoms-460.jpeg"
-  alt = "Cover art of Blossoms by Ruriko Kawamura"
-  relative = true
 +++
 
 Vocalist Ruriko Kawamura released _Blossoms_ in 2016, her second album following her 2011 debut record _Loo Loo_.

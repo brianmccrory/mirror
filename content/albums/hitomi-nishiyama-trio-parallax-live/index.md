@@ -9,7 +9,10 @@ slug = "hitomi-nishiyama-trio-parallax-live"
 releaseYear = 2016
 releaseLabel = "Meantone Records"
 releaseCode = "MT-007"
-issue = 37
+[cover]
+  image = "hitominishiyama-parallax-live-460.jpeg"
+  alt = "Cover art of Live by Hitomi Nishiyama Trio “Parallax”"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -25,10 +28,6 @@ issue = 37
   slug = "takehiro-shimizu"
   instrument = "drums"
   japanese = "清水勇博 Shimizu Takehiro"
-[cover]
-  image = "hitominishiyama-parallax-live-460.jpeg"
-  alt = "Cover art of Live by Hitomi Nishiyama Trio “Parallax”"
-  relative = true
 +++
 
 This 2016 album simply entitled _Live_ from Hitomi Nishiyama’s Parallax piano trio marks 10 years since her label debut _Cubium_ in 2006. With various projects and albums released under her name, this is the third release for her Parallax group, an edgier, groovier, and rhythmically-energized jazz piano trio.

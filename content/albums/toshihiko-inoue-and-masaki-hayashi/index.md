@@ -9,7 +9,10 @@ slug = "toshihiko-inoue-and-masaki-hayashi"
 releaseYear = 2013
 releaseLabel = "78 Label"
 releaseCode = "FNFY-06"
-issue = 144
+[cover]
+  image = "toshihikoinoue-mistral-460.jpeg"
+  alt = "Cover art of Mistral by Toshihiko Inoue & Masaki Hayashi"
+  relative = true
 [[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
@@ -20,10 +23,6 @@ issue = 144
   slug = "masaki-hayashi"
   instrument = "piano"
   japanese = "林正樹 Hayashi Masaki"
-[cover]
-  image = "toshihikoinoue-mistral-460.jpeg"
-  alt = "Cover art of Mistral by Toshihiko Inoue & Masaki Hayashi"
-  relative = true
 +++
 
 _Mistral_ is a soulful live jazz album from sax and piano duo Toshihiko Inoue and Masaki Hayashi, recorded in 2008 and released in 2013. Although the extended title _Mistral: Duo at Mister Kelly’s_ may seem to reference the historically famous Mister Kelly’s in Chicago and live albums from Sarah Vaughan, Ella Fitzgerald, and others, this Japanese jazz album was recorded at Mister Kelly’s jazz bar in Osaka, an independent venue named in honor of the famous American nightclub.

@@ -9,7 +9,10 @@ slug = "azumi-almost-like-being-in-love"
 releaseYear = 2010
 releaseLabel = "Jazz On Top Records"
 releaseCode = "JOT-1009-1"
-issue = 96
+[cover]
+  image = "azumi-almostlike-460.jpeg"
+  alt = "Cover art of Almost Like Being in Love by Azumi"
+  relative = true
 [[credits]]
   name = "Azumi"
   slug = "azumi"
@@ -30,10 +33,6 @@ issue = 96
   slug = "kengo-komae"
   instrument = "drums"
   japanese = "小前賢吾 Komae Kengo"
-[cover]
-  image = "azumi-almostlike-460.jpeg"
-  alt = "Cover art of Almost Like Being in Love by Azumi"
-  relative = true
 +++
 
 Jazz singer Azumi’s 2010 release _Almost Like Being in Love_ is a cheery and ebullient jazz album filled with fresh takes on classic jazz standards. With well-thought-out arrangements and a satisfying choice of tunes, a variation of moods with an undercurrent of lively swing is established right from the inviting title track. Other standards include “On Green Dolphin Street”, “My Favorite Things”, and “Raindrops Keep Falling On My Head”, played as a cute jazz march.

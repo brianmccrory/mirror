@@ -9,7 +9,10 @@ slug = "chihiro-yamanaka-trio-when-october"
 releaseYear = 2002
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-025"
-issue = 120
+[cover]
+  image = "chihiroyamanaka-october-460.jpeg"
+  alt = "Cover art of When October Goes by Chihiro Yamanaka Trio"
+  relative = true
 [[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
@@ -23,10 +26,6 @@ issue = 120
   name = "Jeff Ballard"
   slug = "jeff-ballard"
   instrument = "drums"
-[cover]
-  image = "chihiroyamanaka-october-460.jpeg"
-  alt = "Cover art of When October Goes by Chihiro Yamanaka Trio"
-  relative = true
 +++
 
 Chihiro Yamanaka’s second release _When October Goes_ was released in 2002, a natural followup to her impressive debut _Living Without Friday_ released the prior year. This second album features the pianist playing with new recording members Larry Grenadier on bass and Jeff Ballard on drums, members of the Brad Mehldau Trio who would continue to record and tour to great acclaim like Yamanaka herself.

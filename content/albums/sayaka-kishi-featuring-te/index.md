@@ -9,7 +9,10 @@ slug = "sayaka-kishi-featuring-te"
 releaseYear = 2014
 releaseLabel = "Roving Spirits"
 releaseCode = "RKC-8050"
-issue = 9
+[cover]
+  image = "sayakakishi-featte-460.jpeg"
+  alt = "Cover art of Featuring Te by Sayaka Kishi"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -25,10 +28,6 @@ issue = 9
   slug = "aya-kurosawa"
   instrument = "vocal (#11)"
   japanese = "黒沢綾 Kurosawa Aya"
-[cover]
-  image = "sayakakishi-featte-460.jpeg"
-  alt = "Cover art of Featuring Te by Sayaka Kishi"
-  relative = true
 +++
 
 _Featuring Te_, a 2014 release from pianist Sayaka Kishi, is a fun and bright collection of original solo piano tunes with some guest musicians contributing as well.

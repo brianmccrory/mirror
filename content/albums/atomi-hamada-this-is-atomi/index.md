@@ -9,7 +9,10 @@ slug = "atomi-hamada-this-is-atomi"
 releaseYear = 2017
 releaseLabel = "Atomi Hamada"
 releaseCode = "This is Atomi"
-issue = 33
+[cover]
+  image = "atomihamada-thisis-460.jpeg"
+  alt = "Cover art of This is Atomi by Atomi Hamada"
+  relative = true
 [[credits]]
   name = "Atomi Hamada"
   slug = "atomi-hamada"
@@ -25,10 +28,6 @@ issue = 33
   slug = "hiroaki-mizutani"
   instrument = "bass"
   japanese = "水谷浩章 Mizutani Hiroaki"
-[cover]
-  image = "atomihamada-thisis-460.jpeg"
-  alt = "Cover art of This is Atomi by Atomi Hamada"
-  relative = true
 +++
 
 Jazz singer Atomi Hamada releases _This is Atomi_, a five-track debut featuring songs she has loved as jazz instrumental standards. Here, using her voice as an instrument, she adds a fresh dimension to songs that some listeners may have heard only instrumentally before.

@@ -9,7 +9,10 @@ slug = "rabbitoo-national-anthem-of-unknown"
 releaseYear = 2014
 releaseLabel = "SONG X JAZZ"
 releaseCode = "SONG X 019"
-issue = 93
+[cover]
+  image = "rabbitoo-national-460.jpeg"
+  alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"
+  relative = true
 [[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
@@ -35,10 +38,6 @@ issue = 93
   slug = "noritaka-tanaka"
   instrument = "drums"
   japanese = "田中徳崇 Tanaka Noritaka"
-[cover]
-  image = "rabbitoo-national-460.jpeg"
-  alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"
-  relative = true
 +++
 
 The textured sound of Rabbitoo makes a lasting first impression on their debut album _National Anthem of Unknown Country_ from 2014, a fusion of jazz, rock, and electronica influences.

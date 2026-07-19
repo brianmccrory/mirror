@@ -9,7 +9,10 @@ slug = "minoru-yoshiki-soulstation-path-of-hope"
 releaseYear = 2019
 releaseLabel = "Urban Jazz"
 releaseCode = "Path of Hope"
-issue = 82
+[cover]
+  image = "minoruyoshiki-soulstation-path-460.jpeg"
+  alt = "Cover art of Path of Hope by Minoru Yoshiki Soulstation"
+  relative = true
 [[credits]]
   name = "Minoru Yoshiki"
   slug = "minoru-yoshiki"
@@ -25,10 +28,6 @@ issue = 82
   slug = "shuji-morita"
   instrument = "tenor sax"
   japanese = "森田修史 Morita Shuji"
-[cover]
-  image = "minoruyoshiki-soulstation-path-460.jpeg"
-  alt = "Cover art of Path of Hope by Minoru Yoshiki Soulstation"
-  relative = true
 +++
 
 > Special Guest Contribution // Press Release

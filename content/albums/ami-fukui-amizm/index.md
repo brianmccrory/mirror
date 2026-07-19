@@ -10,7 +10,10 @@ slug = "ami-fukui-amizm"
 releaseYear = 2013
 releaseLabel = "Peace Bass Records"
 releaseCode = "PBRS-0002"
-issue = 55
+[cover]
+  image = "amifukui-amizm-460.jpeg"
+  alt = "Cover art of Amizm by Ami Fukui"
+  relative = true
 [[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
@@ -27,10 +30,6 @@ issue = 55
   instrument = "drums"
   japanese = "福森康 Fukumori Yasushi"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
-[cover]
-  image = "amifukui-amizm-460.jpeg"
-  alt = "Cover art of Amizm by Ami Fukui"
-  relative = true
 +++
 
 Ami Fukui’s second album _Amizm_ advertises “Mellow and Groovy” on the label, and delivers a nice package of funky, Electrik Band-styled jazz. _Amizm_, this version of Fukui’s jazz piano trio format, brings together piano, electric keyboards, slick electric bass, and exciting drumming to imbue a classic and bright fusion jazz sound to Fukui’s modern compositions.

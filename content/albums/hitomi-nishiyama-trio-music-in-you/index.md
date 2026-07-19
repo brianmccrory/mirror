@@ -9,7 +9,10 @@ slug = "hitomi-nishiyama-trio-music-in-you"
 releaseYear = 2011
 releaseLabel = "Meantone Records"
 releaseCode = "MT-002"
-issue = 29
+[cover]
+  image = "hitominishiyama-musicinyou-460.jpeg"
+  alt = "Cover art of Music in You by Hitomi Nishiyama Trio"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -30,10 +33,6 @@ issue = 29
   slug = "ryosuke-hashizume"
   instrument = "tenor sax (#12)"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-[cover]
-  image = "hitominishiyama-musicinyou-460.jpeg"
-  alt = "Cover art of Music in You by Hitomi Nishiyama Trio"
-  relative = true
 +++
 
 Hitomi Nishiyama’s 2011 album _Music in You_ features an established trio that shares a cohesive sensibility, creating beautiful textural moods with European-flavored jazz influences. As befits a group of skilled jazz musicians, the players breathe as one while creating textures of sound, restrained yet deep with emotion.

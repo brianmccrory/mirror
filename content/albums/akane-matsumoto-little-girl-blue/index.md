@@ -9,17 +9,16 @@ slug = "akane-matsumoto-little-girl-blue"
 releaseYear = 2022
 releaseLabel = "Concept Records"
 releaseCode = "CR-14"
-issue = 212
+[cover]
+  image = "akane-matsumoto-little-girl-blue-460.jpeg"
+  alt = "Cover art of Little Girl Blue by Akane Matsumoto"
+  relative = true
 [[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
 related = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
-[cover]
-  image = "akane-matsumoto-little-girl-blue-460.jpeg"
-  alt = "Cover art of Little Girl Blue by Akane Matsumoto"
-  relative = true
 +++
 
 Akane Matsumoto’s solo piano album _Little Girl Blue_ from 2022 is full of good moods and good vibes, definitely different from any downcast implications that the album title may imply. A comfortable 42 minutes of traditional jazz standards from the 1930s-60s, this is feel-good music, happy jazz with a heartfelt beat, and even the most melancholy song, “Too Late Now”, is more likely to evoke a wistful smile than sorrowful tears.

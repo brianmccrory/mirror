@@ -9,7 +9,10 @@ slug = "yukakoyamano-yukariinoue-dubai"
 releaseYear = 2021
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKCJ-0006"
-issue = 148
+[cover]
+  image = "yukakoyamano-dubai-460.jpeg"
+  alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"
+  relative = true
 [[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
@@ -20,10 +23,6 @@ issue = 148
   slug = "yukari-inoue"
   instrument = "piano"
   japanese = "井上ゆかり Inoue Yukari"
-[cover]
-  image = "yukakoyamano-dubai-460.jpeg"
-  alt = "Cover art of Dubai Suite by Yukako Yamano & Yukari Inoue"
-  relative = true
 +++
 
 Pianists Yukako Yamano and Yukari Inoue make music with two pianos on this mini-album of cheerful exuberance. _Dubai Suite_ is a five-part composition by Yukako Yamano which reflects her appreciation for the exotic locale the music is named for. She recorded this album in anticipation of a late 2021 return trip to Dubai. Based in Tokyo and with frequent travels throughout America, Europe, Asia, and Africa, Yamano has also been to Dubai twice.

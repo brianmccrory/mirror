@@ -10,17 +10,16 @@ slug = "seiji-endo-sakura-meditation"
 releaseYear = 2012
 releaseLabel = "Concordia"
 releaseCode = "CONR-002"
-issue = 59
+[cover]
+  image = "seijiendo-sakura-460.jpeg"
+  alt = "Cover art of Sakura Meditation by Seiji Endo"
+  relative = true
 [[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "piano, composition"
   japanese = "遠藤征志 Endo Seiji"
 related = ["naoko-akimoto-no-one-else", "seiji-endo-tsutaete-ikou", "ruriko-kawamura-blossoms", "rie-taguchi-gift", "seiji-endo-circle-for-peace", "hiroco-nagano-okurimono", "seiji-endo-genji-monogatari-volume-1", "rie-taguchi-the-gift-ii"]
-[cover]
-  image = "seijiendo-sakura-460.jpeg"
-  alt = "Cover art of Sakura Meditation by Seiji Endo"
-  relative = true
 +++
 
 _Sakura Meditation_ from pianist Seiji Endo is a gorgeous collection of evocative solo piano pieces. Through the ten tracks, Endo searches for and finds the perfect phrases and dramatic touches to draw out emotion from his beautiful and pure compositions.

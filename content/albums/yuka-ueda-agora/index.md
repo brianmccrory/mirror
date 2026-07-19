@@ -9,7 +9,10 @@ slug = "yuka-ueda-agora"
 releaseYear = 2011
 releaseLabel = "Audio Fab Records"
 releaseCode = "AFD-106"
-issue = 116
+[cover]
+  image = "yukaueda-agora-460.jpeg"
+  alt = "Cover art of Agora by Yuka Ueda"
+  relative = true
 [[credits]]
   name = "Yuka Ueda"
   slug = "yuka-ueda"
@@ -30,10 +33,6 @@ issue = 116
   slug = "daisuke-toi"
   instrument = "piano (#8), electric bass (#10)"
   japanese = "トオイダイスケ Toi Daisuke"
-[cover]
-  image = "yukaueda-agora-460.jpeg"
-  alt = "Cover art of Agora by Yuka Ueda"
-  relative = true
 +++
 
 _Agora_ is the 2011 debut release from vocalist Yuka Ueda who specializes in Brazilian samba and bossa nova music, singing primarily in Portuguese at jazz bars throughout Japan.

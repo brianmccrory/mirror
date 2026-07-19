@@ -9,7 +9,10 @@ slug = "rie-taguchi-the-gift-ii"
 releaseYear = 2021
 releaseLabel = "Studio TLive Records"
 releaseCode = "STLR-021"
-issue = 169
+[cover]
+  image = "rietaguchi-gift-ii-460.jpeg"
+  alt = "Cover art of The Gift II by Rie Taguchi"
+  relative = true
 [[credits]]
   name = "Rie Taguchi"
   slug = "rie-taguchi"
@@ -45,10 +48,6 @@ issue = 169
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[cover]
-  image = "rietaguchi-gift-ii-460.jpeg"
-  alt = "Cover art of The Gift II by Rie Taguchi"
-  relative = true
 +++
 
 Vocalist and pianist Rie Taguchi delivers a follow-up to her debut album _[The Gift](/rie-taguchi-gift/)_ with her 2021 album naturally titled _The Gift II_. This swinging outing features her Special Sextet as before with new outstanding arrangements.

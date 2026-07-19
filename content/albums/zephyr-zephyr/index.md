@@ -9,7 +9,10 @@ slug = "zephyr-zephyr"
 releaseYear = 2013
 releaseLabel = "What’s New Records"
 releaseCode = "WNCJ-2249"
-issue = 72
+[cover]
+  image = "zephyr-zephyr-460.jpeg"
+  alt = "Cover art of Zephyr by Zephyr"
+  relative = true
 [[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
@@ -25,10 +28,6 @@ issue = 72
   slug = "takashi-amano"
   instrument = "electric guitar"
   japanese = "天野丘 Amano Takashi"
-[cover]
-  image = "zephyr-zephyr-460.jpeg"
-  alt = "Cover art of Zephyr by Zephyr"
-  relative = true
 +++
 
 Through jazz, folk, rock, and imagination, the music on _Zephyr_ unfurls like smoke rising from fragrant incense, floating and curling in beautiful patterns in the air. A trio consisting of saxophone, acoustic guitar, and electric guitar, the front-forward unit is unbound by genre, producing otherworldly sounds evocative of folk songs from a distant world.

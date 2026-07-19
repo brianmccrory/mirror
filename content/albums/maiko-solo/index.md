@@ -9,16 +9,15 @@ slug = "maiko-solo"
 releaseYear = 2018
 releaseLabel = "T-Toc Records"
 releaseCode = "TTOC-0029"
-issue = 107
+[cover]
+  image = "maiko-solo-460.jpeg"
+  alt = "Cover art of Solo by Maiko"
+  relative = true
 [[credits]]
   name = "maiko"
   slug = "maiko"
   instrument = "violin"
   japanese = "マイコ maiko"
-[cover]
-  image = "maiko-solo-460.jpeg"
-  alt = "Cover art of Solo by Maiko"
-  relative = true
 +++
 
 Jazz violinist Maiko pours her heart and soul out on her 2018 release _Solo_, brimming with graceful elegance and drama through the resonance of her strings.

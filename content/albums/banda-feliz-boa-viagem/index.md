@@ -9,7 +9,10 @@ slug = "banda-feliz-boa-viagem"
 releaseYear = 2020
 releaseLabel = "Feliz Record"
 releaseCode = "FLZ-0001"
-issue = 257
+[cover]
+  image = "banda-feliz-boa-viagem-460.jpeg"
+  alt = "Cover art of Boa Viagem by Banda Feliz"
+  relative = true
 [[credits]]
   name = "Makiyo Sakai"
   slug = "makiyo-sakai"
@@ -40,10 +43,6 @@ issue = 257
   slug = "satoshi-ishikawa"
   instrument = "drums"
   japanese = "石川智 Ishikawa Satoshi"
-[cover]
-  image = "banda-feliz-boa-viagem-460.jpeg"
-  alt = "Cover art of Boa Viagem by Banda Feliz"
-  relative = true
 +++
 
 Banda Feliz is a group of Tokyo musicians playing festive Brazilian music, originals and covers, centered around Makiyo Sakai’s robust and jazzy flute playing. Her lighter-than-air flute sound is buoyed by her full six-piece palette with trombone, guitar, piano, bass, and drums, and the group’s voices happily join the melodies at times for extra oomph.

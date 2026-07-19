@@ -9,7 +9,10 @@ slug = "takayuki-yagi-new-departure"
 releaseYear = 2018
 releaseLabel = "JazzTOKYO RECORDS"
 releaseCode = "JTRC-002"
-issue = 127
+[cover]
+  image = "takayukiyagi-newdeparture-460.jpeg"
+  alt = "Cover art of New Departure by Takayuki Yagi"
+  relative = true
 [[credits]]
   name = "Takayuki Yagi"
   slug = "takayuki-yagi"
@@ -31,10 +34,6 @@ issue = 127
   name = "Billy Drummond"
   slug = "billy-drummond"
   instrument = "drums"
-[cover]
-  image = "takayukiyagi-newdeparture-460.jpeg"
-  alt = "Cover art of New Departure by Takayuki Yagi"
-  relative = true
 +++
 
 Pianist Takayuki Yagi’s 2018 release _New Departure_ brings him together with stars of the New York jazz scene for a solid collaboration of New York and Tokyo energies.

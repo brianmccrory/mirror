@@ -9,7 +9,10 @@ slug = "ryosuke-hashizume-needful-things"
 releaseYear = 2009
 releaseLabel = "Grapes Records"
 releaseCode = "GPS-1206"
-issue = 22
+[cover]
+  image = "ryosukehashizume-needfulthings-460.jpeg"
+  alt = "Cover art of Needful Things by Ryosuke Hashizume"
+  relative = true
 [[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
@@ -30,10 +33,6 @@ issue = 22
   slug = "yasutaka-yorozu"
   instrument = "bass"
   japanese = "萬恭隆 Yorozu Yasutaka"
-[cover]
-  image = "ryosukehashizume-needfulthings-460.jpeg"
-  alt = "Cover art of Needful Things by Ryosuke Hashizume"
-  relative = true
 +++
 
 Four accomplished musicians reunite for _Needful Things_, a live recording of original compositions, bewitching music with a touching beauty.

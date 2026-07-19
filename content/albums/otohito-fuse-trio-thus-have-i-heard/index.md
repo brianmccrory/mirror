@@ -9,7 +9,10 @@ slug = "otohito-fuse-trio-thus-have-i-heard"
 releaseYear = 2025
 releaseLabel = "Otohito Fuse Music"
 releaseCode = "OFM-002"
-issue = 371
+[cover]
+  image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
+  alt = "Cover art of Thus Have I Heard by Otohito Fuse Trio"
+  relative = true
 [[credits]]
   name = "Otohito Fuse"
   slug = "otohito-fuse"
@@ -26,10 +29,6 @@ issue = 371
   instrument = "drums"
   japanese = "中村海斗 Nakamura Kaito"
 related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
-[cover]
-  image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
-  alt = "Cover art of Thus Have I Heard by Otohito Fuse Trio"
-  relative = true
 +++
 
 _This I Have Heard_ is a 2025 release from pianist Otohito Fuse, a second album as a leader quick on the heels of his _Isolated_ from 2024. Joining him on this release are his regular trio members, Riku Takahashi on bass and Kaito Nakamura on drums. It’s a continuation and evolution of the trio sound created on their previous release, with an increased maturity and depth added to the new music. This music is patient and deep, and while there are intense tempos with free-flowing jazz improvisation and burning solos, the musicians do not hurry to get there, as if there is an abundance of confidence in building beautiful moments that will come together when the time is right.

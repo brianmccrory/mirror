@@ -9,7 +9,10 @@ slug = "maiko-trio-live-three"
 releaseYear = 2016
 releaseLabel = "The Glee"
 releaseCode = "GPHR-16011"
-issue = 92
+[cover]
+  image = "maikotrio-three-460.jpeg"
+  alt = "Cover art of Live! Three by Maiko Trio"
+  relative = true
 [[credits]]
   name = "maiko"
   slug = "maiko"
@@ -25,10 +28,6 @@ issue = 92
   slug = "shikou-ito"
   instrument = "piano"
   japanese = "伊藤志宏 Ito Shikou"
-[cover]
-  image = "maikotrio-three-460.jpeg"
-  alt = "Cover art of Live! Three by Maiko Trio"
-  relative = true
 +++
 
 _Jazz violinist Maiko trio live! Three_ captures a night in Tokyo in 2016, recorded live at The Glee concert hall and released as a CD and high-resolution download later that year. Jazz violinist Maiko leads the trio which includes well-known fusion guitarist Hiroki Miyano and popular in-demand pianist Shikou Ito.

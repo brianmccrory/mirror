@@ -9,7 +9,10 @@ slug = "daiki-yasukagawa-trio-kanmai"
 releaseYear = 2012
 releaseLabel = "D-Neo Daiki Musica"
 releaseCode = "DNCD-01"
-issue = 80
+[cover]
+  image = "daikiyasukagawa-kanmai-460.jpeg"
+  alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"
+  relative = true
 [[credits]]
   name = "Daiki Yasukagawa"
   slug = "daiki-yasukagawa"
@@ -25,10 +28,6 @@ issue = 80
   slug = "manabu-hashimoto"
   instrument = "drums"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "daikiyasukagawa-kanmai-460.jpeg"
-  alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"
-  relative = true
 +++
 
 Like the expansive cover depicting a peaceful blue ocean and sky, jazz bassist Daiki Yasukagawa’s trio on _Kanmai_ creates a mood of a rolling deep and lofty grace.

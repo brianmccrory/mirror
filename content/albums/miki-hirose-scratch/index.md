@@ -9,7 +9,10 @@ slug = "miki-hirose-scratch"
 releaseYear = 2013
 releaseLabel = "Jazz Lab Records"
 releaseCode = "JLR-1301"
-issue = 128
+[cover]
+  image = "mikihirose-scratch-460.jpeg"
+  alt = "Cover art of Scratch by Miki Hirose"
+  relative = true
 [[credits]]
   name = "Miki Hirose"
   slug = "miki-hirose"
@@ -36,10 +39,6 @@ issue = 128
   name = "Mauricio Herrera"
   slug = "mauricio-herrera"
   instrument = "congas (#1, 3, 4)"
-[cover]
-  image = "mikihirose-scratch-460.jpeg"
-  alt = "Cover art of Scratch by Miki Hirose"
-  relative = true
 +++
 
 Trumpeter Miki Hirose’s _Scratch_ from 2013 sizzles with energy, fueled by impeccable trumpet lines fronting a jazz quintet on this outing. Extra propulsion is garnered from the addition of congas on three of the seven tracks, with funky, Latin, and modern New York jazz vibrations coming together for a satisfying balance of cerebral and physical stimulation. Boiling turbulence, confident swagger, and well-thought out ideas burst acrobatically from the tracks, scratching the itch for flashy yet discerning music.

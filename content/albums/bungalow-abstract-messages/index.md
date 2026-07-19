@@ -9,7 +9,10 @@ slug = "bungalow-abstract-messages"
 releaseYear = 2020
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10109"
-issue = 200
+[cover]
+  image = "bungalow-abstract-messages-460.jpeg"
+  alt = "Cover art of Abstract Messages by Bungalow"
+  relative = true
 [[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
@@ -33,10 +36,6 @@ issue = 200
   slug = "gordon-richter"
   instrument = "clarinet & bassoon"
 related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
-[cover]
-  image = "bungalow-abstract-messages-460.jpeg"
-  alt = "Cover art of Abstract Messages by Bungalow"
-  relative = true
 +++
 
 _Abstract Messages_ is the final record from the group Bungalow, an album created under unique circumstances and with a different structure from previous releases. A mix of acoustic instruments and electronic sounds, the album is not only full of beautiful music but is also an accomplishment of coordination, both in its creation and the dynamic of the music.

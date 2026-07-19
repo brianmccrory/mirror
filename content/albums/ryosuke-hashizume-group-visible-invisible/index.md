@@ -9,7 +9,10 @@ slug = "ryosuke-hashizume-group-visible-invisible"
 releaseYear = 2013
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS-1304"
-issue = 67
+[cover]
+  image = "ryosukehashizume-visible-460.jpeg"
+  alt = "Cover art of Best Wishes by Maki Fujimura"
+  relative = true
 [[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
@@ -35,10 +38,6 @@ issue = 67
   slug = "manabu-hashimoto"
   instrument = "drums, percussion"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "ryosukehashizume-visible-460.jpeg"
-  alt = "Cover art of Best Wishes by Maki Fujimura"
-  relative = true
 +++
 
 Music that takes you places, _Visible/Invisible_ from the Ryosuke Hashizume Group presents six works of art from the saxophonist/composer, perfectly executed by the five musicians, through mellow, warm electric guitar, grooving and smooth electric fretless bass, organic and emotive piano, thrillingly creative drumming, and center-stage visceral tenor sax, filling out the spaces of otherworldly jazz.

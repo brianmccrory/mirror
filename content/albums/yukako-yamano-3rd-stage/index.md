@@ -9,16 +9,15 @@ slug = "yukako-yamano-3rd-stage"
 releaseYear = 2017
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKRN-0003"
-issue = 151
+[cover]
+  image = "yukakoyamano-third-460.jpeg"
+  alt = "Cover art of 3rd Stage by Yukako Yamano"
+  relative = true
 [[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
   instrument = "piano"
   japanese = "山野友佳子 Yamano Yukako"
-[cover]
-  image = "yukakoyamano-third-460.jpeg"
-  alt = "Cover art of 3rd Stage by Yukako Yamano"
-  relative = true
 +++
 
 Yukako Yamano’s _3rd Stage_ is the third album in her live set series, following her _1st Stage_ and _2nd Stage_ naturally and wrapping up the symbolic three-set performance established by the album titles. With ten tracks and a running time of approximately 60 minutes, _3rd Stage_ demonstrates Yamano’s funky, poppy, delicate, and groovy sides through mostly original songs with a few covers as well.

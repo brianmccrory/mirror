@@ -9,16 +9,15 @@ slug = "seiji-endo-circle-for-peace"
 releaseYear = 2016
 releaseLabel = "Nippon Acoustic Records, Inc"
 releaseCode = "NARP-8009"
-issue = 19
+[cover]
+  image = "seijiendo-circle-460.jpeg"
+  alt = "Cover art of Circle for Peace by Seiji Endo"
+  relative = true
 [[credits]]
   name = "Seiji Endo"
   slug = "seiji-endo"
   instrument = "solo piano and compositions"
   japanese = "遠藤征志 Endo Seiji"
-[cover]
-  image = "seijiendo-circle-460.jpeg"
-  alt = "Cover art of Circle for Peace by Seiji Endo"
-  relative = true
 +++
 
 Seiji Endo, a poet at the piano, plays his original compositions for solo piano on his second solo album _Circle for Peace_. While he plays unaccompanied throughout, a children’s choir (Zushi Iruka Jido Gasshoudan) also joins him briefly on tracks 1 and 11, reminding one of the childlike purity and hopefulness conceived in his music.

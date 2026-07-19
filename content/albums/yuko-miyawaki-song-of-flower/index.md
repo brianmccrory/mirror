@@ -9,7 +9,10 @@ slug = "yuko-miyawaki-song-of-flower"
 releaseYear = 2011
 releaseLabel = "Coume Music"
 releaseCode = "DQC-614"
-issue = 111
+[cover]
+  image = "yukomiyawaki-songof-460.jpeg"
+  alt = "Cover art of Song of Flower by Yuko Miyawaki"
+  relative = true
 [[credits]]
   name = "Yuko Miyawaki"
   slug = "yuko-miyawaki"
@@ -40,10 +43,6 @@ issue = 111
   slug = "junichiro-ohkuchi"
   instrument = "piano (tr. #3, 5, 6, 8, 9)"
   japanese = "大口純一郎 Ohkuchi Junichiro"
-[cover]
-  image = "yukomiyawaki-songof-460.jpeg"
-  alt = "Cover art of Song of Flower by Yuko Miyawaki"
-  relative = true
 +++
 
 Japanese jazz musician Yuko Miyawaki’s debut album _Song of Flower_ from 2011 brims with understated calm, burning steadily through original, mellow sounds and sparkling improvisation. Miyawaki’s trumpet and flugelhorn centers her core jazz quartet, adding a fifth member on tenor sax to embellish her jazz themes with sweet harmonies and cutting solos on four tracks.

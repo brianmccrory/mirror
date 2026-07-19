@@ -9,7 +9,10 @@ slug = "mie-joke-etrenne"
 releaseYear = 2018
 releaseLabel = "Ultra Art Record"
 releaseCode = "UA-1001"
-issue = 84
+[cover]
+  image = "miejoke-etrenne-460.jpeg"
+  alt = "Cover art of Etrenne by Mie Joké"
+  relative = true
 [[credits]]
   name = "Mie Joké"
   slug = "mie-joke"
@@ -50,10 +53,6 @@ issue = 84
   slug = "wataru-hamasaki"
   instrument = "sax, flute (tr. #6-11)"
   japanese = "浜崎航 Hamasaki Wataru"
-[cover]
-  image = "miejoke-etrenne-460.jpeg"
-  alt = "Cover art of Etrenne by Mie Joké"
-  relative = true
 +++
 
 Jazz vocalist Mie Joké’s 2018 release _Etrenne_ is a fun and fancy swing jazz outing, a fresh throwback to classic vocal jazz recordings. Like the best of jazz lover’s disks, this collection hits the mark with a great selection of familiar jazz standards performed with a loving touch.

@@ -9,7 +9,10 @@ slug = "melodies-melodies"
 releaseYear = 2025
 releaseLabel = "Ammonite Musique"
 releaseCode = "AM-006"
-issue = 315
+[cover]
+  image = "melodies-melodies-460.jpeg"
+  alt = "Cover art of Melodies by Melodies"
+  relative = true
 [[credits]]
   name = "Motohiko Ichino"
   slug = "motohiko-ichino"
@@ -31,10 +34,6 @@ issue = 315
   instrument = "drums"
   japanese = "外山明 Sotoyama Akira"
 related = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
-[cover]
-  image = "melodies-melodies-460.jpeg"
-  alt = "Cover art of Melodies by Melodies"
-  relative = true
 +++
 
 The band Melodies released their self-titled debut album in January 2025, under the leadership of guitarist and composer Motohiko Ichino. Ichino’s music is rooted in his otherworldly compositions and full-bodied guitar tone, a structure that Melodies expands upon with two entwining saxophones and adventurously roaming drums.

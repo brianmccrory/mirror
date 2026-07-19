@@ -9,7 +9,10 @@ slug = "emiko-voice-carta"
 releaseYear = 2017
 releaseLabel = "Zipangu Label"
 releaseCode = "ZIP-0058"
-issue = 5
+[cover]
+  image = "emikovoice-carta-square-460.jpeg"
+  alt = "Cover art of Carta by Emiko Voice"
+  relative = true
 [[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
@@ -45,10 +48,6 @@ issue = 5
   slug = "keita-okada"
   instrument = "drums, percussion"
   japanese = "岡田ケイタ Okada Keita"
-[cover]
-  image = "emikovoice-carta-square-460.jpeg"
-  alt = "Cover art of Carta by Emiko Voice"
-  relative = true
 +++
 
 An elegant package inside and out, brimming with atmosphere. The outer package is a slim booklet, containing photography, a poem, and an essay. The music itself is a modern take on classic jazz songs with Japanese words and flavor sprinkled throughout, featuring excellent arrangements by pianist Koichi Sato.

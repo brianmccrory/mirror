@@ -9,7 +9,10 @@ slug = "mamoru-ishida-afterglow"
 releaseYear = 2023
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-039"
-issue = 269
+[cover]
+  image = "mamoru-ishida-afterglow-460.jpeg"
+  alt = "Cover art of Afterglow by Mamoru Ishida"
+  relative = true
 [[credits]]
   name = "Mamoru Ishida"
   slug = "mamoru-ishida"
@@ -26,10 +29,6 @@ issue = 269
   instrument = "drums"
   japanese = "中村海斗 Nakamura Kaito"
 related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "mamoru-ishida-ishida-mamoru-4-feat", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin", "miwo-tranquillo", "nami-kano-mawsim"]
-[cover]
-  image = "mamoru-ishida-afterglow-460.jpeg"
-  alt = "Cover art of Afterglow by Mamoru Ishida"
-  relative = true
 +++
 
 _Afterglow_ is the latest recording from pianist Mamoru Ishida, released in 2023 and recorded in 2022 with his trio featuring Ryohei Komaki on bass and Kaito Nakamura on drums. The sixty-four minute, ten-track album is filled with his original compositions and is his first leader album in twelve years, although he’s stayed active with live shows and other recording sessions throughout. Days of Delight, the new Japanese record label, set the direction of having a trio format with Ishida’s originals and describes the situation glowingly in the liner notes.

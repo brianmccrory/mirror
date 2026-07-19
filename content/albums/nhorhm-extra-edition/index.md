@@ -9,7 +9,10 @@ slug = "nhorhm-extra-edition"
 releaseYear = 2019
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS1905"
-issue = 87
+[cover]
+  image = "hitominishiyama-nhorhm-extra-460.jpeg"
+  alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -25,10 +28,6 @@ issue = 87
   slug = "manabu-hashimoto"
   instrument = "drums"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "hitominishiyama-nhorhm-extra-460.jpeg"
-  alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"
-  relative = true
 +++
 
 An unlikely fusion of heavy metal and modern jazz strikes all the right chords on NHORHM’s fourth album _New Heritage Of Real Heavy Metal -Extra Edition-_, released in 2019 in Japan.

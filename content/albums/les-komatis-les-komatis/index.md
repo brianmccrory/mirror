@@ -9,7 +9,10 @@ slug = "les-komatis-les-komatis"
 releaseYear = 2015
 releaseLabel = "F.S.L"
 releaseCode = "FSCJ-0007"
-issue = 35
+[cover]
+  image = "leskomatis-leskomatis-460.jpeg"
+  alt = "Cover art of Les Komatis by Les Komatis"
+  relative = true
 [[credits]]
   name = "Nobie"
   slug = "nobie"
@@ -30,10 +33,6 @@ issue = 35
   slug = "nobumasa-yamada"
   instrument = "percussion"
   japanese = "山田ノブマサ Yamada Nobumasa"
-[cover]
-  image = "leskomatis-leskomatis-460.jpeg"
-  alt = "Cover art of Les Komatis by Les Komatis"
-  relative = true
 +++
 
 Three established musicians join up to release Les Komatis, a rich fusion of jazz, pop, and Brazilian influences combined for thrilling and moving music.

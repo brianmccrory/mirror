@@ -9,7 +9,10 @@ slug = "yuka-ueda-dois"
 releaseYear = 2013
 releaseLabel = "Audio Fab Records"
 releaseCode = "AFD-110"
-issue = 129
+[cover]
+  image = "yukaueda-dois-460.jpeg"
+  alt = "Cover art of Dois by Yuka Ueda"
+  relative = true
 [[credits]]
   name = "Yuka Ueda"
   slug = "yuka-ueda"
@@ -40,10 +43,6 @@ issue = 129
   slug = "jo-da-babylonia"
   instrument = "cavaquinho (#1, 8, 9)"
   japanese = "ジョー・ダ・バビロニア Babylonia Jo da"
-[cover]
-  image = "yukaueda-dois-460.jpeg"
-  alt = "Cover art of Dois by Yuka Ueda"
-  relative = true
 +++
 
 On Yuka Ueda’s 2013 release _Dois,_ the Japanese singer assembles thirteen songs from her Brazilian and Latin repertoire that she’s perfected at live spots and events around Japan. The track listing satisfies with many deep gems and a few common Jobim tunes, a boon for jazz listeners who may be weary of the usual bossa novas. Definitely not background music, this album is active with a strong spirit and spicy energy powered by swaying hip rhythms and oscillations tuned to the bones.

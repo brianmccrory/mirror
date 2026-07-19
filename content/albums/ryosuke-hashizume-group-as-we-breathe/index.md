@@ -9,7 +9,10 @@ slug = "ryosuke-hashizume-group-as-we-breathe"
 releaseYear = 2008
 releaseLabel = "BounDEE Jazz Library"
 releaseCode = "DDCJ-13004/DDCJ-7004"
-issue = 323
+[cover]
+  image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
+  alt = "Cover art of As We Breathe by Ryosuke Hashizume Group"
+  relative = true
 [[credits]]
   name = "Ryosuke Hashizume"
   slug = "ryosuke-hashizume"
@@ -41,10 +44,6 @@ issue = 323
   instrument = "piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)"
   japanese = "浅川太平 Asakawa Taihei"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-side-two", "ryosuke-hashizume-group-incomplete-voices"]
-[cover]
-  image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
-  alt = "Cover art of As We Breathe by Ryosuke Hashizume Group"
-  relative = true
 +++
 
 _As We Breathe_ is the 2008 release from the Ryosuke Hashizume Group, a sax-led ensemble of sax, guitar, drums,  bass, and piano. This jazz-quintet combination of instruments and players forms the perfect medium for bringing Hashizume’s penned compositions to life. I’ve introduced this group’s other releases at earlier points, although in an out-of-order sequence, so this article completes the set of the group’s six releases to date.

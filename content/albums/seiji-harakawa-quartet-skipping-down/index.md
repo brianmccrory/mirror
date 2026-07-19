@@ -9,7 +9,10 @@ slug = "seiji-harakawa-quartet-skipping-down"
 releaseYear = 2020
 releaseLabel = "T & A Music"
 releaseCode = "SEI-001"
-issue = 186
+[cover]
+  image = "seiji-harakawa-skipping-down-460.jpeg"
+  alt = "Cover art of Skipping Down the Street by Seiji Harakawa Quartet"
+  relative = true
 [[credits]]
   name = "Seiji Harakawa"
   slug = "seiji-harakawa"
@@ -30,10 +33,6 @@ issue = 186
   slug = "fukushi-tainaka"
   instrument = "drums"
   japanese = "田井中福司 Tainaka Fukushi"
-[cover]
-  image = "seiji-harakawa-skipping-down-460.jpeg"
-  alt = "Cover art of Skipping Down the Street by Seiji Harakawa Quartet"
-  relative = true
 +++
 
 Phrases like good honest work and good clean fun convey the simple and satisfying rewards that result from high levels of skill, effort, and enjoyment. Good honest music is a simple but to-the-point description of saxophonist Seiji Harakawa’s debut album _Skipping Down the Street_, an excellent showcase for the agile alto sax leader and rhythm section to project their skill, effort, and enjoyment of jazz.

@@ -9,7 +9,10 @@ slug = "kanoko-kitajima-long-way-to-go"
 releaseYear = 2019
 releaseLabel = "T&A Music"
 releaseCode = "Long Way to Go"
-issue = 308
+[cover]
+  image = "kanoko-kitajima-long-way-to-go-460.jpeg"
+  alt = "Cover art of Long Way to Go by Kanoko Kitajima"
+  relative = true
 [[credits]]
   name = "Kanoko Kitajima"
   slug = "kanoko-kitajima"
@@ -26,10 +29,6 @@ issue = 308
   instrument = "drums"
   japanese = "田井中福司 Tainaka Fukushi"
 related = ["fumika-asari-introducin"]
-[cover]
-  image = "kanoko-kitajima-long-way-to-go-460.jpeg"
-  alt = "Cover art of Long Way to Go by Kanoko Kitajima"
-  relative = true
 +++
 
 _Long Way to Go_ is the title of pianist Kanoko Kitajima’s debut album, recorded and released in 2019. The sound of her piano trio recalls the swinging, bluesy trios of pianists like Wynton Kelly, Red Garland, and others from the 1950s and 60s Blue Note era. Added to that rich background is a dedicated Japanese interpretation of classic American jazz with an exciting New York City vibe as shown in the album cover.

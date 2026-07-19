@@ -9,7 +9,10 @@ slug = "masako-kunisada-m"
 releaseYear = 2014
 releaseLabel = "Masaki Kunisada"
 releaseCode = "M"
-issue = 71
+[cover]
+  image = "masakokunisada-m-460.jpeg"
+  alt = "Cover art of M by Masako Kunisada"
+  relative = true
 [[credits]]
   name = "Masako Kunisada"
   slug = "masako-kunisada"
@@ -25,10 +28,6 @@ issue = 71
   slug = "m-oto"
   instrument = "human beat box (tracks #2, 4, 5, 7)"
   japanese = "エムオート M-oto"
-[cover]
-  image = "masakokunisada-m-460.jpeg"
-  alt = "Cover art of M by Masako Kunisada"
-  relative = true
 +++
 
 The deep, soulful voice of Masako Kunisada warmly embraces the listener on her 2014 recording _M_, performing classic jazz tunes as well as selections from the 70’s/80’s American soft-rock songbook, and closing with a tender ballad.

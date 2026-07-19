@@ -9,7 +9,10 @@ slug = "manabu-ohishi-trio-gift"
 releaseYear = 2012
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-122"
-issue = 110
+[cover]
+  image = "manabuohishi-gift-460.jpeg"
+  alt = "Cover art of Gift by Manabu Ohishi Trio"
+  relative = true
 [[credits]]
   name = "Manabu Ohishi"
   slug = "manabu-ohishi"
@@ -23,10 +26,6 @@ issue = 110
   name = "Simon Goubert"
   slug = "simon-goubert"
   instrument = "drums"
-[cover]
-  image = "manabuohishi-gift-460.jpeg"
-  alt = "Cover art of Gift by Manabu Ohishi Trio"
-  relative = true
 +++
 
 With the jazz album _Gift_ from 2012, pianist and composer Manabu Ohishi reunites the trio from his album _Wish_ (2010) featuring bassist Jean-Philippe Viret and drummer Simon Goubert, and releases another beautifully-recorded album of Japanese/European piano jazz from the family-run Japanese label Atelier Sawano label.

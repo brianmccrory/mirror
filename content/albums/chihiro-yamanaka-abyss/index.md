@@ -9,7 +9,10 @@ slug = "chihiro-yamanaka-abyss"
 releaseYear = 2007
 releaseLabel = "Verve"
 releaseCode = "UCCJ-2060"
-issue = 324
+[cover]
+  image = "chihiro-yamanaka-abyss-460.jpeg"
+  alt = "Cover art of Abyss by Chihiro Yamanaka"
+  relative = true
 [[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
@@ -24,10 +27,6 @@ issue = 324
   slug = "kendrick-scott"
   instrument = "drums"
 related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing", "chihiro-yamanaka-lach-doch-mal"]
-[cover]
-  image = "chihiro-yamanaka-abyss-460.jpeg"
-  alt = "Cover art of Abyss by Chihiro Yamanaka"
-  relative = true
 +++
 
 _Abyss_ is a 2007 studio album from pianist Chihiro Yamanaka, recorded with bandmates Vicente Archer on bass and Kendrick Scott on drums. Like her previous albums, this is a jazz piano trio album featuring Yamanaka’s creative arrangements and impressive piano solos. With Archer and Scott as bandmates, the lineup on this album is a new one, as previous releases featured bassists Larry Grenadier and Robert Hurst, and drummers Jeff Ballard and Jeff “Tain” Watts, among others.

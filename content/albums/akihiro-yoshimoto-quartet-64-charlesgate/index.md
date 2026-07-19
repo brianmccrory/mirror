@@ -9,7 +9,10 @@ slug = "akihiro-yoshimoto-quartet-64-charlesgate"
 releaseYear = 2022
 releaseLabel = "Quint Co. Ltd. / Chitei Records"
 releaseCode = "B102F"
-issue = 185
+[cover]
+  image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
+  alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"
+  relative = true
 [[credits]]
   name = "Akihiro Yoshimoto"
   slug = "akihiro-yoshimoto"
@@ -30,10 +33,6 @@ issue = 185
   slug = "makoto-togashi"
   instrument = "bass"
   japanese = "冨樫マコト Togashi Makoto"
-[cover]
-  image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
-  alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"
-  relative = true
 +++
 
 Saxophonist Akihiro Yoshimoto’s _62 Charlesgate_ is a 2022 album where he showcases both his original music and a group of young musicians from the Japanese jazz scene. The quartet is made up of saxophone, trombone, bass, and drums, with no chordal instrument like piano or guitar filling up the comping harmonies. The resulting music, composed for two horns to play melodies in union, harmony, counterpointing, or trading phrases, has a well-suited sound for Yoshimoto’s organized yet free and open concept on this album.

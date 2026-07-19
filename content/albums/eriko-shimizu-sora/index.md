@@ -9,7 +9,10 @@ slug = "eriko-shimizu-sora"
 releaseYear = 2010
 releaseLabel = "Casnet"
 releaseCode = "CSNT-8003"
-issue = 109
+[cover]
+  image = "erikoshimizu-sora-460.jpeg"
+  alt = "Cover art of Sora by Eriko Shimizu"
+  relative = true
 [[credits]]
   name = "Eriko Shimizu"
   slug = "eriko-shimizu"
@@ -35,10 +38,6 @@ issue = 109
   slug = "daisuke-yoshioka"
   instrument = "drums"
   japanese = "吉岡大輔 Yoshioka Daisuke"
-[cover]
-  image = "erikoshimizu-sora-460.jpeg"
-  alt = "Cover art of Sora by Eriko Shimizu"
-  relative = true
 +++
 
 Pianist Eriko Shimizu’s _Sora_ is her debut album from 2010 on which she leads her jazz combo through seven songs featuring original and colorful arrangements. Shimizu performs with her piano trio augmented with special guests percussionist Saori Sendo, who supplies bells, chimes, and elemental sounds not typically found in jazz piano trios, and saxophonist Toshihiko Inoue who joins on a few tracks.

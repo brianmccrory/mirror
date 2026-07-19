@@ -9,7 +9,10 @@ slug = "yuichiro-aratake-light-flows-in"
 releaseYear = 2005
 releaseLabel = "S2S"
 releaseCode = "SSDF-5006"
-issue = 74
+[cover]
+  image = "yuichiroaratake-light-460.jpeg"
+  alt = "Cover art of The Light Flows In by Yuichiro Aratake"
+  relative = true
 [[credits]]
   name = "Yuichiro Aratake"
   slug = "yuichiro-aratake"
@@ -30,10 +33,6 @@ issue = 74
   slug = "noboru-ando"
   instrument = "bass (tr. #7)"
   japanese = "安東昇 Ando Noboru"
-[cover]
-  image = "yuichiroaratake-light-460.jpeg"
-  alt = "Cover art of The Light Flows In by Yuichiro Aratake"
-  relative = true
 +++
 
 Yuichiro Aratake’s _The Light Flows In_ is a solo piano collection which sets a calm, relaxing mood, offering peace through original songs and charming jazz and pop standards. With patience and sincerity, Aratake performs the pieces as slow ballads, reflecting the gratitude for loyalty, friendship, and support that inspired the performances.

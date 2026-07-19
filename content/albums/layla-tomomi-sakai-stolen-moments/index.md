@@ -9,7 +9,10 @@ slug = "layla-tomomi-sakai-stolen-moments"
 releaseYear = 2019
 releaseLabel = "Laydrunker Records"
 releaseCode = "Layla-003"
-issue = 307
+[cover]
+  image = "layla-tomomi-sakai-stolen-moments-460.jpeg"
+  alt = "Cover art of Stolen Moments by Layla Tomomi Sakai"
+  relative = true
 [[credits]]
   name = "Layla Tomomi Sakai"
   slug = "layla-tomomi-sakai"
@@ -46,10 +49,6 @@ issue = 307
   instrument = "drums"
   japanese = "斉藤良 Saito Ryo"
 related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island"]
-[cover]
-  image = "layla-tomomi-sakai-stolen-moments-460.jpeg"
-  alt = "Cover art of Stolen Moments by Layla Tomomi Sakai"
-  relative = true
 +++
 
 Singer Layla Tomomi Sakai’s _Stolen Moments_ is a 27-minute album from 2019, a follow-up to her two previous releases from 2016 and 2018 with a consistently pleasing and familiar core sound. That sound of Sakai, introduced on her debut album _[Whisper Not](/layla-tomomi-sakai-whisper-not/)_, is based on her intimate vocal/guitar/trumpet trio with Yuichiro Hiraoka on guitar and Ryuichi Takase on trumpet. Her second album _[The Island](/layla-tomomi-sakai-island/)_ expanded the trio with more accompanying players, a pattern which continues here on _Stolen Moments_ as her guest musicians create forms from duos to sextets on the different songs.

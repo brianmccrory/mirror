@@ -9,7 +9,10 @@ slug = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and"
 releaseYear = 2011
 releaseLabel = "Itazura Records"
 releaseCode = "YUMO-713"
-issue = 353
+[cover]
+  image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
+  alt = "Cover art of It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka"
+  relative = true
 [[credits]]
   name = "Yukari Sekiya"
   slug = "yukari-sekiya"
@@ -31,10 +34,6 @@ issue = 353
   instrument = "drums"
   japanese = "橋本達哉 Hashimoto Tatsuya"
 related = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
-[cover]
-  image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
-  alt = "Cover art of It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka"
-  relative = true
 +++
 
 Yukari Sekiya (Sekichu) is a jazz pianist, composer, and free improvisationalist who released her first album in 2011 with the group Yukari Sekiya Trio with Yuko Tanaka. The Japanese title of this debut is _ありふれた愛なので・・・_ translated on the cover as _It’s Ordinary Love And..._ Sekiya’s trio is completed by Michihiro Morisada on contrabass and Tatsuya Hashimoto on drums, and Yuko Tanaka joins as guest vocals and voice.

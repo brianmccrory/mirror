@@ -9,7 +9,10 @@ slug = "hitomi-nishiyama-trio-sympathy"
 releaseYear = 2013
 releaseLabel = "Meantone Records"
 releaseCode = "MT-004"
-issue = 76
+[cover]
+  image = "hitominishiyama-sympathy-460.jpeg"
+  alt = "Cover art of Sympathy by Hitomi Nishiyama Trio"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -25,10 +28,6 @@ issue = 76
   slug = "kazumi-ikenaga"
   instrument = "drums"
   japanese = "池長和美 Ikenaga Kazumi"
-[cover]
-  image = "hitominishiyama-sympathy-460.jpeg"
-  alt = "Cover art of Sympathy by Hitomi Nishiyama Trio"
-  relative = true
 +++
 
 The sympathetic joy of listening to three accomplished musicians improvising and creating beautiful music together is aroused on _Sympathy_ from the Hitomi Nishiyama Trio from 2013. This kind of sympathy, that of being made happy by the joy of others, builds on the listener’s own enjoyment in listening to the art created here.

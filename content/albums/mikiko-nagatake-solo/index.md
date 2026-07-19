@@ -9,17 +9,16 @@ slug = "mikiko-nagatake-solo"
 releaseYear = 2022
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWR-044"
-issue = 205
+[cover]
+  image = "mikiko-nagatake-solo-460.jpeg"
+  alt = "Cover art of Solo by Mikiko Nagatake"
+  relative = true
 [[credits]]
   name = "Mikiko Nagatake"
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
 related = ["tetsuji-yoshida-and-mikiko-nagatake"]
-[cover]
-  image = "mikiko-nagatake-solo-460.jpeg"
-  alt = "Cover art of Solo by Mikiko Nagatake"
-  relative = true
 +++
 
 In welcome succession for eager fans, pianist Mikiko Nagatake released a batch of albums for the young jazz label Owl Wing based in Tokyo in recent years. Her works include two records as leader of a piano trio (_Into the Forest_, 2021, and _Breathe Beneath the Sun_, 2022), a solo album, a duo album with saxophonist Nami Kano (_Jabuticaba_, 2021), and a live album with trumpet player Tetsuji Yoshida (_Live at Knuttle House_, 2022). In fact, a new duo album (_Locura de Amor, /2023_)/ with flute player Naohiko Amatatsu was also just announced in the past several days.

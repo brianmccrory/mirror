@@ -9,7 +9,10 @@ slug = "miwo-tranquillo"
 releaseYear = 2020
 releaseLabel = "Musica Fortunata"
 releaseCode = "MF-001"
-issue = 247
+[cover]
+  image = "miwo-tranquillo-460.jpeg"
+  alt = "Cover art of Tranquillo by Miwo"
+  relative = true
 [[credits]]
   name = "MIWO"
   slug = "miwo"
@@ -29,10 +32,6 @@ issue = 247
   slug = "akira-sekine"
   instrument = "guitar"
   japanese = "関根彰良 Sekine Akira"
-[cover]
-  image = "miwo-tranquillo-460.jpeg"
-  alt = "Cover art of Tranquillo by Miwo"
-  relative = true
 +++
 
 Jazz singer MIWO’s first album is entitled _Tranquillo_ from 2020. This fifty-one-minute album delivers a sincere and straightforward set of twelve jazz standards perfectly suited to the leader’s modestly beautiful voice. _Tranquillo_ was produced by mentor Hiroko Williams, a well-known jazz singer in her own right, and the result is an album with an authentic approach to vocal-focused jazz albums.

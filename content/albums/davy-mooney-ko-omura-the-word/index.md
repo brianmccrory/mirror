@@ -9,7 +9,10 @@ slug = "davy-mooney-ko-omura-the-word"
 releaseYear = 2025
 releaseLabel = "Sunnyside Communications"
 releaseCode = "SSC-1764"
-issue = 333
+[cover]
+  image = "davy-mooney-ko-omura-the-word-460.jpeg"
+  alt = "Cover art of The Word by Davy Mooney & Ko Omura"
+  relative = true
 [[credits]]
   name = "Davy Mooney"
   slug = "davy-mooney"
@@ -32,10 +35,6 @@ issue = 333
   slug = "matt-clohesy"
   instrument = "bass"
 related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "fe-live-at-virtuoso", "efreydut-fairway"]
-[cover]
-  image = "davy-mooney-ko-omura-the-word-460.jpeg"
-  alt = "Cover art of The Word by Davy Mooney & Ko Omura"
-  relative = true
 +++
 
 _The Word_ (2025) is the second collaboration album from guitarist Davy Mooney and drummer Ko Omura. As with their previous release _Benign Strangers_ (2018), each leader contributes five original songs to the album, interspersed in squence. The music is played by the same quintet of Mooney on guitar, Omura on drums and tabla, John Ellis on saxes and bass clarinet, Glenn Zaleski on piano, and Matt Clohesy on bass.

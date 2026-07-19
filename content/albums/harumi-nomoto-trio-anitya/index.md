@@ -9,7 +9,10 @@ slug = "harumi-nomoto-trio-anitya"
 releaseYear = 2025
 releaseLabel = "Okra Record"
 releaseCode = "MIKO-9001"
-issue = 347
+[cover]
+  image = "harumi-nomoto-trio-anitya-460.jpeg"
+  alt = "Cover art of Anitya by Harumi Nomoto Trio"
+  relative = true
 [[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
@@ -26,10 +29,6 @@ issue = 347
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
 related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
-[cover]
-  image = "harumi-nomoto-trio-anitya-460.jpeg"
-  alt = "Cover art of Anitya by Harumi Nomoto Trio"
-  relative = true
 +++
 
 _Anitya_ is pianist Harumi Nomoto’s fourth trio record, released in 2025. It’s been a decade-plus since the trio’s previous release [_Virgo_ (2014)](/harumi-nomoto-trio-virgo/), with their earlier albums released as far back as 2007 and 2002, so it was a thrilling surprise when plans for a new recording were announced at one of their live shows early last year. The anticipation from their loyal fans rose in 2025 as the trio scheduled more concerts before the recording, to fine-tune the new songs and oil the performance gears at live concerts around Tokyo. Following that, _Anitya_ was quickly recorded over two days in June and released in December 2025 right in the midst of a busy holiday season.

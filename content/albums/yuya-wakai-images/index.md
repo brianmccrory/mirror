@@ -9,16 +9,15 @@ slug = "yuya-wakai-images"
 releaseYear = 2013
 releaseLabel = "Mikorin Music"
 releaseCode = "MM-002"
-issue = 42
+[cover]
+  image = "yuyawakai-images-460.jpeg"
+  alt = "Cover art of Images by Yuya Wakai"
+  relative = true
 [[credits]]
   name = "Yuya Wakai"
   slug = "yuya-wakai"
   instrument = "piano"
   japanese = "若井優也 Wakai Yuya"
-[cover]
-  image = "yuyawakai-images-460.jpeg"
-  alt = "Cover art of Images by Yuya Wakai"
-  relative = true
 +++
 
 Joyful notes flow effortlessly from pianist Yuya Wakai as he confidently opens his solo piano album _Images_.

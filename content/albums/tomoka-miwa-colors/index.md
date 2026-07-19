@@ -9,7 +9,10 @@ slug = "tomoka-miwa-colors"
 releaseYear = 2015
 releaseLabel = "Tomoka Miwa"
 releaseCode = "MUW-002"
-issue = 28
+[cover]
+  image = "tomokamiwa-colors-460.jpeg"
+  alt = "Cover art of Colors in Silence by Tomoka Miwa"
+  relative = true
 [[credits]]
   name = "Tomoka Miwa"
   slug = "tomoka-miwa"
@@ -29,10 +32,6 @@ issue = 28
   name = "Sebastiaan Kaptein"
   slug = "sebastiaan-kaptein"
   instrument = "drums"
-[cover]
-  image = "tomokamiwa-colors-460.jpeg"
-  alt = "Cover art of Colors in Silence by Tomoka Miwa"
-  relative = true
 +++
 
 Tomoka Miwa, Tokyo-based jazz and pop singer, uses her jazz palette on _Colors in Silence_, a live recording from 2015. Playing with a piano, bass, and drums combo, she sings jazz standards such as “I’ve Got You Under My Skin” and “My Favorite Things” and the fan-favorite “A House Is Not A Home”. Some spice is added to the set with the classic bolero “Somos Novios”, and the groovy samba-funk “Skindo-le-le”, while the sultry “Love Dance” and the beautiful hymn “Hallelujah” add extra colors to the canvas.

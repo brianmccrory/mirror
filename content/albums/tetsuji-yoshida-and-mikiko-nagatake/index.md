@@ -9,7 +9,10 @@ slug = "tetsuji-yoshida-and-mikiko-nagatake"
 releaseYear = 2021
 releaseLabel = "Yoshidamusic"
 releaseCode = "NYAN-382"
-issue = 195
+[cover]
+  image = "tetsujiyoshida-mikikonagatake-knuttel-460.jpeg"
+  alt = "Cover art of Live at Knuttel House by Tetsuji Yoshida & Mikiko Nagatake Duo"
+  relative = true
 [[credits]]
   name = "Tetsuji Yoshida"
   slug = "tetsuji-yoshida"
@@ -20,10 +23,6 @@ issue = 195
   slug = "mikiko-nagatake"
   instrument = "piano"
   japanese = "永武幹子 Nagatake Mikiko"
-[cover]
-  image = "tetsujiyoshida-mikikonagatake-knuttel-460.jpeg"
-  alt = "Cover art of Live at Knuttel House by Tetsuji Yoshida & Mikiko Nagatake Duo"
-  relative = true
 +++
 
 Trumpeter Tetsuji Yoshida and pianist Mikiko Nagatake create new music in old town surroundings on 2021’s _Live at Knuttel House_. Yoshida’s original compositions make up the six songs for forty minutes selected from live performances at Knuttel art and live house. The modest venue is nestled in a working-class neighborhood in old Tokyo that seems to imbue the music with the charm and patina of the traditional surroundings. Yoshida’s conceptions skate around the borders of jazz, rock, and blues with hints of uniquely Japanese folk melodies, into which the talented pair freely incorporates traditional jazz forms.

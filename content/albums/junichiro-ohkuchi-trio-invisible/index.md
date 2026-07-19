@@ -10,7 +10,10 @@ slug = "junichiro-ohkuchi-trio-invisible"
 releaseYear = 2016
 releaseLabel = "Big Mouth Records"
 releaseCode = "Invisible"
-issue = 16
+[cover]
+  image = "junichiroohkuchi-invisible-460.jpeg"
+  alt = "Cover art of Invisible by Junichiro Ohkuchi Trio"
+  relative = true
 [[credits]]
   name = "Junichiro Ohkuchi"
   slug = "junichiro-ohkuchi"
@@ -27,10 +30,6 @@ issue = 16
   instrument = "drums"
   japanese = "本田珠也 Honda Tamaya"
 related = ["kohsuke-mine-quintet-major-to-minor", "yuka-ueda-dois", "yuko-miyawaki-song-of-flower"]
-[cover]
-  image = "junichiroohkuchi-invisible-460.jpeg"
-  alt = "Cover art of Invisible by Junichiro Ohkuchi Trio"
-  relative = true
 +++
 
 Accomplished pianist Junichiro Ohkuchi leads a trio of solid veterans in the straight-ahead jazz tradition on his 2016 album _Invisible_. The trio works well together, demonstrating the equal partnership and careful intercommunication that occurs between professional jazz musicians. Evident throughout is a confident sense of risky looseness, with complete control of timing and notes, each member supporting and energizing one another.

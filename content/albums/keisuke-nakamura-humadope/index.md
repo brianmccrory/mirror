@@ -9,7 +9,10 @@ slug = "keisuke-nakamura-humadope"
 releaseYear = 2014
 releaseLabel = "M581 Records"
 releaseCode = "SDR1401"
-issue = 15
+[cover]
+  image = "keisukenakamura-humadope-460.jpeg"
+  alt = "Cover art of Humadope by Keisuke Nakamura"
+  relative = true
 [[credits]]
   name = "Keisuke Nakamura"
   slug = "keisuke-nakamura"
@@ -45,10 +48,6 @@ issue = 15
   slug = "shun-ishiwaka"
   instrument = "drums (tr. #1)"
   japanese = "石若駿 Ishiwaka Shun"
-[cover]
-  image = "keisukenakamura-humadope-460.jpeg"
-  alt = "Cover art of Humadope by Keisuke Nakamura"
-  relative = true
 +++
 
 Trumpeter Keisuke Nakamura leads a group of contemporary jazz musicians called _Humadope_, a post-bop Jazz Messengers-styled quintet with a trumpet-sax front line and piano-bass-drums rhythm section. The name itself (a mix of human/mad/dope) suggests a dangerous edge on blisteringly fast tunes as the skilled soloists riotously burn through the changes. Yet, the group handily balances this attitude with a warm sensitivity played on soulful ballads and cooler numbers.

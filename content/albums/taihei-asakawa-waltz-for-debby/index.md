@@ -9,16 +9,15 @@ slug = "taihei-asakawa-waltz-for-debby"
 releaseYear = 2018
 releaseLabel = "Cortez Sound"
 releaseCode = "CSJ0008"
-issue = 63
+[cover]
+  image = "taiheiasakawa-waltz-460.jpeg"
+  alt = "Cover art of Waltz for Debby by Taihei Asakawa"
+  relative = true
 [[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
   instrument = "piano"
   japanese = "浅川太平 Asakawa Taihei"
-[cover]
-  image = "taiheiasakawa-waltz-460.jpeg"
-  alt = "Cover art of Waltz for Debby by Taihei Asakawa"
-  relative = true
 +++
 
 Although it may seem overly-ambitious to reinvent the classic 1961 Bill Evans Trio live recordings _Waltz for Debby_ and _Sunday At The Village Vanguard_, pianist Taihei Asakawa boldly takes that challenge on his deeply fascinating and atmospheric avant-garde solo piano recording _Waltz for Debby_. Performed live for an audience in 2018, the material and mood are compelling: introspective and patient, occasionally decorated with flights of vibrant melody, constantly summoning emotion from the notes released from the beautifully-recorded piano.

@@ -9,7 +9,10 @@ slug = "rie-taguchi-gift"
 releaseYear = 2016
 releaseLabel = "Rose Happy Music"
 releaseCode = "RHM002"
-issue = 21
+[cover]
+  image = "rietaguchi-gift-460.jpeg"
+  alt = "Cover art of The Gift by Rie Taguchi"
+  relative = true
 [[credits]]
   name = "Rie Taguchi"
   slug = "rie-taguchi"
@@ -45,10 +48,6 @@ issue = 21
   slug = "akira-yamada"
   instrument = "drums"
   japanese = "山田玲 Yamada Akira"
-[cover]
-  image = "rietaguchi-gift-460.jpeg"
-  alt = "Cover art of The Gift by Rie Taguchi"
-  relative = true
 +++
 
 Vocalist Rie Taguchi leads a swinging sextet on her first full-length album, _The Gift_.

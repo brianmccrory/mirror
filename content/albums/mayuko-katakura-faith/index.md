@@ -9,7 +9,10 @@ slug = "mayuko-katakura-faith"
 releaseYear = 2010
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30578"
-issue = 17
+[cover]
+  image = "mayukokatakura-faith-460.jpeg"
+  alt = "Cover art of Faith by Mayuko Katakura"
+  relative = true
 [[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
@@ -23,10 +26,6 @@ issue = 17
   name = "Carl Allen"
   slug = "carl-allen"
   instrument = "drums"
-[cover]
-  image = "mayukokatakura-faith-460.jpeg"
-  alt = "Cover art of Faith by Mayuko Katakura"
-  relative = true
 +++
 
 _Faith_ is the second album from Mayuko Katakura, an amazing jazz pianist with an impeccable touch that echoes jazz piano legends. Listening to Katakura, one can sense the fondness and appreciation for players like McCoy Tyner and Sonny Clark. In fact, the album’s wistful ballad “Blue Sonny” was written for Sonny Clark by Katakura.

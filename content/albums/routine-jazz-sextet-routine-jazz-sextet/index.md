@@ -9,7 +9,10 @@ slug = "routine-jazz-sextet-routine-jazz-sextet"
 releaseYear = 2008
 releaseLabel = "Routine Records"
 releaseCode = "RCJP-002"
-issue = 91
+[cover]
+  image = "routinejazzsextet-routine-460.jpeg"
+  alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"
+  relative = true
 [[credits]]
   name = "Tomoyuki Konno"
   slug = "tomoyuki-konno"
@@ -40,10 +43,6 @@ issue = 91
   slug = "haruhisa-takamichi"
   instrument = "bass"
   japanese = "高道晴久 Takamichi Haruhisa"
-[cover]
-  image = "routinejazzsextet-routine-460.jpeg"
-  alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"
-  relative = true
 +++
 
 _Routine Jazz Sextet_ from 2008 promotes genuine jazz from Tokyo with the flavor of 1950/60’s era jazz giants such as Horace Silver and Art Blakey &amp; the Jazz Messengers. Not just a throwback, the band honors the musical legacy while incorporating the youthful, modern sound and mindset of current jazz players from Japan.

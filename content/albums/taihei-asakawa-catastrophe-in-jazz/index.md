@@ -9,7 +9,10 @@ slug = "taihei-asakawa-catastrophe-in-jazz"
 releaseYear = 2011
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2046"
-issue = 46
+[cover]
+  image = "taiheiasakawa-catas-460.jpeg"
+  alt = "Cover art of Catastrophe in Jazz by Taihei Asakawa"
+  relative = true
 [[credits]]
   name = "Taihei Asakawa"
   slug = "taihei-asakawa"
@@ -25,10 +28,6 @@ issue = 46
   slug = "manabu-hashimoto"
   instrument = "drums"
   japanese = "橋本学 Hashimoto Manabu"
-[cover]
-  image = "taiheiasakawa-catas-460.jpeg"
-  alt = "Cover art of Catastrophe in Jazz by Taihei Asakawa"
-  relative = true
 +++
 
 Jazz pianist Taihei Asakawa pushes boundaries on his 2011 release _Catastrophe in Jazz_.

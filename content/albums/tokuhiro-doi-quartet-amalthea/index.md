@@ -9,7 +9,10 @@ slug = "tokuhiro-doi-quartet-amalthea"
 releaseYear = 2011
 releaseLabel = "D-musica Daiki Music"
 releaseCode = "DMCD-15"
-issue = 65
+[cover]
+  image = "tokuhirodoi-amalthea-460.jpeg"
+  alt = "Cover art of Amalthea by Tokuhiro Doi Quartet"
+  relative = true
 [[credits]]
   name = "Tokuhiro Doi"
   slug = "tokuhiro-doi"
@@ -30,10 +33,6 @@ issue = 65
   slug = "tomoyuki-konno"
   instrument = "drums"
   japanese = "紺野智之 Konno Tomoyuki"
-[cover]
-  image = "tokuhirodoi-amalthea-460.jpeg"
-  alt = "Cover art of Amalthea by Tokuhiro Doi Quartet"
-  relative = true
 +++
 
 Tokuhiro Doi’s _Amalthea_ from 2011 presents a modern jazz quartet from Japan led by the evocative tones of jazz clarinet. Although jazz clarinet can prompt thoughts of bouncy big bands and classic swing music, this album veers more towards dark and mysterious shades that will interest fans of creative modern jazz.

@@ -9,7 +9,10 @@ slug = "motoi-kanamori-my-soul-meeting"
 releaseYear = 2018
 releaseLabel = "Laplace Records"
 releaseCode = "LPDCD-103"
-issue = 117
+[cover]
+  image = "motoikanamori-mysoul-460.jpeg"
+  alt = "Cover art of My Soul Meeting by Motoi Kanamori"
+  relative = true
 [[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
@@ -35,10 +38,6 @@ issue = 117
   slug = "akihiro-yoshimoto"
   instrument = "tenor sax (tr. #6, 7)"
   japanese = "吉本章紘 Yoshimoto Akihiro"
-[cover]
-  image = "motoikanamori-mysoul-460.jpeg"
-  alt = "Cover art of My Soul Meeting by Motoi Kanamori"
-  relative = true
 +++
 
 Jazz bassist Motoi Kanamori’s _My Soul Meeting_ from 2018 is his album debut as leader, where his jazz group rips and swings through eight tracks of modern piano trio jazz. With a polished, fun touch, the group delivers mid- and up-tempo jazz with propulsive grooves, expressive auras, and well-timed hits. His piano trio is joined by alto and tenor sax on two tracks as well, amping up the energy with edginess and texture.

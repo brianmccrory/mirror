@@ -9,7 +9,10 @@ slug = "hiromi-miura-we-dont-know-yet"
 releaseYear = 2013
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-03"
-issue = 97
+[cover]
+  image = "hiromimiura-wedont-460.jpeg"
+  alt = "Cover art of We Don’t Know Yet by Hiromi Miura"
+  relative = true
 [[credits]]
   name = "Hiromi Miura"
   slug = "hiromi-miura"
@@ -32,10 +35,6 @@ issue = 97
   name = "Paolo Orlandi"
   slug = "paolo-orlandi"
   instrument = "drums"
-[cover]
-  image = "hiromimiura-wedont-460.jpeg"
-  alt = "Cover art of We Don’t Know Yet by Hiromi Miura"
-  relative = true
 +++
 
 Modern jazz albums like saxophonist Hiromi Miura’s _We Don’t Know Yet_ occupy a special place, offering original compositions with creative elements which remain in the mind and call for repeated listens. Performed with consummate skill from the New York- and Japan-based musicians, the album offers five of Miura’s songs and two cover songs, focusing on intricate modern compositions and interpretations.

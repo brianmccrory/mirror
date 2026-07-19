@@ -9,7 +9,10 @@ slug = "yukako-yamano-1st-stage"
 releaseYear = 2013
 releaseLabel = "Yukako Yamano"
 releaseCode = "YKRN-0001"
-issue = 49
+[cover]
+  image = "yukakoyamano-first-460.jpeg"
+  alt = "Cover art of 1st Stage by Yukako Yamano"
+  relative = true
 [[credits]]
   name = "Yukako Yamano"
   slug = "yukako-yamano"
@@ -25,10 +28,6 @@ issue = 49
   slug = "manabu-fujii"
   instrument = "drums"
   japanese = "藤井学 Fujii Manabu"
-[cover]
-  image = "yukakoyamano-first-460.jpeg"
-  alt = "Cover art of 1st Stage by Yukako Yamano"
-  relative = true
 +++
 
 Popular pianist Yukako Yamano’s _1st Stage_ is a rich and airy musical soufflé. Her catchy debut album from 2013 mixes together swinging jazz, modern fusion, cute pop, and straightforward sincerity. On _1st Stage_, the world-traveling pianist introduces eleven of her feel-good melodies and propulsive rhythms as she balances unpretentious cheer with dramatic tension on the lively tracks.

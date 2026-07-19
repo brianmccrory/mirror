@@ -9,7 +9,10 @@ slug = "meu-coracao-a-tempo"
 releaseYear = 2016
 releaseLabel = "Eclectic Records"
 releaseCode = "ECLC-101"
-issue = 31
+[cover]
+  image = "meucoracao-atempo-460.jpeg"
+  alt = "Cover art of A Tempo by Meu Coracao"
+  relative = true
 [[credits]]
   name = "Emiko Voice"
   slug = "emiko-voice"
@@ -40,10 +43,6 @@ issue = 31
   slug = "yasuhiro-yoshigaki"
   instrument = "percussion (#4, 7)"
   japanese = "芳垣安洋 Yoshigaki Yasuhiro"
-[cover]
-  image = "meucoracao-atempo-460.jpeg"
-  alt = "Cover art of A Tempo by Meu Coracao"
-  relative = true
 +++
 
 The Japanese vocal-guitar duo Meu Coração releases the stunning _A Tempo_ as a return to an earlier form. While the duo is well known for playing acoustic Brazilian music at sold-out concert halls and their _Hall Tone_ albums, this sixth album presents dramatic variations with an exciting full-band sound.

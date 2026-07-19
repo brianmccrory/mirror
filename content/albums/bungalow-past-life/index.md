@@ -9,7 +9,10 @@ slug = "bungalow-past-life"
 releaseYear = 2013
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10036"
-issue = 44
+[cover]
+  image = "bungalow-pastlife-460.jpeg"
+  alt = "Cover art of Past Life by Bungalow"
+  relative = true
 [[credits]]
   name = "Masahiro Yamamoto"
   slug = "masahiro-yamamoto"
@@ -30,10 +33,6 @@ issue = 44
   slug = "ko-omura"
   instrument = "drums, tabla"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "bungalow-pastlife-460.jpeg"
-  alt = "Cover art of Past Life by Bungalow"
-  relative = true
 +++
 
 The jazz group Bungalow displays their original approach to modern art jazz on their second album, _Past Life_, from 2013. As a jazz quartet featuring airy alto sax and piano, double bass, and drums, the group incorporates creative musical elements such as the use of Indian tabla drums and subtle sound effects and processing, a bit similar to the style of the Swedish jazz group E.S.T.

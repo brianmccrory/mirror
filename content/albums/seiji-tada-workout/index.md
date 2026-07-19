@@ -9,7 +9,10 @@ slug = "seiji-tada-workout"
 releaseYear = 2018
 releaseLabel = "Studio TLive Records"
 releaseCode = "STLR-018"
-issue = 89
+[cover]
+  image = "seijitada-workout-460.jpeg"
+  alt = "Cover art of Workout!! by Seiji Tada"
+  relative = true
 [[credits]]
   name = "Seiji Tada"
   slug = "seiji-tada"
@@ -27,10 +30,6 @@ issue = 89
   name = "Kenny Washington"
   slug = "kenny-washington"
   instrument = "drums"
-[cover]
-  image = "seijitada-workout-460.jpeg"
-  alt = "Cover art of Workout!! by Seiji Tada"
-  relative = true
 +++
 
 Seiji “Taddy” Tada cooks with bebop, blues, and ballads on _Workout!!_ from 2018. This album, his 13th as leader, is a dream come true for the musician, as he recorded with stellar American jazz musicians whom he had previously toured with, famed jazz drummer Lewis Nash and his trio. No doubt these players, all worthy idols of Tada’s, provided extra inspiration for the high-caliber and exciting playing on this recording.

@@ -9,7 +9,10 @@ slug = "mayuko-katakura-echoes-of-three"
 releaseYear = 2015
 releaseLabel = "55 Records"
 releaseCode = "JNCJ-5561"
-issue = 36
+[cover]
+  image = "mayukokatakura-echoes-460.jpeg"
+  alt = "Cover art of The Echoes of Three by Mayuko Katakura"
+  relative = true
 [[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
@@ -24,10 +27,6 @@ issue = 36
   name = "Carmen Intorre Jr."
   slug = "carmen-intorre-jr"
   instrument = "drums"
-[cover]
-  image = "mayukokatakura-echoes-460.jpeg"
-  alt = "Cover art of The Echoes of Three by Mayuko Katakura"
-  relative = true
 +++
 
 Pianist Mayuko Katakura’s 2015 album _The Echoes of Three_ captures an exciting reunion of old friends whose strong connections and shared history result in a high-level trio session. With plenty of speedy McCoy Tyner angularism and Monkish spontaneity, Katakura spurs the trio on, delivering a great balance of compositional planning with in-the-moment abandon.

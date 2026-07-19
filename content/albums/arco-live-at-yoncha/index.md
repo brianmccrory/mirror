@@ -9,7 +9,10 @@ slug = "arco-live-at-yoncha"
 releaseYear = 2018
 releaseLabel = "Arco"
 releaseCode = "handmade compact discs"
-issue = 134
+[cover]
+  image = "arco-liveatyoncha-460.jpeg"
+  alt = "Cover art of Live At Yoncha by Arco"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -20,10 +23,6 @@ issue = 134
   slug = "mayumi-sano"
   instrument = "cello"
   japanese = "佐野まゆみ Sano Mayumi"
-[cover]
-  image = "arco-liveatyoncha-460.jpeg"
-  alt = "Cover art of Live At Yoncha by Arco"
-  relative = true
 +++
 
 The piano and cello duo Arco released _Live at Yoncha_ in 2018, a performance recorded at a live music cafe bar in Tokyo. With six songs running 36 minutes, the set captures the feeling of being there as the two musicians blend jazz, classical, rock, Latin, and Japanese sensibilities.

@@ -9,7 +9,10 @@ slug = "shigeo-fukuda-and-toshiki-nunokawa"
 releaseYear = 2011
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2053"
-issue = 141
+[cover]
+  image = "fukuda-nunokawa-childhood-460.jpeg"
+  alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"
+  relative = true
 [[credits]]
   name = "Shigeo Fukuda"
   slug = "shigeo-fukuda"
@@ -20,10 +23,6 @@ issue = 141
   slug = "toshiki-nunokawa"
   instrument = "guitar"
   japanese = "布川俊樹 Nunokawa Toshiki"
-[cover]
-  image = "fukuda-nunokawa-childhood-460.jpeg"
-  alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"
-  relative = true
 +++
 
 _Childhood’s Dream_ is a 10-song, hour-long studio recording from pianist Shigeo Fukuda and guitarist Toshiki Nunokawa. Both leading veteran players, the musicians are also in-demand sidemen and instructors, well-known in Japan’s live scene from the 1980s through to the current day.

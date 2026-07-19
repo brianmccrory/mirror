@@ -9,7 +9,10 @@ slug = "hikari-ichihara-group-move-on"
 releaseYear = 2010
 releaseLabel = "After Beat"
 releaseCode = "PCCY-30157"
-issue = 75
+[cover]
+  image = "hikariichihara-moveon-460.jpeg"
+  alt = "Cover art of Move On by Hikari Ichihara Group"
+  relative = true
 [[credits]]
   name = "Hikari Ichihara"
   slug = "hikari-ichihara"
@@ -35,10 +38,6 @@ issue = 75
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-[cover]
-  image = "hikariichihara-moveon-460.jpeg"
-  alt = "Cover art of Move On by Hikari Ichihara Group"
-  relative = true
 +++
 
 Hikari Ichihara’s fifth album _Move On_ features the trumpeter’s quintet performing finely-tuned compositions with jazz integrity and a vibrant sound full of sparkling energy. The tracks range from knife-edge sharp modern jazz, bouncy swing, wistful ballads, and rapid-fire straight ahead jazz. Also included is a single jazz standard, a fresh interpretation of “Everything Happens To Me”, delivered here with a relaxed groove.

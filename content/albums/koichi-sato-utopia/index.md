@@ -9,7 +9,10 @@ slug = "koichi-sato-utopia"
 releaseYear = 2011
 releaseLabel = "Pony Canyon / Twinkle Note"
 releaseCode = "PCCY-30186"
-issue = 56
+[cover]
+  image = "koichisato-utopia-460.jpeg"
+  alt = "Cover art of Utopia by Koichi Sato"
+  relative = true
 [[credits]]
   name = "Koichi Sato"
   slug = "koichi-sato"
@@ -25,10 +28,6 @@ issue = 56
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "koichisato-utopia-460.jpeg"
-  alt = "Cover art of Utopia by Koichi Sato"
-  relative = true
 +++
 
 _Utopia_ is the debut leader album for pianist Koichi Sato, who reaches for high standards in his original compositions and impressive performances. This is stimulating modern jazz performed by a piano trio not limited by standard jazz conventions, based in jazz tradition while incorporating some classical and pop influences as well.

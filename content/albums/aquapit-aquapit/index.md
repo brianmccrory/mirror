@@ -9,7 +9,10 @@ slug = "aquapit-aquapit"
 releaseYear = 2011
 releaseLabel = "Mocloud Records"
 releaseCode = "DDCZ-1758"
-issue = 123
+[cover]
+  image = "aquapit-aquapit-460.jpeg"
+  alt = "Cover art of Aquapit by Aquapit"
+  relative = true
 [[credits]]
   name = "Yuta Kaneko"
   slug = "yuta-kaneko"
@@ -25,10 +28,6 @@ issue = 123
   slug = "hidenobu-kalta-otsuki"
   instrument = "drums"
   japanese = "大槻“KALTA”英宣 Otsuki Hidenobu “Kalta”"
-[cover]
-  image = "aquapit-aquapit-460.jpeg"
-  alt = "Cover art of Aquapit by Aquapit"
-  relative = true
 +++
 
 Jazz organ trio Aquapit’s first album from 2011 sets up the scene for a rollicking jazz party featuring the warm and fuzzy sounds of a funky jazz organ trio.

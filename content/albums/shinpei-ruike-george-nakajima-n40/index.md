@@ -9,7 +9,10 @@ slug = "shinpei-ruike-george-nakajima-n40"
 releaseYear = 2014
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS-1403"
-issue = 68
+[cover]
+  image = "ruike-nakajima-n40-460.jpeg"
+  alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"
+  relative = true
 [[credits]]
   name = "Shinpei Ruike"
   slug = "shinpei-ruike"
@@ -20,10 +23,6 @@ issue = 68
   slug = "george-nakajima"
   instrument = "piano"
   japanese = "中嶋錠二 Nakajima George"
-[cover]
-  image = "ruike-nakajima-n40-460.jpeg"
-  alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"
-  relative = true
 +++
 
 Art music from two musician artists, _N.40°_ is sweet and stimulating, mellow and manic, alternating between states on this compelling album. The emotive trumpet-and-piano duo of Shinpei Ruike and George Nakajima delivers atmospheric standards as well as boundary-pushing free improvisations. With moments of both comfortable and experimental jazz, the pieces alternate from limpid and romantic to free and offbeat wild abandon; fun improvisational pieces are placed like splashes of color between beautiful jazz songs (“The Nearness of You”, “Pure Imagination”, “Alone, Alone and Alone”).

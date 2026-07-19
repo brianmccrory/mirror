@@ -9,7 +9,10 @@ slug = "akane-matsumoto-night-and-day"
 releaseYear = 2017
 releaseLabel = "Concept Record"
 releaseCode = "CR07"
-issue = 2
+[cover]
+  image = "akanematsumoto-night-460.jpeg"
+  alt = "Cover art of Night & Day by Akane Matsumoto"
+  relative = true
 [[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
@@ -23,10 +26,6 @@ issue = 2
   name = "Gene Jackson"
   slug = "gene-jackson"
   instrument = "drums"
-[cover]
-  image = "akanematsumoto-night-460.jpeg"
-  alt = "Cover art of Night & Day by Akane Matsumoto"
-  relative = true
 +++
 
 Fun and buoyant bebop jazz in the style of Oscar Peterson and Phineas Newborn Junior, this is a happy jazz record from a thoroughly swinging trio led by pianist Akane Matsumoto. Professional arrangements performed by highly skilled musicians result in a solid album ranging from amazing quick-tempo tunes to slower, romantic brush-stroke ballads. Matsumoto’s fourth album as a leader, _Night &amp; Day_ features the accomplished pianist with her “New York Trio,” her second release with bassist Peter Washington and drummer Gene Jackson since _Memories of You_ (2015).

@@ -9,7 +9,10 @@ slug = "kazumi-ikenaga-taihei-asakawa-nordnote"
 releaseYear = 2020
 releaseLabel = "Time Machine Record"
 releaseCode = "TMCD-1020"
-issue = 250
+[cover]
+  image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
+  alt = "Cover art of NordNote by Kazumi Ikenaga & Taihei Asakawa"
+  relative = true
 [[credits]]
   name = "Kazumi Ikenaga"
   slug = "kazumi-ikenaga"
@@ -21,10 +24,6 @@ issue = 250
   instrument = "piano"
   japanese = "浅川太平 Asakawa Taihei"
 related = ["taihei-asakawa-catastrophe-in-jazz", "taihei-asakawa-trio-touch-of-winter", "kazumi-ikenaga-niwatazumi", "taihei-asakawa-waltz-for-debby"]
-[cover]
-  image = "kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg"
-  alt = "Cover art of NordNote by Kazumi Ikenaga & Taihei Asakawa"
-  relative = true
 +++
 
 _NordNode_ is a 2020 album from drummer Kazumi Ikenaga and pianist Taihei Asakawa, with ten tracks and fifty-five minutes of music performed with care, maturity, and a strong bond between the two musicians.

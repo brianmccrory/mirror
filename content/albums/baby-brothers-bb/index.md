@@ -9,7 +9,10 @@ slug = "baby-brothers-bb"
 releaseYear = 2007
 releaseLabel = "Bb Records"
 releaseCode = "Bb"
-issue = 113
+[cover]
+  image = "babybrothers-bbcover-460.jpeg"
+  alt = "Cover art of Bb by Baby Brothers"
+  relative = true
 [[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
@@ -35,10 +38,6 @@ issue = 113
   slug = "yohhei"
   instrument = "lead vocal, bass, 4th chorus, human beat box"
   japanese = "ようへい Yohhei"
-[cover]
-  image = "babybrothers-bbcover-460.jpeg"
-  alt = "Cover art of Bb by Baby Brothers"
-  relative = true
 +++
 
 The living music from vocal a cappella groups can be inspiring and soothing in turbulent times, with voices layered in harmony and synchronized timing for direct connections with each other and the audience. The five-piece group Baby Brothers from Tokyo released their debut _Bb_ in 2007 with their well-arranged jazz, R&amp;B, and hymn-like traditionals. With only their voices and no other instruments, the quality of vocal organic vibrations can powerfully connect with reassuring joy through a skillful, very human communal experience.

@@ -9,7 +9,10 @@ slug = "shunichi-yanagi-trio-slope"
 releaseYear = 2015
 releaseLabel = "GoodNessPlus Records"
 releaseCode = "GNPR-1148"
-issue = 166
+[cover]
+  image = "shunichi-yanagi-slope-460.jpeg"
+  alt = "Cover art of Slope by Shunichi Yanagi Trio"
+  relative = true
 [[credits]]
   name = "Shunichi Yanagi"
   slug = "shunichi-yanagi"
@@ -25,10 +28,6 @@ issue = 166
   slug = "masatsugu-hattori"
   instrument = "drums"
   japanese = "服部正嗣 Hattori Masatsugu"
-[cover]
-  image = "shunichi-yanagi-slope-460.jpeg"
-  alt = "Cover art of Slope by Shunichi Yanagi Trio"
-  relative = true
 +++
 
 Jazz pianist Shunichi Yanagi’s _Slope_ is his second trio release, a 2015 followup to his 2012 debut _[Bubble Fish](/shunichi-yanagi-trio-bubble-fish/)_. The trio explores fresh territory in the jazz, rock, and light groove moods which vary from track to track. Each member has a clean touch with a sense of drama in creating excitement, somewhat like a movie or video game soundtrack at times.

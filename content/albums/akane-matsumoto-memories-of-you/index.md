@@ -9,7 +9,10 @@ slug = "akane-matsumoto-memories-of-you"
 releaseYear = 2015
 releaseLabel = "Concept Records"
 releaseCode = "CR-03"
-issue = 126
+[cover]
+  image = "akanematsumoto-memories-460.jpeg"
+  alt = "Cover art of Memories of You by Akane Matsumoto"
+  relative = true
 [[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
@@ -23,10 +26,6 @@ issue = 126
   name = "Gene Jackson"
   slug = "gene-jackson"
   instrument = "drums"
-[cover]
-  image = "akanematsumoto-memories-460.jpeg"
-  alt = "Cover art of Memories of You by Akane Matsumoto"
-  relative = true
 +++
 
 As the sentimental mood hints at in the cover photo and album title, Akane Matsumoto’s 2015 release _Memories of You_ shows a softer side with ballads and heartfelt tunes, set together with her well-renowned fluid bebop and happy jazz style.

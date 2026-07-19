@@ -9,7 +9,10 @@ slug = "yuichiro-aratake-music-make-us-one"
 releaseYear = 2010
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0003"
-issue = 183
+[cover]
+  image = "yuichiro-aratake-music-make-460.jpeg"
+  alt = "Cover art of Music Make Us One by Yuichiro Aratake"
+  relative = true
 [[credits]]
   name = "Yuichiro Aratake"
   slug = "yuichiro-aratake"
@@ -75,10 +78,6 @@ issue = 183
   slug = "masato-kubo"
   instrument = "cello"
   japanese = "久保公人 Kubo Masato"
-[cover]
-  image = "yuichiro-aratake-music-make-460.jpeg"
-  alt = "Cover art of Music Make Us One by Yuichiro Aratake"
-  relative = true
 +++
 
 Yuichiro Aratake continues to express his compassionate vision with _Music Make Us One_, a live concert recorded in 2010 and released in a CD/DVD package. Through six songs, the 40-minute album features his expanded piano trio spotlighting harmonica, vocals, and an eight-member string section.

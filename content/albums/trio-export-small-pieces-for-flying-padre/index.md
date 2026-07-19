@@ -9,7 +9,10 @@ slug = "trio-export-small-pieces-for-flying-padre"
 releaseYear = 2019
 releaseLabel = "Trio Export 63.1.0.X"
 releaseCode = "Small Pieces for Flying Padre"
-issue = 103
+[cover]
+  image = "trioexport-smallpieces-460.jpeg"
+  alt = "Cover art of Small Pieces for Flying Padre by Trio Export 63.1.0.X"
+  relative = true
 [[credits]]
   name = "Heitetsu Rin"
   slug = "heitetsu-rin"
@@ -25,10 +28,6 @@ issue = 103
   slug = "masatsugu-hattori"
   instrument = "drums"
   japanese = "服部正嗣 Hattori Masatsugu"
-[cover]
-  image = "trioexport-smallpieces-460.jpeg"
-  alt = "Cover art of Small Pieces for Flying Padre by Trio Export 63.1.0.X"
-  relative = true
 +++
 
 The album _Small Pieces for Flying Padre_ from Trio Export 63.1.0.X is a special release of a live jazz recording at Kanmachi 63 in Yokohama, Japan. The piano-bass-drums trio performs the set live as recorded, bringing the listener into the music through the raw recorded sound of the room for an “as if you were there” experience. The ambience of music in an enclosed space performed right in front of your eyes is captured well and transmits the energy of musical drama unfolding in unexpected ways.

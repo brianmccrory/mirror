@@ -9,7 +9,10 @@ slug = "harumi-nomoto-trio-belinda"
 releaseYear = 2007
 releaseLabel = "Anturtle Tune/BQ Records"
 releaseCode = "BQR-2040"
-issue = 115
+[cover]
+  image = "haruminomoto-belinda-460.jpeg"
+  alt = "Cover art of Belinda by Harumi Nomoto Trio"
+  relative = true
 [[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
@@ -25,10 +28,6 @@ issue = 115
   slug = "daisuke-yoshioka"
   instrument = "drums"
   japanese = "吉岡大輔 Yoshioka Daisuke"
-[cover]
-  image = "haruminomoto-belinda-460.jpeg"
-  alt = "Cover art of Belinda by Harumi Nomoto Trio"
-  relative = true
 +++
 
 Among the modern J-Jazz piano trio mainstays in the collection, Harumi Nomoto Trio’s _Belinda_ is a favorite album to return to for catchy cool original vibes with laid-back warmth. With both loose jams and well-crafted jazz compositions, the album ebbs and flows with mid-tempo grooves and contemporary swinging.

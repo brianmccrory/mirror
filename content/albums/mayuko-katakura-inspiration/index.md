@@ -9,7 +9,10 @@ slug = "mayuko-katakura-inspiration"
 releaseYear = 2009
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30554"
-issue = 25
+[cover]
+  image = "mayukokatakura-inspiration-460.jpeg"
+  alt = "Cover art of Inspiration by Mayuko Katakura"
+  relative = true
 [[credits]]
   name = "Mayuko Katakura"
   slug = "mayuko-katakura"
@@ -24,10 +27,6 @@ issue = 25
   name = "Carl Allen"
   slug = "carl-allen"
   instrument = "drums"
-[cover]
-  image = "mayukokatakura-inspiration-460.jpeg"
-  alt = "Cover art of Inspiration by Mayuko Katakura"
-  relative = true
 +++
 
 Pianist Mayuko Katakura’s 2009 debut album _Inspiration_ immediately impresses. The album kicks off at a rapid pace with “Blues For Tyner”, a tribute to one of her jazz inspirations pianist McCoy Tyner. Right from this fierce opening, Katakura’s amazing technique is on full display with angular, acrobatic lines flying through this up-tempo tune.

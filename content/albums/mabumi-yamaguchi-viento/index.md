@@ -9,7 +9,10 @@ slug = "mabumi-yamaguchi-viento"
 releaseYear = 2023
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-040"
-issue = 271
+[cover]
+  image = "mabumi-yamaguchi-viento-460.jpeg"
+  alt = "Cover art of Viento by Mabumi Yamaguchi"
+  relative = true
 [[credits]]
   name = "Mabumi Yamaguchi"
   slug = "mabumi-yamaguchi"
@@ -31,10 +34,6 @@ issue = 271
   instrument = "drums"
   japanese = "本田珠也 Honda Tamaya"
 related = ["yuichiro-aratake-light-flows-in", "mayuko-katakura-inspiration", "mayuko-katakura-faith", "les-komatis-les-komatis", "mayuko-katakura-echoes-of-three", "junichiro-ohkuchi-trio-invisible", "mabumi-yamaguchi-let-your-mind-alone", "nanami-haruta-ii", "naoko-tanaka-appreciation", "mamoru-ishida-afterglow"]
-[cover]
-  image = "mabumi-yamaguchi-viento-460.jpeg"
-  alt = "Cover art of Viento by Mabumi Yamaguchi"
-  relative = true
 +++
 
 Like Mamoru Ishida’s [Afterglow](/mamoru-ishida-afterglow/) introduced previously, Mabumi Yamaguchi’s _Viento_ is a 2023 jazz release from the Japanese jazz label Days of Delight which is doing a wonderful job of delivering the sound of authentic modern-day Japanese jazz in impeccably produced and attractive packages.

@@ -9,7 +9,10 @@ slug = "chihiro-yamanaka-trio-living-without-friday"
 releaseYear = 2001
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-016"
-issue = 104
+[cover]
+  image = "chihiroyamanaka-living-460.jpeg"
+  alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"
+  relative = true
 [[credits]]
   name = "Chihiro Yamanaka"
   slug = "chihiro-yamanaka"
@@ -23,10 +26,6 @@ issue = 104
   name = "LaFrae Olivia Sci"
   slug = "lafrae-olivia-sci"
   instrument = "drums"
-[cover]
-  image = "chihiroyamanaka-living-460.jpeg"
-  alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"
-  relative = true
 +++
 
 Jazz pianist Chihiro Yamanaka’s debut album _Living Without Friday_ turns 20 years old today! Released modestly on October 5, 2001, this album kicked off an impressive run of releases, setting the stage with memorable originals and reinvented standards while introducing new listeners to her amazing technique and creativity.

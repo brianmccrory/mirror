@@ -9,7 +9,10 @@ slug = "hamasaki-matsumoto-bigcatch"
 releaseYear = 2013
 releaseLabel = "Concept Records"
 releaseCode = "CR-01"
-issue = 50
+[cover]
+  image = "hamasaki-matsumoto-bigcatch-460.jpeg"
+  alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"
+  relative = true
 [[credits]]
   name = "Wataru Hamasaki"
   slug = "wataru-hamasaki"
@@ -45,10 +48,6 @@ issue = 50
   slug = "ryosuke-asai"
   instrument = "alto sax (#6)"
   japanese = "浅井良将 Asai Ryosuke"
-[cover]
-  image = "hamasaki-matsumoto-bigcatch-460.jpeg"
-  alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"
-  relative = true
 +++
 
 “Swing &amp; Blues” is the name of the game with /Big Catch/’s jazz quartet album from 2013. Undoubtedly, the concept of a jazz sax giant meeting a piano trio is a tried and true formula on classic jazz albums (“Ben Webster Meets Oscar Peterson” and “Coleman Hawkins with the Red Garland Trio” come to mind), and this quartet upholds the tradition properly with a big sound and spirit, singing and swinging, bluesy and fun all-around good-feeling jazz.

@@ -9,7 +9,10 @@ slug = "hikari-ichihara-sara-smile"
 releaseYear = 2006
 releaseLabel = "Leafage Jazz"
 releaseCode = "PCCY-60003"
-issue = 251
+[cover]
+  image = "hikari-ichihara-sara-smile-460.jpeg"
+  alt = "Cover art of Sara Smile by Hikari Ichihara"
+  relative = true
 [[credits]]
   name = "Hikari Ichihara"
   slug = "hikari-ichihara"
@@ -36,10 +39,6 @@ issue = 251
   slug = "grant-stewart"
   instrument = "tenor saxophone"
 related = ["hikari-ichihara-group-move-on"]
-[cover]
-  image = "hikari-ichihara-sara-smile-460.jpeg"
-  alt = "Cover art of Sara Smile by Hikari Ichihara"
-  relative = true
 +++
 
 _Sara Smile_ is the second album from trumpeter Hikari Ichihara, released in 2006. This nine-track album is an alluring mix of jazz standards, pop covers, and a few of Ichihara’s original compositions.

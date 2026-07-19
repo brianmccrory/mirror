@@ -9,7 +9,10 @@ slug = "noriko-satomi-a-love-supreme"
 releaseYear = 2019
 releaseLabel = "T-Toc Records"
 releaseCode = "TTOC-0032"
-issue = 95
+[cover]
+  image = "norikosatomi-lovesupreme-460.jpeg"
+  alt = "Cover art of A Love Supreme by Noriko Satomi"
+  relative = true
 [[credits]]
   name = "Noriko Satomi"
   slug = "noriko-satomi"
@@ -30,10 +33,6 @@ issue = 95
   slug = "masahiko-osaka"
   instrument = "drums"
   japanese = "大坂昌彦 Osaka Masahiko"
-[cover]
-  image = "norikosatomi-lovesupreme-460.jpeg"
-  alt = "Cover art of A Love Supreme by Noriko Satomi"
-  relative = true
 +++
 
 Noriko Satomi brings the passion and vibrancy of jazz violin to an acclaimed jazz composition on her 2019 homage to _A Love Supreme_, which received a Jazz Japan Award from _Jazz Japan_ magazine in January 2020.

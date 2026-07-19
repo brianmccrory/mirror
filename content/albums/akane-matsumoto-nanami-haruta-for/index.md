@@ -9,7 +9,10 @@ slug = "akane-matsumoto-nanami-haruta-for"
 releaseYear = 2023
 releaseLabel = "Concept Record"
 releaseCode = "CR-17"
-issue = 189
+[cover]
+  image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
+  alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"
+  relative = true
 [[credits]]
   name = "Nanami Haruta"
   slug = "nanami-haruta"
@@ -20,10 +23,6 @@ issue = 189
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-[cover]
-  image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
-  alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"
-  relative = true
 +++
 
 _For My Lady_ is a relaxing package of jazz standards performed by a sensitive trombone and piano duo. Akane Matsumoto, known for her impressive bebop and swing skills, joins up with young newcomer Nanami Haruta on trombone, and both players select favorites from the jazz standard library for this album, each song accompanied by comments in the liner notes translated below.

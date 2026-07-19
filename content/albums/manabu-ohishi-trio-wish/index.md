@@ -9,7 +9,10 @@ slug = "manabu-ohishi-trio-wish"
 releaseYear = 2010
 releaseLabel = "Atelier Sawano"
 releaseCode = "AS-100"
-issue = 38
+[cover]
+  image = "manabuohishi-wish-460.jpeg"
+  alt = "Cover art of Wish by Manabu Ohishi Trio"
+  relative = true
 [[credits]]
   name = "Manabu Ohishi"
   slug = "manabu-ohishi"
@@ -23,10 +26,6 @@ issue = 38
   name = "Simon Goubert"
   slug = "simon-goubert"
   instrument = "drums"
-[cover]
-  image = "manabuohishi-wish-460.jpeg"
-  alt = "Cover art of Wish by Manabu Ohishi Trio"
-  relative = true
 +++
 
 From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label’s concept of “hand-made jazz” features jazz music which one could describe as having Japanese attention to detail and craftsmanship with European touches. On _Wish_, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.

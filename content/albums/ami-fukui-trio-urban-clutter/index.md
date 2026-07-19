@@ -9,7 +9,10 @@ slug = "ami-fukui-trio-urban-clutter"
 releaseYear = 2010
 releaseLabel = "Anturtle Analog Recordings"
 releaseCode = "ANTX-4008"
-issue = 147
+[cover]
+  image = "amifukui-urbanclutter-460.jpeg"
+  alt = "Cover art of Urban Clutter by Ami Fukui Trio"
+  relative = true
 [[credits]]
   name = "Ami Fukui"
   slug = "ami-fukui"
@@ -25,10 +28,6 @@ issue = 147
   slug = "sohnosuke-imaizumi"
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[cover]
-  image = "amifukui-urbanclutter-460.jpeg"
-  alt = "Cover art of Urban Clutter by Ami Fukui Trio"
-  relative = true
 +++
 
 The twinkling chords which open Ami Fukui’s debut album _Urban Clutter_ from 2010 shine like a crystalline spotlight, signaling the immediately satisfying sounds and clean, uncomplicated feel-good grooves of the music to come. This first album from the jazz pianist lays down the groundwork for Fukui to showcase her compositional skills for jazz piano trio, which she will explore further on her follow-up albums _Amizm_ (2013) and _New Journey_ (2016).

@@ -9,7 +9,10 @@ slug = "fumio-karashima-trio-its-just-beginning"
 releaseYear = 2004
 releaseLabel = "Pit Inn Music"
 releaseCode = "VACM-1240"
-issue = 100
+[cover]
+  image = "fumiokarashima-beginning-460.jpeg"
+  alt = "Cover art of It’s Just Beginning by Fumio Karashima Trio"
+  relative = true
 [[credits]]
   name = "Fumio Karashima"
   slug = "fumio-karashima"
@@ -25,10 +28,6 @@ issue = 100
   slug = "shingo-okudaira"
   instrument = "drums"
   japanese = "奥平慎吾 Okudaira Shingo"
-[cover]
-  image = "fumiokarashima-beginning-460.jpeg"
-  alt = "Cover art of It’s Just Beginning by Fumio Karashima Trio"
-  relative = true
 +++
 
 Veteran jazz pianist Fumio Karashima was well-known in Japan for his quick, hard bop style and authentic feel which excited audiences at live concerts and tours as well as on albums. _It’s Just Beginning_ from 2004 is a studio-recorded album with the impulse of a live performance set. Indeed, the tracks were selected by the pianist to showcase the trio and the music performed during a 2003 tour, jazz standards reflecting a passion for genuine jazz with significance to the pianist. Karashima, who spent time with drummer Elvin Jones’ group as well as leading his own trios, gained fans both within Japan and overseas and knows how to deliver a good set, making this an exciting jazz trio album.

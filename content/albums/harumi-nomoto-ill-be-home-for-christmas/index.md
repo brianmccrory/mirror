@@ -9,17 +9,16 @@ slug = "harumi-nomoto-ill-be-home-for-christmas"
 releaseYear = 2023
 releaseLabel = "Okra Record"
 releaseCode = "HTM-1224"
-issue = 343
+[cover]
+  image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
+  alt = "Cover art of I’ll Be Home for Christmas by Harumi Nomoto"
+  relative = true
 [[credits]]
   name = "Harumi Nomoto"
   slug = "harumi-nomoto"
   instrument = "piano, Nord Stage EX"
   japanese = "野本晴美 Nomoto Harumi"
 related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo"]
-[cover]
-  image = "harumi-nomoto-ill-be-home-for-christmas-460.jpeg"
-  alt = "Cover art of I’ll Be Home for Christmas by Harumi Nomoto"
-  relative = true
 +++
 
 The 2023 release _I’ll Be Home for Christmas_ is a pleasant holiday collection of seasonal music from Japanese pianist Harumi Nomoto. The 31-minute album is an unexpected departure from her usual releases, as her previous three trio albums are filled with her unique style of contemporary jazz, [J Jazz](/whats-j-jazz/), and various world genre influences that add interesting layers to straight-ahead trio music.

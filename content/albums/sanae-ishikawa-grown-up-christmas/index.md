@@ -9,7 +9,10 @@ slug = "sanae-ishikawa-grown-up-christmas"
 releaseYear = 2018
 releaseLabel = "Sanae Ishikawa Seasonal Japanese Songbook Project"
 releaseCode = "SJSP-002"
-issue = 64
+[cover]
+  image = "sanaeishikawa-grownup-460.jpeg"
+  alt = "Cover art of Grown-up Christmas Gift by Sanae Ishikawa"
+  relative = true
 [[credits]]
   name = "Sanae Ishikawa"
   slug = "sanae-ishikawa"
@@ -35,10 +38,6 @@ issue = 64
   slug = "sohnosuke-imaizumi"
   instrument = "drums, bell"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[cover]
-  image = "sanaeishikawa-grownup-460.jpeg"
-  alt = "Cover art of Grown-up Christmas Gift by Sanae Ishikawa"
-  relative = true
 +++
 
 Enterprising singer Sanae Ishikawa presents us with her passionate voice on _Grown-up Christmas Gift_ from 2018, a mini-album celebrating classic and modern Christmas songs in a jazz and pop setting. As part of her successful Seasonal Japanese Songbook Project crowdfunding, the popular singer released this album along with her full-length album _冬-Winter-_ to great anticipation, just in time for the Christmas season that year. _春-Spring-_ (2019) and _夏-Summer-_ (2020) have also been released in this jazzy J-pop series, with a hope of seeing _秋-Autumn-_ in the not-too-distant future.

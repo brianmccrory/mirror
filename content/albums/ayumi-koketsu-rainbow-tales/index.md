@@ -9,7 +9,10 @@ slug = "ayumi-koketsu-rainbow-tales"
 releaseYear = 2012
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30620"
-issue = 43
+[cover]
+  image = "ayumikoketsu-rainbowtales-460.jpeg"
+  alt = "Cover art of Rainbow Tales by Ayumi Koketsu"
+  relative = true
 [[credits]]
   name = "Ayumi Koketsu"
   slug = "ayumi-koketsu"
@@ -28,10 +31,6 @@ issue = 43
   slug = "per-oddvar-johansen"
   instrument = "drums"
 related = ["ayumi-koketsu-art"]
-[cover]
-  image = "ayumikoketsu-rainbowtales-460.jpeg"
-  alt = "Cover art of Rainbow Tales by Ayumi Koketsu"
-  relative = true
 +++
 
 Saxophonist Ayumi Koketsu creates exciting modern jazz on her third album _Rainbow Tales_ from 2012, where she leads of group of accomplished Norwegian musicians on a modern-sounding recording.

@@ -9,7 +9,10 @@ slug = "tcq-memories-of-t"
 releaseYear = 2017
 releaseLabel = "D-neo Daiki Musica"
 releaseCode = "DNCD-13"
-issue = 125
+[cover]
+  image = "tcq-memoriesoft-460.jpeg"
+  alt = "Cover art of Memories of T by TCQ"
+  relative = true
 [[credits]]
   name = "Shawna Yang"
   slug = "shawna-yang"
@@ -29,10 +32,6 @@ issue = 125
   slug = "takeshi-sakamoto"
   instrument = "drums"
   japanese = "坂本健志 Sakamoto Takeshi"
-[cover]
-  image = "tcq-memoriesoft-460.jpeg"
-  alt = "Cover art of Memories of T by TCQ"
-  relative = true
 +++
 
 _Memories of T_ is a 2017 recording from the group TCQ which brings together Japanese and Taiwanese musicians for a cross-cultural jazz collaboration. This quartet features Taiwanese alto sax player Shawna Yang and three musicians from Japan: Naoko Tanaka on piano, Daiki Yasukagawa on bass, and Takeshi Sakamoto on drums. Eight original tracks make up the playlist, two apiece from each member, with a convivial atmosphere running throughout. The music is straightforward and pleasant with swing and bossa grooves underpinning their polished modern jazz sound.

@@ -9,7 +9,10 @@ slug = "shunichi-yanagi-trio-bubble-fish"
 releaseYear = 2012
 releaseLabel = "Truestar Entertainment"
 releaseCode = "TSR-51102"
-issue = 112
+[cover]
+  image = "shunichiyanagi-bubblefish-460.jpeg"
+  alt = "Cover art of Bubble Fish by Shunichi Yanagi Trio"
+  relative = true
 [[credits]]
   name = "Shunichi Yanagi"
   slug = "shunichi-yanagi"
@@ -25,10 +28,6 @@ issue = 112
   slug = "motoi-kanamori"
   instrument = "bass"
   japanese = "金森もとい Kanamori Motoi"
-[cover]
-  image = "shunichiyanagi-bubblefish-460.jpeg"
-  alt = "Cover art of Bubble Fish by Shunichi Yanagi Trio"
-  relative = true
 +++
 
 Jazz pianist Shunichi Yanagi releases a shimmering modern jazz recording with his Tokyo trio on his 2012 debut _Bubble Fish_. The ten original songs from the pianist incorporate rock edginess and hip coolness into piano jazz with attitude. Modern jazz trios like E.S.T. or The Bad Plus may have been influences to the trio’s kaleidoscopic sound, pushing traditional jazz boundaries with youthful freshness.

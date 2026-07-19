@@ -9,7 +9,10 @@ slug = "trigraph-fever"
 releaseYear = 2014
 releaseLabel = "Haru Records"
 releaseCode = "HARU-20"
-issue = 145
+[cover]
+  image = "trigraph-fever-460.jpeg"
+  alt = "Cover art of Fever by Trigraph"
+  relative = true
 [[credits]]
   name = "Takayoshi Baba"
   slug = "takayoshi-baba"
@@ -35,10 +38,6 @@ issue = 145
   slug = "yasushi-fukumori"
   instrument = "drums & chorus"
   japanese = "福森康 Fukumori Yasushi"
-[cover]
-  image = "trigraph-fever-460.jpeg"
-  alt = "Cover art of Fever by Trigraph"
-  relative = true
 +++
 
 _Fever_ is the 2014 debut release from Trigraph, a band that takes an eclectic approach to their music, focusing on jazz and pop while incorporating various genres and instruments into their music. The core group is the talented trio of musicians Sanae Ishikawa on vocals, Takayoshi Baba on guitar, and Reikan Kobayashi on shakuhachi and other instruments. Two additional musicians fill out the group for this recording, electric fretless bassist Ryoji Orihara, and drummer Yasushi Fukumori.

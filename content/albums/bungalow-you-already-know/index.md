@@ -9,7 +9,10 @@ slug = "bungalow-you-already-know"
 releaseYear = 2017
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10075"
-issue = 4
+[cover]
+  image = "bungalow-youalreadyknow-460.jpeg"
+  alt = "Cover art of You Already Know by Bungalow"
+  relative = true
 [[credits]]
   name = "Mike Rivett"
   slug = "mike-rivett"
@@ -29,10 +32,6 @@ issue = 4
   slug = "ko-omura"
   instrument = "Drums, Tabla"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "bungalow-youalreadyknow-460.jpeg"
-  alt = "Cover art of You Already Know by Bungalow"
-  relative = true
 +++
 
 On Bungalow’s fourth album _You Already Know_ (2017), the modern jazz group does what they do best with creative jazz, new ideas, and textured sounds. This album is rich with catchy ideas and incorporates elements of jazz groove, free jazz, Indian tabla drums, and electronic sound effects.

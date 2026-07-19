@@ -9,16 +9,15 @@ slug = "kenichiro-shinzawa-piano-works"
 releaseYear = 2009
 releaseLabel = "Iceblue Records"
 releaseCode = "IBRC-8001"
-issue = 40
+[cover]
+  image = "kenichiroshinzawa-pianoworks-460.jpeg"
+  alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"
+  relative = true
 [[credits]]
   name = "Ken'ichiro Shinzawa"
   slug = "kenichiro-shinzawa"
   instrument = "piano, composition"
   japanese = "新澤健一郎 Shinzawa Ken'ichiro"
-[cover]
-  image = "kenichiroshinzawa-pianoworks-460.jpeg"
-  alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"
-  relative = true
 +++
 
 Ideal for peaceful, calming piano, Ken’ichiro Shinzawa’s _Piano Works_ features seven original compositions with a sweet purity in the musical message.

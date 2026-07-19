@@ -9,7 +9,10 @@ slug = "george-nakajima-trio-first-touch"
 releaseYear = 2021
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWL-022"
-issue = 174
+[cover]
+  image = "george-nakajima-first-touch-460.jpeg"
+  alt = "Cover art of First Touch by George Nakajima Trio"
+  relative = true
 [[credits]]
   name = "George Nakajima"
   slug = "george-nakajima"
@@ -25,10 +28,6 @@ issue = 174
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-[cover]
-  image = "george-nakajima-first-touch-460.jpeg"
-  alt = "Cover art of First Touch by George Nakajima Trio"
-  relative = true
 +++
 
 On his debut album _First Touch_ from 2021, George Nakajima delivers the curated sound of his jazz piano trio, thoughtfully balancing song choices and playing set modestly between modern edge and old-fashioned homage. Through its seven tracks, the album is easy to enjoy and runs for a satisfying 46 minutes.

@@ -9,7 +9,10 @@ slug = "miyuki-moriya-cats-cradle"
 releaseYear = 2010
 releaseLabel = "Coume Music"
 releaseCode = "DQC-565"
-issue = 102
+[cover]
+  image = "miyukimoriya-cats-460.jpeg"
+  alt = "Cover art of Cat’s Cradle by Miyuki Moriya"
+  relative = true
 [[credits]]
   name = "Miyuki Moriya"
   slug = "miyuki-moriya"
@@ -35,10 +38,6 @@ issue = 102
   slug = "sohnosuke-imaizumi"
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[cover]
-  image = "miyukimoriya-cats-460.jpeg"
-  alt = "Cover art of Cat’s Cradle by Miyuki Moriya"
-  relative = true
 +++
 
 Miyuki Moriya’s _Cat’s Cradle_ from 2010 is modern jazz album from an alto sax quartet featuring engaging sounds and improvisation from exciting musicians. The allure of this album is deepened by the sax leader’s catchy originals, and listeners who are stimulated by angular jazz will be pulled into this music and want to return to these songs again and again.

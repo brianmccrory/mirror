@@ -9,7 +9,10 @@ slug = "motoi-kanamori-the-live"
 releaseYear = 2023
 releaseLabel = "Laplace Records"
 releaseCode = "LPDCD113-114"
-issue = 288
+[cover]
+  image = "motoi-kanamori-the-live-460.jpeg"
+  alt = "Cover art of The Live by Motoi Kanamori"
+  relative = true
 [[credits]]
   name = "Motoi Kanamori"
   slug = "motoi-kanamori"
@@ -46,10 +49,6 @@ issue = 288
   instrument = "cello"
   japanese = "橋本專史 Hashimoto Atsushi"
 related = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
-[cover]
-  image = "motoi-kanamori-the-live-460.jpeg"
-  alt = "Cover art of The Live by Motoi Kanamori"
-  relative = true
 +++
 
 Bassist Motoi Kanamori released his third album _The Live_ in 2023. This is a double CD album with a title that aptly reflects the energy of his group captured in a live concert recording. The two discs are divided between one set from his trio (with pianist Hiroyuki Takubo and drummer Akira Yamada) playing rearranged versions of classic jazz standards, and a second set from his trio with strings, featuring a four-piece string section of two violins, one viola, and one cello.

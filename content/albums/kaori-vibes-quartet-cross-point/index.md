@@ -9,7 +9,10 @@ slug = "kaori-vibes-quartet-cross-point"
 releaseYear = 2016
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0017"
-issue = 34
+[cover]
+  image = "kaorivibesquartet-crosspoint-460.jpeg"
+  alt = "Cover art of Cross Point by Kaori Vibes Quartet"
+  relative = true
 [[credits]]
   name = "Kaori Nakajima"
   slug = "kaori-nakajima"
@@ -30,10 +33,6 @@ issue = 34
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-[cover]
-  image = "kaorivibesquartet-crosspoint-460.jpeg"
-  alt = "Cover art of Cross Point by Kaori Vibes Quartet"
-  relative = true
 +++
 
 Vibist Kaori Nakajima returns with her second album _Cross Point_ featuring KVQ: Kaori Vibes Quartet (formerly Vangy!!), a jubilant combo with jazz vibraphone springing out mellow tones at the center.

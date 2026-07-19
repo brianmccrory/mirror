@@ -9,7 +9,10 @@ slug = "water-me-water-me"
 releaseYear = 2014
 releaseLabel = "Sunmoon Music"
 releaseCode = "SMCD-0005"
-issue = 130
+[cover]
+  image = "waterme-waterme-460.jpeg"
+  alt = "Cover art of Water Me! by Water Me!"
+  relative = true
 [[credits]]
   name = "Ayako Taira"
   slug = "ayako-taira"
@@ -35,10 +38,6 @@ issue = 130
   slug = "tomohiro-ota"
   instrument = "drums"
   japanese = "大田智洋 Ota Tomohiro"
-[cover]
-  image = "waterme-waterme-460.jpeg"
-  alt = "Cover art of Water Me! by Water Me!"
-  relative = true
 +++
 
 Inspiring contrasts like strong and warm, comforting and demanding, smoky and silky, the dual vocal front-line of “Water Me!” delivers new takes on familiar jazz tunes with _Water Me!_ from 2014. Vocalists Ayako Taira and Noriko Kotani harmonize and play off each other, syncing up or alternating in offset phrases as they combine, intertwine, and unspool melodies together.

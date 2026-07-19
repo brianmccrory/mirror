@@ -9,7 +9,10 @@ slug = "akane-matsumoto-oh-lady-be-good"
 releaseYear = 2019
 releaseLabel = "Concept Records"
 releaseCode = "CR-12"
-issue = 283
+[cover]
+  image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
+  alt = "Cover art of Oh, Lady Be Good by Akane Matsumoto"
+  relative = true
 [[credits]]
   name = "Akane Matsumoto"
   slug = "akane-matsumoto"
@@ -26,10 +29,6 @@ issue = 283
   instrument = "drums"
   japanese = "広瀬潤次 Hirose Junji"
 related = ["akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
-[cover]
-  image = "akane-matsumoto-oh-lady-be-good-460.jpeg"
-  alt = "Cover art of Oh, Lady Be Good by Akane Matsumoto"
-  relative = true
 +++
 
 _Oh, Lady Be Good_ is a piano trio album from Tokyo-based jazz pianist Akane Matsumoto. She’s been releasing trio recordings since 2008, along with albums playing with quartets and quintets, although her recent albums have featured her in small ensembles rather than her regular combos. In fact, since this record (recorded and released in 2019), her latest releases have focused on solo and duo formations, such as her piano album _[Little Girl Blue](/akane-matsumoto-little-girl-blue/)_ (2022), her duo with trombone on _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ (2023, with Nanami Haruta), and her latest piano and saxophone duo release _Trust_ (2024, with Ayumi Koketsu). All of which is to say that this album, _Oh, Lady Be Good_, is her most recent jazz piano trio release.

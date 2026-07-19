@@ -9,7 +9,10 @@ slug = "ko-omura-introspect"
 releaseYear = 2011
 releaseLabel = "Daiki Musica"
 releaseCode = "DMCD-12"
-issue = 47
+[cover]
+  image = "koomura-introspect-460.jpeg"
+  alt = "Cover art of Introspect by Ko Omura"
+  relative = true
 [[credits]]
   name = "Hakuei Kim"
   slug = "hakuei-kim"
@@ -35,10 +38,6 @@ issue = 47
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-[cover]
-  image = "koomura-introspect-460.jpeg"
-  alt = "Cover art of Introspect by Ko Omura"
-  relative = true
 +++
 
 Drummer Ko Omura leads the listener on his voyage of introspection on his debut album _Introspect_, portraying the colors and maps of his musical mind.

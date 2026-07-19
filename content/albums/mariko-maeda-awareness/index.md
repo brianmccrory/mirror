@@ -9,7 +9,10 @@ slug = "mariko-maeda-awareness"
 releaseYear = 2023
 releaseLabel = "DoLuck Jazz"
 releaseCode = "DLC-28"
-issue = 178
+[cover]
+  image = "mariko-maeda-awareness-460.jpeg"
+  alt = "Cover art of Awareness by Mariko Maeda"
+  relative = true
 [[credits]]
   name = "Mariko Maeda"
   slug = "mariko-maeda"
@@ -30,10 +33,6 @@ issue = 178
   slug = "yuto-maseki"
   instrument = "drums"
   japanese = "柵木雄斗 Maseki Yuto"
-[cover]
-  image = "mariko-maeda-awareness-460.jpeg"
-  alt = "Cover art of Awareness by Mariko Maeda"
-  relative = true
 +++
 
 _Awareness_ is the inspiring title of trombonist Mariko Maeda’s debut album of newly-recorded music that her jazz quartet is currently taking on tour in Japan. This eagerly-awaited debut album introduces listeners to Maeda’s style and influences through her artful playing and compositions. Fittingly, the cover art sets the mood with a beautiful painting that shows the young musician surrounded by symbols that tempt with possible clues and associations to the ten musical tracks.

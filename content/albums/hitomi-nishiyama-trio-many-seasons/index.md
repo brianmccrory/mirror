@@ -9,7 +9,10 @@ slug = "hitomi-nishiyama-trio-many-seasons"
 releaseYear = 2007
 releaseLabel = "Spice of Life"
 releaseCode = "SOLJP-0005"
-issue = 14
+[cover]
+  image = "hitominishiyama-manyseasons-460.jpeg"
+  alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
+  relative = true
 [[credits]]
   name = "Hitomi Nishiyama"
   slug = "hitomi-nishiyama"
@@ -23,10 +26,6 @@ issue = 14
   name = "Anders Kjellberg"
   slug = "anders-kjellberg"
   instrument = "drums"
-[cover]
-  image = "hitominishiyama-manyseasons-460.jpeg"
-  alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
-  relative = true
 +++
 
 With a clean, clear pianist’s touch melding jazz with classical and a subtle rock sensibility, Hitomi Nishiyama’s 2007 album _Many Seasons_ is reminiscent of great European jazz melodists (Giovanni Mirabassi comes to mind), with lyrical passages twisting through rich harmony and odd meters. Aside from the high technical prowess, the beautifully-written songs overflow with delicate emotion, with pangs of nostalgia and sweetness in abundance.

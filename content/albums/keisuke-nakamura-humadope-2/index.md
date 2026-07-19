@@ -9,7 +9,10 @@ slug = "keisuke-nakamura-humadope-2"
 releaseYear = 2019
 releaseLabel = "ANTXDEDE"
 releaseCode = "ANTXDEDE-3105"
-issue = 225
+[cover]
+  image = "keisuke-nakamura-humadope-2-460.jpeg"
+  alt = "Cover art of Humadope 2 by Keisuke Nakamura"
+  relative = true
 [[credits]]
   name = "Keisuke Nakamura"
   slug = "keisuke-nakamura"
@@ -36,10 +39,6 @@ issue = 225
   instrument = "drums"
   japanese = "竹村一哲 Takemura Ittetsu"
 related = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
-[cover]
-  image = "keisuke-nakamura-humadope-2-460.jpeg"
-  alt = "Cover art of Humadope 2 by Keisuke Nakamura"
-  relative = true
 +++
 
 _Humadope 2_ from trumpeter Keisuke Nakamura features his quintet playing modern jazz originals with unsupressible energy. With a slightly different lineup as on his debut album _[Humadope](/keisuke-nakamura-humadope/)_ (2014), the human/mad/dope sound is the same: fresh and boiling, jazzy and nonstop.

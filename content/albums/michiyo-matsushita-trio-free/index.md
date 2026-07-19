@@ -9,7 +9,10 @@ slug = "michiyo-matsushita-trio-free"
 releaseYear = 2024
 releaseLabel = "MUGI Record"
 releaseCode = "MUGI-2408"
-issue = 322
+[cover]
+  image = "michiyo-matsushita-trio-free-460.jpeg"
+  alt = "Cover art of Free by Michiyo Matsushita Trio"
+  relative = true
 [[credits]]
   name = "Michiyo Matsushita"
   slug = "michiyo-matsushita"
@@ -26,10 +29,6 @@ issue = 322
   instrument = "drums"
   japanese = "斉藤良 Saito Ryo"
 related = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
-[cover]
-  image = "michiyo-matsushita-trio-free-460.jpeg"
-  alt = "Cover art of Free by Michiyo Matsushita Trio"
-  relative = true
 +++
 
 _Free_ is the third album from the Michiyo Matsushita Trio. With the members active in their individual recording and playing schedules in Japan and internationally, they have continued to play together regularly as the Michiyo Matsushita Trio. Still, it had been 13 years since their previous 2011 release _Prayer for Peace_ (and half that since Matsushita’s 2018 solo album [_Sally Gardens_](/michiyo-matsushita-sally-gardens/)), so fans of the trio were pleasantly surprised to hear of this new offering coming out last year. As with the previous trio albums, old friends and long-running members Show Kudo on bass and Ryo Saito on drums join pianist Michiyo “Michiyon” Matsushita.

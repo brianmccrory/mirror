@@ -9,7 +9,10 @@ slug = "kaori-vibes-quartet-flying-mind"
 releaseYear = 2013
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0007"
-issue = 12
+[cover]
+  image = "kaorinakajima-flyingmind-460.jpeg"
+  alt = "Cover art of Flying Mind by Kaori Vibes Quartet"
+  relative = true
 [[credits]]
   name = "Kaori Nakajima"
   slug = "kaori-nakajima"
@@ -30,10 +33,6 @@ issue = 12
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-[cover]
-  image = "kaorinakajima-flyingmind-460.jpeg"
-  alt = "Cover art of Flying Mind by Kaori Vibes Quartet"
-  relative = true
 +++
 
 Kaori Vibes Quartet is a jazz quartet centered around the lovely ringing bell-tones of jazz vibraphone. After three years of playing together, the group formerly known as Vangy!! (note the vibraphone mallets “!!” in the name) released their eagerly awaited debut album _Flying Mind_ in 2013, much to fans’ delight.

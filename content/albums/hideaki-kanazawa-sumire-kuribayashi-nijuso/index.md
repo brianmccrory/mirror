@@ -9,7 +9,10 @@ slug = "hideaki-kanazawa-sumire-kuribayashi-nijuso"
 releaseYear = 2017
 releaseLabel = "Roving Spirits"
 releaseCode = "RKCJ-2063"
-issue = 94
+[cover]
+  image = "kanazawa-kuribayashi-nijuso-460.jpeg"
+  alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"
+  relative = true
 [[credits]]
   name = "Hideaki Kanazawa"
   slug = "hideaki-kanazawa"
@@ -20,10 +23,6 @@ issue = 94
   slug = "sumire-kuribayashi"
   instrument = "piano, percussion"
   japanese = "栗林すみれ Kuribayashi Sumire"
-[cover]
-  image = "kanazawa-kuribayashi-nijuso-460.jpeg"
-  alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"
-  relative = true
 +++
 
 Veteran bassist Hideaki Kanazawa and stellar pianist Sumire Kuribayashi join up for a calm and lyrical jazz duo on _Nijuso_ from 2017.

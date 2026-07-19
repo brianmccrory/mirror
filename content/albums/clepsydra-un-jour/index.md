@@ -9,7 +9,10 @@ slug = "clepsydra-un-jour"
 releaseYear = 2011
 releaseLabel = "Casnet Music"
 releaseCode = "CSNT-8006"
-issue = 265
+[cover]
+  image = "clepsydra-un-jour-460.jpeg"
+  alt = "Cover art of Un Jour by Clepsydra"
+  relative = true
 [[credits]]
   name = "Toshihiko Inoue"
   slug = "toshihiko-inoue"
@@ -31,10 +34,6 @@ issue = 265
   instrument = "percussion, glockenspiel, chorus"
   japanese = "仙道さおり Sendo Saori"
 related = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
-[cover]
-  image = "clepsydra-un-jour-460.jpeg"
-  alt = "Cover art of Un Jour by Clepsydra"
-  relative = true
 +++
 
 Clepsydra’s album _Un Jour_ from 2011 is an eclectic collection of eleven original songs that the quartet often played at live events throughout their musical journey (roughly 2006-2015). Their unusual name may be difficult to read and pronounce initially but is easy to remember when parsed as the three syllables _clep-sih-dra_. The meaning of the word is an ancient water clock, a device for telling time based on the movement of water through its construction. A charming storybook-style image of a clepsydra appears on the album cover.

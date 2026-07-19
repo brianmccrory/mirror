@@ -9,7 +9,10 @@ slug = "erisa-ogawa-where-have-u-been"
 releaseYear = 2019
 releaseLabel = "Uplift Jazz Record"
 releaseCode = "UJRC-19014"
-issue = 243
+[cover]
+  image = "erisa-ogawa-where-have-u-been-460.jpeg"
+  alt = "Cover art of Where Have U Been? by Erisa Ogawa"
+  relative = true
 [[credits]]
   name = "Erisa Ogawa"
   slug = "erisa-ogawa"
@@ -74,10 +77,6 @@ issue = 243
   slug = "takeru-yamazaki"
   instrument = "Rhodes & piano (#9)"
   japanese = "ヤマザキタケル Yamazaki Takeru"
-[cover]
-  image = "erisa-ogawa-where-have-u-been-460.jpeg"
-  alt = "Cover art of Where Have U Been? by Erisa Ogawa"
-  relative = true
 +++
 
 Erisa Ogawa (ERiSA) is a flutist, voice percussionist, and composer whose second album, /Where Have U Been? (/2019) is a jewel box of jazz and pop, mixed together into a smooth and stimulating album.

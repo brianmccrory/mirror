@@ -9,7 +9,10 @@ slug = "arco-birth"
 releaseYear = 2019
 releaseLabel = "dandanorchestra"
 releaseCode = "DAN-012"
-issue = 118
+[cover]
+  image = "arco-birth-460.jpeg"
+  alt = "Cover art of Birth by Arco"
+  relative = true
 [[credits]]
   name = "Sayaka Kishi"
   slug = "sayaka-kishi"
@@ -20,10 +23,6 @@ issue = 118
   slug = "mayumi-sano"
   instrument = "cello"
   japanese = "佐野まゆみ Sano Mayumi"
-[cover]
-  image = "arco-birth-460.jpeg"
-  alt = "Cover art of Birth by Arco"
-  relative = true
 +++
 
 The piano and cello duo Arco released their second album _Birth_ in 2019, two years after their debut _Asymmetry_, showing grace and refinement in a matured and eternally sunny outlook.

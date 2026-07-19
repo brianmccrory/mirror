@@ -38,7 +38,7 @@ theme = "PaperMod"
   [params.homeInfoParams]
   Title = "Welcome to Jazz of Japan"
   Content ="""
-Introducing modern-day jazz of Japan through albums, musicians, and clubs! The latest articles are shown below, and you can use the links in the menu above to dig into the archives. You can subscribe to <a href="https://buttondown.com/jazzofjapan">newsletter</a> by entering your email here:
+Introducing modern-day jazz of Japan through albums, musicians, and clubs! The latest articles are shown below, and you can use the links in the menu above to dig into the archives. You can subscribe to <a href="https://newsletter.jazzofjapan.com">newsletter</a> by entering your email here:
 {{< subscribe-form >}}
 """
 # - Popular articles: [Ten Top 10s for Live Jazz in Tokyo](/ten-top-10s-for-live-jazz-in-tokyo/) | [First-Timer’s Guide to Live Jazz in Japan](/first-timers-guide-to-live-jazz-in-japan/) | [Alfie](/alfie/) | [Blue Note Tokyo](/blue-note-tokyo/) | [Naru](/naru/) | [Pit Inn](/pit-inn/) | [Salt Peanuts](/salt-peanuts/) | [Sometime](/sometime/)
@@ -117,7 +117,7 @@ Introducing modern-day jazz of Japan through albums, musicians, and clubs! The l
   weight = 7
 [[menu.main]]
   name = "Subscribe"
-  url = "https://www.jazzofjapan.com"
+  url = "https://newsletter.jazzofjapan.com"
   weight = 8
 
 

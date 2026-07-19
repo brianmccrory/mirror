@@ -54,12 +54,6 @@
 </div>
 {{- end }}
 
-{{ if not (in (.Params.categories | default (slice)) "resources") }}
-<div class="post-content md-content">
-<hr>
-<p><em>Jazz of Japan • No. {{ .Params.issue }}{{ if not (in (.Params.categories | default (slice)) "albums") }} (Premium){{ end }} • {{ if not .Date.IsZero }}<span title='{{ .Date }}'>{{ .Date | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }}</span>{{ if not .Params.lastmod.IsZero }}{{if ne .Params.lastmod .Date }}<span title='{{ .Params.lastmod }}'> (rev. {{ .Params.lastmod | time.Format (site.Params.DateFormat | default "Jan 2, 2006") }})</span>{{ end }}{{ end }} • {{ end -}}{{ site.Params.author -}}</em></p></div>
-{{- end }}
-
 <hr>
 
 {{- if and (ne .Type "page") (or .Params.related (.Site.RegularPages.Related .)) }}

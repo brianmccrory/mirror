@@ -9,6 +9,7 @@ slug = "toshihiko-inoue-fuse"
 releaseYear = 1999
 releaseLabel = "Ewe Records"
 releaseCode = "EWCD-0010"
+related = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 [cover]
   image = "toshihiko-inoue-fuse-460.jpeg"
   alt = "Cover art of Fuse by Toshihiko Inoue"
@@ -33,7 +34,6 @@ releaseCode = "EWCD-0010"
   slug = "ken-tsunoda"
   instrument = "drums"
   japanese = "角田健 Tsunoda Ken"
-related = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 +++
 
 _Fuse_ is a 1999 album from saxophonist Toshihiko Inoue and his _fuse_ quartet made up of Inoue on sax, Nobumasa Tanaka on piano, Benisuke Sakai on bass, and Ken Tsunoda (Tsunoken) on drums. After growing up with jazz and accumulating years of experience with other jazz musicians’ bands and albums, Inoue started his own quartet in 1998 right before recording and releasing this album. With the album title _fuse_, it was also the name for his quartet, and in this way, a sort of self-titled album as his debut release as a band leader and composer.

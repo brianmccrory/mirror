@@ -9,6 +9,7 @@ slug = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues"
 releaseYear = 2025
 releaseLabel = "Concept Record"
 releaseCode = "CR-21"
+related = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
   alt = "Cover art of Listen to My Blues by Wataru Hamasaki & Akane Matsumoto"
@@ -23,7 +24,6 @@ releaseCode = "CR-21"
   slug = "akane-matsumoto"
   instrument = "piano"
   japanese = "松本茜 Matsumoto Akane"
-related = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 +++
 
 _Listen to My Blues_ is a 2025 jazz release from saxophonist Wataru Hamasaki and pianist Akane Matsumoto. The two musicians are known for performing together many times at live events and recording sessions, including as co-leaders of their Big Catch Quartet, a classy orthodox jazz unit with a soulful, big jazz sound. Additionally, each musician is popular individually as a leader of their own groups, like with Hamasaki’s Encounter quartet,  Matsumoto’s jazz piano trios, and as members of many other bands and combinations.

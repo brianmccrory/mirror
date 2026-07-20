@@ -3,7 +3,7 @@ title = "Indexes"
 author = ["Brian McCrory"]
 description = "Albums, musicians, and articles discussed on Jazz of Japan"
 publishDate = 2018-01-25
-lastmod = 2026-07-16
+lastmod = 2026-07-19
 tags = [""]
 categories = ["resources"]
 draft = false
@@ -11,14 +11,14 @@ slug = "indexes"
 issue = 1002
 +++
 
-<a href="#albums">Albums (299)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (375)</a>
+<a href="#albums">Albums (300)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (376)</a>
 
 <a id="albums"></a>
 
 ---
 
 
-## Albums (299)
+## Albums (300)
 
 _Index of albums discussed on this site_
 
@@ -29,6 +29,7 @@ _Index of albums discussed on this site_
 -   [Emiko Voice &amp; Yuka Yanagihara: _Enyana_](/emiko-voice-yuka-yanagihara-enyana/)
 -   [Harumi Nomoto Trio: _Anitya_](/harumi-nomoto-trio-anitya/)
 -   [Hitomi Aikawa &amp; Masaki Hayashi: _Ten To Sen_](/hitomi-aikawa-masaki-hayashi-ten-to-sen/)
+-   [Hitomi Nishiyama: _Songs_](/hitomi-nishiyama-songs/)
 -   [Kaito Nakamura: _Invisible Diary_](/kaito-nakamura-invisible-diary/)
 -   [Mayuko Katakura: _The Duality of My Soul_](/mayuko-katakura-duality-of-my-soul/)
 -   [Melodies: _Melodies_](/melodies-melodies/)
@@ -769,7 +770,7 @@ _Index of the musicians and the albums discussed on this site_
 -   Nishijima, Toru - 西嶋徹 - bass - [_Carta_](/emiko-voice-carta/) · [_Faces_](/kaoru-azuma-hitomi-nishiyama-faces/) · [_Dot_](/hitomi-nishiyama-dot/) · [_Echo_](/hitomi-nishiyama-echo/)
 -   Nishikawa, Terumasa - 西川輝正 - bass - [_Gallery_](/yukiko-hayakawa-trio-gallery/)
 -   Nishimura, Chie - 西村知恵 - vocal - [_Virtual Silence_](/chie-nishimura-virtual-silence/)
--   Nishiyama, Hitomi - 西山瞳 - piano - [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) · [_Many Seasons_](/hitomi-nishiyama-trio-many-seasons/) · [_Music in You_](/hitomi-nishiyama-trio-music-in-you/) · [_Astrolabe_](/hitomi-nishiyama-astrolabe/) · [_Sympathy_](/hitomi-nishiyama-trio-sympathy/) · [_Trios II_](/daiki-yasukagawa-trio-trios-ii/) · [_Live_](/hitomi-nishiyama-trio-parallax-live/) · [_The Tree of Life_](/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/) · [_Vibrant_](/hitomi-nishiyama-vibrant/) · [_Calling_](/hitomi-nishiyama-trio-calling/) · [_Dot_](/hitomi-nishiyama-dot/) · [_Echo_](/hitomi-nishiyama-echo/)
+-   Nishiyama, Hitomi - 西山瞳 - piano - [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) · [_Many Seasons_](/hitomi-nishiyama-trio-many-seasons/) · [_Music in You_](/hitomi-nishiyama-trio-music-in-you/) · [_Astrolabe_](/hitomi-nishiyama-astrolabe/) · [_Sympathy_](/hitomi-nishiyama-trio-sympathy/) · [_Trios II_](/daiki-yasukagawa-trio-trios-ii/) · [_Live_](/hitomi-nishiyama-trio-parallax-live/) · [_The Tree of Life_](/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/) · [_Vibrant_](/hitomi-nishiyama-vibrant/) · [_Calling_](/hitomi-nishiyama-trio-calling/) · [_Dot_](/hitomi-nishiyama-dot/) · [_Echo_](/hitomi-nishiyama-echo/) · [_Songs_](/hitomi-nishiyama-songs/)
 -   Nitta, Shinya - 仁田真也 - vocal - [_Tsutaete Ikou_](/seiji-endo-tsutaete-ikou/)
 -   Nobie - ノビー - vocal - [_Primary_](/nobie-primary/) · [_Les Komatis_](/les-komatis-les-komatis/) · [_Bénin Rio Tokyo_](/nobie-benin-rio-tokyo/) · [_Owari to Hajimari_](/nobie-takayoshi-baba-owari-to-hajimari/)
 -   Nomoto, Harumi - 野本晴美 - piano - [_Another Ordinary Day_](/harumi-nomoto-trio-another-ordinary-day/) · [_Belinda_](/harumi-nomoto-trio-belinda/) · [_Virgo_](/harumi-nomoto-trio-virgo/) · [_I’ll Be Home for Christmas_](/harumi-nomoto-ill-be-home-for-christmas/) · [_Anitya_](/harumi-nomoto-trio-anitya/)
@@ -1016,12 +1017,13 @@ _Index of the musicians and the albums discussed on this site_
 ---
 
 
-## Articles (375)
+## Articles (376)
 
 _Chronological sitemap with links to articles_
 
 **July 2026**
 
+-   [Hitomi Nishiyama: _Songs_](/hitomi-nishiyama-songs/)
 -   [Yudo Matsuo Quartet: _Songs in Motion_](/yudo-matsuo-quartet-songs-in-motion/)
 
 **June 2026**

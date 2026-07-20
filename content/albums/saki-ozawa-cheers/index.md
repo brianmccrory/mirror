@@ -9,6 +9,7 @@ slug = "saki-ozawa-cheers"
 releaseYear = 2023
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0027"
+related = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 [cover]
   image = "saki-ozawa-cheers-460.jpeg"
   alt = "Cover art of Cheers by Saki Ozawa"
@@ -38,7 +39,6 @@ releaseCode = "RBW-0027"
   slug = "ema"
   instrument = "vocal (#7)"
   japanese = "エマ Ema"
-related = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 +++
 
 _Cheers!_ is the happy-go-lucky title of pianist Saki Ozawa’s debut release from 2023. It’s a fitting greeting as an introduction to this set as one that is pleasantly nimble and widely lighthearted in style. The merriment of this statement begins even from the front cover image: a fun shot of the smiling pianist in an illustrated setting with friendly-looking characters including happy drinkers, a cat on a couch, and a duck with a backstory.

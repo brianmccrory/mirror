@@ -9,6 +9,7 @@ slug = "otohito-fuse-trio-isolated"
 releaseYear = 2024
 releaseLabel = "Otohito Fuse Music"
 releaseCode = "OFM-001"
+related = ["yuya-wakai-images"]
 [cover]
   image = "otohito-fuse-trio-isolated-460.jpeg"
   alt = "Cover art of Isolated by Otohito Fuse Trio"
@@ -28,7 +29,6 @@ releaseCode = "OFM-001"
   slug = "kaito-nakamura"
   instrument = "drums"
   japanese = "中村海斗 Nakamura Kaito"
-related = ["yuya-wakai-images"]
 +++
 
 _Isolated_ is a 2024 album from the Otohito Fuse Trio, a piano-bass-drums jazz group of popular and in-demand young Japanese jazz players. Led by pianist Otohito Fuse, the eight-track CD runs for sixty-five minutes from a brilliantly modern jazz piano trio.

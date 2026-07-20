@@ -9,6 +9,7 @@ slug = "magnolia-el-viento-y-las-flores"
 releaseYear = 2022
 releaseLabel = "Magnolia"
 releaseCode = "MGNL-0001"
+related = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
   alt = "Cover art of El viento y las flores by Magnolia"
@@ -28,7 +29,6 @@ releaseCode = "MGNL-0001"
   slug = "hitomi-aikawa"
   instrument = "percussion"
   japanese = "相川瞳 Aikawa Hitomi"
-related = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 +++
 
 Magnolia is a trio made up of vibraphone, piano, and percussion, and their debut album, _El viento y las flores_ was released in 2022. This fifty-six-minute album contains ten tracks of all original compositions, four from vibraphonist Reiko Yamamoto and three each from pianist Yuka Yanagihara and percussionist Hitomi Aikawa. Despite having three independent composers, their tight interplay and musical personalities seem tightly bound together, as if their collective music just blooms out intuitively unified.

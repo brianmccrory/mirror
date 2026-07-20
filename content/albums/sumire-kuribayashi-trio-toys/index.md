@@ -9,6 +9,7 @@ slug = "sumire-kuribayashi-trio-toys"
 releaseYear = 2014
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1003"
+related = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
   alt = "Cover art of Toys by Sumire Kuribayashi Trio"
@@ -28,7 +29,6 @@ releaseCode = "SCOL-1003"
   slug = "takehiro-shimizu"
   instrument = "drums"
   japanese = "清水勇博 Shimizu Takehiro"
-related = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 +++
 
 _Toys_ is pianist Sumire Kuribayashi’s debut leader album from 2014. Since then, the spirited musician has been on a tear, with several more leader albums released from her own projects as well as collaborations with a variety of Japanese and international musicians.

@@ -9,6 +9,7 @@ slug = "fumie-chiba-rougequeue"
 releaseYear = 2015
 releaseLabel = "Usagi Record"
 releaseCode = "UR-001"
+related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-rougequeue-460.jpeg"
   alt = "Cover art of Rougequeue by Fumie Chiba"
@@ -48,7 +49,6 @@ releaseCode = "UR-001"
   slug = "hirokazu-ishida"
   instrument = "soprano sax on #1"
   japanese = "石田寛和 Ishida Hirokazu"
-related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 +++
 
 _Rougequeue_ is a 2015 mini-album from pianist Fumie Chiba that features five of her original songs, three with jazz combos (septet, sextet, and trio), and two solo piano tracks. The uncommon word used for the album title is a French word for _redstart_, a small, colorful bird with a reddish-orange tail. Once the title is parsed and read as _roozh-kew_, it becomes easier to see and hear, but it maintains its aura of mystery and beauty. Even the word’s letters themselves seem to align, dip, and extend with a certain intentional pattern. The bird image and concepts are also easily applied to the five compositions contained under that title, music that is wonderfully vivid and that can take flight.

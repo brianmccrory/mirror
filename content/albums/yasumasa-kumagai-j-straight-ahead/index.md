@@ -10,6 +10,7 @@ slug = "yasumasa-kumagai-j-straight-ahead"
 releaseYear = 2015
 releaseLabel = "Jazzy Bear Records"
 releaseCode = "JZBR-0001"
+related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-jstraightahead-460.jpeg"
   alt = "Cover art of J-Straight Ahead by Yasumasa Kumagai"
@@ -29,7 +30,6 @@ releaseCode = "JZBR-0001"
   slug = "masahiko-osaka"
   instrument = "drums"
   japanese = "大坂昌彦 Osaka Masahiko"
-related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
 +++
 
 The jazz style of pianist/composer Yasumasa Kumagai has always been pinned to the leading edge of modern J Jazz built on a foundation of straight-ahead jazz standards and jams. With a strong influence from jazz pianist Robert Glasper, a one-time teacher of Kumagai, this pianist flows naturally with his fearless compositions and modern angles. Kumagai’s music is no-nonsense jazz rooted in tradition amidst elements of groovy gospel music, Latin flavors, and funky hip-hop — all with a fashionable streetwise attitude and a good-natured sense of humor.

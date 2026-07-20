@@ -9,6 +9,7 @@ slug = "eri-chichibu-crossing-reality"
 releaseYear = 2022
 releaseLabel = "ReBorn Wood"
 releaseCode = "RBW-0024"
+related = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
 [cover]
   image = "eri-chichibu-crossing-reality-460.jpeg"
   alt = "Cover art of Crossing Reality by Eri Chichibu"
@@ -103,7 +104,6 @@ releaseCode = "RBW-0024"
   slug = "yuta-fukuhara"
   instrument = "drums (tr. #8)"
   japanese = "福原雄太 Fukuhara Yuta"
-related = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
 +++
 
 Pianist and composer Eri Chichibu released her debut album _Crossing Reality_ in 2022. On it, she includes eight of her fine-tuned compositions for combos ranging from duos and trios to five-, seven-, eight-, and nine-member ensembles.

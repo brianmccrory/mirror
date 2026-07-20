@@ -9,6 +9,7 @@ slug = "kaoru-azuma-hitomi-nishiyama-faces"
 releaseYear = 2020
 releaseLabel = "Meantone Records"
 releaseCode = "MT-09"
+related = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 [cover]
   image = "kaoru-azuma-hitomi-nishiyama-faces-460.jpeg"
   alt = "Cover art of Faces by Kaoru Azuma / Hitomi Nishiyama"
@@ -38,7 +39,6 @@ releaseCode = "MT-09"
   slug = "ryosuke-hashizume"
   instrument = "tenor & soprano saxophones (#2, 3, 6, 7, 10)"
   japanese = "橋爪亮督 Hashizume Ryosuke"
-related = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 +++
 
 The album _Faces_ from 2020 is the follow-up to vocalist Kaoru Azuma and pianist Hitomi Nishiyama’s first album _Travels_ (2013). As with the earlier work, this album features mostly original compositions from the pianist that are delicately adorned with the light and airy voice of Azuma, who adds lyrics and instrument-like vocalizing to the music.

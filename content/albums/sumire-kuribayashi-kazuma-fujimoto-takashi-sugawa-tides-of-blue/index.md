@@ -9,6 +9,7 @@ slug = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"
 releaseYear = 2025
 releaseLabel = "Days of Delight"
 releaseCode = "DOD-051"
+related = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
   alt = "Cover art of Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa"
@@ -28,7 +29,6 @@ releaseCode = "DOD-051"
   slug = "takashi-sugawa"
   instrument = "bass"
   japanese = "須川崇志 Sugawa Takashi"
-related = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 +++
 
 _Tides of Blue_ is a 2025 release from the collaboration of Japanese jazz musicians Sumire Kuribayashi, Kazuma Fujimoto, and Takashi Sugawa on piano, guitar, and bass, respectively. On this album, the trio plays seven new songs, four composed by Kuribayashi and three by Fujimoto, for a total play time of 51 minutes.

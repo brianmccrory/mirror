@@ -9,6 +9,7 @@ slug = "emiko-voice-standard-trio"
 releaseYear = 2022
 releaseLabel = "GardenNotes Music"
 releaseCode = "GNM-1018"
+related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 [cover]
   image = "emiko-voice-standard-trio-460.jpeg"
   alt = "Cover art of Standard Trio by Emiko Voice"
@@ -28,7 +29,6 @@ releaseCode = "GNM-1018"
   slug = "atsushi-abe"
   instrument = "piano"
   japanese = "阿部篤志 Abe Atsushi"
-related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 +++
 
 Emiko Voice is always an interesting, active, and boundary-exploring musician, often simultaneously involved in a number of projects. Emphasizing her voice talent in her name (compared to a vocal or vocalist role), her singing, scatting, vocalese, and other voice skills are used liberally in her music. This includes her popular Brazilian music duo [Meu Coração](/meu-coracao-hall-tone/), swing and bebop [recordings with pianist Suga Dairo](/emiko-voice-x-suga-dairo-phase-2/), various chorus groups, duos, trios, and other groups with sometimes unconventional jazz combo formations.

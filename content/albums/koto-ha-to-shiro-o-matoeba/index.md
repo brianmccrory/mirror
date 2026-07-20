@@ -9,6 +9,7 @@ slug = "koto-ha-to-shiro-o-matoeba"
 releaseYear = 2017
 releaseLabel = "KOTOHATO"
 releaseCode = "KTHT-0001"
+related = ["yuki-ito-retattanni-no-mori"]
 [cover]
   image = "koto-ha-to-shiro-o-mateoba-460.jpeg"
   alt = "Cover art of Shiro o Matoeba by Koto ha, To"
@@ -28,7 +29,6 @@ releaseCode = "KTHT-0001"
   slug = "yuki-ito"
   instrument = "bass"
   japanese = "伊東佑季 Ito Yuki"
-related = ["yuki-ito-retattanni-no-mori"]
 +++
 
 “Koto ha, To” is a three-member musical project made up of vocalist Ayako Tsuchiya, pianist Kozue Tsukayama, and bassist Yuki Ito. Their album is titled _Shiro o Matoeba_ and was released in 2017.

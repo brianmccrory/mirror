@@ -9,6 +9,7 @@ slug = "hiro-kimura-trees"
 releaseYear = 2021
 releaseLabel = "KINO Records"
 releaseCode = "KIN-001"
+related = ["reiko-yamamoto-square-pyramid", "fumika-asari-introducin", "hiro-kimura-quintet-folds"]
 [cover]
   image = "hiro-kimura-trees-460.jpeg"
   alt = "Cover art of Trees by Hiro Kimura"
@@ -53,7 +54,6 @@ releaseCode = "KIN-001"
   slug = "hiro-kimura"
   instrument = "drums, percussion (#3)"
   japanese = "木村紘 Kimura Hiro"
-related = ["reiko-yamamoto-square-pyramid", "fumika-asari-introducin", "hiro-kimura-quintet-folds"]
 +++
 
 Drummer Hiro Kimura’s debut album from 2022 is _Trees_, a 61-minute modern jazz album recorded with two of his regular rhythm sections. The album was recorded over two days in the studio, the first with Naoko Tanaka on piano and Yuji Ito on bass, and the second with Mamoru Ishida on piano and Keisuke Furuki on bass.

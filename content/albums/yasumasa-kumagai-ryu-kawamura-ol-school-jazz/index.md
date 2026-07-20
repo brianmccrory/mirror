@@ -9,6 +9,7 @@ slug = "yasumasa-kumagai-ryu-kawamura-ol-school-jazz"
 releaseYear = 2009
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4005"
+related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ryukawamura-olschool-460.jpeg"
   alt = "Cover art of Ol’ School Jazz by Yasumasa Kumagai & Ryu Kawamura"
@@ -23,7 +24,6 @@ releaseCode = "ANTX-4005"
   slug = "ryu-kawamura"
   instrument = "bass"
   japanese = "川村竜 Kawamura Ryu"
-related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 +++
 
 In the style of classic apostrophe-bearing jazz album titles, pianist Yasumasa Kumagai and bassist Ryu Kawamura offer up _Ol’ School Jazz_, a collection of beloved jazz standards played with authenticity and a love for the era with their pared-down duo format.

@@ -9,6 +9,7 @@ slug = "hiroshi-fukutomi-quintet-rings-of-saturn"
 releaseYear = 2010
 releaseLabel = "D-musica"
 releaseCode = "DMCD-04"
+related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
   alt = "Cover art of Rings of Saturn by Hiroshi Fukutomi Quintet"
@@ -38,7 +39,6 @@ releaseCode = "DMCD-04"
   slug = "ryo-shibata"
   instrument = "drums"
   japanese = "柴田亮 Shibata Ryo"
-related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 +++
 
 Guitarist Hiroshi Fukutomi’s first album is _Rings of Saturn_ from 2010. On this recording, the guitarist plays modern jazz compositions under the flag of his own quintet featuring Masahiro Yamamoto on alto and soprano sax, Koichi Sato on piano (also on Fukutomi’s 2014 followup [_Memory Stones_](/hiroshi-fukutomi-memory-stones/)), Hiroshi Ikejiri on bass, and Ryo Shibata on drums.

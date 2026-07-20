@@ -9,6 +9,7 @@ slug = "jabuticaba-jabuticaba"
 releaseYear = 2021
 releaseLabel = "Owl Wing Record"
 releaseCode = "OWL-020"
+related = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "jabuticaba-jabuticaba-460.jpeg"
   alt = "Cover art of Jabuticaba by Jabuticaba"
@@ -33,7 +34,6 @@ releaseCode = "OWL-020"
   slug = "sota-kira"
   instrument = "drums (track #8)"
   japanese = "吉良創太 Kira Sota"
-related = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 +++
 
 _Jabuticaba_ is the self-titled debut record from pianist Mikiko Nagatake and saxophonist Nami Kano, two players active in the modern-day Japanese jazz scene as leaders of their own groups and members of other projects. Here on this 2021 release, these kindred spirits play eight songs, four originals and four reinterpreted cover songs from legends Carla Bley, Lee Konitz, and others.

@@ -9,6 +9,7 @@ slug = "miyuki-moriya-beyond-the-sea"
 releaseYear = 2024
 releaseLabel = "Coume Music"
 releaseCode = "CUM-2401"
+related = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", "miyuki-moriya-uta-oto"]
 [cover]
   image = "miyuki-moriya-beyond-the-sea-460.jpeg"
   alt = "Cover art of Beyond the Sea by Miyuki Moriya"
@@ -38,7 +39,6 @@ releaseCode = "CUM-2401"
   slug = "sohnosuke-imaizumi"
   instrument = "drums"
   japanese = "今泉総之輔 Imaizumi Sohnosuke"
-related = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", "miyuki-moriya-uta-oto"]
 +++
 
 _Beyond the Sea_ is saxophonist Miyuki Moriya’s fourth album as a leader, which she released in 2024 with her regular quartet of Mamoru Ishida (piano), Junichi Sato (bass), and Sohnosuke Imaizumi (drums). This album contains nine tracks over sixty-eight minutes and features mostly originals from the saxophonist, with two specially selected cover songs from Japanese jazz musicians that influenced her most in her jazz life.

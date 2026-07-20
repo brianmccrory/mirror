@@ -9,6 +9,7 @@ slug = "kunpei-nakabayashi-orchestra-circles"
 releaseYear = 2021
 releaseLabel = "KP-LAB"
 releaseCode = "KP-0001"
+related = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichihara-group-unity", "tokuhiro-doi-quartet-amalthea", "yoshihito-p-koizumi-by-coincidence", "miki-hirose-scratch", "koichi-sato-melancholy", "yasumasa-kumagai-last-resort", "hiro-kimura-quintet-folds"]
 [cover]
   image = "kunpei-nakabayashi-orchestra-circles-460.jpeg"
   alt = "Cover art of Circles by Kunpei Nakabayashi Orchestra"
@@ -63,7 +64,6 @@ releaseCode = "KP-0001"
   slug = "tomo-kanno"
   instrument = "drums"
   japanese = "菅野知明 Kanno Tomo"
-related = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichihara-group-unity", "tokuhiro-doi-quartet-amalthea", "yoshihito-p-koizumi-by-coincidence", "miki-hirose-scratch", "koichi-sato-melancholy", "yasumasa-kumagai-last-resort", "hiro-kimura-quintet-folds"]
 +++
 
 _Circles_ is a 2021 album from the Kunpei Nakabayashi Orchestra, a ten-member big band led by the group’s namesake leader and bassist. The CD has eight songs and runs for about forty-seven minutes, while the [streaming version](https://kp27music.bandcamp.com/album/circles) of the album includes six of the songs. This is Nakabayashi’s third release and the first with his orchestra.

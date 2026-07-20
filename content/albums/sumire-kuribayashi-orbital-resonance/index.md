@@ -9,6 +9,7 @@ slug = "sumire-kuribayashi-orbital-resonance"
 releaseYear = 2025
 releaseLabel = "Somethin’ Cool"
 releaseCode = "SCOL-1078"
+related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
   alt = "Cover art of Orbital Resonance by Sumire Kuribayashi"
@@ -33,7 +34,6 @@ releaseCode = "SCOL-1078"
   slug = "niran-dasika"
   instrument = "trumpet (#4, 5, 7)"
   japanese = "ニラン・ダシカ Dasika Niran"
-related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 +++
 
 The new album _Orbital Resonance_ from Sumire Kuribayashi, released in September 2025, is the latest creative output from the popular Japanese jazz pianist and composer. This graceful album contains eight original songs performed by the trio of Sumire Kuribayashi on piano, Motohiko Ichino on guitar, and Kyrie Anderson on drums, with guest trumpeter Niran Dasika making it a quartet on three songs.

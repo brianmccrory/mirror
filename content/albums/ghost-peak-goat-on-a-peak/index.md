@@ -9,6 +9,7 @@ slug = "ghost-peak-goat-on-a-peak"
 releaseYear = 2023
 releaseLabel = "Stereo Equipment Music Works"
 releaseCode = "SEMW-04"
+related = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
   alt = "Cover art of The Goat on a Peak by Ghost Peak"
@@ -33,7 +34,6 @@ releaseCode = "SEMW-04"
   slug = "hiroaki-mizutani"
   instrument = "bass"
   japanese = "水谷浩章 Mizutani Hiroaki"
-related = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 +++
 
 _The Goat on a Peak_ is a 2023 album from Ghost Peak, a band formed in 2022 by guitarist Shinji Miyazaki with Natsuki Tamura on trumpet, Taeko Kurita on piano, and Hiroaki Mizutani on bass. Guitarist and leader Miyazaki combines his background of modern jazz, improvisation, and a four-year stay in New York, with his jazz, rock, and avant-garde influences on his second Ghost Peak album.

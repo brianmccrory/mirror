@@ -9,6 +9,7 @@ slug = "hitomi-nishiyama-echo"
 releaseYear = 2024
 releaseLabel = "Meantone Records"
 releaseCode = "MT-13"
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 [cover]
   image = "hitomi-nishiyama-echo-460.jpeg"
   alt = "Cover art of Echo by Hitomi Nishiyama"
@@ -43,7 +44,6 @@ releaseCode = "MT-13"
   slug = "maiko"
   instrument = "violin (all tracks except #5)"
   japanese = "マイコ maiko"
-related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 +++
 
 _Echo_, from 2024, is pianist/composer Hitomi Nishiyama’s latest album and a response to her previous release _[Dot](/hitomi-nishiyama-dot/)_ from 2023. The music on this album was made with the same group and during the same recording sessions and as such, there are many similarities in sound and direction. In aura and conceptually, however, the differences are effectively portrayed by the separate covers and designs: Where _Dot_ shows a monochrome sketch-like grid of hand-drawn dots, _Echo_ places the pianists’ subtly Mona Lisa smile into a vividly abstract gauze of lilac and cobalt swirls and hues.

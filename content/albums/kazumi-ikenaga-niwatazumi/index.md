@@ -10,6 +10,7 @@ slug = "kazumi-ikenaga-niwatazumi"
 releaseYear = 2017
 releaseLabel = "Cloud"
 releaseCode = "DDCJ-4019"
+related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
   alt = "Cover art of Niwatazumi by Kazumi Ikenaga"
@@ -35,7 +36,6 @@ releaseCode = "DDCJ-4019"
   name = "Klaus Nørgaard"
   slug = "klaus-nrgaard"
   instrument = "bass"
-related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 +++
 
 _Niwatazumi_ is a wonderful modern jazz record from drummer Kazumi Ikenaga and Pauseland, a Danish group described as ambient jazz with Scandinavian folk influences. Spacey original compositions and mature musicianship flow in a breathy, open style resembling a modern ECM recording. Relaxing and anthemic, the music on _Niwatazumi_ (translated as a large puddle remaining after heavy rainfall) is at times mesmerizing and at other times gently rocking and grooving. It’s a captivating journey from a drummer’s quintet, focused on ethereal ambiance in a way that constructs scenes and visions drawn out of nature, memories, and the texture of life.

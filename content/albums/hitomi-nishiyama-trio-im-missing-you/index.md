@@ -9,6 +9,7 @@ slug = "hitomi-nishiyama-trio-im-missing-you"
 releaseYear = 2004
 releaseLabel = "Steps Records"
 releaseCode = "VNTM-04001"
+related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
   alt = "Cover art of I’m Missing You by Hitomi Nishiyama Trio"
@@ -38,7 +39,6 @@ releaseCode = "VNTM-04001"
   slug = "takehiro-shimizu"
   instrument = "drums (#9, 10, 11)"
   japanese = "清水勇博 Shimizu Takehiro"
-related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 +++
 
 Rewinding from the previous article on Hitomi Nishiyama’s _[Echo](/hitomi-nishiyama-echo/)_ from 2024, and connecting the dots (re: _[Dot](/hitomi-nishiyama-dot/)_, 2023), relistening to Hitomi Nishiyama Trio’s _I’m Missing You_ from 2004 provides a fascinating reflection.

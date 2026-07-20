@@ -9,6 +9,7 @@ slug = "polyglot-talk-vol-1"
 releaseYear = 2020
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10104"
+related = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
   alt = "Cover art of Talk, Vol. 1 by Polyglot"
@@ -32,7 +33,6 @@ releaseCode = "YZSO-10104"
   slug = "hiroyuki-ishikawa"
   instrument = "trumpet (3, 4, & 8)"
   japanese = "石川広行 Ishikawa Hiroyuki"
-related = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 +++
 
 Polyglot is drummer Ko Omura, pianist Steve Barry, and bassist Kosuke Ochiai, an Australian-Japanese jazz trio project whose first album _Talk, Vol. 1_ was released in 2020. Each member contributes original music for the 58-minute album’s eight tracks, with five from the pianist, two from the drummer, and one from the bassist.

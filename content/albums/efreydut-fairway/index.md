@@ -9,6 +9,7 @@ slug = "efreydut-fairway"
 releaseYear = 2024
 releaseLabel = "Tommy’s Record"
 releaseCode = "TW-002"
+related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "efreydut-fairway-460.jpeg"
   alt = "Cover art of Fairway by eFreydut"
@@ -27,7 +28,6 @@ releaseCode = "TW-002"
   name = "Kanoa Mendenhall"
   slug = "kanoa-mendenhall"
   instrument = "bass"
-related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 +++
 
 _Fairway_ is a new Japanese jazz album recorded last year in New York and released in Japan just last month. Drummer Ko Omura, pianist Mikiko Nagatake, and bassist Kanoa Mendenhall form a trio known as eFreydut for this album. The gorgeously recorded music contains ten tracks of innovative and in-control original jazz with a running time of fifty-three minutes.

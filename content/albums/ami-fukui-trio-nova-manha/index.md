@@ -9,6 +9,7 @@ slug = "ami-fukui-trio-nova-manha"
 releaseYear = 2022
 releaseLabel = "MAM Records"
 releaseCode = "MR-001"
+related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
   alt = "Cover art of Nova Manhã by Ami Fukui Trio"
@@ -28,7 +29,6 @@ releaseCode = "MR-001"
   slug = "sota-kira"
   instrument = "drums"
   japanese = "吉良創太 Kira Sota"
-related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 +++
 
 Pianist Ami Fukui continues her original jazz journey with _Nova Manhã_, her fourth leader album from 2022 with eight tracks running at about 45 minutes.

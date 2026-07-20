@@ -9,6 +9,7 @@ slug = "yuri-hirota-magical-moonlight"
 releaseYear = 2017
 releaseLabel = "Malt Oriental"
 releaseCode = "MORI-0003"
+related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
   alt = "Cover art of Magical Moonlight by Yuri Hirota"
@@ -38,7 +39,6 @@ releaseCode = "MORI-0003"
   slug = "yuichiro-hiraoka"
   instrument = "guitar on #1, 3, 7"
   japanese = "平岡遊一郎 Hiraoka Yuichiro"
-related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 +++
 
 Yuri Hirota’s album _Magical Moonlight_ was released in 2017 as a petite jazz gallery of some of her favorite songs and original compositions songs. These are played by pianist Hirota with her group,“Quartet Tsukino no Sampo” (月夜の散歩), which roughly translates to _The Walk on a Moonlight Night Quartet_.

@@ -9,6 +9,7 @@ slug = "fe-live-at-virtuoso"
 releaseYear = 2021
 releaseLabel = "Virtuoso"
 releaseCode = "VTS-006"
+related = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 [cover]
   image = "fe-live-at-virtuoso-460.jpeg"
   alt = "Cover art of Live at Virtuoso by Fe"
@@ -33,7 +34,6 @@ releaseCode = "VTS-006"
   slug = "shinobu-ishizaki"
   instrument = "saxophone"
   japanese = "石崎忍 Ishizaki Shinobu"
-related = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 +++
 
 The 2021 album _Live at Virtuoso_ by the quartet Fe was released by the jazz club Virtuoso in the nightlife district of Akasaka in Tokyo, Japan. Virtuoso is a great name for a music venue. Aside from the word being a term for master musicians, fans of jazz guitar will immediately recognize the reference to jazz guitarist Joe Pass’s landmark series of _Virtuoso_ albums. Naturally, Virtuoso features jazz guitar and guitar bands on many nights. The jazz club also occasionally releases albums such as this one on its in-house recording label.

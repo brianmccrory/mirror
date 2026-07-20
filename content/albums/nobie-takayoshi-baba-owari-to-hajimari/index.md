@@ -9,6 +9,7 @@ slug = "nobie-takayoshi-baba-owari-to-hajimari"
 releaseYear = 2023
 releaseLabel = "F.S.L."
 releaseCode = "FSCJ-0024"
+related = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
   alt = "Cover art of Owari to Hajimari by Nobie & Takayoshi Baba"
@@ -43,7 +44,6 @@ releaseCode = "FSCJ-0024"
   slug = "yoichi-okabe"
   instrument = "percussion (#2, 4, 10)"
   japanese = "岡部洋一 Okabe Yoichi"
-related = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 +++
 
 _Owari to Hajimari_ (_The End and the Beginning_) is a new album from the duo of vocalist Nobie and guitarist Takayoshi Baba. Released in 2023, this disc features forty minutes of music written and adopted from the duo’s repertoire and experience playing jazz, pop, and Brazilian music together.

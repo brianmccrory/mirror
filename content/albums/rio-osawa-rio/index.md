@@ -9,6 +9,7 @@ slug = "rio-osawa-rio"
 releaseYear = 2021
 releaseLabel = "Noel Records"
 releaseCode = "NR-001"
+related = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 [cover]
   image = "rio-osawa-rio-460.jpeg"
   alt = " Cover art of"
@@ -41,7 +42,6 @@ releaseCode = "NR-001"
   slug = "matsumonica"
   instrument = "chromatic harmonica (#3) (from Momijin)"
   japanese = "マツモニカ Matsumonica"
-related = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 +++
 
 _Rio_ is the first album from vocalist Rio Osawa, released in 2021 as a six song, 24 minute album of some favorite Brazilian and jazz bossa nova tunes.

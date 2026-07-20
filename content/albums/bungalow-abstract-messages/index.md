@@ -9,6 +9,7 @@ slug = "bungalow-abstract-messages"
 releaseYear = 2020
 releaseLabel = "Studio Songs"
 releaseCode = "YZSO-10109"
+related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
   alt = "Cover art of Abstract Messages by Bungalow"
@@ -35,7 +36,6 @@ releaseCode = "YZSO-10109"
   name = "Gordon Richter"
   slug = "gordon-richter"
   instrument = "clarinet & bassoon"
-related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 +++
 
 _Abstract Messages_ is the final record from the group Bungalow, an album created under unique circumstances and with a different structure from previous releases. A mix of acoustic instruments and electronic sounds, the album is not only full of beautiful music but is also an accomplishment of coordination, both in its creation and the dynamic of the music.

@@ -9,6 +9,7 @@ slug = "hideaki-hori-wataru-hamasaki-encounter"
 releaseYear = 2008
 releaseLabel = "BQ Records"
 releaseCode = "BQR-2043"
+related = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
   alt = "Cover art of Encounter by Hideaki Hori & Wataru Hamasaki"
@@ -38,7 +39,6 @@ releaseCode = "BQR-2043"
   slug = "satoshi-takino"
   instrument = "guitar (tracks #1, 4, 10)"
   japanese = "滝野聡 Takino Satoshi"
-related = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 +++
 
 _Encounter_ is the first album from co-leaders pianist Hideaki Hori and saxophonist Wataru Hamasaki, released in 2008. Since then, in addition to their other bands and activities, the two jazz musicians have continued to perform together and release many albums under the group name Encounter.

@@ -9,6 +9,7 @@ slug = "hitomi-aikawa-masaki-hayashi-ten-to-sen"
 releaseYear = 2025
 releaseLabel = "Hitomi Aikawa"
 releaseCode = "HICD-002"
+related = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-masaki-hayashi-ten-to-sen-460.jpeg"
   alt = "Cover art of Ten to Sen by Hitomi Aikawa & Masaki Hayashi"
@@ -23,7 +24,6 @@ releaseCode = "HICD-002"
   slug = "masaki-hayashi"
   instrument = "piano"
   japanese = "林正樹 Hayashi Masaki"
-related = ["clepsydra-un-jour", "toshihiko-inoue-and-masaki-hayashi", "hitomi-aikawa-sweet", "magnolia-el-viento-y-las-flores"]
 +++
 
 _Ten to Sen_ is a 2025 release from the duo of percussionist Hitomi Aikawa and pianist Masaki Hayashi. On this album, Aikawa plays marimba, glockenspiel, hand drums, and other percussion instruments, and she composed most on the music as well. Hayashi plays piano on all songs and contributed one composition to the album.

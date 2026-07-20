@@ -9,6 +9,7 @@ slug = "mamoru-ishida-ishida-mamoru-4-feat"
 releaseYear = 2011
 releaseLabel = "Anturtle Analog Recordings"
 releaseCode = "ANTX-1002"
+related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
   alt = "Cover art of Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida"
@@ -32,7 +33,6 @@ releaseCode = "ANTX-1002"
   slug = "ko-omura"
   instrument = "drums"
   japanese = "大村亘 Omura Ko"
-related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 +++
 
 Pianist Mamoru Ishida’s second album is titled /Ishida Mamoru 4 feat. Mike Rivett /and was released in 2011. With nine tracks over fifty-two minutes, the album presents a mix of covers, standards, and original compositions. The warm ballad “These Foolish Things” invites listeners in comfortably with a nostalgic calm, introducing a graceful jazz combo that respects traditional forms and songs loved by jazz fans.

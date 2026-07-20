@@ -9,6 +9,7 @@ slug = "shikou-ito-trio-syncretia-kakusareta-guwa"
 releaseYear = 2025
 releaseLabel = "Musica Visionaire"
 releaseCode = "MVSI-1003"
+related = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
   alt = "Cover art of Kakusareta Guwa by Shikou Ito Trio Syncretia"
@@ -28,7 +29,6 @@ releaseCode = "MVSI-1003"
   slug = "gen-ogimi"
   instrument = "percussion"
   japanese = "大儀見元 Ogimi Gen"
-related = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 +++
 
 _Kakusareta Guwa_ is a 2025 release from pianist Shikou Ito’s Trio Syncretia. A translation of the Japanese title, 隠された寓話, is also printed on the cover, and reads _allegorical stories-shaded_.

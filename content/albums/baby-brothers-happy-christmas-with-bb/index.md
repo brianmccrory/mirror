@@ -9,6 +9,7 @@ slug = "baby-brothers-happy-christmas-with-bb"
 releaseYear = 2007
 releaseLabel = "Baby Brothers"
 releaseCode = "Side B"
+related = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 [cover]
   image = "babybrothers-happy-christmas-460.jpeg"
   alt = "Cover art of Happy Christmas with Bb by Baby Brothers"
@@ -38,7 +39,6 @@ releaseCode = "Side B"
   slug = "yohhei"
   instrument = "vocal"
   japanese = "ようへい Yohhei"
-related = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 +++
 
 This special release from Baby Brothers, entitled _Happy Christmas with Bb (side b, the final live at plug and more)_, warmly celebrates the holidays and commemorates the vocal quintet’s final performance in 2007, layering bittersweet emotions with abundantly joyful singing and expression.

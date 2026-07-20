@@ -9,6 +9,7 @@ slug = "hikari-ichihara-group-unity"
 releaseYear = 2011
 releaseLabel = "After Beat / Pony Canyon"
 releaseCode = "PCCY-30187"
+related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-group-unity-460.jpeg"
   alt = "Cover art of Unity by Hikari Ichihara Group"
@@ -38,7 +39,6 @@ releaseCode = "PCCY-30187"
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 +++
 
 _Unity_ is the sixth album from trumpeter Hikari Ichihara and the second album from the Hikari Ichihara Group band name, following their excellent debut release _[Move On](/hikari-ichihara-group-move-on/)_ from 2010. _Unity_, released in 2011, features nine original songs and a playtime of fifty-six minutes.

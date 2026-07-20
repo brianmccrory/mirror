@@ -3,13 +3,26 @@ title = "Audio"
 author = ["Brian McCrory"]
 description = "Audio compilations of excerpts of songs selected from albums discussed on Jazz of Japan"
 publishDate = 2018-01-25
-lastmod = 2026-07-16
+lastmod = 2026-07-19
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "audio"
 issue = 1003
 +++
+
+<a id="mix-16"></a>
+
+---
+
+
+## Audio Mix #16
+
+<audio controls preload="none" style="width:100%; max-width:400px;">
+<source src="https://pub-e785095dc4fd4b1a828fe9eb8d30846b.r2.dev/audio/mix16.mp3" type="audio/mpeg">
+</audio>
+
+-   “Standing There スタンディング・ゼア” - [Hitomi Nishiyama: _Songs_](/hitomi-nishiyama-songs/) - 0:00:00
 
 <a id="mix-15"></a>
 

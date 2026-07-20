@@ -9,6 +9,7 @@ slug = "nobie-primary"
 releaseYear = 2011
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-0721"
+related = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 [cover]
   image = "nobie-primary-460.jpeg"
   alt = "Cover art of Primary by Nobie"
@@ -62,7 +63,6 @@ releaseCode = "ANTX-0721"
   slug = "satoshi-sano"
   instrument = "flute (#9)"
   japanese = "佐野聡 Sano Satoshi"
-related = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 +++
 
 Nobie is a multi-talented artist whose musical and professional paths started at a young age. These included learning the violin and piano which led to voice, percussion, and pharmacy studies, and through many genres like jazz, soul, pop, and Brazilian music.

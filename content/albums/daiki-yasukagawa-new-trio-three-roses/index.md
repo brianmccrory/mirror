@@ -9,6 +9,7 @@ slug = "daiki-yasukagawa-new-trio-three-roses"
 releaseYear = 2022
 releaseLabel = "Daiki Musika D-neo"
 releaseCode = "DNCD-28"
+related = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
   alt = "Cover art of The Three Roses by Daiki Yasukagawa New Trio"
@@ -28,7 +29,6 @@ releaseCode = "DNCD-28"
   slug = "yota-tsukada"
   instrument = "drums"
   japanese = "塚田陽太 Tsukada Yota"
-related = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 +++
 
 Renowned jazz bassist Daiki Yasukagawa is actively engaged in a variety of fascinating projects within the Japanese jazz scene. One of those, the Daiki Yasukagawa New Trio, released their first recording with this 2022 album, _The Three Roses_.

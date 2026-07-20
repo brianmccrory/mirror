@@ -9,6 +9,7 @@ slug = "makiyo-sakai-silver-painting"
 releaseYear = 2016
 releaseLabel = "Pony Canyon"
 releaseCode = "PCCY-30231"
+related = ["banda-feliz-boa-viagem"]
 [cover]
   image = "makiyo-sakai-silver-painting-460.jpeg"
   alt = "Cover art of Silver Painting by Makiyo Sakai"
@@ -38,7 +39,6 @@ releaseCode = "PCCY-30231"
   slug = "jun-kimura"
   instrument = "acoustic guitar (#2, 7)"
   japanese = "木村純 Kimura Jun"
-related = ["banda-feliz-boa-viagem"]
 +++
 
 For many people, classical music can be very relaxing, a soothing balm at certain times, or in uncertain times. Some jazz music is regarded in the same way, and there is even _smooth jazz_, after all.

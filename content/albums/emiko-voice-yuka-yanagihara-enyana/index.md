@@ -9,6 +9,7 @@ slug = "emiko-voice-yuka-yanagihara-enyana"
 releaseYear = 2025
 releaseLabel = "ENYANA Music"
 releaseCode = "EYM-0001"
+related = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-coracao-a-tempo", "emiko-voice-carta", "yuka-yanagihara-trio-inner-views", "emiko-voice-standard-trio", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "emiko-voice-yuka-yanagihara-enyana-460.jpeg"
   alt = "Cover art of Enyana by Emiko Voice & Yuka Yanagihara"
@@ -23,7 +24,6 @@ releaseCode = "EYM-0001"
   slug = "yuka-yanagihara"
   instrument = "piano"
   japanese = "柳原由佳 Yanagihara Yuka"
-related = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-coracao-a-tempo", "emiko-voice-carta", "yuka-yanagihara-trio-inner-views", "emiko-voice-standard-trio", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones"]
 +++
 
 _Enyana_ is the first collaboration album from vocalist Emiko Voice and pianist Yuka Yanagihara. Their new group and album name, _Enyana_, merges the _EMI_ of Emiko and _YANA_ of Yanagihara. There is also a bit of wordplay on the Japanese phrase _en ga aru /(縁がある) which can mean there’s a connection or linking of fates between people or things in a certain situation. One variation of the phrase is “/enyana!/” (縁やな! /or_ えにゃな!), a playful Kansai-dialect version with a meaning like “It must be fate!”

@@ -10,6 +10,7 @@ slug = "mabumi-yamaguchi-let-your-mind-alone"
 releaseYear = 2017
 releaseLabel = "Spice of Life"
 releaseCode = "SOLJP-0015"
+related = ["naoko-tanaka-appreciation"]
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
   alt = "Cover art of Let Your Mind Alone by Mabumi Yamaguchi"
@@ -39,7 +40,6 @@ releaseCode = "SOLJP-0015"
   slug = "nobuyuki-komatsu"
   instrument = "drums"
   japanese = "小松伸之 Komatsu Nobuyuki"
-related = ["naoko-tanaka-appreciation"]
 +++
 
 The silvery tones of masterful jazz sax glide and soar through dynamically modern jazz on Mabumi Yamaguchi’s 2017 recording _Let Your Mind Alone_.

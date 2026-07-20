@@ -9,6 +9,7 @@ slug = "yosuke-sato-george-nakajima-longing"
 releaseYear = 2023
 releaseLabel = "Pochizou"
 releaseCode = "POCH-2308"
+related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
   alt = "Cover art of Longing by Yosuke Sato & George Nakajima"
@@ -28,7 +29,6 @@ releaseCode = "POCH-2308"
   slug = "ema"
   instrument = "vocals (#7, 8)"
   japanese = "エマ Ema"
-related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 +++
 
 _Longing_ is the title of a 2023 jazz duo album from saxophonist Yosuke Sato and pianist George Nakajima. This is an eight-song, forty-five-minute album of familiar jazz standards and two Japanese pop songs. Of the eight songs, the first six are played by the elegant hand-in-glove duo of saxophone and piano. To wrap up the album, the duo becomes a trio as vocalist Ema joins in for the last two songs, singing beautifully in English and Japanese. The album’s title _Longing_ may lean into some unnamed persistent desire portrayed in their playing, the long ago brought to life through their selection of timeless songs.

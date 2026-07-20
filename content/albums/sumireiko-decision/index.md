@@ -9,6 +9,7 @@ slug = "sumireiko-decision"
 releaseYear = 2020
 releaseLabel = "Sumireiko"
 releaseCode = "Decision"
+related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 [cover]
   image = "sumireiko-decision-460.jpeg"
   alt = "Cover art of Decision by Sumireiko"
@@ -23,7 +24,6 @@ releaseCode = "Decision"
   slug = "sumire-kuribayashi"
   instrument = "piano"
   japanese = "栗林すみれ Kuribayashi Sumire"
-related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 +++
 
 _Decision_ is a 2020 album from the duo of vibraphonist Reiko Yamamoto and pianist Sumire Kuribayashi. This is their second album together as the duo “sumireiko” and follows their 2013 debut release _Blue Bird_. The two musicians have been playing together for fifteen years since meeting and forming their group, and in that time have developed a deep friendship that permeates their music with this intuitive emotional bond. In fact, the name _sumireiko_ was made by overlapping their first names, Sumire and Reiko, to create the name of their musical identity. Their first names, Sumire and Reiko, are even combined and overlapped to form their musical identity “sumireiko” (すみれ + れいこ = すみれいこ), another indication of their close musical affinity built on trust and friendship.

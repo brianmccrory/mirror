@@ -9,6 +9,7 @@ slug = "yukari-sekiya-duets-till-now-from-here"
 releaseYear = 2025
 releaseLabel = "Umishima Records"
 releaseCode = "USM-001"
+related = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and", "koichi-sato-embryo"]
 [cover]
   image = "yukari-sekiya-duets-till-now-from-here-460.jpeg"
   alt = "Cover art of Duets Till Now, From Here by Yukari Sekiya"
@@ -58,7 +59,6 @@ releaseCode = "USM-001"
   slug = "jin-mitsuda"
   instrument = "drums"
   japanese = "光田じん Mitsuda Jin"
-related = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and", "koichi-sato-embryo"]
 +++
 
 Pianist Yukari Sekiya released _Duets Till Now, From Here_ fourteen years after her 2011 debut recording [_It’s Ordinary Love And..._](/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/). This new album offers both a retrospective and a forward view of her music and musical partners through her years of playing. _Duets_ is a two-disc album with 16 songs, and the temporal themes of past and future are reinforced by the label assigned to each disc, with disc one titled “Till Now” and two as “From Here”.

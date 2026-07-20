@@ -9,6 +9,7 @@ slug = "yuki-ito-retattanni-no-mori"
 releaseYear = 2019
 releaseLabel = "Yuki Ito"
 releaseCode = "YDM-001"
+related = ["toshihiko-inoue-vayu", "maiko-solo"]
 [cover]
   image = "yuki-ito-retattanni-no-mori-460.jpeg"
   alt = "Cover art of Retattanni no Mori by Yuki Ito"
@@ -18,7 +19,6 @@ releaseCode = "YDM-001"
   slug = "yuki-ito"
   instrument = "bass"
   japanese = "伊東佑季 Ito Yuki"
-related = ["toshihiko-inoue-vayu", "maiko-solo"]
 +++
 
 _Retattanni no Mori_ (Birch Tree Forest) is a 2019 solo album from bassist Yuki Ito.

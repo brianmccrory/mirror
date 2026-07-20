@@ -9,6 +9,7 @@ slug = "chihiro-yamanaka-lach-doch-mal"
 releaseYear = 2006
 releaseLabel = "Verve"
 releaseCode = "UCCJ-9077"
+related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing"]
 [cover]
   image = "chihiro-yamanaka-lach-460.jpeg"
   alt = "Cover art of Lach Doch Mal by Chihiro Yamanaka"
@@ -30,7 +31,6 @@ releaseCode = "UCCJ-9077"
   name = "John Carlini"
   slug = "john-carlini"
   instrument = "guitar (#1, 5), banjo (#3)"
-related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing"]
 +++
 
 Pianist Chihiro Yamanaka’s thrilling series of jazz albums continues with her fifth audio release _Lach Doch Mal_, released in 2006 on Verve with twelve tracks at just under an hour’s runtime. A special edition CD release also contains an extra DVD containing an extra version of one of the songs.

@@ -9,6 +9,7 @@ slug = "ryosuke-hashizume-group-side-two"
 releaseYear = 2014
 releaseLabel = "Apollo Sounds"
 releaseCode = "APLS-1410"
+related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryo-hashizume-side-two-460.jpeg"
   alt = "Cover art of Side Two by Ryosuke Hashizume Group"
@@ -38,7 +39,6 @@ releaseCode = "APLS-1410"
   slug = "manabu-hashimoto"
   instrument = "drums, percussion"
   japanese = "橋本学 Hashimoto Manabu"
-related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 +++
 
 Saxophonist and composer Ryosuke Hashizume has released six albums with the Ryosuke Hashizume Group over nearly two decades. These albums feature Hashizume’s uniquely original compositions played by his long-running group. This group has mainly been a quintet (of sax, guitar, piano, bass, and drums) with many of the same members present throughout the years.

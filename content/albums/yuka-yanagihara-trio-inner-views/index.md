@@ -9,6 +9,7 @@ slug = "yuka-yanagihara-trio-inner-views"
 releaseYear = 2019
 releaseLabel = "Tomtom Cherry Music"
 releaseCode = "TCM-2002"
+related = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
   alt = "Cover art of Inner Views by Yuka Yanagihara Trio"
@@ -28,7 +29,6 @@ releaseCode = "TCM-2002"
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-related = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 +++
 
 Pianist Yuka Yanagihara’s second piano trio album is _Inner Views_ from 2019, where she plays eight of her original songs in a piano trio format with bassist Yoshiki Yamada and drummer Ryo Noritake. In harmony with the album’s title and cover image, the music is on the whole introspective, focused on the near rather than the far. As Yanagihara puts it herself, these are eight songs that focus on the landscape of one’s mind.

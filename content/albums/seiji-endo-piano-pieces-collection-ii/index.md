@@ -9,6 +9,7 @@ slug = "seiji-endo-piano-pieces-collection-ii"
 releaseYear = 2023
 releaseLabel = "Fair Play Records"
 releaseCode = "FPCD-1013"
+related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1", "seiji-endo-piano-pieces-collection"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-ii-460.jpeg"
   alt = "Cover art of Piano Pieces Collection II by Seiji Endo"
@@ -18,7 +19,6 @@ releaseCode = "FPCD-1013"
   slug = "seiji-endo"
   instrument = "piano"
   japanese = "遠藤征志 Endo Seiji"
-related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1", "seiji-endo-piano-pieces-collection"]
 +++
 
 _Piano Pieces Collection II_ is pianist Seiji Endo’s follow-up to his 2021 release _[Piano Pieces Collection](/seiji-endo-piano-pieces-collection/)_. Continuing in the same mood and mode, Endo plays solo piano music of his own hand, compositions that are infused with his motivation to move and support listeners through his music. Although the two recordings are separated by a few years, it wouldn’t be too far off to consider this sequel the second half of a double-album record.

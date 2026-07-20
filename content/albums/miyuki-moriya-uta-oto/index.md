@@ -9,6 +9,7 @@ slug = "miyuki-moriya-uta-oto"
 releaseYear = 2021
 releaseLabel = "Coume Music"
 releaseCode = "CUM-2101"
+related = ["miyuki-moriya-cats-cradle"]
 [cover]
   image = "miyuki-moriya-uta-oto-460.jpeg"
   alt = "Cover art of Uta Oto by Miyuki Moriya"
@@ -28,7 +29,6 @@ releaseCode = "CUM-2101"
   slug = "hiroshi-yoshino"
   instrument = "bass"
   japanese = "吉野弘志 Yoshino Hiroshi"
-related = ["miyuki-moriya-cats-cradle"]
 +++
 
 _Uta Oto_ from sax player Miyuki Moriya is a modern jazz album full of emotion and spirit… a bit spiritual, even. The music created by Moriya’s trio ranges from brooding and wistful, to simple cheer, folk, free, and comforting. As the music plays the mood passes from somber strife to resurgence like a theme hinted at in the liner notes, a story of rejuvenation through musical inspiration and partnership.

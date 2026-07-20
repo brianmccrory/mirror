@@ -9,6 +9,7 @@ slug = "yuji-ito-koichi-hirata-duo-two-for-the-road"
 releaseYear = 2024
 releaseLabel = "NONET"
 releaseCode = "NONET-3"
+related = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
   alt = "Cover art of Two for the Road by Yuji Ito & Koichi Hirata Duo"
@@ -33,7 +34,6 @@ releaseCode = "NONET-3"
   slug = "yusuke-yaginuma"
   instrument = "drums (tracks #4, 5)"
   japanese = "柳沼佑育 Yaginuma Yusuke"
-related = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 +++
 
 _Two for the Road_ is a 2024 album from bassist Yuji Ito and guitarist Koichi Hirata, working as a duo here on their first collaboration. Both musicians are young, still in their 20s and 30s, yet their style, vocabulary, and tone speak of a maturity born of attentive listening, devotion, and playing experience.

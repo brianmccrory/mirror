@@ -9,6 +9,7 @@ slug = "ami-fukui-trio-mcy"
 releaseYear = 2023
 releaseLabel = "MAM Records"
 releaseCode = "MR-002"
+related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
   alt = "Cover art of MCY by Ami Fukui Trio"
@@ -32,7 +33,6 @@ releaseCode = "MR-002"
   name = "Kouki"
   slug = "kouki"
   instrument = "vocal (track #8)"
-related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 +++
 
 It was a surprise when Ami Fukui released even more new songs and arrangements with her trio on her release _MCY_ (2023) so soon after her previous trio album _[Nova Manhã](/ami-fukui-trio-nova-manha/)_ (2022). It does fit well, though, when considering the two albums as a set, as if they were a double album released in two parts. In fact, the songs for both albums were recorded during the same two-day recording session in November 2011. It was an opportune time, as the trio had plenty of live experience together, along with a nice batch of Fukui’s original songs to work with.

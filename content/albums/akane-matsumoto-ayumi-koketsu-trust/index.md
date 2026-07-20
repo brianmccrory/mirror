@@ -9,6 +9,7 @@ slug = "akane-matsumoto-ayumi-koketsu-trust"
 releaseYear = 2024
 releaseLabel = "Concept Record"
 releaseCode = "CR-18"
+related = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-ayumi-koketsu-trust-460.jpeg"
   alt = "Cover art of Trust by Akane Matsumoto & Ayumi Koketsu"
@@ -23,7 +24,6 @@ releaseCode = "CR-18"
   slug = "ayumi-koketsu"
   instrument = "saxophone"
   japanese = "纐纈歩美 Koketsu Ayumi"
-related = ["akane-matsumoto-playing-new-york", "ayumi-koketsu-rainbow-tales", "hamasaki-matsumoto-bigcatch", "keisuke-nakamura-humadope", "akane-matsumoto-memories-of-you", "ayumi-koketsu-art", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for"]
 +++
 
 _Trust_ is a 2024 release from the duo of pianist Akane Matsumoto and saxophonist Ayumi Koketsu. These two musicians are leaders of their own combos, members of other groups, and also friends and working bandmates for many years running. The pair have gathered a lot of performance experience from live shows and tours taken together and have developed a deep connection between their musical instincts. Surprisingly, _Trust_ is the first album they’ve recorded together. This serendipitously timed release also commemorates twelve years of their working together, a number that is meaningful in Japan for its significance in cyclic durations and milestones, symbolizing the closing of loops and the start of new stages. Perhaps it can be said that trust grows over time, and it’s wise not to rush it.

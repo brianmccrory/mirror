@@ -9,6 +9,7 @@ slug = "kaori-vibes-quartet-starry-nights"
 releaseYear = 2021
 releaseLabel = "Urban Jazz"
 releaseCode = "151A-0027"
+related = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
 [cover]
   image = "kaori-vibes-quartet-starry-nights-460.jpeg"
   alt = "Cover art of Starry Nights by Kaori Vibes Quartet"
@@ -33,7 +34,6 @@ releaseCode = "151A-0027"
   slug = "masanori-ando"
   instrument = "drums"
   japanese = "安藤正則 Ando Masanori"
-related = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
 +++
 
 _Starry Nights_ is the latest album from the Kaori Vibes Quartet. This is leader Kaori Nakajima’s third album with her group, following her _[Flying Mind](/kaori-vibes-quartet-flying-mind/)_ and /[Cross Point](/kaori-vibes-quartet-cross-point/) /releases. On her debut album, Nakajima’s quartet previously went by Vangy!!, a charming name that combines the V from vibraphone with an initial from each musician, and decorated with two mallet-like exclamation points… though, four “!!!!” would also work, as Nakajima impressively plays the instrument with two mallets in each hand in the style of famous modern jazz vibists Bobby Hutcherson and Gary Burton.

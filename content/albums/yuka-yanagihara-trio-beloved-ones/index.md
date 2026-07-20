@@ -9,6 +9,7 @@ slug = "yuka-yanagihara-trio-beloved-ones"
 releaseYear = 2024
 releaseLabel = "Tomtom Cherry Music"
 releaseCode = "TCM-2004"
+related = ["yuka-yanagihara-trio-inner-views"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
   alt = "Cover art of Beloved Ones by Yuka Yanagihara Trio"
@@ -28,7 +29,6 @@ releaseCode = "TCM-2004"
   slug = "ryo-noritake"
   instrument = "drums"
   japanese = "則武諒 Noritake Ryo"
-related = ["yuka-yanagihara-trio-inner-views"]
 +++
 
 Like pianist Yuka Yanagihara’s previous album _Inner Views_ from 2019, her songs on this year’s release _Beloved Ones_ are also focused on both external vistas and inner reflections. It is as if the inner-outer boundary is balanced, permeable, and transferring the trio’s music and inspiration from in to out and back again, fluidly.

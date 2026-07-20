@@ -9,6 +9,7 @@ slug = "koichi-sato-embryo"
 releaseYear = 2021
 releaseLabel = "Nagalu"
 releaseCode = "NAGALU-003/004"
+related = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 [cover]
   image = "koichi-sato-embryo-460.jpeg"
   alt = "Cover art of Embryo by Koichi Sato"
@@ -56,7 +57,6 @@ releaseCode = "NAGALU-003/004"
   name = "Zeze Wakamatsu"
   slug = "zeze-wakamatsu"
   instrument = "soundscape (Disc 2: #4)"
-related = ["koichi-sato-utopia", "koichi-sato-melancholy"]
 +++
 
 Koichi Sato’s two-disc album _Embryo_ is another remarkable showcase for the talented composer/arranger/pianist. Unfolding the gift-like box presents two CDs enclosed in an [all-paper-and-cardboard-constructed package](https://www.nagalu.jp/embryo), a pleasing way to open the concept album. The placid cover art also carries a surprise, one that is illuminated when the lights are turned down for a listening session.

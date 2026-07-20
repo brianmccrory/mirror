@@ -9,6 +9,7 @@ slug = "hitomi-aikawa-sweet"
 releaseYear = 2018
 releaseLabel = "Hitomi Aikawa"
 releaseCode = "HICD-001"
+related = ["magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
   alt = "Cover art of Sweet by Hitomi Aikawa"
@@ -38,7 +39,6 @@ releaseCode = "HICD-001"
   slug = "eri-uenoyama"
   instrument = "piano (#8, 9)"
   japanese = "上野山英里 Uenoyama Eri"
-related = ["magnolia-el-viento-y-las-flores"]
 +++
 
 _Sweet_ is the title of percussionist Hitomi Aikawa’s debut album. It was recorded and released in Japan in 2018 and contains fourteen of her compositions. A multi-instrumentalist, Aikawa plays various instruments on the songs and is joined on many of them by special guests Masaki Hayashi and Eri Uenoyama on piano, Hiroshi Suzuki on woodwinds, and Megumi Hattori on vibraphone.

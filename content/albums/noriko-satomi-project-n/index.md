@@ -9,6 +9,7 @@ slug = "noriko-satomi-project-n"
 releaseYear = 2017
 releaseLabel = "Altered Records"
 releaseCode = "ALTVN-1001"
+related = ["noriko-satomi-a-love-supreme"]
 [cover]
   image = "noriko-satomi-project-n-460.jpg"
   alt = "Cover art of Project-N by Noriko Satomi"
@@ -33,7 +34,6 @@ releaseCode = "ALTVN-1001"
   slug = "masahiko-osaka"
   instrument = "drums"
   japanese = "大坂昌彦 Osaka Masahiko"
-related = ["noriko-satomi-a-love-supreme"]
 +++
 
 _Project-N_ is the debut album from violinist Noriko Satomi, a classically trained violinist and “Nissan Presents Jazz Japan 2019” award winner. Satomi is active in the Japanese jazz live scene as a jazz violinist and graces many live spots with her beautiful string tone and charming presence.

@@ -10,6 +10,7 @@ slug = "yasumasa-kumagai-i-need-a-change-too"
 releaseYear = 2008
 releaseLabel = "Anturtle Tune"
 releaseCode = "ANTX-4001"
+related = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
   alt = "Cover art of I Need a Change, Too by Yasumasa Kumagai"
@@ -44,7 +45,6 @@ releaseCode = "ANTX-4001"
   slug = "tabu-zombie"
   instrument = "trumpet (#13)"
   japanese = "タブゾンビ Tabu Zombie"
-related = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 +++
 
 Yasumasa Kumagai’s debut album from 2008, _I Need a Change, Too_, establishes his J Jazz hip hop concept with force: From the shocking pink cover art and the unexpected electronic soulful beats of the brief opening track “I.N.T.R.O.”, the album takes thrilling twists and turns through jazz laced with groove, centered on a powerfully soulful and vibrant modern jazz piano trio.

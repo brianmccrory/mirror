@@ -9,6 +9,7 @@ slug = "ayumi-koketsu-art"
 releaseYear = 2016
 releaseLabel = "Pony Canyon"
 releaseCode = "MYCJ-30653"
+related = ["ayumi-koketsu-rainbow-tales"]
 [cover]
   image = "ayumikoketsu-art-460.jpeg"
   alt = "Cover art of Art by Ayumi Koketsu"
@@ -30,7 +31,6 @@ releaseCode = "MYCJ-30653"
   name = "Mark Taylor"
   slug = "mark-taylor"
   instrument = "drums"
-related = ["ayumi-koketsu-rainbow-tales"]
 +++
 
 Alto saxophonist Ayumi Koketsu released a sophisticated tribute to Art Pepper on her album _Art_ from 2016. With slick bop lines and a fresh spirit, Koketsu and her bandmates deliver the goods sincerely, kicking things off at high tempos with “Cool Bunny” and “Straight Life” before moving into other moods of mid-tempo bop and ballads. Koketsu is a prolific artist who releases high-quality albums and often uses overseas musicians for her backup band. This album will satisfy fans of straight-ahead jazz quartets with a bright and exciting saxophone prodigy taking center stage.

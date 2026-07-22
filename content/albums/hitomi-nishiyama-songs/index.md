@@ -2,7 +2,6 @@
 title = "Hitomi Nishiyama: Songs"
 author = ["Brian McCrory"]
 publishDate = 2026-07-19
-keywords = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-astrolabe", "hitomi-nishiyama-vibrant"]
 tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
@@ -22,7 +21,7 @@ related = ["hitomi-nishiyama-trio-im-missing-you", "hitomi-nishiyama-trio-many-s
   japanese = "西山瞳 Nishiyama Hitomi"
 +++
 
-_Songs_ is the current latest album from pianist/composer Hitomi Nishiyama, although her new album _Layer_ due to be released in the next few months. Here, _Songs_ occupies a momentous slot in Nishiyama’s recorded output, as it is a milestone album that looks back over some of her early compositions beginning with her debut album [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) from 2004. (While I’ve previously introduced over a dozen of her albums here to date, I still have an almost equal amount of her other albums that I will include someday. But for now, as her new album is due out soon, I want to catch up and include her current latest album.)
+_Songs_ is the current latest album from pianist/composer Hitomi Nishiyama, with her new album _Layer_ due to be released in the next few months. Here, _Songs_ occupies a momentous slot in Nishiyama’s recorded output, as it is a milestone album that looks back over some of her early compositions beginning with her debut album [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) from 2004. While I’ve previously introduced over a dozen of her albums here to date, I still have an almost equal amount of her other albums that I will include someday. But for now, as her new album is due out soon, I want to catch up and include her current latest album.
 
 {{< figure src="L1350900x-1200.jpeg" alt="Front cover of CD “Songs” by Hitomi Nishiyama" link="L1350900x-1200.jpeg" >}}
 
@@ -163,13 +162,4 @@ A gem-filled collection of piano pieces, secretly assembled
 {{< youtube LIqX0QymLo4 >}}
 
 -   [Streaming services for Hitomi Nishiyama: _Songs_](https://linkco.re/Vg452XhR?lang=en)
--   [Excerpt from track #2: “Blue violet”](/audio/#mix-16)
-
-
-## _Songs_ by Hitomi Nishiyama
-
--   [Hitomi Nishiyama](https://hitominishiyama.net/) - piano
-
-Released in 2025 on Meantone Records as MT-15.
-
-_Japanese names: 西山瞳 Nishiyama Hitomi_
+-   [Excerpt from track #5: “Standing There”](/audio/#mix-16)

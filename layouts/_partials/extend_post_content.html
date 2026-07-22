@@ -31,7 +31,7 @@
 
 
 
-{{- if and .Params.categories (in .Params.categories "extra") }}
+{{- if and .Params.clubName (and .Params.categories (in .Params.categories "extra")) }}
 {{- $location := "TK" -}}
 {{- if .Params.clubStation2 }}
 {{- $location = printf "%s and %s stations" (default "TK" .Params.clubStation1) (default "TK" .Params.clubStation2) }}

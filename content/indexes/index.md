@@ -3,7 +3,7 @@ title = "Indexes"
 author = ["Brian McCrory"]
 description = "Albums, musicians, and articles discussed on Jazz of Japan"
 publishDate = 2018-01-25
-lastmod = 2026-07-19
+lastmod = 2026-07-27
 tags = [""]
 categories = ["resources"]
 draft = false
@@ -11,7 +11,7 @@ slug = "indexes"
 issue = 1002
 +++
 
-<a href="#albums">Albums (300)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (376)</a>
+<a href="#albums">Albums (300)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (373)</a>
 
 <a id="albums"></a>
 
@@ -1017,7 +1017,7 @@ _Index of the musicians and the albums discussed on this site_
 ---
 
 
-## Articles (376)
+## Articles (373)
 
 _Chronological sitemap with links to articles_
 
@@ -1659,9 +1659,6 @@ _Chronological sitemap with links to articles_
 -   [Ayumi Koketsu: _Art_](/ayumi-koketsu-art/)
 -   [Akane Matsumoto: _Night &amp; Day_](/akane-matsumoto-night-and-day/)
 -   [Kazumi Ikenaga: _Niwatazumi_](/kazumi-ikenaga-niwatazumi/)
--   [Audio](/audio/) i
--   [Indexes](/indexes/) i
--   [About Jazz of Japan](/about/) i
 
 ---
 
@@ -1670,6 +1667,5 @@ KEY:
     Albums
  ~  Clubs
  ^  Guides
- i  Resources
  *  Article revised
 ```

@@ -1,10 +1,14 @@
 +++
 title = "About Jazz of Japan"
 author = ["Brian McCrory"]
+description = "Introducing modern-day jazz of Japan through albums, musicians, and clubs"
 publishDate = 2018-01-25
-tags = ["resources"]
+lastmod = 2027-07-27
+tags = [""]
 categories = ["resources"]
 draft = false
+slug = "about"
+issue = 1001
 +++
 
 {{< figure src="intro-jazz-1024.jpeg" alt="Intro to Jazz of Japan" >}}
@@ -73,7 +77,7 @@ Check the Japanese sites for [HMV](https://www.hmv.co.jp/), [Amazon](https://www
 
 _**What’s J Jazz?**_
 
-Japanese Jazz (see [[What’s J Jazz?](/whats-j-jazz/) for more). An early version of this website and newsletter was named **J Jazz**.
+Japanese Jazz (see [What’s J Jazz?](/whats-j-jazz/) for more). An early version of this website and newsletter was named **J Jazz**.
 
 _**Where are the albums by ... ?**_
 
@@ -106,7 +110,6 @@ Don’t hesitate to reach out with your suggestions or comments. An easy way to 
 
 {{< figure src="sax-shadow-1024.jpeg" alt="Saxophone" >}}
 
-_Publishing since 2018 as “J Jazz: Modern Jazz From Japan” (since Jan 2018 on WordPress), “J Jazz Substack” (since May 2021 on Substack), and “Jazz of Japan” (since Jan 2022 on GitHub, May 2023 on Substack, Feb 2026 on Buttondown, and July 2026 on
-        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a>/<a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>/<a href="https://buttondown.com/refer/jazzofjapan" rel="noopener" target="_blank">Buttondown</a>)._
+<em>Publishing since 2018 as “J Jazz: Modern Jazz From Japan” (since Jan 2018 on WordPress), “J Jazz Substack” (since May 2021 on Substack), and “Jazz of Japan” (since Jan 2022 on GitHub, May 2023 on Substack, Feb 2026 on Buttondown, and July 2026 on <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a>, <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a> and <a href="https://buttondown.com/refer/jazzofjapan" rel="noopener" target="_blank>Buttondown</a>).</em>
 
 _© Brian McCrory. All rights reserved. Content may be quoted with attribution but may not be reproduced in full or used for commercial or promotional purposes without permission. This site does not collect or track personal data. Payment information is processed securely by Stripe and is never stored or shared by this site. Any other information you voluntarily submit is used only to respond or improve the site and is not sold or disclosed to third parties._

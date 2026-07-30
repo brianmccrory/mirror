@@ -5,7 +5,8 @@ theme = "PaperMod"
 # disableAliases = true # not currently setting aliases (but see redirects below)
 
 [taxonomies]
-  tag = "tags" # disable categories by not including here
+  tag = "tags" # surfaces at /tags/ url
+  category = "categories" # surfaces at /categories/ url
 
 [permalinks]
   [permalinks.page]

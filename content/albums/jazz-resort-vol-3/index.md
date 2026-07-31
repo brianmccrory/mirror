@@ -81,38 +81,14 @@ A jazz quartet made up of violin, vibraphone, sax, piano, and sax (on TK X of th
 
 {{< youtube GPMYyOnlOzo >}}
 
--   “[Cosmos” - track #5:](https://youtu.be/GdSZcu6fZ-Q)
-
-{{< youtube GdSZcu6fZ-Q >}}
-
--   [“Moonlight” - track #6:](https://youtu.be/sF5gkgy-tHM)
-
-{{< youtube sF5gkgy-tHM >}}
-
--   [“Light of Hope” - track #7 (violin solo):](https://youtu.be/FxDlnS6bqOw)
-
-{{< youtube FxDlnS6bqOw >}}
-
--   [“Marlborough St.” - track #8:](https://youtu.be/RPS79DbxPps)
-
-{{< youtube RPS79DbxPps >}}
-
--   “[Sailing on Calm Waters” - track #9:](https://youtu.be/pgHNV9hepeo)
-
-{{< youtube pgHNV9hepeo >}}
-
--   “[Remember me” - track #10:](https://youtu.be/Trqcov1NutM)
-
-{{< youtube Trqcov1NutM >}}
-
--   [“Move on” - track #11:](https://youtu.be/bm8x0rGg1Io)
-
-{{< youtube bm8x0rGg1Io >}}
-
--   [“Midnight Lounge” - track #12 (vibraphone solo):](https://youtu.be/WrtuHneyo-E)
-
-{{< youtube WrtuHneyo-E >}}
-
+-   [”Cosmos” - track #5](https://youtu.be/GdSZcu6fZ-Q)
+-   [“Moonlight” - track #6](https://youtu.be/sF5gkgy-tHM)
+-   [“Light of Hope” - track #7 (violin solo)](https://youtu.be/FxDlnS6bqOw)
+-   [“Marlborough St.” - track #8](https://youtu.be/RPS79DbxPps)
+-   [”Sailing on Calm Waters” - track #9](https://youtu.be/pgHNV9hepeo)
+-   [”Remember me” - track #10](https://youtu.be/Trqcov1NutM)
+-   [“Move on” - track #11](https://youtu.be/bm8x0rGg1Io)
+-   [“Midnight Lounge” - track #12 (vibraphone solo)](https://youtu.be/WrtuHneyo-E)
 -   [Recording musician’s discussion about this album (in Japanese)](https://youtu.be/9n_8IHTGxd8)
 -   [Jazz Resort videos available on the HeavenOnEarth channel](https://www.youtube.com/@HeavenonEarth_music/videos)
 -   [Excerpt from track #5: “Cosmos”](/audio/#mix-16)

@@ -6,35 +6,10 @@ tags = ["Hiromi Miura", "三浦裕美", "Yago Vázquez", "Greg Ruggiero", "Ryoic
 categories = ["albums"]
 draft = false
 slug = "hiromi-miura-we-dont-know-yet"
-releaseYear = 2013
-releaseLabel = "D-neo Daiki Musica"
-releaseCode = "DNCD-03"
 [cover]
   image = "hiromimiura-wedont-460.jpeg"
   alt = "Cover art of We Don’t Know Yet by Hiromi Miura"
   relative = true
-[[credits]]
-  name = "Hiromi Miura"
-  slug = "hiromi-miura"
-  instrument = "alto and soprano saxophone"
-  japanese = "三浦裕美 Miura Hiromi"
-[[credits]]
-  name = "Yago Vázquez"
-  slug = "yago-vzquez"
-  instrument = "piano"
-[[credits]]
-  name = "Greg Ruggiero"
-  slug = "greg-ruggiero"
-  instrument = "guitar"
-[[credits]]
-  name = "Ryoichi Zakota"
-  slug = "ryoichi-zakota"
-  instrument = "bass"
-  japanese = "座小田諒一 Zakota Ryoichi"
-[[credits]]
-  name = "Paolo Orlandi"
-  slug = "paolo-orlandi"
-  instrument = "drums"
 +++
 
 Modern jazz albums like saxophonist Hiromi Miura’s _We Don’t Know Yet_ occupy a special place, offering original compositions with creative elements which remain in the mind and call for repeated listens. Performed with consummate skill from the New York- and Japan-based musicians, the album offers five of Miura’s songs and two cover songs, focusing on intricate modern compositions and interpretations.
@@ -61,3 +36,16 @@ Following the five original jazz pieces, an attention-grabbing jazz blues is per
 -   [Audio samples from this album at D-Musica](https://www.d-musica.co.jp/release/neo/DNCD-03.html)
 
 -   [Excerpt from track #2: “I Don't Know Yet”](/audio/#mix-5)
+
+
+## _We Don’t Know Yet_ by Hiromi Miura
+
+-   [Hiromi Miura](/tags/hiromi-miura/) - alto and soprano saxophone
+-   [Yago Vázquez](/tags/yago-vzquez/) - piano
+-   [Greg Ruggiero](/tags/greg-ruggiero/) - guitar
+-   [Ryoichi Zakota](/tags/ryoichi-zakota/) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi/) - drums
+
+_Japanese names: 三浦裕美 Miura Hiromi 座小田諒一 Zakota Ryoichi_
+
+Released in 2013 on D-neo Daiki Musica as DNCD-03.

@@ -6,29 +6,11 @@ tags = ["Yusei Takahashi", "高橋佑成", "Keigo Iwami", "岩見継吾", "Sota 
 categories = ["albums"]
 draft = false
 slug = "setagaya-trio-progress"
-releaseYear = 2024
-releaseLabel = "Setagaya Trio"
-releaseCode = "Progress"
 related = ["mase-hiroko-quintet-first-contact", "jabuticaba-jabuticaba", "ami-fukui-trio-nova-manha", "ami-fukui-trio-mcy", "nami-kano-mawsim"]
 [cover]
   image = "setagaya-trio-progress-460.jpeg"
   alt = "Cover art of Progress by Setagaya Trio"
   relative = true
-[[credits]]
-  name = "Yusei Takahashi"
-  slug = "yusei-takahashi"
-  instrument = "piano"
-  japanese = "高橋佑成 Takahashi Yusei"
-[[credits]]
-  name = "Keigo Iwami"
-  slug = "keigo-iwami"
-  instrument = "bass"
-  japanese = "岩見継吾 Iwami Keigo"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums"
-  japanese = "吉良創太 Kira Sota"
 +++
 
 Pianist Yusei Takahashi, bassist Keigo Iwami, and drummer Sota Kira are the three co-leaders of Setagaya Trio, a contemporary jazz group whose band name was inspired by meeting in the hip Shimokitazawa neighborhood of Tokyo’s Setagaya ward. This trio’s second album _Progress_ was released in 2024 and follows their 2017 album _Introducing Setagaya Trio_, a debut released two years after their formation in 2015.
@@ -82,3 +64,14 @@ They released their first album _Introducing Setagaya Trio_ in 2017, which was f
 {{< youtube STPZjXpWuQY >}}
 
 -   [Excerpt from track #2: “Metsa”](/audio/#mix-13)
+
+
+## _Progress_ by Setagaya Trio
+
+-   [Yusei Takahashi](/tags/yusei-takahashi/) - piano
+-   [Keigo Iwami](/tags/keigo-iwami/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+
+_Japanese names: 高橋佑成 Takahashi Yusei 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
+
+Released in 2024 on Setagaya Trio as Progress.

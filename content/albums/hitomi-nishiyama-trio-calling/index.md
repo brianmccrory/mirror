@@ -6,29 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-calling"
-releaseYear = 2021
-releaseLabel = "Meantone Records"
-releaseCode = "MT-10"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "hitomi-nishiyama-trio-calling-460.jpeg"
   alt = "Cover art of Calling by Hitomi Nishiyama Trio"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Yasuhiko “Hachi” Sato"
-  slug = "yasuhiko-hachi-sato"
-  instrument = "bass"
-  japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
-[[credits]]
-  name = "Kazumi Ikenaga"
-  slug = "kazumi-ikenaga"
-  instrument = "drums"
-  japanese = "池長和美 Ikenaga Kazumi"
 +++
 
 Among the close to thirty album releases from pianist and composer Hitomi Nishiyama’s catalog, _Calling_ (2021) is the third album recorded with one of her regular trios. This particular trio with bassist Yasuhiko “Hachi” Sato and drummer Kazumi Ikenaga is also featured on Nishiyama’s _[Sympathy](/hitomi-nishiyama-trio-sympathy/)_ (2013) and _[Music in You](/hitomi-nishiyama-trio-music-in-you/)_ (2011).
@@ -150,3 +132,14 @@ I’ve been asked “When is the CD release live show”, here and there and thr
 {{< youtube u0dLThgxvTQ >}}
 
 -   [Excerpt from track #6: “Loudvik”](/audio/#mix-10)
+
+
+## _Calling_ by Hitomi Nishiyama Trio
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi_
+
+Released in 2021 on Meantone Records as MT-10.

@@ -6,34 +6,11 @@ tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Y
 categories = ["albums"]
 draft = false
 slug = "kaori-vibes-quartet-starry-nights"
-releaseYear = 2021
-releaseLabel = "Urban Jazz"
-releaseCode = "151A-0027"
 related = ["kaori-vibes-quartet-flying-mind", "kaori-vibes-quartet-cross-point"]
 [cover]
   image = "kaori-vibes-quartet-starry-nights-460.jpeg"
   alt = "Cover art of Starry Nights by Kaori Vibes Quartet"
   relative = true
-[[credits]]
-  name = "Kaori Nakajima"
-  slug = "kaori-nakajima"
-  instrument = "vibraphone"
-  japanese = "中島香里 Nakajima Kaori"
-[[credits]]
-  name = "Tamashi Goto"
-  slug = "tamashi-goto"
-  instrument = "piano"
-  japanese = "後藤魂 Goto Tamashi"
-[[credits]]
-  name = "Minoru Yoshiki"
-  slug = "minoru-yoshiki"
-  instrument = "bass"
-  japanese = "吉木稔 Yoshiki Minoru"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 _Starry Nights_ is the latest album from the Kaori Vibes Quartet. This is leader Kaori Nakajima’s third album with her group, following her _[Flying Mind](/kaori-vibes-quartet-flying-mind/)_ and /[Cross Point](/kaori-vibes-quartet-cross-point/) /releases. On her debut album, Nakajima’s quartet previously went by Vangy!!, a charming name that combines the V from vibraphone with an initial from each musician, and decorated with two mallet-like exclamation points… though, four “!!!!” would also work, as Nakajima impressively plays the instrument with two mallets in each hand in the style of famous modern jazz vibists Bobby Hutcherson and Gary Burton.
@@ -105,3 +82,15 @@ At the end of 2020, on the day before my birthday, my beloved grandfather passed
 {{< youtube JYhCLqVa1-U >}}
 
 -   [Excerpt from track #1: “Through the lights”](/audio/#mix-9)
+
+
+## _Starry Nights_ by Kaori Vibes Quartet
+
+-   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
+
+Released in 2021 on Urban Jazz as 151A-0027.

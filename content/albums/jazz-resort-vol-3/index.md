@@ -6,54 +6,30 @@ tags = ["Norihiko Hibino", "日比野則彦", "maiko", "マイコ", "Reiko Yamam
 categories = ["albums"]
 draft = false
 slug = "jazz-resort-vol-3"
-hiddenInHomeList = true
-hiddenInRss = true
-searchHidden = true
-releaseYear = 2024
-releaseLabel = "Jazz Resort"
-releaseCode = "XQEF-1030"
 related = ["sumireiko-decision", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones", "maiko-reminiscence"]
 [cover]
   image = "jazz-resort-vol-3-460.jpeg"
   alt = "Cover art of Jazz Resort Vol. 3"
   relative = true
-[[credits]]
-  name = "Norihiko Hibino"
-  slug = "norihiko-hibino"
-  instrument = "saxophone"
-  japanese = "日比野則彦 Hibino Norihiko"
-[[credits]]
-  name = "maiko"
-  slug = "maiko"
-  instrument = "violin"
-  japanese = "マイコ maiko"
-[[credits]]
-  name = "Reiko Yamamoto"
-  slug = "reiko-yamamoto"
-  instrument = "vibraphone"
-  japanese = "山本玲子 Yamamoto Reiko"
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
 +++
 
-The summers in Tokyo seem to getting more intense, making the beach resorts and the sea even more attractive escapes for cooling off in the sultry heat. A natural fit to this season is the music of the jazz quartet known as Jazz Resort. Their latest offering entitled _Vol. 3_ was released near the end of 2024.
+The summers in Japan seem to get more intense, making the sea and beach resorts even more irresistible as escapes to cool off in the sultry season. Fitting this atmosphere well is the music of the jazz performance group Jazz Resort. Their latest recording is entitled _Vol. 3_ and was released at the end of 2024.
 
 {{< figure src="L1280970x-1200.jpeg" alt="Front cover of Vol. 3 by Jazz Resort" link="L1280970x-1200.jpeg" >}}
 
-Jazz Resort is a project originating from the music of a duo known as Gentle Love made up of saxophonist Norihiko Hibino and pianist Ayaki. Jazz Resort’s first two albums [_Vol. 1_](https://youtu.be/nXU0RfIcFVg) and [_Vol. 2_](https://youtu.be/VLNPEdPEKNE) are based around this collaboration that was formed to share therapeutic healing music and to support those affected by the 2011 tsunami disaster in Japan. The name Jazz Resort is also related to their regular performance venue at a natural springs onsen hotel in Niigata, Japan, where they perform in a garden setting surrounded by guest rooms.
+Jazz Resort is a project that originated from the duo Gentle Love, saxophonist Norihiko Hibino and pianist Ayaki. Jazz Resort’s first two albums [_Vol. 1_](https://youtu.be/nXU0RfIcFVg) and [_Vol. 2_](https://youtu.be/VLNPEdPEKNE) are based around a collaboration formed to share therapeutic healing music to support those affected by the 2011 tsunami disaster in Japan. The name Jazz Resort is also related to their usual performance venue at a natural springs onsen hotel in Niigata, Japan, where they perform in a garden setting that faces the guest rooms.
 
 {{< figure src="L1280974x-1200.jpeg" alt="Back cover of Vol.3 by Jazz Resort" link="L1280974x-1200.jpeg" >}}
 
-Violinist maiko has also been a regular member of Jazz Resort and has recorded on _Volumes 1_, _2_, and _3_. Vibraphonist Reiko Yamamoto played on _Volume 2_ and _3_. Pianist Yuka Yanagihara is the latest addition to Jazz Resort, playing on and contributing original music for this release, _Volume 3_.
+Violinist Maiko has also been a regular member of Jazz Resort and has recorded on _Volumes 1_, _2_, and _3_. Joining the group for _Volumes 2_ and _3_ is vibraphonist Reiko Yamamoto. Pianist Yuka Yanagihara is the latest addition to Jazz Resort, playing on and contributing original music for this release, _Volume 3_.
 
-Jazz Resort’s music is leisurely and indeed relaxing. Themes of summer and the day’s heat seems to seep through the music as the melodies delicately float with the influences of nostalgic traditional folk melodies, smooth jazz, swing, and pop. As the musicians mention during a post-recording conversation, it’s the kind of music to relax and unwind to as you unwind at night after the heat of the day, with the aim of creating sensitive music that can embrace exhausted minds and bodies in supportive, refreshing ways.
+Jazz Resort’s music is leisurely and indeed relaxing. Themes of summer and the lingering waves of the day’s heat seeps through the music as the melodies simmer delicately. In the mix are various influences including nostalgic traditional folk melodies, smoothly comforting jazz, slow swing, and soft pop. As the musicians themselves discuss during a post-recording conversation, it’s the kind of music that encourages you to relax as you unwind at night after the a long day. The aim is to create sensitive music that embraces exhausted minds and bodies in supportive and invigorating ways. All of the tracks do grativate towards this slower tempo zone of relation, tenderness, and peace built on harmony and affinity.
 
 {{< figure src="L1280977x-1200.jpeg" alt="Inside cover of Vol.3 by Jazz Resort" link="L1280977x-1200.jpeg" >}}
 
-While _Vol. 3_ ’s Jazz Resort is a quartet made up of sax, violin, vibraphone, and piano. However, most of the tracks feature the trio of maiko’s violin, Yamamoto’s vibes, and Yanagihara’s piano. Musical director, producer, and recording engineer Hibino joins with his saxophone on four of the songs, “Cosmos” (#5), “Sailing on Calm Water” (#9), and “Remember Me” (#10), and “Move On” (#11). Additionally, the _Vol. 3_ trio members are especially showcased on three tracks that are solo pieces: Yuka Yanagihara plays solo piano on “Summer Garden” (#4), Maiko plays solo violin on “Light of Hope” (#7; _tracks 7 and 8 are printed out of order on the track listing_), and Reiko Yamamoto plays solo vibraphone for the last track, “Midnight Lounge” (#12).
+For _Vol. 3_, the Jazz Resort group is a quartet made up of sax, violin, vibraphone, and piano. However, most of the tracks feature the trio of Maiko’s violin, Yamamoto’s vibes, and Yanagihara’s piano. Musical director, producer, and recording engineer Hibino (who also made his mark earlier in video game soundtracks and therapeutic music) joins with his saxophone on four of the songs, “Cosmos” (#5), “Sailing on Calm Water” (#9), “Remember Me” (#10), and “Move On” (#11).
+
+As for the trio members Maiko, Yamamoto, and Yanagihara, they are each showcased on three tracks specifically performed as solo pieces. Yuka Yanagihara plays solo piano on “Summer Garden” (#4), Maiko plays solo violin on “Light of Hope” (#7; _tracks 7 and 8 are printed out of order on the track listing_), and Reiko Yamamoto plays solo vibraphone for the last track, “Midnight Lounge” (#12).
 
 {{< figure src="L1280984x-1200.jpeg" alt="CD of Vol.3 by Jazz Resort" link="L1280984x-1200.jpeg" >}}
 
@@ -92,16 +68,6 @@ While _Vol. 3_ ’s Jazz Resort is a quartet made up of sax, violin, vibraphone,
 -   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
 -   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
 
-_Japanese names: 日比野則彦 Hibino Norihiko マイコ maiko 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka_
-
 Released in 2024 on Jazz Resort as XQEF-1030.
 
----
-
-
-### Related:
-
--   [Sumireiko: Decision](/sumireiko-decision/)
--   [Magnolia: El viento y las flores](/magnolia-el-viento-y-las-flores/)
--   [Yuka Yanagihara Trio: Beloved Ones](/yuka-yanagihara-trio-beloved-ones/)
--   [Maiko: Reminiscence](/maiko-reminiscence/)
+_Japanese names: 日比野則彦 Hibino Norihiko マイコ maiko 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka_

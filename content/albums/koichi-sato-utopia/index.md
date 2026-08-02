@@ -6,28 +6,10 @@ tags = ["Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻洋史", "Ko Om
 categories = ["albums"]
 draft = false
 slug = "koichi-sato-utopia"
-releaseYear = 2011
-releaseLabel = "Pony Canyon / Twinkle Note"
-releaseCode = "PCCY-30186"
 [cover]
   image = "koichisato-utopia-460.jpeg"
   alt = "Cover art of Utopia by Koichi Sato"
   relative = true
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
 +++
 
 _Utopia_ is the debut leader album for pianist Koichi Sato, who reaches for high standards in his original compositions and impressive performances. This is stimulating modern jazz performed by a piano trio not limited by standard jazz conventions, based in jazz tradition while incorporating some classical and pop influences as well.
@@ -52,3 +34,14 @@ The nine original songs on this album are full of lyrical freshness balanced wit
 {{< youtube PAoCKNGeD-I >}}
 
 -   [Excerpt from track #5: “ミラード・ミラー (_Mirrored Mirror_)”](/audio/#mix-3)
+
+
+## _Utopia_ by Koichi Sato
+
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+
+_Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
+
+Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.

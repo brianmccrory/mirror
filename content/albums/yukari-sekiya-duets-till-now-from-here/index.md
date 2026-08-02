@@ -6,59 +6,11 @@ tags = ["Yukari Sekiya", "関谷友加里", "Taiichi Kamimura", "かみむら泰
 categories = ["albums"]
 draft = false
 slug = "yukari-sekiya-duets-till-now-from-here"
-releaseYear = 2025
-releaseLabel = "Umishima Records"
-releaseCode = "USM-001"
 related = ["motohiko-ichino-sketches", "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and", "koichi-sato-embryo"]
 [cover]
   image = "yukari-sekiya-duets-till-now-from-here-460.jpeg"
   alt = "Cover art of Duets Till Now, From Here by Yukari Sekiya"
   relative = true
-[[credits]]
-  name = "Yukari Sekiya"
-  slug = "yukari-sekiya"
-  instrument = "piano"
-  japanese = "関谷友加里 Sekiya Yukari"
-[[credits]]
-  name = "Taiichi Kamimura"
-  slug = "taiichi-kamimura"
-  instrument = "tenor & soprano sax"
-  japanese = "かみむら泰一 Kamimura Taiichi"
-[[credits]]
-  name = "Tsutomu Takei"
-  slug = "tsutomu-takei"
-  instrument = "tenor & soprano sax"
-  japanese = "武井努 Takei Tsutomu"
-[[credits]]
-  name = "Yuzumi Tanimukai"
-  slug = "yuzumi-tanimukai"
-  instrument = "voice"
-  japanese = "谷向柚美 Tanimukai Yuzumi"
-[[credits]]
-  name = "Suomi Morishita"
-  slug = "suomi-morishita"
-  instrument = "guitar"
-  japanese = "森下周央彌 Morishita Suomi"
-[[credits]]
-  name = "Michihiro Morisada"
-  slug = "michihiro-morisada"
-  instrument = "bass"
-  japanese = "森定道広 Morisada Michihiro"
-[[credits]]
-  name = "Megumi Otsuka"
-  slug = "megumi-otsuka"
-  instrument = "bass"
-  japanese = "大塚恵 Otsuka Megumi"
-[[credits]]
-  name = "Masaki Kai"
-  slug = "masaki-kai"
-  instrument = "bass"
-  japanese = "甲斐正樹 Kai Masaki"
-[[credits]]
-  name = "Jin Mitsuda"
-  slug = "jin-mitsuda"
-  instrument = "drums"
-  japanese = "光田じん Mitsuda Jin"
 +++
 
 Pianist Yukari Sekiya released _Duets Till Now, From Here_ fourteen years after her 2011 debut recording [_It’s Ordinary Love And..._](/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/). This new album offers both a retrospective and a forward view of her music and musical partners through her years of playing. _Duets_ is a two-disc album with 16 songs, and the temporal themes of past and future are reinforced by the label assigned to each disc, with disc one titled “Till Now” and two as “From Here”.
@@ -149,3 +101,20 @@ There are no “thorns” in the piano she plays. That is not something with a h
 -   [This album on streaming platforms](https://linkco.re/16brfqTz)
 
 -   [Excerpt from track #107: “Canja”](/audio/#mix-15)
+
+
+## _Duets Till Now, From Here_ by Yukari Sekiya
+
+-   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor &amp; soprano sax
+-   [Tsutomu Takei](/tags/tsutomu-takei/) - tenor &amp; soprano sax
+-   [Yuzumi Tanimukai](/tags/yuzumi-tanimukai/) - voice
+-   [Suomi Morishita](/tags/suomi-morishita/) - guitar
+-   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
+-   [Megumi Otsuka](/tags/megumi-otsuka/) - bass
+-   [Masaki Kai](/tags/masaki-kai/) - bass
+-   [Jin Mitsuda](/tags/jin-mitsuda/) - drums
+
+_Japanese names: 関谷友加里 Sekiya Yukari かみむら泰一 Kamimura Taiichi 武井努 Takei Tsutomu 谷向柚美 Tanimukai Yuzumi 森下周央彌 Morishita Suomi 森定道広 Morisada Michihiro 大塚恵 Otsuka Megumi 甲斐正樹 Kai Masaki 光田じん Mitsuda Jin_
+
+Released in 2025 on Umishima Records as USM-001.

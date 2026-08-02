@@ -6,38 +6,10 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Mamoru Ishida", "石田衛", "Kohei
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-cats-cradle"
-releaseYear = 2010
-releaseLabel = "Coume Music"
-releaseCode = "DQC-565"
 [cover]
   image = "miyukimoriya-cats-460.jpeg"
   alt = "Cover art of Cat’s Cradle by Miyuki Moriya"
   relative = true
-[[credits]]
-  name = "Miyuki Moriya"
-  slug = "miyuki-moriya"
-  instrument = "alto sax"
-  japanese = "守谷美由貴 Moriya Miyuki"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Kohei Kamuro"
-  slug = "kohei-kamuro"
-  instrument = "guitar"
-  japanese = "かむろ耕平 Kamuro Kohei"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 +++
 
 Miyuki Moriya’s _Cat’s Cradle_ from 2010 is modern jazz album from an alto sax quartet featuring engaging sounds and improvisation from exciting musicians. The allure of this album is deepened by the sax leader’s catchy originals, and listeners who are stimulated by angular jazz will be pulled into this music and want to return to these songs again and again.
@@ -58,3 +30,16 @@ Sharply-crafted jazz with a modern spark particularly identifies Moriya’s musi
 ## Audio and Video
 
 -   [Excerpt from track #1: “Tuck Box”](/audio/#mix-6)
+
+
+## _Cat’s Cradle_ by Miyuki Moriya
+
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Kohei Kamuro](/tags/kohei-kamuro/) - guitar
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+
+_Japanese names: 守谷美由貴 Moriya Miyuki 石田衛 Ishida Mamoru かむろ耕平 Kamuro Kohei 池尻洋史 Ikejiri Hiroshi 今泉総之輔 Imaizumi Sohnosuke_
+
+Released in 2010 on Coume Music as DQC-565.

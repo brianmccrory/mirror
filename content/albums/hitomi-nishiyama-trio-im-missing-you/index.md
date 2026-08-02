@@ -6,39 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Mitsuaki Hara", "原満章", "Tsutomu 
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-im-missing-you"
-releaseYear = 2004
-releaseLabel = "Steps Records"
-releaseCode = "VNTM-04001"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-trio-im-missing-you-460.jpeg"
   alt = "Cover art of I’m Missing You by Hitomi Nishiyama Trio"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Mitsuaki Hara"
-  slug = "mitsuaki-hara"
-  instrument = "bass"
-  japanese = "原満章 Hara Mitsuaki"
-[[credits]]
-  name = "Tsutomu Kawauchi"
-  slug = "tsutomu-kawauchi"
-  instrument = "drums"
-  japanese = "川内努 Kawauchi Tsutomu"
-[[credits]]
-  name = "Satoshi Otani"
-  slug = "satoshi-otani"
-  instrument = "bass (#9, 10, 11)"
-  japanese = "大谷訓史 Otani Satoshi"
-[[credits]]
-  name = "Takehiro Shimizu"
-  slug = "takehiro-shimizu"
-  instrument = "drums (#9, 10, 11)"
-  japanese = "清水勇博 Shimizu Takehiro"
 +++
 
 Rewinding from the previous article on Hitomi Nishiyama’s _[Echo](/hitomi-nishiyama-echo/)_ from 2024, and connecting the dots (re: _[Dot](/hitomi-nishiyama-dot/)_, 2023), relistening to Hitomi Nishiyama Trio’s _I’m Missing You_ from 2004 provides a fascinating reflection.
@@ -115,3 +87,16 @@ Pianist/composer Hitomi Nishiyama achieved the great honor of placing third in t
 {{< youtube LIqX0QymLo4 >}}
 
 -   [Excerpt from track #8: “I'm missing you”](/audio/#mix-13)
+
+
+## _I’m Missing You_ by Hitomi Nishiyama Trio
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Mitsuaki Hara](/tags/mitsuaki-hara/) - bass
+-   [Tsutomu Kawauchi](/tags/tsutomu-kawauchi/) - drums
+-   [Satoshi Otani](/tags/satoshi-otani/) - bass (#9, 10, 11)
+-   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums (#9, 10, 11)
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 原満章 Hara Mitsuaki 川内努 Kawauchi Tsutomu 大谷訓史 Otani Satoshi 清水勇博 Shimizu Takehiro_
+
+Released in 2004 on Steps Records as VNTM-04001.

@@ -6,23 +6,10 @@ tags = ["Shinichi Kato", "加藤真一", "Masahiko Sato", "佐藤允彦"]
 categories = ["albums"]
 draft = false
 slug = "shinichi-kato-and-masahiko-sato-duet"
-releaseYear = 2001
-releaseLabel = "Nagel Heyer Records"
-releaseCode = "CD-2017"
 [cover]
   image = "kato-sato-duet-460.jpeg"
   alt = "Cover art of Duet by Shinichi Kato & Masahiko Sato"
   relative = true
-[[credits]]
-  name = "Shinichi Kato"
-  slug = "shinichi-kato"
-  instrument = "bass"
-  japanese = "加藤真一 Kato Shinichi"
-[[credits]]
-  name = "Masahiko Sato"
-  slug = "masahiko-sato"
-  instrument = "piano"
-  japanese = "佐藤允彦 Sato Masahiko"
 +++
 
 On _Duet_ from 2001, bassist Shinichi Kato and pianist Masahiko Sato put forth a misty and stimulating collection of duets. The pair establishes a relaxed rapport based on masterful foundations using 11 original songs for roomy jazz improvisation. While opening slowly in a melancholic mood, the music blooms gradually, drifting around in abstract colors through the first four tracks before settling into more solid ground through the rest of the album.
@@ -49,3 +36,13 @@ Overall, _Duet_ is a nice balance of absorbing and hazy music, swirling around t
 {{< youtube wj7AhGAxHfk >}}
 
 -   [Excerpt from track #1: “Old Diary”](/audio/#mix-7)
+
+
+## _Duet_ by Shinichi Kato &amp; Masahiko Sato
+
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Masahiko Sato](/tags/masahiko-sato/) - piano
+
+_Japanese names: 加藤真一 Kato Shinichi 佐藤允彦 Sato Masahiko_
+
+Released in 2001 on Nagel Heyer Records as CD-2017.

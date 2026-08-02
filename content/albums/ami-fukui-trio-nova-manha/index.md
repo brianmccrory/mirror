@@ -6,29 +6,11 @@ tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira",
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-nova-manha"
-releaseYear = 2022
-releaseLabel = "MAM Records"
-releaseCode = "MR-001"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey"]
 [cover]
   image = "ami-fukui-nova-manha-460.jpeg"
   alt = "Cover art of Nova Manhã by Ami Fukui Trio"
   relative = true
-[[credits]]
-  name = "Ami Fukui"
-  slug = "ami-fukui"
-  instrument = "piano"
-  japanese = "福井亜実 Fukui Ami"
-[[credits]]
-  name = "Keigo Iwami"
-  slug = "keigo-iwami"
-  instrument = "bass"
-  japanese = "岩見継吾 Iwami Keigo"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums"
-  japanese = "吉良創太 Kira Sota"
 +++
 
 Pianist Ami Fukui continues her original jazz journey with _Nova Manhã_, her fourth leader album from 2022 with eight tracks running at about 45 minutes.
@@ -149,3 +131,14 @@ I wrote this song thinking about how fun it is to play with these kitties. The s
 ## Links
 
 -   [Online yoga lessons link provided by Ami Fukui](https://mosh.jp/services/93414)
+
+
+## _Nova Manhã_ by Ami Fukui Trio
+
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Keigo Iwami](/tags/keigo-iwami/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+
+_Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
+
+Released in 2022 on MAM Records as MR-001.

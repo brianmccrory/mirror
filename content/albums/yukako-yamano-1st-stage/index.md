@@ -6,28 +6,10 @@ tags = ["Yukako Yamano", "山野友佳子", "Koichi Osamu", "納浩一", "Manabu
 categories = ["albums"]
 draft = false
 slug = "yukako-yamano-1st-stage"
-releaseYear = 2013
-releaseLabel = "Yukako Yamano"
-releaseCode = "YKRN-0001"
 [cover]
   image = "yukakoyamano-first-460.jpeg"
   alt = "Cover art of 1st Stage by Yukako Yamano"
   relative = true
-[[credits]]
-  name = "Yukako Yamano"
-  slug = "yukako-yamano"
-  instrument = "piano"
-  japanese = "山野友佳子 Yamano Yukako"
-[[credits]]
-  name = "Koichi Osamu"
-  slug = "koichi-osamu"
-  instrument = "bass"
-  japanese = "納浩一 Osamu Koichi"
-[[credits]]
-  name = "Manabu Fujii"
-  slug = "manabu-fujii"
-  instrument = "drums"
-  japanese = "藤井学 Fujii Manabu"
 +++
 
 Popular pianist Yukako Yamano’s _1st Stage_ is a rich and airy musical soufflé. Her catchy debut album from 2013 mixes together swinging jazz, modern fusion, cute pop, and straightforward sincerity. On _1st Stage_, the world-traveling pianist introduces eleven of her feel-good melodies and propulsive rhythms as she balances unpretentious cheer with dramatic tension on the lively tracks.
@@ -56,3 +38,14 @@ _1st Stage_ features Yukako Yamano on piano along with regular trio members mult
 {{< youtube fA0kHQ8h_EM >}}
 
 -   [Excerpt from track #1: “Over Parents”](/audio/#mix-3)
+
+
+## _1st Stage_ by Yukako Yamano
+
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
+-   [Koichi Osamu](/tags/koichi-osamu/) - bass
+-   [Manabu Fujii](/tags/manabu-fujii/) - drums
+
+_Japanese names: 山野友佳子 Yamano Yukako 納浩一 Osamu Koichi 藤井学 Fujii Manabu_
+
+Released in 2013 on Yukako Yamano as YKRN-0001.

@@ -6,39 +6,11 @@ tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒
 categories = ["albums"]
 draft = false
 slug = "baby-brothers-happy-christmas-with-bb"
-releaseYear = 2007
-releaseLabel = "Baby Brothers"
-releaseCode = "Side B"
 related = ["baby-brothers-bb", "sanae-ishikawa-grown-up-christmas"]
 [cover]
   image = "babybrothers-happy-christmas-460.jpeg"
   alt = "Cover art of Happy Christmas with Bb by Baby Brothers"
   relative = true
-[[credits]]
-  name = "Sanae Ishikawa"
-  slug = "sanae-ishikawa"
-  instrument = "vocal"
-  japanese = "石川早苗 Ishikawa Sanae"
-[[credits]]
-  name = "Monet"
-  slug = "monet"
-  instrument = "vocal"
-  japanese = "モネ Monet"
-[[credits]]
-  name = "Kyoko Ogata"
-  slug = "kyoko-ogata"
-  instrument = "vocal"
-  japanese = "緒方京子 Ogata Kyoko"
-[[credits]]
-  name = "Takahiko Goto"
-  slug = "takahiko-goto"
-  instrument = "vocal"
-  japanese = "ごとうたかひこ Goto Takahiko"
-[[credits]]
-  name = "Yohhei"
-  slug = "yohhei"
-  instrument = "vocal"
-  japanese = "ようへい Yohhei"
 +++
 
 This special release from Baby Brothers, entitled _Happy Christmas with Bb (side b, the final live at plug and more)_, warmly celebrates the holidays and commemorates the vocal quintet’s final performance in 2007, layering bittersweet emotions with abundantly joyful singing and expression.
@@ -83,3 +55,16 @@ Following the eight live tracks, four studio-recorded songs include two finely-t
 {{< youtube X77EDDcUFO4 >}}
 
 -   [Excerpt from track #1: “My Favorite Things”](/audio/#mix-10)
+
+
+## _Happy Christmas with Bb_ by Baby Brothers
+
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Monet](/tags/monet/) - vocal
+-   [Kyoko Ogata](/tags/kyoko-ogata/) - vocal
+-   [Takahiko Goto](/tags/takahiko-goto/) - vocal
+-   [Yohhei](/tags/yohhei/) - vocal
+
+_Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
+
+Released in 2007 on Baby Brothers as Side B.

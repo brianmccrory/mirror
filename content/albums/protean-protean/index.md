@@ -6,28 +6,10 @@ tags = ["Naoko Tanaka", "田中菜緒子", "Naoyuki Seto", "瀬戸尚幸", "Dan 
 categories = ["albums"]
 draft = false
 slug = "protean-protean"
-releaseYear = 2009
-releaseLabel = "Protean"
-releaseCode = "Protean"
 [cover]
   image = "protean-protean-460.jpeg"
   alt = "Cover art of Protean by Protean"
   relative = true
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Naoyuki Seto"
-  slug = "naoyuki-seto"
-  instrument = "electric bass"
-  japanese = "瀬戸尚幸 Seto Naoyuki"
-[[credits]]
-  name = "Dan Yoshikawa"
-  slug = "dan-yoshikawa"
-  instrument = "drums"
-  japanese = "吉川弾 Yoshikawa Dan"
 +++
 
 _Protean_ is the first release from jazz pianist Naoko Tanaka, who self-produced and released this album in 2009 under the name Protean along with bassist Naoyuki Seto and drummer Dan Yoshikawa.
@@ -56,3 +38,14 @@ Although this release is on the shorter side, it previews what is to come from T
 {{< youtube OOBh8KGrvbU >}}
 
 -   [Excerpt from track #6: “the last train”](/audio/#mix-8)
+
+
+## _Protean_ by Protean
+
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Naoyuki Seto](/tags/naoyuki-seto/) - electric bass
+-   [Dan Yoshikawa](/tags/dan-yoshikawa/) - drums
+
+_Japanese names: 田中菜緒子 Tanaka Naoko 瀬戸尚幸 Seto Naoyuki 吉川弾 Yoshikawa Dan_
+
+Released in 2009 on Protean as Protean.

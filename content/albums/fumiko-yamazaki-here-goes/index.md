@@ -6,33 +6,10 @@ tags = ["Fumiko Yamazaki", "山崎ふみこ", "Keizo Kawano", "河野啓三", "S
 categories = ["albums"]
 draft = false
 slug = "fumiko-yamazaki-here-goes"
-releaseYear = 2011
-releaseLabel = "T&K Entertainment"
-releaseCode = "QACK-35024"
 [cover]
   image = "fumiko-yamazaki-here-460.jpeg"
   alt = "Cover art of Here Goes! by Fumiko Yamazaki"
   relative = true
-[[credits]]
-  name = "Fumiko Yamazaki"
-  slug = "fumiko-yamazaki"
-  instrument = "vibes, percussion"
-  japanese = "山崎ふみこ Yamazaki Fumiko"
-[[credits]]
-  name = "Keizo Kawano"
-  slug = "keizo-kawano"
-  instrument = "piano, keyboard"
-  japanese = "河野啓三 Kawano Keizo"
-[[credits]]
-  name = "Shingo Tanaka"
-  slug = "shingo-tanaka"
-  instrument = "bass"
-  japanese = "田中晋吾 Tanaka Shingo"
-[[credits]]
-  name = "Takashi Saito"
-  slug = "takashi-saito"
-  instrument = "drums, percussion"
-  japanese = "齋藤たかし Saito Takashi"
 +++
 
 From vibraphonist Fumiko Yamazaki, the aptly titled _Here Goes!_ is an enthusiastic introduction to her music with her jazz quartet on her 2011 debut release.
@@ -57,3 +34,15 @@ The poppy tracks are refreshing and positive, sounding suitable as light-hearted
 {{< youtube hSs0lyZaMH0 >}}
 
 -   [Excerpt from track #2: “ドナドナ (_Dona Dona_)”](/audio/#mix-7)
+
+
+## _Here Goes!_ by Fumiko Yamazaki
+
+-   [Fumiko Yamazaki](/tags/fumiko-yamazaki/) - vibes, percussion
+-   [Keizo Kawano](/tags/keizo-kawano/) - piano, keyboard
+-   [Shingo Tanaka](/tags/shingo-tanaka/) - bass
+-   [Takashi Saito](/tags/takashi-saito/) - drums, percussion
+
+_Japanese names: 山崎ふみこ Yamazaki Fumiko 河野啓三 Kawano Keizo 田中晋吾 Tanaka Shingo 齋藤たかし Saito Takashi_
+
+Released in 2011 on T&amp;K Entertainment as QACK-35024.

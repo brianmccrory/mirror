@@ -6,38 +6,10 @@ tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "H
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-group-move-on"
-releaseYear = 2010
-releaseLabel = "After Beat"
-releaseCode = "PCCY-30157"
 [cover]
   image = "hikariichihara-moveon-460.jpeg"
   alt = "Cover art of Move On by Hikari Ichihara Group"
   relative = true
-[[credits]]
-  name = "Hikari Ichihara"
-  slug = "hikari-ichihara"
-  instrument = "trumpet, flugelhorn"
-  japanese = "市原ひかり Ichihara Hikari"
-[[credits]]
-  name = "Ryosuke Asai"
-  slug = "ryosuke-asai"
-  instrument = "alto sax"
-  japanese = "浅井良将 Asai Ryosuke"
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Kunpei Nakabayashi"
-  slug = "kunpei-nakabayashi"
-  instrument = "bass"
-  japanese = "中林薫平 Nakabayashi Kunpei"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 Hikari Ichihara’s fifth album _Move On_ features the trumpeter’s quintet performing finely-tuned compositions with jazz integrity and a vibrant sound full of sparkling energy. The tracks range from knife-edge sharp modern jazz, bouncy swing, wistful ballads, and rapid-fire straight ahead jazz. Also included is a single jazz standard, a fresh interpretation of “Everything Happens To Me”, delivered here with a relaxed groove.
@@ -64,3 +36,16 @@ Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspirat
 {{< youtube JV_7YAx3mCA >}}
 
 -   [Excerpt from track #1: “やみくろ (_Dark Black_)”](/audio/#mix-4)
+
+
+## _Move On_ by Hikari Ichihara Group
+
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
+
+Released in 2010 on After Beat as PCCY-30157.

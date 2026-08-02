@@ -6,33 +6,10 @@ tags = ["Hiroshi Fukutomi", "福冨博", "Koichi Sato", "佐藤浩一", "Koji Ya
 categories = ["albums"]
 draft = false
 slug = "hiroshi-fukutomi-memory-stones"
-releaseYear = 2014
-releaseLabel = "MOF Records"
-releaseCode = "MOF-101"
 [cover]
   image = "hiroshi-fukutomi-memory-stones-460.jpeg"
   alt = "Cover art of Memory Stones by Hiroshi Fukutomi"
   relative = true
-[[credits]]
-  name = "Hiroshi Fukutomi"
-  slug = "hiroshi-fukutomi"
-  instrument = "electric guitar, acoustic guitar, harmonica"
-  japanese = "福冨博 Fukutomi Hiroshi"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano, Rhodes"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
 +++
 
 _Memory Stones_ is the 2014 album from guitarist Hiroshi Fukutomi, his second album after his debut _Rings of Saturn_ (2010). On this 57-minute recording of Fukutomi’s original music, the guitarist leads a quartet featuring Koichi Sato on piano and Rhodes, Koji Yasuda on bass, and Ryo Noritake on drums.
@@ -69,3 +46,15 @@ The final two tracks close the album with friendly, down-to-earth elements to th
 -   [Audio for “Mawaru Sekai”, track #9 on this album](https://soundcloud.com/hiroshi-fukutomi/mawaru-sekai-memory-stones-2014?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 -   [Excerpt from track #2: “Minor King”](/audio/#mix-10)
+
+
+## _Memory Stones_ by Hiroshi Fukutomi
+
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - electric guitar, acoustic guitar, harmonica
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+
+_Japanese names: 福冨博 Fukutomi Hiroshi 佐藤浩一 Sato Koichi 安田幸司 Yasuda Koji 則武諒 Noritake Ryo_
+
+Released in 2014 on MOF Records as MOF-101.

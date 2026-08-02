@@ -6,42 +6,11 @@ tags = ["Rio Osawa", "大澤理央", "Yuichiro Hiraoka", "平岡遊一郎", "Gus
 categories = ["albums"]
 draft = false
 slug = "rio-osawa-rio"
-releaseYear = 2021
-releaseLabel = "Noel Records"
-releaseCode = "NR-001"
 related = ["meu-coracao-hall-tone", "yuka-ueda-agora", "yuka-ueda-dois", "meu-coracao-a-tempo", "nobie-benin-rio-tokyo", "layla-tomomi-sakai-island", "banda-feliz-boa-viagem", "sul-madrugada-luar", "emiko-voice-yuka-yanagihara-enyana"]
 [cover]
   image = "rio-osawa-rio-460.jpeg"
   alt = " Cover art of"
   relative = true
-[[credits]]
-  name = "Rio Osawa"
-  slug = "rio-osawa"
-  instrument = "vocal"
-  japanese = "大澤理央 Osawa Rio"
-[[credits]]
-  name = "Yuichiro Hiraoka"
-  slug = "yuichiro-hiraoka"
-  instrument = "guitar (#1, 2, 4, 5, 6)"
-  japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[credits]]
-  name = "Gustavo Anacleto"
-  slug = "gustavo-anacleto"
-  instrument = "soprano sax, flute, voice (#1, 2, 4, 5)"
-[[credits]]
-  name = "Francis Silva"
-  slug = "francis-silva"
-  instrument = "percussion, voice (#1, 2, 4, 5)"
-[[credits]]
-  name = "Norihito Nagasawa"
-  slug = "norihito-nagasawa"
-  instrument = "guitar (#3) (from Momijin)"
-  japanese = "長澤紀仁 Nagasawa Norihito"
-[[credits]]
-  name = "Matsumonica"
-  slug = "matsumonica"
-  instrument = "chromatic harmonica (#3) (from Momijin)"
-  japanese = "マツモニカ Matsumonica"
 +++
 
 _Rio_ is the first album from vocalist Rio Osawa, released in 2021 as a six song, 24 minute album of some favorite Brazilian and jazz bossa nova tunes.
@@ -101,3 +70,17 @@ Finally released, the long-awaited first album from Brazilian music lover Rio Os
 {{< youtube g5lyTBY8jdM >}}
 
 -   [Excerpt from track #2: “O Morro Não Tem Vez”](/audio/#mix-15)
+
+
+## _Rio_ by Rio Osawa
+
+-   [Rio Osawa](/tags/rio-osawa/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar (#1, 2, 4, 5, 6)
+-   [Gustavo Anacleto](/tags/gustavo-anacleto/) - soprano sax, flute, voice (#1, 2, 4, 5)
+-   [Francis Silva](/tags/francis-silva/) - percussion, voice (#1, 2, 4, 5)
+-   [Norihito Nagasawa](/tags/norihito-nagasawa/) - guitar (#3) (from Momijin)
+-   [Matsumonica](/tags/matsumonica/) - chromatic harmonica (#3) (from Momijin)
+
+_Japanese names: 大澤理央 Osawa Rio 平岡遊一郎 Hiraoka Yuichiro 長澤紀仁 Nagasawa Norihito マツモニカ Matsumonica_
+
+Released in 2021 on Noel Records as NR-001.

@@ -6,38 +6,10 @@ tags = ["Ayako Taira", "平良亜矢子", "Noriko Kotani", "小谷のりこ", "N
 categories = ["albums"]
 draft = false
 slug = "water-me-water-me"
-releaseYear = 2014
-releaseLabel = "Sunmoon Music"
-releaseCode = "SMCD-0005"
 [cover]
   image = "waterme-waterme-460.jpeg"
   alt = "Cover art of Water Me! by Water Me!"
   relative = true
-[[credits]]
-  name = "Ayako Taira"
-  slug = "ayako-taira"
-  instrument = "vocal"
-  japanese = "平良亜矢子 Taira Ayako"
-[[credits]]
-  name = "Noriko Kotani"
-  slug = "noriko-kotani"
-  instrument = "vocal"
-  japanese = "小谷のりこ Kotani Noriko"
-[[credits]]
-  name = "Norihiko Kawakubo"
-  slug = "norihiko-kawakubo"
-  instrument = "piano"
-  japanese = "川久保典彦 Kawakubo Norihiko"
-[[credits]]
-  name = "Yohei Tanaka"
-  slug = "yohei-tanaka"
-  instrument = "bass"
-  japanese = "田中洋平 Tanaka Yohei"
-[[credits]]
-  name = "Tomohiro Ota"
-  slug = "tomohiro-ota"
-  instrument = "drums"
-  japanese = "大田智洋 Ota Tomohiro"
 +++
 
 Inspiring contrasts like strong and warm, comforting and demanding, smoky and silky, the dual vocal front-line of “Water Me!” delivers new takes on familiar jazz tunes with _Water Me!_ from 2014. Vocalists Ayako Taira and Noriko Kotani harmonize and play off each other, syncing up or alternating in offset phrases as they combine, intertwine, and unspool melodies together.
@@ -60,3 +32,16 @@ Along with jazz swing, the album also features bossa on “The Girl From Ipanema
 ## Audio and Video
 
 -   [Excerpt from track #1: “Satin Doll”](/audio/#mix-7)
+
+
+## _Water Me!_ by Water Me!
+
+-   [Ayako Taira](/tags/ayako-taira/) - vocal
+-   [Noriko Kotani](/tags/noriko-kotani/) - vocal
+-   [Norihiko Kawakubo](/tags/norihiko-kawakubo/) - piano
+-   [Yohei Tanaka](/tags/yohei-tanaka/) - bass
+-   [Tomohiro Ota](/tags/tomohiro-ota/) - drums
+
+_Japanese names: 平良亜矢子 Taira Ayako 小谷のりこ Kotani Noriko 川久保典彦 Kawakubo Norihiko 田中洋平 Tanaka Yohei 大田智洋 Ota Tomohiro_
+
+Released in 2014 on Sunmoon Music as SMCD-0005.

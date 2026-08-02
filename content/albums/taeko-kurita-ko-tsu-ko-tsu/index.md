@@ -6,19 +6,11 @@ tags = ["Taeko Kurita", "栗田妙子"]
 categories = ["albums"]
 draft = false
 slug = "taeko-kurita-ko-tsu-ko-tsu"
-releaseYear = 2012
-releaseLabel = "Kurita Taeko"
-releaseCode = "MP-007"
 related = ["ghost-peak-goat-on-a-peak", "taeko-kurita-akira-sotoyama-duo", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "taeko-kurita-ko-tsu-ko-tsu-460.jpeg"
   alt = "Cover art of Ko-tsu-ko-tsu by Taeko Kurita"
   relative = true
-[[credits]]
-  name = "Taeko Kurita"
-  slug = "taeko-kurita"
-  instrument = "piano"
-  japanese = "栗田妙子 Kurita Taeko"
 +++
 
 Taeko Kurita’s _Ko-tsu-ko-tsu_ is a solo piano album from 2012 featuring eight of her original songs. In addition to being a member of other groups such as jazz trios, many of her earlier releases as a leader are showcases for her solo piano compositions and improvisation. In fact, one of her most recent albums is simply called _SOLO 5_, mentioned in the previous article on her piano-drums album [_DUO_](/taeko-kurita-akira-sotoyama-duo/). Like that album, _Ko-tsu-ko-tsu_ is another great pick from her past catalog.
@@ -54,3 +46,12 @@ Like the music in the last song on the album, #8 “Plie ‘A Sublingual Castle�
 -   [Full album playlist](https://youtube.com/playlist?list=PLqdDZxjet1CiUK2IUGss5_DWNj1l0Xy_b)
 
 -   [Excerpt from track #4: “北に生まれ (_Born In The North_)”](/audio/#mix-13)
+
+
+## _Ko-tsu-ko-tsu_ by Taeko Kurita
+
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+
+_Japanese names: 栗田妙子 Kurita Taeko_
+
+Released in 2012 on Kurita Taeko as MP-007.

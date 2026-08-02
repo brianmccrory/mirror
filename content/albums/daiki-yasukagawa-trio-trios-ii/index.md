@@ -6,53 +6,10 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Taihei Asakawa", "浅川太平",
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-trio-trios-ii"
-releaseYear = 2015
-releaseLabel = "D-Musica"
-releaseCode = "DMCD-28"
 [cover]
   image = "daikiyasukagawa-trios2-460.jpeg"
   alt = "Cover art of Trios II by Daiki Yasukagawa Trio"
   relative = true
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Taihei Asakawa"
-  slug = "taihei-asakawa"
-  instrument = "piano (#1, 2)"
-  japanese = "浅川太平 Asakawa Taihei"
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano (#3, 4)"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano (#5, 6)"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano (#7, 8, 9, 10, 11)"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums (#1, 2)"
-  japanese = "則武諒 Noritake Ryo"
-[[credits]]
-  name = "Yuto Hirase"
-  slug = "yuto-hirase"
-  instrument = "drums (#3, 4)"
-  japanese = "平瀬祐人 Hirase Yuto"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums (#5, 6, 7, 8, 9, 10, 11)"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Similar in concept to Ray Brown’s _Some Of My Best Friends Are…_ album series in which the legendary bassist plays with assorted partners in jazz, bassist Daiki Yasukagawa’s release _Trios II_ from 2015 features the bassist performing with four different trios assembled from multiple pianists and drummers. A followup to Yasukagawa’s _Trios_ (2010), _Trios II_ brings even more musicians into the recording studio and offers up a new album with the various trios performing 11 songs.
@@ -83,3 +40,19 @@ In addition to providing a glimpse into the modern working trio in Tokyo’s cur
 {{< youtube bYYrAPfr9Fg >}}
 
 -   [Excerpt from track #1: “Tonight”](/audio/#mix-5)
+
+
+## _Trios II_ by Daiki Yasukagawa Trio
+
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano (#1, 2)
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano (#3, 4)
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano (#5, 6)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano (#7, 8, 9, 10, 11)
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums (#1, 2)
+-   [Yuto Hirase](/tags/yuto-hirase/) - drums (#3, 4)
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums (#5, 6, 7, 8, 9, 10, 11)
+
+_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 浅川太平 Asakawa Taihei 西山瞳 Nishiyama Hitomi 田中菜緒子 Tanaka Naoko 石田衛 Ishida Mamoru 則武諒 Noritake Ryo 平瀬祐人 Hirase Yuto 橋本学 Hashimoto Manabu_
+
+Released in 2015 on D-Musica as DMCD-28.

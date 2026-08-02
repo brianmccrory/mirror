@@ -6,33 +6,10 @@ tags = ["Sumito Oi", "大井澄東", "Toyomi Kobayashi", "小林豊美", "Koichi
 categories = ["albums"]
 draft = false
 slug = "sumito-oi-sumitty-and-the-funfair"
-releaseYear = 2015
-releaseLabel = "S&T Music"
-releaseCode = "STMU-1001"
 [cover]
   image = "sumito-oi-funfair-460.jpeg"
   alt = "Cover art of Sumitty & The Funfair by Sumito Oi"
   relative = true
-[[credits]]
-  name = "Sumito Oi"
-  slug = "sumito-oi"
-  instrument = "drums"
-  japanese = "大井澄東 Oi Sumito"
-[[credits]]
-  name = "Toyomi Kobayashi"
-  slug = "toyomi-kobayashi"
-  instrument = "flute, alto flute, bass flute, Andes25F"
-  japanese = "小林豊美 Kobayashi Toyomi"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano, Fender Rhodes, Wurlitzer"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Show Kudo"
-  slug = "show-kudo"
-  instrument = "double bass, electric bass"
-  japanese = "工藤精 Kudo Show"
 +++
 
 _Sumitty &amp; the Funfair_ is a 2015 release from drummer Sumito Oi and his band of merry music makers, assembling here to produce an original work of creatively poppy jazz. Not circus clown tomfoolery, but, rather, light and glittery music played with a cheerful buoyancy and sensitivity by improvisational jazz musicians. The theme is musical fun, wide-smiled mirth carried by a sweet nostalgia for amusement park ambiance.
@@ -53,3 +30,15 @@ As a drummer’s quartet, rhythm moderates the music delightfully, propulsive bu
 {{< youtube TP-bCigVMCA >}}
 
 -   [Excerpt from track #1: “Ferris Wheel”](/audio/#mix-2)
+
+
+## _Sumitty &amp; The Funfair_ by Sumito Oi
+
+-   [Sumito Oi](/tags/sumito-oi/) - drums
+-   [Toyomi Kobayashi](/tags/toyomi-kobayashi/) - flute, alto flute, bass flute, Andes25F
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Fender Rhodes, Wurlitzer
+-   [Show Kudo](/tags/show-kudo/) - double bass, electric bass
+
+_Japanese names: 大井澄東 Oi Sumito 小林豊美 Kobayashi Toyomi 佐藤浩一 Sato Koichi 工藤精 Kudo Show_
+
+Released in 2015 on S&amp;T Music as STMU-1001.

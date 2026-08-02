@@ -6,34 +6,11 @@ tags = ["Koichi Hirata", "平田晃一", "Mamoru Ishida", "石田衛", "Yutaka Y
 categories = ["albums"]
 draft = false
 slug = "koichi-hirata-introducing-koichi-hirata"
-releaseYear = 2024
-releaseLabel = "Live at Alfie"
-releaseCode = "AFCD-6008"
 related = ["fumika-asari-introducin", "yuji-ito-koichi-hirata-duo-two-for-the-road"]
 [cover]
   image = "koichi-hirata-introducing-460.jpeg"
   alt = "Cover art of Introducing Koichi Hirata by Koichi Hirata"
   relative = true
-[[credits]]
-  name = "Koichi Hirata"
-  slug = "koichi-hirata"
-  instrument = "guitar"
-  japanese = "平田晃一 Hirata Koichi"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Yutaka Yoshida"
-  slug = "yutaka-yoshida"
-  instrument = "bass"
-  japanese = "吉田豊 Yoshida Yutaka"
-[[credits]]
-  name = "Yusuke Yaginuma"
-  slug = "yusuke-yaginuma"
-  instrument = "drums"
-  japanese = "柳沼佑育 Yaginuma Yusuke"
 +++
 
 _Introducing Koichi Hirata_ is the 2024 debut release from jazz guitarist Koichi Hirata. Hirata is a young, up-and-coming player who has established himself as a popular musician in the live Tokyo circuit, playing live often as a support musician or a leader at his own gigs and popular jazz jam sessions. His style is unadorned with a comfortably warm sound and style that immediately brings to mind the much-admired jazz guitarists of previous generations.
@@ -138,3 +115,15 @@ Jazz guitarist Koichi Hirata is a current college student who has began to make 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mNDCBx6zojqr_KB9hOjiR0EL6OP-m0UJk)
 
 -   [Excerpt from track #4: “These Are Soulful Days”](/audio/#mix-15)
+
+
+## _Introducing Koichi Hirata_ by Koichi Hirata
+
+-   [Koichi Hirata](/tags/koichi-hirata/) - guitar
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Yutaka Yoshida](/tags/yutaka-yoshida/) - bass
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
+
+_Japanese names: 平田晃一 Hirata Koichi 石田衛 Ishida Mamoru 吉田豊 Yoshida Yutaka 柳沼佑育 Yaginuma Yusuke_
+
+Released in 2024 on Live at Alfie as AFCD-6008.

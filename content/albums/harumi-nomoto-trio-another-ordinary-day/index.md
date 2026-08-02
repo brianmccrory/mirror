@@ -6,37 +6,10 @@ tags = ["Harumi Nomoto", "野本晴美", "Norihide Shioda", "塩田哲嗣", "Tom
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-another-ordinary-day"
-releaseYear = 2002
-releaseLabel = "Venus Records"
-releaseCode = "TKCV-35311"
 [cover]
   image = "haruminomoto-another-460.jpeg"
   alt = "Cover art of Another Ordinary Day by Harumi Nomoto Trio"
   relative = true
-[[credits]]
-  name = "Harumi Nomoto"
-  slug = "harumi-nomoto"
-  instrument = "piano"
-  japanese = "野本晴美 Nomoto Harumi"
-[[credits]]
-  name = "Norihide Shioda"
-  slug = "norihide-shioda"
-  instrument = "bass (#1, 2, 3, 4, 8)"
-  japanese = "塩田哲嗣 Shioda Norihide"
-[[credits]]
-  name = "Tommy Campbell"
-  slug = "tommy-campbell"
-  instrument = "drums (#1, 2, 3, 4, 8)"
-[[credits]]
-  name = "Masayuki Tawarayama"
-  slug = "masayuki-tawarayama"
-  instrument = "bass (#5, 7)"
-  japanese = "俵山昌之 Tawarayama Masayuki"
-[[credits]]
-  name = "Yoshihito Eto"
-  slug = "yoshihito-eto"
-  instrument = "drums (#5, 7)"
-  japanese = "江藤良人 Eto Yoshihito"
 +++
 
 _Another Ordinary Day_ from 2002 is pianist Harumi Nomoto’s debut album as a leader of her own jazz trio… actually, two jazz trios. Recorded over two summer days in Tokyo, the exciting young pianist runs through eight tunes: five songs with one trio arrangement and two songs with a second trio. Also included among the trio tracks is one solo piece, where Nomoto plays on piano the quiet and affectionate “You Only Know What I Know” by saxophonist Atsushi Ikeda.
@@ -63,3 +36,16 @@ In addition to these three jazz covers, three originals by Nomoto and two origin
 {{< youtube wTKRK5kxDPY >}}
 
 -   [Excerpt from track #1: “マイ・シャイニング・アワー (_My Shining Hour_)”](/audio/#mix-8)
+
+
+## _Another Ordinary Day_ by Harumi Nomoto Trio
+
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Norihide Shioda](/tags/norihide-shioda/) - bass (#1, 2, 3, 4, 8)
+-   [Tommy Campbell](/tags/tommy-campbell/) - drums (#1, 2, 3, 4, 8)
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass (#5, 7)
+-   [Yoshihito Eto](/tags/yoshihito-eto/) - drums (#5, 7)
+
+_Japanese names: 野本晴美 Nomoto Harumi 塩田哲嗣 Shioda Norihide 俵山昌之 Tawarayama Masayuki 江藤良人 Eto Yoshihito_
+
+Released in 2002 on Venus Records as TKCV-35311.

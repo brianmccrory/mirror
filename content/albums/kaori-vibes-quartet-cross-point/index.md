@@ -6,33 +6,10 @@ tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Y
 categories = ["albums"]
 draft = false
 slug = "kaori-vibes-quartet-cross-point"
-releaseYear = 2016
-releaseLabel = "Urban Jazz"
-releaseCode = "151A-0017"
 [cover]
   image = "kaorivibesquartet-crosspoint-460.jpeg"
   alt = "Cover art of Cross Point by Kaori Vibes Quartet"
   relative = true
-[[credits]]
-  name = "Kaori Nakajima"
-  slug = "kaori-nakajima"
-  instrument = "vibraphone"
-  japanese = "中島香里 Nakajima Kaori"
-[[credits]]
-  name = "Tamashi Goto"
-  slug = "tamashi-goto"
-  instrument = "piano"
-  japanese = "後藤魂 Goto Tamashi"
-[[credits]]
-  name = "Minoru Yoshiki"
-  slug = "minoru-yoshiki"
-  instrument = "bass"
-  japanese = "吉木稔 Yoshiki Minoru"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 Vibist Kaori Nakajima returns with her second album _Cross Point_ featuring KVQ: Kaori Vibes Quartet (formerly Vangy!!), a jubilant combo with jazz vibraphone springing out mellow tones at the center.
@@ -55,3 +32,15 @@ Starting with the high-energy “Cross Point”, the quartet explores directions
 {{< youtube Tvni2-L10GM >}}
 
 -   [Excerpt from track #1: “Cross Point”](/audio/#mix-2)
+
+
+## _Cross Point_ by Kaori Vibes Quartet
+
+-   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
+
+Released in 2016 on Urban Jazz as 151A-0017.

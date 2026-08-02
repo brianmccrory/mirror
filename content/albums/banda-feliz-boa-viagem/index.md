@@ -6,43 +6,10 @@ tags = ["Makiyo Sakai", "酒井麻生代", "Masaaki Ikeda", "池田雅明", "Kaz
 categories = ["albums"]
 draft = false
 slug = "banda-feliz-boa-viagem"
-releaseYear = 2020
-releaseLabel = "Feliz Record"
-releaseCode = "FLZ-0001"
 [cover]
   image = "banda-feliz-boa-viagem-460.jpeg"
   alt = "Cover art of Boa Viagem by Banda Feliz"
   relative = true
-[[credits]]
-  name = "Makiyo Sakai"
-  slug = "makiyo-sakai"
-  instrument = "flute"
-  japanese = "酒井麻生代 Sakai Makiyo"
-[[credits]]
-  name = "Masaaki Ikeda"
-  slug = "masaaki-ikeda"
-  instrument = "trombone"
-  japanese = "池田雅明 Ikeda Masaaki"
-[[credits]]
-  name = "Kazuhiko Obata"
-  slug = "kazuhiko-obata"
-  instrument = "guitar"
-  japanese = "小畑和彦 Obata Kazuhiko"
-[[credits]]
-  name = "Minoru Kato"
-  slug = "minoru-kato"
-  instrument = "piano"
-  japanese = "加藤実 Kato Minoru"
-[[credits]]
-  name = "Kiichiro Komobuchi"
-  slug = "kiichiro-komobuchi"
-  instrument = "bass"
-  japanese = "コモブチキイチロウ Komobuchi Kiichiro"
-[[credits]]
-  name = "Satoshi Ishikawa"
-  slug = "satoshi-ishikawa"
-  instrument = "drums"
-  japanese = "石川智 Ishikawa Satoshi"
 +++
 
 Banda Feliz is a group of Tokyo musicians playing festive Brazilian music, originals and covers, centered around Makiyo Sakai’s robust and jazzy flute playing. Her lighter-than-air flute sound is buoyed by her full six-piece palette with trombone, guitar, piano, bass, and drums, and the group’s voices happily join the melodies at times for extra oomph.
@@ -141,3 +108,17 @@ The long-awaited first album from “Banda Feliz”, a unit formed of top musici
 {{< youtube 87z-l_MKNw8 >}}
 
 -   [Excerpt from track #3: “Neste Pais”](/audio/#mix-11)
+
+
+## _Boa Viagem_ by Banda Feliz
+
+-   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
+-   [Masaaki Ikeda](/tags/masaaki-ikeda/) - trombone
+-   [Kazuhiko Obata](/tags/kazuhiko-obata/) - guitar
+-   [Minoru Kato](/tags/minoru-kato/) - piano
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - drums
+
+_Japanese names: 酒井麻生代 Sakai Makiyo 池田雅明 Ikeda Masaaki 小畑和彦 Obata Kazuhiko 加藤実 Kato Minoru コモブチキイチロウ Komobuchi Kiichiro 石川智 Ishikawa Satoshi_
+
+Released in 2020 on Feliz Record as FLZ-0001.

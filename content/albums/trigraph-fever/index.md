@@ -6,38 +6,10 @@ tags = ["Takayoshi Baba", "馬場孝喜", "Reikan Kobayashi", "小林鈴勘", "S
 categories = ["albums"]
 draft = false
 slug = "trigraph-fever"
-releaseYear = 2014
-releaseLabel = "Haru Records"
-releaseCode = "HARU-20"
 [cover]
   image = "trigraph-fever-460.jpeg"
   alt = "Cover art of Fever by Trigraph"
   relative = true
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar & chorus"
-  japanese = "馬場孝喜 Baba Takayoshi"
-[[credits]]
-  name = "Reikan Kobayashi"
-  slug = "reikan-kobayashi"
-  instrument = "shakuhachi, piano, keyboard, voice percussion, shaker, chorus"
-  japanese = "小林鈴勘 Kobayashi Reikan"
-[[credits]]
-  name = "Sanae Ishikawa"
-  slug = "sanae-ishikawa"
-  instrument = "vocal & chorus"
-  japanese = "石川早苗 Ishikawa Sanae"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "electric fretless bass & chorus"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Yasushi Fukumori"
-  slug = "yasushi-fukumori"
-  instrument = "drums & chorus"
-  japanese = "福森康 Fukumori Yasushi"
 +++
 
 _Fever_ is the 2014 debut release from Trigraph, a band that takes an eclectic approach to their music, focusing on jazz and pop while incorporating various genres and instruments into their music. The core group is the talented trio of musicians Sanae Ishikawa on vocals, Takayoshi Baba on guitar, and Reikan Kobayashi on shakuhachi and other instruments. Two additional musicians fill out the group for this recording, electric fretless bassist Ryoji Orihara, and drummer Yasushi Fukumori.
@@ -72,3 +44,16 @@ In addition to jazz, Trigraph also features five of their well-crafted original 
 {{< youtube nL9J2i5aJ20 >}}
 
 -   [Excerpt from track #1: “It Might As Well Be Spring”](/audio/#mix-8)
+
+
+## _Fever_ by Trigraph
+
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar &amp; chorus
+-   [Reikan Kobayashi](/tags/reikan-kobayashi/) - shakuhachi, piano, keyboard, voice percussion, shaker, chorus
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal &amp; chorus
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass &amp; chorus
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums &amp; chorus
+
+_Japanese names: 馬場孝喜 Baba Takayoshi 小林鈴勘 Kobayashi Reikan 石川早苗 Ishikawa Sanae 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi_
+
+Released in 2014 on Haru Records as HARU-20.

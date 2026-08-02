@@ -6,29 +6,11 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Nobumasa Tanaka", "田中信正", "
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-uta-oto"
-releaseYear = 2021
-releaseLabel = "Coume Music"
-releaseCode = "CUM-2101"
 related = ["miyuki-moriya-cats-cradle"]
 [cover]
   image = "miyuki-moriya-uta-oto-460.jpeg"
   alt = "Cover art of Uta Oto by Miyuki Moriya"
   relative = true
-[[credits]]
-  name = "Miyuki Moriya"
-  slug = "miyuki-moriya"
-  instrument = "saxophone"
-  japanese = "守谷美由貴 Moriya Miyuki"
-[[credits]]
-  name = "Nobumasa Tanaka"
-  slug = "nobumasa-tanaka"
-  instrument = "piano"
-  japanese = "田中信正 Tanaka Nobumasa"
-[[credits]]
-  name = "Hiroshi Yoshino"
-  slug = "hiroshi-yoshino"
-  instrument = "bass"
-  japanese = "吉野弘志 Yoshino Hiroshi"
 +++
 
 _Uta Oto_ from sax player Miyuki Moriya is a modern jazz album full of emotion and spirit… a bit spiritual, even. The music created by Moriya’s trio ranges from brooding and wistful, to simple cheer, folk, free, and comforting. As the music plays the mood passes from somber strife to resurgence like a theme hinted at in the liner notes, a story of rejuvenation through musical inspiration and partnership.
@@ -150,3 +132,14 @@ _(The liner notes end with a poem in Japanese. This is a humble attempt at a poe
 {{< youtube Qxn5qIfYOzk >}}
 
 -   [Excerpt from track #1: “詠音～うたおと～ (_Utaoto_)”](/audio/#mix-10)
+
+
+## _Uta Oto_ by Miyuki Moriya
+
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Hiroshi Yoshino](/tags/hiroshi-yoshino/) - bass
+
+_Japanese names: 守谷美由貴 Moriya Miyuki 田中信正 Tanaka Nobumasa 吉野弘志 Yoshino Hiroshi_
+
+Released in 2021 on Coume Music as CUM-2101.

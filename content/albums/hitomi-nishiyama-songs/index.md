@@ -6,19 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-songs"
-releaseYear = 2025
-releaseLabel = "Meantone Records"
-releaseCode = "MT-15"
 related = ["hitomi-nishiyama-trio-im-missing-you", "hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-sympathy", "hitomi-nishiyama-trio-parallax-live", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "hitomi-nishiyama-songs-460.jpeg"
   alt = "Cover art of Songs by Hitomi Nishiyama"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
 +++
 
 _Songs_ is the current latest album from pianist/composer Hitomi Nishiyama, with her new album _Layer_ due to be released in the next few months. Here, _Songs_ occupies a momentous slot in Nishiyama’s recorded output, as it is a milestone album that looks back over some of her early compositions beginning with her debut album [_I’m Missing You_](/hitomi-nishiyama-trio-im-missing-you/) from 2004. While I’ve previously introduced over a dozen of her albums here to date, I still have an almost equal amount of her other albums that I will include someday. But for now, as her new album is due out soon, I want to catch up and include her current latest album.
@@ -163,3 +155,12 @@ A gem-filled collection of piano pieces, secretly assembled
 
 -   [Streaming services for Hitomi Nishiyama: _Songs_](https://linkco.re/Vg452XhR?lang=en)
 -   [Excerpt from track #5: “Standing There”](/audio/#mix-16)
+
+
+## _Songs_ by Hitomi Nishiyama
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+
+_Japanese names: 西山瞳 Nishiyama Hitomi_
+
+Released in 2025 on Meantone Records as MT-15.

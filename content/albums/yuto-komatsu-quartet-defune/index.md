@@ -6,34 +6,11 @@ tags = ["Yuto Komatsu", "小松悠人", "Mikiko Nagatake", "永武幹子", "Dais
 categories = ["albums"]
 draft = false
 slug = "yuto-komatsu-quartet-defune"
-releaseYear = 2025
-releaseLabel = "YK Offshore"
-releaseCode = "“02”"
 related = ["yuko-miyawaki-song-of-flower", "hikari-ichihara-group-unity", "miki-hirose-scratch", "keisuke-nakamura-humadope-2", "tetsuji-yoshida-and-mikiko-nagatake", "toru-takahashi-tokyo-groovin-high", "shinpei-ruike-george-nakajima-duo", "hiroyuki-yamaguchi-quintet-mowna"]
 [cover]
   image = "yuto-komatsu-quartet-defune-460.jpeg"
   alt = "Cover art of Defune by Yuto Komatsu Quartet"
   relative = true
-[[credits]]
-  name = "Yuto Komatsu"
-  slug = "yuto-komatsu"
-  instrument = "trumpet, flugelhorn"
-  japanese = "小松悠人 Komatsu Yuto"
-[[credits]]
-  name = "Mikiko Nagatake"
-  slug = "mikiko-nagatake"
-  instrument = "piano"
-  japanese = "永武幹子 Nagatake Mikiko"
-[[credits]]
-  name = "Daisuke Ijichi"
-  slug = "daisuke-ijichi"
-  instrument = "bass"
-  japanese = "伊地知大輔 Ijichi Daisuke"
-[[credits]]
-  name = "Makoto Rikitake"
-  slug = "makoto-rikitake"
-  instrument = "drums"
-  japanese = "力武誠 Rikitake Makoto"
 +++
 
 Trumpeter Yuto Komatsu released his second album _Defune_ in 2025, introducing nine new songs performed by his quartet that includes Mikiko Nagatake on piano, Daisuke Ijichi on bass, and Makoto Rikitake on drums. This new album is a follow-up seven years in the making after his 2018 debut release _Circle of Dreams_, marking his journey through the pandemic years and noting what he picked up along the way. His love of music sustained him through that unpredictable period, one that was particularly hard on independent musicians, as he discusses a bit in the liner notes.
@@ -135,3 +112,15 @@ I had thought that bursts were things that happened in the world of F1. Then, on
 {{< youtube 2hqbCHP1XCI >}}
 
 -   [Excerpt from track #1: “Rising Sun”](/audio/#mix-15)
+
+
+## _Defune_ by Yuto Komatsu Quartet
+
+-   [Yuto Komatsu](/tags/yuto-komatsu/) - trumpet, flugelhorn
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Daisuke Ijichi](/tags/daisuke-ijichi/) - bass
+-   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
+
+_Japanese names: 小松悠人 Komatsu Yuto 永武幹子 Nagatake Mikiko 伊地知大輔 Ijichi Daisuke 力武誠 Rikitake Makoto_
+
+Released in 2025 on YK Offshore as “02”.

@@ -6,29 +6,11 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Sora Ichikawa", "市川空", "Yo
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-new-trio-three-roses"
-releaseYear = 2022
-releaseLabel = "Daiki Musika D-neo"
-releaseCode = "DNCD-28"
 related = ["hideaki-hori-trio-in-my-words", "daiki-yasukagawa-trio-kanmai", "taihei-asakawa-trio-touch-of-winter", "daiki-yasukagawa-trio-trios-ii", "naoko-tanaka-trio-memories", "tcq-memories-of-t", "miwo-tranquillo", "sayaka-kishi-trio-banquet"]
 [cover]
   image = "daiki-yasukagawa-new-trio-three-roses-460.jpeg"
   alt = "Cover art of The Three Roses by Daiki Yasukagawa New Trio"
   relative = true
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Sora Ichikawa"
-  slug = "sora-ichikawa"
-  instrument = "piano"
-  japanese = "市川空 Ichikawa Sora"
-[[credits]]
-  name = "Yota Tsukada"
-  slug = "yota-tsukada"
-  instrument = "drums"
-  japanese = "塚田陽太 Tsukada Yota"
 +++
 
 Renowned jazz bassist Daiki Yasukagawa is actively engaged in a variety of fascinating projects within the Japanese jazz scene. One of those, the Daiki Yasukagawa New Trio, released their first recording with this 2022 album, _The Three Roses_.
@@ -72,3 +54,14 @@ Bassist Daiki Yasukagawa formed his new piano trio Daiki Yasukagawa New Trio in 
 -   [D-musica page with album information and audio samples](https://d-musica.co.jp/?p=316)
 
 -   [Excerpt from track #1: “Wunderbarland”](/audio/#mix-12)
+
+
+## _The Three Roses_ by Daiki Yasukagawa New Trio
+
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Sora Ichikawa](/tags/sora-ichikawa/) - piano
+-   [Yota Tsukada](/tags/yota-tsukada/) - drums
+
+_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 市川空 Ichikawa Sora 塚田陽太 Tsukada Yota_
+
+Released in 2022 on Daiki Musika D-neo as DNCD-28.

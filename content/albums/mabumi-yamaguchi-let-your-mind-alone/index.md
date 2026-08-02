@@ -7,39 +7,11 @@ tags = ["Mabumi Yamaguchi", "山口真文", "Yoshitaka Shoji", "東海林由孝"
 categories = ["albums"]
 draft = false
 slug = "mabumi-yamaguchi-let-your-mind-alone"
-releaseYear = 2017
-releaseLabel = "Spice of Life"
-releaseCode = "SOLJP-0015"
 related = ["naoko-tanaka-appreciation"]
 [cover]
   image = "mabumiyamaguchi-letyour-460.jpeg"
   alt = "Cover art of Let Your Mind Alone by Mabumi Yamaguchi"
   relative = true
-[[credits]]
-  name = "Mabumi Yamaguchi"
-  slug = "mabumi-yamaguchi"
-  instrument = "Tenor & Soprano Sax"
-  japanese = "山口真文 Yamaguchi Mabumi"
-[[credits]]
-  name = "Yoshitaka Shoji"
-  slug = "yoshitaka-shoji"
-  instrument = "guitar"
-  japanese = "東海林由孝 Shoji Yoshitaka"
-[[credits]]
-  name = "Misato Okumura"
-  slug = "misato-okumura"
-  instrument = "piano"
-  japanese = "奥村美里 Okumura Misato"
-[[credits]]
-  name = "Ryohei Komaki"
-  slug = "ryohei-komaki"
-  instrument = "bass"
-  japanese = "小牧良平 Komaki Ryohei"
-[[credits]]
-  name = "Nobuyuki Komatsu"
-  slug = "nobuyuki-komatsu"
-  instrument = "drums"
-  japanese = "小松伸之 Komatsu Nobuyuki"
 +++
 
 The silvery tones of masterful jazz sax glide and soar through dynamically modern jazz on Mabumi Yamaguchi’s 2017 recording _Let Your Mind Alone_.
@@ -119,3 +91,16 @@ After finishing this album, Mabumi Yamaguchi said his appetite for composing was
 {{< youtube l9tLbegpVpo >}}
 
 -   [Excerpt from track #1: “Sequel to a Dream”](/audio/#mix-5)
+
+
+## _Let Your Mind Alone_ by Mabumi Yamaguchi
+
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - Tenor &amp; Soprano Sax
+-   [Yoshitaka Shoji](/tags/yoshitaka-shoji/) - guitar
+-   [Misato Okumura](/tags/misato-okumura/) - piano
+-   [Ryohei Komaki](/tags/ryohei-komaki/) - bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
+
+_Japanese names: 山口真文 Yamaguchi Mabumi 東海林由孝 Shoji Yoshitaka 奥村美里 Okumura Misato 小牧良平 Komaki Ryohei 小松伸之 Komatsu Nobuyuki_
+
+Released in 2017 on Spice of Life as SOLJP-0015.

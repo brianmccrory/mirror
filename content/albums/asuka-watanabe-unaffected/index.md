@@ -6,34 +6,11 @@ tags = ["Asuka Watanabe", "渡辺明日香", "Hideaki Yoshioka", "吉岡秀晃",
 categories = ["albums"]
 draft = false
 slug = "asuka-watanabe-unaffected"
-releaseYear = 2004
-releaseLabel = "What’s New Records"
-releaseCode = "WNCJ-2135"
 related = ["azumi-almost-like-being-in-love", "naoko-akimoto-no-one-else", "yako-horikita-shining-hour", "mie-joke-etrenne", "layla-tomomi-sakai-stolen-moments", "miwo-tranquillo", "rie-taguchi-the-gift-ii", "yoshiko-saita-back-in-time-to-boston"]
 [cover]
   image = "asuka-watanabe-unaffected-460.jpeg"
   alt = "Cover art of Unaffected by Asuka Watanabe"
   relative = true
-[[credits]]
-  name = "Asuka Watanabe"
-  slug = "asuka-watanabe"
-  instrument = "vocal"
-  japanese = "渡辺明日香 Watanabe Asuka"
-[[credits]]
-  name = "Hideaki Yoshioka"
-  slug = "hideaki-yoshioka"
-  instrument = "piano"
-  japanese = "吉岡秀晃 Yoshioka Hideaki"
-[[credits]]
-  name = "Koji Yamashita"
-  slug = "koji-yamashita"
-  instrument = "bass"
-  japanese = "山下弘治 Yamashita Koji"
-[[credits]]
-  name = "Yoshitaka Uematsu"
-  slug = "yoshitaka-uematsu"
-  instrument = "drums"
-  japanese = "植松良高 Uematsu Yoshitaka"
 +++
 
 In Japan, Asuka Watanabe is a recognizable name for fans of old jazz standards and Japanese vocals. Her emergence in the live jazz scene in the early 2000s was elevated by her 2004 debut album, _Unaffected_. The album’s title fits the meaning of unpretentious sincerity, and that is what the music here is all about. Fans of classic jazz will appreciate Watanabe’s great selection of familiar tunes centered on her straight-forward singing without affectation, presented in the traditional format of a jazz vocalist backed up by a jazz piano trio. Her locked-in trio for this recording features equally Hideaki Yoshioka on piano, Koji Yamashita on bass, and Yoshitaka Uematsu on drums.
@@ -156,3 +133,15 @@ You’re invited to spend a sublime sophisticated time with mellow singing that 
 -   [Album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_kQNVi7rxVpybmTE7_7EKzwV5xgfm9LXO8)
 
 -   [Excerpt from track #3: “Let's Do It”](/audio/#mix-15)
+
+
+## _Unaffected_ by Asuka Watanabe
+
+-   [Asuka Watanabe](/tags/asuka-watanabe/) - vocal
+-   [Hideaki Yoshioka](/tags/hideaki-yoshioka/) - piano
+-   [Koji Yamashita](/tags/koji-yamashita/) - bass
+-   [Yoshitaka Uematsu](/tags/yoshitaka-uematsu/) - drums
+
+_Japanese names: 渡辺明日香 Watanabe Asuka 吉岡秀晃 Yoshioka Hideaki 山下弘治 Yamashita Koji 植松良高 Uematsu Yoshitaka_
+
+Released in 2004 on What’s New Records as WNCJ-2135.

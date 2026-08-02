@@ -6,18 +6,10 @@ tags = ["Yukari Inoue", "井上ゆかり"]
 categories = ["albums"]
 draft = false
 slug = "yukari-inoue-sakura"
-releaseYear = 2012
-releaseLabel = "Silver Fingers/Roving Spirits"
-releaseCode = "RKCJ-2053"
 [cover]
   image = "yukariinoue-sakura-460.jpeg"
   alt = "Cover art of Sakura by Yukari Inoue"
   relative = true
-[[credits]]
-  name = "Yukari Inoue"
-  slug = "yukari-inoue"
-  instrument = "piano"
-  japanese = "井上ゆかり Inoue Yukari"
 +++
 
 Pianist Yukari Inoue’s _Sakura_ from 2016 blooms with colorful variety as she jumps across genres as brightly as she hops around the keys. This is her first solo piano album, recorded with a beautiful sound in concert-hall quality.
@@ -44,3 +36,12 @@ Along with standard jazz tunes including “I Got Rhythm”, “La Fiesta”, an
 {{< youtube c2jwF_F8kFI >}}
 
 -   [Excerpt from track #13: “いつか王子様が (_Someday My Prince Will Come_)”](/audio/#mix-6)
+
+
+## _Sakura_ by Yukari Inoue
+
+-   [Yukari Inoue](/tags/yukari-inoue/) - piano
+
+_Japanese names: 井上ゆかり Inoue Yukari_
+
+Released in 2012 on Silver Fingers/Roving Spirits as RKCJ-2053.

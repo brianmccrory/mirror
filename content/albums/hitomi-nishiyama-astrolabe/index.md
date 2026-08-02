@@ -6,24 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Takayoshi Baba", "馬場孝喜"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-astrolabe"
-releaseYear = 2012
-releaseLabel = "Meantone Record"
-releaseCode = "MT-003"
 related = ["nhorhm-new-heritage-of-real-heavy-metal", "hitomi-nishiyama-trio-parallax-live", "duo-tremolo-resonance", "nobie-takayoshi-baba-owari-to-hajimari", "hitomi-nishiyama-echo"]
 [cover]
   image = "hitomi-nishiyama-astrolabe-460.jpeg"
   alt = "Cover art of Astrolabe by Hitomi Nishiyama"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar"
-  japanese = "馬場孝喜 Baba Takayoshi"
 +++
 
 _Astrolabe_ is an imaginative 2012 album from pianist and composer Hitomi Nishiyama. Nishiyama created the songs and this album with two goals in mind: First, she wanted to compose a story-like suite, a long-form composition that reflected the influence of guitar-based music she listened to as a youth, especially rock and heavy metal. Second, she wanted to record and release an album in a duo format with guitarist Takayoshi Baba, who joins her on this album.
@@ -113,3 +100,13 @@ A sublime duo of guitar and piano create and expand a magical sound space of two
 {{< youtube HS5JB0buDyk >}}
 
 -   [Excerpt from track #6: “Frontier”](/audio/#mix-14)
+
+
+## _Astrolabe_ by Hitomi Nishiyama
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 馬場孝喜 Baba Takayoshi_
+
+Released in 2012 on Meantone Record as MT-003.

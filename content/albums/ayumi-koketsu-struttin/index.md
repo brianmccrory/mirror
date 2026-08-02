@@ -6,33 +6,11 @@ tags = ["Ayumi Koketsu", "纐纈歩美", "Yoshihiko Naya", "納谷嘉彦", "Masa
 categories = ["albums"]
 draft = false
 slug = "ayumi-koketsu-struttin"
-releaseYear = 2010
-releaseLabel = "Pony Canyon"
-releaseCode = "MYCJ-30573"
 related = ["ayumi-koketsu-rainbow-tales", "ayumi-koketsu-art", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "ayumi-koketsu-struttin-460.jpeg"
   alt = "Cover art of Struttin’ by Ayumi Koketsu"
   relative = true
-[[credits]]
-  name = "Ayumi Koketsu"
-  slug = "ayumi-koketsu"
-  instrument = "saxophone"
-  japanese = "纐纈歩美 Koketsu Ayumi"
-[[credits]]
-  name = "Yoshihiko Naya"
-  slug = "yoshihiko-naya"
-  instrument = "piano"
-  japanese = "納谷嘉彦 Naya Yoshihiko"
-[[credits]]
-  name = "Masayuki Tawarayama"
-  slug = "masayuki-tawarayama"
-  instrument = "bass"
-  japanese = "俵山昌之 Tawarayama Masayuki"
-[[credits]]
-  name = "Mark Taylor"
-  slug = "mark-taylor"
-  instrument = "drums"
 +++
 
 _Struttin’_ is saxophone player Ayumi Koketsu’s jazz quartet album released in Japan in 2010. This is her debut album, the first of over a dozen killer jazz albums that she has been releasing through the years, each filled with material ranging from straight-ahead, cool jazz, hard bop, ballads, bossa nova, and other themes. This first album features Koketsu on alto sax with her quartet of Yoshihiko Naya on piano, Masayuki Tawarayama on bass, and Mark Taylor on drums.
@@ -159,3 +137,15 @@ A talented woman makes her debut on the scene with her light yet intense perform
 -   [Ayumi Koketsu: _Struttin’_ - full playlist](https://youtube.com/playlist?list=OLAK5uy_nK1Q8zozSah7DHvQohnvotxLIcbBJKAO0)
 
 -   [Excerpt from track #3: “Karys Trance”](/audio/#mix-15)
+
+
+## _Struttin’_ by Ayumi Koketsu
+
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - saxophone
+-   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
+-   [Mark Taylor](/tags/mark-taylor/) - drums
+
+_Japanese names: 纐纈歩美 Koketsu Ayumi 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki_
+
+Released in 2010 on Pony Canyon as MYCJ-30573.

@@ -6,33 +6,10 @@ tags = ["Azumi", "あづみ", "Sachiko Ikuta", "生田さち子", "Tetsuro Arata
 categories = ["albums"]
 draft = false
 slug = "azumi-almost-like-being-in-love"
-releaseYear = 2010
-releaseLabel = "Jazz On Top Records"
-releaseCode = "JOT-1009-1"
 [cover]
   image = "azumi-almostlike-460.jpeg"
   alt = "Cover art of Almost Like Being in Love by Azumi"
   relative = true
-[[credits]]
-  name = "Azumi"
-  slug = "azumi"
-  instrument = "vocal"
-  japanese = "あづみ Azumi"
-[[credits]]
-  name = "Sachiko Ikuta"
-  slug = "sachiko-ikuta"
-  instrument = "piano"
-  japanese = "生田さち子 Ikuta Sachiko"
-[[credits]]
-  name = "Tetsuro Aratama"
-  slug = "tetsuro-aratama"
-  instrument = "bass"
-  japanese = "荒玉哲郎 Aratama Tetsuro"
-[[credits]]
-  name = "Kengo Komae"
-  slug = "kengo-komae"
-  instrument = "drums"
-  japanese = "小前賢吾 Komae Kengo"
 +++
 
 Jazz singer Azumi’s 2010 release _Almost Like Being in Love_ is a cheery and ebullient jazz album filled with fresh takes on classic jazz standards. With well-thought-out arrangements and a satisfying choice of tunes, a variation of moods with an undercurrent of lively swing is established right from the inviting title track. Other standards include “On Green Dolphin Street”, “My Favorite Things”, and “Raindrops Keep Falling On My Head”, played as a cute jazz march.
@@ -59,3 +36,15 @@ With the essence of soft blues and pure whites like the album design itself, Azu
 {{< youtube 66XO6e998Us >}}
 
 -   [Excerpt from track #1: “ｵｰﾙﾓｽﾄ・ﾋﾞｰｲﾝｸﾞ・ｲﾝ・ﾗｳﾞ (_Almost Like Being in Love_)”](/audio/#mix-5)
+
+
+## _Almost Like Being in Love_ by Azumi
+
+-   [Azumi](/tags/azumi/) - vocal
+-   [Sachiko Ikuta](/tags/sachiko-ikuta/) - piano
+-   [Tetsuro Aratama](/tags/tetsuro-aratama/) - bass
+-   [Kengo Komae](/tags/kengo-komae/) - drums
+
+_Japanese names: あづみ Azumi 生田さち子 Ikuta Sachiko 荒玉哲郎 Aratama Tetsuro 小前賢吾 Komae Kengo_
+
+Released in 2010 on Jazz On Top Records as JOT-1009-1.

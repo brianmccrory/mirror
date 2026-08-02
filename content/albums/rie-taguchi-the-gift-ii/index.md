@@ -6,48 +6,10 @@ tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada
 categories = ["albums"]
 draft = false
 slug = "rie-taguchi-the-gift-ii"
-releaseYear = 2021
-releaseLabel = "Studio TLive Records"
-releaseCode = "STLR-021"
 [cover]
   image = "rietaguchi-gift-ii-460.jpeg"
   alt = "Cover art of The Gift II by Rie Taguchi"
   relative = true
-[[credits]]
-  name = "Rie Taguchi"
-  slug = "rie-taguchi"
-  instrument = "vocal"
-  japanese = "田口理恵 Taguchi Rie"
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano, arrangments"
-  japanese = "遠藤征志 Endo Seiji"
-[[credits]]
-  name = "Seiji Tada"
-  slug = "seiji-tada"
-  instrument = "alto saxophone, flute"
-  japanese = "多田誠司 Tada Seiji"
-[[credits]]
-  name = "Noriko Satomi"
-  slug = "noriko-satomi"
-  instrument = "violin"
-  japanese = "里見紀子 Satomi Noriko"
-[[credits]]
-  name = "Mitsukuni Tanabe"
-  slug = "mitsukuni-tanabe"
-  instrument = "guitar"
-  japanese = "田辺充邦 Tanabe Mitsukuni"
-[[credits]]
-  name = "Yusuke Nakaishi"
-  slug = "yusuke-nakaishi"
-  instrument = "bass"
-  japanese = "仲石裕介 Nakaishi Yusuke"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
 +++
 
 Vocalist and pianist Rie Taguchi delivers a follow-up to her debut album _[The Gift](/rie-taguchi-gift/)_ with her 2021 album naturally titled _The Gift II_. This swinging outing features her Special Sextet as before with new outstanding arrangements.
@@ -97,3 +59,18 @@ _Rie Taguchi_
 {{< youtube OchRJuddkX0 >}}
 
 -   [Excerpt from track #1: “A Foggy Day”](/audio/#mix-8)
+
+
+## _The Gift II_ by Rie Taguchi
+
+-   [Rie Taguchi](/tags/rie-taguchi/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano, arrangments
+-   [Seiji Tada](/tags/seiji-tada/) - alto saxophone, flute
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe/) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+
+_Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 Tada Seiji 里見紀子 Satomi Noriko 田辺充邦 Tanabe Mitsukuni 仲石裕介 Nakaishi Yusuke 山田玲 Yamada Akira_
+
+Released in 2021 on Studio TLive Records as STLR-021.

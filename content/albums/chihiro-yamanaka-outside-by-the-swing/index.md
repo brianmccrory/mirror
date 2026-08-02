@@ -6,26 +6,10 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Robert Hurst", "Jeff “Tain” Wat
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-outside-by-the-swing"
-releaseYear = 2005
-releaseLabel = "Verve"
-releaseCode = "UCCJ-2040"
 [cover]
   image = "chihiroyamanaka-outsideby-460.jpeg"
   alt = "Cover art of Outside by the Swing by Chihiro Yamanaka"
   relative = true
-[[credits]]
-  name = "Chihiro Yamanaka"
-  slug = "chihiro-yamanaka"
-  instrument = "piano"
-  japanese = "山中千尋 Yamanaka Chihiro"
-[[credits]]
-  name = "Robert Hurst"
-  slug = "robert-hurst"
-  instrument = "bass"
-[[credits]]
-  name = "Jeff “Tain” Watts"
-  slug = "jeff-tain-watts"
-  instrument = "drums"
 +++
 
 Chihiro Yamanaka’s _Outside By The Swing_ (2005) is her fourth piano trio album and continues her annual series of releases since bursting on the scene with her 2001 debut _Living Without Friday_. While previous releases were on the Osaka boutique jazz label Atelier Sawano, this release marks her first in a long run with Verve Records.
@@ -52,3 +36,14 @@ Perfectly in line with the direct reference in the album title, pure, simple, st
 {{< youtube cHvC_A7tFbU >}}
 
 -   [Excerpt from track #1: “OUTSIDE BY THE SWING”](/audio/#mix-8)
+
+
+## _Outside by the Swing_ by Chihiro Yamanaka
+
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Robert Hurst](/tags/robert-hurst/) - bass
+-   [Jeff “Tain” Watts](/tags/jeff-tain-watts/) - drums
+
+_Japanese names: 山中千尋 Yamanaka Chihiro_
+
+Released in 2005 on Verve as UCCJ-2040.

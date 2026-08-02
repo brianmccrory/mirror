@@ -6,27 +6,11 @@ tags = ["Matthieu Bordenave", "Walter Lang", "Shinya Fukumori", "福盛進也"]
 categories = ["albums"]
 draft = false
 slug = "shinya-fukumori-trio-for-2-akis"
-releaseYear = 2018
-releaseLabel = "ECM"
-releaseCode = "ECM-2574"
 related = ["koichi-sato-embryo"]
 [cover]
   image = "shinya-fukumori-trio-for-2-akis-460.jpeg"
   alt = "Cover art of For 2 Akis by Shinya Fukumori Trio"
   relative = true
-[[credits]]
-  name = "Matthieu Bordenave"
-  slug = "matthieu-bordenave"
-  instrument = "saxophone"
-[[credits]]
-  name = "Walter Lang"
-  slug = "walter-lang"
-  instrument = "piano"
-[[credits]]
-  name = "Shinya Fukumori"
-  slug = "shinya-fukumori"
-  instrument = "drums"
-  japanese = "福盛進也 Fukumori Shinya"
 +++
 
 _For 2 Akis_ is a 2018 release from the trio of Japanese drummer Shinya Fukumori, French saxophonist Matthieu Bordenave, and German pianist Walter Lang. This album from the Munich-based trio is the realization of Fukumori’s long-held desire to record for the German ECM label. The recording itself was made at a studio in the South of France, a location that evokes scenes of peaceful warmth and slow serenity. In addition to the music, it is perhaps this picturesque presence that was also captured in Fukumori’s concept and the trio’s playing on _For 2 Akis_.
@@ -78,3 +62,14 @@ The wide range of years found in the song selection here brings something extra 
 -   [ECM Records](https://ecmrecords.com/product/for-2-akis-shinya-fukumori-trio/)
 
 -   [ECM Reviews](https://ecmreviews.com/2019/07/21/shinya-fukumori-trio-for-2-akis-ecm-2574/)
+
+
+## _For 2 Akis_ by Shinya Fukumori Trio
+
+-   [Matthieu Bordenave](/tags/matthieu-bordenave/) - saxophone
+-   [Walter Lang](/tags/walter-lang/) - piano
+-   [Shinya Fukumori](/tags/shinya-fukumori/) - drums
+
+_Japanese names: 福盛進也 Fukumori Shinya_
+
+Released in 2018 on ECM as ECM-2574.

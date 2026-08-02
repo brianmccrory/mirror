@@ -6,23 +6,10 @@ tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 slug = "arco-live-at-yoncha"
-releaseYear = 2018
-releaseLabel = "Arco"
-releaseCode = "handmade compact discs"
 [cover]
   image = "arco-liveatyoncha-460.jpeg"
   alt = "Cover art of Live At Yoncha by Arco"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano, melodion"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Mayumi Sano"
-  slug = "mayumi-sano"
-  instrument = "cello"
-  japanese = "佐野まゆみ Sano Mayumi"
 +++
 
 The piano and cello duo Arco released _Live at Yoncha_ in 2018, a performance recorded at a live music cafe bar in Tokyo. With six songs running 36 minutes, the set captures the feeling of being there as the two musicians blend jazz, classical, rock, Latin, and Japanese sensibilities.
@@ -49,3 +36,13 @@ On _Live At Yoncha_, the set kicks off with an original tune, the fiery “Fiest
 {{< youtube -iqn0TSqzKg >}}
 
 -   [Excerpt from track #4: “Libertango”](/audio/#mix-7)
+
+
+## _Live At Yoncha_ by Arco
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano/) - cello
+
+_Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
+
+Released in 2018 on Arco as handmade compact discs.

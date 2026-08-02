@@ -6,39 +6,11 @@ tags = ["Miyuki Moriya", "守谷美由貴", "Kosuke Mine", "峰厚介", "Mamoru 
 categories = ["albums"]
 draft = false
 slug = "miyuki-moriya-beyond-the-sea"
-releaseYear = 2024
-releaseLabel = "Coume Music"
-releaseCode = "CUM-2401"
 related = ["kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-cats-cradle", "miyuki-moriya-uta-oto"]
 [cover]
   image = "miyuki-moriya-beyond-the-sea-460.jpeg"
   alt = "Cover art of Beyond the Sea by Miyuki Moriya"
   relative = true
-[[credits]]
-  name = "Miyuki Moriya"
-  slug = "miyuki-moriya"
-  instrument = "alto sax, soprano sax"
-  japanese = "守谷美由貴 Moriya Miyuki"
-[[credits]]
-  name = "Kosuke Mine"
-  slug = "kosuke-mine"
-  instrument = "tenor sax (#2, 3, 5, 6, 7)"
-  japanese = "峰厚介 Mine Kosuke"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Junichi Sato"
-  slug = "junichi-sato"
-  instrument = "bass"
-  japanese = "佐藤潤一 Sato Junichi"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 +++
 
 _Beyond the Sea_ is saxophonist Miyuki Moriya’s fourth album as a leader, which she released in 2024 with her regular quartet of Mamoru Ishida (piano), Junichi Sato (bass), and Sohnosuke Imaizumi (drums). This album contains nine tracks over sixty-eight minutes and features mostly originals from the saxophonist, with two specially selected cover songs from Japanese jazz musicians that influenced her most in her jazz life.
@@ -143,3 +115,16 @@ The sky, the breeze, the blue. Sax player Miyuki Moriya welcomes veteran tenor p
 -   [Audio for “Maverick”, track #5 on this album](https://music.youtube.com/watch?v=1TlkcRnKg2k)
 
 -   [Excerpt from track #2: “Flip a Coin”](/audio/#mix-12)
+
+
+## _Beyond the Sea_ by Miyuki Moriya
+
+-   [Miyuki Moriya](/tags/miyuki-moriya/) - alto sax, soprano sax
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (#2, 3, 5, 6, 7)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Junichi Sato](/tags/junichi-sato/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+
+_Japanese names: 守谷美由貴 Moriya Miyuki 峰厚介 Mine Kosuke 石田衛 Ishida Mamoru 佐藤潤一 Sato Junichi 今泉総之輔 Imaizumi Sohnosuke_
+
+Released in 2024 on Coume Music as CUM-2401.

@@ -6,31 +6,11 @@ tags = ["Ayumi Koketsu", "纐纈歩美", "Svein Olav Herstad", "Magne Thormodsæ
 categories = ["albums"]
 draft = false
 slug = "ayumi-koketsu-rainbow-tales"
-releaseYear = 2012
-releaseLabel = "Pony Canyon"
-releaseCode = "MYCJ-30620"
 related = ["ayumi-koketsu-art"]
 [cover]
   image = "ayumikoketsu-rainbowtales-460.jpeg"
   alt = "Cover art of Rainbow Tales by Ayumi Koketsu"
   relative = true
-[[credits]]
-  name = "Ayumi Koketsu"
-  slug = "ayumi-koketsu"
-  instrument = "alto sax"
-  japanese = "纐纈歩美 Koketsu Ayumi"
-[[credits]]
-  name = "Svein Olav Herstad"
-  slug = "svein-olav-herstad"
-  instrument = "piano"
-[[credits]]
-  name = "Magne Thormodsæter"
-  slug = "magne-thormodster"
-  instrument = "bass"
-[[credits]]
-  name = "Per Oddvar Johansen"
-  slug = "per-oddvar-johansen"
-  instrument = "drums"
 +++
 
 Saxophonist Ayumi Koketsu creates exciting modern jazz on her third album _Rainbow Tales_ from 2012, where she leads of group of accomplished Norwegian musicians on a modern-sounding recording.
@@ -57,3 +37,15 @@ The album contains a nice balance on its eleven songs. Along with three swinging
 {{< youtube nimLiOrT4-0 >}}
 
 -   [Excerpt from track #1: “ウィズ・メイ (_With May_)”](/audio/#mix-3)
+
+
+## _Rainbow Tales_ by Ayumi Koketsu
+
+-   [Ayumi Koketsu](/tags/ayumi-koketsu/) - alto sax
+-   [Svein Olav Herstad](/tags/svein-olav-herstad/) - piano
+-   [Magne Thormodsæter](/tags/magne-thormodster/) - bass
+-   [Per Oddvar Johansen](/tags/per-oddvar-johansen/) - drums
+
+_Japanese names: 纐纈歩美 Koketsu Ayumi_
+
+Released in 2012 on Pony Canyon as MYCJ-30620.

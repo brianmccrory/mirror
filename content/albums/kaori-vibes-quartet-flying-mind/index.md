@@ -6,33 +6,10 @@ tags = ["Kaori Nakajima", "中島香里", "Tamashi Goto", "後藤魂", "Minoru Y
 categories = ["albums"]
 draft = false
 slug = "kaori-vibes-quartet-flying-mind"
-releaseYear = 2013
-releaseLabel = "Urban Jazz"
-releaseCode = "151A-0007"
 [cover]
   image = "kaorinakajima-flyingmind-460.jpeg"
   alt = "Cover art of Flying Mind by Kaori Vibes Quartet"
   relative = true
-[[credits]]
-  name = "Kaori Nakajima"
-  slug = "kaori-nakajima"
-  instrument = "vibraphone"
-  japanese = "中島香里 Nakajima Kaori"
-[[credits]]
-  name = "Tamashi Goto"
-  slug = "tamashi-goto"
-  instrument = "piano"
-  japanese = "後藤魂 Goto Tamashi"
-[[credits]]
-  name = "Minoru Yoshiki"
-  slug = "minoru-yoshiki"
-  instrument = "bass"
-  japanese = "吉木稔 Yoshiki Minoru"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 Kaori Vibes Quartet is a jazz quartet centered around the lovely ringing bell-tones of jazz vibraphone. After three years of playing together, the group formerly known as Vangy!! (note the vibraphone mallets “!!” in the name) released their eagerly awaited debut album _Flying Mind_ in 2013, much to fans’ delight.
@@ -55,3 +32,15 @@ The magically mellow yet bright sounds of the vibraphone fill the tracks of this
 {{< youtube LKmSesjiEBQ >}}
 
 -   [Excerpt from track #1: “Flying Mind”](/audio/#mix-1)
+
+
+## _Flying Mind_ by Kaori Vibes Quartet
+
+-   [Kaori Nakajima](/tags/kaori-nakajima/) - vibraphone
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Minoru Yoshiki](/tags/minoru-yoshiki/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 中島香里 Nakajima Kaori 後藤魂 Goto Tamashi 吉木稔 Yoshiki Minoru 安藤正則 Ando Masanori_
+
+Released in 2013 on Urban Jazz as 151A-0007.

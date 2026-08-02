@@ -6,28 +6,10 @@ tags = ["Masako Kunisada", "国貞雅子", "Manabu Ohishi", "大石学", "M-oto"
 categories = ["albums"]
 draft = false
 slug = "masako-kunisada-m"
-releaseYear = 2014
-releaseLabel = "Masaki Kunisada"
-releaseCode = "M"
 [cover]
   image = "masakokunisada-m-460.jpeg"
   alt = "Cover art of M by Masako Kunisada"
   relative = true
-[[credits]]
-  name = "Masako Kunisada"
-  slug = "masako-kunisada"
-  instrument = "vocal"
-  japanese = "国貞雅子 Kunisada Masako"
-[[credits]]
-  name = "Manabu Ohishi"
-  slug = "manabu-ohishi"
-  instrument = "all instruments, arrangements"
-  japanese = "大石学 Ohishi Manabu"
-[[credits]]
-  name = "M-oto"
-  slug = "m-oto"
-  instrument = "human beat box (tracks #2, 4, 5, 7)"
-  japanese = "エムオート M-oto"
 +++
 
 The deep, soulful voice of Masako Kunisada warmly embraces the listener on her 2014 recording _M_, performing classic jazz tunes as well as selections from the 70’s/80’s American soft-rock songbook, and closing with a tender ballad.
@@ -56,3 +38,14 @@ An eclectic addition of Madonna’s “La Isla Bonita” is tasteful and effecti
 {{< youtube xQPSz5yOzEE >}}
 
 -   [Excerpt from track #8: “From a distance”](/audio/#mix-4)
+
+
+## _M_ by Masako Kunisada
+
+-   [Masako Kunisada](/tags/masako-kunisada/) - vocal
+-   [Manabu Ohishi](/tags/manabu-ohishi/) - all instruments, arrangements
+-   [M-oto](/tags/m-oto/) - human beat box (tracks #2, 4, 5, 7)
+
+_Japanese names: 国貞雅子 Kunisada Masako 大石学 Ohishi Manabu エムオート M-oto_
+
+Released in 2014 on Masaki Kunisada as M.

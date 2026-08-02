@@ -6,24 +6,11 @@ tags = ["Taeko Kurita", "栗田妙子", "Akira Sotoyama", "外山明"]
 categories = ["albums"]
 draft = false
 slug = "taeko-kurita-akira-sotoyama-duo"
-releaseYear = 2024
-releaseLabel = "Taeko Kurita"
-releaseCode = "T59T-07"
 related = ["ghost-peak-goat-on-a-peak", "melodies-melodies", "yuko-miyawaki-song-of-flower"]
 [cover]
   image = "taeko-kurita-akira-sotoyama-duo-460.jpeg"
   alt = "Cover art of Duo by Taeko Kurita & Akira Sotoyama"
   relative = true
-[[credits]]
-  name = "Taeko Kurita"
-  slug = "taeko-kurita"
-  instrument = "piano"
-  japanese = "栗田妙子 Kurita Taeko"
-[[credits]]
-  name = "Akira Sotoyama"
-  slug = "akira-sotoyama"
-  instrument = "drums"
-  japanese = "外山明 Sotoyama Akira"
 +++
 
 Pianist Taeko Kurita and drummer Akira Sotoyama present us with _Duo_, a 2024 live album recorded in 2023 at "Shicho Shitsu" (Listening Room), an experimental music venue in Tokyo's Jimbocho district. In true improvisational form, the duo met with minimal prearrangements in order to let the mood, music, room, and audience guide their performance. The concert becomes a selection of ten of pianist Kurita's compositions, framed by the piano and decorated by the drums.
@@ -58,3 +45,13 @@ Track #6 “Mukashibanashi” (old folk tale) is a swinging _clave_-like piano g
 {{< youtube p3cMObWTow0 >}}
 
 -   [Excerpt from track #1: “Hand Of Time”](/audio/#mix-13)
+
+
+## _Duo_ by Taeko Kurita &amp; Akira Sotoyama
+
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
+
+_Japanese names: 栗田妙子 Kurita Taeko 外山明 Sotoyama Akira_
+
+Released in 2024 on Taeko Kurita as T59T-07.

@@ -6,33 +6,10 @@ tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hir
 categories = ["albums"]
 draft = false
 slug = "bungalow-past-life"
-releaseYear = 2013
-releaseLabel = "Studio Songs"
-releaseCode = "YZSO-10036"
 [cover]
   image = "bungalow-pastlife-460.jpeg"
   alt = "Cover art of Past Life by Bungalow"
   relative = true
-[[credits]]
-  name = "Masahiro Yamamoto"
-  slug = "masahiro-yamamoto"
-  instrument = "alto sax, soprano sax, tenor sax"
-  japanese = "山本昌広 Yamamoto Masahiro"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums, tabla"
-  japanese = "大村亘 Omura Ko"
 +++
 
 The jazz group Bungalow displays their original approach to modern art jazz on their second album, _Past Life_, from 2013. As a jazz quartet featuring airy alto sax and piano, double bass, and drums, the group incorporates creative musical elements such as the use of Indian tabla drums and subtle sound effects and processing, a bit similar to the style of the Swedish jazz group E.S.T.
@@ -57,3 +34,15 @@ Bungalow’s compositions are in focus here, and like modern songwriting from Wa
 {{< youtube fpzcz7PJN7w >}}
 
 -   [Excerpt from track #1: “上昇気流 (_Updraft_)”](/audio/#mix-3)
+
+
+## _Past Life_ by Bungalow
+
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax, tenor sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla
+
+_Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
+
+Released in 2013 on Studio Songs as YZSO-10036.

@@ -6,39 +6,11 @@ tags = ["maiko", "マイコ", "Shikou Ito", "伊藤志宏", "Yuki Ito", "伊東�
 categories = ["albums"]
 draft = false
 slug = "maiko-reminiscence"
-releaseYear = 2024
-releaseLabel = "GardenNotes Music"
-releaseCode = "GNM-1026"
 related = ["maiko-trio-live-three", "maiko-solo", "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "maiko-reminiscence-460.jpeg"
   alt = "Cover art of Reminiscence by maiko"
   relative = true
-[[credits]]
-  name = "maiko"
-  slug = "maiko"
-  instrument = "violin"
-  japanese = "マイコ maiko"
-[[credits]]
-  name = "Shikou Ito"
-  slug = "shikou-ito"
-  instrument = "piano (#1, 2, 3, 6, 7, 8)"
-  japanese = "伊藤志宏 Ito Shikou"
-[[credits]]
-  name = "Yuki Ito"
-  slug = "yuki-ito"
-  instrument = "bass (#1, 3, 8)"
-  japanese = "伊東佑季 Ito Yuki"
-[[credits]]
-  name = "Kazuma Fujimoto"
-  slug = "kazuma-fujimoto"
-  instrument = "guitar (#1, 5, 6)"
-  japanese = "藤本一馬 Fujimoto Kazuma"
-[[credits]]
-  name = "Aya Kurosawa"
-  slug = "aya-kurosawa"
-  instrument = "voice (#2), vocals, piano, lyrics (#4)"
-  japanese = "黒沢綾 Kurosawa Aya"
 +++
 
 Jazz violinist maiko’s new album _Reminiscence_ is a milestone release for the Tokyo-based musician. It’s both a look back at her start 25 years ago when she moved to Tokyo and began to play jazz, as well as a gratitude-filled mark of appreciation to the many musicians she’s played with and the experiences she’s had through her years of development as live musician in Japan’s music scene.
@@ -188,3 +160,16 @@ This album was created upon a foundation of the many encounters that have shaped
 {{< youtube EAASIXOQYS0 >}}
 
 -   [Excerpt from track #1: “Mirage”](/audio/#mix-15)
+
+
+## _Reminiscence_ by Maiko
+
+-   [maiko](/tags/maiko/) - violin
+-   [Shikou Ito](/tags/shikou-ito/) - piano (#1, 2, 3, 6, 7, 8)
+-   [Yuki Ito](/tags/yuki-ito/) - bass (#1, 3, 8)
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto/) - guitar (#1, 5, 6)
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice (#2), vocals, piano, lyrics (#4)
+
+_Japanese names: マイコ maiko 伊藤志宏 Ito Shikou 伊東佑季 Ito Yuki 藤本一馬 Fujimoto Kazuma 黒沢綾 Kurosawa Aya_
+
+Released in 2024 on GardenNotes Music as GNM-1026.

@@ -6,29 +6,11 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Hitomi Nishiyama", "西山瞳", 
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life"
-releaseYear = 2019
-releaseLabel = "Daiki Musica D-neo"
-releaseCode = "DNCD-18"
 related = ["daiki-yasukagawa-trio-trios-ii", "maiko-trio-live-three", "maiko-solo", "hitomi-nishiyama-vibrant", "daiki-yasukagawa-new-trio-three-roses", "hitomi-nishiyama-echo"]
 [cover]
   image = "daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life-460.jpeg"
   alt = "Cover art of The Tree of Life by Daiki Yasukagawa / Hitomi Nishiyama / Maiko"
   relative = true
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "maiko"
-  slug = "maiko"
-  instrument = "violin"
-  japanese = "マイコ maiko"
 +++
 
 _The Tree of Life_ is a 2019 jazz release from bassist Daiki Yasukagawa, pianist Hitomi Nishiyama, and violinist Maiko. These are three musicians who are each leaders of their own projects in Japan with many recordings, side projects, and frequent live schedules. Bassist Yasukagawa and pianist Nishiyama have worked as a duo before and released two albums together, but this album, with Maiko on violin, is the trio’s debut as “The Tree of Life”, a band name that they will continue to use on their followup albums _Mahoroba_ (2021) and _New Hope_ (2022).
@@ -55,3 +37,14 @@ There are eight original songs, four from Nishiyama and two each from Yasukagawa
 -   [Full album (YouTube playlist)](https://youtube.com/playlist?list=PLmlm0LsExgrykKovdpFK5QjIFrSj9MX55)
 
 -   [Excerpt from track #8: “飛び立つ水鳥 (_Waterfowl Taking Flight_)”](/audio/#mix-14)
+
+
+## _The Tree of Life_ by Daiki Yasukagawa / Hitomi Nishiyama / Maiko
+
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [maiko](/tags/maiko/) - violin
+
+_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 西山瞳 Nishiyama Hitomi マイコ maiko_
+
+Released in 2019 on Daiki Musica D-neo as DNCD-18.

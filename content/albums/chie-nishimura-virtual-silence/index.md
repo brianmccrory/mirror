@@ -6,34 +6,11 @@ tags = ["Chie Nishimura", "西村知恵", "Ryoji Orihara", "織原良次", "May 
 categories = ["albums"]
 draft = false
 slug = "chie-nishimura-virtual-silence"
-releaseYear = 2021
-releaseLabel = "en records"
-releaseCode = "Virtual Silence / Chie Nishimura"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "harumi-nomoto-trio-virgo", "ryosuke-hashizume-group-incomplete-voices", "nhorhm-extra-edition"]
 [cover]
   image = "chie-nishimura-virtual-silence-460.jpeg"
   alt = "Cover art of Virtual Silence by Chie Nishimura"
   relative = true
-[[credits]]
-  name = "Chie Nishimura"
-  slug = "chie-nishimura"
-  instrument = "vocal"
-  japanese = "西村知恵 Nishimura Chie"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "May Inoue"
-  slug = "may-inoue"
-  instrument = "guitar"
-  japanese = "井上銘 Inoue May"
-[[credits]]
-  name = "Tamaya Honda"
-  slug = "tamaya-honda"
-  instrument = "drums"
-  japanese = "本田珠也 Honda Tamaya"
 +++
 
 _Virtual Silence_ (2022) is a 38-minute experience in five chapters, a project born of a moodily lit and ambient concept from bassist Ryoji Orihara and vocalist Chie Nishimura. On their first album, the pair are joined by guests May Inoue on guitar and Tamaya Honda on drums, an addition that marvelously decorates the simple but evocative themes with ethereal dimensions and deep textures. Throughout, Nishimura’s voice is used as a melodic instrument alongside guitar and bass, singing minimalistically on all five tracks with no lyrics or words.
@@ -103,3 +80,15 @@ Particularly impactful, the last track #5 “Grief Runs Deep” starts with a he
 -   [Mikiki article and interview with Chie Nishimura and Ryoji Orihara](https://mikiki.tokyo.jp/articles/-/30506)
 
 -   [Label information](https://enrecords.thebase.in/items/54731145)
+
+
+## _Virtual Silence_ by Chie Nishimura
+
+-   [Chie Nishimura](/tags/chie-nishimura/) - vocal
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [May Inoue](/tags/may-inoue/) - guitar
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums
+
+_Japanese names: 西村知恵 Nishimura Chie 織原良次 Orihara Ryoji 井上銘 Inoue May 本田珠也 Honda Tamaya_
+
+Released in 2021 on en records as Virtual Silence / Chie Nishimura.

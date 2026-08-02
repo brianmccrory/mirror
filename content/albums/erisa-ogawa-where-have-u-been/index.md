@@ -6,77 +6,10 @@ tags = ["Erisa Ogawa", "小川恵理紗", "Sota Seta", "瀬田創太", "Yusuke M
 categories = ["albums"]
 draft = false
 slug = "erisa-ogawa-where-have-u-been"
-releaseYear = 2019
-releaseLabel = "Uplift Jazz Record"
-releaseCode = "UJRC-19014"
 [cover]
   image = "erisa-ogawa-where-have-u-been-460.jpeg"
   alt = "Cover art of Where Have U Been? by Erisa Ogawa"
   relative = true
-[[credits]]
-  name = "Erisa Ogawa"
-  slug = "erisa-ogawa"
-  instrument = "flute"
-  japanese = "小川恵理紗 Ogawa Erisa"
-[[credits]]
-  name = "Sota Seta"
-  slug = "sota-seta"
-  instrument = "piano"
-  japanese = "瀬田創太 Seta Sota"
-[[credits]]
-  name = "Yusuke Morita"
-  slug = "yusuke-morita"
-  instrument = "electric bass"
-  japanese = "森田悠介 Morita Yusuke"
-[[credits]]
-  name = "Ryo Shibata"
-  slug = "ryo-shibata"
-  instrument = "drums"
-  japanese = "柴田亮 Shibata Ryo"
-[[credits]]
-  name = "Sayaka (Violin)"
-  slug = "sayaka-violin"
-  instrument = "violin (#3, 4)"
-[[credits]]
-  name = "Ayumi Hashimoto"
-  slug = "ayumi-hashimoto"
-  instrument = "cello (#4)"
-  japanese = "橋本歩 Hashimoto Ayumi"
-[[credits]]
-  name = "Issei Yoshiba"
-  slug = "issei-yoshiba"
-  instrument = "percussion (#3)"
-  japanese = "吉羽 一星 Yoshiba Issei"
-[[credits]]
-  name = "Tetsuo Koizumi"
-  slug = "tetsuo-koizumi"
-  instrument = "baby bass (#3)"
-  japanese = "小泉哲夫 Koizumi Tetsuo"
-[[credits]]
-  name = "Jo Endo"
-  slug = "jo-endo"
-  instrument = "wood bass (#2, 6, 8)"
-  japanese = "遠藤 定 Endo Jo"
-[[credits]]
-  name = "Nao Teraya"
-  slug = "nao-teraya"
-  instrument = "guitar (#6)"
-  japanese = "寺屋ナオ Teraya Nao"
-[[credits]]
-  name = "Masaru Okuyama"
-  slug = "masaru-okuyama"
-  instrument = "piano (#3)"
-  japanese = "奥山勝 Okuyama Masaru"
-[[credits]]
-  name = "Keita Harigai"
-  slug = "keita-harigai"
-  instrument = "trombone (#8)"
-  japanese = "張替啓太 Harigai Keita"
-[[credits]]
-  name = "Takeru Yamazaki"
-  slug = "takeru-yamazaki"
-  instrument = "Rhodes & piano (#9)"
-  japanese = "ヤマザキタケル Yamazaki Takeru"
 +++
 
 Erisa Ogawa (ERiSA) is a flutist, voice percussionist, and composer whose second album, /Where Have U Been? (/2019) is a jewel box of jazz and pop, mixed together into a smooth and stimulating album.
@@ -130,3 +63,24 @@ _Colorful pop-jazz that captures everything from her first debut up through now!
 -   [Erisa Ogawa’s website videos (older)](https://erisa321.wixsite.com/erisaogawa/musics)
 
 -   [Excerpt from track #7: “Punk”](/audio/#mix-11)
+
+
+## _Where Have U Been?_ by Erisa Ogawa
+
+-   [Erisa Ogawa](/tags/erisa-ogawa/) - flute
+-   [Sota Seta](/tags/sota-seta/) - piano
+-   [Yusuke Morita](/tags/yusuke-morita/) - electric bass
+-   [Ryo Shibata](/tags/ryo-shibata/) - drums
+-   [Sayaka (Violin)](/tags/sayaka-violin/) - violin (#3, 4)
+-   [Ayumi Hashimoto](/tags/ayumi-hashimoto/) - cello (#4)
+-   [Issei Yoshiba](/tags/issei-yoshiba/) - percussion (#3)
+-   [Tetsuo Koizumi](/tags/tetsuo-koizumi/) - baby bass (#3)
+-   [Jo Endo](/tags/jo-endo/) - wood bass (#2, 6, 8)
+-   [Nao Teraya](/tags/nao-teraya/) - guitar (#6)
+-   [Masaru Okuyama](/tags/masaru-okuyama/) - piano (#3)
+-   [Keita Harigai](/tags/keita-harigai/) - trombone (#8)
+-   [Takeru Yamazaki](/tags/takeru-yamazaki/) - Rhodes &amp; piano (#9)
+
+_Japanese names: 小川恵理紗 Ogawa Erisa 瀬田創太 Seta Sota 森田悠介 Morita Yusuke 柴田亮 Shibata Ryo 橋本歩 Hashimoto Ayumi 吉羽 一星 Yoshiba Issei 小泉哲夫 Koizumi Tetsuo 遠藤 定 Endo Jo 寺屋ナオ Teraya Nao 奥山勝 Okuyama Masaru 張替啓太 Harigai Keita ヤマザキタケル Yamazaki Takeru_
+
+Released in 2019 on Uplift Jazz Record as UJRC-19014.

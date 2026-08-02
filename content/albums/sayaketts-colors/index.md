@@ -6,28 +6,10 @@ tags = ["Sayaka Kishi", "岸淑香", "Satoshi Kohno", "鴻野暁司", "Yoshihiro
 categories = ["albums"]
 draft = false
 slug = "sayaketts-colors"
-releaseYear = 2009
-releaseLabel = "Sayaketts"
-releaseCode = "SKTS-001"
 [cover]
   image = "sayaketts-colors-460.jpeg"
   alt = "Cover art of Colors by Sayaketts"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano, Rhodes, keyboards, pianica"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Satoshi Kohno"
-  slug = "satoshi-kohno"
-  instrument = "electric bass"
-  japanese = "鴻野暁司 Kohno Satoshi"
-[[credits]]
-  name = "Yoshihiro Nakagawa"
-  slug = "yoshihiro-nakagawa"
-  instrument = "drums"
-  japanese = "中川喜博 Nakagawa Yoshihiro"
 +++
 
 At times light and carefree, yet also deeply and seriously musical, Sayaka Kishi’s “pure music” spirit shines beautifully on _Colors_. While the pianist is a vibrant part of many collaborations covering standard jazz, pop, classical, and Latin fusion among others, here with her group Sayaketts the trio focuses on a fusion of electric funky jazz and R&amp;B pop music amid calmer moments and heart-warming pop-styled piano jazz.
@@ -52,3 +34,14 @@ About half of the 13 songs on this album are upbeat, funky, and energized with t
 {{< youtube WB36Gz5SGrQ >}}
 
 -   [Excerpt from track #8: “ビチグソロック (_Bichiguso Rock_)”](/audio/#mix-3)
+
+
+## _Colors_ by Sayaketts
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, Rhodes, keyboards, pianica
+-   [Satoshi Kohno](/tags/satoshi-kohno/) - electric bass
+-   [Yoshihiro Nakagawa](/tags/yoshihiro-nakagawa/) - drums
+
+_Japanese names: 岸淑香 Kishi Sayaka 鴻野暁司 Kohno Satoshi 中川喜博 Nakagawa Yoshihiro_
+
+Released in 2009 on Sayaketts as SKTS-001.

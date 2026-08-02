@@ -6,24 +6,11 @@ tags = ["Emiko Voice", "エミコヴォイス", "Yuka Yanagihara", "柳原由佳
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-yuka-yanagihara-enyana"
-releaseYear = 2025
-releaseLabel = "ENYANA Music"
-releaseCode = "EYM-0001"
 related = ["emiko-voice-x-suga-dairo-phase-2", "meu-coracao-hall-tone", "meu-coracao-a-tempo", "emiko-voice-carta", "yuka-yanagihara-trio-inner-views", "emiko-voice-standard-trio", "magnolia-el-viento-y-las-flores", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "emiko-voice-yuka-yanagihara-enyana-460.jpeg"
   alt = "Cover art of Enyana by Emiko Voice & Yuka Yanagihara"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "vocal, voice, percussion"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
 +++
 
 _Enyana_ is the first collaboration album from vocalist Emiko Voice and pianist Yuka Yanagihara. Their new group and album name, _Enyana_, merges the _EMI_ of Emiko and _YANA_ of Yanagihara. There is also a bit of wordplay on the Japanese phrase _en ga aru /(縁がある) which can mean there’s a connection or linking of fates between people or things in a certain situation. One variation of the phrase is “/enyana!/” (縁やな! /or_ えにゃな!), a playful Kansai-dialect version with a meaning like “It must be fate!”
@@ -157,3 +144,13 @@ When I first heard this, I thought it was such a beautiful song. As EMiKO explai
 -   [Archive video of a live-streamed Enyana performance from 2020, with “Rabo de Nube”, “Águas de Março”, “Alfonsina y el Mar” (tr. 2), “Sai Dessa” (tr. 3), “Los Pajaros Perdidos” (tr. 4), and “Forró Brasil” (tr. 5)](https://www.youtube.com/live/m2JZihv8mes?t=1062)
 
 -   [Excerpt from track #8: “Poinciana”](/audio/#mix-12)
+
+
+## _Enyana_ by Emiko Voice &amp; Yuka Yanagihara
+
+-   [Emiko Voice](/tags/emiko-voice/) - vocal, voice, percussion
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+
+_Japanese names: エミコヴォイス Emiko Voice 柳原由佳 Yanagihara Yuka_
+
+Released in 2025 on ENYANA Music as EYM-0001.

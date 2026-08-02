@@ -6,26 +6,10 @@ tags = ["Akane Matsumoto", "松本茜", "Peter Washington", "Gene Jackson"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-memories-of-you"
-releaseYear = 2015
-releaseLabel = "Concept Records"
-releaseCode = "CR-03"
 [cover]
   image = "akanematsumoto-memories-460.jpeg"
   alt = "Cover art of Memories of You by Akane Matsumoto"
   relative = true
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
-[[credits]]
-  name = "Peter Washington"
-  slug = "peter-washington"
-  instrument = "bass"
-[[credits]]
-  name = "Gene Jackson"
-  slug = "gene-jackson"
-  instrument = "drums"
 +++
 
 As the sentimental mood hints at in the cover photo and album title, Akane Matsumoto’s 2015 release _Memories of You_ shows a softer side with ballads and heartfelt tunes, set together with her well-renowned fluid bebop and happy jazz style.
@@ -54,3 +38,14 @@ The final two tracks feature the pianist in a more mellow mood, with a tribute t
 {{< youtube g9eNuWnekmg >}}
 
 -   [Excerpt from track #1: “Memories of You”](/audio/#mix-7)
+
+
+## _Memories of You_ by Akane Matsumoto
+
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Gene Jackson](/tags/gene-jackson/) - drums
+
+_Japanese names: 松本茜 Matsumoto Akane_
+
+Released in 2015 on Concept Records as CR-03.

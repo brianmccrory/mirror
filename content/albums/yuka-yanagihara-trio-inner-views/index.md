@@ -6,29 +6,11 @@ tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-yanagihara-trio-inner-views"
-releaseYear = 2019
-releaseLabel = "Tomtom Cherry Music"
-releaseCode = "TCM-2002"
 related = ["taihei-asakawa-trio-touch-of-winter", "koichi-sato-melancholy"]
 [cover]
   image = "yuka-yanagihara-inner-views-460.jpeg"
   alt = "Cover art of Inner Views by Yuka Yanagihara Trio"
   relative = true
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
-[[credits]]
-  name = "Yoshiki Yamada"
-  slug = "yoshiki-yamada"
-  instrument = "bass"
-  japanese = "山田吉輝 Yamada Yoshiki"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
 +++
 
 Pianist Yuka Yanagihara’s second piano trio album is _Inner Views_ from 2019, where she plays eight of her original songs in a piano trio format with bassist Yoshiki Yamada and drummer Ryo Noritake. In harmony with the album’s title and cover image, the music is on the whole introspective, focused on the near rather than the far. As Yanagihara puts it herself, these are eight songs that focus on the landscape of one’s mind.
@@ -63,3 +45,14 @@ The final song, a solo piano rendition of “Moon Dance” (also played with the
 {{< youtube ApPERBU1nKo >}}
 
 -   [Excerpt from track #8: “After Tours”](/audio/#mix-10)
+
+
+## _Inner Views_ by Yuka Yanagihara Trio
+
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+
+_Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
+
+Released in 2019 on Tomtom Cherry Music as TCM-2002.

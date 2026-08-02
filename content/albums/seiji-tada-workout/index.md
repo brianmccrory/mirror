@@ -6,30 +6,10 @@ tags = ["Seiji Tada", "多田誠司", "Renee Rosnes", "Peter Washington", "Kenny
 categories = ["albums"]
 draft = false
 slug = "seiji-tada-workout"
-releaseYear = 2018
-releaseLabel = "Studio TLive Records"
-releaseCode = "STLR-018"
 [cover]
   image = "seijitada-workout-460.jpeg"
   alt = "Cover art of Workout!! by Seiji Tada"
   relative = true
-[[credits]]
-  name = "Seiji Tada"
-  slug = "seiji-tada"
-  instrument = "alto sax, flute, alto flute"
-  japanese = "多田誠司 Tada Seiji"
-[[credits]]
-  name = "Renee Rosnes"
-  slug = "renee-rosnes"
-  instrument = "piano"
-[[credits]]
-  name = "Peter Washington"
-  slug = "peter-washington"
-  instrument = "bass"
-[[credits]]
-  name = "Kenny Washington"
-  slug = "kenny-washington"
-  instrument = "drums"
 +++
 
 Seiji “Taddy” Tada cooks with bebop, blues, and ballads on _Workout!!_ from 2018. This album, his 13th as leader, is a dream come true for the musician, as he recorded with stellar American jazz musicians whom he had previously toured with, famed jazz drummer Lewis Nash and his trio. No doubt these players, all worthy idols of Tada’s, provided extra inspiration for the high-caliber and exciting playing on this recording.
@@ -60,3 +40,15 @@ Whether Japanese or American, in New York or Tokyo, the “This is Jazz!” spir
 {{< youtube LEzJqz_YJPs >}}
 
 -   [Excerpt from track #1: “Workout”](/audio/#mix-5)
+
+
+## _Workout!!_ by Seiji Tada
+
+-   [Seiji Tada](/tags/seiji-tada/) - alto sax, flute, alto flute
+-   [Renee Rosnes](/tags/renee-rosnes/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Kenny Washington](/tags/kenny-washington/) - drums
+
+_Japanese names: 多田誠司 Tada Seiji_
+
+Released in 2018 on Studio TLive Records as STLR-018.

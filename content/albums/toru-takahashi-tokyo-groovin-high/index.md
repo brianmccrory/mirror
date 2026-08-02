@@ -6,59 +6,11 @@ tags = ["Toru Takahashi", "高橋徹", "Atsushi Ikeda", "池田篤", "Masanori O
 categories = ["albums"]
 draft = false
 slug = "toru-takahashi-tokyo-groovin-high"
-releaseYear = 2021
-releaseLabel = "T-Swing Music"
-releaseCode = "TSM-0001"
 related = ["hara-dairiki-trio-youve-changed"]
 [cover]
   image = "toru-takahashi-tokyo-groovin-high-460.jpeg"
   alt = "Cover art of Tokyo Groovin’ High! by Toru Takahashi"
   relative = true
-[[credits]]
-  name = "Toru Takahashi"
-  slug = "toru-takahashi"
-  instrument = "drums"
-  japanese = "高橋徹 Takahashi Toru"
-[[credits]]
-  name = "Atsushi Ikeda"
-  slug = "atsushi-ikeda"
-  instrument = "alto sax (#1-5, 7)"
-  japanese = "池田篤 Ikeda Atsushi"
-[[credits]]
-  name = "Masanori Okazaki"
-  slug = "masanori-okazaki"
-  instrument = "tenor sax (#3, 4, 8-12)"
-  japanese = "岡崎正典 Okazaki Masanori"
-[[credits]]
-  name = "Keiichi Yoshida"
-  slug = "keiichi-yoshida"
-  instrument = "piano (#1-7)"
-  japanese = "吉田桂一 Yoshida Keiichi"
-[[credits]]
-  name = "Kengo Nakamura"
-  slug = "kengo-nakamura"
-  instrument = "bass (#1-7)"
-  japanese = "中村健吾 Nakamura Kengo"
-[[credits]]
-  name = "Yusuke Chigita"
-  slug = "yusuke-chigita"
-  instrument = "bass (#8-12)"
-  japanese = "千北祐輔 Chigita Yusuke"
-[[credits]]
-  name = "Jun Satsuma"
-  slug = "jun-satsuma"
-  instrument = "guitar (#8, 9, 12)"
-  japanese = "佐津間純 Satsuma Jun"
-[[credits]]
-  name = "Koyuza Sanyutei"
-  slug = "koyuza-sanyutei"
-  instrument = "special guest trumpet (#3)"
-  japanese = "三遊亭小遊三 Sanyutei Koyuza"
-[[credits]]
-  name = "Shota Shunputei"
-  slug = "shota-shunputei"
-  instrument = "special guest trombone (#3)"
-  japanese = "春風亭昇太 Shunputei Shota"
 +++
 
 Drummer Toru Takahashi’s debut album is _Tokyo Groovin’ High_, a 2021 release that presents addictive jazz bebop favorites performed by long-time musical partners and friends. This is a drummer-led album where Takahashi makes the most of arranging the musicians in various forms. With three different rhythm sections, the drummer plays with quartet and quintet forms, the classic piano trio, and even a septet featuring two special guests known for _rakugo_ storytelling performances and television appearances.
@@ -205,3 +157,20 @@ _Notes by Toru Takahashi_
 {{< youtube A-AiNoUAe9g >}}
 
 -   [Excerpt from track #7: “Don’t Take Your Love From Me”](/audio/#mix-14)
+
+
+## _Tokyo Groovin’ High!_ by Toru Takahashi
+
+-   [Toru Takahashi](/tags/toru-takahashi/) - drums
+-   [Atsushi Ikeda](/tags/atsushi-ikeda/) - alto sax (#1-5, 7)
+-   [Masanori Okazaki](/tags/masanori-okazaki/) - tenor sax (#3, 4, 8-12)
+-   [Keiichi Yoshida](/tags/keiichi-yoshida/) - piano (#1-7)
+-   [Kengo Nakamura](/tags/kengo-nakamura/) - bass (#1-7)
+-   [Yusuke Chigita](/tags/yusuke-chigita/) - bass (#8-12)
+-   [Jun Satsuma](/tags/jun-satsuma/) - guitar (#8, 9, 12)
+-   [Koyuza Sanyutei](/tags/koyuza-sanyutei/) - special guest trumpet (#3)
+-   [Shota Shunputei](/tags/shota-shunputei/) - special guest trombone (#3)
+
+_Japanese names: 高橋徹 Takahashi Toru 池田篤 Ikeda Atsushi 岡崎正典 Okazaki Masanori 吉田桂一 Yoshida Keiichi 中村健吾 Nakamura Kengo 千北祐輔 Chigita Yusuke 佐津間純 Satsuma Jun 三遊亭小遊三 Sanyutei Koyuza 春風亭昇太 Shunputei Shota_
+
+Released in 2021 on T-Swing Music as TSM-0001.

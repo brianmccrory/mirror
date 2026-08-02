@@ -6,39 +6,11 @@ tags = ["Hideaki Hori", "堀秀彰", "Wataru Hamasaki", "浜崎航", "Hiroshi Ta
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-wataru-hamasaki-encounter"
-releaseYear = 2008
-releaseLabel = "BQ Records"
-releaseCode = "BQR-2043"
 related = ["hideaki-hori-horizon", "routine-jazz-sextet-routine-jazz-sextet", "hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "hamasaki-matsumoto-bigcatch", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-wataru-hamasaki-encounter-460.jpeg"
   alt = "Cover art of Encounter by Hideaki Hori & Wataru Hamasaki"
   relative = true
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Wataru Hamasaki"
-  slug = "wataru-hamasaki"
-  instrument = "tenor & soprano sax, flute"
-  japanese = "浜崎航 Hamasaki Wataru"
-[[credits]]
-  name = "Hiroshi Takase"
-  slug = "hiroshi-takase"
-  instrument = "bass"
-  japanese = "高瀬裕 Takase Hiroshi"
-[[credits]]
-  name = "Junji Hirose"
-  slug = "junji-hirose"
-  instrument = "drums"
-  japanese = "広瀬潤次 Hirose Junji"
-[[credits]]
-  name = "Satoshi Takino"
-  slug = "satoshi-takino"
-  instrument = "guitar (tracks #1, 4, 10)"
-  japanese = "滝野聡 Takino Satoshi"
 +++
 
 _Encounter_ is the first album from co-leaders pianist Hideaki Hori and saxophonist Wataru Hamasaki, released in 2008. Since then, in addition to their other bands and activities, the two jazz musicians have continued to perform together and release many albums under the group name Encounter.
@@ -138,3 +110,16 @@ This is a gospel-style song dedicated to the inspiration for the title of this s
 {{< youtube -7ZDCjtbPEM >}}
 
 -   [Excerpt from track #6: “Hanauta”](/audio/#mix-12)
+
+
+## _Encounter_ by Hideaki Hori &amp; Wataru Hamasaki
+
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor &amp; soprano sax, flute
+-   [Hiroshi Takase](/tags/hiroshi-takase/) - bass
+-   [Junji Hirose](/tags/junji-hirose/) - drums
+-   [Satoshi Takino](/tags/satoshi-takino/) - guitar (tracks #1, 4, 10)
+
+_Japanese names: 堀秀彰 Hori Hideaki 浜崎航 Hamasaki Wataru 高瀬裕 Takase Hiroshi 広瀬潤次 Hirose Junji 滝野聡 Takino Satoshi_
+
+Released in 2008 on BQ Records as BQR-2043.

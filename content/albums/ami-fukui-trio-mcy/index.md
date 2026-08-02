@@ -6,33 +6,11 @@ tags = ["Ami Fukui", "福井亜実", "Keigo Iwami", "岩見継吾", "Sota Kira",
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-mcy"
-releaseYear = 2023
-releaseLabel = "MAM Records"
-releaseCode = "MR-002"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-amizm", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "ami-fukui-trio-mcy-460.jpeg"
   alt = "Cover art of MCY by Ami Fukui Trio"
   relative = true
-[[credits]]
-  name = "Ami Fukui"
-  slug = "ami-fukui"
-  instrument = "piano"
-  japanese = "福井亜実 Fukui Ami"
-[[credits]]
-  name = "Keigo Iwami"
-  slug = "keigo-iwami"
-  instrument = "bass"
-  japanese = "岩見継吾 Iwami Keigo"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums"
-  japanese = "吉良創太 Kira Sota"
-[[credits]]
-  name = "Kouki"
-  slug = "kouki"
-  instrument = "vocal (track #8)"
 +++
 
 It was a surprise when Ami Fukui released even more new songs and arrangements with her trio on her release _MCY_ (2023) so soon after her previous trio album _[Nova Manhã](/ami-fukui-trio-nova-manha/)_ (2022). It does fit well, though, when considering the two albums as a set, as if they were a double album released in two parts. In fact, the songs for both albums were recorded during the same two-day recording session in November 2011. It was an opportune time, as the trio had plenty of live experience together, along with a nice batch of Fukui’s original songs to work with.
@@ -158,3 +136,15 @@ I also would love to thank all the people who were involved and who lent us thei
 {{< youtube F-_vMyf9e_0 >}}
 
 -   [Excerpt from track #1: “Voltex”](/audio/#mix-12)
+
+
+## _MCY_ by Ami Fukui Trio
+
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Keigo Iwami](/tags/keigo-iwami/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+-   [Kouki](/tags/kouki/) - vocal (track #8)
+
+_Japanese names: 福井亜実 Fukui Ami 岩見継吾 Iwami Keigo 吉良創太 Kira Sota_
+
+Released in 2023 on MAM Records as MR-002.

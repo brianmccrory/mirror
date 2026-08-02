@@ -6,36 +6,11 @@ tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Ko Omura", "大村亘", "
 categories = ["albums"]
 draft = false
 slug = "bungalow-abstract-messages"
-releaseYear = 2020
-releaseLabel = "Studio Songs"
-releaseCode = "YZSO-10109"
 related = ["bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know"]
 [cover]
   image = "bungalow-abstract-messages-460.jpeg"
   alt = "Cover art of Abstract Messages by Bungalow"
   relative = true
-[[credits]]
-  name = "Mike Rivett"
-  slug = "mike-rivett"
-  instrument = "tenor sax, woodwinds, 808 bass, samples & sound manipulation"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano, Rhodes, Wurlitzer, Minimoog"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums, tabla, gatam"
-  japanese = "大村亘 Omura Ko"
-[[credits]]
-  name = "Isabeau Hansen"
-  slug = "isabeau-hansen"
-  instrument = "flute"
-[[credits]]
-  name = "Gordon Richter"
-  slug = "gordon-richter"
-  instrument = "clarinet & bassoon"
 +++
 
 _Abstract Messages_ is the final record from the group Bungalow, an album created under unique circumstances and with a different structure from previous releases. A mix of acoustic instruments and electronic sounds, the album is not only full of beautiful music but is also an accomplishment of coordination, both in its creation and the dynamic of the music.
@@ -127,3 +102,16 @@ _中川ヨウ_ Yo Nakagawa /
 {{< youtube cmhz9V9di5I >}}
 
 -   [Excerpt from track #8: “Fifteen Years”](/audio/#mix-9)
+
+
+## _Abstract Messages_ by Bungalow
+
+-   [Mike Rivett](/tags/mike-rivett/) - tenor sax, woodwinds, 808 bass, samples &amp; sound manipulation
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes, Wurlitzer, Minimoog
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla, gatam
+-   [Isabeau Hansen](/tags/isabeau-hansen/) - flute
+-   [Gordon Richter](/tags/gordon-richter/) - clarinet &amp; bassoon
+
+_Japanese names: 佐藤浩一 Sato Koichi 大村亘 Omura Ko_
+
+Released in 2020 on Studio Songs as YZSO-10109.

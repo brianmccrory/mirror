@@ -6,28 +6,10 @@ tags = ["Heitetsu Rin", "リンヘイテツ", "Keisuke Furuki", "古木佳祐", 
 categories = ["albums"]
 draft = false
 slug = "trio-export-small-pieces-for-flying-padre"
-releaseYear = 2019
-releaseLabel = "Trio Export 63.1.0.X"
-releaseCode = "Small Pieces for Flying Padre"
 [cover]
   image = "trioexport-smallpieces-460.jpeg"
   alt = "Cover art of Small Pieces for Flying Padre by Trio Export 63.1.0.X"
   relative = true
-[[credits]]
-  name = "Heitetsu Rin"
-  slug = "heitetsu-rin"
-  instrument = "piano"
-  japanese = "リンヘイテツ Rin Heitetsu"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Masatsugu Hattori"
-  slug = "masatsugu-hattori"
-  instrument = "drums"
-  japanese = "服部正嗣 Hattori Masatsugu"
 +++
 
 The album _Small Pieces for Flying Padre_ from Trio Export 63.1.0.X is a special release of a live jazz recording at Kanmachi 63 in Yokohama, Japan. The piano-bass-drums trio performs the set live as recorded, bringing the listener into the music through the raw recorded sound of the room for an “as if you were there” experience. The ambience of music in an enclosed space performed right in front of your eyes is captured well and transmits the energy of musical drama unfolding in unexpected ways.
@@ -58,3 +40,14 @@ Original, catchy, and unique, this handmade album is available for sale at the j
 -   [Trio Export 63 live performance 2](https://www.instagram.com/p/B1ZOTIvHnJD/?utm_source=ig_web_copy_link)
 
 -   [Excerpt from track #1: “Track 1”](/audio/#mix-6)
+
+
+## _Small Pieces for Flying Padre_ by Trio Export 63.1.0.X
+
+-   [Heitetsu Rin](/tags/heitetsu-rin/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
+
+_Japanese names: リンヘイテツ Rin Heitetsu 古木佳祐 Furuki Keisuke 服部正嗣 Hattori Masatsugu_
+
+Released in 2019 on Trio Export 63.1.0.X as Small Pieces for Flying Padre.

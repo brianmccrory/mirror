@@ -6,39 +6,11 @@ tags = ["Hikari Ichihara", "市原ひかり", "Ryosuke Asai", "浅井良将", "H
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-group-unity"
-releaseYear = 2011
-releaseLabel = "After Beat / Pony Canyon"
-releaseCode = "PCCY-30187"
 related = ["hikari-ichihara-sara-smile", "hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-group-unity-460.jpeg"
   alt = "Cover art of Unity by Hikari Ichihara Group"
   relative = true
-[[credits]]
-  name = "Hikari Ichihara"
-  slug = "hikari-ichihara"
-  instrument = "trumpet, flugelhorn"
-  japanese = "市原ひかり Ichihara Hikari"
-[[credits]]
-  name = "Ryosuke Asai"
-  slug = "ryosuke-asai"
-  instrument = "alto saxophone"
-  japanese = "浅井良将 Asai Ryosuke"
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Kunpei Nakabayashi"
-  slug = "kunpei-nakabayashi"
-  instrument = "bass"
-  japanese = "中林薫平 Nakabayashi Kunpei"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 _Unity_ is the sixth album from trumpeter Hikari Ichihara and the second album from the Hikari Ichihara Group band name, following their excellent debut release _[Move On](/hikari-ichihara-group-move-on/)_ from 2010. _Unity_, released in 2011, features nine original songs and a playtime of fifty-six minutes.
@@ -116,3 +88,16 @@ Ichihara Hikari
 -   [Audio playlist for all tracks on this album](https://youtube.com/playlist?list=OLAK5uy_mTf-vG31l55T7M7hS1p6vuoGJ5PzFdRNM)
 
 -   [Excerpt from track #9: “The Laughing Stock”](/audio/#mix-13)
+
+
+## _Unity_ by Hikari Ichihara Group
+
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet, flugelhorn
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto saxophone
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 市原ひかり Ichihara Hikari 浅井良将 Asai Ryosuke 堀秀彰 Hori Hideaki 中林薫平 Nakabayashi Kunpei 安藤正則 Ando Masanori_
+
+Released in 2011 on After Beat / Pony Canyon as PCCY-30187.

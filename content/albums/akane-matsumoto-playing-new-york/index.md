@@ -6,26 +6,10 @@ tags = ["Akane Matsumoto", "松本茜", "Nat Reeves", "Joe Farnsworth"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-playing-new-york"
-releaseYear = 2010
-releaseLabel = "TK Entertainment"
-releaseCode = "QACK-35007"
 [cover]
   image = "akanematsumoto-playing-460.jpeg"
   alt = "Cover art of Playing New York by Akane Matsumoto"
   relative = true
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
-[[credits]]
-  name = "Nat Reeves"
-  slug = "nat-reeves"
-  instrument = "bass"
-[[credits]]
-  name = "Joe Farnsworth"
-  slug = "joe-farnsworth"
-  instrument = "drums"
 +++
 
 New York-style jazz with a fresh Japanese take is the focus on 2010’s _Playing New York_, where popular Japanese pianist Akane Matsumoto leads a trio with veteran NYC musicians Nat Reeves (bass) and Joe Farnsworth (drums).
@@ -54,3 +38,14 @@ At medium tempos, Matsumoto’s relaxed rhythmic sense is unerringly charming, p
 {{< youtube 30rFEmCXY64 >}}
 
 -   [Excerpt from track #1: “プレイング (_Playing_)”](/audio/#mix-4)
+
+
+## _Playing New York_ by Akane Matsumoto
+
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Nat Reeves](/tags/nat-reeves/) - bass
+-   [Joe Farnsworth](/tags/joe-farnsworth/) - drums
+
+_Japanese names: 松本茜 Matsumoto Akane_
+
+Released in 2010 on TK Entertainment as QACK-35007.

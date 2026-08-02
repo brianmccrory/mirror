@@ -6,28 +6,10 @@ tags = ["Daiki Yasukagawa", "安ヵ川大樹", "Koichi Sato", "佐藤浩一", "M
 categories = ["albums"]
 draft = false
 slug = "daiki-yasukagawa-trio-kanmai"
-releaseYear = 2012
-releaseLabel = "D-Neo Daiki Musica"
-releaseCode = "DNCD-01"
 [cover]
   image = "daikiyasukagawa-kanmai-460.jpeg"
   alt = "Cover art of Kanmai by Daiki Yasukagawa Trio"
   relative = true
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Like the expansive cover depicting a peaceful blue ocean and sky, jazz bassist Daiki Yasukagawa’s trio on _Kanmai_ creates a mood of a rolling deep and lofty grace.
@@ -54,3 +36,14 @@ Opening with atmospheric space, unhurried and patient, the modern sound develops
 {{< youtube xmxAhjXlaew >}}
 
 -   [Excerpt from track #2: “Long Ago and Far Away”](/audio/#mix-4)
+
+
+## _Kanmai_ by Daiki Yasukagawa Trio
+
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+
+_Japanese names: 安ヵ川大樹 Yasukagawa Daiki 佐藤浩一 Sato Koichi 橋本学 Hashimoto Manabu_
+
+Released in 2012 on D-Neo Daiki Musica as DNCD-01.

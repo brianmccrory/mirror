@@ -7,34 +7,11 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・�
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-moving-color"
-releaseYear = 2015
-releaseLabel = "MOR Records"
-releaseCode = "MOR-1001"
 related = ["motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "nanami-haruta-ii", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiroyoshimoto-moving-460.jpeg"
   alt = "Cover art of Moving Color by Akihiro Yoshimoto Quartet"
   relative = true
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "saxophone"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Aaron Choulai"
-  slug = "aaron-choulai"
-  instrument = "piano"
-  japanese = "アーロン・チューライ Choulai Aaron"
-[[credits]]
-  name = "Takashi Sugawa"
-  slug = "takashi-sugawa"
-  instrument = "bass"
-  japanese = "須川崇志 Sugawa Takashi"
-[[credits]]
-  name = "Shun Ishiwaka"
-  slug = "shun-ishiwaka"
-  instrument = "drums"
-  japanese = "石若駿 Ishiwaka Shun"
 +++
 
 _Moving Color_ is the second album from saxophonist Akihiro Yoshimoto and his quartet. With eight original songs drawn from his palette, he blends serious musical exploration and improvisation with elements of modernity, jazz tradition, and a bit of humor. Strength in composition and group cohesion is clear: the quartet plays confidently, as if they are disclosing a secret bit by bit, modestly exhibiting their skills yet playing with brimming energy and a locked-together sense of where they are going.
@@ -94,3 +71,15 @@ _Toshihiko Hoshino 星野利彦 / Music Writer_
 {{< youtube IG8jxrYenzg >}}
 
 -   [Excerpt from track #5: “Sabaku No Akari”](/audio/#mix-3)
+
+
+## _Moving Color_ by Akihiro Yoshimoto Quartet
+
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Aaron Choulai](/tags/aaron-choulai/) - piano
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
+
+_Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 須川崇志 Sugawa Takashi 石若駿 Ishiwaka Shun_
+
+Released in 2015 on MOR Records as MOR-1001.

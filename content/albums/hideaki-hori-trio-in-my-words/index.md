@@ -6,27 +6,10 @@ tags = ["Hideaki Hori", "堀秀彰", "Daiki Yasukagawa", "安ヵ川大樹", "Gen
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-trio-in-my-words"
-releaseYear = 2010
-releaseLabel = "Daiki Musica"
-releaseCode = "DMCD-06"
 [cover]
   image = "hideakihori-inmywords-460.jpeg"
   alt = "Cover art of In My Words by Hideaki Hori Trio"
   relative = true
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Gene Jackson"
-  slug = "gene-jackson"
-  instrument = "drums"
 +++
 
 Pianist Hideaki Hori lets his dexterous fingers do the talking on _In My Words_ from 2010, a solid jazz trio record from Japan.
@@ -55,3 +38,14 @@ Hori’s songwriting is also on display, with six originals (the crowd favorite 
 {{< youtube AJDUjvNkeeg >}}
 
 -   [Excerpt from track #1: “This is New”](/audio/#mix-5)
+
+
+## _In My Words_ by Hideaki Hori Trio
+
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Gene Jackson](/tags/gene-jackson/) - drums
+
+_Japanese names: 堀秀彰 Hori Hideaki 安ヵ川大樹 Yasukagawa Daiki_
+
+Released in 2010 on Daiki Musica as DMCD-06.

@@ -6,34 +6,11 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Yoshiaki Sato", "佐藤芳明", "Mas
 categories = ["albums"]
 draft = false
 slug = "clepsydra-un-jour"
-releaseYear = 2011
-releaseLabel = "Casnet Music"
-releaseCode = "CSNT-8006"
 related = ["fuse-live-fuse", "eriko-shimizu-sora", "toshihiko-inoue-and-masaki-hayashi", "zephyr-zephyr", "toshihiko-inoue-vayu"]
 [cover]
   image = "clepsydra-un-jour-460.jpeg"
   alt = "Cover art of Un Jour by Clepsydra"
   relative = true
-[[credits]]
-  name = "Toshihiko Inoue"
-  slug = "toshihiko-inoue"
-  instrument = "tenor sax, soprano sax"
-  japanese = "井上淑彦 Inoue Toshihiko"
-[[credits]]
-  name = "Yoshiaki Sato"
-  slug = "yoshiaki-sato"
-  instrument = "accordion, clavietta, chorus"
-  japanese = "佐藤芳明 Sato Yoshiaki"
-[[credits]]
-  name = "Masaki Hayashi"
-  slug = "masaki-hayashi"
-  instrument = "piano, chorus"
-  japanese = "林正樹 Hayashi Masaki"
-[[credits]]
-  name = "Saori Sendo"
-  slug = "saori-sendo"
-  instrument = "percussion, glockenspiel, chorus"
-  japanese = "仙道さおり Sendo Saori"
 +++
 
 Clepsydra’s album _Un Jour_ from 2011 is an eclectic collection of eleven original songs that the quartet often played at live events throughout their musical journey (roughly 2006-2015). Their unusual name may be difficult to read and pronounce initially but is easy to remember when parsed as the three syllables _clep-sih-dra_. The meaning of the word is an ancient water clock, a device for telling time based on the movement of water through its construction. A charming storybook-style image of a clepsydra appears on the album cover.
@@ -103,3 +80,15 @@ The first album from Toshihiko Inoue’s “Clepsydra”.
 {{< youtube id=A9da1TZF3v8 start=1139 >}}
 
 -   [Excerpt from track #1: “息吹 (_Breath_)”](/audio/#mix-11)
+
+
+## _Un Jour_ by Clepsydra
+
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - tenor sax, soprano sax
+-   [Yoshiaki Sato](/tags/yoshiaki-sato/) - accordion, clavietta, chorus
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano, chorus
+-   [Saori Sendo](/tags/saori-sendo/) - percussion, glockenspiel, chorus
+
+_Japanese names: 井上淑彦 Inoue Toshihiko 佐藤芳明 Sato Yoshiaki 林正樹 Hayashi Masaki 仙道さおり Sendo Saori_
+
+Released in 2011 on Casnet Music as CSNT-8006.

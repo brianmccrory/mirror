@@ -6,27 +6,11 @@ tags = ["Fumio Karashima", "辛島文雄", "Jack DeJohnette", "Drew Gress"]
 categories = ["albums"]
 draft = false
 slug = "fumio-karashima-great-time"
-releaseYear = 2006
-releaseLabel = "Pit Inn Music"
-releaseCode = "VACM-1277"
 related = ["fumio-karashima-trio-its-just-beginning"]
 [cover]
   image = "fumio-karashima-great-time-460.jpeg"
   alt = "Cover art of Great Time by Fumio Karashima"
   relative = true
-[[credits]]
-  name = "Fumio Karashima"
-  slug = "fumio-karashima"
-  instrument = "piano"
-  japanese = "辛島文雄 Karashima Fumio"
-[[credits]]
-  name = "Jack DeJohnette"
-  slug = "jack-dejohnette"
-  instrument = "drums"
-[[credits]]
-  name = "Drew Gress"
-  slug = "drew-gress"
-  instrument = "bass"
 +++
 
 Jazz pianist Fumio Karashima’s 2006 album _Great Time_ scratches the itch for a straight ahead jazz recording, bringing with it the satisfaction of the promised enjoyment conveyed by the title. Joining Karashima are Drew Gress on bass and Jack DeJohnette on drums, making up a trio of well-known and highly respected musicians in the jazz world. In particular, DeJohnette, who passed away in October 2025, was a worldwide legend whose influence has been immense. Fumio Karashima was also highly visible in the Japanese jazz world, and internationally to a lesser degree (admittedly, few musicians worldwide achieved DeJohnette’s level of fame). Yet, as an undeniable force and a recognized name in the jazz community, Karashima lived a life full of jazz, performing, touring, and recording for spans of years at at time with other jazz giants including American drummers [Elvin Jones](http://www.pit-inn.com/karashima/en/disc/1990/), [Tony Williams](https://www.suruga-ya.com/en/product/229003679), not to mention an abundance of amazing Japanese musicians.
@@ -104,3 +88,14 @@ _(Transcribed text of Jin Nakahara’s original English liner notes from the CD,
 {{< youtube ugFsMN6ePuA >}}
 
 -   [Excerpt from track #5: “Brilliant Darkness”](/audio/#mix-15)
+
+
+## _Great Time_ by Fumio Karashima
+
+-   [Fumio Karashima](/tags/fumio-karashima/) - piano
+-   [Jack DeJohnette](/tags/jack-dejohnette/) - drums
+-   [Drew Gress](/tags/drew-gress/) - bass
+
+_Japanese names: 辛島文雄 Karashima Fumio_
+
+Released in 2006 on Pit Inn Music as VACM-1277.

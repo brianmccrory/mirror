@@ -6,43 +6,10 @@ tags = ["Koichi Sato", "佐藤浩一", "Tokuhiro Doi", "土井徳浩", "Motohiko
 categories = ["albums"]
 draft = false
 slug = "koichi-sato-melancholy"
-releaseYear = 2016
-releaseLabel = "Song X Jazz"
-releaseCode = "SONG X 038"
 [cover]
   image = "koichisato-melancholy-460.jpeg"
   alt = "Cover art of Melancholy of a Journey by Koichi Sato"
   relative = true
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Tokuhiro Doi"
-  slug = "tokuhiro-doi"
-  instrument = "clarinet, bass clarinet"
-  japanese = "土井徳浩 Doi Tokuhiro"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Harutoshi Ito"
-  slug = "harutoshi-ito"
-  instrument = "cello"
-  japanese = "伊藤ハルトシ Ito Harutoshi"
-[[credits]]
-  name = "Hiroki Chiba"
-  slug = "hiroki-chiba"
-  instrument = "double bass"
-  japanese = "千葉広樹 Chiba Hiroki"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
 +++
 
 Pianist and composer Koichi Sato’s 2016 release _Melancholy of a Journey_ features a distinctive jazz sextet: a piano trio adding clarinet and guitar for modern groundedness and cello providing graceful maturity.
@@ -67,3 +34,17 @@ From this setting and throughout the rest of the album, beautiful music blossoms
 {{< youtube HU3XNXucB0Q >}}
 
 -   [Excerpt from track #1: “The Railway Station”](/audio/#mix-1)
+
+
+## _Melancholy of a Journey_ by Koichi Sato
+
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Tokuhiro Doi](/tags/tokuhiro-doi/) - clarinet, bass clarinet
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Harutoshi Ito](/tags/harutoshi-ito/) - cello
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - double bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+
+_Japanese names: 佐藤浩一 Sato Koichi 土井徳浩 Doi Tokuhiro 市野元彦 Ichino Motohiko 伊藤ハルトシ Ito Harutoshi 千葉広樹 Chiba Hiroki 則武諒 Noritake Ryo_
+
+Released in 2016 on Song X Jazz as SONG X 038.

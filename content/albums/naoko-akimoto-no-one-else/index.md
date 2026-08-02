@@ -6,48 +6,10 @@ tags = ["Naoko Akimoto", "秋元直子", "Seiji Endo", "遠藤征志", "Akiyoshi
 categories = ["albums"]
 draft = false
 slug = "naoko-akimoto-no-one-else"
-releaseYear = 2012
-releaseLabel = "Marmalade Records"
-releaseCode = "MARM-0004"
 [cover]
   image = "naoko-akimoto-no-one-else-460.jpeg"
   alt = "Cover art of No One Else by Naoko Akimoto"
   relative = true
-[[credits]]
-  name = "Naoko Akimoto"
-  slug = "naoko-akimoto"
-  instrument = "vocal"
-  japanese = "秋元直子 Akimoto Naoko"
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano"
-  japanese = "遠藤征志 Endo Seiji"
-[[credits]]
-  name = "Akiyoshi Shimizu"
-  slug = "akiyoshi-shimizu"
-  instrument = "bass"
-  japanese = "清水昭好 Shimizu Akiyoshi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
-[[credits]]
-  name = "Shinpei Inoue"
-  slug = "shinpei-inoue"
-  instrument = "flute"
-  japanese = "井上信平 Inoue Shinpei"
-[[credits]]
-  name = "Yasuhiro Matsuda"
-  slug = "yasuhiro-matsuda"
-  instrument = "alto sax"
-  japanese = "松田靖弘 Matsuda Yasuhiro"
-[[credits]]
-  name = "Shinpei Ruike"
-  slug = "shinpei-ruike"
-  instrument = "trumpet"
-  japanese = "類家心平 Ruike Shinpei"
 +++
 
 Vocalist Naoko Akimoto’s debut release _No One Else_ is a seven-song introduction to the popular singer, a presentation of standard jazz and Japanese pop arranged with care and performed by top musicians from Tokyo.
@@ -72,3 +34,18 @@ After the classy opener, the album continues with the title track “No One Else
 {{< youtube _Q8Ad6ZYl_A >}}
 
 -   [Excerpt from track #7: “Fly me to the moon”](/audio/#mix-8)
+
+
+## _No One Else_ by Naoko Akimoto
+
+-   [Naoko Akimoto](/tags/naoko-akimoto/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+-   [Akiyoshi Shimizu](/tags/akiyoshi-shimizu/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+-   [Shinpei Inoue](/tags/shinpei-inoue/) - flute
+-   [Yasuhiro Matsuda](/tags/yasuhiro-matsuda/) - alto sax
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+
+_Japanese names: 秋元直子 Akimoto Naoko 遠藤征志 Endo Seiji 清水昭好 Shimizu Akiyoshi 大村亘 Omura Ko 井上信平 Inoue Shinpei 松田靖弘 Matsuda Yasuhiro 類家心平 Ruike Shinpei_
+
+Released in 2012 on Marmalade Records as MARM-0004.

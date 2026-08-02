@@ -6,34 +6,11 @@ tags = ["Sayaka Kishi", "岸淑香", "Akira Yamada", "山田玲", "Daiki Yasukag
 categories = ["albums"]
 draft = false
 slug = "sayaka-kishi-trio-banquet"
-releaseYear = 2024
-releaseLabel = "Daiki Musica"
-releaseCode = "DNCD-32"
 related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "arco-birth", "sayaka-kishi-trio-life-is-too-great", "sul-madrugada-luar"]
 [cover]
   image = "sayaka-kishi-trio-banquet-460.jpeg"
   alt = "Cover art of Banquet by Sayaka Kishi Trio"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Hiroe Kobayashi"
-  slug = "hiroe-kobayashi"
-  instrument = "vocals (#8)"
-  japanese = "小林宏衣 Kobayashi Hiroe"
 +++
 
 On _Banquet_, pianist and composer Sayaka Kishi’s latest album from 2024, her piano trio brightens things up with a banquet of delights. Kishi has long been a musician who loves to explore and mix genres with a sense of fun and dedication, and she is often found playing in Latin, Afro-Cuban, flamenco, fusion, and other groups. While the genres are many, Kishi consistently pulls from her knowledge of jazz standards, pop, classical, and other roots, bound together with swing and Latin beats and ad-libbed improvisation.
@@ -72,3 +49,15 @@ Guest vocalist Hiroe Kobayashi (her partner in the group Sul Madrugada and their
 -   [D-musica page for this album with audio samples](https://d-musica.co.jp/?p=508)
 
 -   [Excerpt from track #1: “I Miss the Blue Sky”](/audio/#mix-11)
+
+
+## _Banquet_ by Sayaka Kishi Trio
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi/) - vocals (#8)
+
+_Japanese names: 岸淑香 Kishi Sayaka 山田玲 Yamada Akira 安ヵ川大樹 Yasukagawa Daiki 小林宏衣 Kobayashi Hiroe_
+
+Released in 2024 on Daiki Musica as DNCD-32.

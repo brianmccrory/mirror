@@ -6,19 +6,11 @@ tags = ["Yukako Yamano", "山野友佳子"]
 categories = ["albums"]
 draft = false
 slug = "yukako-yamano-imperial"
-releaseYear = 2018
-releaseLabel = "Yukako Yamano"
-releaseCode = "YKRN-0004"
 related = ["yukako-yamano-1st-stage", "yukako-yamano-3rd-stage", "yukakoyamano-yukariinoue-dubai"]
 [cover]
   image = "yukakoyamano-imperial-460.jpeg"
   alt = "Cover art of Imperial by Yukako Yamano"
   relative = true
-[[credits]]
-  name = "Yukako Yamano"
-  slug = "yukako-yamano"
-  instrument = "piano"
-  japanese = "山野友佳子 Yamano Yukako"
 +++
 
 World-traveling pianist Yukako Yamano released _Imperial_ in 2018, a three-song mini-album showcasing not only her original songs but also the special instrument after which the album is named.
@@ -45,3 +37,12 @@ Yamano leads off _Imperial_ with “Symphony of Lights”, an adventurous compos
 {{< youtube lXLppj6OGTg >}}
 
 -   [Excerpt from track #3: “キャサリンの憂鬱 (_Katherine's Melancholy_)”](/audio/#mix-9)
+
+
+## _Imperial_ by Yukako Yamano
+
+-   [Yukako Yamano](/tags/yukako-yamano/) - piano
+
+_Japanese names: 山野友佳子 Yamano Yukako_
+
+Released in 2018 on Yukako Yamano as YKRN-0004.

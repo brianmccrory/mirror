@@ -6,33 +6,10 @@ tags = ["Sohnosuke Imaizumi", "今泉総之輔", "Kazuhiro Sunaga", "須長和�
 categories = ["albums"]
 draft = false
 slug = "sohnosuke-imaizumi-rin"
-releaseYear = 2015
-releaseLabel = "Flower Records"
-releaseCode = "FLRC-070"
 [cover]
   image = "sohnosukeimaizumi-rin-460.jpeg"
   alt = "Cover art of Rin by Sohnosuke Imaizumi"
   relative = true
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[[credits]]
-  name = "Kazuhiro Sunaga"
-  slug = "kazuhiro-sunaga"
-  instrument = "bass"
-  japanese = "須長和広 Sunaga Kazuhiro"
-[[credits]]
-  name = "Kazuhiro Tamura"
-  slug = "kazuhiro-tamura"
-  instrument = "piano"
-  japanese = "田村和大 Tamura Kazuhiro"
-[[credits]]
-  name = "BLAHMUZIK"
-  slug = "blahmuzik"
-  instrument = "sampler"
-  japanese = "ブラムジック BLAHMUZIK"
 +++
 
 Drummer Sohnosuke Imaizumi lays down impressive foundations with his debut album _Rin_. Having worked as a member of groups including Quasimode and Beatmoss, this is his first album as a leader. These 14 tracks feature his trio playing original songs and jazz standards, interwoven with hip-hop-influenced grooves and spacey drums-and-sampler interludes.
@@ -65,3 +42,15 @@ The overall album delivers an exciting variety of moods centered around a modern
 {{< youtube Yu_NSmcS14c >}}
 
 -   [Excerpt from track #1: “Nag Champa”](/audio/#mix-2)
+
+
+## _Rin_ by Sohnosuke Imaizumi
+
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+-   [Kazuhiro Sunaga](/tags/kazuhiro-sunaga/) - bass
+-   [Kazuhiro Tamura](/tags/kazuhiro-tamura/) - piano
+-   [BLAHMUZIK](/tags/blahmuzik/) - sampler
+
+_Japanese names: 今泉総之輔 Imaizumi Sohnosuke 須長和広 Sunaga Kazuhiro 田村和大 Tamura Kazuhiro ブラムジック BLAHMUZIK_
+
+Released in 2015 on Flower Records as FLRC-070.

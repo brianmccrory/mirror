@@ -6,27 +6,10 @@ tags = ["Miki Hayama", "早間美紀", "Kiyoshi Kitagawa", "北川潔", "Victor 
 categories = ["albums"]
 draft = false
 slug = "miki-hayama-trio-wide-angle"
-releaseYear = 2009
-releaseLabel = "ART UNION/@jazz"
-releaseCode = "ARTCD-114"
 [cover]
   image = "miki-hayama-wideangle-460.jpeg"
   alt = "Cover art of Wide Angle by Miki Hayama Trio"
   relative = true
-[[credits]]
-  name = "Miki Hayama"
-  slug = "miki-hayama"
-  instrument = "piano"
-  japanese = "早間美紀 Hayama Miki"
-[[credits]]
-  name = "Kiyoshi Kitagawa"
-  slug = "kiyoshi-kitagawa"
-  instrument = "bass"
-  japanese = "北川潔 Kitagawa Kiyoshi"
-[[credits]]
-  name = "Victor Lewis"
-  slug = "victor-lewis"
-  instrument = "drums"
 +++
 
 Pianist Miki Hayama creates superb jazz on _Wide Angle_, exploring powerful, edge-of-your-seat quickness with modern dimensions. This album is her third as a leader and received awards from the Japanese jazz magazine _Swing Journal_ in 2009 and 2010.
@@ -61,3 +44,14 @@ In addition to straight-ahead locomotion, other angles are explored: wisps of fa
 {{< youtube dtb6KCpL-tE >}}
 
 -   [Excerpt from track #1: “ワッツ・ネクスト？ (_What’s Next?_)”](/audio/#mix-3)
+
+
+## _Wide Angle_ by Miki Hayama Trio
+
+-   [Miki Hayama](/tags/miki-hayama/) - piano
+-   [Kiyoshi Kitagawa](/tags/kiyoshi-kitagawa/) - bass
+-   [Victor Lewis](/tags/victor-lewis/) - drums
+
+_Japanese names: 早間美紀 Hayama Miki 北川潔 Kitagawa Kiyoshi_
+
+Released in 2009 on ART UNION/@jazz as ARTCD-114.

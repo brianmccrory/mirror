@@ -6,39 +6,11 @@ tags = ["Makiyo Sakai", "酒井麻生代", "Yoshihiko Naya", "納谷嘉彦", "Ma
 categories = ["albums"]
 draft = false
 slug = "makiyo-sakai-silver-painting"
-releaseYear = 2016
-releaseLabel = "Pony Canyon"
-releaseCode = "PCCY-30231"
 related = ["banda-feliz-boa-viagem"]
 [cover]
   image = "makiyo-sakai-silver-painting-460.jpeg"
   alt = "Cover art of Silver Painting by Makiyo Sakai"
   relative = true
-[[credits]]
-  name = "Makiyo Sakai"
-  slug = "makiyo-sakai"
-  instrument = "flute"
-  japanese = "酒井麻生代 Sakai Makiyo"
-[[credits]]
-  name = "Yoshihiko Naya"
-  slug = "yoshihiko-naya"
-  instrument = "piano/Rhodes"
-  japanese = "納谷嘉彦 Naya Yoshihiko"
-[[credits]]
-  name = "Masayuki Tawarayama"
-  slug = "masayuki-tawarayama"
-  instrument = "bass"
-  japanese = "俵山昌之 Tawarayama Masayuki"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
-[[credits]]
-  name = "Jun Kimura"
-  slug = "jun-kimura"
-  instrument = "acoustic guitar (#2, 7)"
-  japanese = "木村純 Kimura Jun"
 +++
 
 For many people, classical music can be very relaxing, a soothing balm at certain times, or in uncertain times. Some jazz music is regarded in the same way, and there is even _smooth jazz_, after all.
@@ -152,3 +124,16 @@ This is the third movement from _Suite Bergamaque_, a four-part piano solo piece
 {{< youtube R8wM4rOXYsg >}}
 
 -   [Excerpt from track #9: “シチリアーノ (_Siciliano_)”](/audio/#mix-12)
+
+
+## _Silver Painting_ by Makiyo Sakai
+
+-   [Makiyo Sakai](/tags/makiyo-sakai/) - flute
+-   [Yoshihiko Naya](/tags/yoshihiko-naya/) - piano/Rhodes
+-   [Masayuki Tawarayama](/tags/masayuki-tawarayama/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Jun Kimura](/tags/jun-kimura/) - acoustic guitar (#2, 7)
+
+_Japanese names: 酒井麻生代 Sakai Makiyo 納谷嘉彦 Naya Yoshihiko 俵山昌之 Tawarayama Masayuki 山田玲 Yamada Akira 木村純 Kimura Jun_
+
+Released in 2016 on Pony Canyon as PCCY-30231.

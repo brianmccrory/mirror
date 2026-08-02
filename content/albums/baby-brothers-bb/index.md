@@ -6,38 +6,10 @@ tags = ["Sanae Ishikawa", "石川早苗", "Monet", "モネ", "Kyoko Ogata", "緒
 categories = ["albums"]
 draft = false
 slug = "baby-brothers-bb"
-releaseYear = 2007
-releaseLabel = "Bb Records"
-releaseCode = "Bb"
 [cover]
   image = "babybrothers-bbcover-460.jpeg"
   alt = "Cover art of Bb by Baby Brothers"
   relative = true
-[[credits]]
-  name = "Sanae Ishikawa"
-  slug = "sanae-ishikawa"
-  instrument = "vocal"
-  japanese = "石川早苗 Ishikawa Sanae"
-[[credits]]
-  name = "Monet"
-  slug = "monet"
-  instrument = "lead vocal, 2nd chorus"
-  japanese = "モネ Monet"
-[[credits]]
-  name = "Kyoko Ogata"
-  slug = "kyoko-ogata"
-  instrument = "lead vocal, 3rd chorus"
-  japanese = "緒方京子 Ogata Kyoko"
-[[credits]]
-  name = "Takahiko Goto"
-  slug = "takahiko-goto"
-  instrument = "lead vocal, 4th chorus, bass, voice trumpet"
-  japanese = "ごとうたかひこ Goto Takahiko"
-[[credits]]
-  name = "Yohhei"
-  slug = "yohhei"
-  instrument = "lead vocal, bass, 4th chorus, human beat box"
-  japanese = "ようへい Yohhei"
 +++
 
 The living music from vocal a cappella groups can be inspiring and soothing in turbulent times, with voices layered in harmony and synchronized timing for direct connections with each other and the audience. The five-piece group Baby Brothers from Tokyo released their debut _Bb_ in 2007 with their well-arranged jazz, R&amp;B, and hymn-like traditionals. With only their voices and no other instruments, the quality of vocal organic vibrations can powerfully connect with reassuring joy through a skillful, very human communal experience.
@@ -66,3 +38,16 @@ In addition to the jazz tunes, other genres perfectly suited to Baby Brothers in
 {{< youtube ta31Crs7Q-Q >}}
 
 -   [Excerpt from track #1: “Over The Rainbow”](/audio/#mix-6)
+
+
+## _Bb_ by Baby Brothers
+
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Monet](/tags/monet/) - lead vocal, 2nd chorus
+-   [Kyoko Ogata](/tags/kyoko-ogata/) - lead vocal, 3rd chorus
+-   [Takahiko Goto](/tags/takahiko-goto/) - lead vocal, 4th chorus, bass, voice trumpet
+-   [Yohhei](/tags/yohhei/) - lead vocal, bass, 4th chorus, human beat box
+
+_Japanese names: 石川早苗 Ishikawa Sanae モネ Monet 緒方京子 Ogata Kyoko ごとうたかひこ Goto Takahiko ようへい Yohhei_
+
+Released in 2007 on Bb Records as Bb.

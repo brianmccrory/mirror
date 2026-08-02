@@ -6,34 +6,11 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Aaron Choulai", "アーロン・�
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-blending-tone"
-releaseYear = 2012
-releaseLabel = "Orbit Records"
-releaseCode = "ORB-1001"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "keisuke-nakamura-humadope-2", "akihiro-yoshimoto-quartet-64-charlesgate", "nanami-haruta-ii"]
 [cover]
   image = "akihiro-yoshimoto-quartet-blending-tone-460.jpeg"
   alt = "Cover art of Blending Tone by Akihiro Yoshimoto Quartet"
   relative = true
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "tenor sax"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Aaron Choulai"
-  slug = "aaron-choulai"
-  instrument = "piano"
-  japanese = "アーロン・チューライ Choulai Aaron"
-[[credits]]
-  name = "Takuya Sakazaki"
-  slug = "takuya-sakazaki"
-  instrument = "bass"
-  japanese = "坂崎拓也 Sakazaki Takuya"
-[[credits]]
-  name = "Shun Ishiwaka"
-  slug = "shun-ishiwaka"
-  instrument = "drums"
-  japanese = "石若駿 Ishiwaka Shun"
 +++
 
 The jazz album _Blending Tone_ is the 2012 debut release from the Tokyo-based Akihiro Yoshimoto Quartet. Saxophone player and leader Yoshimoto recorded this with a tightly bound group of musicians including Aaron Choulai on piano, Takuya Sakazaki on bass, and Shun Ishiwaka on drums, working together to blend their tones while staying on top of Yoshimoto’s music.
@@ -120,3 +97,15 @@ Young, fierce tenor saxophonist Akihiro Yoshimoto with his quartet releases his 
 -   [Streaming version of _Blending Tone_ (Bandcamp digital album)](https://yoshiquartet.bandcamp.com/album/blending-tone)
 
 -   [Excerpt from track #1: “di di”](/audio/#mix-15)
+
+
+## _Blending Tone_ by Akihiro Yoshimoto Quartet
+
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax
+-   [Aaron Choulai](/tags/aaron-choulai/) - piano
+-   [Takuya Sakazaki](/tags/takuya-sakazaki/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
+
+_Japanese names: 吉本章紘 Yoshimoto Akihiro アーロン・チューライ Choulai Aaron 坂崎拓也 Sakazaki Takuya 石若駿 Ishiwaka Shun_
+
+Released in 2012 on Orbit Records as ORB-1001.

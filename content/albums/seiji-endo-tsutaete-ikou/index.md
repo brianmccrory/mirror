@@ -6,43 +6,10 @@ tags = ["Hiroco Nagano", "永野寛子", "Shinya Nitta", "仁田真也", "Seiji 
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-tsutaete-ikou"
-releaseYear = 2015
-releaseLabel = "Music Art Records"
-releaseCode = "MAR-1501"
 [cover]
   image = "seijiendo-tsutaeteikou-460.jpeg"
   alt = "Cover art of Tsutaete Ikou by Seiji Endo"
   relative = true
-[[credits]]
-  name = "Hiroco Nagano"
-  slug = "hiroco-nagano"
-  instrument = "vocal"
-  japanese = "永野寛子 Nagano Hiroco"
-[[credits]]
-  name = "Shinya Nitta"
-  slug = "shinya-nitta"
-  instrument = "vocal"
-  japanese = "仁田真也 Nitta Shinya"
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano, vocals"
-  japanese = "遠藤征志 Endo Seiji"
-[[credits]]
-  name = "Yasuhiro Hasegawa"
-  slug = "yasuhiro-hasegawa"
-  instrument = "bass (#2)"
-  japanese = "長谷川泰弘 Hasegawa Yasuhiro"
-[[credits]]
-  name = "Yoshiyuki Nakaya"
-  slug = "yoshiyuki-nakaya"
-  instrument = "drums (#2)"
-  japanese = "中屋啓之 Nakaya Yoshiyuki"
-[[credits]]
-  name = "Arata Umehara"
-  slug = "arata-umehara"
-  instrument = "guitar (#2)"
-  japanese = "梅原新 Umehara Arata"
 +++
 
 In memory of the lives taken by the devastating Tohoku earthquake and tsunami of March 11, 2011, three musicians formed the _Tsutaete Ikou_ project. Pianist Seiji Endo and vocalists Hiroco Nagano and Shinya Nitta were touched by the brave and kindhearted students they met at a benefit concert, children who became an inspiration for the musicians.
@@ -74,3 +41,17 @@ The CD contains three versions of the song “Tsutaete Ikou”, and proceeds wer
 ## Links
 
 -   [The Tsutaete Ikou project website, with piano score and lyrics](http://tsutaeteikopj.net/)
+
+
+## _Tsutaete Ikou_ by Seiji Endo
+
+-   [Hiroco Nagano](/tags/hiroco-nagano/) - vocal
+-   [Shinya Nitta](/tags/shinya-nitta/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano, vocals
+-   [Yasuhiro Hasegawa](/tags/yasuhiro-hasegawa/) - bass (#2)
+-   [Yoshiyuki Nakaya](/tags/yoshiyuki-nakaya/) - drums (#2)
+-   [Arata Umehara](/tags/arata-umehara/) - guitar (#2)
+
+_Japanese names: 永野寛子 Nagano Hiroco 仁田真也 Nitta Shinya 遠藤征志 Endo Seiji 長谷川泰弘 Hasegawa Yasuhiro 中屋啓之 Nakaya Yoshiyuki 梅原新 Umehara Arata_
+
+Released in 2015 on Music Art Records as MAR-1501.

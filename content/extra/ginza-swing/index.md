@@ -7,13 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "ginza-swing"
-clubName = "Ginza Swing"
-clubUrl = "http://ginzaswing.jp/"
-clubCity = "Tokyo"
-clubStation1 = "Ginza"
-clubStation2 = "Yurakucho"
-clubMap = "https://maps.app.goo.gl/K3CNhgADfxsyowh76"
-issue = 355
 [cover]
   image = "IMG_20251027_183616667_HDR-1200.jpeg"
   caption = "Ginza Swing jazz club"
@@ -123,3 +116,9 @@ _Note: After 50 years in operation, Ginza Swing was scheduled to close in May 20
 -   [Virtual walkthrough of Ginza Swing](https://www.google.com/local/place/fid/0x60188be4fedc78cb:0x6cde4ad3cab47e5d/photosphere?iu=https://lh5.googleusercontent.com/p/AF1QipPora2DVU3dYgdsspgDQgIg4BZrVbJavmzubvU5%3Dw160-h106-k-no-pi-1.5755627-ya319.2444-ro0-fo100&ik=CAoSLEFGMVFpcFBvcmEyRFZVM2RZZ2Rzc3BnRFFnSWc0QlpyVmJKYXZtenVidlU1)
 
 -   [Promotional video (November 2022)](https://youtu.be/NY0ERrENF1E)
+
+
+## Information
+
+-   [Ginza Swing’s website](http://ginzaswing.jp/)
+-   [Located near Ginza and Yurakucho stations in Tokyo, Japan](https://maps.app.goo.gl/K3CNhgADfxsyowh76)

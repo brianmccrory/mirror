@@ -6,34 +6,11 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Miki Hirose", "広瀬未来",
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-last-resort"
-releaseYear = 2020
-releaseLabel = "Jazzy Bear"
-releaseCode = "JZBR-0002"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-pray", "miki-hirose-scratch", "yasumasa-kumagai-j-straight-ahead"]
 [cover]
   image = "yasumasa-kumagai-last-resort-460.jpeg"
   alt = "Cover art of Last Resort by Yasumasa Kumagai & J-Jazz Homies"
   relative = true
-[[credits]]
-  name = "Yasumasa Kumagai"
-  slug = "yasumasa-kumagai"
-  instrument = "piano"
-  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[credits]]
-  name = "Miki Hirose"
-  slug = "miki-hirose"
-  instrument = "trumpet"
-  japanese = "広瀬未来 Hirose Miki"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
 +++
 
 The latest album from J Jazz pianist Yasumasa Kumagai is titled _Last Resort_, released in 2020 on his own independent label with his jazz piano trio plus Miki Hirose on trumpet. Although the eye-catching cover design may be a world away from typical jazz albums, the aggressive, tongue-in-cheek image succeeds in standing out, a conscious attempt to challenge flagging CD sales in recent years by piquing interest and possibly head-scratching confusion.
@@ -125,3 +102,15 @@ That’s all for now. We appreciate your support as we continue to release new a
 {{< youtube pr7uvD0kkmM >}}
 
 -   [Excerpt from track #5: “Apologetic Blues”](/audio/#mix-9)
+
+
+## _Last Resort_ by Yasumasa Kumagai &amp; J-Jazz Homies
+
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+
+_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 広瀬未来 Hirose Miki 古木佳祐 Furuki Keisuke 山田玲 Yamada Akira_
+
+Released in 2020 on Jazzy Bear as JZBR-0002.

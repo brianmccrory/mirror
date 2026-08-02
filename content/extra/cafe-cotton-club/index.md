@@ -7,12 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "cafe-cotton-club"
-clubName = "Cafe Cotton Club"
-clubUrl = "https://www.cafecottonclub.com/"
-clubCity = "Tokyo"
-clubStation1 = "Takadanobaba"
-clubMap = "https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7"
-issue = 344
 [cover]
   image = "IMG_20251111_204631406_HDR-1200.jpeg"
   caption = "Cafe Cotton Club in Takadanobaba, Tokyo (November 2025)"
@@ -118,3 +112,9 @@ Note 2: The calendar of events available on Cafe Cotton Club’s website may not
 -   [Layout of Cafe Cotton Club’s jazz floor](https://www.cafecottonclub.com/pdfs/B1F%E7%99%BD%E5%9B%B3.pdf)
 
 -   [Videos from Jazz Spot Intro and Cafe Cotton Club](https://www.youtube.com/@tokyojazzintrocottonclub)
+
+
+## Information
+
+-   [Cafe Cotton Club’s website](https://www.cafecottonclub.com/)
+-   [Located near Takadanobaba station in Tokyo, Japan](https://maps.app.goo.gl/bf9exWWzfa7Nyw3u7)

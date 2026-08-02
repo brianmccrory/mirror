@@ -6,38 +6,10 @@ tags = ["Yako Horikita", "堀北やこ", "Takenori Sawaki", "佐脇武則", "Mak
 categories = ["albums"]
 draft = false
 slug = "yako-horikita-shining-hour"
-releaseYear = 2017
-releaseLabel = "Kylym Records"
-releaseCode = "KYLYM-0001"
 [cover]
   image = "yakohorikita-shininghour-460.jpeg"
   alt = "Cover art of Shining Hour by Yako Horikita"
   relative = true
-[[credits]]
-  name = "Yako Horikita"
-  slug = "yako-horikita"
-  instrument = "vocal"
-  japanese = "堀北やこ Horikita Yako"
-[[credits]]
-  name = "Takenori Sawaki"
-  slug = "takenori-sawaki"
-  instrument = "alto saxophone"
-  japanese = "佐脇武則 Sawaki Takenori"
-[[credits]]
-  name = "Makoto Deguchi"
-  slug = "makoto-deguchi"
-  instrument = "piano"
-  japanese = "出口誠 Deguchi Makoto"
-[[credits]]
-  name = "Ken Kaneko"
-  slug = "ken-kaneko"
-  instrument = "bass"
-  japanese = "金子健 Kaneko Ken"
-[[credits]]
-  name = "Nobuhiko Yamashita"
-  slug = "nobuhiko-yamashita"
-  instrument = "drums"
-  japanese = "山下暢彦 Yamashita Nobuhiko"
 +++
 
 Fans of vintage vocal jazz will be drawn to singer Yako Horikita’s debut album _Shining Hour_, a swinging collection of twelve jazz standards delivered with a shining, sparking sincerity.
@@ -60,3 +32,16 @@ While most of the tracks are straightforward mid-tempo swingers, a few of tunes 
 {{< youtube EColU1KjlxY >}}
 
 -   [Excerpt from track #11: “Under A Blanket Of Blue”](/audio/#mix-5)
+
+
+## _Shining Hour_ by Yako Horikita
+
+-   [Yako Horikita](/tags/yako-horikita/) - vocal
+-   [Takenori Sawaki](/tags/takenori-sawaki/) - alto saxophone
+-   [Makoto Deguchi](/tags/makoto-deguchi/) - piano
+-   [Ken Kaneko](/tags/ken-kaneko/) - bass
+-   [Nobuhiko Yamashita](/tags/nobuhiko-yamashita/) - drums
+
+_Japanese names: 堀北やこ Horikita Yako 佐脇武則 Sawaki Takenori 出口誠 Deguchi Makoto 金子健 Kaneko Ken 山下暢彦 Yamashita Nobuhiko_
+
+Released in 2017 on Kylym Records as KYLYM-0001.

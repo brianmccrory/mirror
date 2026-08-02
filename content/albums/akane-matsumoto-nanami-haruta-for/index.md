@@ -6,23 +6,10 @@ tags = ["Nanami Haruta", "治田七海", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-nanami-haruta-for"
-releaseYear = 2023
-releaseLabel = "Concept Record"
-releaseCode = "CR-17"
 [cover]
   image = "akane-matsumoto-nanami-haruta-for-460.jpeg"
   alt = "Cover art of For My Lady by Akane Matsumoto & Nanami Haruta"
   relative = true
-[[credits]]
-  name = "Nanami Haruta"
-  slug = "nanami-haruta"
-  instrument = "trombone"
-  japanese = "治田七海 Haruta Nanami"
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
 +++
 
 _For My Lady_ is a relaxing package of jazz standards performed by a sensitive trombone and piano duo. Akane Matsumoto, known for her impressive bebop and swing skills, joins up with young newcomer Nanami Haruta on trombone, and both players select favorites from the jazz standard library for this album, each song accompanied by comments in the liner notes translated below.
@@ -122,3 +109,13 @@ By the way, when I happen to hum this song, I’m struck and transformed by the 
 {{< youtube pyrVnZnrcu0 >}}
 
 -   [Excerpt from track #7: “Please Send Me Someone To Love”](/audio/#mix-9)
+
+
+## _For My Lady_ by Akane Matsumoto &amp; Nanami Haruta
+
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+
+_Japanese names: 治田七海 Haruta Nanami 松本茜 Matsumoto Akane_
+
+Released in 2023 on Concept Record as CR-17.

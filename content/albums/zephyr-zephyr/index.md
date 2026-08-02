@@ -6,28 +6,10 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Teiji Taguchi", "田口悌治", "Tak
 categories = ["albums"]
 draft = false
 slug = "zephyr-zephyr"
-releaseYear = 2013
-releaseLabel = "What’s New Records"
-releaseCode = "WNCJ-2249"
 [cover]
   image = "zephyr-zephyr-460.jpeg"
   alt = "Cover art of Zephyr by Zephyr"
   relative = true
-[[credits]]
-  name = "Toshihiko Inoue"
-  slug = "toshihiko-inoue"
-  instrument = "soprano, tenor sax"
-  japanese = "井上淑彦 Inoue Toshihiko"
-[[credits]]
-  name = "Teiji Taguchi"
-  slug = "teiji-taguchi"
-  instrument = "acoustic guitar"
-  japanese = "田口悌治 Taguchi Teiji"
-[[credits]]
-  name = "Takashi Amano"
-  slug = "takashi-amano"
-  instrument = "electric guitar"
-  japanese = "天野丘 Amano Takashi"
 +++
 
 Through jazz, folk, rock, and imagination, the music on _Zephyr_ unfurls like smoke rising from fragrant incense, floating and curling in beautiful patterns in the air. A trio consisting of saxophone, acoustic guitar, and electric guitar, the front-forward unit is unbound by genre, producing otherworldly sounds evocative of folk songs from a distant world.
@@ -52,3 +34,14 @@ Aside from original compositions, the album also features the jazz standard “S
 {{< youtube NLQwWs7ho0U >}}
 
 -   [Excerpt from track #1: “Fairly Woods”](/audio/#mix-4)
+
+
+## _Zephyr_ by Zephyr
+
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - soprano, tenor sax
+-   [Teiji Taguchi](/tags/teiji-taguchi/) - acoustic guitar
+-   [Takashi Amano](/tags/takashi-amano/) - electric guitar
+
+_Japanese names: 井上淑彦 Inoue Toshihiko 田口悌治 Taguchi Teiji 天野丘 Amano Takashi_
+
+Released in 2013 on What’s New Records as WNCJ-2249.

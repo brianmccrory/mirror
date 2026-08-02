@@ -6,23 +6,10 @@ tags = ["Maki Fujimura", "藤村麻紀", "Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 slug = "maki-fujimura-best-wishes"
-releaseYear = 2013
-releaseLabel = "Maki Fujimura"
-releaseCode = "MAKI.TV-0001"
 [cover]
   image = "makifujimura-best-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"
   relative = true
-[[credits]]
-  name = "Maki Fujimura"
-  slug = "maki-fujimura"
-  instrument = "vocal"
-  japanese = "藤村麻紀 Fujimura Maki"
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
 +++
 
 Glamorous Osaka-based singer Maki Fujimura enraptures the audience with her silky voice and energetic improvisation on this live album recorded at the intimate Tokyo jazz bar “Apple Jump”.
@@ -55,3 +42,13 @@ In addition, the duo thrills with arrangements of standards such as “Summertim
 {{< youtube oU004sMm7rE >}}
 
 -   [Excerpt from track #1: “Ray”](/audio/#mix-4)
+
+
+## _Best Wishes_ by Maki Fujimura
+
+-   [Maki Fujimura](/tags/maki-fujimura/) - vocal
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+
+_Japanese names: 藤村麻紀 Fujimura Maki 堀秀彰 Hori Hideaki_
+
+Released in 2013 on Maki Fujimura as MAKI.TV-0001.

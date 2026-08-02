@@ -6,18 +6,10 @@ tags = ["Yuya Wakai", "若井優也"]
 categories = ["albums"]
 draft = false
 slug = "yuya-wakai-images"
-releaseYear = 2013
-releaseLabel = "Mikorin Music"
-releaseCode = "MM-002"
 [cover]
   image = "yuyawakai-images-460.jpeg"
   alt = "Cover art of Images by Yuya Wakai"
   relative = true
-[[credits]]
-  name = "Yuya Wakai"
-  slug = "yuya-wakai"
-  instrument = "piano"
-  japanese = "若井優也 Wakai Yuya"
 +++
 
 Joyful notes flow effortlessly from pianist Yuya Wakai as he confidently opens his solo piano album _Images_.
@@ -46,3 +38,12 @@ Related to the album title (and perhaps also alluding to Debussy’s classical w
 {{< youtube q5gpBi0RSFw >}}
 
 -   [Excerpt from track #1: “There Will Never Be Another You”](/audio/#mix-3)
+
+
+## _Images_ by Yuya Wakai
+
+-   [Yuya Wakai](/tags/yuya-wakai/) - piano
+
+_Japanese names: 若井優也 Wakai Yuya_
+
+Released in 2013 on Mikorin Music as MM-002.

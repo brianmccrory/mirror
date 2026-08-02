@@ -6,49 +6,11 @@ tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suz
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-rougequeue"
-releaseYear = 2015
-releaseLabel = "Usagi Record"
-releaseCode = "UR-001"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-rougequeue-460.jpeg"
   alt = "Cover art of Rougequeue by Fumie Chiba"
   relative = true
-[[credits]]
-  name = "Fumie Chiba"
-  slug = "fumie-chiba"
-  instrument = "piano"
-  japanese = "千葉史絵 Chiba Fumie"
-[[credits]]
-  name = "Koji Tetsui"
-  slug = "koji-tetsui"
-  instrument = "bass on #1, 2, 4"
-  japanese = "鉄井孝司 Tetsui Koji"
-[[credits]]
-  name = "Kaoru Suzuki"
-  slug = "kaoru-suzuki"
-  instrument = "drums on #1, 2, 4"
-  japanese = "鈴木郁 Suzuki Kaoru"
-[[credits]]
-  name = "Mitsuru Tanaka"
-  slug = "mitsuru-tanaka"
-  instrument = "trumpet, horn on #1, 4"
-  japanese = "田中充 Tanaka Mitsuru"
-[[credits]]
-  name = "Shunosuke Ishikawa"
-  slug = "shunosuke-ishikawa"
-  instrument = "tenor sax on #1, 4"
-  japanese = "石川周之介 Ishikawa Shunosuke"
-[[credits]]
-  name = "Nao Teraya"
-  slug = "nao-teraya"
-  instrument = "guitar on #1, 4"
-  japanese = "寺屋ナオ Teraya Nao"
-[[credits]]
-  name = "Hirokazu Ishida"
-  slug = "hirokazu-ishida"
-  instrument = "soprano sax on #1"
-  japanese = "石田寛和 Ishida Hirokazu"
 +++
 
 _Rougequeue_ is a 2015 mini-album from pianist Fumie Chiba that features five of her original songs, three with jazz combos (septet, sextet, and trio), and two solo piano tracks. The uncommon word used for the album title is a French word for _redstart_, a small, colorful bird with a reddish-orange tail. Once the title is parsed and read as _roozh-kew_, it becomes easier to see and hear, but it maintains its aura of mystery and beauty. Even the word’s letters themselves seem to align, dip, and extend with a certain intentional pattern. The bird image and concepts are also easily applied to the five compositions contained under that title, music that is wonderfully vivid and that can take flight.
@@ -89,3 +51,18 @@ Chiba returns to solo piano for #5 “Water Flower” (ending with a solo piano 
 -   [Audio samples of #1 “Rougequeue” and #4 “Backstroke”](https://fumiechiba.com/music.html)
 
 -   [Excerpt from track #2: “ringlight”](/audio/#mix-12)
+
+
+## _Rougequeue_ by Fumie Chiba
+
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass on #1, 2, 4
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums on #1, 2, 4
+-   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, horn on #1, 4
+-   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax on #1, 4
+-   [Nao Teraya](/tags/nao-teraya/) - guitar on #1, 4
+-   [Hirokazu Ishida](/tags/hirokazu-ishida/) - soprano sax on #1
+
+_Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 寺屋ナオ Teraya Nao 石田寛和 Ishida Hirokazu_
+
+Released in 2015 on Usagi Record as UR-001.

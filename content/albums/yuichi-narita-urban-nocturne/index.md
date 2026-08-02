@@ -6,19 +6,11 @@ tags = ["Yuichi Narita", "成田祐一"]
 categories = ["albums"]
 draft = false
 slug = "yuichi-narita-urban-nocturne"
-releaseYear = 2021
-releaseLabel = "Coffee Table Records"
-releaseCode = "COTA-001"
 related = ["tomoka-miwa-colors", "akiko-suda-flowers-on-the-hill"]
 [cover]
   image = "yuichi-narita-urban-nocturne-460.jpeg"
   alt = "Cover art of Urban Nocturne by Yuichi Narita"
   relative = true
-[[credits]]
-  name = "Yuichi Narita"
-  slug = "yuichi-narita"
-  instrument = "piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion"
-  japanese = "成田祐一 Narita Yuichi"
 +++
 
 With many jazz bars and performance opportunities reduced during the pandemic period, musicians used novel approaches to create and record music. Musicians would play together over video feeds, host live online events, and send audio files back and forth to one another for collaboration. Some musicians also composed and recorded in conditions resembling self-isolation or even quarantine, resulting in an increase in self-produced music created entirely at home by individual artists. Many of the albums released in recent years share these common bonds like generational traits imprinted on the music. This is another small way by which this period leaves unique reminders of the strangeness of the times characterized by new restrictions, lockdowns, medicines, and masks.
@@ -63,3 +55,12 @@ The combination of instruments is also fascinatingly varied. On the electronic t
 {{< youtube HdchZBiNYcY >}}
 
 -   [Excerpt from track #4: “No Return”](/audio/#mix-9)
+
+
+## _Urban Nocturne_ by Yuichi Narita
+
+-   [Yuichi Narita](/tags/yuichi-narita/) - piano, Rhodes, organ, synthesizer, accordion, cello, bass, drums, percussion
+
+_Japanese names: 成田祐一 Narita Yuichi_
+
+Released in 2021 on Coffee Table Records as COTA-001.

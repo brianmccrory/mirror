@@ -6,48 +6,10 @@ tags = ["Emiko Voice", "エミコヴォイス", "Koichi Sato", "佐藤浩一", "
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-carta"
-releaseYear = 2017
-releaseLabel = "Zipangu Label"
-releaseCode = "ZIP-0058"
 [cover]
   image = "emikovoice-carta-square-460.jpeg"
   alt = "Cover art of Carta by Emiko Voice"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "vocal"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano, Rhodes"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Akemi Ohta"
-  slug = "akemi-ohta"
-  instrument = "flute"
-  japanese = "太田朱美 Ohta Akemi"
-[[credits]]
-  name = "Momoko Aida"
-  slug = "momoko-aida"
-  instrument = "violin"
-  japanese = "会田桃子 Aida Momoko"
-[[credits]]
-  name = "Akira Tanidono"
-  slug = "akira-tanidono"
-  instrument = "trumpet"
-  japanese = "谷殿明良 Tanidono Akira"
-[[credits]]
-  name = "Toru Nishijima"
-  slug = "toru-nishijima"
-  instrument = "bass"
-  japanese = "西嶋徹 Nishijima Toru"
-[[credits]]
-  name = "Keita Okada"
-  slug = "keita-okada"
-  instrument = "drums, percussion"
-  japanese = "岡田ケイタ Okada Keita"
 +++
 
 An elegant package inside and out, brimming with atmosphere. The outer package is a slim booklet, containing photography, a poem, and an essay. The music itself is a modern take on classic jazz songs with Japanese words and flavor sprinkled throughout, featuring excellent arrangements by pianist Koichi Sato.
@@ -74,3 +36,18 @@ Emiko’s voice is front-and-center and spans the gamut from quick instrumentesq
 {{< youtube dfAxkOVFotc >}}
 
 -   [Excerpt from track #1: “The Days Of Wine And Roses”](/audio/#mix-1)
+
+
+## _Carta_ by Emiko Voice
+
+-   [Emiko Voice](/tags/emiko-voice/) - vocal
+-   [Koichi Sato](/tags/koichi-sato/) - piano, Rhodes
+-   [Akemi Ohta](/tags/akemi-ohta/) - flute
+-   [Momoko Aida](/tags/momoko-aida/) - violin
+-   [Akira Tanidono](/tags/akira-tanidono/) - trumpet
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Keita Okada](/tags/keita-okada/) - drums, percussion
+
+_Japanese names: エミコヴォイス Emiko Voice 佐藤浩一 Sato Koichi 太田朱美 Ohta Akemi 会田桃子 Aida Momoko 谷殿明良 Tanidono Akira 西嶋徹 Nishijima Toru 岡田ケイタ Okada Keita_
+
+Released in 2017 on Zipangu Label as ZIP-0058.

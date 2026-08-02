@@ -6,26 +6,10 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Ray Parker", "LaFrae Olivia Sci"]
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-trio-living-without-friday"
-releaseYear = 2001
-releaseLabel = "Atelier Sawano"
-releaseCode = "AS-016"
 [cover]
   image = "chihiroyamanaka-living-460.jpeg"
   alt = "Cover art of Living Without Friday by Chihiro Yamanaka Trio"
   relative = true
-[[credits]]
-  name = "Chihiro Yamanaka"
-  slug = "chihiro-yamanaka"
-  instrument = "piano"
-  japanese = "山中千尋 Yamanaka Chihiro"
-[[credits]]
-  name = "Ray Parker"
-  slug = "ray-parker"
-  instrument = "bass"
-[[credits]]
-  name = "LaFrae Olivia Sci"
-  slug = "lafrae-olivia-sci"
-  instrument = "drums"
 +++
 
 Jazz pianist Chihiro Yamanaka’s debut album _Living Without Friday_ turns 20 years old today! Released modestly on October 5, 2001, this album kicked off an impressive run of releases, setting the stage with memorable originals and reinvented standards while introducing new listeners to her amazing technique and creativity.
@@ -54,3 +38,14 @@ This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, des
 {{< youtube ittfMkakJCo >}}
 
 -   [Excerpt from track #7: “Balkan Tale”](/audio/#mix-6)
+
+
+## _Living Without Friday_ by Chihiro Yamanaka Trio
+
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Ray Parker](/tags/ray-parker/) - bass
+-   [LaFrae Olivia Sci](/tags/lafrae-olivia-sci/) - drums
+
+_Japanese names: 山中千尋 Yamanaka Chihiro_
+
+Released in 2001 on Atelier Sawano as AS-016.

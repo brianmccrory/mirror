@@ -6,31 +6,10 @@ tags = ["Nobie", "ノビー", "Lionel Loueke", "Toninho Horta", "Takayoshi Baba"
 categories = ["albums"]
 draft = false
 slug = "nobie-benin-rio-tokyo"
-releaseYear = 2018
-releaseLabel = "Dear Heart"
-releaseCode = "DBCW-3333"
 [cover]
   image = "nobie-benin-460.jpeg"
   alt = "Cover art of Bénin Rio Tokyo by Nobie"
   relative = true
-[[credits]]
-  name = "Nobie"
-  slug = "nobie"
-  instrument = "vocal"
-  japanese = "ノビー Nobie"
-[[credits]]
-  name = "Lionel Loueke"
-  slug = "lionel-loueke"
-  instrument = "guitar, vocals (#1-4)"
-[[credits]]
-  name = "Toninho Horta"
-  slug = "toninho-horta"
-  instrument = "guitar, vocals (#5-6)"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar (#8)"
-  japanese = "馬場孝喜 Baba Takayoshi"
 +++
 
 On _Bénin Rio Tokyo_, Japanese vocalist Nobie takes us on a musical journey spanning West Africa, Brazil, and Tokyo with sparkling duo collaborations. This music is catchy and deep, with layers of voice and guitar infused with a spirit of love, respect, and masterful finesse. With an ideal selection of musical partners and songs, Nobie’s rhythmically thrilling and lush voice cascades through the music like water over rocks, beautifully soft and dynamic.
@@ -61,3 +40,15 @@ On the Tokyo section, Nobie performs an impressive acapella version of Dave Brub
 {{< youtube oC0JKyAlfHI >}}
 
 -   [Excerpt from track #1: “Karibu”](/audio/#mix-4)
+
+
+## _Bénin Rio Tokyo_ by Nobie
+
+-   [Nobie](/tags/nobie/) - vocal
+-   [Lionel Loueke](/tags/lionel-loueke/) - guitar, vocals (#1-4)
+-   [Toninho Horta](/tags/toninho-horta/) - guitar, vocals (#5-6)
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar (#8)
+
+_Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi_
+
+Released in 2018 on Dear Heart as DBCW-3333.

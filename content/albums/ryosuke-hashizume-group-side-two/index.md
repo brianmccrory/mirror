@@ -6,39 +6,11 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-side-two"
-releaseYear = 2014
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS-1410"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryo-hashizume-side-two-460.jpeg"
   alt = "Cover art of Side Two by Ryosuke Hashizume Group"
   relative = true
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor sax, loops"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums, percussion"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Saxophonist and composer Ryosuke Hashizume has released six albums with the Ryosuke Hashizume Group over nearly two decades. These albums feature Hashizume’s uniquely original compositions played by his long-running group. This group has mainly been a quintet (of sax, guitar, piano, bass, and drums) with many of the same members present throughout the years.
@@ -120,3 +92,16 @@ Also, the sound of each instrument rings with a tone and texture that seems to h
 -   [Audio for Ryosuke Hashizume Group’s “The Last Day of Summer”](https://soundcloud.com/hashizume-ryosuke/the-last-day-of-summer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 -   [Excerpt from track #3: “Slumber”](/audio/#mix-12)
+
+
+## _Side Two_ by Ryosuke Hashizume Group
+
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
+
+_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
+
+Released in 2014 on Apollo Sounds as APLS-1410.

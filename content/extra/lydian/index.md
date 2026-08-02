@@ -7,14 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "lydian"
-clubName = "Lydian"
-clubUrl = "http://jazzlydian.com/"
-clubCity = "Tokyo"
-clubStation1 = "Ogawamachi"
-clubStation2 = "Awajicho"
-clubMap = "https://maps.app.goo.gl/M2WPY32A5h91Yfvg6"
-clubStatus = "closed"
-issue = 214
 [cover]
   image = "left-right-crop-2048.jpeg"
   caption = "The Nami Kano Quartet at Lydian in 2017"
@@ -54,3 +46,11 @@ As for the mysterious-sounding name Lydian, jazz musicians will likely recognize
 -   [Archived website snapshots](https://web.archive.org/web/20220525202735/http://jazzlydian.com/index.html)
 
 -   [Small collection of live performance videos](https://www.youtube.com/@xifangtaiwan/videos)
+
+
+## Information
+
+-   [Lydian’s website](http://jazzlydian.com/)
+-   [Located near Ogawamachi and Awajicho stations in Tokyo, Japan](https://maps.app.goo.gl/M2WPY32A5h91Yfvg6)
+
+_Note: Lydian has permanently closed._

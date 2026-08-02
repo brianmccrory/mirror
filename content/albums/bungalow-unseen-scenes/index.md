@@ -6,32 +6,10 @@ tags = ["Mike Rivett", "Koichi Sato", "佐藤浩一", "Hiroshi Ikejiri", "池尻
 categories = ["albums"]
 draft = false
 slug = "bungalow-unseen-scenes"
-releaseYear = 2015
-releaseLabel = "Studio Songs"
-releaseCode = "YZSO-10057"
 [cover]
   image = "bungalow-unseen-460.jpeg"
   alt = "Cover art of Unseen Scenes by Bungalow"
   relative = true
-[[credits]]
-  name = "Mike Rivett"
-  slug = "mike-rivett"
-  instrument = "tenor sax, electronics"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums, tabla"
-  japanese = "大村亘 Omura Ko"
 +++
 
 Like explorers on a caravan, Bungalow produces imaginative music on their third album _Unseen Scenes_ from 2015, carving their unique path through new jazz and rhythms.
@@ -54,3 +32,15 @@ Notable tracks include the modern “Gauge”, the European fusion “Astir”, 
 ## Audio and Video
 
 -   [Excerpt from track #1: “ダンシング・エレファント (_Dancing Elephant_)”](/audio/#mix-8)
+
+
+## _Unseen Scenes_ by Bungalow
+
+-   [Mike Rivett](/tags/mike-rivett/) - tenor sax, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla
+
+_Japanese names: 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
+
+Released in 2015 on Studio Songs as YZSO-10057.

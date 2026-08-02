@@ -6,26 +6,10 @@ tags = ["Hakuei Kim", "ハクエイ・キム", "Ben “Donny” Waples", "Dave G
 categories = ["albums"]
 draft = false
 slug = "hakuei-kim-trio-open-the-green-door"
-releaseYear = 2005
-releaseLabel = "DIW Records"
-releaseCode = "DIW-631"
 [cover]
   image = "hakueikim-open-460.jpeg"
   alt = "Cover art of Open the Green Door by Hakuei Kim Trio"
   relative = true
-[[credits]]
-  name = "Hakuei Kim"
-  slug = "hakuei-kim"
-  instrument = "piano"
-  japanese = "ハクエイ・キム Kim Hakuei"
-[[credits]]
-  name = "Ben “Donny” Waples"
-  slug = "ben-donny-waples"
-  instrument = "double bass"
-[[credits]]
-  name = "Dave Goodman"
-  slug = "dave-goodman"
-  instrument = "drums and percussion"
 +++
 
 Modern to the point of futuristic, _Open the Green Door_ features an exciting jazz piano trio with the pianist Hakuei Kim leading a stellar Australian rhythm section of Ben “Donny” Waples on bass and Dave Goodman on drums.
@@ -50,3 +34,14 @@ Right from the opening track “Offer Refused”, Kim’s impressive hummingbird
 {{< youtube 82QZVEGryso >}}
 
 -   [Excerpt from track #1: “OFFER REFUSED”](/audio/#mix-3)
+
+
+## _Open the Green Door_ by Hakuei Kim Trio
+
+-   [Hakuei Kim](/tags/hakuei-kim/) - piano
+-   [Ben “Donny” Waples](/tags/ben-donny-waples/) - double bass
+-   [Dave Goodman](/tags/dave-goodman/) - drums and percussion
+
+_Japanese names: ハクエイ・キム Kim Hakuei_
+
+Released in 2005 on DIW Records as DIW-631.

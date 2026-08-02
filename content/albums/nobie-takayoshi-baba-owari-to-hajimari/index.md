@@ -6,44 +6,11 @@ tags = ["Nobie", "ノビー", "Takayoshi Baba", "馬場孝喜", "Nobumasa Tanaka
 categories = ["albums"]
 draft = false
 slug = "nobie-takayoshi-baba-owari-to-hajimari"
-releaseYear = 2023
-releaseLabel = "F.S.L."
-releaseCode = "FSCJ-0024"
 related = ["nobie-primary", "trigraph-fever", "les-komatis-les-komatis", "nobie-benin-rio-tokyo", "duo-tremolo-resonance"]
 [cover]
   image = "nobie-takayoshi-baba-owari-to-hajimari-460.jpeg"
   alt = "Cover art of Owari to Hajimari by Nobie & Takayoshi Baba"
   relative = true
-[[credits]]
-  name = "Nobie"
-  slug = "nobie"
-  instrument = "vocal/percussion/chorus"
-  japanese = "ノビー Nobie"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar/chorus"
-  japanese = "馬場孝喜 Baba Takayoshi"
-[[credits]]
-  name = "Nobumasa Tanaka"
-  slug = "nobumasa-tanaka"
-  instrument = "piano (#5)"
-  japanese = "田中信正 Tanaka Nobumasa"
-[[credits]]
-  name = "Mayuko Katakura"
-  slug = "mayuko-katakura"
-  instrument = "piano (#4, 10)"
-  japanese = "片倉真由子 Katakura Mayuko"
-[[credits]]
-  name = "Kiichiro Komobuchi"
-  slug = "kiichiro-komobuchi"
-  instrument = "bass/chorus (#2, 4, 10)"
-  japanese = "コモブチキイチロウ Komobuchi Kiichiro"
-[[credits]]
-  name = "Yoichi Okabe"
-  slug = "yoichi-okabe"
-  instrument = "percussion (#2, 4, 10)"
-  japanese = "岡部洋一 Okabe Yoichi"
 +++
 
 _Owari to Hajimari_ (_The End and the Beginning_) is a new album from the duo of vocalist Nobie and guitarist Takayoshi Baba. Released in 2023, this disc features forty minutes of music written and adopted from the duo’s repertoire and experience playing jazz, pop, and Brazilian music together.
@@ -146,3 +113,17 @@ Note 2: Ototoy “Junko Onishi releases her long-awaited first collection of bal
 ## Links
 
 -   [Owari to Hajimari website](https://www.nobiebaba.com/)
+
+
+## _Owari to Hajimari_ by Nobie &amp; Takayoshi Baba
+
+-   [Nobie](/tags/nobie/) - vocal/percussion/chorus
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar/chorus
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano (#5)
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano (#4, 10)
+-   [Kiichiro Komobuchi](/tags/kiichiro-komobuchi/) - bass/chorus (#2, 4, 10)
+-   [Yoichi Okabe](/tags/yoichi-okabe/) - percussion (#2, 4, 10)
+
+_Japanese names: ノビー Nobie 馬場孝喜 Baba Takayoshi 田中信正 Tanaka Nobumasa 片倉真由子 Katakura Mayuko コモブチキイチロウ Komobuchi Kiichiro 岡部洋一 Okabe Yoichi_
+
+Released in 2023 on F.S.L. as FSCJ-0024.

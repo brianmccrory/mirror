@@ -7,12 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "klavier"
-clubName = "Klavier"
-clubUrl = "https://www.klavier-jazz.com/"
-clubCity = "Tokyo"
-clubStation1 = "Asagaya"
-clubMap = "https://maps.app.goo.gl/AjEXCmwfdq4paog78"
-issue = 361
 [cover]
   image = "IMG_20251011_205209873-1200.jpeg"
   caption = "Stage area and portrait of Ron Carter painted by Klavier’s Chika Toyota (October 2025)"
@@ -59,3 +53,9 @@ Best of luck to the new Klavier and long live Asagaya jazz!
 {{< figure src="IMG_20251011_190259214_HDR-1200.jpeg" caption="<span class=\"figure-number\">Figure 10: </span>Outside Klavier: since 1982 BAR jazz bar KLAVIER" link="IMG_20251011_190259214_HDR-1200.jpeg" >}}
 
 {{< figure src="IMG_20251011_190526171-1200.jpeg" caption="<span class=\"figure-number\">Figure 11: </span>Sign at inside door" link="IMG_20251011_190526171-1200.jpeg" >}}
+
+
+## Information
+
+-   [Klavier’s website](https://www.klavier-jazz.com/)
+-   [Located near Asagaya station in Tokyo, Japan](https://maps.app.goo.gl/AjEXCmwfdq4paog78)

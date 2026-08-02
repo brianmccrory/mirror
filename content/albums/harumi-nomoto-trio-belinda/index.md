@@ -6,28 +6,10 @@ tags = ["Harumi Nomoto", "野本晴美", "Noboru Ando", "安東昇", "Daisuke Yo
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-belinda"
-releaseYear = 2007
-releaseLabel = "Anturtle Tune/BQ Records"
-releaseCode = "BQR-2040"
 [cover]
   image = "haruminomoto-belinda-460.jpeg"
   alt = "Cover art of Belinda by Harumi Nomoto Trio"
   relative = true
-[[credits]]
-  name = "Harumi Nomoto"
-  slug = "harumi-nomoto"
-  instrument = "piano, Fender Rhodes electric piano"
-  japanese = "野本晴美 Nomoto Harumi"
-[[credits]]
-  name = "Noboru Ando"
-  slug = "noboru-ando"
-  instrument = "bass"
-  japanese = "安東昇 Ando Noboru"
-[[credits]]
-  name = "Daisuke Yoshioka"
-  slug = "daisuke-yoshioka"
-  instrument = "drums"
-  japanese = "吉岡大輔 Yoshioka Daisuke"
 +++
 
 Among the modern J-Jazz piano trio mainstays in the collection, Harumi Nomoto Trio’s _Belinda_ is a favorite album to return to for catchy cool original vibes with laid-back warmth. With both loose jams and well-crafted jazz compositions, the album ebbs and flows with mid-tempo grooves and contemporary swinging.
@@ -68,3 +50,14 @@ As the moods flow, pianist Harumi Nomoto alternates on acoustic piano and the wa
 {{< youtube fRSPPoJzMrw >}}
 
 -   [Excerpt from track #2: “7up”](/audio/#mix-6)
+
+
+## _Belinda_ by Harumi Nomoto Trio
+
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano, Fender Rhodes electric piano
+-   [Noboru Ando](/tags/noboru-ando/) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
+
+_Japanese names: 野本晴美 Nomoto Harumi 安東昇 Ando Noboru 吉岡大輔 Yoshioka Daisuke_
+
+Released in 2007 on Anturtle Tune/BQ Records as BQR-2040.

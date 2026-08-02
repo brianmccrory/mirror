@@ -6,48 +6,10 @@ tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Nishiguchi", "西口明宏"
 categories = ["albums"]
 draft = false
 slug = "keisuke-nakamura-humadope"
-releaseYear = 2014
-releaseLabel = "M581 Records"
-releaseCode = "SDR1401"
 [cover]
   image = "keisukenakamura-humadope-460.jpeg"
   alt = "Cover art of Humadope by Keisuke Nakamura"
   relative = true
-[[credits]]
-  name = "Keisuke Nakamura"
-  slug = "keisuke-nakamura"
-  instrument = "trumpet, flugelhorn"
-  japanese = "中村恵介 Nakamura Keisuke"
-[[credits]]
-  name = "Akihiro Nishiguchi"
-  slug = "akihiro-nishiguchi"
-  instrument = "tenor sax, soprano sax"
-  japanese = "西口明宏 Nishiguchi Akihiro"
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Yasushi Fukumori"
-  slug = "yasushi-fukumori"
-  instrument = "drums"
-  japanese = "福森康 Fukumori Yasushi"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "Rhodes (tr. #5, 6)"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Shun Ishiwaka"
-  slug = "shun-ishiwaka"
-  instrument = "drums (tr. #1)"
-  japanese = "石若駿 Ishiwaka Shun"
 +++
 
 Trumpeter Keisuke Nakamura leads a group of contemporary jazz musicians called _Humadope_, a post-bop Jazz Messengers-styled quintet with a trumpet-sax front line and piano-bass-drums rhythm section. The name itself (a mix of human/mad/dope) suggests a dangerous edge on blisteringly fast tunes as the skilled soloists riotously burn through the changes. Yet, the group handily balances this attitude with a warm sensitivity played on soulful ballads and cooler numbers.
@@ -68,3 +30,18 @@ This album consists of well-written original compositions with a few covers thro
 {{< youtube T5bm8CoSgVY >}}
 
 -   [Excerpt from track #1: “SPEED HARASSMENT”](/audio/#mix-1)
+
+
+## _Humadope_ by Keisuke Nakamura
+
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, soprano sax
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - Rhodes (tr. #5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums (tr. #1)
+
+_Japanese names: 中村恵介 Nakamura Keisuke 西口明宏 Nishiguchi Akihiro 松本茜 Matsumoto Akane 金森もとい Kanamori Motoi 福森康 Fukumori Yasushi 石田衛 Ishida Mamoru 石若駿 Ishiwaka Shun_
+
+Released in 2014 on M581 Records as SDR1401.

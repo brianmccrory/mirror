@@ -6,28 +6,10 @@ tags = ["Sayaka Kishi", "岸淑香", "Ryoji Orihara", "織原良次", "Akira Yam
 categories = ["albums"]
 draft = false
 slug = "sayaka-kishi-trio-life-is-too-great"
-releaseYear = 2019
-releaseLabel = "T-TOC Records"
-releaseCode = "TTOC-0034"
 [cover]
   image = "sayakakishi-lifeis-460.jpeg"
   alt = "Cover art of Life Is Too Great by Sayaka Kishi Trio"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano, keyboard, keyharmonica, percussion"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
 +++
 
 Expressing an exuberance for life with an original jazz spirit, _Life Is Too Great_ from the Sayaka Kishi Trio is a vivid recording, full of variety and infused with the pure music spirit of Sayaka Kishi.
@@ -58,3 +40,14 @@ On _Life Is Too Great_, Kishi’s tunes and performances are great and full of l
 {{< youtube UQTR60p8qyE >}}
 
 -   [Excerpt from track #1: “DON PAPA”](/audio/#mix-5)
+
+
+## _Life Is Too Great_ by Sayaka Kishi Trio
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, keyboard, keyharmonica, percussion
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+
+_Japanese names: 岸淑香 Kishi Sayaka 織原良次 Orihara Ryoji 山田玲 Yamada Akira_
+
+Released in 2019 on T-TOC Records as TTOC-0034.

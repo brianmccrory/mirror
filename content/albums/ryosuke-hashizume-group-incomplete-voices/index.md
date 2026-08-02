@@ -6,38 +6,10 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-incomplete-voices"
-releaseYear = 2017
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS1704"
 [cover]
   image = "ryosukehashizume-incompletevoices-460.jpeg"
   alt = "Cover art of Incomplete Voices by Ryosuke Hashizume Group"
   relative = true
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor, soprano saxophones"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums, percussion"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Incomplete Voices is the latest release from the Ryosuke Hashizume Group, released in 2017. As with prior albums, this is a wonderful collection of carefully conceived modern jazz compositions showcasing the saxophonist’s concepts and the tight-knit group dynamics. Close attention is paid to the harmonic and rhythmic layers in the music with excitement built on climactic resolutions and striking moods.
@@ -60,3 +32,16 @@ High-caliber musicianship and exquisite songcraft make this an absorbingly satis
 {{< youtube n4N_Sa0tyeM >}}
 
 -   [Excerpt from track #1: “Still”](/audio/#mix-1)
+
+
+## _Incomplete Voices_ by Ryosuke Hashizume Group
+
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor, soprano saxophones
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
+
+_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
+
+Released in 2017 on Apollo Sounds as APLS1704.

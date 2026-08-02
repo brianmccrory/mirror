@@ -7,7 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "first-timers-guide-to-live-jazz-in-japan"
-issue = 331
 [cover]
   image = "DSC_9546-1200.jpeg"
   caption = "Japanese figures in kimono look out from a bridge"

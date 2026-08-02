@@ -6,44 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Nor
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-dot"
-releaseYear = 2023
-releaseLabel = "Meantone Records"
-releaseCode = "MT-12"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "hitomi-nishiyama-dot-460.jpeg"
   alt = "Cover art of Dot by Hitomi Nishiyama"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Toru Nishijima"
-  slug = "toru-nishijima"
-  instrument = "bass"
-  japanese = "西嶋徹 Nishijima Toru"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
-[[credits]]
-  name = "Takanori Suzuki"
-  slug = "takanori-suzuki"
-  instrument = "clarinet (#2, 3, 5, 6, 9)"
-  japanese = "鈴木孝紀 Suzuki Takanori"
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor saxophone (#3, 5, 6, 9), flute (#2)"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "maiko"
-  slug = "maiko"
-  instrument = "violin (#2, 3, 5, 6, 9)"
-  japanese = "マイコ maiko"
 +++
 
 _Dot_ is the 2023 album by pianist/composer Hitomi Nishiyama. Until this week’s release of _Echo_, _Dot_ was her latest album; _Echo_ is _Dot_ ’s twin, recorded with the same members and during the same sessions.
@@ -90,3 +57,17 @@ There are also the dot-like sequences of melody in some of the songs. And, there
 {{< youtube jqCsbpZRdOg >}}
 
 -   [Excerpt from track #3: “ザ・ライダー (_The Rider_)”](/audio/#mix-11)
+
+
+## _Dot_ by Hitomi Nishiyama
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (#2, 3, 5, 6, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone (#3, 5, 6, 9), flute (#2)
+-   [maiko](/tags/maiko/) - violin (#2, 3, 5, 6, 9)
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
+
+Released in 2023 on Meantone Records as MT-12.

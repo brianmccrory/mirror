@@ -6,34 +6,11 @@ tags = ["Yuta Ikedo", "池戸祐太", "Ko Omura", "大村亘", "Keisuke Furuki",
 categories = ["albums"]
 draft = false
 slug = "fe-live-at-virtuoso"
-releaseYear = 2021
-releaseLabel = "Virtuoso"
-releaseCode = "VTS-006"
 related = ["bungalow-metropolitan-oasis", "ko-omura-introspect", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages", "polyglot-talk-vol-1", "efreydut-fairway"]
 [cover]
   image = "fe-live-at-virtuoso-460.jpeg"
   alt = "Cover art of Live at Virtuoso by Fe"
   relative = true
-[[credits]]
-  name = "Yuta Ikedo"
-  slug = "yuta-ikedo"
-  instrument = "guitar"
-  japanese = "池戸祐太 Ikedo Yuta"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Shinobu Ishizaki"
-  slug = "shinobu-ishizaki"
-  instrument = "saxophone"
-  japanese = "石崎忍 Ishizaki Shinobu"
 +++
 
 The 2021 album _Live at Virtuoso_ by the quartet Fe was released by the jazz club Virtuoso in the nightlife district of Akasaka in Tokyo, Japan. Virtuoso is a great name for a music venue. Aside from the word being a term for master musicians, fans of jazz guitar will immediately recognize the reference to jazz guitarist Joe Pass’s landmark series of _Virtuoso_ albums. Naturally, Virtuoso features jazz guitar and guitar bands on many nights. The jazz club also occasionally releases albums such as this one on its in-house recording label.
@@ -70,3 +47,15 @@ The songs on _Live at Asakusa_ are original compositions by co-leaders Ikedo and
 {{< youtube HLdibCEDBqw >}}
 
 -   [Excerpt from track #3: “Sheepwash”](/audio/#mix-13)
+
+
+## _Live at Virtuoso_ by Fe
+
+-   [Yuta Ikedo](/tags/yuta-ikedo/) - guitar
+-   [Ko Omura](/tags/ko-omura/) - drums
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - saxophone
+
+_Japanese names: 池戸祐太 Ikedo Yuta 大村亘 Omura Ko 古木佳祐 Furuki Keisuke 石崎忍 Ishizaki Shinobu_
+
+Released in 2021 on Virtuoso as VTS-006.

@@ -6,38 +6,10 @@ tags = ["Hakuei Kim", "ハクエイ・キム", "Koichi Sato", "佐藤浩一", "M
 categories = ["albums"]
 draft = false
 slug = "ko-omura-introspect"
-releaseYear = 2011
-releaseLabel = "Daiki Musica"
-releaseCode = "DMCD-12"
 [cover]
   image = "koomura-introspect-460.jpeg"
   alt = "Cover art of Introspect by Ko Omura"
   relative = true
-[[credits]]
-  name = "Hakuei Kim"
-  slug = "hakuei-kim"
-  instrument = "piano"
-  japanese = "ハクエイ・キム Kim Hakuei"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
 +++
 
 Drummer Ko Omura leads the listener on his voyage of introspection on his debut album _Introspect_, portraying the colors and maps of his musical mind.
@@ -64,3 +36,16 @@ A creative aspect used on this recording is the collaboration of three pianists 
 {{< youtube b1CBzM7vJsM >}}
 
 -   [Excerpt from track #5: “Slow Highway”](/audio/#mix-3)
+
+
+## _Introspect_ by Ko Omura
+
+-   [Hakuei Kim](/tags/hakuei-kim/) - piano
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+
+_Japanese names: ハクエイ・キム Kim Hakuei 佐藤浩一 Sato Koichi 石田衛 Ishida Mamoru 安田幸司 Yasuda Koji 大村亘 Omura Ko_
+
+Released in 2011 on Daiki Musica as DMCD-12.

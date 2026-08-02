@@ -6,44 +6,11 @@ tags = ["Naoko Tanaka", "田中菜緒子", "Yoshiro Okazaki", "岡崎好朗", "T
 categories = ["albums"]
 draft = false
 slug = "naoko-tanaka-appreciation"
-releaseYear = 2022
-releaseLabel = "Naop Record"
-releaseCode = "NT-0405"
 related = ["protean-protean", "naoko-tanaka-trio-memories", "daiki-yasukagawa-trio-trios-ii", "tcq-memories-of-t", "hiro-kimura-quintet-folds"]
 [cover]
   image = "naoko-tanaka-appreciation-460.jpeg"
   alt = "Cover art of Appreciation by Naoko Tanaka"
   relative = true
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Yoshiro Okazaki"
-  slug = "yoshiro-okazaki"
-  instrument = "trumpet (#1, 4)"
-  japanese = "岡崎好朗 Okazaki Yoshiro"
-[[credits]]
-  name = "Takayuki Sato"
-  slug = "takayuki-sato"
-  instrument = "alto sax (#1, 6)"
-  japanese = "佐藤敬幸 Sato Takayuki"
-[[credits]]
-  name = "Mabumi Yamaguchi"
-  slug = "mabumi-yamaguchi"
-  instrument = "tenor sax (#4)"
-  japanese = "山口真文 Yamaguchi Mabumi"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
 +++
 
 _Appreciation_ is pianist and composer Naoko Tanaka’s 2022 jazz release, her latest in a series of exciting new albums from young Japanese musicians. Several of her previous leader albums (_Home_, _I Fall In Love Too Easily_, _Memories_) featured her piano trio as a trio, which _Appreciation_ also does. But this release also brings in the expert sounds of horn players Yoshiro Okazaki (trumpet), Takayuki Sato (alto sax), and Mabumi Yamaguchi (tenor sax) for three songs. In the rhythm section with the sparkling star are her regular trio members Koji Yasuda on bass and Masanori Ando on drums.
@@ -127,3 +94,17 @@ I performed Kosaku Yamada’s “Konomichi” as a solo piece. This song has had
 {{< youtube FkBmAqbMcPk >}}
 
 -   [Excerpt from track #3: “M.T”](/audio/#mix-10)
+
+
+## _Appreciation_ by Naoko Tanaka
+
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet (#1, 4)
+-   [Takayuki Sato](/tags/takayuki-sato/) - alto sax (#1, 6)
+-   [Mabumi Yamaguchi](/tags/mabumi-yamaguchi/) - tenor sax (#4)
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+
+_Japanese names: 田中菜緒子 Tanaka Naoko 岡崎好朗 Okazaki Yoshiro 佐藤敬幸 Sato Takayuki 山口真文 Yamaguchi Mabumi 安田幸司 Yasuda Koji 安藤正則 Ando Masanori_
+
+Released in 2022 on Naop Record as NT-0405.

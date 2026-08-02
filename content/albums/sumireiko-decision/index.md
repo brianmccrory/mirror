@@ -6,24 +6,11 @@ tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ
 categories = ["albums"]
 draft = false
 slug = "sumireiko-decision"
-releaseYear = 2020
-releaseLabel = "Sumireiko"
-releaseCode = "Decision"
 related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "magnolia-el-viento-y-las-flores", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"]
 [cover]
   image = "sumireiko-decision-460.jpeg"
   alt = "Cover art of Decision by Sumireiko"
   relative = true
-[[credits]]
-  name = "Reiko Yamamoto"
-  slug = "reiko-yamamoto"
-  instrument = "vibraphone"
-  japanese = "山本玲子 Yamamoto Reiko"
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano"
-  japanese = "栗林すみれ Kuribayashi Sumire"
 +++
 
 _Decision_ is a 2020 album from the duo of vibraphonist Reiko Yamamoto and pianist Sumire Kuribayashi. This is their second album together as the duo “sumireiko” and follows their 2013 debut release _Blue Bird_. The two musicians have been playing together for fifteen years since meeting and forming their group, and in that time have developed a deep friendship that permeates their music with this intuitive emotional bond. In fact, the name _sumireiko_ was made by overlapping their first names, Sumire and Reiko, to create the name of their musical identity. Their first names, Sumire and Reiko, are even combined and overlapped to form their musical identity “sumireiko” (すみれ + れいこ = すみれいこ), another indication of their close musical affinity built on trust and friendship.
@@ -60,3 +47,13 @@ The title track #6 “Decision” is a multi-part suite whose sections introduce
 -   [Sumireiko: _Decision_ (six-song digital album version on Bandcamp)](https://sumireiko.bandcamp.com/album/decision)
 
 -   [Excerpt from track #1: “Lull In The Rain”](/audio/#mix-14)
+
+
+## _Decision_ by Sumireiko
+
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+
+_Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire_
+
+Released in 2020 on Sumireiko as Decision.

@@ -6,34 +6,11 @@ tags = ["Yuji Ito", "伊藤勇司", "Koichi Hirata", "平田晃一", "Kosuke Min
 categories = ["albums"]
 draft = false
 slug = "yuji-ito-koichi-hirata-duo-two-for-the-road"
-releaseYear = 2024
-releaseLabel = "NONET"
-releaseCode = "NONET-3"
 related = ["fumika-asari-introducin", "hiro-kimura-quintet-folds", "hiro-kimura-trees", "kohsuke-mine-quintet-major-to-minor", "miyuki-moriya-beyond-the-sea"]
 [cover]
   image = "yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg"
   alt = "Cover art of Two for the Road by Yuji Ito & Koichi Hirata Duo"
   relative = true
-[[credits]]
-  name = "Yuji Ito"
-  slug = "yuji-ito"
-  instrument = "bass"
-  japanese = "伊藤勇司 Ito Yuji"
-[[credits]]
-  name = "Koichi Hirata"
-  slug = "koichi-hirata"
-  instrument = "guitar"
-  japanese = "平田晃一 Hirata Koichi"
-[[credits]]
-  name = "Kosuke Mine"
-  slug = "kosuke-mine"
-  instrument = "tenor sax (tracks #5, 9)"
-  japanese = "峰厚介 Mine Kosuke"
-[[credits]]
-  name = "Yusuke Yaginuma"
-  slug = "yusuke-yaginuma"
-  instrument = "drums (tracks #4, 5)"
-  japanese = "柳沼佑育 Yaginuma Yusuke"
 +++
 
 _Two for the Road_ is a 2024 album from bassist Yuji Ito and guitarist Koichi Hirata, working as a duo here on their first collaboration. Both musicians are young, still in their 20s and 30s, yet their style, vocabulary, and tone speak of a maturity born of attentive listening, devotion, and playing experience.
@@ -92,3 +69,15 @@ In general, there’s a happy, relaxed feel that runs through the tracks. Three 
 {{< youtube 3Og9kY3Fr88 >}}
 
 -   [Excerpt from track #4: “Full House”](/audio/#mix-13)
+
+
+## _Two for the Road_ by Yuji Ito &amp; Koichi Hirata Duo
+
+-   [Yuji Ito](/tags/yuji-ito/) - bass
+-   [Koichi Hirata](/tags/koichi-hirata/) - guitar
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (tracks #5, 9)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums (tracks #4, 5)
+
+_Japanese names: 伊藤勇司 Ito Yuji 平田晃一 Hirata Koichi 峰厚介 Mine Kosuke 柳沼佑育 Yaginuma Yusuke_
+
+Released in 2024 on NONET as NONET-3.

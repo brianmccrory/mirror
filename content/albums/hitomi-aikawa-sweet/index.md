@@ -6,39 +6,11 @@ tags = ["Hitomi Aikawa", "相川瞳", "Masaki Hayashi", "林正樹", "Hiroshi Su
 categories = ["albums"]
 draft = false
 slug = "hitomi-aikawa-sweet"
-releaseYear = 2018
-releaseLabel = "Hitomi Aikawa"
-releaseCode = "HICD-001"
 related = ["magnolia-el-viento-y-las-flores"]
 [cover]
   image = "hitomi-aikawa-sweet-460.jpeg"
   alt = "Cover art of Sweet by Hitomi Aikawa"
   relative = true
-[[credits]]
-  name = "Hitomi Aikawa"
-  slug = "hitomi-aikawa"
-  instrument = "percussion"
-  japanese = "相川瞳 Aikawa Hitomi"
-[[credits]]
-  name = "Masaki Hayashi"
-  slug = "masaki-hayashi"
-  instrument = "piano (#2, 11, 13, 14)"
-  japanese = "林正樹 Hayashi Masaki"
-[[credits]]
-  name = "Hiroshi Suzuki"
-  slug = "hiroshi-suzuki"
-  instrument = "soprano sax (#2, 14), tenor sax (#12), clarinet (#13)"
-  japanese = "鈴木広志 Suzuki Hiroshi"
-[[credits]]
-  name = "Megumi Hattori"
-  slug = "megumi-hattori"
-  instrument = "vibraphone (#4)"
-  japanese = "服部恵 Hattori Megumi"
-[[credits]]
-  name = "Eri Uenoyama"
-  slug = "eri-uenoyama"
-  instrument = "piano (#8, 9)"
-  japanese = "上野山英里 Uenoyama Eri"
 +++
 
 _Sweet_ is the title of percussionist Hitomi Aikawa’s debut album. It was recorded and released in Japan in 2018 and contains fourteen of her compositions. A multi-instrumentalist, Aikawa plays various instruments on the songs and is joined on many of them by special guests Masaki Hayashi and Eri Uenoyama on piano, Hiroshi Suzuki on woodwinds, and Megumi Hattori on vibraphone.
@@ -161,3 +133,16 @@ Hitomi Aikawa
 {{< youtube s4E7GWlQ4fU >}}
 
 -   [Excerpt from track #1: “砂 (_Sand_)”](/audio/#mix-14)
+
+
+## _Sweet_ by Hitomi Aikawa
+
+-   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
+-   [Masaki Hayashi](/tags/masaki-hayashi/) - piano (#2, 11, 13, 14)
+-   [Hiroshi Suzuki](/tags/hiroshi-suzuki/) - soprano sax (#2, 14), tenor sax (#12), clarinet (#13)
+-   [Megumi Hattori](/tags/megumi-hattori/) - vibraphone (#4)
+-   [Eri Uenoyama](/tags/eri-uenoyama/) - piano (#8, 9)
+
+_Japanese names: 相川瞳 Aikawa Hitomi 林正樹 Hayashi Masaki 鈴木広志 Suzuki Hiroshi 服部恵 Hattori Megumi 上野山英里 Uenoyama Eri_
+
+Released in 2018 on Hitomi Aikawa as HICD-001.

@@ -6,33 +6,10 @@ tags = ["Reiko Yamamoto", "山本玲子", "Sumire Kuribayashi", "栗林すみれ
 categories = ["albums"]
 draft = false
 slug = "reiko-yamamoto-square-pyramid"
-releaseYear = 2019
-releaseLabel = "Somethin’ Cool"
-releaseCode = "SCOL-1032"
 [cover]
   image = "reiko-yamamoto-square-pyramid-460.jpeg"
   alt = "Cover art of The Square Pyramid by Reiko Yamamoto"
   relative = true
-[[credits]]
-  name = "Reiko Yamamoto"
-  slug = "reiko-yamamoto"
-  instrument = "vibraphone"
-  japanese = "山本玲子 Yamamoto Reiko"
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano"
-  japanese = "栗林すみれ Kuribayashi Sumire"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Hiro Kimura"
-  slug = "hiro-kimura"
-  instrument = "drums"
-  japanese = "木村紘 Kimura Hiro"
 +++
 
 Reiko Yamamoto’s _The Square Pyramid_ is a jazz record built around her vivid and precise vibraphone sound. With excitement heightened by the targeted force and agility of four mallets striking and bouncing on the metal bars, the crystal clear and warmly sustained sounds of Yamamoto’s instrument pull the listener into the heart of the colorful structure through her compelling compositions.
@@ -129,3 +106,15 @@ Reiko Yamamoto has released two albums with “Reiko Yamamoto Tempus Fugit” (T
 {{< youtube lUyzdNa9SC8 >}}
 
 -   [Excerpt from track #1: “Vibrant Line”](/audio/#mix-11)
+
+
+## _The Square Pyramid_ by Reiko Yamamoto
+
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
+
+_Japanese names: 山本玲子 Yamamoto Reiko 栗林すみれ Kuribayashi Sumire 古木佳祐 Furuki Keisuke 木村紘 Kimura Hiro_
+
+Released in 2019 on Somethin’ Cool as SCOL-1032.

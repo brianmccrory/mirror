@@ -6,42 +6,10 @@ tags = ["Sanae Ishikawa", "石川早苗", "Shigeo Fukuda", "福田重男", "Shin
 categories = ["albums"]
 draft = false
 slug = "sanae-ishikawa-feel-like-makin-love"
-releaseYear = 2007
-releaseLabel = "Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow"
-releaseCode = "MTCJ-1098"
 [cover]
   image = "sanaeishikawa-feellike-460.jpeg"
   alt = "Cover art of Feel Like Makin’ Love by Sanae Ishikawa"
   relative = true
-[[credits]]
-  name = "Sanae Ishikawa"
-  slug = "sanae-ishikawa"
-  instrument = "vocal"
-  japanese = "石川早苗 Ishikawa Sanae"
-[[credits]]
-  name = "Shigeo Fukuda"
-  slug = "shigeo-fukuda"
-  instrument = "piano, electric piano"
-  japanese = "福田重男 Fukuda Shigeo"
-[[credits]]
-  name = "Shinji Hashimoto"
-  slug = "shinji-hashimoto"
-  instrument = "guitar"
-  japanese = "橋本信二 Hashimoto Shinji"
-[[credits]]
-  name = "Daisuke Toi"
-  slug = "daisuke-toi"
-  instrument = "bass"
-  japanese = "トオイダイスケ Toi Daisuke"
-[[credits]]
-  name = "Satoshi Kosugi"
-  slug = "satoshi-kosugi"
-  instrument = "bass"
-  japanese = "小杉敏 Kosugi Satoshi"
-[[credits]]
-  name = "Cecil Monroe"
-  slug = "cecil-monroe"
-  instrument = "drums"
 +++
 
 Tokyo-based jazz singer Sanae Ishikawa sings from her heart, presenting her full, confident voice on choice jazz standards with her 2007 debut _Feel Like Makin’ Love_.
@@ -86,3 +54,17 @@ This 12-track album is well-rounded and arranged like a live performance, with f
 {{< youtube bYr5CPRr91Y >}}
 
 -   [Excerpt from track #7: “チーク・トゥ・チーク (_Cheek To Cheek_)”](/audio/#mix-3)
+
+
+## _Feel Like Makin’ Love_ by Sanae Ishikawa
+
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano, electric piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi/) - bass
+-   [Satoshi Kosugi](/tags/satoshi-kosugi/) - bass
+-   [Cecil Monroe](/tags/cecil-monroe/) - drums
+
+_Japanese names: 石川早苗 Ishikawa Sanae 福田重男 Fukuda Shigeo 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke 小杉敏 Kosugi Satoshi_
+
+Released in 2007 on Polystar Jazz Library (PJL) / JAZZBANK Cat’s Meow as MTCJ-1098.

@@ -6,43 +6,10 @@ tags = ["Fumie Chiba", "千葉史絵", "Mitsuru Tanaka", "田中充", "Shunosuke
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-beautiful-days"
-releaseYear = 2017
-releaseLabel = "USAGI Records"
-releaseCode = "UR-002"
 [cover]
   image = "fumiechiba-beautifuldays-460.jpeg"
   alt = "Cover art of Beautiful Days by Fumie Chiba"
   relative = true
-[[credits]]
-  name = "Fumie Chiba"
-  slug = "fumie-chiba"
-  instrument = "piano"
-  japanese = "千葉史絵 Chiba Fumie"
-[[credits]]
-  name = "Mitsuru Tanaka"
-  slug = "mitsuru-tanaka"
-  instrument = "trumpet, flugelhorn"
-  japanese = "田中充 Tanaka Mitsuru"
-[[credits]]
-  name = "Shunosuke Ishikawa"
-  slug = "shunosuke-ishikawa"
-  instrument = "tenor sax, soprano sax, flute"
-  japanese = "石川周之介 Ishikawa Shunosuke"
-[[credits]]
-  name = "Aya Kurosawa"
-  slug = "aya-kurosawa"
-  instrument = "voice"
-  japanese = "黒沢綾 Kurosawa Aya"
-[[credits]]
-  name = "Koji Tetsui"
-  slug = "koji-tetsui"
-  instrument = "bass"
-  japanese = "鉄井孝司 Tetsui Koji"
-[[credits]]
-  name = "Kaoru Suzuki"
-  slug = "kaoru-suzuki"
-  instrument = "drums"
-  japanese = "鈴木郁 Suzuki Kaoru"
 +++
 
 On her fourth and latest album _Beautiful Days_ (2017), pianist Fumie Chiba records eleven new compositions with a jazz sextet, a piano trio plus trumpet, sax, and vocals. While her first two albums _Tip of Dream_ (2009) and _Echoes_ (2013) featured her jazz trio, the expanded group on her previous _Roguequeue_ (2015) and on this album well suits the textures she strives for. Freshness and energy flow through the rich harmonies and interplay with attention paid to the compositional detail throughout the music.
@@ -75,3 +42,17 @@ Most songs feature the full group, with songs for two piano trio and one solo pi
 {{< youtube GnFuQOSKzUo >}}
 
 -   [Excerpt from track #8: “Water Drops”](/audio/#mix-7)
+
+
+## _Beautiful Days_ by Fumie Chiba
+
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Mitsuru Tanaka](/tags/mitsuru-tanaka/) - trumpet, flugelhorn
+-   [Shunosuke Ishikawa](/tags/shunosuke-ishikawa/) - tenor sax, soprano sax, flute
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
+
+_Japanese names: 千葉史絵 Chiba Fumie 田中充 Tanaka Mitsuru 石川周之介 Ishikawa Shunosuke 黒沢綾 Kurosawa Aya 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
+
+Released in 2017 on USAGI Records as UR-002.

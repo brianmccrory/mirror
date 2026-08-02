@@ -6,28 +6,10 @@ tags = ["Taihei Asakawa", "浅川太平", "Daiki Yasukagawa", "安ヵ川大樹",
 categories = ["albums"]
 draft = false
 slug = "taihei-asakawa-trio-touch-of-winter"
-releaseYear = 2013
-releaseLabel = "D-musica Daiki Musica"
-releaseCode = "DMCD-26"
 [cover]
   image = "taiheiasakawa-touch-460.jpeg"
   alt = "Cover art of Touch of Winter by Taihei Asakawa Trio"
   relative = true
-[[credits]]
-  name = "Taihei Asakawa"
-  slug = "taihei-asakawa"
-  instrument = "piano, compositions"
-  japanese = "浅川太平 Asakawa Taihei"
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
 +++
 
 Taihei Asakawa’s beautiful _Touch of Winter_ from 2013 is a contemplative jazz album rooted in calm emotion: Memory, melancholy, and rebirth combine to paint stimulating music on a pure white winter tableau.
@@ -52,3 +34,14 @@ This album also includes free moments which leave the musical structure open com
 {{< youtube 9UIC2PHbwgo >}}
 
 -   [Excerpt from track #2: “Dream Garden”](/audio/#mix-3)
+
+
+## _Touch of Winter_ by Taihei Asakawa Trio
+
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, compositions
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+
+_Japanese names: 浅川太平 Asakawa Taihei 安ヵ川大樹 Yasukagawa Daiki 則武諒 Noritake Ryo_
+
+Released in 2013 on D-musica Daiki Musica as DMCD-26.

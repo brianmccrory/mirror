@@ -6,33 +6,10 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Nanami Haruta", "治田七海", "R
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-quartet-64-charlesgate"
-releaseYear = 2022
-releaseLabel = "Quint Co. Ltd. / Chitei Records"
-releaseCode = "B102F"
 [cover]
   image = "akihiro-yoshimoto-64-charlesgate-460.jpeg"
   alt = "Cover art of 64 Charlesgate by Akihiro Yoshimoto Quartet"
   relative = true
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "saxophone"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Nanami Haruta"
-  slug = "nanami-haruta"
-  instrument = "trombone"
-  japanese = "治田七海 Haruta Nanami"
-[[credits]]
-  name = "Raiga Hayashi"
-  slug = "raiga-hayashi"
-  instrument = "drums"
-  japanese = "林頼我 Hayashi Raiga"
-[[credits]]
-  name = "Makoto Togashi"
-  slug = "makoto-togashi"
-  instrument = "bass"
-  japanese = "冨樫マコト Togashi Makoto"
 +++
 
 Saxophonist Akihiro Yoshimoto’s _62 Charlesgate_ is a 2022 album where he showcases both his original music and a group of young musicians from the Japanese jazz scene. The quartet is made up of saxophone, trombone, bass, and drums, with no chordal instrument like piano or guitar filling up the comping harmonies. The resulting music, composed for two horns to play melodies in union, harmony, counterpointing, or trading phrases, has a well-suited sound for Yoshimoto’s organized yet free and open concept on this album.
@@ -61,3 +38,15 @@ The album also includes two shorter songs inserted like brief asides: Tracks #3 
 {{< youtube Mz5qo6VVTXg >}}
 
 -   [Excerpt from track #1: “Funny Book”](/audio/#mix-9)
+
+
+## _64 Charlesgate_ by Akihiro Yoshimoto Quartet
+
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Raiga Hayashi](/tags/raiga-hayashi/) - drums
+-   [Makoto Togashi](/tags/makoto-togashi/) - bass
+
+_Japanese names: 吉本章紘 Yoshimoto Akihiro 治田七海 Haruta Nanami 林頼我 Hayashi Raiga 冨樫マコト Togashi Makoto_
+
+Released in 2022 on Quint Co. Ltd. / Chitei Records as B102F.

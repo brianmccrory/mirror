@@ -6,32 +6,10 @@ tags = ["MIWO", "Mamoru Ishida", "石田衛", "Daiki Yasukagawa", "安ヵ川大�
 categories = ["albums"]
 draft = false
 slug = "miwo-tranquillo"
-releaseYear = 2020
-releaseLabel = "Musica Fortunata"
-releaseCode = "MF-001"
 [cover]
   image = "miwo-tranquillo-460.jpeg"
   alt = "Cover art of Tranquillo by Miwo"
   relative = true
-[[credits]]
-  name = "MIWO"
-  slug = "miwo"
-  instrument = "vocal"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
-[[credits]]
-  name = "Akira Sekine"
-  slug = "akira-sekine"
-  instrument = "guitar"
-  japanese = "関根彰良 Sekine Akira"
 +++
 
 Jazz singer MIWO’s first album is entitled _Tranquillo_ from 2020. This fifty-one-minute album delivers a sincere and straightforward set of twelve jazz standards perfectly suited to the leader’s modestly beautiful voice. _Tranquillo_ was produced by mentor Hiroko Williams, a well-known jazz singer in her own right, and the result is an album with an authentic approach to vocal-focused jazz albums.
@@ -87,3 +65,15 @@ _Tomoyuki Hoshino (Aoi Hoshi Tsushinsha, former editor-in-chief of Tokyo Calenda
 {{< youtube em2OGdp0_j8 >}}
 
 -   [Excerpt from track #4: “Desafinado”](/audio/#mix-11)
+
+
+## _Tranquillo_ by Miwo
+
+-   [MIWO](/tags/miwo/) - vocal
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass
+-   [Akira Sekine](/tags/akira-sekine/) - guitar
+
+_Japanese names: 石田衛 Ishida Mamoru 安ヵ川大樹 Yasukagawa Daiki 関根彰良 Sekine Akira_
+
+Released in 2020 on Musica Fortunata as MF-001.

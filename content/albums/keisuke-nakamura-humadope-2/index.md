@@ -6,39 +6,11 @@ tags = ["Keisuke Nakamura", "中村恵介", "Akihiro Yoshimoto", "吉本章紘",
 categories = ["albums"]
 draft = false
 slug = "keisuke-nakamura-humadope-2"
-releaseYear = 2019
-releaseLabel = "ANTXDEDE"
-releaseCode = "ANTXDEDE-3105"
 related = ["yudo-matsuo-bonanza", "keisuke-nakamura-humadope"]
 [cover]
   image = "keisuke-nakamura-humadope-2-460.jpeg"
   alt = "Cover art of Humadope 2 by Keisuke Nakamura"
   relative = true
-[[credits]]
-  name = "Keisuke Nakamura"
-  slug = "keisuke-nakamura"
-  instrument = "trumpet, flugelhorn"
-  japanese = "中村恵介 Nakamura Keisuke"
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "tenor sax, flute"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Ami Ogaeri"
-  slug = "ami-ogaeri"
-  instrument = "piano"
-  japanese = "魚返明未 Ogaeri Ami"
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Ittetsu Takemura"
-  slug = "ittetsu-takemura"
-  instrument = "drums"
-  japanese = "竹村一哲 Takemura Ittetsu"
 +++
 
 _Humadope 2_ from trumpeter Keisuke Nakamura features his quintet playing modern jazz originals with unsupressible energy. With a slightly different lineup as on his debut album _[Humadope](/keisuke-nakamura-humadope/)_ (2014), the human/mad/dope sound is the same: fresh and boiling, jazzy and nonstop.
@@ -77,3 +49,16 @@ The whole album is filled with great moments, and picking favorites depends on t
 {{< youtube ND6aiihDv_g >}}
 
 -   [Excerpt from track #7: “Sense Of Mission”](/audio/#mix-10)
+
+
+## _Humadope 2_ by Keisuke Nakamura
+
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax, flute
+-   [Ami Ogaeri](/tags/ami-ogaeri/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Ittetsu Takemura](/tags/ittetsu-takemura/) - drums
+
+_Japanese names: 中村恵介 Nakamura Keisuke 吉本章紘 Yoshimoto Akihiro 魚返明未 Ogaeri Ami 金森もとい Kanamori Motoi 竹村一哲 Takemura Ittetsu_
+
+Released in 2019 on ANTXDEDE as ANTXDEDE-3105.

@@ -6,28 +6,10 @@ tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平�
 categories = ["albums"]
 draft = false
 slug = "layla-tomomi-sakai-whisper-not"
-releaseYear = 2016
-releaseLabel = "Sakai Layla Tomomi"
-releaseCode = 1
 [cover]
   image = "layla-tomomi-sakai-whisper-460.jpeg"
   alt = "Cover art of Whisper Not by Layla Tomomi Sakai"
   relative = true
-[[credits]]
-  name = "Layla Tomomi Sakai"
-  slug = "layla-tomomi-sakai"
-  instrument = "vocal"
-  japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[credits]]
-  name = "Yuichiro Hiraoka"
-  slug = "yuichiro-hiraoka"
-  instrument = "guitar"
-  japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[credits]]
-  name = "Ryuichi Takase"
-  slug = "ryuichi-takase"
-  instrument = "trumpet"
-  japanese = "高瀬龍一 Takase Ryuichi"
 +++
 
 _Whisper Not_ is vocalist Layla Tomomi Sakai’s debut release from 2016. Performing here with an intimate guitar and trumpet combo, the striking singer chooses comfortable jazz standards such as “Black Coffee”, “I Can’t Get Started”, and “There Will Never Be Another You” to introduce new listeners to her smooth, husky voice and relaxing style. Six songs are included, and tempos settle at midtempo swing, bluesy groove, or slow sultry ballads, with energy peaking on the quick and exciting “Devil May Care”.
@@ -48,3 +30,14 @@ Buoyed by guitar chords and trumpet improvisation, Sakai’s voice emotes cleanl
 {{< youtube BjmrJjxJ-fw >}}
 
 -   [Excerpt from track #4: “whisper not”](/audio/#mix-7)
+
+
+## _Whisper Not_ by Layla Tomomi Sakai
+
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet
+
+_Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi_
+
+Released in 2016 on Sakai Layla Tomomi as 1.

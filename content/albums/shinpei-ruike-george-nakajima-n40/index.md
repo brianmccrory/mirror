@@ -6,23 +6,10 @@ tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 slug = "shinpei-ruike-george-nakajima-n40"
-releaseYear = 2014
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS-1403"
 [cover]
   image = "ruike-nakajima-n40-460.jpeg"
   alt = "Cover art of N.40° by Shinpei Ruike & George Nakajima"
   relative = true
-[[credits]]
-  name = "Shinpei Ruike"
-  slug = "shinpei-ruike"
-  instrument = "trumpet"
-  japanese = "類家心平 Ruike Shinpei"
-[[credits]]
-  name = "George Nakajima"
-  slug = "george-nakajima"
-  instrument = "piano"
-  japanese = "中嶋錠二 Nakajima George"
 +++
 
 Art music from two musician artists, _N.40°_ is sweet and stimulating, mellow and manic, alternating between states on this compelling album. The emotive trumpet-and-piano duo of Shinpei Ruike and George Nakajima delivers atmospheric standards as well as boundary-pushing free improvisations. With moments of both comfortable and experimental jazz, the pieces alternate from limpid and romantic to free and offbeat wild abandon; fun improvisational pieces are placed like splashes of color between beautiful jazz songs (“The Nearness of You”, “Pure Imagination”, “Alone, Alone and Alone”).
@@ -49,3 +36,13 @@ Nakajima’s skillful piano provides the cool rhythmic and harmonic underpinning
 {{< youtube pYi27kjmEMc >}}
 
 -   [Excerpt from track #1: “Nearness of you”](/audio/#mix-4)
+
+
+## _N.40°_ by Shinpei Ruike &amp; George Nakajima
+
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [George Nakajima](/tags/george-nakajima/) - piano
+
+_Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
+
+Released in 2014 on Apollo Sounds as APLS-1403.

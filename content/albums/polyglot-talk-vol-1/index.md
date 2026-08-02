@@ -6,33 +6,11 @@ tags = ["Steve Barry", "Kosuke Ochiai", "落合康介", "Ko Omura", "大村亘",
 categories = ["albums"]
 draft = false
 slug = "polyglot-talk-vol-1"
-releaseYear = 2020
-releaseLabel = "Studio Songs"
-releaseCode = "YZSO-10104"
 related = ["ko-omura-introspect", "bungalow-metropolitan-oasis", "bungalow-past-life", "bungalow-unseen-scenes", "bungalow-you-already-know", "bungalow-abstract-messages"]
 [cover]
   image = "polyglot-talk-vol-1-460.jpeg"
   alt = "Cover art of Talk, Vol. 1 by Polyglot"
   relative = true
-[[credits]]
-  name = "Steve Barry"
-  slug = "steve-barry"
-  instrument = "piano"
-[[credits]]
-  name = "Kosuke Ochiai"
-  slug = "kosuke-ochiai"
-  instrument = "bass"
-  japanese = "落合康介 Ochiai Kosuke"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums & tabla"
-  japanese = "大村亘 Omura Ko"
-[[credits]]
-  name = "Hiroyuki Ishikawa"
-  slug = "hiroyuki-ishikawa"
-  instrument = "trumpet (3, 4, & 8)"
-  japanese = "石川広行 Ishikawa Hiroyuki"
 +++
 
 Polyglot is drummer Ko Omura, pianist Steve Barry, and bassist Kosuke Ochiai, an Australian-Japanese jazz trio project whose first album _Talk, Vol. 1_ was released in 2020. Each member contributes original music for the 58-minute album’s eight tracks, with five from the pianist, two from the drummer, and one from the bassist.
@@ -87,3 +65,15 @@ _(The notes printed on the obi are an excerpt from the liner notes.)_
 ## Links
 
 -   [Polyglot: Talk, Vol. 1 (Steve Barry website)](https://www.stevebarrymusic.com/polyglot-talk-vol-1)
+
+
+## _Talk, Vol. 1_ by Polyglot
+
+-   [Steve Barry](/tags/steve-barry/) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums &amp; tabla
+-   [Hiroyuki Ishikawa](/tags/hiroyuki-ishikawa/) - trumpet (3, 4, &amp; 8)
+
+_Japanese names: 落合康介 Ochiai Kosuke 大村亘 Omura Ko 石川広行 Ishikawa Hiroyuki_
+
+Released in 2020 on Studio Songs as YZSO-10104.

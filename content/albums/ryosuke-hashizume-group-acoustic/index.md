@@ -6,39 +6,11 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-acoustic"
-releaseYear = 2012
-releaseLabel = "Tactile Sounds Records"
-releaseCode = "TS-001"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryosukehashizume-acoustic-460.jpeg"
   alt = "Cover art of Acoustic Fluid by Ryosuke Hashizume Group"
   relative = true
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor saxophone, effects"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar, effects"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums, percussion"
-  japanese = "橋本学 Hashimoto Manabu"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano (#2, 3, 8)"
-  japanese = "佐藤浩一 Sato Koichi"
 +++
 
 The title of the album _Acoustic Fluid_ from the Ryosuke Hashizume Group captures the essence of moving, flowing sounds that fill up this music. Like most of Hashizume’s albums and live shows, his original compositions are featured on this 2012 album, his sixth release. Throughout /Acoustic Fluid/’s nine tracks, the five-member group expands these charts with push-and-pull activity, like waves on water or breaths of air.
@@ -71,3 +43,16 @@ Among the slower songs, the mid-tempo songs are latched to frames in motion thro
 {{< youtube 0ikWlV2HT_c >}}
 
 -   [Excerpt from track #3: “Conversations with Moore”](/audio/#mix-9)
+
+
+## _Acoustic Fluid_ by Ryosuke Hashizume Group
+
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, effects
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
+-   [Koichi Sato](/tags/koichi-sato/) - piano (#2, 3, 8)
+
+_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 佐藤浩一 Sato Koichi_
+
+Released in 2012 on Tactile Sounds Records as TS-001.

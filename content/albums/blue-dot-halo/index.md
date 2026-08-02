@@ -6,38 +6,10 @@ tags = ["Makoto Rikitake", "力武誠", "Tamashi Goto", "後藤魂", "Masanori S
 categories = ["albums"]
 draft = false
 slug = "blue-dot-halo"
-releaseYear = 2016
-releaseLabel = "Blue Dot"
-releaseCode = "Halo"
 [cover]
   image = "bluedot-halo-460.jpeg"
   alt = "Cover art of Halo by Blue Dot"
   relative = true
-[[credits]]
-  name = "Makoto Rikitake"
-  slug = "makoto-rikitake"
-  instrument = "drums"
-  japanese = "力武誠 Rikitake Makoto"
-[[credits]]
-  name = "Tamashi Goto"
-  slug = "tamashi-goto"
-  instrument = "piano"
-  japanese = "後藤魂 Goto Tamashi"
-[[credits]]
-  name = "Masanori Sugimoto"
-  slug = "masanori-sugimoto"
-  instrument = "tenor sax"
-  japanese = "杉本匡教 Sugimoto Masanori"
-[[credits]]
-  name = "Goro Katano"
-  slug = "goro-katano"
-  instrument = "electric bass"
-  japanese = "片野吾朗 Katano Goro"
-[[credits]]
-  name = "Maki Fujimura"
-  slug = "maki-fujimura"
-  instrument = "vocals (track #10)"
-  japanese = "藤村麻紀 Fujimura Maki"
 +++
 
 United by a stellar theme of the universe, the Tokyo jazz quartet Blue Dot explores stars and galaxies on their debut album _Halo_ from 2016.
@@ -68,3 +40,16 @@ Other songs feature jazz combined with pretty waltz-time ballads, poppy soft-roc
 {{< youtube O0_aFlO6s4A >}}
 
 -   [Excerpt from track #1: “Sturm Und Drang”](/audio/#mix-4)
+
+
+## _Halo_ by Blue Dot
+
+-   [Makoto Rikitake](/tags/makoto-rikitake/) - drums
+-   [Tamashi Goto](/tags/tamashi-goto/) - piano
+-   [Masanori Sugimoto](/tags/masanori-sugimoto/) - tenor sax
+-   [Goro Katano](/tags/goro-katano/) - electric bass
+-   [Maki Fujimura](/tags/maki-fujimura/) - vocals (track #10)
+
+_Japanese names: 力武誠 Rikitake Makoto 後藤魂 Goto Tamashi 杉本匡教 Sugimoto Masanori 片野吾朗 Katano Goro 藤村麻紀 Fujimura Maki_
+
+Released in 2016 on Blue Dot as Halo.

@@ -6,29 +6,11 @@ tags = ["Otohito Fuse", "布施音人", "Riku Takahashi", "高橋陸", "Kaito Na
 categories = ["albums"]
 draft = false
 slug = "otohito-fuse-trio-thus-have-i-heard"
-releaseYear = 2025
-releaseLabel = "Otohito Fuse Music"
-releaseCode = "OFM-002"
 related = ["mamoru-ishida-afterglow", "otohito-fuse-trio-isolated", "kaito-nakamura-invisible-diary"]
 [cover]
   image = "otohito-fuse-trio-thus-have-i-heard-460.jpeg"
   alt = "Cover art of Thus Have I Heard by Otohito Fuse Trio"
   relative = true
-[[credits]]
-  name = "Otohito Fuse"
-  slug = "otohito-fuse"
-  instrument = "piano"
-  japanese = "布施音人 Fuse Otohito"
-[[credits]]
-  name = "Riku Takahashi"
-  slug = "riku-takahashi"
-  instrument = "bass"
-  japanese = "高橋陸 Takahashi Riku"
-[[credits]]
-  name = "Kaito Nakamura"
-  slug = "kaito-nakamura"
-  instrument = "drums"
-  japanese = "中村海斗 Nakamura Kaito"
 +++
 
 _This I Have Heard_ is a 2025 release from pianist Otohito Fuse, a second album as a leader quick on the heels of his _Isolated_ from 2024. Joining him on this release are his regular trio members, Riku Takahashi on bass and Kaito Nakamura on drums. It’s a continuation and evolution of the trio sound created on their previous release, with an increased maturity and depth added to the new music. This music is patient and deep, and while there are intense tempos with free-flowing jazz improvisation and burning solos, the musicians do not hurry to get there, as if there is an abundance of confidence in building beautiful moments that will come together when the time is right.
@@ -189,3 +171,14 @@ Includes a 20-page booklet of photographs and writings.
 -   [Full Playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_l2LCXj7mVOduNOekqfOxaavTQIVbbYmTs)
 
 -   [Excerpt from track #7: “We Can Hardly See”](/audio/#mix-15)
+
+
+## _Thus Have I Heard_ by Otohito Fuse Trio
+
+-   [Otohito Fuse](/tags/otohito-fuse/) - piano
+-   [Riku Takahashi](/tags/riku-takahashi/) - bass
+-   [Kaito Nakamura](/tags/kaito-nakamura/) - drums
+
+_Japanese names: 布施音人 Fuse Otohito 高橋陸 Takahashi Riku 中村海斗 Nakamura Kaito_
+
+Released in 2025 on Otohito Fuse Music as OFM-002.

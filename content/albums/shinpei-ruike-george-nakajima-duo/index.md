@@ -6,24 +6,11 @@ tags = ["Shinpei Ruike", "類家心平", "George Nakajima", "中嶋錠二"]
 categories = ["albums"]
 draft = false
 slug = "shinpei-ruike-george-nakajima-duo"
-releaseYear = 2022
-releaseLabel = "Core Port"
-releaseCode = "RPOL-10012"
 related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch"]
 [cover]
   image = "shinpeiruike-georgenakajima-duo-460.jpeg"
   alt = "Cover art of Duo by Shinpei Ruike & George Nakajima"
   relative = true
-[[credits]]
-  name = "Shinpei Ruike"
-  slug = "shinpei-ruike"
-  instrument = "trumpet"
-  japanese = "類家心平 Ruike Shinpei"
-[[credits]]
-  name = "George Nakajima"
-  slug = "george-nakajima"
-  instrument = "piano"
-  japanese = "中嶋錠二 Nakajima George"
 +++
 
 _Duo_ is the latest album from trumpeter Shinpei Ruike and pianist George Nakajima, two Tokyo-based jazz musicians who hail from the same area in northern Japan, along with many of the people who helped to create this recording.
@@ -63,3 +50,13 @@ Shinpei Ruike
 {{< youtube ojfvmRfqrqE >}}
 
 -   [Excerpt from track #4: “Plus fort que nous”](/audio/#mix-9)
+
+
+## _Duo_ by Shinpei Ruike &amp; George Nakajima
+
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [George Nakajima](/tags/george-nakajima/) - piano
+
+_Japanese names: 類家心平 Ruike Shinpei 中嶋錠二 Nakajima George_
+
+Released in 2022 on Core Port as RPOL-10012.

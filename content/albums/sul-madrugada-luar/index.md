@@ -6,24 +6,11 @@ tags = ["Sayaka Kishi", "岸淑香", "Hiroe Kobayashi", "小林宏衣"]
 categories = ["albums"]
 draft = false
 slug = "sul-madrugada-luar"
-releaseYear = 2022
-releaseLabel = "River City Music Entertainment"
-releaseCode = "RRCRK-220101"
 related = ["sayaketts-colors", "sayaka-kishi-featuring-te", "arco-asymmetry", "arco-live-at-yoncha", "sayaka-kishi-trio-life-is-too-great", "arco-birth"]
 [cover]
   image = "sul-madrugada-luar-460.jpeg"
   alt = "Cover art of Luar by Sul Madrugada"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano, keyboard"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Hiroe Kobayashi"
-  slug = "hiroe-kobayashi"
-  instrument = "voice"
-  japanese = "小林宏衣 Kobayashi Hiroe"
 +++
 
 While leading and participating in different groups through the years, musicians Hiroe Kobayashi and Sayaka Kishi have also played together on various projects incorporating standard jazz, pop, and Latin genres, and even Disney and movie songs. In 2022, the duo released their first full-length album entitled _Luar_ under the band name Sul Madrugada. This name, Portuguese for “southern dawn”, together with the title _Luar_ for “moonlight” beautifully describes the atmospheric direction the pair gravitates towards with this Latin jazz project. On this release, the duo is devoted to creating South American music in a package that embraces nature through the icons of the sun and moon.
@@ -56,3 +43,13 @@ Along with her songwriting, Kishi’s skill at juggling various instruments like
 {{< youtube VuPqiUUVQ_Y >}}
 
 -   [Excerpt from track #1: “Primavera De Batata”](/audio/#mix-9)
+
+
+## _Luar_ by Sul Madrugada
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, keyboard
+-   [Hiroe Kobayashi](/tags/hiroe-kobayashi/) - voice
+
+_Japanese names: 岸淑香 Kishi Sayaka 小林宏衣 Kobayashi Hiroe_
+
+Released in 2022 on River City Music Entertainment as RRCRK-220101.

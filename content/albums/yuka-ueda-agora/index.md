@@ -6,33 +6,10 @@ tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Sh
 categories = ["albums"]
 draft = false
 slug = "yuka-ueda-agora"
-releaseYear = 2011
-releaseLabel = "Audio Fab Records"
-releaseCode = "AFD-106"
 [cover]
   image = "yukaueda-agora-460.jpeg"
   alt = "Cover art of Agora by Yuka Ueda"
   relative = true
-[[credits]]
-  name = "Yuka Ueda"
-  slug = "yuka-ueda"
-  instrument = "vocal"
-  japanese = "上田裕香 Ueda Yuka"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
-[[credits]]
-  name = "Shinji Hashimoto"
-  slug = "shinji-hashimoto"
-  instrument = "guitar"
-  japanese = "橋本信二 Hashimoto Shinji"
-[[credits]]
-  name = "Daisuke Toi"
-  slug = "daisuke-toi"
-  instrument = "piano (#8), electric bass (#10)"
-  japanese = "トオイダイスケ Toi Daisuke"
 +++
 
 _Agora_ is the 2011 debut release from vocalist Yuka Ueda who specializes in Brazilian samba and bossa nova music, singing primarily in Portuguese at jazz bars throughout Japan.
@@ -69,3 +46,15 @@ Lovers of Brazilian and Latin music will be delighted with songs such as “Reun
 {{< youtube qmIjpprzmvk >}}
 
 -   [Excerpt from track #9: “Pressentimento”](/audio/#mix-6)
+
+
+## _Agora_ by Yuka Ueda
+
+-   [Yuka Ueda](/tags/yuka-ueda/) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - guitar
+-   [Daisuke Toi](/tags/daisuke-toi/) - piano (#8), electric bass (#10)
+
+_Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 橋本信二 Hashimoto Shinji トオイダイスケ Toi Daisuke_
+
+Released in 2011 on Audio Fab Records as AFD-106.

@@ -6,29 +6,11 @@ tags = ["Taiichi Kamimura", "かみむら泰一", "Norikatsu Koreyasu", "是安�
 categories = ["albums"]
 draft = false
 slug = "ochikochi-ochikochi"
-releaseYear = 2012
-releaseLabel = "K’s Project"
-releaseCode = "KP-0001"
 related = ["motohiko-ichino-sketches", "ryosuke-hashizume-group-incomplete-voices", "yukari-sekiya-duets-till-now-from-here"]
 [cover]
   image = "ochikochi-ochikochi-460.jpeg"
   alt = "Cover art of Ochikochi by Ochikochi"
   relative = true
-[[credits]]
-  name = "Taiichi Kamimura"
-  slug = "taiichi-kamimura"
-  instrument = "tenor and soprano sax"
-  japanese = "かみむら泰一 Kamimura Taiichi"
-[[credits]]
-  name = "Norikatsu Koreyasu"
-  slug = "norikatsu-koreyasu"
-  instrument = "wood bass"
-  japanese = "是安則克 Koreyasu Norikatsu"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 _Ochikochi_ is the 2013 album released from a trio of the same name consisting of Taiichi Kamimura on sax, Norikatsu Koreyasu on bass, and Manabu Hashimoto on drums. All songs are by the group’s front horn player Kamimura. It’s adventurous jazz music in the uninhibited hip style of rugged jazz legends like Ornette Coleman and Eric Dolphy. Even through to the current day, when Kamimura plays live, he still often leads Ornette Coleman-style concerts and jam sessions at various jazz spots around Japan.
@@ -88,3 +70,14 @@ A recording of the distance, far and near (_ochikochi_), that is the musical per
 {{< youtube oGTbfjXK6Qs >}}
 
 -   [Excerpt from track #5: “メユメユ Meyu-meyu”](/audio/#mix-15)
+
+
+## _Ochikochi_ by Ochikochi
+
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor and soprano sax
+-   [Norikatsu Koreyasu](/tags/norikatsu-koreyasu/) - wood bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+
+_Japanese names: かみむら泰一 Kamimura Taiichi 是安則克 Koreyasu Norikatsu 橋本学 Hashimoto Manabu_
+
+Released in 2012 on K’s Project as KP-0001.

@@ -6,28 +6,10 @@ tags = ["Taihei Asakawa", "浅川太平", "Shinichi Kato", "加藤真一", "Mana
 categories = ["albums"]
 draft = false
 slug = "taihei-asakawa-catastrophe-in-jazz"
-releaseYear = 2011
-releaseLabel = "Roving Spirits"
-releaseCode = "RKCJ-2046"
 [cover]
   image = "taiheiasakawa-catas-460.jpeg"
   alt = "Cover art of Catastrophe in Jazz by Taihei Asakawa"
   relative = true
-[[credits]]
-  name = "Taihei Asakawa"
-  slug = "taihei-asakawa"
-  instrument = "piano, compositions"
-  japanese = "浅川太平 Asakawa Taihei"
-[[credits]]
-  name = "Shinichi Kato"
-  slug = "shinichi-kato"
-  instrument = "bass"
-  japanese = "加藤真一 Kato Shinichi"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Jazz pianist Taihei Asakawa pushes boundaries on his 2011 release _Catastrophe in Jazz_.
@@ -60,3 +42,14 @@ With virtuosity and compositional strength on display, the care and attention de
 {{< youtube Wmb_IN_3a-w >}}
 
 -   [Excerpt from track #1: “The Pioneer”](/audio/#mix-3)
+
+
+## _Catastrophe in Jazz_ by Taihei Asakawa
+
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano, compositions
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+
+_Japanese names: 浅川太平 Asakawa Taihei 加藤真一 Kato Shinichi 橋本学 Hashimoto Manabu_
+
+Released in 2011 on Roving Spirits as RKCJ-2046.

@@ -6,39 +6,11 @@ tags = ["Hideaki Hori", "堀秀彰", "Tetsuyuki Kishi", "岸徹至", "Manabu Has
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-horizon"
-releaseYear = 2003
-releaseLabel = "BQ Records"
-releaseCode = "BQR-2022"
 related = ["hideaki-hori-trio-in-my-words", "hikari-ichihara-group-move-on", "maki-fujimura-best-wishes", "hideaki-hori-trio-unconditional-love", "duo-tremolo-resonance"]
 [cover]
   image = "hideaki-hori-horizon-460.jpeg"
   alt = "Cover art of Horizon by Hideaki Hori"
   relative = true
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Tetsuyuki Kishi"
-  slug = "tetsuyuki-kishi"
-  instrument = "bass"
-  japanese = "岸徹至 Kishi Tetsuyuki"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums (#1, 4, 5, 8)"
-  japanese = "橋本学 Hashimoto Manabu"
-[[credits]]
-  name = "Nobuyuki Komatsu"
-  slug = "nobuyuki-komatsu"
-  instrument = "drums (#2, 3, 6, 7, 9)"
-  japanese = "小松伸之 Komatsu Nobuyuki"
-[[credits]]
-  name = "Hideki Kawamura"
-  slug = "hideki-kawamura"
-  instrument = "tenor sax (#1, 2, 6, 9)"
-  japanese = "河村英樹 Kawamura Hideki"
 +++
 
 Jazz pianist Hideaki Hori kicked off his recording career 20 years ago, and it all started with this debut album _Horizon_ from 2003. Since then, he’s released another 20 albums as leader in his nearly 30-year career under his own name or as the group “Encounter” with saxophonist Wataru Hamasaki. As a session musician and recording partner, Hori has also played on more than 160 albums for many notable Japanese and international acts including “Dreams Come True”, “Paris Match”, Eddie Henderson, Mabumi Yamaguchi, and many others. It’s an impressive resume for an accomplished pianist who’s still actively playing live music somewhere in front of an audience almost every day.
@@ -122,3 +94,16 @@ January 10, 2023, Hideaki Hori
 {{< youtube NElX1mESFzU >}}
 
 -   [Excerpt from track #7: “Sliding Doors”](/audio/#mix-10)
+
+
+## _Horizon_ by Hideaki Hori
+
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+-   [Tetsuyuki Kishi](/tags/tetsuyuki-kishi/) - bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums (#1, 4, 5, 8)
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums (#2, 3, 6, 7, 9)
+-   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (#1, 2, 6, 9)
+
+_Japanese names: 堀秀彰 Hori Hideaki 岸徹至 Kishi Tetsuyuki 橋本学 Hashimoto Manabu 小松伸之 Komatsu Nobuyuki 河村英樹 Kawamura Hideki_
+
+Released in 2003 on BQ Records as BQR-2022.

@@ -6,28 +6,10 @@ tags = ["Fumie Chiba", "千葉史絵", "Koichi Kuniwake", "国分航一", "Shige
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-trio-tip-of-dream"
-releaseYear = 2009
-releaseLabel = "TRL Music"
-releaseCode = "TRL-0826"
 [cover]
   image = "fumiechiba-tip-460.jpeg"
   alt = "Cover art of Tip of Dream by Fumie Chiba Trio"
   relative = true
-[[credits]]
-  name = "Fumie Chiba"
-  slug = "fumie-chiba"
-  instrument = "piano"
-  japanese = "千葉史絵 Chiba Fumie"
-[[credits]]
-  name = "Koichi Kuniwake"
-  slug = "koichi-kuniwake"
-  instrument = "bass"
-  japanese = "国分航一 Kuniwake Koichi"
-[[credits]]
-  name = "Shigehito Kawamura"
-  slug = "shigehito-kawamura"
-  instrument = "drums"
-  japanese = "川村成史 Kawamura Shigehito"
 +++
 
 Jazz pianist and composer Fumie Chiba’s _Tip of Dream_ is a great example of modern jazz piano from Japan, displaying high-caliber technique and creative approaches to modern jazz composition.
@@ -54,3 +36,14 @@ Along with the six original songs, Chiba’s reharmonizations and arrangements a
 {{< youtube uM2ZZek_viI >}}
 
 -   [Excerpt from track #1: “11th Door”](/audio/#mix-4)
+
+
+## _Tip of Dream_ by Fumie Chiba Trio
+
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koichi Kuniwake](/tags/koichi-kuniwake/) - bass
+-   [Shigehito Kawamura](/tags/shigehito-kawamura/) - drums
+
+_Japanese names: 千葉史絵 Chiba Fumie 国分航一 Kuniwake Koichi 川村成史 Kawamura Shigehito_
+
+Released in 2009 on TRL Music as TRL-0826.

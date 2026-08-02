@@ -1,18 +1,12 @@
 +++
 title = "Apollo"
 author = ["Brian McCrory"]
-description = "Apollo jazz club, located near Shimo-Kitazawa station in Tokyo, Japan"
+description = "Apollo jazz club, located near Shimo-Kitazawa station in Tokyo, Japan (Permanently closed)"
 publishDate = 2023-05-29
 tags = [""]
 categories = ["extra"]
 draft = false
 slug = "apollo"
-clubName = "Apollo"
-clubUrl = "https://www.apollonoise.com/"
-clubCity = "Tokyo"
-clubStation1 = "Shimo-kitazawa"
-clubMap = "https://maps.app.goo.gl/gSPE3aPWJVj2stF77"
-issue = 170
 [cover]
   image = "IMG_20181020_203433884-1024.jpeg"
   caption = "The Danish neo-cello duo Soma & Lil (Soma Allpass and Lil Lacy) with steelpanist Yoshio Machida at Apollo in 2018"
@@ -27,3 +21,11 @@ A straight-to-the-point jazz spot, Apollo is unvarnished in a good way, a simple
 More down to earth than upper-crust, some customers may feel uncomfortable in this dark, soulful spot, but the underground vibe here adds to the charm of the authentic Apollo experience. Let the otherworldly music take you on a journey aboard Apollo, where a bit more avante-garde music is appreciated and flows freely through this atmospheric space.
 
 {{< figure src="IMG_20181020_194953216-1024.jpeg" link="IMG_20181020_194953216-1024.jpeg" >}}
+
+
+## Information
+
+-   [Apollo’s website](https://www.apollonoise.com/)
+-   [Located near Shimo-kitazawa station in Tokyo, Japan](https://maps.app.goo.gl/gSPE3aPWJVj2stF77)
+
+_Note: Apollo has permanently closed._

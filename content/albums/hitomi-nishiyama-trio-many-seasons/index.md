@@ -6,26 +6,10 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Hans Backenroth", "Anders Kjellberg"]
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-many-seasons"
-releaseYear = 2007
-releaseLabel = "Spice of Life"
-releaseCode = "SOLJP-0005"
 [cover]
   image = "hitominishiyama-manyseasons-460.jpeg"
   alt = "Cover art of Many Seasons by Hitomi Nishiyama Trio"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Hans Backenroth"
-  slug = "hans-backenroth"
-  instrument = "bass"
-[[credits]]
-  name = "Anders Kjellberg"
-  slug = "anders-kjellberg"
-  instrument = "drums"
 +++
 
 With a clean, clear pianist’s touch melding jazz with classical and a subtle rock sensibility, Hitomi Nishiyama’s 2007 album _Many Seasons_ is reminiscent of great European jazz melodists (Giovanni Mirabassi comes to mind), with lyrical passages twisting through rich harmony and odd meters. Aside from the high technical prowess, the beautifully-written songs overflow with delicate emotion, with pangs of nostalgia and sweetness in abundance.
@@ -48,3 +32,14 @@ This album was recorded in Stockholm with two Swedish musicians, befitting the g
 {{< youtube rRCe_sFD-cU >}}
 
 -   [Excerpt from track #1: “フラッド (_Flood_)”](/audio/#mix-1)
+
+
+## _Many Seasons_ by Hitomi Nishiyama Trio
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Hans Backenroth](/tags/hans-backenroth/) - bass
+-   [Anders Kjellberg](/tags/anders-kjellberg/) - drums
+
+_Japanese names: 西山瞳 Nishiyama Hitomi_
+
+Released in 2007 on Spice of Life as SOLJP-0005.

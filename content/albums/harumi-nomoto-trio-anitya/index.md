@@ -6,29 +6,11 @@ tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohno
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-anitya"
-releaseYear = 2025
-releaseLabel = "Okra Record"
-releaseCode = "MIKO-9001"
 related = ["harumi-nomoto-trio-another-ordinary-day", "harumi-nomoto-trio-belinda", "harumi-nomoto-trio-virgo", "harumi-nomoto-ill-be-home-for-christmas"]
 [cover]
   image = "harumi-nomoto-trio-anitya-460.jpeg"
   alt = "Cover art of Anitya by Harumi Nomoto Trio"
   relative = true
-[[credits]]
-  name = "Harumi Nomoto"
-  slug = "harumi-nomoto"
-  instrument = "piano"
-  japanese = "野本晴美 Nomoto Harumi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 +++
 
 _Anitya_ is pianist Harumi Nomoto’s fourth trio record, released in 2025. It’s been a decade-plus since the trio’s previous release [_Virgo_ (2014)](/harumi-nomoto-trio-virgo/), with their earlier albums released as far back as 2007 and 2002, so it was a thrilling surprise when plans for a new recording were announced at one of their live shows early last year. The anticipation from their loyal fans rose in 2025 as the trio scheduled more concerts before the recording, to fine-tune the new songs and oil the performance gears at live concerts around Tokyo. Following that, _Anitya_ was quickly recorded over two days in June and released in December 2025 right in the midst of a busy holiday season.
@@ -130,3 +112,14 @@ I created this song while imagining waves coming in and going out. I borrowed th
 -   [Full album (Apple)](https://music.apple.com/us/album/anitya/1848681100)
 
 -   [Excerpt from track #1: “Double touch”](/audio/#mix-14)
+
+
+## _Anitya_ by Harumi Nomoto Trio
+
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+
+_Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke_
+
+Released in 2025 on Okra Record as MIKO-9001.

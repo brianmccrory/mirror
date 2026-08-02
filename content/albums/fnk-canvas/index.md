@@ -6,29 +6,11 @@ tags = ["Fumie Chiba", "千葉史絵", "Nao Teraya", "寺屋ナオ", "Kaoru Suzu
 categories = ["albums"]
 draft = false
 slug = "fnk-canvas"
-releaseYear = 2022
-releaseLabel = "Fumie Chiba"
-releaseCode = "UR-003"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-beautiful-days"]
 [cover]
   image = "fnk-canvas-460.jpeg"
   alt = "Cover art of Canvas by FNK"
   relative = true
-[[credits]]
-  name = "Fumie Chiba"
-  slug = "fumie-chiba"
-  instrument = "piano"
-  japanese = "千葉史絵 Chiba Fumie"
-[[credits]]
-  name = "Nao Teraya"
-  slug = "nao-teraya"
-  instrument = "guitar"
-  japanese = "寺屋ナオ Teraya Nao"
-[[credits]]
-  name = "Kaoru Suzuki"
-  slug = "kaoru-suzuki"
-  instrument = "drums"
-  japanese = "鈴木郁 Suzuki Kaoru"
 +++
 
 FNK is a group featuring pianist Fumie Chiba, guitarist Nao Teraya, and drummer Kaoru Suzuki, who released their first album _Canvas_ in 2022. A jazz trio made up of piano, guitar, and drums is somewhat unconventional, without a standalone bass instrument playing a steady undercurrent of tonal and rhythmic grounding. But prolific modern composer Fumie Chiba supplied this trio with new songs and arrangements written specifically for this format, emphasizing their expansive sound and balanced dynamics.
@@ -120,3 +102,14 @@ The reminiscence of a short and simple motif appears several times. From the alb
 {{< youtube zS2NADPB0QI >}}
 
 -   [Excerpt from track #3: “走れ、走れメロス (_Run, run, Melos_)”](/audio/#mix-9)
+
+
+## _Canvas_ by FNK
+
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Nao Teraya](/tags/nao-teraya/) - guitar
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
+
+_Japanese names: 千葉史絵 Chiba Fumie 寺屋ナオ Teraya Nao 鈴木郁 Suzuki Kaoru_
+
+Released in 2022 on Fumie Chiba as UR-003.

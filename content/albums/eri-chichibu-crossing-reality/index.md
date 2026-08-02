@@ -6,104 +6,11 @@ tags = ["Eri Chichibu", "秩父英里", "Kunihiro Kikuta", "菊田邦裕", "Davi
 categories = ["albums"]
 draft = false
 slug = "eri-chichibu-crossing-reality"
-releaseYear = 2022
-releaseLabel = "ReBorn Wood"
-releaseCode = "RBW-0024"
 related = ["sachiko-ikuta-trio-haru", "keisuke-nakamura-humadope", "akihiro-yoshimoto-quartet-moving-color", "fumika-asari-introducin", "nanami-haruta-ii"]
 [cover]
   image = "eri-chichibu-crossing-reality-460.jpeg"
   alt = "Cover art of Crossing Reality by Eri Chichibu"
   relative = true
-[[credits]]
-  name = "Eri Chichibu"
-  slug = "eri-chichibu"
-  instrument = "piano, keyboard, extra instruments, composition"
-  japanese = "秩父英里 Chichibu Eri"
-[[credits]]
-  name = "Kunihiro Kikuta"
-  slug = "kunihiro-kikuta"
-  instrument = "trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)"
-  japanese = "菊田邦裕 Kikuta Kunihiro"
-[[credits]]
-  name = "David Negrete"
-  slug = "david-negrete"
-  instrument = "alto sax, flute (tr. #1, 2, 5)"
-  japanese = "デイビッド・ネグレテ Negrete David"
-[[credits]]
-  name = "Akihiro Nishiguchi"
-  slug = "akihiro-nishiguchi"
-  instrument = "tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5"
-  japanese = "西口明宏 Nishiguchi Akihiro"
-[[credits]]
-  name = "Itsumi Komano"
-  slug = "itsumi-komano"
-  instrument = "trombone (tr. #1, 2, 5)"
-  japanese = "駒野逸美 Komano Itsumi"
-[[credits]]
-  name = "Haruka Sasaki"
-  slug = "haruka-sasaki"
-  instrument = "baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)"
-  japanese = "佐々木はるか Sasaki Haruka"
-[[credits]]
-  name = "Takahiro Nawashiro"
-  slug = "takahiro-nawashiro"
-  instrument = "guitar (tr. #1, 2, 5, 6)"
-  japanese = "苗代尚寬 Nawashiro Takahiro"
-[[credits]]
-  name = "Marty Holoubek"
-  slug = "marty-holoubek"
-  instrument = "electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)"
-  japanese = "マーティ・ホロベック Holoubek Marty"
-[[credits]]
-  name = "Shun Ishiwaka"
-  slug = "shun-ishiwaka"
-  instrument = "drums (tr. #1, 2, 3, 4, 5, 6)"
-  japanese = "石若駿 Ishiwaka Shun"
-[[credits]]
-  name = "Milena Casado"
-  slug = "milena-casado"
-  instrument = "flugelhorn (tr. #4)"
-  japanese = "ミレナ・カサード Casado Milena"
-[[credits]]
-  name = "Madoka Koike"
-  slug = "madoka-koike"
-  instrument = "violin (tr. #6)"
-  japanese = "小池まどか Koike Madoka"
-[[credits]]
-  name = "Tamako Yashima"
-  slug = "tamako-yashima"
-  instrument = "cello (tr. #6)"
-  japanese = "八島珠子 Yashima Tamako"
-[[credits]]
-  name = "Remy Le Boeuf"
-  slug = "remy-le-boeuf"
-  instrument = "alto sax (tr. #6)"
-  japanese = "レミー・ル・ブーフ Le Boeuf Remy"
-[[credits]]
-  name = "Kan"
-  slug = "kan"
-  instrument = "percussion (tr. #7, 8)"
-  japanese = "日高歓 Kan"
-[[credits]]
-  name = "Hiroki Hayashi"
-  slug = "hiroki-hayashi"
-  instrument = "alto sax, tenor sax (tr. #8)"
-  japanese = "林宏樹 Hayashi Hiroki"
-[[credits]]
-  name = "Jiro Suzuki"
-  slug = "jiro-suzuki"
-  instrument = "guitar (tr. #8)"
-  japanese = "鈴木次郎 Suzuki Jiro"
-[[credits]]
-  name = "Masaaki Saito"
-  slug = "masaaki-saito"
-  instrument = "electric bass (tr. #8)"
-  japanese = "齋藤大陽 Saito Masaaki"
-[[credits]]
-  name = "Yuta Fukuhara"
-  slug = "yuta-fukuhara"
-  instrument = "drums (tr. #8)"
-  japanese = "福原雄太 Fukuhara Yuta"
 +++
 
 Pianist and composer Eri Chichibu released her debut album _Crossing Reality_ in 2022. On it, she includes eight of her fine-tuned compositions for combos ranging from duos and trios to five-, seven-, eight-, and nine-member ensembles.
@@ -211,3 +118,29 @@ Japanese vending machines… cold drinks, _hot_ drinks, put a coin in and it imm
 {{< youtube HLOqBTOcJfA >}}
 
 -   [Excerpt from track #2: “The Sea -Seven Years Voyage-”](/audio/#mix-11)
+
+
+## _Crossing Reality_ by Eri Chichibu
+
+-   [Eri Chichibu](/tags/eri-chichibu/) - piano, keyboard, extra instruments, composition
+-   [Kunihiro Kikuta](/tags/kunihiro-kikuta/) - trumpet, flugelhorn (tr. #1, 2, 5, 6, 8)
+-   [David Negrete](/tags/david-negrete/) - alto sax, flute (tr. #1, 2, 5)
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, alto sax, soprano sax (tr. #1, 2, 4, 5
+-   [Itsumi Komano](/tags/itsumi-komano/) - trombone (tr. #1, 2, 5)
+-   [Haruka Sasaki](/tags/haruka-sasaki/) - baritone sax, bass clarinet, clarinet (tr. #1, 2, 3, 5)
+-   [Takahiro Nawashiro](/tags/takahiro-nawashiro/) - guitar (tr. #1, 2, 5, 6)
+-   [Marty Holoubek](/tags/marty-holoubek/) - electric bass, acoustic bass (tr. #1, 2, 3, 4, 5, 6)
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums (tr. #1, 2, 3, 4, 5, 6)
+-   [Milena Casado](/tags/milena-casado/) - flugelhorn (tr. #4)
+-   [Madoka Koike](/tags/madoka-koike/) - violin (tr. #6)
+-   [Tamako Yashima](/tags/tamako-yashima/) - cello (tr. #6)
+-   [Remy Le Boeuf](/tags/remy-le-boeuf/) - alto sax (tr. #6)
+-   [Kan](/tags/kan/) - percussion (tr. #7, 8)
+-   [Hiroki Hayashi](/tags/hiroki-hayashi/) - alto sax, tenor sax (tr. #8)
+-   [Jiro Suzuki](/tags/jiro-suzuki/) - guitar (tr. #8)
+-   [Masaaki Saito](/tags/masaaki-saito/) - electric bass (tr. #8)
+-   [Yuta Fukuhara](/tags/yuta-fukuhara/) - drums (tr. #8)
+
+_Japanese names: 秩父英里 Chichibu Eri 菊田邦裕 Kikuta Kunihiro デイビッド・ネグレテ Negrete David 西口明宏 Nishiguchi Akihiro 駒野逸美 Komano Itsumi 佐々木はるか Sasaki Haruka 苗代尚寬 Nawashiro Takahiro マーティ・ホロベック Holoubek Marty 石若駿 Ishiwaka Shun ミレナ・カサード Casado Milena 小池まどか Koike Madoka 八島珠子 Yashima Tamako レミー・ル・ブーフ Le Boeuf Remy 日高歓 Kan 林宏樹 Hayashi Hiroki 鈴木次郎 Suzuki Jiro 齋藤大陽 Saito Masaaki 福原雄太 Fukuhara Yuta_
+
+Released in 2022 on ReBorn Wood as RBW-0024.

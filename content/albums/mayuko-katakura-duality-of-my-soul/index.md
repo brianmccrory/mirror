@@ -6,29 +6,11 @@ tags = ["Mayuko Katakura", "片倉真由子", "Takumi Awaya", "粟谷巧", "Nori
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-duality-of-my-soul"
-releaseYear = 2025
-releaseLabel = "Mayuko Katakura Music"
-releaseCode = "MKM-001"
 related = ["les-komatis-les-komatis", "mabumi-yamaguchi-viento", "mayuko-katakura-echoes-of-three", "mayuko-katakura-faith", "mayuko-katakura-inspiration", "nanami-haruta-ii"]
 [cover]
   image = "mayuko-katakura-duality-of-my-soul-460.jpeg"
   alt = "Cover art of The Duality of My Soul by Mayuko Katakura"
   relative = true
-[[credits]]
-  name = "Mayuko Katakura"
-  slug = "mayuko-katakura"
-  instrument = "piano"
-  japanese = "片倉真由子 Katakura Mayuko"
-[[credits]]
-  name = "Takumi Awaya"
-  slug = "takumi-awaya"
-  instrument = "bass"
-  japanese = "粟谷巧 Awaya Takumi"
-[[credits]]
-  name = "Noritaka Tanaka"
-  slug = "noritaka-tanaka"
-  instrument = "drums"
-  japanese = "田中徳崇 Tanaka Noritaka"
 +++
 
 I’m always excited to get my hands and ears on a new release from pianist Mayuko Katakura. Her latest trio disc, recorded with bassist Takumi Awaya and drummer Noritaka Tanaka, is titled _The Duality of My Soul_ and was released earlier this year. It hits the spot as a sharply modern jazz piano trio album.
@@ -53,3 +35,14 @@ Finally, the last track #8 “Being Me” is a sweet and slow ballad, played wit
 ## Audio and Video
 
 -   [Excerpt from track #2: “The Duality Of My Soul”](/audio/#mix-13)
+
+
+## _The Duality of My Soul_ by Mayuko Katakura
+
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
+
+_Japanese names: 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 田中徳崇 Tanaka Noritaka_
+
+Released in 2025 on Mayuko Katakura Music as MKM-001.

@@ -6,39 +6,11 @@ tags = ["Kaoru Azuma", "東かおる", "Hitomi Nishiyama", "西山瞳", "Motohik
 categories = ["albums"]
 draft = false
 slug = "kaoru-azuma-hitomi-nishiyama-faces"
-releaseYear = 2020
-releaseLabel = "Meantone Records"
-releaseCode = "MT-09"
 related = ["rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "hitomi-nishiyama-vibrant"]
 [cover]
   image = "kaoru-azuma-hitomi-nishiyama-faces-460.jpeg"
   alt = "Cover art of Faces by Kaoru Azuma / Hitomi Nishiyama"
   relative = true
-[[credits]]
-  name = "Kaoru Azuma"
-  slug = "kaoru-azuma"
-  instrument = "vocal"
-  japanese = "東かおる Azuma Kaoru"
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano, composition, arrangement"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar (#1, 2, 3, 5, 7, 8)"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Toru Nishijima"
-  slug = "toru-nishijima"
-  instrument = "bass (#1, 2, 3, 5, 6, 7, 9)"
-  japanese = "西嶋徹 Nishijima Toru"
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor & soprano saxophones (#2, 3, 6, 7, 10)"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
 +++
 
 The album _Faces_ from 2020 is the follow-up to vocalist Kaoru Azuma and pianist Hitomi Nishiyama’s first album _Travels_ (2013). As with the earlier work, this album features mostly original compositions from the pianist that are delicately adorned with the light and airy voice of Azuma, who adds lyrics and instrument-like vocalizing to the music.
@@ -130,3 +102,16 @@ This is based on “Before Night Falls” from _[Many Seasons](/hitomi-nishiyama
 {{< youtube I7EnxiLN7ko >}}
 
 -   [Excerpt from track #8: “J”](/audio/#mix-10)
+
+
+## _Faces_ by Kaoru Azuma / Hitomi Nishiyama
+
+-   [Kaoru Azuma](/tags/kaoru-azuma/) - vocal
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, composition, arrangement
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar (#1, 2, 3, 5, 7, 8)
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass (#1, 2, 3, 5, 6, 7, 9)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor &amp; soprano saxophones (#2, 3, 6, 7, 10)
+
+_Japanese names: 東かおる Azuma Kaoru 西山瞳 Nishiyama Hitomi 市野元彦 Ichino Motohiko 西嶋徹 Nishijima Toru 橋爪亮督 Hashizume Ryosuke_
+
+Released in 2020 on Meantone Records as MT-09.

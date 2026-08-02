@@ -6,33 +6,10 @@ tags = ["Ami Fukui", "福井亜実", "Show Kudo", "工藤精", "Yasushi Fukumori
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-new-journey"
-releaseYear = 2016
-releaseLabel = "Diw The Grace"
-releaseCode = "DG-1007"
 [cover]
   image = "amifukui-newjourney-460.jpeg"
   alt = "Cover art of New Journey by Ami Fukui Trio"
   relative = true
-[[credits]]
-  name = "Ami Fukui"
-  slug = "ami-fukui"
-  instrument = "piano"
-  japanese = "福井亜実 Fukui Ami"
-[[credits]]
-  name = "Show Kudo"
-  slug = "show-kudo"
-  instrument = "double bass, electric bass"
-  japanese = "工藤精 Kudo Show"
-[[credits]]
-  name = "Yasushi Fukumori"
-  slug = "yasushi-fukumori"
-  instrument = "drums"
-  japanese = "福森康 Fukumori Yasushi"
-[[credits]]
-  name = "Akiko Suda"
-  slug = "akiko-suda"
-  instrument = "vocals (#7)"
-  japanese = "須田晶子 Suda Akiko"
 +++
 
 Ami Fukui’s third album _New Journey_ grabs the listener’s attention with colorful, immersive songs, 11 well-crafted originals played with exciting energy and vigor.
@@ -57,3 +34,15 @@ Throughout the album, surprises and discoveries often surface – bonus interlud
 {{< youtube bmnIeFGJIYM >}}
 
 -   [Excerpt from track #6: “ニュー・ジャーニー (_New Journey_)”](/audio/#mix-2)
+
+
+## _New Journey_ by Ami Fukui Trio
+
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Show Kudo](/tags/show-kudo/) - double bass, electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Akiko Suda](/tags/akiko-suda/) - vocals (#7)
+
+_Japanese names: 福井亜実 Fukui Ami 工藤精 Kudo Show 福森康 Fukumori Yasushi 須田晶子 Suda Akiko_
+
+Released in 2016 on Diw The Grace as DG-1007.

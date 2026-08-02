@@ -6,26 +6,10 @@ tags = ["Mayuko Katakura", "片倉真由子", "Rodney Whitaker", "Carl Allen"]
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-faith"
-releaseYear = 2010
-releaseLabel = "Pony Canyon"
-releaseCode = "MYCJ-30578"
 [cover]
   image = "mayukokatakura-faith-460.jpeg"
   alt = "Cover art of Faith by Mayuko Katakura"
   relative = true
-[[credits]]
-  name = "Mayuko Katakura"
-  slug = "mayuko-katakura"
-  instrument = "piano"
-  japanese = "片倉真由子 Katakura Mayuko"
-[[credits]]
-  name = "Rodney Whitaker"
-  slug = "rodney-whitaker"
-  instrument = "bass"
-[[credits]]
-  name = "Carl Allen"
-  slug = "carl-allen"
-  instrument = "drums"
 +++
 
 _Faith_ is the second album from Mayuko Katakura, an amazing jazz pianist with an impeccable touch that echoes jazz piano legends. Listening to Katakura, one can sense the fondness and appreciation for players like McCoy Tyner and Sonny Clark. In fact, the album’s wistful ballad “Blue Sonny” was written for Sonny Clark by Katakura.
@@ -48,3 +32,14 @@ This straight-ahead jazz trio is marked by warmth between the musicians, who agr
 {{< youtube fZN7_53Irfk >}}
 
 -   [Excerpt from track #1: “ミセス・パーカー・オブ ＫＣ (_Mrs. Parker of KC_)”](/audio/#mix-1)
+
+
+## _Faith_ by Mayuko Katakura
+
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Rodney Whitaker](/tags/rodney-whitaker/) - bass
+-   [Carl Allen](/tags/carl-allen/) - drums
+
+_Japanese names: 片倉真由子 Katakura Mayuko_
+
+Released in 2010 on Pony Canyon as MYCJ-30578.

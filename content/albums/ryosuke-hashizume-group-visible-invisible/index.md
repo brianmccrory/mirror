@@ -6,38 +6,10 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-visible-invisible"
-releaseYear = 2013
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS-1304"
 [cover]
   image = "ryosukehashizume-visible-460.jpeg"
   alt = "Cover art of Best Wishes by Maki Fujimura"
   relative = true
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor, soprano saxophones"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums, percussion"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 Music that takes you places, _Visible/Invisible_ from the Ryosuke Hashizume Group presents six works of art from the saxophonist/composer, perfectly executed by the five musicians, through mellow, warm electric guitar, grooving and smooth electric fretless bass, organic and emotive piano, thrillingly creative drumming, and center-stage visceral tenor sax, filling out the spaces of otherworldly jazz.
@@ -60,3 +32,16 @@ With six songs ranging from eight to 16 minutes each, the music breathes with li
 {{< youtube uY5A-3jph-o >}}
 
 -   [Excerpt from track #4: “Cycles”](/audio/#mix-4)
+
+
+## __Visible/Invisible__ by Ryosuke Hashizume Group
+
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor, soprano saxophones
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums, percussion
+
+_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 佐藤浩一 Sato Koichi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
+
+Released in 2013 on Apollo Sounds as APLS-1304.

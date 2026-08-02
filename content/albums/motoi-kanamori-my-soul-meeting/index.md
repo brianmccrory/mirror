@@ -6,38 +6,10 @@ tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", 
 categories = ["albums"]
 draft = false
 slug = "motoi-kanamori-my-soul-meeting"
-releaseYear = 2018
-releaseLabel = "Laplace Records"
-releaseCode = "LPDCD-103"
 [cover]
   image = "motoikanamori-mysoul-460.jpeg"
   alt = "Cover art of My Soul Meeting by Motoi Kanamori"
   relative = true
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Hiroyuki Takubo"
-  slug = "hiroyuki-takubo"
-  instrument = "piano"
-  japanese = "田窪寛之 Takubo Hiroyuki"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
-[[credits]]
-  name = "Erena Terakubo"
-  slug = "erena-terakubo"
-  instrument = "alto sax (tr. #6, 7)"
-  japanese = "寺久保エレナ Terakubo Erena"
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "tenor sax (tr. #6, 7)"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
 +++
 
 Jazz bassist Motoi Kanamori’s _My Soul Meeting_ from 2018 is his album debut as leader, where his jazz group rips and swings through eight tracks of modern piano trio jazz. With a polished, fun touch, the group delivers mid- and up-tempo jazz with propulsive grooves, expressive auras, and well-timed hits. His piano trio is joined by alto and tenor sax on two tracks as well, amping up the energy with edginess and texture.
@@ -64,3 +36,16 @@ The well-arranged album flows with vim and vigor, music devoted to satisfying li
 {{< youtube YhQnfXHlBVg >}}
 
 -   [Excerpt from track #7: “Metro Maniac”](/audio/#mix-6)
+
+
+## _My Soul Meeting_ by Motoi Kanamori
+
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Erena Terakubo](/tags/erena-terakubo/) - alto sax (tr. #6, 7)
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - tenor sax (tr. #6, 7)
+
+_Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山田玲 Yamada Akira 寺久保エレナ Terakubo Erena 吉本章紘 Yoshimoto Akihiro_
+
+Released in 2018 on Laplace Records as LPDCD-103.

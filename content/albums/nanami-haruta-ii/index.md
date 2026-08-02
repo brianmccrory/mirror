@@ -6,39 +6,11 @@ tags = ["Nanami Haruta", "治田七海", "Akihiro Yoshimoto", "吉本章紘", "M
 categories = ["albums"]
 draft = false
 slug = "nanami-haruta-ii"
-releaseYear = 2022
-releaseLabel = "Media Stylist"
-releaseCode = "MSC-9020"
 related = ["akihiro-yoshimoto-quartet-64-charlesgate", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "nanami-haruta-ii-460.jpeg"
   alt = "Cover art of II by Nanami Haruta"
   relative = true
-[[credits]]
-  name = "Nanami Haruta"
-  slug = "nanami-haruta"
-  instrument = "trombone"
-  japanese = "治田七海 Haruta Nanami"
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "saxophone"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Mayuko Katakura"
-  slug = "mayuko-katakura"
-  instrument = "piano"
-  japanese = "片倉真由子 Katakura Mayuko"
-[[credits]]
-  name = "Takumi Awaya"
-  slug = "takumi-awaya"
-  instrument = "bass"
-  japanese = "粟谷巧 Awaya Takumi"
-[[credits]]
-  name = "Shun Ishiwaka"
-  slug = "shun-ishiwaka"
-  instrument = "drums"
-  japanese = "石若駿 Ishiwaka Shun"
 +++
 
 Trombonist Nanami Haruta’s debut release _II_ from 2022 is another great example of new jazz albums from new players that keep flowing to the hands and ears of eager fans. Haruta, a young player who has been making an impact in the Japanese jazz scene, has been frequently featured as both leader and guest member at various live shows. In addition to this debut, she has also participated in other recent recordings such as _[64 Charlesgate](/akihiro-yoshimoto-quartet-64-charlesgate/)_ (2022) and _[For My Lady](/akane-matsumoto-nanami-haruta-for/)_ (2023).
@@ -102,3 +74,16 @@ Koiuichi Nishimatsu (Music Stylist) September 23, 2022
 {{< youtube tZWMpPLhPno >}}
 
 -   [Excerpt from track #1: “1965”](/audio/#mix-10)
+
+
+## _II_ by Nanami Haruta
+
+-   [Nanami Haruta](/tags/nanami-haruta/) - trombone
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - saxophone
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass
+-   [Shun Ishiwaka](/tags/shun-ishiwaka/) - drums
+
+_Japanese names: 治田七海 Haruta Nanami 吉本章紘 Yoshimoto Akihiro 片倉真由子 Katakura Mayuko 粟谷巧 Awaya Takumi 石若駿 Ishiwaka Shun_
+
+Released in 2022 on Media Stylist as MSC-9020.

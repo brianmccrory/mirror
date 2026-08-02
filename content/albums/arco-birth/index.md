@@ -6,23 +6,10 @@ tags = ["Sayaka Kishi", "岸淑香", "Mayumi Sano", "佐野まゆみ"]
 categories = ["albums"]
 draft = false
 slug = "arco-birth"
-releaseYear = 2019
-releaseLabel = "dandanorchestra"
-releaseCode = "DAN-012"
 [cover]
   image = "arco-birth-460.jpeg"
   alt = "Cover art of Birth by Arco"
   relative = true
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "piano, melodion"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Mayumi Sano"
-  slug = "mayumi-sano"
-  instrument = "cello"
-  japanese = "佐野まゆみ Sano Mayumi"
 +++
 
 The piano and cello duo Arco released their second album _Birth_ in 2019, two years after their debut _Asymmetry_, showing grace and refinement in a matured and eternally sunny outlook.
@@ -51,3 +38,13 @@ Also featured on this well-crafted album of uplifting music is the icing on the 
 {{< youtube NCsYA0F41S4 >}}
 
 -   [Excerpt from track #3: “Fiesta”](/audio/#mix-6)
+
+
+## _Birth_ by Arco
+
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - piano, melodion
+-   [Mayumi Sano](/tags/mayumi-sano/) - cello
+
+_Japanese names: 岸淑香 Kishi Sayaka 佐野まゆみ Sano Mayumi_
+
+Released in 2019 on dandanorchestra as DAN-012.

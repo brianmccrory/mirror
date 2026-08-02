@@ -6,43 +6,10 @@ tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎",
 categories = ["albums"]
 draft = false
 slug = "meu-coracao-a-tempo"
-releaseYear = 2016
-releaseLabel = "Eclectic Records"
-releaseCode = "ECLC-101"
 [cover]
   image = "meucoracao-atempo-460.jpeg"
   alt = "Cover art of A Tempo by Meu Coracao"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "vocals"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Taro Sukegawa"
-  slug = "taro-sukegawa"
-  instrument = "acoustic & electric guitar, cavaquinho"
-  japanese = "助川太郎 Sukegawa Taro"
-[[credits]]
-  name = "Ken'ichiro Shinzawa"
-  slug = "kenichiro-shinzawa"
-  instrument = "keyboards"
-  japanese = "新澤健一郎 Shinzawa Ken'ichiro"
-[[credits]]
-  name = "Cokky"
-  slug = "cokky"
-  instrument = "electric bass"
-  japanese = "コッキー Cokky"
-[[credits]]
-  name = "Kiyotaka Kuroda"
-  slug = "kiyotaka-kuroda"
-  instrument = "drums"
-  japanese = "黒田清高 Kuroda Kiyotaka"
-[[credits]]
-  name = "Yasuhiro Yoshigaki"
-  slug = "yasuhiro-yoshigaki"
-  instrument = "percussion (#4, 7)"
-  japanese = "芳垣安洋 Yoshigaki Yasuhiro"
 +++
 
 The Japanese vocal-guitar duo Meu Coração releases the stunning _A Tempo_ as a return to an earlier form. While the duo is well known for playing acoustic Brazilian music at sold-out concert halls and their _Hall Tone_ albums, this sixth album presents dramatic variations with an exciting full-band sound.
@@ -69,3 +36,17 @@ The music grooves with creative arrangements and interesting effects, rooted by 
 {{< youtube -5KLQHihHgw >}}
 
 -   [Excerpt from track #1: “Samba de uma nota so[']”](/audio/#mix-2)
+
+
+## _A Tempo_ by Meu Coracao
+
+-   [Emiko Voice](/tags/emiko-voice/) - vocals
+-   [Taro Sukegawa](/tags/taro-sukegawa/) - acoustic &amp; electric guitar, cavaquinho
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa/) - keyboards
+-   [Cokky](/tags/cokky/) - electric bass
+-   [Kiyotaka Kuroda](/tags/kiyotaka-kuroda/) - drums
+-   [Yasuhiro Yoshigaki](/tags/yasuhiro-yoshigaki/) - percussion (#4, 7)
+
+_Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro 新澤健一郎 Shinzawa Ken'ichiro コッキー Cokky 黒田清高 Kuroda Kiyotaka 芳垣安洋 Yoshigaki Yasuhiro_
+
+Released in 2016 on Eclectic Records as ECLC-101.

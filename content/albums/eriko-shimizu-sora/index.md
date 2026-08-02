@@ -6,38 +6,10 @@ tags = ["Eriko Shimizu", "清水絵理子", "Toshihiko Inoue", "井上淑彦", "
 categories = ["albums"]
 draft = false
 slug = "eriko-shimizu-sora"
-releaseYear = 2010
-releaseLabel = "Casnet"
-releaseCode = "CSNT-8003"
 [cover]
   image = "erikoshimizu-sora-460.jpeg"
   alt = "Cover art of Sora by Eriko Shimizu"
   relative = true
-[[credits]]
-  name = "Eriko Shimizu"
-  slug = "eriko-shimizu"
-  instrument = "piano"
-  japanese = "清水絵理子 Shimizu Eriko"
-[[credits]]
-  name = "Toshihiko Inoue"
-  slug = "toshihiko-inoue"
-  instrument = "saxophone"
-  japanese = "井上淑彦 Inoue Toshihiko"
-[[credits]]
-  name = "Saori Sendo"
-  slug = "saori-sendo"
-  instrument = "percussion"
-  japanese = "仙道さおり Sendo Saori"
-[[credits]]
-  name = "Kunpei Nakabayashi"
-  slug = "kunpei-nakabayashi"
-  instrument = "bass"
-  japanese = "中林薫平 Nakabayashi Kunpei"
-[[credits]]
-  name = "Daisuke Yoshioka"
-  slug = "daisuke-yoshioka"
-  instrument = "drums"
-  japanese = "吉岡大輔 Yoshioka Daisuke"
 +++
 
 Pianist Eriko Shimizu’s _Sora_ is her debut album from 2010 on which she leads her jazz combo through seven songs featuring original and colorful arrangements. Shimizu performs with her piano trio augmented with special guests percussionist Saori Sendo, who supplies bells, chimes, and elemental sounds not typically found in jazz piano trios, and saxophonist Toshihiko Inoue who joins on a few tracks.
@@ -64,3 +36,16 @@ Along with original compositions, Duke Ellington’s “Rockin’ In Rhythm” j
 {{< youtube hWM8mchO_oE >}}
 
 -   [Excerpt from track #1: “SORA”](/audio/#mix-6)
+
+
+## _Sora_ by Eriko Shimizu
+
+-   [Eriko Shimizu](/tags/eriko-shimizu/) - piano
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
+-   [Saori Sendo](/tags/saori-sendo/) - percussion
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Daisuke Yoshioka](/tags/daisuke-yoshioka/) - drums
+
+_Japanese names: 清水絵理子 Shimizu Eriko 井上淑彦 Inoue Toshihiko 仙道さおり Sendo Saori 中林薫平 Nakabayashi Kunpei 吉岡大輔 Yoshioka Daisuke_
+
+Released in 2010 on Casnet as CSNT-8003.

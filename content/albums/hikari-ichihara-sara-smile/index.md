@@ -6,39 +6,11 @@ tags = ["Hikari Ichihara", "市原ひかり", "Adam Birnbaum", "Peter Washington
 categories = ["albums"]
 draft = false
 slug = "hikari-ichihara-sara-smile"
-releaseYear = 2006
-releaseLabel = "Leafage Jazz"
-releaseCode = "PCCY-60003"
 related = ["hikari-ichihara-group-move-on"]
 [cover]
   image = "hikari-ichihara-sara-smile-460.jpeg"
   alt = "Cover art of Sara Smile by Hikari Ichihara"
   relative = true
-[[credits]]
-  name = "Hikari Ichihara"
-  slug = "hikari-ichihara"
-  instrument = "trumpet & flugelhorn"
-  japanese = "市原ひかり Ichihara Hikari"
-[[credits]]
-  name = "Adam Birnbaum"
-  slug = "adam-birnbaum"
-  instrument = "piano"
-[[credits]]
-  name = "Peter Washington"
-  slug = "peter-washington"
-  instrument = "bass"
-[[credits]]
-  name = "Lewis Nash"
-  slug = "lewis-nash"
-  instrument = "drums"
-[[credits]]
-  name = "Dominick Farinacci"
-  slug = "dominick-farinacci"
-  instrument = "trumpet"
-[[credits]]
-  name = "Grant Stewart"
-  slug = "grant-stewart"
-  instrument = "tenor saxophone"
 +++
 
 _Sara Smile_ is the second album from trumpeter Hikari Ichihara, released in 2006. This nine-track album is an alluring mix of jazz standards, pop covers, and a few of Ichihara’s original compositions.
@@ -138,3 +110,17 @@ Hikari’s jazz journey has just begun. We look forward to what will come.
 {{< youtube XFVixKdrx5U >}}
 
 -   [Excerpt from track #6: “Sara Smile”](/audio/#mix-11)
+
+
+## _Sara Smile_ by Hikari Ichihara
+
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet &amp; flugelhorn
+-   [Adam Birnbaum](/tags/adam-birnbaum/) - piano
+-   [Peter Washington](/tags/peter-washington/) - bass
+-   [Lewis Nash](/tags/lewis-nash/) - drums
+-   [Dominick Farinacci](/tags/dominick-farinacci/) - trumpet
+-   [Grant Stewart](/tags/grant-stewart/) - tenor saxophone
+
+_Japanese names: 市原ひかり Ichihara Hikari_
+
+Released in 2006 on Leafage Jazz as PCCY-60003.

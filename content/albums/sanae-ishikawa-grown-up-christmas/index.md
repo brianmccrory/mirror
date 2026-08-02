@@ -6,38 +6,10 @@ tags = ["Sanae Ishikawa", "石川早苗", "Takayoshi Baba", "馬場孝喜", "Hid
 categories = ["albums"]
 draft = false
 slug = "sanae-ishikawa-grown-up-christmas"
-releaseYear = 2018
-releaseLabel = "Sanae Ishikawa Seasonal Japanese Songbook Project"
-releaseCode = "SJSP-002"
 [cover]
   image = "sanaeishikawa-grownup-460.jpeg"
   alt = "Cover art of Grown-up Christmas Gift by Sanae Ishikawa"
   relative = true
-[[credits]]
-  name = "Sanae Ishikawa"
-  slug = "sanae-ishikawa"
-  instrument = "vocal"
-  japanese = "石川早苗 Ishikawa Sanae"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar"
-  japanese = "馬場孝喜 Baba Takayoshi"
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano, keyboard"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums, bell"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 +++
 
 Enterprising singer Sanae Ishikawa presents us with her passionate voice on _Grown-up Christmas Gift_ from 2018, a mini-album celebrating classic and modern Christmas songs in a jazz and pop setting. As part of her successful Seasonal Japanese Songbook Project crowdfunding, the popular singer released this album along with her full-length album _冬-Winter-_ to great anticipation, just in time for the Christmas season that year. _春-Spring-_ (2019) and _夏-Summer-_ (2020) have also been released in this jazzy J-pop series, with a hope of seeing _秋-Autumn-_ in the not-too-distant future.
@@ -62,3 +34,16 @@ Track two features Ishikawa with “Soft Voice”, a four-part vocal group singi
 {{< youtube T9zM5f2Bcdg >}}
 
 -   [Excerpt from track #1: “クリスマス・メドレー (_Christmas Medley_)”](/audio/#mix-4)
+
+
+## _Grown-up Christmas Gift_ by Sanae Ishikawa
+
+-   [Sanae Ishikawa](/tags/sanae-ishikawa/) - vocal
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano, keyboard
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums, bell
+
+_Japanese names: 石川早苗 Ishikawa Sanae 馬場孝喜 Baba Takayoshi 堀秀彰 Hori Hideaki 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
+
+Released in 2018 on Sanae Ishikawa Seasonal Japanese Songbook Project as SJSP-002.

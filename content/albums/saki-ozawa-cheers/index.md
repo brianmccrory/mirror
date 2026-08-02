@@ -6,39 +6,11 @@ tags = ["Saki Ozawa", "小沢咲希", "Koji Yasuda", "安田幸司", "Takumi Awa
 categories = ["albums"]
 draft = false
 slug = "saki-ozawa-cheers"
-releaseYear = 2023
-releaseLabel = "ReBorn Wood"
-releaseCode = "RBW-0027"
 related = ["fumika-asari-introducin", "naoko-tanaka-appreciation", "nanami-haruta-ii", "mayuko-katakura-duality-of-my-soul"]
 [cover]
   image = "saki-ozawa-cheers-460.jpeg"
   alt = "Cover art of Cheers by Saki Ozawa"
   relative = true
-[[credits]]
-  name = "Saki Ozawa"
-  slug = "saki-ozawa"
-  instrument = "piano"
-  japanese = "小沢咲希 Ozawa Saki"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass (tracks #1, 4, 5, 7)"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Takumi Awaya"
-  slug = "takumi-awaya"
-  instrument = "bass (tracks #2, 6, 8, 9, 10)"
-  japanese = "粟谷巧 Awaya Takumi"
-[[credits]]
-  name = "Yusuke Yaginuma"
-  slug = "yusuke-yaginuma"
-  instrument = "drums"
-  japanese = "柳沼佑育 Yaginuma Yusuke"
-[[credits]]
-  name = "Ema"
-  slug = "ema"
-  instrument = "vocal (#7)"
-  japanese = "エマ Ema"
 +++
 
 _Cheers!_ is the happy-go-lucky title of pianist Saki Ozawa’s debut release from 2023. It’s a fitting greeting as an introduction to this set as one that is pleasantly nimble and widely lighthearted in style. The merriment of this statement begins even from the front cover image: a fun shot of the smiling pianist in an illustrated setting with friendly-looking characters including happy drinkers, a cat on a couch, and a duck with a backstory.
@@ -96,3 +68,16 @@ In addition to two famous jazz standards, the songs include her blues number “
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=PLkMuVISai0HmQsPv4ziKYHOKpiD2B5xUv)
 
 -   [Excerpt from track #5: “Something Like That”](/audio/#mix-15)
+
+
+## _Cheers!_ by Saki Ozawa
+
+-   [Saki Ozawa](/tags/saki-ozawa/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass (tracks #1, 4, 5, 7)
+-   [Takumi Awaya](/tags/takumi-awaya/) - bass (tracks #2, 6, 8, 9, 10)
+-   [Yusuke Yaginuma](/tags/yusuke-yaginuma/) - drums
+-   [Ema](/tags/ema/) - vocal (#7)
+
+_Japanese names: 小沢咲希 Ozawa Saki 安田幸司 Yasuda Koji 粟谷巧 Awaya Takumi 柳沼佑育 Yaginuma Yusuke エマ Ema_
+
+Released in 2023 on ReBorn Wood as RBW-0027.

@@ -6,49 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manab
 categories = ["albums"]
 draft = false
 slug = "nhorhm-new-heritage-of-real-heavy-metal"
-releaseYear = 2015
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS1905/APLS1510R"
 related = ["nhorhm-extra-edition", "hitomi-nishiyama-trio-parallax-live", "hitomi-nishiyama-dot", "hitomi-nishiyama-echo"]
 [cover]
   image = "nhorhm-new-heritage-of-real-heavy-metal-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal by NHORHM"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano, arrangements, composition"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "percussion"
-  japanese = "橋本学 Hashimoto Manabu"
-[[credits]]
-  name = "Tomomi Oda"
-  slug = "tomomi-oda"
-  instrument = "vocals (track #4)"
-  japanese = "小田朋美 Oda Tomomi"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "acoustic guitar (track #5)"
-  japanese = "馬場孝喜 Baba Takayoshi"
-[[credits]]
-  name = "Hikari Ichihara"
-  slug = "hikari-ichihara"
-  instrument = "trumpet (track #8)"
-  japanese = "市原ひかり Ichihara Hikari"
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "sax (track #10)"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
 +++
 
 NHORHM is _New Heritage of Real Heavy Metal_. It’s not only a homage to the original NWOBHM abbreviation, but also an incredible initialism of the three musicians: **N** ishiyama **H** itomi (piano), **O** rihaya **R** yoji (bass), and **H** ashimoto **M** anabu (drums), with names in the last-name-first Japanese convention. (_I include a brief diversion on “What is NWOBHM?” later, below..._)
@@ -263,3 +225,18 @@ Hitomi Nishiyama’s new project “NHORHM” begins! &lt;Cover model: Lukino Fu
 -   [NHORHM Information](https://nhorhm.tumblr.com/)
 
 -   [Hitomi Nishiyama’s post on NHOHRM (December 10, 2015)](http://blog.livedoor.jp/hitomipf79/archives/52341894.html)
+
+
+## _New Heritage of Real Heavy Metal_ by NHORHM
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - percussion
+-   [Tomomi Oda](/tags/tomomi-oda/) - vocals (track #4)
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - acoustic guitar (track #5)
+-   [Hikari Ichihara](/tags/hikari-ichihara/) - trumpet (track #8)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - sax (track #10)
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu 小田朋美 Oda Tomomi 馬場孝喜 Baba Takayoshi 市原ひかり Ichihara Hikari 橋爪亮督 Hashizume Ryosuke_
+
+Released in 2015 on Apollo Sounds as APLS1905/APLS1510R.

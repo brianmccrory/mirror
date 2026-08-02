@@ -6,27 +6,10 @@ tags = ["Mayuko Katakura", "片倉真由子", "Yasushi Nakamura", "中村恭士"
 categories = ["albums"]
 draft = false
 slug = "mayuko-katakura-inspiration"
-releaseYear = 2009
-releaseLabel = "Pony Canyon"
-releaseCode = "MYCJ-30554"
 [cover]
   image = "mayukokatakura-inspiration-460.jpeg"
   alt = "Cover art of Inspiration by Mayuko Katakura"
   relative = true
-[[credits]]
-  name = "Mayuko Katakura"
-  slug = "mayuko-katakura"
-  instrument = "piano"
-  japanese = "片倉真由子 Katakura Mayuko"
-[[credits]]
-  name = "Yasushi Nakamura"
-  slug = "yasushi-nakamura"
-  instrument = "bass"
-  japanese = "中村恭士 Nakamura Yasushi"
-[[credits]]
-  name = "Carl Allen"
-  slug = "carl-allen"
-  instrument = "drums"
 +++
 
 Pianist Mayuko Katakura’s 2009 debut album _Inspiration_ immediately impresses. The album kicks off at a rapid pace with “Blues For Tyner”, a tribute to one of her jazz inspirations pianist McCoy Tyner. Right from this fierce opening, Katakura’s amazing technique is on full display with angular, acrobatic lines flying through this up-tempo tune.
@@ -53,3 +36,14 @@ In addition to speed, Katakura’s confident jazz piano sense extends to bluesy 
 {{< youtube O3V34fItd8Y >}}
 
 -   [Excerpt from track #1: “ブルース・フォー・タイナー (_Blues For Tyner_)”](/audio/#mix-2)
+
+
+## _Inspiration_ by Mayuko Katakura
+
+-   [Mayuko Katakura](/tags/mayuko-katakura/) - piano
+-   [Yasushi Nakamura](/tags/yasushi-nakamura/) - bass
+-   [Carl Allen](/tags/carl-allen/) - drums
+
+_Japanese names: 片倉真由子 Katakura Mayuko 中村恭士 Nakamura Yasushi_
+
+Released in 2009 on Pony Canyon as MYCJ-30554.

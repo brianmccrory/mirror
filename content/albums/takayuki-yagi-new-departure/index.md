@@ -6,34 +6,10 @@ tags = ["Takayuki Yagi", "八木隆幸", "Scott Wendholt", "Ralph Bowen", "Jay A
 categories = ["albums"]
 draft = false
 slug = "takayuki-yagi-new-departure"
-releaseYear = 2018
-releaseLabel = "JazzTOKYO RECORDS"
-releaseCode = "JTRC-002"
 [cover]
   image = "takayukiyagi-newdeparture-460.jpeg"
   alt = "Cover art of New Departure by Takayuki Yagi"
   relative = true
-[[credits]]
-  name = "Takayuki Yagi"
-  slug = "takayuki-yagi"
-  instrument = "piano"
-  japanese = "八木隆幸 Yagi Takayuki"
-[[credits]]
-  name = "Scott Wendholt"
-  slug = "scott-wendholt"
-  instrument = "trumpet (#1, 2, 3, 5)"
-[[credits]]
-  name = "Ralph Bowen"
-  slug = "ralph-bowen"
-  instrument = "tenor saxophone (#1, 2, 3, 5)"
-[[credits]]
-  name = "Jay Anderson"
-  slug = "jay-anderson"
-  instrument = "bass"
-[[credits]]
-  name = "Billy Drummond"
-  slug = "billy-drummond"
-  instrument = "drums"
 +++
 
 Pianist Takayuki Yagi’s 2018 release _New Departure_ brings him together with stars of the New York jazz scene for a solid collaboration of New York and Tokyo energies.
@@ -123,3 +99,16 @@ Drummer Frederick Waits wrote this song thinking of his son Nasheet, constructed
 {{< youtube _KiyjtDRyfM >}}
 
 -   [Excerpt from track #5: “Kyoto Tower”](/audio/#mix-7)
+
+
+## _New Departure_ by Takayuki Yagi
+
+-   [Takayuki Yagi](/tags/takayuki-yagi/) - piano
+-   [Scott Wendholt](/tags/scott-wendholt/) - trumpet (#1, 2, 3, 5)
+-   [Ralph Bowen](/tags/ralph-bowen/) - tenor saxophone (#1, 2, 3, 5)
+-   [Jay Anderson](/tags/jay-anderson/) - bass
+-   [Billy Drummond](/tags/billy-drummond/) - drums
+
+_Japanese names: 八木隆幸 Yagi Takayuki_
+
+Released in 2018 on JazzTOKYO RECORDS as JTRC-002.

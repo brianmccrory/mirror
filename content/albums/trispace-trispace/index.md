@@ -6,28 +6,10 @@ tags = ["Yuichi Hayashi", "林祐市", "Morihiro Omura", "大村守弘", "Yoshit
 categories = ["albums"]
 draft = false
 slug = "trispace-trispace"
-releaseYear = 2010
-releaseLabel = "Leccia Records / feel free products"
-releaseCode = "LRTR-0004"
 [cover]
   image = "trispace-trispace-460.jpeg"
   alt = "Cover art of Trispace by Trispace"
   relative = true
-[[credits]]
-  name = "Yuichi Hayashi"
-  slug = "yuichi-hayashi"
-  instrument = "Piano, Composition"
-  japanese = "林祐市 Hayashi Yuichi"
-[[credits]]
-  name = "Morihiro Omura"
-  slug = "morihiro-omura"
-  instrument = "bass"
-  japanese = "大村守弘 Omura Morihiro"
-[[credits]]
-  name = "Yoshitaka Yamashita"
-  slug = "yoshitaka-yamashita"
-  instrument = "drums"
-  japanese = "山下佳孝 Yamashita Yoshitaka"
 +++
 
 Inspired by a modern, clean European jazz sound, the jazz piano trio Trispace on their debut 2010 album brings to mind modern jazz along the lines of Swedish jazz supergroup Esbjörn Svensson Trio (EST). Focused in concept, Trispace plays with delicate, beautifully recorded instruments, airy jazz-rock beats, and occasional odd-beat rhythmic structures that carry the listener along on comfortable musical journeys. Even the stylishly serene jacket design conveys the intended atmosphere, perhaps paying homage to the great modern jazz recordings from the ECM label visually as well as aurally.
@@ -52,3 +34,14 @@ With nine original songs spanning jazz-rock, soft ballads, and a light EST and B
 {{< youtube OI2Rg7KwrZk >}}
 
 -   [Excerpt from track #6: “Peaceful Mind”](/audio/#mix-4)
+
+
+## _Trispace_ by Trispace
+
+-   [Yuichi Hayashi](/tags/yuichi-hayashi/) - Piano, Composition
+-   [Morihiro Omura](/tags/morihiro-omura/) - bass
+-   [Yoshitaka Yamashita](/tags/yoshitaka-yamashita/) - drums
+
+_Japanese names: 林祐市 Hayashi Yuichi 大村守弘 Omura Morihiro 山下佳孝 Yamashita Yoshitaka_
+
+Released in 2010 on Leccia Records / feel free products as LRTR-0004.

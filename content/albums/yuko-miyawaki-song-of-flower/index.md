@@ -6,43 +6,10 @@ tags = ["Yuko Miyawaki", "宮脇裕子", "Yutaka Handa", "伴田裕", "Taeko Kur
 categories = ["albums"]
 draft = false
 slug = "yuko-miyawaki-song-of-flower"
-releaseYear = 2011
-releaseLabel = "Coume Music"
-releaseCode = "DQC-614"
 [cover]
   image = "yukomiyawaki-songof-460.jpeg"
   alt = "Cover art of Song of Flower by Yuko Miyawaki"
   relative = true
-[[credits]]
-  name = "Yuko Miyawaki"
-  slug = "yuko-miyawaki"
-  instrument = "trumpet, flugelhorn"
-  japanese = "宮脇裕子 Miyawaki Yuko"
-[[credits]]
-  name = "Yutaka Handa"
-  slug = "yutaka-handa"
-  instrument = "tenor sax"
-  japanese = "伴田裕 Handa Yutaka"
-[[credits]]
-  name = "Taeko Kurita"
-  slug = "taeko-kurita"
-  instrument = "piano"
-  japanese = "栗田妙子 Kurita Taeko"
-[[credits]]
-  name = "Yutaka Kaido"
-  slug = "yutaka-kaido"
-  instrument = "bass"
-  japanese = "カイドーユタカ Kaido Yutaka"
-[[credits]]
-  name = "Masashi Tomikawa"
-  slug = "masashi-tomikawa"
-  instrument = "drums"
-  japanese = "冨川政嗣 Tomikawa Masashi"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano (tr. #3, 5, 6, 8, 9)"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
 +++
 
 Japanese jazz musician Yuko Miyawaki’s debut album _Song of Flower_ from 2011 brims with understated calm, burning steadily through original, mellow sounds and sparkling improvisation. Miyawaki’s trumpet and flugelhorn centers her core jazz quartet, adding a fifth member on tenor sax to embellish her jazz themes with sweet harmonies and cutting solos on four tracks.
@@ -67,3 +34,17 @@ In addition to her compelling horn playing, Miyawaki’s contributions also incl
 {{< youtube AwS9X3VLXf4 >}}
 
 -   [Excerpt from track #1: “SAKURA”](/audio/#mix-6)
+
+
+## _Song of Flower_ by Yuko Miyawaki
+
+-   [Yuko Miyawaki](/tags/yuko-miyawaki/) - trumpet, flugelhorn
+-   [Yutaka Handa](/tags/yutaka-handa/) - tenor sax
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Yutaka Kaido](/tags/yutaka-kaido/) - bass
+-   [Masashi Tomikawa](/tags/masashi-tomikawa/) - drums
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (tr. #3, 5, 6, 8, 9)
+
+_Japanese names: 宮脇裕子 Miyawaki Yuko 伴田裕 Handa Yutaka 栗田妙子 Kurita Taeko カイドーユタカ Kaido Yutaka 冨川政嗣 Tomikawa Masashi 大口純一郎 Ohkuchi Junichiro_
+
+Released in 2011 on Coume Music as DQC-614.

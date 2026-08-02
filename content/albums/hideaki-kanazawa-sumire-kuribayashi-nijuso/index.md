@@ -6,23 +6,10 @@ tags = ["Hideaki Kanazawa", "金澤英明", "Sumire Kuribayashi", "栗林すみ�
 categories = ["albums"]
 draft = false
 slug = "hideaki-kanazawa-sumire-kuribayashi-nijuso"
-releaseYear = 2017
-releaseLabel = "Roving Spirits"
-releaseCode = "RKCJ-2063"
 [cover]
   image = "kanazawa-kuribayashi-nijuso-460.jpeg"
   alt = "Cover art of Nijuso by Hideaki Kanazawa & Sumire Kuribayashi"
   relative = true
-[[credits]]
-  name = "Hideaki Kanazawa"
-  slug = "hideaki-kanazawa"
-  instrument = "contrabass"
-  japanese = "金澤英明 Kanazawa Hideaki"
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano, percussion"
-  japanese = "栗林すみれ Kuribayashi Sumire"
 +++
 
 Veteran bassist Hideaki Kanazawa and stellar pianist Sumire Kuribayashi join up for a calm and lyrical jazz duo on _Nijuso_ from 2017.
@@ -51,3 +38,13 @@ From the opening Ornette Coleman number “Mary Hartman, Mary Hartman”, the dr
 {{< youtube pbo8gq466iw >}}
 
 -   [Excerpt from track #1: “Mary Hartman, Mary Hartman”](/audio/#mix-5)
+
+
+## _Nijuso_ by Hideaki Kanazawa &amp; Sumire Kuribayashi
+
+-   [Hideaki Kanazawa](/tags/hideaki-kanazawa/) - contrabass
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano, percussion
+
+_Japanese names: 金澤英明 Kanazawa Hideaki 栗林すみれ Kuribayashi Sumire_
+
+Released in 2017 on Roving Spirits as RKCJ-2063.

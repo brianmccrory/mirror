@@ -6,29 +6,11 @@ tags = ["Michiyo Matsushita", "松下美千代", "Show Kudo", "工藤精", "Ryo 
 categories = ["albums"]
 draft = false
 slug = "michiyo-matsushita-trio-free"
-releaseYear = 2024
-releaseLabel = "MUGI Record"
-releaseCode = "MUGI-2408"
 related = ["michiyo-matsushita-sally-gardens", "mamoru-ishida-ishida-mamoru-4-feat", "sumito-oi-sumitty-and-the-funfair", "ami-fukui-trio-new-journey", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "michiyo-matsushita-trio-free-460.jpeg"
   alt = "Cover art of Free by Michiyo Matsushita Trio"
   relative = true
-[[credits]]
-  name = "Michiyo Matsushita"
-  slug = "michiyo-matsushita"
-  instrument = "piano"
-  japanese = "松下美千代 Matsushita Michiyo"
-[[credits]]
-  name = "Show Kudo"
-  slug = "show-kudo"
-  instrument = "bass"
-  japanese = "工藤精 Kudo Show"
-[[credits]]
-  name = "Ryo Saito"
-  slug = "ryo-saito"
-  instrument = "drums"
-  japanese = "斉藤良 Saito Ryo"
 +++
 
 _Free_ is the third album from the Michiyo Matsushita Trio. With the members active in their individual recording and playing schedules in Japan and internationally, they have continued to play together regularly as the Michiyo Matsushita Trio. Still, it had been 13 years since their previous 2011 release _Prayer for Peace_ (and half that since Matsushita’s 2018 solo album [_Sally Gardens_](/michiyo-matsushita-sally-gardens/)), so fans of the trio were pleasantly surprised to hear of this new offering coming out last year. As with the previous trio albums, old friends and long-running members Show Kudo on bass and Ryo Saito on drums join pianist Michiyo “Michiyon” Matsushita.
@@ -106,3 +88,14 @@ Continuing from _La Tierra_, track #2 “Kaze Soyogu” (風そよぐ, _the wind
 -   [Amazon shop](https://www.amazon.co.jp/dp/B0DD6X9NV8/?coliid=I2MQNHE3P37PNM&colid=2N5XF3VRW1OZL&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 
 -   [Google order form](https://docs.google.com/forms/d/e/1FAIpQLSdPQKZf_0BuAkMSqOiFoQ4O4h75gr2CZ5dx8fsTNpZuLh8SWA/viewform)
+
+
+## _Free_ by Michiyo Matsushita Trio
+
+-   [Michiyo Matsushita](/tags/michiyo-matsushita/) - piano
+-   [Show Kudo](/tags/show-kudo/) - bass
+-   [Ryo Saito](/tags/ryo-saito/) - drums
+
+_Japanese names: 松下美千代 Matsushita Michiyo 工藤精 Kudo Show 斉藤良 Saito Ryo_
+
+Released in 2024 on MUGI Record as MUGI-2408.

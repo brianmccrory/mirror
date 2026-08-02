@@ -6,29 +6,11 @@ tags = ["Toshiki Abe", "阿部俊貴", "Sayaka Kishi", "岸淑香", "Tetsunori M
 categories = ["albums"]
 draft = false
 slug = "toshiki-abe-life-memory-project-simplicity"
-releaseYear = 2022
-releaseLabel = "Yokohama Reunion"
-releaseCode = "YRCD-020"
 related = ["aquapit-aquapit", "sayaketts-colors"]
 [cover]
   image = "toshiki-abe-life-memory-project-simplicity-460.jpeg"
   alt = "Cover art of The Simplicity by Toshiki Abe Life Memory Project"
   relative = true
-[[credits]]
-  name = "Toshiki Abe"
-  slug = "toshiki-abe"
-  instrument = "saxophone"
-  japanese = "阿部俊貴 Abe Toshiki"
-[[credits]]
-  name = "Sayaka Kishi"
-  slug = "sayaka-kishi"
-  instrument = "organ"
-  japanese = "岸淑香 Kishi Sayaka"
-[[credits]]
-  name = "Tetsunori Morinaga"
-  slug = "tetsunori-morinaga"
-  instrument = "drums"
-  japanese = "森永哲則 Morinaga Tetsunori"
 +++
 
 Saxophone player Toshiki Abe’s first album is titled _The Simplicity_. It was released in 2022 under the name of his band the Toshiki Abe Life Memory Project, a trio formed just one year early as a channel for Abe’s original music. This group features Abe on sax, Sayaki Kishi on organ, and Tetsunori Morinaga on drums, resulting in a funky sax/organ/drums sound that works perfectly with Abe’s soulful compositions.
@@ -71,3 +53,14 @@ I recently asked Toshiki Abe his about the memories he had of Life Memory Projec
 {{< youtube QTafj_z4mhk >}}
 
 -   [Excerpt from track #7: “Caravan”](/audio/#mix-14)
+
+
+## _The Simplicity_ by Toshiki Abe Life Memory Project
+
+-   [Toshiki Abe](/tags/toshiki-abe/) - saxophone
+-   [Sayaka Kishi](/tags/sayaka-kishi/) - organ
+-   [Tetsunori Morinaga](/tags/tetsunori-morinaga/) - drums
+
+_Japanese names: 阿部俊貴 Abe Toshiki 岸淑香 Kishi Sayaka 森永哲則 Morinaga Tetsunori_
+
+Released in 2022 on Yokohama Reunion as YRCD-020.

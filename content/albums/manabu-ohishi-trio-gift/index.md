@@ -6,26 +6,10 @@ tags = ["Manabu Ohishi", "大石学", "Jean-Philippe Viret", "Simon Goubert"]
 categories = ["albums"]
 draft = false
 slug = "manabu-ohishi-trio-gift"
-releaseYear = 2012
-releaseLabel = "Atelier Sawano"
-releaseCode = "AS-122"
 [cover]
   image = "manabuohishi-gift-460.jpeg"
   alt = "Cover art of Gift by Manabu Ohishi Trio"
   relative = true
-[[credits]]
-  name = "Manabu Ohishi"
-  slug = "manabu-ohishi"
-  instrument = "piano, pianica"
-  japanese = "大石学 Ohishi Manabu"
-[[credits]]
-  name = "Jean-Philippe Viret"
-  slug = "jean-philippe-viret"
-  instrument = "bass"
-[[credits]]
-  name = "Simon Goubert"
-  slug = "simon-goubert"
-  instrument = "drums"
 +++
 
 With the jazz album _Gift_ from 2012, pianist and composer Manabu Ohishi reunites the trio from his album _Wish_ (2010) featuring bassist Jean-Philippe Viret and drummer Simon Goubert, and releases another beautifully-recorded album of Japanese/European piano jazz from the family-run Japanese label Atelier Sawano label.
@@ -54,3 +38,14 @@ In addition to the original numbers, a cover of the jazz standard “Softly, As 
 {{< youtube Bgm0qg6goPI >}}
 
 -   [Excerpt from track #2: “Hisyo[^]”](/audio/#mix-6)
+
+
+## _Gift_ by Manabu Ohishi Trio
+
+-   [Manabu Ohishi](/tags/manabu-ohishi/) - piano, pianica
+-   [Jean-Philippe Viret](/tags/jean-philippe-viret/) - bass
+-   [Simon Goubert](/tags/simon-goubert/) - drums
+
+_Japanese names: 大石学 Ohishi Manabu_
+
+Released in 2012 on Atelier Sawano as AS-122.

@@ -6,39 +6,11 @@ tags = ["Hiroshi Fukutomi", "福冨博", "Masahiro Yamamoto", "山本昌広", "K
 categories = ["albums"]
 draft = false
 slug = "hiroshi-fukutomi-quintet-rings-of-saturn"
-releaseYear = 2010
-releaseLabel = "D-musica"
-releaseCode = "DMCD-04"
 related = ["bungalow-metropolitan-oasis", "koichi-sato-utopia", "bungalow-past-life", "hiroshi-fukutomi-memory-stones"]
 [cover]
   image = "hiroshi-fukutomi-quintet-rings-of-saturn-460.jpeg"
   alt = "Cover art of Rings of Saturn by Hiroshi Fukutomi Quintet"
   relative = true
-[[credits]]
-  name = "Hiroshi Fukutomi"
-  slug = "hiroshi-fukutomi"
-  instrument = "guitar"
-  japanese = "福冨博 Fukutomi Hiroshi"
-[[credits]]
-  name = "Masahiro Yamamoto"
-  slug = "masahiro-yamamoto"
-  instrument = "alto and soprano sax"
-  japanese = "山本昌広 Yamamoto Masahiro"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Ryo Shibata"
-  slug = "ryo-shibata"
-  instrument = "drums"
-  japanese = "柴田亮 Shibata Ryo"
 +++
 
 Guitarist Hiroshi Fukutomi’s first album is _Rings of Saturn_ from 2010. On this recording, the guitarist plays modern jazz compositions under the flag of his own quintet featuring Masahiro Yamamoto on alto and soprano sax, Koichi Sato on piano (also on Fukutomi’s 2014 followup [_Memory Stones_](/hiroshi-fukutomi-memory-stones/)), Hiroshi Ikejiri on bass, and Ryo Shibata on drums.
@@ -147,3 +119,16 @@ The resonance of five distinct personalities blossoms with a rich harmony.
 -   [Full album (Spotify)](https://open.spotify.com/album/0dq64CFzaPIwnOynklo6gG)
 
 -   [Excerpt from track #2: “Lost And Found”](/audio/#mix-14)
+
+
+## _Rings of Saturn_ by Hiroshi Fukutomi Quintet
+
+-   [Hiroshi Fukutomi](/tags/hiroshi-fukutomi/) - guitar
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto and soprano sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ryo Shibata](/tags/ryo-shibata/) - drums
+
+_Japanese names: 福冨博 Fukutomi Hiroshi 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 柴田亮 Shibata Ryo_
+
+Released in 2010 on D-musica as DMCD-04.

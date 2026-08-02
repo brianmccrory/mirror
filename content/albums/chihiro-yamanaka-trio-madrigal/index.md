@@ -6,30 +6,10 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Rodney Green", "
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-trio-madrigal"
-releaseYear = 2004
-releaseLabel = "Atelier Sawano"
-releaseCode = "AS-038"
 [cover]
   image = "chihiroyamanaka-madrigal-460.jpeg"
   alt = "Cover art of Madrigal by Chihiro Yamanaka Trio"
   relative = true
-[[credits]]
-  name = "Chihiro Yamanaka"
-  slug = "chihiro-yamanaka"
-  instrument = "piano"
-  japanese = "山中千尋 Yamanaka Chihiro"
-[[credits]]
-  name = "Larry Grenadier"
-  slug = "larry-grenadier"
-  instrument = "bass"
-[[credits]]
-  name = "Rodney Green"
-  slug = "rodney-green"
-  instrument = "drums (#1, 3, 4)"
-[[credits]]
-  name = "Jeff Ballard"
-  slug = "jeff-ballard"
-  instrument = "drums"
 +++
 
 On her third album _Madrigal_, jazz pianist Chihiro Yamanaka continues on her upward arc, working her magic on jazz standards and originals with a top-notch trio.
@@ -64,3 +44,15 @@ This album hit #1 on the HMV Weekly Modern Jazz Chart and #2 on the HMV 2004 Yea
 {{< youtube 5Gtt1rxO-R8 >}}
 
 -   [Excerpt from track #2: “Living Time Event V”](/audio/#mix-7)
+
+
+## _Madrigal_ by Chihiro Yamanaka Trio
+
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Larry Grenadier](/tags/larry-grenadier/) - bass
+-   [Rodney Green](/tags/rodney-green/) - drums (#1, 3, 4)
+-   [Jeff Ballard](/tags/jeff-ballard/) - drums
+
+_Japanese names: 山中千尋 Yamanaka Chihiro_
+
+Released in 2004 on Atelier Sawano as AS-038.

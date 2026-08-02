@@ -6,31 +6,11 @@ tags = ["Chihiro Yamanaka", "山中千尋", "Larry Grenadier", "Jeff Ballard", "
 categories = ["albums"]
 draft = false
 slug = "chihiro-yamanaka-lach-doch-mal"
-releaseYear = 2006
-releaseLabel = "Verve"
-releaseCode = "UCCJ-9077"
 related = ["chihiro-yamanaka-trio-living-without-friday", "chihiro-yamanaka-trio-when-october", "chihiro-yamanaka-trio-madrigal", "chihiro-yamanaka-outside-by-the-swing"]
 [cover]
   image = "chihiro-yamanaka-lach-460.jpeg"
   alt = "Cover art of Lach Doch Mal by Chihiro Yamanaka"
   relative = true
-[[credits]]
-  name = "Chihiro Yamanaka"
-  slug = "chihiro-yamanaka"
-  instrument = "piano"
-  japanese = "山中千尋 Yamanaka Chihiro"
-[[credits]]
-  name = "Larry Grenadier"
-  slug = "larry-grenadier"
-  instrument = "bass"
-[[credits]]
-  name = "Jeff Ballard"
-  slug = "jeff-ballard"
-  instrument = "drums"
-[[credits]]
-  name = "John Carlini"
-  slug = "john-carlini"
-  instrument = "guitar (#1, 5), banjo (#3)"
 +++
 
 Pianist Chihiro Yamanaka’s thrilling series of jazz albums continues with her fifth audio release _Lach Doch Mal_, released in 2006 on Verve with twelve tracks at just under an hour’s runtime. A special edition CD release also contains an extra DVD containing an extra version of one of the songs.
@@ -75,3 +55,15 @@ The final two tracks also remind us of Yamanaka’s fun and playful nature. In l
 {{< youtube 9xWegng0moE >}}
 
 -   [Excerpt from track #1: “カン・ビロン・ヴリュ・ダンセ (_Can biron velue danse_)”](/audio/#mix-10)
+
+
+## _Lach Doch Mal_ by Chihiro Yamanaka
+
+-   [Chihiro Yamanaka](/tags/chihiro-yamanaka/) - piano
+-   [Larry Grenadier](/tags/larry-grenadier/) - bass
+-   [Jeff Ballard](/tags/jeff-ballard/) - drums
+-   [John Carlini](/tags/john-carlini/) - guitar (#1, 5), banjo (#3)
+
+_Japanese names: 山中千尋 Yamanaka Chihiro_
+
+Released in 2006 on Verve as UCCJ-9077.

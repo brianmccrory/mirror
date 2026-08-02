@@ -6,38 +6,10 @@ tags = ["Kosuke Mine", "峰厚介", "Kazumasa Akiyama", "秋山一将", "Junichi
 categories = ["albums"]
 draft = false
 slug = "kohsuke-mine-quintet-major-to-minor"
-releaseYear = 1993
-releaseLabel = "Verve Records"
-releaseCode = "POCJ-1195"
 [cover]
   image = "kohsukemine-major-460.jpeg"
   alt = "Cover art of Major to Minor by Kohsuke Mine Quintet"
   relative = true
-[[credits]]
-  name = "Kosuke Mine"
-  slug = "kosuke-mine"
-  instrument = "tenor saxophone"
-  japanese = "峰厚介 Mine Kosuke"
-[[credits]]
-  name = "Kazumasa Akiyama"
-  slug = "kazumasa-akiyama"
-  instrument = "guitar"
-  japanese = "秋山一将 Akiyama Kazumasa"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
-[[credits]]
-  name = "Tsutomu Okada"
-  slug = "tsutomu-okada"
-  instrument = "bass"
-  japanese = "岡田勉 Okada Tsutomu"
-[[credits]]
-  name = "Ryojiro Furusawa"
-  slug = "ryojiro-furusawa"
-  instrument = "drums"
-  japanese = "古澤良治郎 Furusawa Ryojiro"
 +++
 
 Kohsuke Mine Quintet’s 1993 album _Major to Minor_ is full of life, a straight-ahead jazz outing built upon solid group unity and stimulating jazz improvisation.
@@ -76,3 +48,16 @@ This album received the 1993 Japan Jazz Disc Award.
 {{< youtube mcOFpNauLDs >}}
 
 -   [Excerpt from track #1: “Major to Minor”](/audio/#mix-7)
+
+
+## _Major to Minor_ by Kohsuke Mine Quintet
+
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor saxophone
+-   [Kazumasa Akiyama](/tags/kazumasa-akiyama/) - guitar
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Tsutomu Okada](/tags/tsutomu-okada/) - bass
+-   [Ryojiro Furusawa](/tags/ryojiro-furusawa/) - drums
+
+_Japanese names: 峰厚介 Mine Kosuke 秋山一将 Akiyama Kazumasa 大口純一郎 Ohkuchi Junichiro 岡田勉 Okada Tsutomu 古澤良治郎 Furusawa Ryojiro_
+
+Released in 1993 on Verve Records as POCJ-1195.

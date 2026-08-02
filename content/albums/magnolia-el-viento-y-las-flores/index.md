@@ -6,29 +6,11 @@ tags = ["Reiko Yamamoto", "山本玲子", "Yuka Yanagihara", "柳原由佳", "Hi
 categories = ["albums"]
 draft = false
 slug = "magnolia-el-viento-y-las-flores"
-releaseYear = 2022
-releaseLabel = "Magnolia"
-releaseCode = "MGNL-0001"
 related = ["reiko-yamamoto-square-pyramid", "yuka-yanagihara-trio-inner-views", "yuka-yanagihara-trio-beloved-ones"]
 [cover]
   image = "magnolia-el-viento-y-las-flores-460.jpeg"
   alt = "Cover art of El viento y las flores by Magnolia"
   relative = true
-[[credits]]
-  name = "Reiko Yamamoto"
-  slug = "reiko-yamamoto"
-  instrument = "vibraphone"
-  japanese = "山本玲子 Yamamoto Reiko"
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
-[[credits]]
-  name = "Hitomi Aikawa"
-  slug = "hitomi-aikawa"
-  instrument = "percussion"
-  japanese = "相川瞳 Aikawa Hitomi"
 +++
 
 Magnolia is a trio made up of vibraphone, piano, and percussion, and their debut album, _El viento y las flores_ was released in 2022. This fifty-six-minute album contains ten tracks of all original compositions, four from vibraphonist Reiko Yamamoto and three each from pianist Yuka Yanagihara and percussionist Hitomi Aikawa. Despite having three independent composers, their tight interplay and musical personalities seem tightly bound together, as if their collective music just blooms out intuitively unified.
@@ -94,3 +76,14 @@ Track #4 “Foggy Forest” is atmospherically prismatic and filled with curiosi
 ## Links
 
 -   [JazzTokyo review, interview, and photos (Japanese)](https://jazztokyo.org/reviews/cd-dvd-review/post-80616/)
+
+
+## _El viento y las flores_ by Magnolia
+
+-   [Reiko Yamamoto](/tags/reiko-yamamoto/) - vibraphone
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Hitomi Aikawa](/tags/hitomi-aikawa/) - percussion
+
+_Japanese names: 山本玲子 Yamamoto Reiko 柳原由佳 Yanagihara Yuka 相川瞳 Aikawa Hitomi_
+
+Released in 2022 on Magnolia as MGNL-0001.

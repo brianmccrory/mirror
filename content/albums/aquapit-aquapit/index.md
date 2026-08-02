@@ -6,28 +6,10 @@ tags = ["Yuta Kaneko", "金子雄太", "Yosuke Onuma", "小沼ようすけ", "Hi
 categories = ["albums"]
 draft = false
 slug = "aquapit-aquapit"
-releaseYear = 2011
-releaseLabel = "Mocloud Records"
-releaseCode = "DDCZ-1758"
 [cover]
   image = "aquapit-aquapit-460.jpeg"
   alt = "Cover art of Aquapit by Aquapit"
   relative = true
-[[credits]]
-  name = "Yuta Kaneko"
-  slug = "yuta-kaneko"
-  instrument = "Hammond B3 Organ"
-  japanese = "金子雄太 Kaneko Yuta"
-[[credits]]
-  name = "Yosuke Onuma"
-  slug = "yosuke-onuma"
-  instrument = "guitar"
-  japanese = "小沼ようすけ Onuma Yosuke"
-[[credits]]
-  name = "Hidenobu “Kalta” Otsuki"
-  slug = "hidenobu-kalta-otsuki"
-  instrument = "drums"
-  japanese = "大槻“KALTA”英宣 Otsuki Hidenobu “Kalta”"
 +++
 
 Jazz organ trio Aquapit’s first album from 2011 sets up the scene for a rollicking jazz party featuring the warm and fuzzy sounds of a funky jazz organ trio.
@@ -52,3 +34,14 @@ This first album from Aquapit offers eleven original songs, all of a piece, jam 
 {{< youtube VQ-m3v3mE2E >}}
 
 -   [Excerpt from track #1: “Street Lights”](/audio/#mix-7)
+
+
+## _Aquapit_ by Aquapit
+
+-   [Yuta Kaneko](/tags/yuta-kaneko/) - Hammond B3 Organ
+-   [Yosuke Onuma](/tags/yosuke-onuma/) - guitar
+-   [Hidenobu “Kalta” Otsuki](/tags/hidenobu-kalta-otsuki/) - drums
+
+_Japanese names: 金子雄太 Kaneko Yuta 小沼ようすけ Onuma Yosuke 大槻“KALTA”英宣 Otsuki Hidenobu “Kalta”_
+
+Released in 2011 on Mocloud Records as DDCZ-1758.

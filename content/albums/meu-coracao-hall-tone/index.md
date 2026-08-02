@@ -6,23 +6,10 @@ tags = ["Emiko Voice", "エミコヴォイス", "Taro Sukegawa", "助川太郎"]
 categories = ["albums"]
 draft = false
 slug = "meu-coracao-hall-tone"
-releaseYear = 2009
-releaseLabel = "Coo Records"
-releaseCode = "COO-300"
 [cover]
   image = "meucoracao-halltone-460.jpeg"
   alt = "Cover art of Hall Tone by Meu Coracao"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "vocal"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Taro Sukegawa"
-  slug = "taro-sukegawa"
-  instrument = "guitar"
-  japanese = "助川太郎 Sukegawa Taro"
 +++
 
 As jazz fans know, Brazilian music and bossa nova tunes are frequently present on jazz albums, playlists, and jazz bars, and Japan’s live scene is no exception. Naturally, Japanese jazz musicians and groups who specialize in Latin genres can also be found in Japan.
@@ -59,3 +46,13 @@ It’s also worth mentioning that since the 2009 debut of Hall Tone, Meu Coracao
 {{< youtube mncD6W_Ybu0 >}}
 
 -   [Excerpt from track #15: “サイ・デッサ (_Sai Dessa_)”](/audio/#mix-8)
+
+
+## _Hall Tone_ by Meu Coracao
+
+-   [Emiko Voice](/tags/emiko-voice/) - vocal
+-   [Taro Sukegawa](/tags/taro-sukegawa/) - guitar
+
+_Japanese names: エミコヴォイス Emiko Voice 助川太郎 Sukegawa Taro_
+
+Released in 2009 on Coo Records as COO-300.

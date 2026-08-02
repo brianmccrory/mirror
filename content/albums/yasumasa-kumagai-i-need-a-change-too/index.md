@@ -7,44 +7,11 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Koji Yasuda", "安田幸司",
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-i-need-a-change-too"
-releaseYear = 2008
-releaseLabel = "Anturtle Tune"
-releaseCode = "ANTX-4001"
 related = ["yasumasa-kumagai-pray", "yasumasa-kumagai-j-straight-ahead", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-ineed-460.jpeg"
   alt = "Cover art of I Need a Change, Too by Yasumasa Kumagai"
   relative = true
-[[credits]]
-  name = "Yasumasa Kumagai"
-  slug = "yasumasa-kumagai"
-  instrument = "piano"
-  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Shunsuke Umino"
-  slug = "shunsuke-umino"
-  instrument = "drums"
-  japanese = "海野俊輔 Umino Shunsuke"
-[[credits]]
-  name = "Afra"
-  slug = "afra"
-  instrument = "human beatbox (#7)"
-  japanese = "あふら Afra"
-[[credits]]
-  name = "Shinobu Ishizaki"
-  slug = "shinobu-ishizaki"
-  instrument = "alto sax (#9, 13)"
-  japanese = "石崎忍 Ishizaki Shinobu"
-[[credits]]
-  name = "Tabu Zombie"
-  slug = "tabu-zombie"
-  instrument = "trumpet (#13)"
-  japanese = "タブゾンビ Tabu Zombie"
 +++
 
 Yasumasa Kumagai’s debut album from 2008, _I Need a Change, Too_, establishes his J Jazz hip hop concept with force: From the shocking pink cover art and the unexpected electronic soulful beats of the brief opening track “I.N.T.R.O.”, the album takes thrilling twists and turns through jazz laced with groove, centered on a powerfully soulful and vibrant modern jazz piano trio.
@@ -88,3 +55,17 @@ Tabu Zombie (SOIL &amp; “PIMP” SESSIONS)
 {{< youtube -kiz2K70Glg >}}
 
 -   [Excerpt from track #2: “iI Need achange,too”](/audio/#mix-3)
+
+
+## _I Need a Change, Too_ by Yasumasa Kumagai
+
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Shunsuke Umino](/tags/shunsuke-umino/) - drums
+-   [Afra](/tags/afra/) - human beatbox (#7)
+-   [Shinobu Ishizaki](/tags/shinobu-ishizaki/) - alto sax (#9, 13)
+-   [Tabu Zombie](/tags/tabu-zombie/) - trumpet (#13)
+
+_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 安田幸司 Yasuda Koji 海野俊輔 Umino Shunsuke あふら Afra 石崎忍 Ishizaki Shinobu タブゾンビ Tabu Zombie_
+
+Released in 2008 on Anturtle Tune as ANTX-4001.

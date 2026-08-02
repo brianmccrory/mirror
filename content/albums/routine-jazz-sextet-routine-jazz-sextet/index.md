@@ -6,43 +6,10 @@ tags = ["Tomoyuki Konno", "紺野智之", "Shinpei Ruike", "類家心平", "Wata
 categories = ["albums"]
 draft = false
 slug = "routine-jazz-sextet-routine-jazz-sextet"
-releaseYear = 2008
-releaseLabel = "Routine Records"
-releaseCode = "RCJP-002"
 [cover]
   image = "routinejazzsextet-routine-460.jpeg"
   alt = "Cover art of Routine Jazz Sextet by Routine Jazz Sextet"
   relative = true
-[[credits]]
-  name = "Tomoyuki Konno"
-  slug = "tomoyuki-konno"
-  instrument = "drums"
-  japanese = "紺野智之 Konno Tomoyuki"
-[[credits]]
-  name = "Shinpei Ruike"
-  slug = "shinpei-ruike"
-  instrument = "trumpet"
-  japanese = "類家心平 Ruike Shinpei"
-[[credits]]
-  name = "Wataru Hamasaki"
-  slug = "wataru-hamasaki"
-  instrument = "flute, tenor sax, soprano sax"
-  japanese = "浜崎航 Hamasaki Wataru"
-[[credits]]
-  name = "Taku Akiyama"
-  slug = "taku-akiyama"
-  instrument = "alto sax"
-  japanese = "秋山卓 Akiyama Taku"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Haruhisa Takamichi"
-  slug = "haruhisa-takamichi"
-  instrument = "bass"
-  japanese = "高道晴久 Takamichi Haruhisa"
 +++
 
 _Routine Jazz Sextet_ from 2008 promotes genuine jazz from Tokyo with the flavor of 1950/60’s era jazz giants such as Horace Silver and Art Blakey &amp; the Jazz Messengers. Not just a throwback, the band honors the musical legacy while incorporating the youthful, modern sound and mindset of current jazz players from Japan.
@@ -73,3 +40,17 @@ With nine tracks over 39 minutes, the music is propulsive, boiling and full of e
 {{< youtube ltWzjdsZsKo >}}
 
 -   [Excerpt from track #3: “The Crosseyed Cat”](/audio/#mix-5)
+
+
+## _Routine Jazz Sextet_ by Routine Jazz Sextet
+
+-   [Tomoyuki Konno](/tags/tomoyuki-konno/) - drums
+-   [Shinpei Ruike](/tags/shinpei-ruike/) - trumpet
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - flute, tenor sax, soprano sax
+-   [Taku Akiyama](/tags/taku-akiyama/) - alto sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Haruhisa Takamichi](/tags/haruhisa-takamichi/) - bass
+
+_Japanese names: 紺野智之 Konno Tomoyuki 類家心平 Ruike Shinpei 浜崎航 Hamasaki Wataru 秋山卓 Akiyama Taku 佐藤浩一 Sato Koichi 高道晴久 Takamichi Haruhisa_
+
+Released in 2008 on Routine Records as RCJP-002.

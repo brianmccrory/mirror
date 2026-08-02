@@ -6,33 +6,10 @@ tags = ["Masahiro Yamamoto", "山本昌広", "Koichi Sato", "佐藤浩一", "Hir
 categories = ["albums"]
 draft = false
 slug = "bungalow-metropolitan-oasis"
-releaseYear = 2011
-releaseLabel = "Daiki Musica"
-releaseCode = "DMCD-17"
 [cover]
   image = "bungalow-metropolitan-460.jpeg"
   alt = "Cover art of Metropolitan Oasis by Bungalow"
   relative = true
-[[credits]]
-  name = "Masahiro Yamamoto"
-  slug = "masahiro-yamamoto"
-  instrument = "alto sax, soprano sax"
-  japanese = "山本昌広 Yamamoto Masahiro"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroshi Ikejiri"
-  slug = "hiroshi-ikejiri"
-  instrument = "bass"
-  japanese = "池尻洋史 Ikejiri Hiroshi"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
 +++
 
 Jazz quartet Bungalow issued an imaginative and flavorful debut album with _Metropolitan Oasis_ in 2011. Striking and singular, the songs reward repeat listens by offering creative jazz compositions with stimulating blueprints. The songs ebb and flow with energy, grooves, and clever rhythms, where folk and ethnic influences converge with modern jazz, bop, classical, and free elements, pushing boundaries to reach new vistas.
@@ -55,3 +32,15 @@ Masahiro Yamamoto, an original member of Bungalow featured on their first two al
 {{< youtube 1OVBks2vJ94 >}}
 
 -   [Excerpt from track #3: “Underpass”](/audio/#mix-6)
+
+
+## _Metropolitan Oasis_ by Bungalow
+
+-   [Masahiro Yamamoto](/tags/masahiro-yamamoto/) - alto sax, soprano sax
+-   [Koichi Sato](/tags/koichi-sato/) - piano
+-   [Hiroshi Ikejiri](/tags/hiroshi-ikejiri/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+
+_Japanese names: 山本昌広 Yamamoto Masahiro 佐藤浩一 Sato Koichi 池尻洋史 Ikejiri Hiroshi 大村亘 Omura Ko_
+
+Released in 2011 on Daiki Musica as DMCD-17.

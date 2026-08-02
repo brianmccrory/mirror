@@ -6,29 +6,11 @@ tags = ["Yuki Ito", "伊東佑季", "Yuka Yanagihara", "柳原由佳", "Hiro Kim
 categories = ["albums"]
 draft = false
 slug = "yuki-ito-trio-semendo-sementes"
-releaseYear = 2021
-releaseLabel = "Yuki Ito"
-releaseCode = "YDM-002"
 related = ["koto-ha-to-shiro-o-matoeba", "yuki-ito-retattanni-no-mori"]
 [cover]
   image = "yuki-ito-trio-semendo-sementes-460.jpeg"
   alt = "Cover art of Semendo Sementes by Yuki Ito Trio"
   relative = true
-[[credits]]
-  name = "Yuki Ito"
-  slug = "yuki-ito"
-  instrument = "bass"
-  japanese = "伊東佑季 Ito Yuki"
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
-[[credits]]
-  name = "Hiro Kimura"
-  slug = "hiro-kimura"
-  instrument = "drums"
-  japanese = "木村紘 Kimura Hiro"
 +++
 
 _Semendo Sementes_ is a jazz piano trio album from bassist Yuki Ito released in 2021. While bassist and composer Ito has recorded albums with different forms and combinations of musicians, and even a solo bass album, this is her first physical full-album release where she leads a piano trio. Joining her in the trio is pianist Yuka Yanigahara and drummer Hiro Kimura, regular members who were also on her previous digital mini-album release. As the leader for this group and live recording, for this set Ito plays original compositions that she wrote and arranged. To this set list, Ito includes one cover song, the old jazz standard “Time After Time” that was arranged by drummer Kimura.
@@ -63,3 +45,14 @@ _Semendo Sementes_ was recorded live in 2021 at the Tokyo jazz club Plus Eleven 
 -   [Full playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_mqtI2uWsmirCLUn6NRbiqfkwTDDaSTh9U)
 
 -   [Excerpt from track #1: “Aderante”](/audio/#mix-15)
+
+
+## _Semendo Sementes_ by Yuki Ito Trio
+
+-   [Yuki Ito](/tags/yuki-ito/) - bass
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
+
+_Japanese names: 伊東佑季 Ito Yuki 柳原由佳 Yanagihara Yuka 木村紘 Kimura Hiro_
+
+Released in 2021 on Yuki Ito as YDM-002.

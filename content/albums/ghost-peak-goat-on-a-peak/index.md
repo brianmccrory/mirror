@@ -6,34 +6,11 @@ tags = ["Shinji Miyazaki", "宮崎真司", "Natsuki Tamura", "田村夏樹", "Ta
 categories = ["albums"]
 draft = false
 slug = "ghost-peak-goat-on-a-peak"
-releaseYear = 2023
-releaseLabel = "Stereo Equipment Music Works"
-releaseCode = "SEMW-04"
 related = ["fuse-live-fuse", "takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "bungalow-you-already-know", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "tetsuji-yoshida-and-mikiko-nagatake"]
 [cover]
   image = "ghost-peak-goat-on-a-peak-460.jpeg"
   alt = "Cover art of The Goat on a Peak by Ghost Peak"
   relative = true
-[[credits]]
-  name = "Shinji Miyazaki"
-  slug = "shinji-miyazaki"
-  instrument = "guitar"
-  japanese = "宮崎真司 Miyazaki Shinji"
-[[credits]]
-  name = "Natsuki Tamura"
-  slug = "natsuki-tamura"
-  instrument = "trumpet"
-  japanese = "田村夏樹 Tamura Natsuki"
-[[credits]]
-  name = "Taeko Kurita"
-  slug = "taeko-kurita"
-  instrument = "piano"
-  japanese = "栗田妙子 Kurita Taeko"
-[[credits]]
-  name = "Hiroaki Mizutani"
-  slug = "hiroaki-mizutani"
-  instrument = "bass"
-  japanese = "水谷浩章 Mizutani Hiroaki"
 +++
 
 _The Goat on a Peak_ is a 2023 album from Ghost Peak, a band formed in 2022 by guitarist Shinji Miyazaki with Natsuki Tamura on trumpet, Taeko Kurita on piano, and Hiroaki Mizutani on bass. Guitarist and leader Miyazaki combines his background of modern jazz, improvisation, and a four-year stay in New York, with his jazz, rock, and avant-garde influences on his second Ghost Peak album.
@@ -79,3 +56,15 @@ Here are some too-brief glances at the overall album flow: The thirty-seven minu
 ## Links
 
 -   [Album info](https://semwstore.base.shop/items/81158611)
+
+
+## _The Goat on a Peak_ by Ghost Peak
+
+-   [Shinji Miyazaki](/tags/shinji-miyazaki/) - guitar
+-   [Natsuki Tamura](/tags/natsuki-tamura/) - trumpet
+-   [Taeko Kurita](/tags/taeko-kurita/) - piano
+-   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
+
+_Japanese names: 宮崎真司 Miyazaki Shinji 田村夏樹 Tamura Natsuki 栗田妙子 Kurita Taeko 水谷浩章 Mizutani Hiroaki_
+
+Released in 2023 on Stereo Equipment Music Works as SEMW-04.

@@ -7,13 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "dug"
-clubName = "Dug"
-clubUrl = "http://www.dug.co.jp/"
-clubCity = "Tokyo"
-clubStation1 = "Shinjuku"
-clubMap = "https://goo.gl/maps/nZtFtqPYhnQ6T2598"
-clubStatus = "closed"
-issue = 201
 [cover]
   image = "P1010446-1024.jpeg"
   caption = "Relaxing with great music and atmosphere in a dark corner of Dug"
@@ -52,3 +45,11 @@ Shop names have even changed, from Dig to Dug to New Dug. Perhaps a slightly con
 -   Since then, **New Dug** (the location operating since 1977) carried on the legacy under the name **Dug**.
 
 {{< figure src="IMG_20190602_222026058-1024.jpeg" link="IMG_20190602_222026058-1024.jpeg" >}}
+
+
+## Information
+
+-   [Dug’s website](http://www.dug.co.jp/)
+-   [Located near Shinjuku station in Tokyo, Japan](https://goo.gl/maps/nZtFtqPYhnQ6T2598)
+
+_Note: Dug has permanently closed._

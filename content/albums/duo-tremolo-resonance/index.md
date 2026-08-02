@@ -6,33 +6,10 @@ tags = ["Hideaki Hori", "堀秀彰", "Takayoshi Baba", "馬場孝喜", "Saori Se
 categories = ["albums"]
 draft = false
 slug = "duo-tremolo-resonance"
-releaseYear = 2019
-releaseLabel = "Orbit Records"
-releaseCode = "ORG-1004"
 [cover]
   image = "duo-tremolo-resonance-460.jpeg"
   alt = "Cover art of Resonance by Duo Tremolo"
   relative = true
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano, voice and percussion on #11"
-  japanese = "堀秀彰 Hori Hideaki"
-[[credits]]
-  name = "Takayoshi Baba"
-  slug = "takayoshi-baba"
-  instrument = "guitar, voice on #11"
-  japanese = "馬場孝喜 Baba Takayoshi"
-[[credits]]
-  name = "Saori Sendo"
-  slug = "saori-sendo"
-  instrument = "percussion on #3, #8"
-  japanese = "仙道さおり Sendo Saori"
-[[credits]]
-  name = "Aya Kurosawa"
-  slug = "aya-kurosawa"
-  instrument = "voice on #11"
-  japanese = "黒沢綾 Kurosawa Aya"
 +++
 
 Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on _Resonance_, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.
@@ -61,3 +38,15 @@ Two of the songs also feature guest percussionist Saori Sendo, and add rich rhyt
 {{< youtube R6vuPsUzibI >}}
 
 -   [Excerpt from track #2: “Choro de Tremolo”](/audio/#mix-7)
+
+
+## _Resonance_ by Duo Tremolo
+
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano, voice and percussion on #11
+-   [Takayoshi Baba](/tags/takayoshi-baba/) - guitar, voice on #11
+-   [Saori Sendo](/tags/saori-sendo/) - percussion on #3, #8
+-   [Aya Kurosawa](/tags/aya-kurosawa/) - voice on #11
+
+_Japanese names: 堀秀彰 Hori Hideaki 馬場孝喜 Baba Takayoshi 仙道さおり Sendo Saori 黒沢綾 Kurosawa Aya_
+
+Released in 2019 on Orbit Records as ORG-1004.

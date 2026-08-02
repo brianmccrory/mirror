@@ -6,29 +6,11 @@ tags = ["Fumie Chiba", "千葉史絵", "Koji Tetsui", "鉄井孝司", "Kaoru Suz
 categories = ["albums"]
 draft = false
 slug = "fumie-chiba-trio-echoes"
-releaseYear = 2013
-releaseLabel = "T-TOC Records Cadenza"
-releaseCode = "CADE-0009"
 related = ["fumie-chiba-trio-tip-of-dream", "fumie-chiba-rougequeue", "fumie-chiba-beautiful-days", "fnk-canvas"]
 [cover]
   image = "fumie-chiba-trio-echoes-460.jpeg"
   alt = "Cover art of Echoes by Fumie Chiba Trio"
   relative = true
-[[credits]]
-  name = "Fumie Chiba"
-  slug = "fumie-chiba"
-  instrument = "piano"
-  japanese = "千葉史絵 Chiba Fumie"
-[[credits]]
-  name = "Koji Tetsui"
-  slug = "koji-tetsui"
-  instrument = "bass"
-  japanese = "鉄井孝司 Tetsui Koji"
-[[credits]]
-  name = "Kaoru Suzuki"
-  slug = "kaoru-suzuki"
-  instrument = "drums"
-  japanese = "鈴木郁 Suzuki Kaoru"
 +++
 
 _Echoes_ is the title of the second album from the Fumie Chiba Trio, made up of pianist and composer Fumie Chiba, bassist Tetsuji Koji, and drummer Kaoru Suzuki. This forty-nine minute album from 2013 contains ten original songs from Chiba and includes eight songs played by the trio and two for solo piano. Chiba’s trio playing style is modern contemporary jazz with rock-leaning straight beats and composed bridges, interludes, and heavy vamps that all add extra flair around melodies and jazz improvisation.
@@ -122,3 +104,14 @@ Started drums at a young age as a member of the Kawasaki Boys and Girls Choir. R
 {{< youtube 1GdvWX9zNYo >}}
 
 -   [Excerpt from track #2: “dawn”](/audio/#mix-14)
+
+
+## _Echoes_ by Fumie Chiba Trio
+
+-   [Fumie Chiba](/tags/fumie-chiba/) - piano
+-   [Koji Tetsui](/tags/koji-tetsui/) - bass
+-   [Kaoru Suzuki](/tags/kaoru-suzuki/) - drums
+
+_Japanese names: 千葉史絵 Chiba Fumie 鉄井孝司 Tetsui Koji 鈴木郁 Suzuki Kaoru_
+
+Released in 2013 on T-TOC Records Cadenza as CADE-0009.

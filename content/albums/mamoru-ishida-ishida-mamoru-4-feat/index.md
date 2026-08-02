@@ -6,33 +6,11 @@ tags = ["Mamoru Ishida", "石田衛", "Mike Rivett", "Show Kudo", "工藤精", "
 categories = ["albums"]
 draft = false
 slug = "mamoru-ishida-ishida-mamoru-4-feat"
-releaseYear = 2011
-releaseLabel = "Anturtle Analog Recordings"
-releaseCode = "ANTX-1002"
 related = ["miyuki-moriya-cats-cradle", "ko-omura-introspect", "keisuke-nakamura-humadope", "daiki-yasukagawa-trio-trios-ii", "fumika-asari-introducin"]
 [cover]
   image = "mamoru-ishida-ishida-mamoru-4-460.jpeg"
   alt = "Cover art of Ishida Mamoru 4 feat. Mike Rivett by Mamoru Ishida"
   relative = true
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Mike Rivett"
-  slug = "mike-rivett"
-  instrument = "saxophone"
-[[credits]]
-  name = "Show Kudo"
-  slug = "show-kudo"
-  instrument = "bass"
-  japanese = "工藤精 Kudo Show"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums"
-  japanese = "大村亘 Omura Ko"
 +++
 
 Pianist Mamoru Ishida’s second album is titled /Ishida Mamoru 4 feat. Mike Rivett /and was released in 2011. With nine tracks over fifty-two minutes, the album presents a mix of covers, standards, and original compositions. The warm ballad “These Foolish Things” invites listeners in comfortably with a nostalgic calm, introducing a graceful jazz combo that respects traditional forms and songs loved by jazz fans.
@@ -116,3 +94,15 @@ The microphone used to capture the piano sound is a 1930s Westrex ribbon mic. Th
 {{< youtube ec5XE4NHZXc >}}
 
 -   [Excerpt from track #2: “McMahons Point”](/audio/#mix-9)
+
+
+## _Ishida Mamoru 4 feat. Mike Rivett_ by Mamoru Ishida
+
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano
+-   [Mike Rivett](/tags/mike-rivett/) - saxophone
+-   [Show Kudo](/tags/show-kudo/) - bass
+-   [Ko Omura](/tags/ko-omura/) - drums
+
+_Japanese names: 石田衛 Ishida Mamoru 工藤精 Kudo Show 大村亘 Omura Ko_
+
+Released in 2011 on Anturtle Analog Recordings as ANTX-1002.

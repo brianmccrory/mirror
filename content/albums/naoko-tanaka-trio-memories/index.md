@@ -6,38 +6,10 @@ tags = ["Naoko Tanaka", "田中菜緒子", "Koji Yasuda", "安田幸司", "Masan
 categories = ["albums"]
 draft = false
 slug = "naoko-tanaka-trio-memories"
-releaseYear = 2015
-releaseLabel = "D-neo Daiki Musica"
-releaseCode = "DNCD-05"
 [cover]
   image = "naokotanaka-memories-460.jpeg"
   alt = "Cover art of Memories by Naoko Tanaka Trio"
   relative = true
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Masanori Ando"
-  slug = "masanori-ando"
-  instrument = "drums"
-  japanese = "安藤正則 Ando Masanori"
-[[credits]]
-  name = "Yoshiro Okazaki"
-  slug = "yoshiro-okazaki"
-  instrument = "trumpet (tr. #6, 8)"
-  japanese = "岡崎好朗 Okazaki Yoshiro"
-[[credits]]
-  name = "Daiki Yasukagawa"
-  slug = "daiki-yasukagawa"
-  instrument = "bass (tr. #9)"
-  japanese = "安ヵ川大樹 Yasukagawa Daiki"
 +++
 
 A satisfyingly neat outing, Naoko Tanaka Trio’s _Memories_ (2015) leaves a fresh impression of modern Japanese jazz trios. The playing on this album is both playful and precise, with considered arrangements and decorations sprinkled through the welcoming music. Light touches and coordinated rhythmic hits play a role, hinting at styles employed by greats such as the Ahmad Jamal Trio. Attention is paid to the structure of each song, and as with any good jazz record, those structures are filled out with each soloist’s improvisations, bouncing solos off the harmonic movements and the rhythmic frames.
@@ -64,3 +36,16 @@ From the first track “Sailing” a bracing, uplifting mood is established, exp
 {{< youtube WxALugIHpPI >}}
 
 -   [Excerpt from track #1: “Sailing”](/audio/#mix-7)
+
+
+## _Memories_ by Naoko Tanaka Trio
+
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Masanori Ando](/tags/masanori-ando/) - drums
+-   [Yoshiro Okazaki](/tags/yoshiro-okazaki/) - trumpet (tr. #6, 8)
+-   [Daiki Yasukagawa](/tags/daiki-yasukagawa/) - bass (tr. #9)
+
+_Japanese names: 田中菜緒子 Tanaka Naoko 安田幸司 Yasuda Koji 安藤正則 Ando Masanori 岡崎好朗 Okazaki Yoshiro 安ヵ川大樹 Yasukagawa Daiki_
+
+Released in 2015 on D-neo Daiki Musica as DNCD-05.

@@ -6,34 +6,11 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Motohiko Ichino", "市野元�
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-orbital-resonance"
-releaseYear = 2025
-releaseLabel = "Somethin’ Cool"
-releaseCode = "SCOL-1078"
 related = ["sumire-kuribayashi-trio-toys", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "sumireiko-decision", "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue", "melodies-melodies"]
 [cover]
   image = "sumire-kuribayashi-orbital-resonance-460.jpeg"
   alt = "Cover art of Orbital Resonance by Sumire Kuribayashi"
   relative = true
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano"
-  japanese = "栗林すみれ Kuribayashi Sumire"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Kyrie Anderson"
-  slug = "kyrie-anderson"
-  instrument = "drums"
-  japanese = "キリー・アンダーソン Anderson Kyrie"
-[[credits]]
-  name = "Niran Dasika"
-  slug = "niran-dasika"
-  instrument = "trumpet (#4, 5, 7)"
-  japanese = "ニラン・ダシカ Dasika Niran"
 +++
 
 The new album _Orbital Resonance_ from Sumire Kuribayashi, released in September 2025, is the latest creative output from the popular Japanese jazz pianist and composer. This graceful album contains eight original songs performed by the trio of Sumire Kuribayashi on piano, Motohiko Ichino on guitar, and Kyrie Anderson on drums, with guest trumpeter Niran Dasika making it a quartet on three songs.
@@ -82,3 +59,15 @@ This late 2025 release and the followup tour dates for Sumire Kuribayashi’s _O
 {{< youtube u1gUES-EX7Y >}}
 
 -   [Excerpt from track #5: “Yell”](/audio/#mix-15)
+
+
+## _Orbital Resonance_ by Sumire Kuribayashi
+
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Kyrie Anderson](/tags/kyrie-anderson/) - drums
+-   [Niran Dasika](/tags/niran-dasika/) - trumpet (#4, 5, 7)
+
+_Japanese names: 栗林すみれ Kuribayashi Sumire 市野元彦 Ichino Motohiko キリー・アンダーソン Anderson Kyrie ニラン・ダシカ Dasika Niran_
+
+Released in 2025 on Somethin’ Cool as SCOL-1078.

@@ -6,48 +6,10 @@ tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜", "Yasushi
 categories = ["albums"]
 draft = false
 slug = "hamasaki-matsumoto-bigcatch"
-releaseYear = 2013
-releaseLabel = "Concept Records"
-releaseCode = "CR-01"
 [cover]
   image = "hamasaki-matsumoto-bigcatch-460.jpeg"
   alt = "Cover art of Big Catch by Wataru Hamasaki Meets Akane Matsumoto Trio"
   relative = true
-[[credits]]
-  name = "Wataru Hamasaki"
-  slug = "wataru-hamasaki"
-  instrument = "tenor and soprano sax, flute"
-  japanese = "浜崎航 Hamasaki Wataru"
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
-[[credits]]
-  name = "Yasushi Gonjyo"
-  slug = "yasushi-gonjyo"
-  instrument = "bass"
-  japanese = "権上康志 Gonjyo Yasushi"
-[[credits]]
-  name = "Tatsuhiko Takeda"
-  slug = "tatsuhiko-takeda"
-  instrument = "drums"
-  japanese = "竹田達彦 Takeda Tatsuhiko"
-[[credits]]
-  name = "Osamu Hikage"
-  slug = "osamu-hikage"
-  instrument = "bass (#3, 5, 6, 9)"
-  japanese = "日景修 Hikage Osamu"
-[[credits]]
-  name = "Kazuyoshi Kuroda"
-  slug = "kazuyoshi-kuroda"
-  instrument = "drums (#3, 5, 6, 9)"
-  japanese = "黒田和良 Kuroda Kazuyoshi"
-[[credits]]
-  name = "Ryosuke Asai"
-  slug = "ryosuke-asai"
-  instrument = "alto sax (#6)"
-  japanese = "浅井良将 Asai Ryosuke"
 +++
 
 “Swing &amp; Blues” is the name of the game with /Big Catch/’s jazz quartet album from 2013. Undoubtedly, the concept of a jazz sax giant meeting a piano trio is a tried and true formula on classic jazz albums (“Ben Webster Meets Oscar Peterson” and “Coleman Hawkins with the Red Garland Trio” come to mind), and this quartet upholds the tradition properly with a big sound and spirit, singing and swinging, bluesy and fun all-around good-feeling jazz.
@@ -80,3 +42,18 @@ Cover art by Akane Matsumoto (_dig those Big Catch big cats having a ball on the
 {{< youtube q-TOrjegB_o >}}
 
 -   [Excerpt from track #1: “BIG CATCH”](/audio/#mix-3)
+
+
+## _Big Catch_ by Wataru Hamasaki Meets Akane Matsumoto Trio
+
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - tenor and soprano sax, flute
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+-   [Yasushi Gonjyo](/tags/yasushi-gonjyo/) - bass
+-   [Tatsuhiko Takeda](/tags/tatsuhiko-takeda/) - drums
+-   [Osamu Hikage](/tags/osamu-hikage/) - bass (#3, 5, 6, 9)
+-   [Kazuyoshi Kuroda](/tags/kazuyoshi-kuroda/) - drums (#3, 5, 6, 9)
+-   [Ryosuke Asai](/tags/ryosuke-asai/) - alto sax (#6)
+
+_Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane 権上康志 Gonjyo Yasushi 竹田達彦 Takeda Tatsuhiko 日景修 Hikage Osamu 黒田和良 Kuroda Kazuyoshi 浅井良将 Asai Ryosuke_
+
+Released in 2013 on Concept Records as CR-01.

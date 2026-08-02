@@ -7,12 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "in-f"
-clubName = "In F"
-clubUrl = "https://in-f.live/site/"
-clubCity = "Tokyo"
-clubStation1 = "Oizumi-gakuen"
-clubMap = "https://maps.app.goo.gl/JCf8URy9M8c89dWr7"
-issue = 314
 [cover]
   image = "L1280267x-1200.jpeg"
   caption = "Toritoritori trio with Kana Fuefuki (flute, piano), Hitomi Aikawa (melodica, percussion), and Megumi Hattori (vibraphone, piano) at In F in March 2025"
@@ -59,3 +53,9 @@ While In F may be a small, no-frills establishment, it succeeds as a comfortable
 {{< figure src="L1270854-1200.jpeg" caption="<span class=\"figure-number\">Figure 12: </span>Jazz &amp; oden, In “F”, the flavor and sake of Niigata" link="L1270854-1200.jpeg" >}}
 
 {{< figure src="IMG_20181114_194446380-1200.jpeg" caption="<span class=\"figure-number\">Figure 13: </span>Welcome to In “F” (find the other “F”)" link="IMG_20181114_194446380-1200.jpeg" >}}
+
+
+## Information
+
+-   [In F’s website](https://in-f.live/site/)
+-   [Located near Oizumi-gakuen station in Tokyo, Japan](https://maps.app.goo.gl/JCf8URy9M8c89dWr7)

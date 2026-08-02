@@ -6,34 +6,11 @@ tags = ["Motohiko Ichino", "市野元彦", "Kenta Tsugami", "津上研太", "Min
 categories = ["albums"]
 draft = false
 slug = "melodies-melodies"
-releaseYear = 2025
-releaseLabel = "Ammonite Musique"
-releaseCode = "AM-006"
 related = ["koichi-sato-embryo", "motohiko-ichino-sketches", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "takumi-seino-motohiko-ichino-frozen-dust"]
 [cover]
   image = "melodies-melodies-460.jpeg"
   alt = "Cover art of Melodies by Melodies"
   relative = true
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar, baritone guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Kenta Tsugami"
-  slug = "kenta-tsugami"
-  instrument = "alto saxophone"
-  japanese = "津上研太 Tsugami Kenta"
-[[credits]]
-  name = "Minyen Hsieh"
-  slug = "minyen-hsieh"
-  instrument = "tenor saxophone (#1, 2, 3, 4, 6, 8)"
-  japanese = "謝明諺 Hsieh Minyen"
-[[credits]]
-  name = "Akira Sotoyama"
-  slug = "akira-sotoyama"
-  instrument = "drums"
-  japanese = "外山明 Sotoyama Akira"
 +++
 
 The band Melodies released their self-titled debut album in January 2025, under the leadership of guitarist and composer Motohiko Ichino. Ichino’s music is rooted in his otherworldly compositions and full-bodied guitar tone, a structure that Melodies expands upon with two entwining saxophones and adventurously roaming drums.
@@ -75,3 +52,15 @@ Track #5 “Spring” has the muted hopefulness of a timid flower blossoming slo
 -   [Motohiko Ichino store link for this album](https://motohikoichino.stores.jp/items/676449f26c8af618c66ba167)
 
 -   [Streaming services for this album](https://ultravybe.lnk.to/AM-006?wmode=opaque)
+
+
+## _Melodies_ by Melodies
+
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, baritone guitar
+-   [Kenta Tsugami](/tags/kenta-tsugami/) - alto saxophone
+-   [Minyen Hsieh](/tags/minyen-hsieh/) - tenor saxophone (#1, 2, 3, 4, 6, 8)
+-   [Akira Sotoyama](/tags/akira-sotoyama/) - drums
+
+_Japanese names: 市野元彦 Ichino Motohiko 津上研太 Tsugami Kenta 謝明諺 Hsieh Minyen 外山明 Sotoyama Akira_
+
+Released in 2025 on Ammonite Musique as AM-006.

@@ -6,38 +6,10 @@ tags = ["Yudo Matsuo", "松尾由堂", "Keisuke Nakamura", "中村恵介", "Ryoj
 categories = ["albums"]
 draft = false
 slug = "yudo-matsuo-bonanza"
-releaseYear = 2012
-releaseLabel = "Coume Music"
-releaseCode = "DQC-919"
 [cover]
   image = "yudomatsuo-bonanza-460.jpeg"
   alt = "Cover art of Bonanza by Yudo Matsuo"
   relative = true
-[[credits]]
-  name = "Yudo Matsuo"
-  slug = "yudo-matsuo"
-  instrument = "electric & acoustic guitar"
-  japanese = "松尾由堂 Matsuo Yudo"
-[[credits]]
-  name = "Keisuke Nakamura"
-  slug = "keisuke-nakamura"
-  instrument = "trumpet, flugelhorn"
-  japanese = "中村恵介 Nakamura Keisuke"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless electric bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Yasushi Fukumori"
-  slug = "yasushi-fukumori"
-  instrument = "drums"
-  japanese = "福森康 Fukumori Yasushi"
-[[credits]]
-  name = "Takeru Yamazaki"
-  slug = "takeru-yamazaki"
-  instrument = "keyboards (#2, 4, 9)"
-  japanese = "ヤマザキタケル Yamazaki Takeru"
 +++
 
 _Bonanza_, from 2012, is the debut release from guitarist Yudo Matsuo, whose kinetic quartet performs original songs with influences from electric jazz fusion to pop songwriters, a palette of sounds reflecting his varied artistic sides.
@@ -66,3 +38,16 @@ All the musician shine with visceral playing and a clean sound, with solos, duos
 {{< youtube Q20K_CbMosU >}}
 
 -   [Excerpt from track #4: “Wicked Wind”](/audio/#mix-5)
+
+
+## _Bonanza_ by Yudo Matsuo
+
+-   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
+-   [Keisuke Nakamura](/tags/keisuke-nakamura/) - trumpet, flugelhorn
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless electric bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+-   [Takeru Yamazaki](/tags/takeru-yamazaki/) - keyboards (#2, 4, 9)
+
+_Japanese names: 松尾由堂 Matsuo Yudo 中村恵介 Nakamura Keisuke 織原良次 Orihara Ryoji 福森康 Fukumori Yasushi ヤマザキタケル Yamazaki Takeru_
+
+Released in 2012 on Coume Music as DQC-919.

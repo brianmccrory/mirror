@@ -6,24 +6,11 @@ tags = ["Yoko Kobayashi", "小林洋子", "Kazumi Ikenaga", "池長和美"]
 categories = ["albums"]
 draft = false
 slug = "the-third-tribe-nearly-dusk"
-releaseYear = 2019
-releaseLabel = "Timemachine Record"
-releaseCode = "TMCD-1014"
 related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "kazumi-ikenaga-niwatazumi", "kazumi-ikenaga-taihei-asakawa-nordnote", "hitomi-nishiyama-trio-calling"]
 [cover]
   image = "the-third-tribe-nearly-dusk-460.jpeg"
   alt = "Cover art of Nearly Dusk by The Third Tribe"
   relative = true
-[[credits]]
-  name = "Yoko Kobayashi"
-  slug = "yoko-kobayashi"
-  instrument = "piano"
-  japanese = "小林洋子 Kobayashi Yoko"
-[[credits]]
-  name = "Kazumi Ikenaga"
-  slug = "kazumi-ikenaga"
-  instrument = "drums"
-  japanese = "池長和美 Ikenaga Kazumi"
 +++
 
 _Almost Dusk_ is a 2019 album from the duo of pianist Yoko Kobayashi and drummer Kazumi Ikenaga. Their beautifully imaginative music is flexibly arranged, somewhat abstract, but solidly grounded to the music they have written upon which they improvise with linked hands and minds. The duo’s playing roams across their compositions as they tune into to themselves and to one another for in the moment inspiration and stimulation, simultaneously creating, responding, pausing, and reflecting. The written notes of their compositions are also guided by the images and stories that bind the music to their visions, whether it’s signals from outer space, precious childhood memories, or the beauty uncovered in slow daily life.
@@ -183,3 +170,13 @@ A prayer to the infinite universe, a completely new duo format and their shockin
 {{< youtube JGkvGp9ugKM >}}
 
 -   [Excerpt from track #4: “Mrs.Hummingbird”](/audio/#mix-14)
+
+
+## _Nearly Dusk_ by The Third Tribe
+
+-   [Yoko Kobayashi](/tags/yoko-kobayashi/) - piano
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+
+_Japanese names: 小林洋子 Kobayashi Yoko 池長和美 Ikenaga Kazumi_
+
+Released in 2019 on Timemachine Record as TMCD-1014.

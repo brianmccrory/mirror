@@ -6,28 +6,10 @@ tags = ["Megumi Yonezawa", "米澤めぐみ", "Masa Kamaguchi", "マサ・カマ
 categories = ["albums"]
 draft = false
 slug = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary"
-releaseYear = 2018
-releaseLabel = "ESP-Disk’"
-releaseCode = "ESP-5023"
 [cover]
   image = "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg"
   alt = "Cover art of Boundary by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi"
   relative = true
-[[credits]]
-  name = "Megumi Yonezawa"
-  slug = "megumi-yonezawa"
-  instrument = "piano"
-  japanese = "米澤めぐみ Yonezawa Megumi"
-[[credits]]
-  name = "Masa Kamaguchi"
-  slug = "masa-kamaguchi"
-  instrument = "bass"
-  japanese = "マサ・カマグチ Kamaguchi Masa"
-[[credits]]
-  name = "Ken Kobayashi"
-  slug = "ken-kobayashi"
-  instrument = "drums"
-  japanese = "小林健 Kobayashi Ken"
 +++
 
 _Boundary_ is the 2018 release from the trio of pianist Megumi Yonezawa, bassist Masa Kamaguchi, and drummer Ken Kobayashi. This album is the result of a suddenly booked recording session in Brooklyn while bassist Kamaguchi was temporarily in town and playing with the New York-resident pianist and drummer. Their live performance inspired a producer to arrange a trio recording while the opportunity was available.
@@ -92,3 +74,14 @@ _(Reproduced from the album liner notes written by Matthew Shipp)_
 -   [Review by “Between Sound and Space: ECM Records and Beyond”](https://ecmreviews.com/2019/01/26/yonezawa-kamaguchi-kobayashi-boundary/)
 
 -   [Review by DownBeat](https://downbeat.com/reviews/detail/boundary)
+
+
+## _Boundary_ by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi
+
+-   [Megumi Yonezawa](/tags/megumi-yonezawa/) - piano
+-   [Masa Kamaguchi](/tags/masa-kamaguchi/) - bass
+-   [Ken Kobayashi](/tags/ken-kobayashi/) - drums
+
+_Japanese names: 米澤めぐみ Yonezawa Megumi マサ・カマグチ Kamaguchi Masa 小林健 Kobayashi Ken_
+
+Released in 2018 on ESP-Disk’ as ESP-5023.

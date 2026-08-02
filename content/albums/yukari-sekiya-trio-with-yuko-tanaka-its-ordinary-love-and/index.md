@@ -6,34 +6,11 @@ tags = ["Yukari Sekiya", "関谷友加里", "Yuko Tanaka", "田中ゆうこ", "M
 categories = ["albums"]
 draft = false
 slug = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and"
-releaseYear = 2011
-releaseLabel = "Itazura Records"
-releaseCode = "YUMO-713"
 related = ["takumi-seino-motohiko-ichino-frozen-dust", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary", "ghost-peak-goat-on-a-peak"]
 [cover]
   image = "yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and-460.jpeg"
   alt = "Cover art of It’s Ordinary Love And... by Yukari Sekiya Trio with Yuko Tanaka"
   relative = true
-[[credits]]
-  name = "Yukari Sekiya"
-  slug = "yukari-sekiya"
-  instrument = "piano"
-  japanese = "関谷友加里 Sekiya Yukari"
-[[credits]]
-  name = "Yuko Tanaka"
-  slug = "yuko-tanaka"
-  instrument = "voice"
-  japanese = "田中ゆうこ Tanaka Yuko"
-[[credits]]
-  name = "Michihiro Morisada"
-  slug = "michihiro-morisada"
-  instrument = "bass"
-  japanese = "森定道広 Morisada Michihiro"
-[[credits]]
-  name = "Tatsuya Hashimoto"
-  slug = "tatsuya-hashimoto"
-  instrument = "drums"
-  japanese = "橋本達哉 Hashimoto Tatsuya"
 +++
 
 Yukari Sekiya (Sekichu) is a jazz pianist, composer, and free improvisationalist who released her first album in 2011 with the group Yukari Sekiya Trio with Yuko Tanaka. The Japanese title of this debut is _ありふれた愛なので・・・_ translated on the cover as _It’s Ordinary Love And..._ Sekiya’s trio is completed by Michihiro Morisada on contrabass and Tatsuya Hashimoto on drums, and Yuko Tanaka joins as guest vocals and voice.
@@ -132,3 +109,15 @@ Dec. 14, 2010   A live recording on the final night of the tour   The long-await
 {{< youtube zIRCmE3ynPY >}}
 
 -   [Excerpt from track #1: “ストップ・コール (_Stop Call_)”](/audio/#mix-15)
+
+
+## _It’s Ordinary Love And..._ by Yukari Sekiya Trio with Yuko Tanaka
+
+-   [Yukari Sekiya](/tags/yukari-sekiya/) - piano
+-   [Yuko Tanaka](/tags/yuko-tanaka/) - voice
+-   [Michihiro Morisada](/tags/michihiro-morisada/) - bass
+-   [Tatsuya Hashimoto](/tags/tatsuya-hashimoto/) - drums
+
+_Japanese names: 関谷友加里 Sekiya Yukari 田中ゆうこ Tanaka Yuko 森定道広 Morisada Michihiro 橋本達哉 Hashimoto Tatsuya_
+
+Released in 2011 on Itazura Records as YUMO-713.

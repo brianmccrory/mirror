@@ -6,18 +6,10 @@ tags = ["Michiyo Matsushita", "松下美千代"]
 categories = ["albums"]
 draft = false
 slug = "michiyo-matsushita-sally-gardens"
-releaseYear = 2018
-releaseLabel = "Michiyo Matsushita"
-releaseCode = "Sally Gardens"
 [cover]
   image = "michiyomatsushita-sally-460.jpeg"
   alt = "Cover art of Sally Gardens by Michiyo Matsushita"
   relative = true
-[[credits]]
-  name = "Michiyo Matsushita"
-  slug = "michiyo-matsushita"
-  instrument = "piano, melodion"
-  japanese = "松下美千代 Matsushita Michiyo"
 +++
 
 Pianist Michiyo Matsushita’s _Sally Gardens_ is a lively solo piano album featuring original compositions set against a few Irish folk songs and jazz standards.
@@ -38,3 +30,12 @@ Apart from the lovely folk tunes and jazzy moments, over half of the songs on _S
 {{< youtube WHpbPho3v2Y >}}
 
 -   [Excerpt from track #1: “Sally Gardens”](/audio/#mix-3)
+
+
+## _Sally Gardens_ by Michiyo Matsushita
+
+-   [Michiyo Matsushita](/tags/michiyo-matsushita/) - piano, melodion
+
+_Japanese names: 松下美千代 Matsushita Michiyo_
+
+Released in 2018 on Michiyo Matsushita as Sally Gardens.

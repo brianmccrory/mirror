@@ -6,29 +6,11 @@ tags = ["Emiko Voice", "エミコヴォイス", "Keisuke Ohta", "太田惠資", 
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-standard-trio"
-releaseYear = 2022
-releaseLabel = "GardenNotes Music"
-releaseCode = "GNM-1018"
 related = ["meu-coracao-hall-tone", "emiko-voice-x-suga-dairo-phase-2", "meu-coracao-a-tempo", "emiko-voice-carta"]
 [cover]
   image = "emiko-voice-standard-trio-460.jpeg"
   alt = "Cover art of Standard Trio by Emiko Voice"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "voice, percussions, kalimba"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Keisuke Ohta"
-  slug = "keisuke-ohta"
-  instrument = "violin, voice"
-  japanese = "太田惠資 Ohta Keisuke"
-[[credits]]
-  name = "Atsushi Abe"
-  slug = "atsushi-abe"
-  instrument = "piano"
-  japanese = "阿部篤志 Abe Atsushi"
 +++
 
 Emiko Voice is always an interesting, active, and boundary-exploring musician, often simultaneously involved in a number of projects. Emphasizing her voice talent in her name (compared to a vocal or vocalist role), her singing, scatting, vocalese, and other voice skills are used liberally in her music. This includes her popular Brazilian music duo [Meu Coração](/meu-coracao-hall-tone/), swing and bebop [recordings with pianist Suga Dairo](/emiko-voice-x-suga-dairo-phase-2/), various chorus groups, duos, trios, and other groups with sometimes unconventional jazz combo formations.
@@ -55,3 +37,14 @@ The other album tracks include “Azure”, a dreamy, drifting tune from Duke El
 {{< youtube DnDuVwB7ppA >}}
 
 -   [Excerpt from track #6: “Chovendo na Roseira”](/audio/#mix-9)
+
+
+## _Standard Trio_ by Emiko Voice
+
+-   [Emiko Voice](/tags/emiko-voice/) - voice, percussions, kalimba
+-   [Keisuke Ohta](/tags/keisuke-ohta/) - violin, voice
+-   [Atsushi Abe](/tags/atsushi-abe/) - piano
+
+_Japanese names: エミコヴォイス Emiko Voice 太田惠資 Ohta Keisuke 阿部篤志 Abe Atsushi_
+
+Released in 2022 on GardenNotes Music as GNM-1018.

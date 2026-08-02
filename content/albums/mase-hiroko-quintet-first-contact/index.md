@@ -6,38 +6,10 @@ tags = ["Hiroko Mase", "ませひろこ", "Eiji Otogawa", "音川英二", "Nobum
 categories = ["albums"]
 draft = false
 slug = "mase-hiroko-quintet-first-contact"
-releaseYear = 2020
-releaseLabel = "F.S.L."
-releaseCode = "FSCJ-0019"
 [cover]
   image = "mase-hiroko-quintet-first-contact-460.jpeg"
   alt = "Cover art of First Contact by Mase Hiroko Quintet"
   relative = true
-[[credits]]
-  name = "Hiroko Mase"
-  slug = "hiroko-mase"
-  instrument = "soprano saxophone"
-  japanese = "ませひろこ Mase Hiroko"
-[[credits]]
-  name = "Eiji Otogawa"
-  slug = "eiji-otogawa"
-  instrument = "tenor saxophone"
-  japanese = "音川英二 Otogawa Eiji"
-[[credits]]
-  name = "Nobumasa Tanaka"
-  slug = "nobumasa-tanaka"
-  instrument = "piano"
-  japanese = "田中信正 Tanaka Nobumasa"
-[[credits]]
-  name = "Kosuke Ochiai"
-  slug = "kosuke-ochiai"
-  instrument = "bass, percussion"
-  japanese = "落合康介 Ochiai Kosuke"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums, percussion"
-  japanese = "吉良創太 Kira Sota"
 +++
 
 “Hard bop jazz aimed towards the universe” might be a good way to introduce soprano saxophonist Hiroko Mase’s debut album _First Contact_ from 2020. Together with her double-sax quintet, the album features ten of her original songs in a vibrant arrangement of energetic hard-swinging and mid-tempo songs brimming with atmospheric layers.
@@ -181,3 +153,16 @@ _September 2020_
 {{< youtube j4k29PfaRyc >}}
 
 -   [Excerpt from track #1: “First Contact”](/audio/#mix-10)
+
+
+## _First Contact_ by Mase Hiroko Quintet
+
+-   [Hiroko Mase](/tags/hiroko-mase/) - soprano saxophone
+-   [Eiji Otogawa](/tags/eiji-otogawa/) - tenor saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Kosuke Ochiai](/tags/kosuke-ochiai/) - bass, percussion
+-   [Sota Kira](/tags/sota-kira/) - drums, percussion
+
+_Japanese names: ませひろこ Mase Hiroko 音川英二 Otogawa Eiji 田中信正 Tanaka Nobumasa 落合康介 Ochiai Kosuke 吉良創太 Kira Sota_
+
+Released in 2020 on F.S.L. as FSCJ-0019.

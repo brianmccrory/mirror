@@ -6,49 +6,11 @@ tags = ["Motoi Kanamori", "金森もとい", "Hiroyuki Takubo", "田窪寛之", 
 categories = ["albums"]
 draft = false
 slug = "motoi-kanamori-the-live"
-releaseYear = 2023
-releaseLabel = "Laplace Records"
-releaseCode = "LPDCD113-114"
 related = ["shunichi-yanagi-trio-bubble-fish", "keisuke-nakamura-humadope", "shunichi-yanagi-trio-slope", "motoi-kanamori-my-soul-meeting", "keisuke-nakamura-humadope-2", "seiji-harakawa-quartet-skipping-down"]
 [cover]
   image = "motoi-kanamori-the-live-460.jpeg"
   alt = "Cover art of The Live by Motoi Kanamori"
   relative = true
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Hiroyuki Takubo"
-  slug = "hiroyuki-takubo"
-  instrument = "piano"
-  japanese = "田窪寛之 Takubo Hiroyuki"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
-[[credits]]
-  name = "Taishi Sakurai"
-  slug = "taishi-sakurai"
-  instrument = "violin"
-  japanese = "桜井大士 Sakurai Taishi"
-[[credits]]
-  name = "Chie Hasegawa"
-  slug = "chie-hasegawa"
-  instrument = "violin"
-  japanese = "長谷川智恵 Hasegawa Chie"
-[[credits]]
-  name = "Megumi Ozawa"
-  slug = "megumi-ozawa"
-  instrument = "viola"
-  japanese = "小澤恵 Ozawa Megumi"
-[[credits]]
-  name = "Atsushi Hashimoto"
-  slug = "atsushi-hashimoto"
-  instrument = "cello"
-  japanese = "橋本專史 Hashimoto Atsushi"
 +++
 
 Bassist Motoi Kanamori released his third album _The Live_ in 2023. This is a double CD album with a title that aptly reflects the energy of his group captured in a live concert recording. The two discs are divided between one set from his trio (with pianist Hiroyuki Takubo and drummer Akira Yamada) playing rearranged versions of classic jazz standards, and a second set from his trio with strings, featuring a four-piece string section of two violins, one viola, and one cello.
@@ -155,3 +117,18 @@ A stunning 2-disc album that captures the stirring concert recorded live in high
 {{< youtube qi9gfZEATMs >}}
 
 -   [Excerpt from track #1: “Autumn Leaves”](/audio/#mix-12)
+
+
+## _The Live_ by Motoi Kanamori
+
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+-   [Taishi Sakurai](/tags/taishi-sakurai/) - violin
+-   [Chie Hasegawa](/tags/chie-hasegawa/) - violin
+-   [Megumi Ozawa](/tags/megumi-ozawa/) - viola
+-   [Atsushi Hashimoto](/tags/atsushi-hashimoto/) - cello
+
+_Japanese names: 金森もとい Kanamori Motoi 田窪寛之 Takubo Hiroyuki 山田玲 Yamada Akira 桜井大士 Sakurai Taishi 長谷川智恵 Hasegawa Chie 小澤恵 Ozawa Megumi 橋本專史 Hashimoto Atsushi_
+
+Released in 2023 on Laplace Records as LPDCD113-114.

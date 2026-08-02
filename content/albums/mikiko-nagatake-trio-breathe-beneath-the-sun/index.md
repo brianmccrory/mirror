@@ -6,39 +6,11 @@ tags = ["Mikiko Nagatake", "永武幹子", "Ryoji Orihara", "織原良次", "Sot
 categories = ["albums"]
 draft = false
 slug = "mikiko-nagatake-trio-breathe-beneath-the-sun"
-releaseYear = 2022
-releaseLabel = "Owl Wing Record"
-releaseCode = "OWL-041"
 related = ["jabuticaba-jabuticaba", "tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo", "efreydut-fairway"]
 [cover]
   image = "mikiko-nagatake-trio-breathe-beneath-the-sun-460.jpeg"
   alt = "Cover art of Breathe Beneath the Sun by Mikiko Nagatake Trio"
   relative = true
-[[credits]]
-  name = "Mikiko Nagatake"
-  slug = "mikiko-nagatake"
-  instrument = "piano"
-  japanese = "永武幹子 Nagatake Mikiko"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums"
-  japanese = "吉良創太 Kira Sota"
-[[credits]]
-  name = "Kosuke Mine"
-  slug = "kosuke-mine"
-  instrument = "tenor sax (track #8)"
-  japanese = "峰厚介 Mine Kosuke"
-[[credits]]
-  name = "Eiichi Hayashi"
-  slug = "eiichi-hayashi"
-  instrument = "alto sax (track #9)"
-  japanese = "林栄一 Hayashi Eiichi"
 +++
 
 From 2022, _Breathe Beneath the Sun_ is pianist Mikiko Nagatake’s second release, a jazz piano trio recording that came out just one year after her debut album _Into the Forest_ (2021). With the same members as on her first album, her trio includes Ryoji Orihara on fretless bass and Sota Kira on drums, two popular players in many Tokyo jazz groups. Another similarity between Nagatake’s first two albums is the addition of special guest horn players on a few songs. While the first album featured saxophonist Nami Kano on a bonus track, this album features two more saxophone guests well-known in the world of Japanese jazz, Kosuke Mine and Eiichi Hayashi, who join Nagatake as special guests for one track each near the end of the album.
@@ -236,3 +208,16 @@ He became a professional musician at 17 years of age by training in big bands an
 {{< youtube 0i-uQ9GLBO0 >}}
 
 -   [Excerpt from track #1: “Introduction -Breathe Beneath the Sun-”](/audio/#mix-14)
+
+
+## _Breathe Beneath the Sun_ by Mikiko Nagatake Trio
+
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+-   [Kosuke Mine](/tags/kosuke-mine/) - tenor sax (track #8)
+-   [Eiichi Hayashi](/tags/eiichi-hayashi/) - alto sax (track #9)
+
+_Japanese names: 永武幹子 Nagatake Mikiko 織原良次 Orihara Ryoji 吉良創太 Kira Sota 峰厚介 Mine Kosuke 林栄一 Hayashi Eiichi_
+
+Released in 2022 on Owl Wing Record as OWL-041.

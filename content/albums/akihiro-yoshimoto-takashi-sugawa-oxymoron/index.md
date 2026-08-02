@@ -6,29 +6,11 @@ tags = ["Akihiro Yoshimoto", "吉本章紘", "Takashi Sugawa", "須川崇志", "
 categories = ["albums"]
 draft = false
 slug = "akihiro-yoshimoto-takashi-sugawa-oxymoron"
-releaseYear = 2017
-releaseLabel = "MOR Records"
-releaseCode = "MOR-1002"
 related = ["akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-quartet-64-charlesgate"]
 [cover]
   image = "akihiro-yoshimoto-oxymoron-460.jpeg"
   alt = "Cover art of Oxymoron by Akihiro Yoshimoto & Takashi Sugawa"
   relative = true
-[[credits]]
-  name = "Akihiro Yoshimoto"
-  slug = "akihiro-yoshimoto"
-  instrument = "soprano sax, clarinet"
-  japanese = "吉本章紘 Yoshimoto Akihiro"
-[[credits]]
-  name = "Takashi Sugawa"
-  slug = "takashi-sugawa"
-  instrument = "cello, contrabass"
-  japanese = "須川崇志 Sugawa Takashi"
-[[credits]]
-  name = "Niran Dasika"
-  slug = "niran-dasika"
-  instrument = "piccolo trumpet (track #10)"
-  japanese = "ニラン・ダシカ Dasika Niran"
 +++
 
 _Oxymoron_ is a live recording from saxophone player Akihiro Yoshimoto and bassist Takashi Sugawa. The duo recorded a live performance in 2016 at the jazz club [Apollo](/apollo/) in Tokyo, Japan, and released that recording as this album in 2017.
@@ -71,3 +53,14 @@ The final ten-minute track #11 “Enpitsu Hiko” finds the duo expanding to a t
 -   [Album audio on Bandcamp](https://oxymoronduo.bandcamp.com/album/oxymoron)
 
 -   [Excerpt from track #4: “Mokume #1”](/audio/#mix-11)
+
+
+## _Oxymoron_ by Akihiro Yoshimoto &amp; Takashi Sugawa
+
+-   [Akihiro Yoshimoto](/tags/akihiro-yoshimoto/) - soprano sax, clarinet
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - cello, contrabass
+-   [Niran Dasika](/tags/niran-dasika/) - piccolo trumpet (track #10)
+
+_Japanese names: 吉本章紘 Yoshimoto Akihiro 須川崇志 Sugawa Takashi ニラン・ダシカ Dasika Niran_
+
+Released in 2017 on MOR Records as MOR-1002.

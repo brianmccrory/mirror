@@ -6,33 +6,10 @@ tags = ["Ruriko Kawamura", "河村留理子", "Seiji Endo", "遠藤征志", "Nor
 categories = ["albums"]
 draft = false
 slug = "ruriko-kawamura-blossoms"
-releaseYear = 2016
-releaseLabel = "LooLoo Entertainment Records"
-releaseCode = "lulu001"
 [cover]
   image = "rurikokawamura-blossoms-460.jpeg"
   alt = "Cover art of Blossoms by Ruriko Kawamura"
   relative = true
-[[credits]]
-  name = "Ruriko Kawamura"
-  slug = "ruriko-kawamura"
-  instrument = "vocal"
-  japanese = "河村留理子 Kawamura Ruriko"
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano"
-  japanese = "遠藤征志 Endo Seiji"
-[[credits]]
-  name = "Noriko Satomi"
-  slug = "noriko-satomi"
-  instrument = "violin"
-  japanese = "里見紀子 Satomi Noriko"
-[[credits]]
-  name = "Akira Sekine"
-  slug = "akira-sekine"
-  instrument = "guitar"
-  japanese = "関根彰良 Sekine Akira"
 +++
 
 Vocalist Ruriko Kawamura released _Blossoms_ in 2016, her second album following her 2011 debut record _Loo Loo_.
@@ -63,3 +40,15 @@ Starting quietly, Endo and Kawamura perform a heartwarming version of “The Rai
 {{< youtube MLVZe1ACNeA >}}
 
 -   [Excerpt from track #2: “Nuovo Cinema Paradiso”](/audio/#mix-8)
+
+
+## _Blossoms_ by Ruriko Kawamura
+
+-   [Ruriko Kawamura](/tags/ruriko-kawamura/) - vocal
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Akira Sekine](/tags/akira-sekine/) - guitar
+
+_Japanese names: 河村留理子 Kawamura Ruriko 遠藤征志 Endo Seiji 里見紀子 Satomi Noriko 関根彰良 Sekine Akira_
+
+Released in 2016 on LooLoo Entertainment Records as lulu001.

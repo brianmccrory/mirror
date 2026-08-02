@@ -6,23 +6,10 @@ tags = ["Emiko Voice", "エミコヴォイス", "Dairo Suga", "スガダイロ�
 categories = ["albums"]
 draft = false
 slug = "emiko-voice-x-suga-dairo-phase-2"
-releaseYear = 2009
-releaseLabel = "Cool Fool"
-releaseCode = "CLFL-0003"
 [cover]
   image = "emikovoice-sugadairo-phase2-460.jpeg"
   alt = "Cover art of Phase 2 by Emiko Voice x Suga Dairo"
   relative = true
-[[credits]]
-  name = "Emiko Voice"
-  slug = "emiko-voice"
-  instrument = "vocal"
-  japanese = "エミコヴォイス Emiko Voice"
-[[credits]]
-  name = "Dairo Suga"
-  slug = "dairo-suga"
-  instrument = "piano"
-  japanese = "スガダイロー Suga Dairo"
 +++
 
 Vocalist Emiko Voice and pianist Dairo Suga perform jazz standards in non-standard ways on their 2009 release _Phase 2~Twist &amp; Shout~_, a followup to their previous _Phase 1_ duo album from 2006. While the track listing is full of jazz favorites like “Summertime”, “Solitude”, and “Girl From Ipanema”, the standards are anything but ordinary as the music is reinvented in a one-take session with the multi-genre duo exploring different ways of interpreting these gems.
@@ -49,3 +36,13 @@ Playful yet serious, the duo also covers mid-tempo and ballad tracks such as “
 {{< youtube IktVtSTtgH0 >}}
 
 -   [Excerpt from track #8: “コンファメーション (_Confirmation_)”](/audio/#mix-6)
+
+
+## _Phase 2_ by Emiko Voice x Suga Dairo
+
+-   [Emiko Voice](/tags/emiko-voice/) - vocal
+-   [Dairo Suga](/tags/dairo-suga/) - piano
+
+_Japanese names: エミコヴォイス Emiko Voice スガダイロー Suga Dairo_
+
+Released in 2009 on Cool Fool as CLFL-0003.

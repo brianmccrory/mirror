@@ -6,18 +6,10 @@ tags = ["Ken'ichiro Shinzawa", "新澤健一郎"]
 categories = ["albums"]
 draft = false
 slug = "kenichiro-shinzawa-piano-works"
-releaseYear = 2009
-releaseLabel = "Iceblue Records"
-releaseCode = "IBRC-8001"
 [cover]
   image = "kenichiroshinzawa-pianoworks-460.jpeg"
   alt = "Cover art of Piano Works by Ken’ichiro Shinzawa"
   relative = true
-[[credits]]
-  name = "Ken'ichiro Shinzawa"
-  slug = "kenichiro-shinzawa"
-  instrument = "piano, composition"
-  japanese = "新澤健一郎 Shinzawa Ken'ichiro"
 +++
 
 Ideal for peaceful, calming piano, Ken’ichiro Shinzawa’s _Piano Works_ features seven original compositions with a sweet purity in the musical message.
@@ -44,3 +36,12 @@ The songs are well-structured and composed, calming and easily listenable, with 
 {{< youtube 99CzcQx9Kb0 >}}
 
 -   [Excerpt from track #1: “２つの命 Two Lives”](/audio/#mix-2)
+
+
+## _Piano Works_ by Ken’ichiro Shinzawa
+
+-   [Ken'ichiro Shinzawa](/tags/kenichiro-shinzawa/) - piano, composition
+
+_Japanese names: 新澤健一郎 Shinzawa Ken'ichiro_
+
+Released in 2009 on Iceblue Records as IBRC-8001.

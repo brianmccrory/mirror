@@ -6,38 +6,10 @@ tags = ["Hiro Kimura", "木村紘", "Kazuhiko Takeda", "竹田一彦", "Miki Hir
 categories = ["albums"]
 draft = false
 slug = "hiro-kimura-quintet-folds"
-releaseYear = 2023
-releaseLabel = "KINO Records"
-releaseCode = "KIN-002"
 [cover]
   image = "hiro-kimura-folds-460.jpeg"
   alt = "Cover art of Folds by Hiro Kimura Quintet"
   relative = true
-[[credits]]
-  name = "Hiro Kimura"
-  slug = "hiro-kimura"
-  instrument = "drums"
-  japanese = "木村紘 Kimura Hiro"
-[[credits]]
-  name = "Kazuhiko Takeda"
-  slug = "kazuhiko-takeda"
-  instrument = "guitar"
-  japanese = "竹田一彦 Takeda Kazuhiko"
-[[credits]]
-  name = "Miki Hirose"
-  slug = "miki-hirose"
-  instrument = "trumpet"
-  japanese = "広瀬未来 Hirose Miki"
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Yuji Ito"
-  slug = "yuji-ito"
-  instrument = "bass"
-  japanese = "伊藤勇司 Ito Yuji"
 +++
 
 The full title of this 2023 album sets the stage: “/Folds - Live at 100Ban Hall/ by the Hiro Kimura Quintet featuring Kazuhiko Takeda”.
@@ -133,3 +105,16 @@ Hiro Kimura
 {{< youtube MYuW23qicoE >}}
 
 -   [Excerpt from track #2: “Face To Face”](/audio/#mix-8)
+
+
+## _Folds_ by Hiro Kimura Quintet
+
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums
+-   [Kazuhiko Takeda](/tags/kazuhiko-takeda/) - guitar
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano
+-   [Yuji Ito](/tags/yuji-ito/) - bass
+
+_Japanese names: 木村紘 Kimura Hiro 竹田一彦 Takeda Kazuhiko 広瀬未来 Hirose Miki 田中菜緒子 Tanaka Naoko 伊藤勇司 Ito Yuji_
+
+Released in 2023 on KINO Records as KIN-002.

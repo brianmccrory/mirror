@@ -6,34 +6,11 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "B
 categories = ["albums"]
 draft = false
 slug = "toshihiko-inoue-fuse"
-releaseYear = 1999
-releaseLabel = "Ewe Records"
-releaseCode = "EWCD-0010"
 related = ["fuse-live-fuse", "eriko-shimizu-sora", "clepsydra-un-jour", "zephyr-zephyr", "toshihiko-inoue-and-masaki-hayashi", "toshihiko-inoue-vayu"]
 [cover]
   image = "toshihiko-inoue-fuse-460.jpeg"
   alt = "Cover art of Fuse by Toshihiko Inoue"
   relative = true
-[[credits]]
-  name = "Toshihiko Inoue"
-  slug = "toshihiko-inoue"
-  instrument = "saxophone"
-  japanese = "井上淑彦 Inoue Toshihiko"
-[[credits]]
-  name = "Nobumasa Tanaka"
-  slug = "nobumasa-tanaka"
-  instrument = "piano"
-  japanese = "田中信正 Tanaka Nobumasa"
-[[credits]]
-  name = "Benisuke Sakai"
-  slug = "benisuke-sakai"
-  instrument = "bass"
-  japanese = "坂井紅介 Sakai Benisuke"
-[[credits]]
-  name = "Ken Tsunoda"
-  slug = "ken-tsunoda"
-  instrument = "drums"
-  japanese = "角田健 Tsunoda Ken"
 +++
 
 _Fuse_ is a 1999 album from saxophonist Toshihiko Inoue and his _fuse_ quartet made up of Inoue on sax, Nobumasa Tanaka on piano, Benisuke Sakai on bass, and Ken Tsunoda (Tsunoken) on drums. After growing up with jazz and accumulating years of experience with other jazz musicians’ bands and albums, Inoue started his own quartet in 1998 right before recording and releasing this album. With the album title _fuse_, it was also the name for his quartet, and in this way, a sort of self-titled album as his debut release as a band leader and composer.
@@ -88,3 +65,15 @@ Inoue and fuse followed up this album with their next album _Grasshopper_ in 200
 {{< youtube n4ZqNxRNajs >}}
 
 -   [Excerpt from track #1: “The last is the first”](/audio/#mix-15)
+
+
+## _Fuse_ by Toshihiko Inoue
+
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - saxophone
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda/) - drums
+
+_Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂井紅介 Sakai Benisuke 角田健 Tsunoda Ken_
+
+Released in 1999 on Ewe Records as EWCD-0010.

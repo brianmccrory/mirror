@@ -6,64 +6,11 @@ tags = ["Tokuhiro Doi", "土井徳浩", "Akihiro Nishiguchi", "西口明宏", "Y
 categories = ["albums"]
 draft = false
 slug = "kunpei-nakabayashi-orchestra-circles"
-releaseYear = 2021
-releaseLabel = "KP-LAB"
-releaseCode = "KP-0001"
 related = ["eriko-shimizu-sora", "hikari-ichihara-group-move-on", "hikari-ichihara-group-unity", "tokuhiro-doi-quartet-amalthea", "yoshihito-p-koizumi-by-coincidence", "miki-hirose-scratch", "koichi-sato-melancholy", "yasumasa-kumagai-last-resort", "hiro-kimura-quintet-folds"]
 [cover]
   image = "kunpei-nakabayashi-orchestra-circles-460.jpeg"
   alt = "Cover art of Circles by Kunpei Nakabayashi Orchestra"
   relative = true
-[[credits]]
-  name = "Tokuhiro Doi"
-  slug = "tokuhiro-doi"
-  instrument = "alto sax, flute, clarinet"
-  japanese = "土井徳浩 Doi Tokuhiro"
-[[credits]]
-  name = "Akihiro Nishiguchi"
-  slug = "akihiro-nishiguchi"
-  instrument = "tenor sax, flute"
-  japanese = "西口明宏 Nishiguchi Akihiro"
-[[credits]]
-  name = "Yu Kuga"
-  slug = "yu-kuga"
-  instrument = "baritone sax"
-  japanese = "陸悠 Kuga Yu"
-[[credits]]
-  name = "Miki Hirose"
-  slug = "miki-hirose"
-  instrument = "trumpet 1"
-  japanese = "広瀬未来 Hirose Miki"
-[[credits]]
-  name = "Takuya Kuroda"
-  slug = "takuya-kuroda"
-  instrument = "trumpet 2"
-  japanese = "黒田卓也 Kuroda Takuya"
-[[credits]]
-  name = "Hirotsugu Sakemoto"
-  slug = "hirotsugu-sakemoto"
-  instrument = "trombone 1"
-  japanese = "酒本廣継 Sakemoto Hirotsugu"
-[[credits]]
-  name = "Shigetaka Ikemoto"
-  slug = "shigetaka-ikemoto"
-  instrument = "trombone 2"
-  japanese = "池本茂貴 Ikemoto Shigetaka"
-[[credits]]
-  name = "Jun Miyakawa"
-  slug = "jun-miyakawa"
-  instrument = "piano"
-  japanese = "宮川純 Miyakawa Jun"
-[[credits]]
-  name = "Kunpei Nakabayashi"
-  slug = "kunpei-nakabayashi"
-  instrument = "bass"
-  japanese = "中林薫平 Nakabayashi Kunpei"
-[[credits]]
-  name = "Tomo Kanno"
-  slug = "tomo-kanno"
-  instrument = "drums"
-  japanese = "菅野知明 Kanno Tomo"
 +++
 
 _Circles_ is a 2021 album from the Kunpei Nakabayashi Orchestra, a ten-member big band led by the group’s namesake leader and bassist. The CD has eight songs and runs for about forty-seven minutes, while the [streaming version](https://kp27music.bandcamp.com/album/circles) of the album includes six of the songs. This is Nakabayashi’s third release and the first with his orchestra.
@@ -108,3 +55,21 @@ As a long-experienced bassist, Nakabayashi knows how to expertly deliver the ess
 -   [Streaming/digital version of “Circles” (Bandcamp)](https://kp27music.bandcamp.com/album/circles)
 
 -   [Excerpt from track #6: “Evenfall”](/audio/#mix-13)
+
+
+## _Circles_ by Kunpei Nakabayashi Orchestra
+
+-   [Tokuhiro Doi](/tags/tokuhiro-doi/) - alto sax, flute, clarinet
+-   [Akihiro Nishiguchi](/tags/akihiro-nishiguchi/) - tenor sax, flute
+-   [Yu Kuga](/tags/yu-kuga/) - baritone sax
+-   [Miki Hirose](/tags/miki-hirose/) - trumpet 1
+-   [Takuya Kuroda](/tags/takuya-kuroda/) - trumpet 2
+-   [Hirotsugu Sakemoto](/tags/hirotsugu-sakemoto/) - trombone 1
+-   [Shigetaka Ikemoto](/tags/shigetaka-ikemoto/) - trombone 2
+-   [Jun Miyakawa](/tags/jun-miyakawa/) - piano
+-   [Kunpei Nakabayashi](/tags/kunpei-nakabayashi/) - bass
+-   [Tomo Kanno](/tags/tomo-kanno/) - drums
+
+_Japanese names: 土井徳浩 Doi Tokuhiro 西口明宏 Nishiguchi Akihiro 陸悠 Kuga Yu 広瀬未来 Hirose Miki 黒田卓也 Kuroda Takuya 酒本廣継 Sakemoto Hirotsugu 池本茂貴 Ikemoto Shigetaka 宮川純 Miyakawa Jun 中林薫平 Nakabayashi Kunpei 菅野知明 Kanno Tomo_
+
+Released in 2021 on KP-LAB as KP-0001.

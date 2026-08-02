@@ -6,28 +6,10 @@ tags = ["Dairiki Hara", "原大力", "Atsushi Ikeda", "池田篤", "Yasushi Yone
 categories = ["albums"]
 draft = false
 slug = "hara-dairiki-trio-youve-changed"
-releaseYear = 2009
-releaseLabel = "Anturtle Tune"
-releaseCode = "ANTX-4004"
 [cover]
   image = "haradairiki-youvechanged-460.jpeg"
   alt = "Cover art of You’ve Changed by Hara Dairiki Trio"
   relative = true
-[[credits]]
-  name = "Dairiki Hara"
-  slug = "dairiki-hara"
-  instrument = "drums"
-  japanese = "原大力 Hara Dairiki"
-[[credits]]
-  name = "Atsushi Ikeda"
-  slug = "atsushi-ikeda"
-  instrument = "alto sax"
-  japanese = "池田篤 Ikeda Atsushi"
-[[credits]]
-  name = "Yasushi Yoneki"
-  slug = "yasushi-yoneki"
-  instrument = "bass"
-  japanese = "米木康志 Yoneki Yasushi"
 +++
 
 The Hara Dairiki Trio creates a jubilant atmosphere on _You’ve Changed_, playing choice jazz standards from the bebop and straight-ahead jazz songbook.
@@ -54,3 +36,14 @@ The album has six standards including Thelonious Monk’s “Four In One” and 
 {{< youtube ZNpKR9WaT8o >}}
 
 -   [Excerpt from track #1: “Four In One”](/audio/#mix-2)
+
+
+## _You’ve Changed_ by Hara Dairiki Trio
+
+-   [Dairiki Hara](/tags/dairiki-hara/) - drums
+-   [Atsushi Ikeda](/tags/atsushi-ikeda/) - alto sax
+-   [Yasushi Yoneki](/tags/yasushi-yoneki/) - bass
+
+_Japanese names: 原大力 Hara Dairiki 池田篤 Ikeda Atsushi 米木康志 Yoneki Yasushi_
+
+Released in 2009 on Anturtle Tune as ANTX-4004.

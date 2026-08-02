@@ -7,12 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "pit-inn"
-clubName = "Pit Inn"
-clubUrl = "http://www.pit-inn.com/"
-clubCity = "Tokyo"
-clubStation1 = "Shinjuku-sanchome"
-clubMap = "https://maps.app.goo.gl/B7t44H9dhWCd2ekH6"
-issue = 221
 [cover]
   image = "P1040469-1024.jpeg"
   caption = "Yoshio Suzuki and Generation Gap at Pit Inn in 2010"
@@ -70,3 +64,9 @@ In a corner near the restroom area, Pit Inn also stores racks of pamphlets and i
 -   [Pit Inn’s older photo blog](http://suzuki-pit90.tumblr.com/)
 
 -   [50 Years of Shinjuku Pit Inn (book)](http://pit-inn.com/shop/products/detail/43)
+
+
+## Information
+
+-   [Pit Inn’s website](http://www.pit-inn.com/)
+-   [Located near Shinjuku-sanchome station in Tokyo, Japan](https://maps.app.goo.gl/B7t44H9dhWCd2ekH6)

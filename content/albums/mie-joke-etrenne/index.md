@@ -6,53 +6,10 @@ tags = ["Mie Joké", "情家みえ", "Tsuyoshi Yamamoto", "山本剛", "Hiroshi 
 categories = ["albums"]
 draft = false
 slug = "mie-joke-etrenne"
-releaseYear = 2018
-releaseLabel = "Ultra Art Record"
-releaseCode = "UA-1001"
 [cover]
   image = "miejoke-etrenne-460.jpeg"
   alt = "Cover art of Etrenne by Mie Joké"
   relative = true
-[[credits]]
-  name = "Mie Joké"
-  slug = "mie-joke"
-  instrument = "vocal"
-  japanese = "情家みえ Joké Mie"
-[[credits]]
-  name = "Tsuyoshi Yamamoto"
-  slug = "tsuyoshi-yamamoto"
-  instrument = "piano (tr. #1-5)"
-  japanese = "山本剛 Yamamoto Tsuyoshi"
-[[credits]]
-  name = "Hiroshi Kagawa"
-  slug = "hiroshi-kagawa"
-  instrument = "bass (tr. #1-5)"
-  japanese = "香川裕史 Kagawa Hiroshi"
-[[credits]]
-  name = "Toshio Osumi"
-  slug = "toshio-osumi"
-  instrument = "drums (tr. #1-5)"
-  japanese = "大隅寿男 Osumi Toshio"
-[[credits]]
-  name = "Koji Goto"
-  slug = "koji-goto"
-  instrument = "piano (tr. #6-11)"
-  japanese = "後藤浩二 Goto Koji"
-[[credits]]
-  name = "Satsuki Kusui"
-  slug = "satsuki-kusui"
-  instrument = "bass (tr. #6-11)"
-  japanese = "楠井五月 Kusui Satsuki"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums (tr. #6-11)"
-  japanese = "山田玲 Yamada Akira"
-[[credits]]
-  name = "Wataru Hamasaki"
-  slug = "wataru-hamasaki"
-  instrument = "sax, flute (tr. #6-11)"
-  japanese = "浜崎航 Hamasaki Wataru"
 +++
 
 Jazz vocalist Mie Joké’s 2018 release _Etrenne_ is a fun and fancy swing jazz outing, a fresh throwback to classic vocal jazz recordings. Like the best of jazz lover’s disks, this collection hits the mark with a great selection of familiar jazz standards performed with a loving touch.
@@ -79,3 +36,19 @@ The music is done right, with an honest, straight-ahead vision, swinging and sli
 {{< youtube dYNBHkCeMtI >}}
 
 -   [Excerpt from track #1: “Cheek To Cheek”](/audio/#mix-5)
+
+
+## _Etrenne_ by Mie Joké
+
+-   [Mie Joké](/tags/mie-joke/) - vocal
+-   [Tsuyoshi Yamamoto](/tags/tsuyoshi-yamamoto/) - piano (tr. #1-5)
+-   [Hiroshi Kagawa](/tags/hiroshi-kagawa/) - bass (tr. #1-5)
+-   [Toshio Osumi](/tags/toshio-osumi/) - drums (tr. #1-5)
+-   [Koji Goto](/tags/koji-goto/) - piano (tr. #6-11)
+-   [Satsuki Kusui](/tags/satsuki-kusui/) - bass (tr. #6-11)
+-   [Akira Yamada](/tags/akira-yamada/) - drums (tr. #6-11)
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - sax, flute (tr. #6-11)
+
+_Japanese names: 情家みえ Joké Mie 山本剛 Yamamoto Tsuyoshi 香川裕史 Kagawa Hiroshi 大隅寿男 Osumi Toshio 後藤浩二 Goto Koji 楠井五月 Kusui Satsuki 山田玲 Yamada Akira 浜崎航 Hamasaki Wataru_
+
+Released in 2018 on Ultra Art Record as UA-1001.

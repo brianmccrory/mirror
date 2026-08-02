@@ -6,28 +6,10 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Ryoji Orihara", "織原良次", "Manab
 categories = ["albums"]
 draft = false
 slug = "nhorhm-extra-edition"
-releaseYear = 2019
-releaseLabel = "Apollo Sounds"
-releaseCode = "APLS1905"
 [cover]
   image = "hitominishiyama-nhorhm-extra-460.jpeg"
   alt = "Cover art of New Heritage of Real Heavy Metal -Extra Edition- by NHORHM"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano, arrangements, composition"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums"
-  japanese = "橋本学 Hashimoto Manabu"
 +++
 
 An unlikely fusion of heavy metal and modern jazz strikes all the right chords on NHORHM’s fourth album _New Heritage Of Real Heavy Metal -Extra Edition-_, released in 2019 in Japan.
@@ -77,3 +59,14 @@ _About the name: Perhaps an unwieldy moniker at first, NHORHM - New Heritage Of 
 ## Links
 
 -   [New Heritage Of Real Heavy Metal](https://nhorhm.tumblr.com/)
+
+
+## _New Heritage of Real Heavy Metal -Extra Edition-_ by NHORHM
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, arrangements, composition
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 織原良次 Orihara Ryoji 橋本学 Hashimoto Manabu_
+
+Released in 2019 on Apollo Sounds as APLS1905.

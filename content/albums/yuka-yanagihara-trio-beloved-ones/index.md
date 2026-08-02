@@ -6,29 +6,11 @@ tags = ["Yuka Yanagihara", "柳原由佳", "Yoshiki Yamada", "山田吉輝", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-yanagihara-trio-beloved-ones"
-releaseYear = 2024
-releaseLabel = "Tomtom Cherry Music"
-releaseCode = "TCM-2004"
 related = ["yuka-yanagihara-trio-inner-views"]
 [cover]
   image = "yuka-yanagihara-trio-beloved-ones-460.jpeg"
   alt = "Cover art of Beloved Ones by Yuka Yanagihara Trio"
   relative = true
-[[credits]]
-  name = "Yuka Yanagihara"
-  slug = "yuka-yanagihara"
-  instrument = "piano"
-  japanese = "柳原由佳 Yanagihara Yuka"
-[[credits]]
-  name = "Yoshiki Yamada"
-  slug = "yoshiki-yamada"
-  instrument = "bass"
-  japanese = "山田吉輝 Yamada Yoshiki"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
 +++
 
 Like pianist Yuka Yanagihara’s previous album _Inner Views_ from 2019, her songs on this year’s release _Beloved Ones_ are also focused on both external vistas and inner reflections. It is as if the inner-outer boundary is balanced, permeable, and transferring the trio’s music and inspiration from in to out and back again, fluidly.
@@ -65,3 +47,14 @@ With _Beloved Ones_, serenity is balanced with the stimulations of jazz playing 
 {{< youtube ZcBH5MLBNpk >}}
 
 -   [Excerpt from track #1: “Snowflake”](/audio/#mix-12)
+
+
+## _Beloved Ones_ by Yuka Yanagihara Trio
+
+-   [Yuka Yanagihara](/tags/yuka-yanagihara/) - piano
+-   [Yoshiki Yamada](/tags/yoshiki-yamada/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+
+_Japanese names: 柳原由佳 Yanagihara Yuka 山田吉輝 Yamada Yoshiki 則武諒 Noritake Ryo_
+
+Released in 2024 on Tomtom Cherry Music as TCM-2004.

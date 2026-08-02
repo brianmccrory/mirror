@@ -7,29 +7,11 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Yosuke Inoue", "井上陽介"
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-j-straight-ahead"
-releaseYear = 2015
-releaseLabel = "Jazzy Bear Records"
-releaseCode = "JZBR-0001"
 related = ["yasumasa-kumagai-i-need-a-change-too", "yasumasa-kumagai-ryu-kawamura-ol-school-jazz", "yasumasa-kumagai-pray", "yasumasa-kumagai-last-resort"]
 [cover]
   image = "yasumasakumagai-jstraightahead-460.jpeg"
   alt = "Cover art of J-Straight Ahead by Yasumasa Kumagai"
   relative = true
-[[credits]]
-  name = "Yasumasa Kumagai"
-  slug = "yasumasa-kumagai"
-  instrument = "piano"
-  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[credits]]
-  name = "Yosuke Inoue"
-  slug = "yosuke-inoue"
-  instrument = "bass"
-  japanese = "井上陽介 Inoue Yosuke"
-[[credits]]
-  name = "Masahiko Osaka"
-  slug = "masahiko-osaka"
-  instrument = "drums"
-  japanese = "大坂昌彦 Osaka Masahiko"
 +++
 
 The jazz style of pianist/composer Yasumasa Kumagai has always been pinned to the leading edge of modern J Jazz built on a foundation of straight-ahead jazz standards and jams. With a strong influence from jazz pianist Robert Glasper, a one-time teacher of Kumagai, this pianist flows naturally with his fearless compositions and modern angles. Kumagai’s music is no-nonsense jazz rooted in tradition amidst elements of groovy gospel music, Latin flavors, and funky hip-hop — all with a fashionable streetwise attitude and a good-natured sense of humor.
@@ -74,3 +56,14 @@ Born in 1979 in Mito, Ibaraki. He began playing piano at three years old and sta
 {{< youtube UN7LZaX2Fok >}}
 
 -   [Excerpt from track #1: “Draft Beer”](/audio/#mix-1)
+
+
+## _J-Straight Ahead_ by Yasumasa Kumagai
+
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Yosuke Inoue](/tags/yosuke-inoue/) - bass
+-   [Masahiko Osaka](/tags/masahiko-osaka/) - drums
+
+_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 井上陽介 Inoue Yosuke 大坂昌彦 Osaka Masahiko_
+
+Released in 2015 on Jazzy Bear Records as JZBR-0001.

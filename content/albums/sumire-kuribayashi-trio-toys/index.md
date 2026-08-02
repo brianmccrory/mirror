@@ -6,29 +6,11 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Shinichi Kato", "加藤真一"
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-trio-toys"
-releaseYear = 2014
-releaseLabel = "Somethin’ Cool"
-releaseCode = "SCOL-1003"
 related = ["hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid"]
 [cover]
   image = "sumire-kuribayashi-trio-toys-460.jpeg"
   alt = "Cover art of Toys by Sumire Kuribayashi Trio"
   relative = true
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano"
-  japanese = "栗林すみれ Kuribayashi Sumire"
-[[credits]]
-  name = "Shinichi Kato"
-  slug = "shinichi-kato"
-  instrument = "bass"
-  japanese = "加藤真一 Kato Shinichi"
-[[credits]]
-  name = "Takehiro Shimizu"
-  slug = "takehiro-shimizu"
-  instrument = "drums"
-  japanese = "清水勇博 Shimizu Takehiro"
 +++
 
 _Toys_ is pianist Sumire Kuribayashi’s debut leader album from 2014. Since then, the spirited musician has been on a tear, with several more leader albums released from her own projects as well as collaborations with a variety of Japanese and international musicians.
@@ -145,3 +127,14 @@ _Performers: Sumire Kuribayashi (piano), Shinichi Kato (bass), Takehiro Shimizu 
 -   [Label page with audio samples](https://www.somethincooljazz.com/scol-1003)
 
 -   [Excerpt from track #3: “グランド・ライン (_Grand Line_)”](/audio/#mix-11)
+
+
+## _Toys_ by Sumire Kuribayashi Trio
+
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Shinichi Kato](/tags/shinichi-kato/) - bass
+-   [Takehiro Shimizu](/tags/takehiro-shimizu/) - drums
+
+_Japanese names: 栗林すみれ Kuribayashi Sumire 加藤真一 Kato Shinichi 清水勇博 Shimizu Takehiro_
+
+Released in 2014 on Somethin’ Cool as SCOL-1003.

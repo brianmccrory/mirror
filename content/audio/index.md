@@ -3,7 +3,7 @@ title = "Audio"
 author = ["Brian McCrory"]
 description = "Audio compilations of excerpts of songs selected from albums discussed on Jazz of Japan"
 publishDate = 2018-01-25
-lastmod = 2026-07-20
+lastmod = 2026-08-01
 tags = [""]
 categories = ["resources"]
 draft = false
@@ -23,6 +23,7 @@ issue = 1003
 </audio>
 
 -   “Standing There スタンディング・ゼア” - [Hitomi Nishiyama: _Songs_](/hitomi-nishiyama-songs/) - 0:00:00
+-   “Cosmos” - [Jazz Resort: _Vol. 3_](/jazz-resort-vol-3/) - 0:03:08
 
 <a id="mix-15"></a>
 

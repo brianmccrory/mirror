@@ -6,39 +6,11 @@ tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "
 categories = ["albums"]
 draft = false
 slug = "rabbitoo-the-torch"
-releaseYear = 2016
-releaseLabel = "Song X Jazz"
-releaseCode = "SONGX-036"
 related = ["rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy"]
 [cover]
   image = "rabbitoo-torch-460.jpeg"
   alt = "Cover art of The Torch by Rabbitoo"
   relative = true
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar, keyboards"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Daisuke Fujiwara"
-  slug = "daisuke-fujiwara"
-  instrument = "tenor saxophone, flute, synthesizer, electronics"
-  japanese = "藤原大輔 Fujiwara Daisuke"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "rhodes, synthesizer, piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroki Chiba"
-  slug = "hiroki-chiba"
-  instrument = "contrabass, electric bass, violin, electronics"
-  japanese = "千葉広樹 Chiba Hiroki"
-[[credits]]
-  name = "Noritaka Tanaka"
-  slug = "noritaka-tanaka"
-  instrument = "drums"
-  japanese = "田中徳崇 Tanaka Noritaka"
 +++
 
 Opening with a single-tone drone, electronic jazz music group Rabbitoo continues their retro-futuristic sound on their second album /The Torch /from 2016.
@@ -63,3 +35,16 @@ Listening to this album creates these sorts of impressions: _A visual prism broa
 {{< youtube kWrQY5hyP2k >}}
 
 -   [Excerpt from track #2: “火のこどもたち (_Children Of Fire_)”](/audio/#mix-9)
+
+
+## _The Torch_ by Rabbitoo
+
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, flute, synthesizer, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - rhodes, synthesizer, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, violin, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
+
+_Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
+
+Released in 2016 on Song X Jazz as SONGX-036.

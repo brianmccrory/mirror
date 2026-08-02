@@ -6,28 +6,10 @@ tags = ["Atomi Hamada", "浜田亜東実", "Momo Nonami", "野波桃", "Hiroaki 
 categories = ["albums"]
 draft = false
 slug = "atomi-hamada-this-is-atomi"
-releaseYear = 2017
-releaseLabel = "Atomi Hamada"
-releaseCode = "This is Atomi"
 [cover]
   image = "atomihamada-thisis-460.jpeg"
   alt = "Cover art of This is Atomi by Atomi Hamada"
   relative = true
-[[credits]]
-  name = "Atomi Hamada"
-  slug = "atomi-hamada"
-  instrument = "vocal"
-  japanese = "浜田亜東実 Hamada Atomi"
-[[credits]]
-  name = "Momo Nonami"
-  slug = "momo-nonami"
-  instrument = "piano"
-  japanese = "野波桃 Nonami Momo"
-[[credits]]
-  name = "Hiroaki Mizutani"
-  slug = "hiroaki-mizutani"
-  instrument = "bass"
-  japanese = "水谷浩章 Mizutani Hiroaki"
 +++
 
 Jazz singer Atomi Hamada releases _This is Atomi_, a five-track debut featuring songs she has loved as jazz instrumental standards. Here, using her voice as an instrument, she adds a fresh dimension to songs that some listeners may have heard only instrumentally before.
@@ -52,3 +34,14 @@ Starting with a quiet dynamic, Hamada sings a wistful “Round Midnight” befor
 {{< youtube Okl0bUUC9Z0 >}}
 
 -   [Excerpt from track #3: “オール・ザ・シングス・ユー・アー (_All the Things You Are_)”](/audio/#mix-2)
+
+
+## _This is Atomi_ by Atomi Hamada
+
+-   [Atomi Hamada](/tags/atomi-hamada/) - vocal
+-   [Momo Nonami](/tags/momo-nonami/) - piano
+-   [Hiroaki Mizutani](/tags/hiroaki-mizutani/) - bass
+
+_Japanese names: 浜田亜東実 Hamada Atomi 野波桃 Nonami Momo 水谷浩章 Mizutani Hiroaki_
+
+Released in 2017 on Atomi Hamada as This is Atomi.

@@ -6,29 +6,11 @@ tags = ["Sumire Kuribayashi", "栗林すみれ", "Kazuma Fujimoto", "藤本一�
 categories = ["albums"]
 draft = false
 slug = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue"
-releaseYear = 2025
-releaseLabel = "Days of Delight"
-releaseCode = "DOD-051"
 related = ["sumire-kuribayashi-trio-toys", "akihiro-yoshimoto-quartet-moving-color", "akihiro-yoshimoto-takashi-sugawa-oxymoron", "hideaki-kanazawa-sumire-kuribayashi-nijuso", "reiko-yamamoto-square-pyramid", "mabumi-yamaguchi-viento", "mamoru-ishida-afterglow"]
 [cover]
   image = "sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg"
   alt = "Cover art of Tides of Blue by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa"
   relative = true
-[[credits]]
-  name = "Sumire Kuribayashi"
-  slug = "sumire-kuribayashi"
-  instrument = "piano"
-  japanese = "栗林すみれ Kuribayashi Sumire"
-[[credits]]
-  name = "Kazuma Fujimoto"
-  slug = "kazuma-fujimoto"
-  instrument = "guitar"
-  japanese = "藤本一馬 Fujimoto Kazuma"
-[[credits]]
-  name = "Takashi Sugawa"
-  slug = "takashi-sugawa"
-  instrument = "bass"
-  japanese = "須川崇志 Sugawa Takashi"
 +++
 
 _Tides of Blue_ is a 2025 release from the collaboration of Japanese jazz musicians Sumire Kuribayashi, Kazuma Fujimoto, and Takashi Sugawa on piano, guitar, and bass, respectively. On this album, the trio plays seven new songs, four composed by Kuribayashi and three by Fujimoto, for a total play time of 51 minutes.
@@ -187,3 +169,14 @@ An unparalleled chemistry created by leading personalities in the Japanese jazz 
 {{< youtube xyaf3MoQNNA >}}
 
 -   [Excerpt from track #2: “The Ways To Come Back Home Again”](/audio/#mix-14)
+
+
+## _Tides of Blue_ by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
+
+-   [Sumire Kuribayashi](/tags/sumire-kuribayashi/) - piano
+-   [Kazuma Fujimoto](/tags/kazuma-fujimoto/) - guitar
+-   [Takashi Sugawa](/tags/takashi-sugawa/) - bass
+
+_Japanese names: 栗林すみれ Kuribayashi Sumire 藤本一馬 Fujimoto Kazuma 須川崇志 Sugawa Takashi_
+
+Released in 2025 on Days of Delight as DOD-051.

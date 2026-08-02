@@ -6,34 +6,11 @@ tags = ["Yudo Matsuo", "松尾由堂", "Junichiro Ohkuchi", "大口純一郎", "
 categories = ["albums"]
 draft = false
 slug = "yudo-matsuo-quartet-songs-in-motion"
-releaseYear = 2018
-releaseLabel = "Song X Jazz"
-releaseCode = "SONGX-055"
 related = ["yudo-matsuo-bonanza"]
 [cover]
   image = "yudo-matsuo-quartet-songs-in-motion-460.jpeg"
   alt = "Cover art of Songs in Motion by Yudo Matsuo Quartet"
   relative = true
-[[credits]]
-  name = "Yudo Matsuo"
-  slug = "yudo-matsuo"
-  instrument = "electric & acoustic guitar"
-  japanese = "松尾由堂 Matsuo Yudo"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano, Fender Rhodes"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
-[[credits]]
-  name = "Yoshimasa Otsuka"
-  slug = "yoshimasa-otsuka"
-  instrument = "bass"
-  japanese = "大塚義将 Otsuka Yoshimasa"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums"
-  japanese = "吉良創太 Kira Sota"
 +++
 
 _Songs in Motion_ is a 2018 release from guitarist Yudo Matsuo that he recorded with a quartet featuring Junichiro Ohkuchi on piano, Yoshimasa Otsuka on bass, and Sota Kira on drums. While this album follows his previous debut release [_Bonanza_](/yudo-matsuo-bonanza/) (2012), there was a full six years in between, so the guitarist/composer surely had a lot to say. As a result, _Songs in Motion_ is an album full of his stored-up musical ideas and performances, and that spirit is bursting forth as the quartet’s energy lets loose.
@@ -77,3 +54,15 @@ Wildness and intelligence intertwine, stirring up the fiery sparks of tumultuous
 -   [Digital album streaming/download (Bandcamp)](https://yudomatsuo.bandcamp.com/album/songs-in-motion)
 
 -   [Excerpt from track #2: “Blue violet”](/audio/#mix-15)
+
+
+## _Songs in Motion_ by Yudo Matsuo Quartet
+
+-   [Yudo Matsuo](/tags/yudo-matsuo/) - electric &amp; acoustic guitar
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano, Fender Rhodes
+-   [Yoshimasa Otsuka](/tags/yoshimasa-otsuka/) - bass
+-   [Sota Kira](/tags/sota-kira/) - drums
+
+_Japanese names: 松尾由堂 Matsuo Yudo 大口純一郎 Ohkuchi Junichiro 大塚義将 Otsuka Yoshimasa 吉良創太 Kira Sota_
+
+Released in 2018 on Song X Jazz as SONGX-055.

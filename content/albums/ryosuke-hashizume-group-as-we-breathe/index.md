@@ -6,44 +6,11 @@ tags = ["Ryosuke Hashizume", "橋爪亮督", "Motohiko Ichino", "市野元彦", 
 categories = ["albums"]
 draft = false
 slug = "ryosuke-hashizume-group-as-we-breathe"
-releaseYear = 2008
-releaseLabel = "BounDEE Jazz Library"
-releaseCode = "DDCJ-13004/DDCJ-7004"
 related = ["ryosuke-hashizume-group-wordless", "ryosuke-hashizume-needful-things", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "ryosuke-hashizume-group-side-two", "ryosuke-hashizume-group-incomplete-voices"]
 [cover]
   image = "ryosuke-hashizume-group-as-we-breathe-460.jpeg"
   alt = "Cover art of As We Breathe by Ryosuke Hashizume Group"
   relative = true
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor saxophone, loops"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar, effects"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Manabu Hashimoto"
-  slug = "manabu-hashimoto"
-  instrument = "drums"
-  japanese = "橋本学 Hashimoto Manabu"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Masako Hamamura"
-  slug = "masako-hamamura"
-  instrument = "piano (#2, 8, 9)"
-  japanese = "浜村昌子 Hamamura Masako"
-[[credits]]
-  name = "Taihei Asakawa"
-  slug = "taihei-asakawa"
-  instrument = "piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)"
-  japanese = "浅川太平 Asakawa Taihei"
 +++
 
 _As We Breathe_ is the 2008 release from the Ryosuke Hashizume Group, a sax-led ensemble of sax, guitar, drums,  bass, and piano. This jazz-quintet combination of instruments and players forms the perfect medium for bringing Hashizume’s penned compositions to life. I’ve introduced this group’s other releases at earlier points, although in an out-of-order sequence, so this article completes the set of the group’s six releases to date.
@@ -117,3 +84,17 @@ As seen in the track listing, there is an interesting use of self-reference in t
 ## Links
 
 -   [Ryosuke Hashizume store](https://ryohashizume.stores.jp/)
+
+
+## _As We Breathe_ by Ryosuke Hashizume Group
+
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone, loops
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar, effects
+-   [Manabu Hashimoto](/tags/manabu-hashimoto/) - drums
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass
+-   [Masako Hamamura](/tags/masako-hamamura/) - piano (#2, 8, 9)
+-   [Taihei Asakawa](/tags/taihei-asakawa/) - piano (#1, 5, 6), Fender Rhodes (#3, 4, 7)
+
+_Japanese names: 橋爪亮督 Hashizume Ryosuke 市野元彦 Ichino Motohiko 橋本学 Hashimoto Manabu 織原良次 Orihara Ryoji 浜村昌子 Hamamura Masako 浅川太平 Asakawa Taihei_
+
+Released in 2008 on BounDEE Jazz Library as DDCJ-13004/DDCJ-7004.

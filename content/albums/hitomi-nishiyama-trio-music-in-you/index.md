@@ -6,33 +6,10 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Yasuhiko “Hachi” Sato", "佐藤“
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-trio-music-in-you"
-releaseYear = 2011
-releaseLabel = "Meantone Records"
-releaseCode = "MT-002"
 [cover]
   image = "hitominishiyama-musicinyou-460.jpeg"
   alt = "Cover art of Music in You by Hitomi Nishiyama Trio"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Yasuhiko “Hachi” Sato"
-  slug = "yasuhiko-hachi-sato"
-  instrument = "bass"
-  japanese = "佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi”"
-[[credits]]
-  name = "Kazumi Ikenaga"
-  slug = "kazumi-ikenaga"
-  instrument = "drums"
-  japanese = "池長和美 Ikenaga Kazumi"
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor sax (#12)"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
 +++
 
 Hitomi Nishiyama’s 2011 album _Music in You_ features an established trio that shares a cohesive sensibility, creating beautiful textural moods with European-flavored jazz influences. As befits a group of skilled jazz musicians, the players breathe as one while creating textures of sound, restrained yet deep with emotion.
@@ -68,3 +45,15 @@ Alongside these are songs with more direct titles, such as “Standing There”,
 -   [Thread sculpture (used as cover art) by Akiko Ikeuchi](http://akikoikeuchi.silk.to/)
 
 -   [International Songwriters Competition 2009](https://www.songwritingcompetition.com/previouswinners#2009)
+
+
+## _Music in You_ by Hitomi Nishiyama Trio
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano
+-   [Yasuhiko “Hachi” Sato](/tags/yasuhiko-hachi-sato/) - bass
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor sax (#12)
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 佐藤“ハチ”恭彦 Sato Yasuhiko “Hachi” 池長和美 Ikenaga Kazumi 橋爪亮督 Hashizume Ryosuke_
+
+Released in 2011 on Meantone Records as MT-002.

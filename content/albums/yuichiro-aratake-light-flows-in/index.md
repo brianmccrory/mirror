@@ -6,33 +6,10 @@ tags = ["Yuichiro Aratake", "荒武裕一朗", "Tamaya Honda", "本田珠也", "
 categories = ["albums"]
 draft = false
 slug = "yuichiro-aratake-light-flows-in"
-releaseYear = 2005
-releaseLabel = "S2S"
-releaseCode = "SSDF-5006"
 [cover]
   image = "yuichiroaratake-light-460.jpeg"
   alt = "Cover art of The Light Flows In by Yuichiro Aratake"
   relative = true
-[[credits]]
-  name = "Yuichiro Aratake"
-  slug = "yuichiro-aratake"
-  instrument = "piano"
-  japanese = "荒武裕一朗 Aratake Yuichiro"
-[[credits]]
-  name = "Tamaya Honda"
-  slug = "tamaya-honda"
-  instrument = "drums (tr. #10)"
-  japanese = "本田珠也 Honda Tamaya"
-[[credits]]
-  name = "Hideki Kawamura"
-  slug = "hideki-kawamura"
-  instrument = "tenor sax (tr. #2)"
-  japanese = "河村英樹 Kawamura Hideki"
-[[credits]]
-  name = "Noboru Ando"
-  slug = "noboru-ando"
-  instrument = "bass (tr. #7)"
-  japanese = "安東昇 Ando Noboru"
 +++
 
 Yuichiro Aratake’s _The Light Flows In_ is a solo piano collection which sets a calm, relaxing mood, offering peace through original songs and charming jazz and pop standards. With patience and sincerity, Aratake performs the pieces as slow ballads, reflecting the gratitude for loyalty, friendship, and support that inspired the performances.
@@ -57,3 +34,15 @@ In addition to solo piano, 3 of the 12 tracks feature duos: a piano and sax outi
 {{< youtube ebEHjCZrLi8 >}}
 
 -   [Excerpt from track #1: “I loves You,Porgy”](/audio/#mix-4)
+
+
+## _The Light Flows In_ by Yuichiro Aratake
+
+-   [Yuichiro Aratake](/tags/yuichiro-aratake/) - piano
+-   [Tamaya Honda](/tags/tamaya-honda/) - drums (tr. #10)
+-   [Hideki Kawamura](/tags/hideki-kawamura/) - tenor sax (tr. #2)
+-   [Noboru Ando](/tags/noboru-ando/) - bass (tr. #7)
+
+_Japanese names: 荒武裕一朗 Aratake Yuichiro 本田珠也 Honda Tamaya 河村英樹 Kawamura Hideki 安東昇 Ando Noboru_
+
+Released in 2005 on S2S as SSDF-5006.

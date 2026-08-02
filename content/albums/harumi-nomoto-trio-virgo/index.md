@@ -6,38 +6,10 @@ tags = ["Harumi Nomoto", "野本晴美", "Ryoji Orihara", "織原良次", "Sohno
 categories = ["albums"]
 draft = false
 slug = "harumi-nomoto-trio-virgo"
-releaseYear = 2014
-releaseLabel = "Okra Record"
-releaseCode = "MIKO-1009"
 [cover]
   image = "haruminomoto-virgo-460.jpeg"
   alt = "Cover art of Virgo by Harumi Nomoto Trio"
   relative = true
-[[credits]]
-  name = "Harumi Nomoto"
-  slug = "harumi-nomoto"
-  instrument = "piano"
-  japanese = "野本晴美 Nomoto Harumi"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "electric fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
-[[credits]]
-  name = "Makiko Sugawara"
-  slug = "makiko-sugawara"
-  instrument = "violin (track #8)"
-  japanese = "菅原牧子 Sugawara Makiko"
-[[credits]]
-  name = "Nao Sakamoto"
-  slug = "nao-sakamoto"
-  instrument = "Chromasomus/prepared guitar (track #8)"
-  japanese = "坂本直 Sakamoto Nao"
 +++
 
 Pianist Harumi Nomoto’s 2014 release _Virgo_ is a constellation of grooves, moods, and textures, boldly incorporating inter-genre approaches as piano jazz is woven with Eastern sounds, African rhythms, and hip-hop-influenced beats.
@@ -78,3 +50,16 @@ Plenty of peaceful space is also offered and balances the energy well, with the 
 {{< youtube J7Mp74TCldo >}}
 
 -   [Excerpt from track #6: “Do re mi”](/audio/#mix-4)
+
+
+## _Virgo_ by Harumi Nomoto Trio
+
+-   [Harumi Nomoto](/tags/harumi-nomoto/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+-   [Makiko Sugawara](/tags/makiko-sugawara/) - violin (track #8)
+-   [Nao Sakamoto](/tags/nao-sakamoto/) - Chromasomus/prepared guitar (track #8)
+
+_Japanese names: 野本晴美 Nomoto Harumi 織原良次 Orihara Ryoji 今泉総之輔 Imaizumi Sohnosuke 菅原牧子 Sugawara Makiko 坂本直 Sakamoto Nao_
+
+Released in 2014 on Okra Record as MIKO-1009.

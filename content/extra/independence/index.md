@@ -7,12 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "independence"
-clubName = "Independence"
-clubUrl = "http://jazz-independence.com/"
-clubCity = "Tokyo"
-clubStation1 = "Ikebukuro"
-clubMap = "https://maps.app.goo.gl/qHuoFSTYeBP5tzHr7"
-issue = 187
 [cover]
   image = "L1000565-1024.jpeg"
   caption = "Maki Fujimura with the Yuichiro Aratake Trio at Independence in 2012"
@@ -31,3 +25,9 @@ Sunday “sunset live” shows start a bit earlier than usual and often feature 
 {{< figure src="P1040559-1024.jpeg" link="P1040559-1024.jpeg" >}}
 
 {{< figure src="DSC_4057-1024.jpeg" link="DSC_4057-1024.jpeg" >}}
+
+
+## Information
+
+-   [Independence’s website](http://jazz-independence.com/)
+-   [Located near Ikebukuro station in Tokyo, Japan](https://maps.app.goo.gl/qHuoFSTYeBP5tzHr7)

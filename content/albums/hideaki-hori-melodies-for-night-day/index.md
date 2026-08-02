@@ -6,19 +6,11 @@ tags = ["Hideaki Hori", "堀秀彰"]
 categories = ["albums"]
 draft = false
 slug = "hideaki-hori-melodies-for-night-day"
-releaseYear = 2022
-releaseLabel = "Orbit Records"
-releaseCode = "ORG-1006"
 related = ["hideaki-hori-horizon", "hideaki-hori-trio-in-my-words", "hideaki-hori-trio-unconditional-love"]
 [cover]
   image = "hideaki-hori-melodies-night-day-460.jpeg"
   alt = "Cover art of Melodies for Night & Day by Hideaki Hori"
   relative = true
-[[credits]]
-  name = "Hideaki Hori"
-  slug = "hideaki-hori"
-  instrument = "piano"
-  japanese = "堀秀彰 Hori Hideaki"
 +++
 
 As a companion piece to the previous article on [Hideaki Hori’s ](/hideaki-hori-horizon/)/[Horizon](/hideaki-hori-horizon/)/, this follow-up post introduces the pianist’s recent solo album _Melodies for Night &amp; Day_ from 2022. Posting about the same musician in succession here is rare but somewhat appropriate, as this new album also pairs well with the pianist’s debut album from the previous article, marking a twenty-year milestone and a total of twenty albums released under his name in those years.
@@ -104,3 +96,12 @@ We recorded 20 songs in about half a day. It seems like the number 20 is linked 
 {{< youtube lCUnlorFH1E >}}
 
 -   [Excerpt from track #5: “A song for U_U”](/audio/#mix-10)
+
+
+## _Melodies for Night &amp; Day_ by Hideaki Hori
+
+-   [Hideaki Hori](/tags/hideaki-hori/) - piano
+
+_Japanese names: 堀秀彰 Hori Hideaki_
+
+Released in 2022 on Orbit Records as ORG-1006.

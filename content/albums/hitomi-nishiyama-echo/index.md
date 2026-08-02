@@ -6,44 +6,11 @@ tags = ["Hitomi Nishiyama", "西山瞳", "Toru Nishijima", "西嶋徹", "Ryo Nor
 categories = ["albums"]
 draft = false
 slug = "hitomi-nishiyama-echo"
-releaseYear = 2024
-releaseLabel = "Meantone Records"
-releaseCode = "MT-13"
 related = ["hitomi-nishiyama-trio-many-seasons", "hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy", "daiki-yasukagawa-trio-trios-ii", "hitomi-nishiyama-trio-parallax-live", "nhorhm-extra-edition", "hitomi-nishiyama-vibrant", "kaoru-azuma-hitomi-nishiyama-faces", "hitomi-nishiyama-trio-calling", "hitomi-nishiyama-dot"]
 [cover]
   image = "hitomi-nishiyama-echo-460.jpeg"
   alt = "Cover art of Echo by Hitomi Nishiyama"
   relative = true
-[[credits]]
-  name = "Hitomi Nishiyama"
-  slug = "hitomi-nishiyama"
-  instrument = "piano, compositions"
-  japanese = "西山瞳 Nishiyama Hitomi"
-[[credits]]
-  name = "Toru Nishijima"
-  slug = "toru-nishijima"
-  instrument = "bass"
-  japanese = "西嶋徹 Nishijima Toru"
-[[credits]]
-  name = "Ryo Noritake"
-  slug = "ryo-noritake"
-  instrument = "drums"
-  japanese = "則武諒 Noritake Ryo"
-[[credits]]
-  name = "Takanori Suzuki"
-  slug = "takanori-suzuki"
-  instrument = "clarinet (all tracks except #5)"
-  japanese = "鈴木孝紀 Suzuki Takanori"
-[[credits]]
-  name = "Ryosuke Hashizume"
-  slug = "ryosuke-hashizume"
-  instrument = "tenor saxophone and flute (all tracks except #5)"
-  japanese = "橋爪亮督 Hashizume Ryosuke"
-[[credits]]
-  name = "maiko"
-  slug = "maiko"
-  instrument = "violin (all tracks except #5)"
-  japanese = "マイコ maiko"
 +++
 
 _Echo_, from 2024, is pianist/composer Hitomi Nishiyama’s latest album and a response to her previous release _[Dot](/hitomi-nishiyama-dot/)_ from 2023. The music on this album was made with the same group and during the same recording sessions and as such, there are many similarities in sound and direction. In aura and conceptually, however, the differences are effectively portrayed by the separate covers and designs: Where _Dot_ shows a monochrome sketch-like grid of hand-drawn dots, _Echo_ places the pianists’ subtly Mona Lisa smile into a vividly abstract gauze of lilac and cobalt swirls and hues.
@@ -86,3 +53,17 @@ Track #5 “Raindrops”, the sole piano/bass/drums trio track on the album, exp
 -   [Streaming services for this album](https://linkco.re/u7zvtsUN)
 
 -   [Excerpt from track #4: “Arrakis”](/audio/#mix-13)
+
+
+## _Echo_ by Hitomi Nishiyama
+
+-   [Hitomi Nishiyama](/tags/hitomi-nishiyama/) - piano, compositions
+-   [Toru Nishijima](/tags/toru-nishijima/) - bass
+-   [Ryo Noritake](/tags/ryo-noritake/) - drums
+-   [Takanori Suzuki](/tags/takanori-suzuki/) - clarinet (all tracks except #5)
+-   [Ryosuke Hashizume](/tags/ryosuke-hashizume/) - tenor saxophone and flute (all tracks except #5)
+-   [maiko](/tags/maiko/) - violin (all tracks except #5)
+
+_Japanese names: 西山瞳 Nishiyama Hitomi 西嶋徹 Nishijima Toru 則武諒 Noritake Ryo 鈴木孝紀 Suzuki Takanori 橋爪亮督 Hashizume Ryosuke マイコ maiko_
+
+Released in 2024 on Meantone Records as MT-13.

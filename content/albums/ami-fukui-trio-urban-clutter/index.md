@@ -6,28 +6,10 @@ tags = ["Ami Fukui", "福井亜実", "Koji Yasuda", "安田幸司", "Sohnosuke I
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-trio-urban-clutter"
-releaseYear = 2010
-releaseLabel = "Anturtle Analog Recordings"
-releaseCode = "ANTX-4008"
 [cover]
   image = "amifukui-urbanclutter-460.jpeg"
   alt = "Cover art of Urban Clutter by Ami Fukui Trio"
   relative = true
-[[credits]]
-  name = "Ami Fukui"
-  slug = "ami-fukui"
-  instrument = "piano"
-  japanese = "福井亜実 Fukui Ami"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Sohnosuke Imaizumi"
-  slug = "sohnosuke-imaizumi"
-  instrument = "drums"
-  japanese = "今泉総之輔 Imaizumi Sohnosuke"
 +++
 
 The twinkling chords which open Ami Fukui’s debut album _Urban Clutter_ from 2010 shine like a crystalline spotlight, signaling the immediately satisfying sounds and clean, uncomplicated feel-good grooves of the music to come. This first album from the jazz pianist lays down the groundwork for Fukui to showcase her compositional skills for jazz piano trio, which she will explore further on her follow-up albums _Amizm_ (2013) and _New Journey_ (2016).
@@ -99,3 +81,14 @@ This is a song I wrote about 4 years ago which I rearranged for this recording. 
 {{< youtube zdJyxQTEfdE >}}
 
 -   [Excerpt from track #4: “再見-ZAI JIAN (_Rewatch-ZAI JIAN_)”](/audio/#mix-8)
+
+
+## _Urban Clutter_ by Ami Fukui Trio
+
+-   [Ami Fukui](/tags/ami-fukui/) - piano
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Sohnosuke Imaizumi](/tags/sohnosuke-imaizumi/) - drums
+
+_Japanese names: 福井亜実 Fukui Ami 安田幸司 Yasuda Koji 今泉総之輔 Imaizumi Sohnosuke_
+
+Released in 2010 on Anturtle Analog Recordings as ANTX-4008.

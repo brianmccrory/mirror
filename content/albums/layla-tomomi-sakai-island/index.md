@@ -6,53 +6,10 @@ tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平�
 categories = ["albums"]
 draft = false
 slug = "layla-tomomi-sakai-island"
-releaseYear = 2018
-releaseLabel = "Laydrunker Records"
-releaseCode = "LAYLA-002"
 [cover]
   image = "laylatomomisakai-island-460.jpeg"
   alt = "Cover art of The Island by Layla Tomomi Sakai"
   relative = true
-[[credits]]
-  name = "Layla Tomomi Sakai"
-  slug = "layla-tomomi-sakai"
-  instrument = "vocal"
-  japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[credits]]
-  name = "Yuichiro Hiraoka"
-  slug = "yuichiro-hiraoka"
-  instrument = "guitar (#1, 3, 4, 5, 6)"
-  japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[credits]]
-  name = "Ryuichi Takase"
-  slug = "ryuichi-takase"
-  instrument = "trumpet (#1, 4)"
-  japanese = "高瀬龍一 Takase Ryuichi"
-[[credits]]
-  name = "Toshio Miki"
-  slug = "toshio-miki"
-  instrument = "sax (#3, 5)"
-  japanese = "三木俊雄 Miki Toshio"
-[[credits]]
-  name = "Masaru Okuyama"
-  slug = "masaru-okuyama"
-  instrument = "piano (#1, 3, 4)"
-  japanese = "奥山勝 Okuyama Masaru"
-[[credits]]
-  name = "Satoshi Ishikawa"
-  slug = "satoshi-ishikawa"
-  instrument = "drums (#1, 3, 4)"
-  japanese = "石川智 Ishikawa Satoshi"
-[[credits]]
-  name = "Matsumonica"
-  slug = "matsumonica"
-  instrument = "harmonica (from Momijin) (#2)"
-  japanese = "マツモニカ Matsumonica"
-[[credits]]
-  name = "Norihito Nagasawa"
-  slug = "norihito-nagasawa"
-  instrument = "guitar (from Momijin) (#2)"
-  japanese = "長澤紀仁 Nagasawa Norihito"
 +++
 
 Easy and breezy, as if dozing in a hammock between palm trees, Layla Tomomi Sakai’s _The Island_ stirs up visions of vacationing and relaxing in sultry lands as music floats softly by.
@@ -79,3 +36,19 @@ While maintaining the calm atmosphere, three songs also feature Sakai singing wi
 {{< youtube id=xZjA59QRfj8 start=159 >}}
 
 -   [Excerpt from track #1: “Only Trust Your Heart”](/audio/#mix-4)
+
+
+## _The Island_ by Layla Tomomi Sakai
+
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar (#1, 3, 4, 5, 6)
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet (#1, 4)
+-   [Toshio Miki](/tags/toshio-miki/) - sax (#3, 5)
+-   [Masaru Okuyama](/tags/masaru-okuyama/) - piano (#1, 3, 4)
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - drums (#1, 3, 4)
+-   [Matsumonica](/tags/matsumonica/) - harmonica (from Momijin) (#2)
+-   [Norihito Nagasawa](/tags/norihito-nagasawa/) - guitar (from Momijin) (#2)
+
+_Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi 三木俊雄 Miki Toshio 奥山勝 Okuyama Masaru 石川智 Ishikawa Satoshi マツモニカ Matsumonica 長澤紀仁 Nagasawa Norihito_
+
+Released in 2018 on Laydrunker Records as LAYLA-002.

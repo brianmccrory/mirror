@@ -6,39 +6,11 @@ tags = ["Yuri Hirota", "廣田ゆり", "Daisei Mii", "三井大生", "Kilin Sato
 categories = ["albums"]
 draft = false
 slug = "yuri-hirota-magical-moonlight"
-releaseYear = 2017
-releaseLabel = "Malt Oriental"
-releaseCode = "MORI-0003"
 related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island", "layla-tomomi-sakai-stolen-moments"]
 [cover]
   image = "yuri-hirota-magical-moonlight-460.jpeg"
   alt = "Cover art of Magical Moonlight by Yuri Hirota"
   relative = true
-[[credits]]
-  name = "Yuri Hirota"
-  slug = "yuri-hirota"
-  instrument = "piano & arrangement"
-  japanese = "廣田ゆり Hirota Yuri"
-[[credits]]
-  name = "Daisei Mii"
-  slug = "daisei-mii"
-  instrument = "violin & viola"
-  japanese = "三井大生 Mii Daisei"
-[[credits]]
-  name = "Kilin Sato"
-  slug = "kilin-sato"
-  instrument = "bass"
-  japanese = "佐藤きりん Sato Kilin"
-[[credits]]
-  name = "Gen Date"
-  slug = "gen-date"
-  instrument = "conga & other percussion"
-  japanese = "伊達弦 Date Gen"
-[[credits]]
-  name = "Yuichiro Hiraoka"
-  slug = "yuichiro-hiraoka"
-  instrument = "guitar on #1, 3, 7"
-  japanese = "平岡遊一郎 Hiraoka Yuichiro"
 +++
 
 Yuri Hirota’s album _Magical Moonlight_ was released in 2017 as a petite jazz gallery of some of her favorite songs and original compositions songs. These are played by pianist Hirota with her group,“Quartet Tsukino no Sampo” (月夜の散歩), which roughly translates to _The Walk on a Moonlight Night Quartet_.
@@ -124,3 +96,16 @@ A killer tune from the 1980s disco era done with a vaudeville arrangement. Don�
 -   [Full playlist (Spotify)](https://open.spotify.com/album/1o8xdLRAWfZIE6tS8lDeU7)
 
 -   [Excerpt from track #5: “炭坑節(Tanko Bushi)”](/audio/#mix-14)
+
+
+## _Magical Moonlight_ by Yuri Hirota
+
+-   [Yuri Hirota](/tags/yuri-hirota/) - piano &amp; arrangement
+-   [Daisei Mii](/tags/daisei-mii/) - violin &amp; viola
+-   [Kilin Sato](/tags/kilin-sato/) - bass
+-   [Gen Date](/tags/gen-date/) - conga &amp; other percussion
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar on #1, 3, 7
+
+_Japanese names: 廣田ゆり Hirota Yuri 三井大生 Mii Daisei 佐藤きりん Sato Kilin 伊達弦 Date Gen 平岡遊一郎 Hiraoka Yuichiro_
+
+Released in 2017 on Malt Oriental as MORI-0003.

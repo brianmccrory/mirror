@@ -6,35 +6,11 @@ tags = ["Davy Mooney", "Ko Omura", "大村亘", "John Ellis", "Glenn Zaleski", "
 categories = ["albums"]
 draft = false
 slug = "davy-mooney-ko-omura-the-word"
-releaseYear = 2025
-releaseLabel = "Sunnyside Communications"
-releaseCode = "SSC-1764"
 related = ["ko-omura-introspect", "bungalow-abstract-messages", "polyglot-talk-vol-1", "fe-live-at-virtuoso", "efreydut-fairway"]
 [cover]
   image = "davy-mooney-ko-omura-the-word-460.jpeg"
   alt = "Cover art of The Word by Davy Mooney & Ko Omura"
   relative = true
-[[credits]]
-  name = "Davy Mooney"
-  slug = "davy-mooney"
-  instrument = "guitar"
-[[credits]]
-  name = "Ko Omura"
-  slug = "ko-omura"
-  instrument = "drums, tabla (#7, 9)"
-  japanese = "大村亘 Omura Ko"
-[[credits]]
-  name = "John Ellis"
-  slug = "john-ellis"
-  instrument = "tenor & soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)"
-[[credits]]
-  name = "Glenn Zaleski"
-  slug = "glenn-zaleski"
-  instrument = "piano"
-[[credits]]
-  name = "Matt Clohesy"
-  slug = "matt-clohesy"
-  instrument = "bass"
 +++
 
 _The Word_ (2025) is the second collaboration album from guitarist Davy Mooney and drummer Ko Omura. As with their previous release _Benign Strangers_ (2018), each leader contributes five original songs to the album, interspersed in squence. The music is played by the same quintet of Mooney on guitar, Omura on drums and tabla, John Ellis on saxes and bass clarinet, Glenn Zaleski on piano, and Matt Clohesy on bass.
@@ -92,3 +68,16 @@ More album notes and song explanations for _The Word_ are available on Mooney’
 -   [Full album playlist (YouTube)](https://youtube.com/playlist?list=OLAK5uy_nHklo6bjpsN_CVWXtvBR7Rp7FkA5iJsD0)
 
 -   [Excerpt from track #5: “Groove for Clyde”](/audio/#mix-14)
+
+
+## _The Word_ by Davy Mooney &amp; Ko Omura
+
+-   [Davy Mooney](/tags/davy-mooney/) - guitar
+-   [Ko Omura](/tags/ko-omura/) - drums, tabla (#7, 9)
+-   [John Ellis](/tags/john-ellis/) - tenor &amp; soprano saxophones (#5, 9); bass clarinet (#5, 7, 8)
+-   [Glenn Zaleski](/tags/glenn-zaleski/) - piano
+-   [Matt Clohesy](/tags/matt-clohesy/) - bass
+
+_Japanese names: 大村亘 Omura Ko_
+
+Released in 2025 on Sunnyside Communications as SSC-1764.

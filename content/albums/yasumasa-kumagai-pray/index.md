@@ -6,32 +6,10 @@ tags = ["Yasumasa Kumagai", "熊谷ヤスマサ", "Ryu Kawamura", "川村竜", "
 categories = ["albums"]
 draft = false
 slug = "yasumasa-kumagai-pray"
-releaseYear = 2010
-releaseLabel = "Anturtle Tune"
-releaseCode = "ANTX-4009"
 [cover]
   image = "yasumasakumagai-pray-460.jpeg"
   alt = "Cover art of Pray by Yasumasa Kumagai"
   relative = true
-[[credits]]
-  name = "Yasumasa Kumagai"
-  slug = "yasumasa-kumagai"
-  instrument = "piano"
-  japanese = "熊谷ヤスマサ Kumagai Yasumasa"
-[[credits]]
-  name = "Ryu Kawamura"
-  slug = "ryu-kawamura"
-  instrument = "bass"
-  japanese = "川村竜 Kawamura Ryu"
-[[credits]]
-  name = "Kohzo Komori"
-  slug = "kohzo-komori"
-  instrument = "drums"
-  japanese = "小森耕造 Komori Kohzo"
-[[credits]]
-  name = "DJ Passo"
-  slug = "dj-passo"
-  instrument = "(on #6)"
 +++
 
 Yasumasa Kumagai’s _Pray_ (2010) is a stylishly straight ahead affair, a cool and groovy collection of the pianist’s original tunes which melds modern jazz, soulful grooves, and gospel influences with his characteristic piano playing and original compositions.
@@ -56,3 +34,15 @@ On Pray, Kumagai’s trio opens with “Brotherhood”, setting up an atmospheri
 {{< youtube yOxINRWXcDs >}}
 
 -   [Excerpt from track #5: “CHOIR'S GOT FIRED”](/audio/#mix-8)
+
+
+## _Pray_ by Yasumasa Kumagai
+
+-   [Yasumasa Kumagai](/tags/yasumasa-kumagai/) - piano
+-   [Ryu Kawamura](/tags/ryu-kawamura/) - bass
+-   [Kohzo Komori](/tags/kohzo-komori/) - drums
+-   [DJ Passo](/tags/dj-passo/) - (on #6)
+
+_Japanese names: 熊谷ヤスマサ Kumagai Yasumasa 川村竜 Kawamura Ryu 小森耕造 Komori Kohzo_
+
+Released in 2010 on Anturtle Tune as ANTX-4009.

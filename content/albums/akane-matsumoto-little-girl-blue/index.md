@@ -6,19 +6,11 @@ tags = ["Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "akane-matsumoto-little-girl-blue"
-releaseYear = 2022
-releaseLabel = "Concept Records"
-releaseCode = "CR-14"
 related = ["akane-matsumoto-playing-new-york", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-nanami-haruta-for"]
 [cover]
   image = "akane-matsumoto-little-girl-blue-460.jpeg"
   alt = "Cover art of Little Girl Blue by Akane Matsumoto"
   relative = true
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
 +++
 
 Akane Matsumoto’s solo piano album _Little Girl Blue_ from 2022 is full of good moods and good vibes, definitely different from any downcast implications that the album title may imply. A comfortable 42 minutes of traditional jazz standards from the 1930s-60s, this is feel-good music, happy jazz with a heartfelt beat, and even the most melancholy song, “Too Late Now”, is more likely to evoke a wistful smile than sorrowful tears.
@@ -110,3 +102,12 @@ This song was written during the civil rights movement, and it must have become 
 {{< youtube T93GC7846UU >}}
 
 -   [Excerpt from track #3: “Laurentide Waltz”](/audio/#mix-9)
+
+
+## _Little Girl Blue_ by Akane Matsumoto
+
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+
+_Japanese names: 松本茜 Matsumoto Akane_
+
+Released in 2022 on Concept Records as CR-14.

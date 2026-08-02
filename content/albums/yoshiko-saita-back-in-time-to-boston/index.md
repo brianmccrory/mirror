@@ -6,26 +6,10 @@ tags = ["Yoshiko Saita", "斉田佳子", "Kenny Werner", "Grégoire Maret"]
 categories = ["albums"]
 draft = false
 slug = "yoshiko-saita-back-in-time-to-boston"
-releaseYear = 2024
-releaseLabel = "Viva Sounds of DADA"
-releaseCode = "VSDD-004"
 [cover]
   image = "yoshiko-saita-back-in-time-to-boston-460.jpeg"
   alt = "Cover art of Back in Time to Boston by Yoshiko Saita"
   relative = true
-[[credits]]
-  name = "Yoshiko Saita"
-  slug = "yoshiko-saita"
-  instrument = "vocal"
-  japanese = "斉田佳子 Saita Yoshiko"
-[[credits]]
-  name = "Kenny Werner"
-  slug = "kenny-werner"
-  instrument = "piano"
-[[credits]]
-  name = "Grégoire Maret"
-  slug = "gregoire-maret"
-  instrument = "harmonica"
 +++
 
 Singer Yoshiko Saita’s latest release is _Back in Time to Boston_, an album whose recording was both a homecoming and a musical trip down memory lane. It’s a trip not troubled by turbulence or misadventure, as the entire album occupies a relaxed, late-night mood that’s perfect for this combination of Saita’s rich voice and mellow delivery.
@@ -123,3 +107,14 @@ I truly hope you enjoy this album, relaxing with time flowing _slowly_.
 {{< youtube 3cajafPM6nc >}}
 
 -   [Excerpt from track #2: “I Will Wait For You”](/audio/#mix-11)
+
+
+## _Back in Time to Boston_ by Yoshiko Saita
+
+-   [Yoshiko Saita](/tags/yoshiko-saita/) - vocal
+-   [Kenny Werner](/tags/kenny-werner/) - piano
+-   [Grégoire Maret](/tags/gregoire-maret/) - harmonica
+
+_Japanese names: 斉田佳子 Saita Yoshiko_
+
+Released in 2024 on Viva Sounds of DADA as VSDD-004.

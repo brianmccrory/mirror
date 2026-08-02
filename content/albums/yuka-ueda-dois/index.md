@@ -6,43 +6,10 @@ tags = ["Yuka Ueda", "上田裕香", "Junichiro Ohkuchi", "大口純一郎", "Ry
 categories = ["albums"]
 draft = false
 slug = "yuka-ueda-dois"
-releaseYear = 2013
-releaseLabel = "Audio Fab Records"
-releaseCode = "AFD-110"
 [cover]
   image = "yukaueda-dois-460.jpeg"
   alt = "Cover art of Dois by Yuka Ueda"
   relative = true
-[[credits]]
-  name = "Yuka Ueda"
-  slug = "yuka-ueda"
-  instrument = "vocal"
-  japanese = "上田裕香 Ueda Yuka"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "electric fretless bass"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Nobuyuki Komatsu"
-  slug = "nobuyuki-komatsu"
-  instrument = "drums"
-  japanese = "小松伸之 Komatsu Nobuyuki"
-[[credits]]
-  name = "Shinji Hashimoto"
-  slug = "shinji-hashimoto"
-  instrument = "electric guitar (#1, 5, 7)"
-  japanese = "橋本信二 Hashimoto Shinji"
-[[credits]]
-  name = "Jo da Babylonia"
-  slug = "jo-da-babylonia"
-  instrument = "cavaquinho (#1, 8, 9)"
-  japanese = "ジョー・ダ・バビロニア Babylonia Jo da"
 +++
 
 On Yuka Ueda’s 2013 release _Dois,_ the Japanese singer assembles thirteen songs from her Brazilian and Latin repertoire that she’s perfected at live spots and events around Japan. The track listing satisfies with many deep gems and a few common Jobim tunes, a boon for jazz listeners who may be weary of the usual bossa novas. Definitely not background music, this album is active with a strong spirit and spicy energy powered by swaying hip rhythms and oscillations tuned to the bones.
@@ -75,3 +42,17 @@ As with her debut album _Agora_, the singer is supported by her familiar guitar 
 {{< youtube 2MHUgYgV4uE >}}
 
 -   [Excerpt from track #1: “Meu Escudo”](/audio/#mix-7)
+
+
+## _Dois_ by Yuka Ueda
+
+-   [Yuka Ueda](/tags/yuka-ueda/) - vocal
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - electric fretless bass
+-   [Nobuyuki Komatsu](/tags/nobuyuki-komatsu/) - drums
+-   [Shinji Hashimoto](/tags/shinji-hashimoto/) - electric guitar (#1, 5, 7)
+-   [Jo da Babylonia](/tags/jo-da-babylonia/) - cavaquinho (#1, 8, 9)
+
+_Japanese names: 上田裕香 Ueda Yuka 大口純一郎 Ohkuchi Junichiro 織原良次 Orihara Ryoji 小松伸之 Komatsu Nobuyuki 橋本信二 Hashimoto Shinji ジョー・ダ・バビロニア Babylonia Jo da_
+
+Released in 2013 on Audio Fab Records as AFD-110.

@@ -7,7 +7,6 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "whats-j-jazz"
-issue = 217
 [cover]
   image = "IMG-20130325-03262-1024.jpeg"
   caption = "Japanese jazz magazines and coffee"

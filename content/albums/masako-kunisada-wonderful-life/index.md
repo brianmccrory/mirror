@@ -6,38 +6,10 @@ tags = ["Masako Kunisada", "国貞雅子", "Shigeru Morishita", "森下滋", "Ry
 categories = ["albums"]
 draft = false
 slug = "masako-kunisada-wonderful-life"
-releaseYear = 2012
-releaseLabel = "Urban Jazz"
-releaseCode = "151A-0005"
 [cover]
   image = "masakokunisada-wonderful-460.jpeg"
   alt = "Cover art of Wonderful Life by Masako Kunisada"
   relative = true
-[[credits]]
-  name = "Masako Kunisada"
-  slug = "masako-kunisada"
-  instrument = "vocal"
-  japanese = "国貞雅子 Kunisada Masako"
-[[credits]]
-  name = "Shigeru Morishita"
-  slug = "shigeru-morishita"
-  instrument = "piano, Rhodes piano, Hammond organ (#1-6, 8-12)"
-  japanese = "森下滋 Morishita Shigeru"
-[[credits]]
-  name = "Ryo Ogihara"
-  slug = "ryo-ogihara"
-  instrument = "electric guitar (#1-3, 7, 10)"
-  japanese = "荻原亮 Ogihara Ryo"
-[[credits]]
-  name = "Shinichi Sato"
-  slug = "shinichi-sato"
-  instrument = "acoustic bass, electric bass"
-  japanese = "佐藤慎一 Sato Shinichi"
-[[credits]]
-  name = "Manabu Fujii"
-  slug = "manabu-fujii"
-  instrument = "drums (tr. 1-6, 8-11)"
-  japanese = "藤井学 Fujii Manabu"
 +++
 
 Masako Kunisada’s spiritual, soulful voice channels truth and joy on her first album _Wonderful Life_ from 2012.
@@ -72,3 +44,16 @@ Altogether this accessible album emits good vibrations and positive energy, shin
 {{< youtube awL_5LXeMeI >}}
 
 -   [Excerpt from track #8: “For All We Know”](/audio/#mix-7)
+
+
+## _Wonderful Life_ by Masako Kunisada
+
+-   [Masako Kunisada](/tags/masako-kunisada/) - vocal
+-   [Shigeru Morishita](/tags/shigeru-morishita/) - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
+-   [Ryo Ogihara](/tags/ryo-ogihara/) - electric guitar (#1-3, 7, 10)
+-   [Shinichi Sato](/tags/shinichi-sato/) - acoustic bass, electric bass
+-   [Manabu Fujii](/tags/manabu-fujii/) - drums (tr. 1-6, 8-11)
+
+_Japanese names: 国貞雅子 Kunisada Masako 森下滋 Morishita Shigeru 荻原亮 Ogihara Ryo 佐藤慎一 Sato Shinichi 藤井学 Fujii Manabu_
+
+Released in 2012 on Urban Jazz as 151A-0005.

@@ -6,26 +6,10 @@ tags = ["Naoko Sakata", "坂田尚子", "Anton Blomgren", "Johan Birgenius"]
 categories = ["albums"]
 draft = false
 slug = "naoko-sakata-trio-flower-clouds"
-releaseYear = 2013
-releaseLabel = "Atelier Sawano"
-releaseCode = "AS-129"
 [cover]
   image = "naokosakata-flowerclouds-460.jpeg"
   alt = "Cover art of Flower Clouds by Naoko Sakata Trio"
   relative = true
-[[credits]]
-  name = "Naoko Sakata"
-  slug = "naoko-sakata"
-  instrument = "piano"
-  japanese = "坂田尚子 Sakata Naoko"
-[[credits]]
-  name = "Anton Blomgren"
-  slug = "anton-blomgren"
-  instrument = "bass"
-[[credits]]
-  name = "Johan Birgenius"
-  slug = "johan-birgenius"
-  instrument = "drums"
 +++
 
 The Naoko Sakata Trio’s second album _Flower Clouds_ from 2013 describes modern jazz in ethereal form, summoning images like glaciers slowly breaking, waves cresting, powerful and mysterious changes patiently unfolding. It is like floating on an ocean raft, subject to unpredictable swells and unsure of the next movement.
@@ -58,3 +42,14 @@ All tracks are strong and balance each other well, with some highlights includin
 {{< youtube n2qa8uz_ycE >}}
 
 -   [Excerpt from track #2: “Mane”](/audio/#mix-7)
+
+
+## _Flower Clouds_ by Naoko Sakata Trio
+
+-   [Naoko Sakata](/tags/naoko-sakata/) - piano
+-   [Anton Blomgren](/tags/anton-blomgren/) - bass
+-   [Johan Birgenius](/tags/johan-birgenius/) - drums
+
+_Japanese names: 坂田尚子 Sakata Naoko_
+
+Released in 2013 on Atelier Sawano as AS-129.

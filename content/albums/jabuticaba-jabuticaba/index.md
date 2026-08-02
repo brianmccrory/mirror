@@ -6,34 +6,11 @@ tags = ["Mikiko Nagatake", "永武幹子", "Nami Kano", "加納奈実", "Ryoji O
 categories = ["albums"]
 draft = false
 slug = "jabuticaba-jabuticaba"
-releaseYear = 2021
-releaseLabel = "Owl Wing Record"
-releaseCode = "OWL-020"
 related = ["tetsuji-yoshida-and-mikiko-nagatake", "mikiko-nagatake-solo"]
 [cover]
   image = "jabuticaba-jabuticaba-460.jpeg"
   alt = "Cover art of Jabuticaba by Jabuticaba"
   relative = true
-[[credits]]
-  name = "Mikiko Nagatake"
-  slug = "mikiko-nagatake"
-  instrument = "piano"
-  japanese = "永武幹子 Nagatake Mikiko"
-[[credits]]
-  name = "Nami Kano"
-  slug = "nami-kano"
-  instrument = "saxophone"
-  japanese = "加納奈実 Kano Nami"
-[[credits]]
-  name = "Ryoji Orihara"
-  slug = "ryoji-orihara"
-  instrument = "fretless bass (track #8)"
-  japanese = "織原良次 Orihara Ryoji"
-[[credits]]
-  name = "Sota Kira"
-  slug = "sota-kira"
-  instrument = "drums (track #8)"
-  japanese = "吉良創太 Kira Sota"
 +++
 
 _Jabuticaba_ is the self-titled debut record from pianist Mikiko Nagatake and saxophonist Nami Kano, two players active in the modern-day Japanese jazz scene as leaders of their own groups and members of other projects. Here on this 2021 release, these kindred spirits play eight songs, four originals and four reinterpreted cover songs from legends Carla Bley, Lee Konitz, and others.
@@ -173,3 +150,15 @@ _Jabuticaba  Mikiko Nagatake  Nami Kano_
 {{< youtube -MIqyY5M4NA >}}
 
 -   [Excerpt from track #7: “Mysterious Dress (Nami Kano)”](/audio/#mix-10)
+
+
+## _Jabuticaba_ by Jabuticaba
+
+-   [Mikiko Nagatake](/tags/mikiko-nagatake/) - piano
+-   [Nami Kano](/tags/nami-kano/) - saxophone
+-   [Ryoji Orihara](/tags/ryoji-orihara/) - fretless bass (track #8)
+-   [Sota Kira](/tags/sota-kira/) - drums (track #8)
+
+_Japanese names: 永武幹子 Nagatake Mikiko 加納奈実 Kano Nami 織原良次 Orihara Ryoji 吉良創太 Kira Sota_
+
+Released in 2021 on Owl Wing Record as OWL-020.

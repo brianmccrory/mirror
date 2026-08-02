@@ -6,29 +6,11 @@ tags = ["Shikou Ito", "伊藤志宏", "Benisuke Sakai", "坂井紅介", "Gen Ogi
 categories = ["albums"]
 draft = false
 slug = "shikou-ito-trio-syncretia-kakusareta-guwa"
-releaseYear = 2025
-releaseLabel = "Musica Visionaire"
-releaseCode = "MVSI-1003"
 related = ["fuse-live-fuse", "nobie-primary", "maiko-trio-live-three"]
 [cover]
   image = "shikou-ito-trio-syncretia-kakusareta-guwa-460.jpeg"
   alt = "Cover art of Kakusareta Guwa by Shikou Ito Trio Syncretia"
   relative = true
-[[credits]]
-  name = "Shikou Ito"
-  slug = "shikou-ito"
-  instrument = "piano"
-  japanese = "伊藤志宏 Ito Shikou"
-[[credits]]
-  name = "Benisuke Sakai"
-  slug = "benisuke-sakai"
-  instrument = "bass"
-  japanese = "坂井紅介 Sakai Benisuke"
-[[credits]]
-  name = "Gen Ogimi"
-  slug = "gen-ogimi"
-  instrument = "percussion"
-  japanese = "大儀見元 Ogimi Gen"
 +++
 
 _Kakusareta Guwa_ is a 2025 release from pianist Shikou Ito’s Trio Syncretia. A translation of the Japanese title, 隠された寓話, is also printed on the cover, and reads _allegorical stories-shaded_.
@@ -81,3 +63,14 @@ Themes from these titles include nature, fantasy, and musical ideas, but taken a
 {{< youtube snvU-lEla8A >}}
 
 -   [Excerpt from track #1: “朧月に谺す (_Look at the Moon_)”](/audio/#mix-15)
+
+
+## _Kakusareta Guwa_ by Shikou Ito Trio Syncretia
+
+-   [Shikou Ito](/tags/shikou-ito/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Gen Ogimi](/tags/gen-ogimi/) - percussion
+
+_Japanese names: 伊藤志宏 Ito Shikou 坂井紅介 Sakai Benisuke 大儀見元 Ogimi Gen_
+
+Released in 2025 on Musica Visionaire as MVSI-1003.

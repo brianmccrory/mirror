@@ -6,23 +6,10 @@ tags = ["Shigeo Fukuda", "福田重男", "Toshiki Nunokawa", "布川俊樹"]
 categories = ["albums"]
 draft = false
 slug = "shigeo-fukuda-and-toshiki-nunokawa"
-releaseYear = 2011
-releaseLabel = "BQ Records"
-releaseCode = "BQR-2053"
 [cover]
   image = "fukuda-nunokawa-childhood-460.jpeg"
   alt = "Cover art of Childhood’s Dream by Shigeo Fukuda & Toshiki Nunokawa"
   relative = true
-[[credits]]
-  name = "Shigeo Fukuda"
-  slug = "shigeo-fukuda"
-  instrument = "piano"
-  japanese = "福田重男 Fukuda Shigeo"
-[[credits]]
-  name = "Toshiki Nunokawa"
-  slug = "toshiki-nunokawa"
-  instrument = "guitar"
-  japanese = "布川俊樹 Nunokawa Toshiki"
 +++
 
 _Childhood’s Dream_ is a 10-song, hour-long studio recording from pianist Shigeo Fukuda and guitarist Toshiki Nunokawa. Both leading veteran players, the musicians are also in-demand sidemen and instructors, well-known in Japan’s live scene from the 1980s through to the current day.
@@ -51,3 +38,13 @@ While it can be said that Fukuda plays masterly jazz piano in a very piano-like 
 {{< youtube 2yVbZjY7y1c >}}
 
 -   [Excerpt from track #7: “How Deep Is The Ocean”](/audio/#mix-8)
+
+
+## _Childhood’s Dream_ by Shigeo Fukuda &amp; Toshiki Nunokawa
+
+-   [Shigeo Fukuda](/tags/shigeo-fukuda/) - piano
+-   [Toshiki Nunokawa](/tags/toshiki-nunokawa/) - guitar
+
+_Japanese names: 福田重男 Fukuda Shigeo 布川俊樹 Nunokawa Toshiki_
+
+Released in 2011 on BQ Records as BQR-2053.

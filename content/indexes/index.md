@@ -3,7 +3,7 @@ title = "Indexes"
 author = ["Brian McCrory"]
 description = "Albums, musicians, and articles discussed on Jazz of Japan"
 publishDate = 2018-01-25
-lastmod = 2026-07-27
+lastmod = 2026-08-01
 tags = [""]
 categories = ["resources"]
 draft = false
@@ -11,14 +11,14 @@ slug = "indexes"
 issue = 1002
 +++
 
-<a href="#albums">Albums (300)</a> | <a href="#musicians">Musicians (572)</a> | <a href="#articles">Articles (373)</a>
+<a href="#albums">Albums (301)</a> | <a href="#musicians">Musicians (573)</a> | <a href="#articles">Articles (374)</a>
 
 <a id="albums"></a>
 
 ---
 
 
-## Albums (300)
+## Albums (301)
 
 _Index of albums discussed on this site_
 
@@ -47,6 +47,7 @@ _Index of albums discussed on this site_
 -   [Akane Matsumoto &amp; Ayumi Koketsu: _Trust_](/akane-matsumoto-ayumi-koketsu-trust/)
 -   [Hiroyuki Yamaguchi Quintet: _Mowna_](/hiroyuki-yamaguchi-quintet-mowna/)
 -   [Hitomi Nishiyama: _Echo_](/hitomi-nishiyama-echo/)
+-   [Jazz Resort: _Vol. 3_](/jazz-resort-vol-3/)
 -   [Koichi Hirata: _Introducing Koichi Hirata_](/koichi-hirata-introducing-koichi-hirata/)
 -   [Maiko: _Reminiscence_](/maiko-reminiscence/)
 -   [Michiyo Matsushita Trio: _Free_](/michiyo-matsushita-trio-free/)
@@ -435,7 +436,7 @@ _Index of albums discussed on this site_
 ---
 
 
-## Musicians (572)
+## Musicians (573)
 
 _Index of the musicians and the albums discussed on this site_
 
@@ -562,6 +563,7 @@ _Index of the musicians and the albums discussed on this site_
 -   Hayashi, Yuichi - 林祐市 - piano - [_Trispace_](/trispace-trispace/)
 -   Herrera, Mauricio - congas - [_Scratch_](/miki-hirose-scratch/)
 -   Herstad, Svein Olav - piano - [_Rainbow Tales_](/ayumi-koketsu-rainbow-tales/)
+-   Hibino, Norihiko - 日比野則彦 - saxophone - [_Vol. 3_](/jazz-resort-vol-3/)
 -   Hikage, Osamu - 日景修 - bass - [_Big Catch_](/hamasaki-matsumoto-bigcatch/)
 -   Hino, Terumasa - 日野皓正 - trumpet - [_Haru No Kaze_](/sachiko-ikuta-trio-haru/)
 -   Hiraoka, Yuichiro - 平岡遊一郎 - guitar - [_Whisper Not_](/layla-tomomi-sakai-whisper-not/) · [_Magical Moonlight_](/yuri-hirota-magical-moonlight/) · [_The Island_](/layla-tomomi-sakai-island/) · [_Stolen Moments_](/layla-tomomi-sakai-stolen-moments/) · [_Rio_](/rio-osawa-rio/)
@@ -705,7 +707,7 @@ _Index of the musicians and the albums discussed on this site_
 -   Loueke, Lionel - guitar - [_Bénin Rio Tokyo_](/nobie-benin-rio-tokyo/)
 -   M-oto - エムオート - human beat box - [_M_](/masako-kunisada-m/)
 -   Maeda, Mariko - 前田真梨子 - trombone - [_Awareness_](/mariko-maeda-awareness/)
--   maiko - マイコ - violin - [_Live! Three_](/maiko-trio-live-three/) · [_Solo_](/maiko-solo/) · [_The Tree of Life_](/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/) · [_Dot_](/hitomi-nishiyama-dot/) · [_Reminiscence_](/maiko-reminiscence/)
+-   maiko - マイコ - violin - [_Live! Three_](/maiko-trio-live-three/) · [_Solo_](/maiko-solo/) · [_The Tree of Life_](/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life/) · [_Dot_](/hitomi-nishiyama-dot/) · [_Vol. 3_](/jazz-resort-vol-3/)
 -   Makino, Ryutaro - 牧野竜太郎 - vocal - [_Music Make Us One_](/yuichiro-aratake-music-make-us-one/)
 -   Manasia, Jeremy - piano - [_Art_](/ayumi-koketsu-art/)
 -   Maret, Grégoire - harmonica - [_Back in Time to Boston_](/yoshiko-saita-back-in-time-to-boston/)
@@ -977,7 +979,7 @@ _Index of the musicians and the albums discussed on this site_
 -   Yamaguchi, Hiroyuki - 山口裕之 - bass - [_Mowna_](/hiroyuki-yamaguchi-quintet-mowna/)
 -   Yamaguchi, Mabumi - 山口真文 - saxophone - [_Let Your Mind Alone_](/mabumi-yamaguchi-let-your-mind-alone/) · [_Appreciation_](/naoko-tanaka-appreciation/) · [_Viento_](/mabumi-yamaguchi-viento/)
 -   Yamamoto, Masahiro - 山本昌広 - saxophone - [_Rings of Saturn_](/hiroshi-fukutomi-quintet-rings-of-saturn/) · [_Metropolitan Oasis_](/bungalow-metropolitan-oasis/) · [_Past Life_](/bungalow-past-life/)
--   Yamamoto, Reiko - 山本玲子 - vibraphone - [_The Square Pyramid_](/reiko-yamamoto-square-pyramid/) · [_Decision_](/sumireiko-decision/) · [_El viento y las flores_](/magnolia-el-viento-y-las-flores/)
+-   Yamamoto, Reiko - 山本玲子 - vibraphone - [_The Square Pyramid_](/reiko-yamamoto-square-pyramid/) · [_Decision_](/sumireiko-decision/) · [_El viento y las flores_](/magnolia-el-viento-y-las-flores/) · [_Vol. 3_](/jazz-resort-vol-3/)
 -   Yamamoto, Tsuyoshi - 山本剛 - piano - [_Etrenne_](/mie-joke-etrenne/)
 -   Yamanaka, Chihiro - 山中千尋 - piano - [_Living Without Friday_](/chihiro-yamanaka-trio-living-without-friday/) · [_When October Goes_](/chihiro-yamanaka-trio-when-october/) · [_Madrigal_](/chihiro-yamanaka-trio-madrigal/) · [_Outside by the Swing_](/chihiro-yamanaka-outside-by-the-swing/) · [_Lach Doch Mal_](/chihiro-yamanaka-lach-doch-mal/) · [_Abyss_](/chihiro-yamanaka-abyss/)
 -   Yamano, Yukako - 山野友佳子 - piano - [_1st Stage_](/yukako-yamano-1st-stage/) · [_3rd Stage_](/yukako-yamano-3rd-stage/) · [_Imperial_](/yukako-yamano-imperial/) · [_Dubai Suite_](/yukakoyamano-yukariinoue-dubai/)
@@ -987,7 +989,7 @@ _Index of the musicians and the albums discussed on this site_
 -   Yamazaki, Fumiko - 山崎ふみこ - vibraphone - [_Here Goes!_](/fumiko-yamazaki-here-goes/)
 -   Yamazaki, Takeru - ヤマザキタケル - keyboard - [_Bonanza_](/yudo-matsuo-bonanza/) · [_Where Have U Been?_](/erisa-ogawa-where-have-u-been/)
 -   Yanagi, Shunichi - 柳隼一 - piano - [_Bubble Fish_](/shunichi-yanagi-trio-bubble-fish/) · [_Slope_](/shunichi-yanagi-trio-slope/)
--   Yanagihara, Yuka - 柳原由佳 - piano - [_Inner Views_](/yuka-yanagihara-trio-inner-views/) · [_Semendo Sementes_](/yuki-ito-trio-semendo-sementes/) · [_El viento y las flores_](/magnolia-el-viento-y-las-flores/) · [_Beloved Ones_](/yuka-yanagihara-trio-beloved-ones/) · [_Enyana_](/emiko-voice-yuka-yanagihara-enyana/)
+-   Yanagihara, Yuka - 柳原由佳 - piano - [_Inner Views_](/yuka-yanagihara-trio-inner-views/) · [_Semendo Sementes_](/yuki-ito-trio-semendo-sementes/) · [_El viento y las flores_](/magnolia-el-viento-y-las-flores/) · [_Vol. 3_](/jazz-resort-vol-3/) · [_Enyana_](/emiko-voice-yuka-yanagihara-enyana/)
 -   Yang, Shawna - saxophone - [_Memories of T_](/tcq-memories-of-t/)
 -   Yashima, Tamako - 八島珠子 - cello - [_Crossing Reality_](/eri-chichibu-crossing-reality/)
 -   Yasuda, Koji - 安田幸司 - bass - [_I Need a Change, Too_](/yasumasa-kumagai-i-need-a-change-too/) · [_Urban Clutter_](/ami-fukui-trio-urban-clutter/) · [_Introspect_](/ko-omura-introspect/) · [_The Flow of Time_](/takako-yamada-flow-of-time/) · [_Memory Stones_](/hiroshi-fukutomi-memory-stones/) · [_Memories_](/naoko-tanaka-trio-memories/) · [_Flowers On The Hill_](/akiko-suda-flowers-on-the-hill/) · [_Grown-up Christmas Gift_](/sanae-ishikawa-grown-up-christmas/) · [_Appreciation_](/naoko-tanaka-appreciation/) · [_Cheers!_](/saki-ozawa-cheers/)
@@ -1017,9 +1019,13 @@ _Index of the musicians and the albums discussed on this site_
 ---
 
 
-## Articles (373)
+## Articles (374)
 
 _Chronological sitemap with links to articles_
+
+**August 2026**
+
+-   [Jazz Resort: _Vol. 3_](/jazz-resort-vol-3/)
 
 **July 2026**
 

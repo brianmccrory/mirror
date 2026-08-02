@@ -6,39 +6,11 @@ tags = ["Kaoru Azuma", "東かおる", "Scott Reeves", "Mike Holober", "Jesse Fo
 categories = ["albums"]
 draft = false
 slug = "kaoru-azuma-footprints-in-new-york"
-releaseYear = 2008
-releaseLabel = "River East Music"
-releaseCode = "REM-1002"
 related = ["emiko-voice-x-suga-dairo-phase-2", "hiromi-miura-we-dont-know-yet", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "kaoru-azuma-footprints-in-new-york-460.jpeg"
   alt = "Cover art of Footprints in New York by Kaoru Azuma"
   relative = true
-[[credits]]
-  name = "Kaoru Azuma"
-  slug = "kaoru-azuma"
-  instrument = "vocal"
-  japanese = "東かおる Azuma Kaoru"
-[[credits]]
-  name = "Scott Reeves"
-  slug = "scott-reeves"
-  instrument = "alto flugelhorn & trombone (track #6)"
-[[credits]]
-  name = "Mike Holober"
-  slug = "mike-holober"
-  instrument = "piano"
-[[credits]]
-  name = "Jesse Forest"
-  slug = "jesse-forest"
-  instrument = "guitar"
-[[credits]]
-  name = "Robinson Morse"
-  slug = "robinson-morse"
-  instrument = "bass"
-[[credits]]
-  name = "Paolo Orlandi"
-  slug = "paolo-orlandi"
-  instrument = "drums"
 +++
 
 Vocalist Kaoru Azuma’s Japanese debut release is _Footprints in New York_, recorded in New York in 2008 and released in Japan that same year. Coming two years after her independently released album _The Water is Wide_ (2006), this was her first album to be released in Japan.
@@ -141,3 +113,17 @@ Here is an ambitious release from up-and-coming vocalist Kaoru Azuma, joined by 
 -   [Kaoru Azuma: _Footprints in New York_ full album playlist](https://youtube.com/playlist?list=OLAK5uy_m5poZoAzlbHXUdyPvZUAwVYEMjP62LjuY)
 
 -   [Excerpt from track #4: “Another Yes Or No”](/audio/#mix-14)
+
+
+## _Footprints in New York_ by Kaoru Azuma
+
+-   [Kaoru Azuma](/tags/kaoru-azuma/) - vocal
+-   [Scott Reeves](/tags/scott-reeves/) - alto flugelhorn &amp; trombone (track #6)
+-   [Mike Holober](/tags/mike-holober/) - piano
+-   [Jesse Forest](/tags/jesse-forest/) - guitar
+-   [Robinson Morse](/tags/robinson-morse/) - bass
+-   [Paolo Orlandi](/tags/paolo-orlandi/) - drums
+
+_Japanese names: 東かおる Azuma Kaoru_
+
+Released in 2008 on River East Music as REM-1002.

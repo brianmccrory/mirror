@@ -6,54 +6,11 @@ tags = ["Akiha Nakashima", "中島朱葉", "Kohei Ando", "安藤康平", "Mao So
 categories = ["albums"]
 draft = false
 slug = "hiro-kimura-trees"
-releaseYear = 2021
-releaseLabel = "KINO Records"
-releaseCode = "KIN-001"
 related = ["reiko-yamamoto-square-pyramid", "fumika-asari-introducin", "hiro-kimura-quintet-folds"]
 [cover]
   image = "hiro-kimura-trees-460.jpeg"
   alt = "Cover art of Trees by Hiro Kimura"
   relative = true
-[[credits]]
-  name = "Akiha Nakashima"
-  slug = "akiha-nakashima"
-  instrument = "alto sax, soprano sax (#2, 4, 5, 8)"
-  japanese = "中島朱葉 Nakashima Akiha"
-[[credits]]
-  name = "Kohei Ando"
-  slug = "kohei-ando"
-  instrument = "alto sax, soprano sax (#1, 3, 4, 7, 9)"
-  japanese = "安藤康平 Ando Kohei"
-[[credits]]
-  name = "Mao Sone"
-  slug = "mao-sone"
-  instrument = "trumpet (#1), piano (#6), Fender Rhodes & keys (#9)"
-  japanese = "曽根麻央 Sone Mao"
-[[credits]]
-  name = "Mamoru Ishida"
-  slug = "mamoru-ishida"
-  instrument = "piano (#2, 4, 5, 8)"
-  japanese = "石田衛 Ishida Mamoru"
-[[credits]]
-  name = "Naoko Tanaka"
-  slug = "naoko-tanaka"
-  instrument = "piano (#1, 3, 7, 9)"
-  japanese = "田中菜緒子 Tanaka Naoko"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass (#2, 4, 5, 8)"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Yuji Ito"
-  slug = "yuji-ito"
-  instrument = "bass (#1, 3, 6, 7, 9)"
-  japanese = "伊藤勇司 Ito Yuji"
-[[credits]]
-  name = "Hiro Kimura"
-  slug = "hiro-kimura"
-  instrument = "drums, percussion (#3)"
-  japanese = "木村紘 Kimura Hiro"
 +++
 
 Drummer Hiro Kimura’s debut album from 2022 is _Trees_, a 61-minute modern jazz album recorded with two of his regular rhythm sections. The album was recorded over two days in the studio, the first with Naoko Tanaka on piano and Yuji Ito on bass, and the second with Mamoru Ishida on piano and Keisuke Furuki on bass.
@@ -151,3 +108,19 @@ _Hiro Kimura_
 -   [Album stream (Songlink/Odesli)](https://album.link/us/i/1583910860)
 
 -   [Excerpt from track #4: “Updraft”](/audio/#mix-12)
+
+
+## _Trees_ by Hiro Kimura
+
+-   [Akiha Nakashima](/tags/akiha-nakashima/) - alto sax, soprano sax (#2, 4, 5, 8)
+-   [Kohei Ando](/tags/kohei-ando/) - alto sax, soprano sax (#1, 3, 4, 7, 9)
+-   [Mao Sone](/tags/mao-sone/) - trumpet (#1), piano (#6), Fender Rhodes &amp; keys (#9)
+-   [Mamoru Ishida](/tags/mamoru-ishida/) - piano (#2, 4, 5, 8)
+-   [Naoko Tanaka](/tags/naoko-tanaka/) - piano (#1, 3, 7, 9)
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass (#2, 4, 5, 8)
+-   [Yuji Ito](/tags/yuji-ito/) - bass (#1, 3, 6, 7, 9)
+-   [Hiro Kimura](/tags/hiro-kimura/) - drums, percussion (#3)
+
+_Japanese names: 中島朱葉 Nakashima Akiha 安藤康平 Ando Kohei 曽根麻央 Sone Mao 石田衛 Ishida Mamoru 田中菜緒子 Tanaka Naoko 古木佳祐 Furuki Keisuke 伊藤勇司 Ito Yuji 木村紘 Kimura Hiro_
+
+Released in 2021 on KINO Records as KIN-001.

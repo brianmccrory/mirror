@@ -6,34 +6,11 @@ tags = ["Motohiko Ichino", "市野元彦", "Hikaru Toho", "東保光", "Shinichi
 categories = ["albums"]
 draft = false
 slug = "motohiko-ichino-sketches"
-releaseYear = 2007
-releaseLabel = "Ammonite Musique"
-releaseCode = "AM-1001"
 related = ["ryosuke-hashizume-group-wordless", "takumi-seino-motohiko-ichino-frozen-dust", "ryosuke-hashizume-group-acoustic", "ryosuke-hashizume-group-visible-invisible", "rabbitoo-national-anthem-of-unknown", "koichi-sato-melancholy", "rabbitoo-the-torch", "ryosuke-hashizume-group-incomplete-voices", "kaoru-azuma-hitomi-nishiyama-faces"]
 [cover]
   image = "motohiko-ichino-sketches-460.jpeg"
   alt = "Cover art of Sketches by Motohiko Ichino"
   relative = true
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitar"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Hikaru Toho"
-  slug = "hikaru-toho"
-  instrument = "acoustic bass"
-  japanese = "東保光 Toho Hikaru"
-[[credits]]
-  name = "Shinichiro Kamoto"
-  slug = "shinichiro-kamoto"
-  instrument = "drums"
-  japanese = "嘉本信一郎 Kamoto Shinichiro"
-[[credits]]
-  name = "Taiichi Kamimura"
-  slug = "taiichi-kamimura"
-  instrument = "tenor sax (#2, 5, 6, 10)"
-  japanese = "かみむら泰一 Kamimura Taiichi"
 +++
 
 _Sketches_ by Motohiko Ichino is a 2007 jazz album featuring Ichino’s guitar trio and quartet playing his original music. At one hour and 5 minutes, the ten songs lay out an atmospheric and subtle sound, one where Ichino’s tonally rich guitar swings and sways with a warm, vintage electric sound through his songs.
@@ -79,3 +56,15 @@ Motohiko Ichino was born in Kobe. He studied at Berklee College of Music under M
 {{< youtube w_6I6Ec5jmQ >}}
 
 -   [Excerpt from track #1: “Wrapped Up”](/audio/#mix-11)
+
+
+## _Sketches_ by Motohiko Ichino
+
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitar
+-   [Hikaru Toho](/tags/hikaru-toho/) - acoustic bass
+-   [Shinichiro Kamoto](/tags/shinichiro-kamoto/) - drums
+-   [Taiichi Kamimura](/tags/taiichi-kamimura/) - tenor sax (#2, 5, 6, 10)
+
+_Japanese names: 市野元彦 Ichino Motohiko 東保光 Toho Hikaru 嘉本信一郎 Kamoto Shinichiro かみむら泰一 Kamimura Taiichi_
+
+Released in 2007 on Ammonite Musique as AM-1001.

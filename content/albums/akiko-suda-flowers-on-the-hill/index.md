@@ -6,43 +6,10 @@ tags = ["Akiko Suda", "須田晶子", "Yuichi Narita", "成田祐一", "Koji Yas
 categories = ["albums"]
 draft = false
 slug = "akiko-suda-flowers-on-the-hill"
-releaseYear = 2016
-releaseLabel = "Diw The Grace"
-releaseCode = "DW-1008"
 [cover]
   image = "akikosuda-flowersonthehill-460.jpeg"
   alt = "Cover art of Flowers On The Hill by Akiko Suda"
   relative = true
-[[credits]]
-  name = "Akiko Suda"
-  slug = "akiko-suda"
-  instrument = "vocal"
-  japanese = "須田晶子 Suda Akiko"
-[[credits]]
-  name = "Yuichi Narita"
-  slug = "yuichi-narita"
-  instrument = "piano, accordion, chorus"
-  japanese = "成田祐一 Narita Yuichi"
-[[credits]]
-  name = "Koji Yasuda"
-  slug = "koji-yasuda"
-  instrument = "bass"
-  japanese = "安田幸司 Yasuda Koji"
-[[credits]]
-  name = "Yu Kudo"
-  slug = "yu-kudo"
-  instrument = "drums, percussion"
-  japanese = "工藤悠 Kudo Yu"
-[[credits]]
-  name = "Nao Teraya"
-  slug = "nao-teraya"
-  instrument = "guitar"
-  japanese = "寺屋ナオ Teraya Nao"
-[[credits]]
-  name = "Toyomi Kobayashi"
-  slug = "toyomi-kobayashi"
-  instrument = "flute, andes"
-  japanese = "小林豊美 Kobayashi Toyomi"
 +++
 
 _Flowers On The Hill_ is a beautiful album of tender and impeccably delivered music from the vocalist Akiko Suda. The album features lovely original compositions together with jazz, bossa nova, and pop standards performed artistically with creative arrangements.
@@ -67,3 +34,17 @@ The album starts strongly with four catchy and elaborate originals penned by Sud
 {{< youtube iHzqt_13hO0 >}}
 
 -   [Excerpt from track #1: “Flowers On The Hill”](/audio/#mix-1)
+
+
+## _Flowers On The Hill_ by Akiko Suda
+
+-   [Akiko Suda](/tags/akiko-suda/) - vocal
+-   [Yuichi Narita](/tags/yuichi-narita/) - piano, accordion, chorus
+-   [Koji Yasuda](/tags/koji-yasuda/) - bass
+-   [Yu Kudo](/tags/yu-kudo/) - drums, percussion
+-   [Nao Teraya](/tags/nao-teraya/) - guitar
+-   [Toyomi Kobayashi](/tags/toyomi-kobayashi/) - flute, andes
+
+_Japanese names: 須田晶子 Suda Akiko 成田祐一 Narita Yuichi 安田幸司 Yasuda Koji 工藤悠 Kudo Yu 寺屋ナオ Teraya Nao 小林豊美 Kobayashi Toyomi_
+
+Released in 2016 on Diw The Grace as DW-1008.

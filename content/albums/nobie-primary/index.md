@@ -6,63 +6,11 @@ tags = ["Nobie", "ノビー", "Toninho Horta", "Junichiro Ohkuchi", "大口純�
 categories = ["albums"]
 draft = false
 slug = "nobie-primary"
-releaseYear = 2011
-releaseLabel = "Anturtle Tune"
-releaseCode = "ANTX-0721"
 related = ["les-komatis-les-komatis", "nobie-benin-rio-tokyo"]
 [cover]
   image = "nobie-primary-460.jpeg"
   alt = "Cover art of Primary by Nobie"
   relative = true
-[[credits]]
-  name = "Nobie"
-  slug = "nobie"
-  instrument = "vocals, handclaps, microKORG, shaker"
-  japanese = "ノビー Nobie"
-[[credits]]
-  name = "Toninho Horta"
-  slug = "toninho-horta"
-  instrument = "vocals & acoustic guitars (#1, 11)"
-[[credits]]
-  name = "Junichiro Ohkuchi"
-  slug = "junichiro-ohkuchi"
-  instrument = "piano (#8)"
-  japanese = "大口純一郎 Ohkuchi Junichiro"
-[[credits]]
-  name = "Shikou Ito"
-  slug = "shikou-ito"
-  instrument = "piano, keyboards, & handclaps (#2, 3, 7, 10)"
-  japanese = "伊藤志宏 Ito Shikou"
-[[credits]]
-  name = "Kohzo Komori"
-  slug = "kohzo-komori"
-  instrument = "drums & handclaps (#2, 3, 4, 6, 7, 9, 10)"
-  japanese = "小森耕造 Komori Kohzo"
-[[credits]]
-  name = "Satoshi Yoshida"
-  slug = "satoshi-yoshida"
-  instrument = "electric and acoustic guitars (#4, 5, 6, 9, 10)"
-  japanese = "吉田サトシ Yoshida Satoshi"
-[[credits]]
-  name = "Yoshihito “P” Koizumi"
-  slug = "yoshihito-p-koizumi"
-  instrument = "electric bass (#4, 6, 7, 9)"
-  japanese = "小泉P克人 Koizumi Yoshihito “P”"
-[[credits]]
-  name = "Yuri Dazai"
-  slug = "yuri-dazai"
-  instrument = "piano & keyboard (#6, 9)"
-  japanese = "太宰百合 Dazai Yuri"
-[[credits]]
-  name = "Satoshi Ishikawa"
-  slug = "satoshi-ishikawa"
-  instrument = "percussions (#5)"
-  japanese = "石川智 Ishikawa Satoshi"
-[[credits]]
-  name = "Satoshi Sano"
-  slug = "satoshi-sano"
-  instrument = "flute (#9)"
-  japanese = "佐野聡 Sano Satoshi"
 +++
 
 Nobie is a multi-talented artist whose musical and professional paths started at a young age. These included learning the violin and piano which led to voice, percussion, and pharmacy studies, and through many genres like jazz, soul, pop, and Brazilian music.
@@ -119,3 +67,21 @@ Similarly, on _Primary_, Nobie sings in Japanese for five tracks, English for th
 {{< youtube BoSUkTmq9Yg >}}
 
 -   [Excerpt from track #4: “Loop”](/audio/#mix-11)
+
+
+## _Primary_ by Nobie
+
+-   [Nobie](/tags/nobie/) - vocals, handclaps, microKORG, shaker
+-   [Toninho Horta](/tags/toninho-horta/) - vocals &amp; acoustic guitars (#1, 11)
+-   [Junichiro Ohkuchi](/tags/junichiro-ohkuchi/) - piano (#8)
+-   [Shikou Ito](/tags/shikou-ito/) - piano, keyboards, &amp; handclaps (#2, 3, 7, 10)
+-   [Kohzo Komori](/tags/kohzo-komori/) - drums &amp; handclaps (#2, 3, 4, 6, 7, 9, 10)
+-   [Satoshi Yoshida](/tags/satoshi-yoshida/) - electric and acoustic guitars (#4, 5, 6, 9, 10)
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - electric bass (#4, 6, 7, 9)
+-   [Yuri Dazai](/tags/yuri-dazai/) - piano &amp; keyboard (#6, 9)
+-   [Satoshi Ishikawa](/tags/satoshi-ishikawa/) - percussions (#5)
+-   [Satoshi Sano](/tags/satoshi-sano/) - flute (#9)
+
+_Japanese names: ノビー Nobie 大口純一郎 Ohkuchi Junichiro 伊藤志宏 Ito Shikou 小森耕造 Komori Kohzo 吉田サトシ Yoshida Satoshi 小泉P克人 Koizumi Yoshihito “P” 太宰百合 Dazai Yuri 石川智 Ishikawa Satoshi 佐野聡 Sano Satoshi_
+
+Released in 2011 on Anturtle Tune as ANTX-0721.

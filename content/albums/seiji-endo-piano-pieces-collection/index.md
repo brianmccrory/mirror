@@ -6,19 +6,11 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-piano-pieces-collection"
-releaseYear = 2021
-releaseLabel = "Fair Play Records"
-releaseCode = "FPCD-1011"
 related = ["seiji-endo-sakura-meditation", "seiji-endo-tsutaete-ikou", "seiji-endo-circle-for-peace", "seiji-endo-genji-monogatari-volume-1"]
 [cover]
   image = "seiji-endo-piano-pieces-collection-460.jpeg"
   alt = "Cover art of Piano Pieces Collection by Seiji Endo"
   relative = true
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano"
-  japanese = "遠藤征志 Endo Seiji"
 +++
 
 _Piano Pieces Collection_ is a 2021 album from pianist and composer Seiji Endo. For this album, Endo plays 19 solo piano pieces, a similar concept to some previous albums such as his _[Genji Monogatari Volume 1](/seiji-endo-genji-monogatari-volume-1/)_ (2018), which evoked the drama of that classic early Japanese literature through depth and shading. On _Piano Pieces Collection_, Endo’s message is simpler and direct, uplifting and motivational.
@@ -75,3 +67,12 @@ Most of the tracks on this album are given Japanese titles. Roughly translating 
 -   [Apple Music link for this album](https://music.apple.com/us/album/%E9%81%A0%E8%97%A4%E5%BE%81%E5%BF%97%E5%B0%8F%E6%9B%B2%E9%9B%86/1605705185)
 
 -   [Excerpt from track #5: “まことのことば (_True Word_)”](/audio/#mix-12)
+
+
+## _Piano Pieces Collection_ by Seiji Endo
+
+-   [Seiji Endo](/tags/seiji-endo/) - piano
+
+_Japanese names: 遠藤征志 Endo Seiji_
+
+Released in 2021 on Fair Play Records as FPCD-1011.

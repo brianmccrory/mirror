@@ -6,29 +6,11 @@ tags = ["Kanoko Kitajima", "北島佳乃子", "Motoi Kanamori", "金森もとい
 categories = ["albums"]
 draft = false
 slug = "kanoko-kitajima-long-way-to-go"
-releaseYear = 2019
-releaseLabel = "T&A Music"
-releaseCode = "Long Way to Go"
 related = ["fumika-asari-introducin"]
 [cover]
   image = "kanoko-kitajima-long-way-to-go-460.jpeg"
   alt = "Cover art of Long Way to Go by Kanoko Kitajima"
   relative = true
-[[credits]]
-  name = "Kanoko Kitajima"
-  slug = "kanoko-kitajima"
-  instrument = "piano"
-  japanese = "北島佳乃子 Kitajima Kanoko"
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Fukushi Tainaka"
-  slug = "fukushi-tainaka"
-  instrument = "drums"
-  japanese = "田井中福司 Tainaka Fukushi"
 +++
 
 _Long Way to Go_ is the title of pianist Kanoko Kitajima’s debut album, recorded and released in 2019. The sound of her piano trio recalls the swinging, bluesy trios of pianists like Wynton Kelly, Red Garland, and others from the 1950s and 60s Blue Note era. Added to that rich background is a dedicated Japanese interpretation of classic American jazz with an exciting New York City vibe as shown in the album cover.
@@ -129,3 +111,14 @@ A brilliant debut record from a pianist with a naturally sophisticated talent! Y
 {{< youtube RvpIx3-77Ms >}}
 
 -   [Excerpt from track #2: “Long way to go”](/audio/#mix-13)
+
+
+## _Long Way to Go_ by Kanoko Kitajima
+
+-   [Kanoko Kitajima](/tags/kanoko-kitajima/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
+
+_Japanese names: 北島佳乃子 Kitajima Kanoko 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
+
+Released in 2019 on T&amp;A Music as Long Way to Go.

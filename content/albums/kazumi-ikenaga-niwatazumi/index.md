@@ -7,35 +7,11 @@ tags = ["Kazumi Ikenaga", "池長和美", "Christian Vuust", "Jakob Buchanan", "
 categories = ["albums"]
 draft = false
 slug = "kazumi-ikenaga-niwatazumi"
-releaseYear = 2017
-releaseLabel = "Cloud"
-releaseCode = "DDCJ-4019"
 related = ["hitomi-nishiyama-trio-music-in-you", "hitomi-nishiyama-trio-sympathy"]
 [cover]
   image = "kazumiikenaga-niwatazumi-460.jpeg"
   alt = "Cover art of Niwatazumi by Kazumi Ikenaga"
   relative = true
-[[credits]]
-  name = "Kazumi Ikenaga"
-  slug = "kazumi-ikenaga"
-  instrument = "drums"
-  japanese = "池長和美 Ikenaga Kazumi"
-[[credits]]
-  name = "Christian Vuust"
-  slug = "christian-vuust"
-  instrument = "tenor saxophone and clarinet"
-[[credits]]
-  name = "Jakob Buchanan"
-  slug = "jakob-buchanan"
-  instrument = "flugelhorn"
-[[credits]]
-  name = "Soren Dahl Jeppesen"
-  slug = "soren-dahl-jeppesen"
-  instrument = "guitar"
-[[credits]]
-  name = "Klaus Nørgaard"
-  slug = "klaus-nrgaard"
-  instrument = "bass"
 +++
 
 _Niwatazumi_ is a wonderful modern jazz record from drummer Kazumi Ikenaga and Pauseland, a Danish group described as ambient jazz with Scandinavian folk influences. Spacey original compositions and mature musicianship flow in a breathy, open style resembling a modern ECM recording. Relaxing and anthemic, the music on _Niwatazumi_ (translated as a large puddle remaining after heavy rainfall) is at times mesmerizing and at other times gently rocking and grooving. It’s a captivating journey from a drummer’s quintet, focused on ethereal ambiance in a way that constructs scenes and visions drawn out of nature, memories, and the texture of life.
@@ -99,3 +75,16 @@ This is composed of a simple melodic refrain that evokes a philosophical feeling
 {{< youtube OvMzoUtS5NI >}}
 
 -   [Excerpt from track #2: “トゥーサム (_Twosome_)”](/audio/#mix-1)
+
+
+## _Niwatazumi_ by Kazumi Ikenaga
+
+-   [Kazumi Ikenaga](/tags/kazumi-ikenaga/) - drums
+-   [Christian Vuust](/tags/christian-vuust/) - tenor saxophone and clarinet
+-   [Jakob Buchanan](/tags/jakob-buchanan/) - flugelhorn
+-   [Soren Dahl Jeppesen](/tags/soren-dahl-jeppesen/) - guitar
+-   [Klaus Nørgaard](/tags/klaus-nrgaard/) - bass
+
+_Japanese names: 池長和美 Ikenaga Kazumi_
+
+Released in 2017 on Cloud as DDCJ-4019.

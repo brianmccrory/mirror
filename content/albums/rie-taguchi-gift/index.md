@@ -6,48 +6,10 @@ tags = ["Rie Taguchi", "田口理恵", "Seiji Endo", "遠藤征志", "Seiji Tada
 categories = ["albums"]
 draft = false
 slug = "rie-taguchi-gift"
-releaseYear = 2016
-releaseLabel = "Rose Happy Music"
-releaseCode = "RHM002"
 [cover]
   image = "rietaguchi-gift-460.jpeg"
   alt = "Cover art of The Gift by Rie Taguchi"
   relative = true
-[[credits]]
-  name = "Rie Taguchi"
-  slug = "rie-taguchi"
-  instrument = "vocals, piano"
-  japanese = "田口理恵 Taguchi Rie"
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "piano, arrangements"
-  japanese = "遠藤征志 Endo Seiji"
-[[credits]]
-  name = "Seiji Tada"
-  slug = "seiji-tada"
-  instrument = "alto sax, flute"
-  japanese = "多田誠司 Tada Seiji"
-[[credits]]
-  name = "Noriko Satomi"
-  slug = "noriko-satomi"
-  instrument = "violin"
-  japanese = "里見紀子 Satomi Noriko"
-[[credits]]
-  name = "Mitsukuni Tanabe"
-  slug = "mitsukuni-tanabe"
-  instrument = "guitar"
-  japanese = "田辺充邦 Tanabe Mitsukuni"
-[[credits]]
-  name = "Yusuke Nakaishi"
-  slug = "yusuke-nakaishi"
-  instrument = "bass"
-  japanese = "仲石裕介 Nakaishi Yusuke"
-[[credits]]
-  name = "Akira Yamada"
-  slug = "akira-yamada"
-  instrument = "drums"
-  japanese = "山田玲 Yamada Akira"
 +++
 
 Vocalist Rie Taguchi leads a swinging sextet on her first full-length album, _The Gift_.
@@ -72,3 +34,18 @@ The album features delightful arrangements by Seiji Endo along with Taguchi’s 
 {{< youtube id=4oURhuaWyh4 start=2m43s >}}
 
 -   [Excerpt from track #1: “The Lady Is A Tramp”](/audio/#mix-2)
+
+
+## _The Gift_ by Rie Taguchi
+
+-   [Rie Taguchi](/tags/rie-taguchi/) - vocals, piano
+-   [Seiji Endo](/tags/seiji-endo/) - piano, arrangements
+-   [Seiji Tada](/tags/seiji-tada/) - alto sax, flute
+-   [Noriko Satomi](/tags/noriko-satomi/) - violin
+-   [Mitsukuni Tanabe](/tags/mitsukuni-tanabe/) - guitar
+-   [Yusuke Nakaishi](/tags/yusuke-nakaishi/) - bass
+-   [Akira Yamada](/tags/akira-yamada/) - drums
+
+_Japanese names: 田口理恵 Taguchi Rie 遠藤征志 Endo Seiji 多田誠司 Tada Seiji 里見紀子 Satomi Noriko 田辺充邦 Tanabe Mitsukuni 仲石裕介 Nakaishi Yusuke 山田玲 Yamada Akira_
+
+Released in 2016 on Rose Happy Music as RHM002.

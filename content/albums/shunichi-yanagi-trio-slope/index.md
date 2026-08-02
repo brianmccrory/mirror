@@ -6,28 +6,10 @@ tags = ["Shunichi Yanagi", "柳隼一", "Motoi Kanamori", "金森もとい", "Ma
 categories = ["albums"]
 draft = false
 slug = "shunichi-yanagi-trio-slope"
-releaseYear = 2015
-releaseLabel = "GoodNessPlus Records"
-releaseCode = "GNPR-1148"
 [cover]
   image = "shunichi-yanagi-slope-460.jpeg"
   alt = "Cover art of Slope by Shunichi Yanagi Trio"
   relative = true
-[[credits]]
-  name = "Shunichi Yanagi"
-  slug = "shunichi-yanagi"
-  instrument = "piano"
-  japanese = "柳隼一 Yanagi Shunichi"
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Masatsugu Hattori"
-  slug = "masatsugu-hattori"
-  instrument = "drums"
-  japanese = "服部正嗣 Hattori Masatsugu"
 +++
 
 Jazz pianist Shunichi Yanagi’s _Slope_ is his second trio release, a 2015 followup to his 2012 debut _[Bubble Fish](/shunichi-yanagi-trio-bubble-fish/)_. The trio explores fresh territory in the jazz, rock, and light groove moods which vary from track to track. Each member has a clean touch with a sense of drama in creating excitement, somewhat like a movie or video game soundtrack at times.
@@ -56,3 +38,14 @@ Some tunes like the grunge of the opener “I Can’t Fly” and the sad ballad 
 {{< youtube 7GIJFom1jeo >}}
 
 -   [Excerpt from track #1: “I can't fly”](/audio/#mix-8)
+
+
+## _Slope_ by Shunichi Yanagi Trio
+
+-   [Shunichi Yanagi](/tags/shunichi-yanagi/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Masatsugu Hattori](/tags/masatsugu-hattori/) - drums
+
+_Japanese names: 柳隼一 Yanagi Shunichi 金森もとい Kanamori Motoi 服部正嗣 Hattori Masatsugu_
+
+Released in 2015 on GoodNessPlus Records as GNPR-1148.

@@ -7,29 +7,11 @@ tags = ["Ami Fukui", "福井亜実", "Yoshihito “P” Koizumi", "小泉P克人
 categories = ["albums"]
 draft = false
 slug = "ami-fukui-amizm"
-releaseYear = 2013
-releaseLabel = "Peace Bass Records"
-releaseCode = "PBRS-0002"
 related = ["ami-fukui-trio-urban-clutter", "ami-fukui-trio-new-journey", "ami-fukui-trio-nova-manha"]
 [cover]
   image = "amifukui-amizm-460.jpeg"
   alt = "Cover art of Amizm by Ami Fukui"
   relative = true
-[[credits]]
-  name = "Ami Fukui"
-  slug = "ami-fukui"
-  instrument = "piano, Clavinet, Rhodes, CP-80, synth"
-  japanese = "福井亜実 Fukui Ami"
-[[credits]]
-  name = "Yoshihito “P” Koizumi"
-  slug = "yoshihito-p-koizumi"
-  instrument = "bass"
-  japanese = "小泉P克人 Koizumi Yoshihito “P”"
-[[credits]]
-  name = "Yasushi Fukumori"
-  slug = "yasushi-fukumori"
-  instrument = "drums"
-  japanese = "福森康 Fukumori Yasushi"
 +++
 
 Ami Fukui’s second album _Amizm_ advertises “Mellow and Groovy” on the label, and delivers a nice package of funky, Electrik Band-styled jazz. _Amizm_, this version of Fukui’s jazz piano trio format, brings together piano, electric keyboards, slick electric bass, and exciting drumming to imbue a classic and bright fusion jazz sound to Fukui’s modern compositions.
@@ -71,3 +53,14 @@ It’s been about three years since the previous release _Urban Clutter_. The ne
 {{< youtube BObrGkxHSbo >}}
 
 -   [Excerpt from track #4: “Absinthe”](/audio/#mix-3)
+
+
+## _Amizm_ by Ami Fukui
+
+-   [Ami Fukui](/tags/ami-fukui/) - piano, Clavinet, Rhodes, CP-80, synth
+-   [Yoshihito “P” Koizumi](/tags/yoshihito-p-koizumi/) - bass
+-   [Yasushi Fukumori](/tags/yasushi-fukumori/) - drums
+
+_Japanese names: 福井亜実 Fukui Ami 小泉P克人 Koizumi Yoshihito “P” 福森康 Fukumori Yasushi_
+
+Released in 2013 on Peace Bass Records as PBRS-0002.

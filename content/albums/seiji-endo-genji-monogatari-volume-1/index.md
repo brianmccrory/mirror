@@ -6,18 +6,10 @@ tags = ["Seiji Endo", "遠藤征志"]
 categories = ["albums"]
 draft = false
 slug = "seiji-endo-genji-monogatari-volume-1"
-releaseYear = 2018
-releaseLabel = "Nippon Acoustic Records"
-releaseCode = "NARP-8015"
 [cover]
   image = "seijiendo-genji-460.jpeg"
   alt = "Cover art of Genji Monogatari Volume 1 by Seiji Endo"
   relative = true
-[[credits]]
-  name = "Seiji Endo"
-  slug = "seiji-endo"
-  instrument = "solo piano and compositions"
-  japanese = "遠藤征志 Endo Seiji"
 +++
 
 Through a beautiful piano sound with deep reverberations, Seiji Endo’s latest solo album releases atmospheric music as if arising from the dreams and memories of ancient Japan. _Genji Monogatari Volume 1_ features the pianist performing his original compositions with dramatic textures woven from this ancient Japanese epic.
@@ -44,3 +36,12 @@ Set among these musical facets, the listener may also pick up hints to classical
 {{< youtube ZggxZ80F7ec >}}
 
 -   [Excerpt from track #1: “桐壺(桐壺更衣)(きりつぼ・きりつぼのこうい) (_Kiritsubo (Kiritsubo changing clothes) (Kiritsubo/Kiritsubo no Koi)_)”](/audio/#mix-4)
+
+
+## _Genji Monogatari Volume 1_ by Seiji Endo
+
+-   [Seiji Endo](/tags/seiji-endo/) - solo piano and compositions
+
+_Japanese names: 遠藤征志 Endo Seiji_
+
+Released in 2018 on Nippon Acoustic Records as NARP-8015.

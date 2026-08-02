@@ -6,24 +6,11 @@ tags = ["Wataru Hamasaki", "浜崎航", "Akane Matsumoto", "松本茜"]
 categories = ["albums"]
 draft = false
 slug = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues"
-releaseYear = 2025
-releaseLabel = "Concept Record"
-releaseCode = "CR-21"
 related = ["hideaki-hori-wataru-hamasaki-encounter", "akane-matsumoto-playing-new-york", "hamasaki-matsumoto-bigcatch", "akane-matsumoto-memories-of-you", "akane-matsumoto-night-and-day", "akane-matsumoto-oh-lady-be-good", "akane-matsumoto-little-girl-blue", "akane-matsumoto-nanami-haruta-for", "akane-matsumoto-ayumi-koketsu-trust"]
 [cover]
   image = "wataru-hamasaki-akane-matsumoto-listen-to-my-blues-460.jpeg"
   alt = "Cover art of Listen to My Blues by Wataru Hamasaki & Akane Matsumoto"
   relative = true
-[[credits]]
-  name = "Wataru Hamasaki"
-  slug = "wataru-hamasaki"
-  instrument = "saxophone"
-  japanese = "浜崎航 Hamasaki Wataru"
-[[credits]]
-  name = "Akane Matsumoto"
-  slug = "akane-matsumoto"
-  instrument = "piano"
-  japanese = "松本茜 Matsumoto Akane"
 +++
 
 _Listen to My Blues_ is a 2025 jazz release from saxophonist Wataru Hamasaki and pianist Akane Matsumoto. The two musicians are known for performing together many times at live events and recording sessions, including as co-leaders of their Big Catch Quartet, a classy orthodox jazz unit with a soulful, big jazz sound. Additionally, each musician is popular individually as a leader of their own groups, like with Hamasaki’s Encounter quartet,  Matsumoto’s jazz piano trios, and as members of many other bands and combinations.
@@ -106,3 +93,13 @@ An explosive pianist, a roaring horn. The mad rush of movement and rare presence
 {{< youtube Tt8U1x0SZR4 >}}
 
 -   [Excerpt from track #1: “Listen to my Blues”](/audio/#mix-15)
+
+
+## _Listen to My Blues_ by Wataru Hamasaki &amp; Akane Matsumoto
+
+-   [Wataru Hamasaki](/tags/wataru-hamasaki/) - saxophone
+-   [Akane Matsumoto](/tags/akane-matsumoto/) - piano
+
+_Japanese names: 浜崎航 Hamasaki Wataru 松本茜 Matsumoto Akane_
+
+Released in 2025 on Concept Record as CR-21.

@@ -6,33 +6,10 @@ tags = ["Seiji Harakawa", "原川誠司", "Hiroyuki Takubo", "田窪寛之", "Mo
 categories = ["albums"]
 draft = false
 slug = "seiji-harakawa-quartet-skipping-down"
-releaseYear = 2020
-releaseLabel = "T & A Music"
-releaseCode = "SEI-001"
 [cover]
   image = "seiji-harakawa-skipping-down-460.jpeg"
   alt = "Cover art of Skipping Down the Street by Seiji Harakawa Quartet"
   relative = true
-[[credits]]
-  name = "Seiji Harakawa"
-  slug = "seiji-harakawa"
-  instrument = "saxophone"
-  japanese = "原川誠司 Harakawa Seiji"
-[[credits]]
-  name = "Hiroyuki Takubo"
-  slug = "hiroyuki-takubo"
-  instrument = "piano"
-  japanese = "田窪寛之 Takubo Hiroyuki"
-[[credits]]
-  name = "Motoi Kanamori"
-  slug = "motoi-kanamori"
-  instrument = "bass"
-  japanese = "金森もとい Kanamori Motoi"
-[[credits]]
-  name = "Fukushi Tainaka"
-  slug = "fukushi-tainaka"
-  instrument = "drums"
-  japanese = "田井中福司 Tainaka Fukushi"
 +++
 
 Phrases like good honest work and good clean fun convey the simple and satisfying rewards that result from high levels of skill, effort, and enjoyment. Good honest music is a simple but to-the-point description of saxophonist Seiji Harakawa’s debut album _Skipping Down the Street_, an excellent showcase for the agile alto sax leader and rhythm section to project their skill, effort, and enjoyment of jazz.
@@ -65,3 +42,15 @@ One of the best things I can say about the music on _Skipping Down the Street_ i
 {{< youtube 9i1_hPTl1kI >}}
 
 -   [Excerpt from track #5: “I've Never Been In Love Before”](/audio/#mix-9)
+
+
+## _Skipping Down the Street_ by Seiji Harakawa Quartet
+
+-   [Seiji Harakawa](/tags/seiji-harakawa/) - saxophone
+-   [Hiroyuki Takubo](/tags/hiroyuki-takubo/) - piano
+-   [Motoi Kanamori](/tags/motoi-kanamori/) - bass
+-   [Fukushi Tainaka](/tags/fukushi-tainaka/) - drums
+
+_Japanese names: 原川誠司 Harakawa Seiji 田窪寛之 Takubo Hiroyuki 金森もとい Kanamori Motoi 田井中福司 Tainaka Fukushi_
+
+Released in 2020 on T &amp; A Music as SEI-001.

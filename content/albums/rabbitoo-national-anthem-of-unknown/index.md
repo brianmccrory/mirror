@@ -6,38 +6,10 @@ tags = ["Motohiko Ichino", "市野元彦", "Daisuke Fujiwara", "藤原大輔", "
 categories = ["albums"]
 draft = false
 slug = "rabbitoo-national-anthem-of-unknown"
-releaseYear = 2014
-releaseLabel = "SONG X JAZZ"
-releaseCode = "SONG X 019"
 [cover]
   image = "rabbitoo-national-460.jpeg"
   alt = "Cover art of National Anthem of Unknown Country by Rabbitoo"
   relative = true
-[[credits]]
-  name = "Motohiko Ichino"
-  slug = "motohiko-ichino"
-  instrument = "guitars, keyboards"
-  japanese = "市野元彦 Ichino Motohiko"
-[[credits]]
-  name = "Daisuke Fujiwara"
-  slug = "daisuke-fujiwara"
-  instrument = "tenor saxophone, electronics"
-  japanese = "藤原大輔 Fujiwara Daisuke"
-[[credits]]
-  name = "Koichi Sato"
-  slug = "koichi-sato"
-  instrument = "Rhodes, Minimoog, Nord, piano"
-  japanese = "佐藤浩一 Sato Koichi"
-[[credits]]
-  name = "Hiroki Chiba"
-  slug = "hiroki-chiba"
-  instrument = "contrabass, electric bass, electronics"
-  japanese = "千葉広樹 Chiba Hiroki"
-[[credits]]
-  name = "Noritaka Tanaka"
-  slug = "noritaka-tanaka"
-  instrument = "drums"
-  japanese = "田中徳崇 Tanaka Noritaka"
 +++
 
 The textured sound of Rabbitoo makes a lasting first impression on their debut album _National Anthem of Unknown Country_ from 2014, a fusion of jazz, rock, and electronica influences.
@@ -72,3 +44,16 @@ Definitely not following the typical jazz formula, this beat-centered music with
 {{< youtube EAQOixCBy-o >}}
 
 -   [Excerpt from track #6: “subliminal sublimation”](/audio/#mix-5)
+
+
+## _National Anthem of Unknown Country_ by Rabbitoo
+
+-   [Motohiko Ichino](/tags/motohiko-ichino/) - guitars, keyboards
+-   [Daisuke Fujiwara](/tags/daisuke-fujiwara/) - tenor saxophone, electronics
+-   [Koichi Sato](/tags/koichi-sato/) - Rhodes, Minimoog, Nord, piano
+-   [Hiroki Chiba](/tags/hiroki-chiba/) - contrabass, electric bass, electronics
+-   [Noritaka Tanaka](/tags/noritaka-tanaka/) - drums
+
+_Japanese names: 市野元彦 Ichino Motohiko 藤原大輔 Fujiwara Daisuke 佐藤浩一 Sato Koichi 千葉広樹 Chiba Hiroki 田中徳崇 Tanaka Noritaka_
+
+Released in 2014 on SONG X JAZZ as SONG X 019.

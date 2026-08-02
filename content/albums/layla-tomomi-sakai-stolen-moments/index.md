@@ -6,49 +6,11 @@ tags = ["Layla Tomomi Sakai", "坂井レイラ知美", "Yuichiro Hiraoka", "平�
 categories = ["albums"]
 draft = false
 slug = "layla-tomomi-sakai-stolen-moments"
-releaseYear = 2019
-releaseLabel = "Laydrunker Records"
-releaseCode = "Layla-003"
 related = ["layla-tomomi-sakai-whisper-not", "layla-tomomi-sakai-island"]
 [cover]
   image = "layla-tomomi-sakai-stolen-moments-460.jpeg"
   alt = "Cover art of Stolen Moments by Layla Tomomi Sakai"
   relative = true
-[[credits]]
-  name = "Layla Tomomi Sakai"
-  slug = "layla-tomomi-sakai"
-  instrument = "vocal"
-  japanese = "坂井レイラ知美 Sakai Layla Tomomi"
-[[credits]]
-  name = "Yuichiro Hiraoka"
-  slug = "yuichiro-hiraoka"
-  instrument = "guitar"
-  japanese = "平岡遊一郎 Hiraoka Yuichiro"
-[[credits]]
-  name = "Ryuichi Takase"
-  slug = "ryuichi-takase"
-  instrument = "trumpet"
-  japanese = "高瀬龍一 Takase Ryuichi"
-[[credits]]
-  name = "Hideaki Nakaji"
-  slug = "hideaki-nakaji"
-  instrument = "trombone"
-  japanese = "中路英明 Nakaji Hideaki"
-[[credits]]
-  name = "Heitetsu Rin"
-  slug = "heitetsu-rin"
-  instrument = "piano"
-  japanese = "リンヘイテツ Rin Heitetsu"
-[[credits]]
-  name = "Keisuke Furuki"
-  slug = "keisuke-furuki"
-  instrument = "bass"
-  japanese = "古木佳祐 Furuki Keisuke"
-[[credits]]
-  name = "Ryo Saito"
-  slug = "ryo-saito"
-  instrument = "drums"
-  japanese = "斉藤良 Saito Ryo"
 +++
 
 Singer Layla Tomomi Sakai’s _Stolen Moments_ is a 27-minute album from 2019, a follow-up to her two previous releases from 2016 and 2018 with a consistently pleasing and familiar core sound. That sound of Sakai, introduced on her debut album _[Whisper Not](/layla-tomomi-sakai-whisper-not/)_, is based on her intimate vocal/guitar/trumpet trio with Yuichiro Hiraoka on guitar and Ryuichi Takase on trumpet. Her second album _[The Island](/layla-tomomi-sakai-island/)_ expanded the trio with more accompanying players, a pattern which continues here on _Stolen Moments_ as her guest musicians create forms from duos to sextets on the different songs.
@@ -83,3 +45,18 @@ The full band sound is balanced with small duo and trio moments such as on the b
 {{< youtube id=HmqV-9IIqdo start=2304 >}}
 
 -   [Excerpt from track #1: “Stolen Moments”](/audio/#mix-13)
+
+
+## _Stolen Moments_ by Layla Tomomi Sakai
+
+-   [Layla Tomomi Sakai](/tags/layla-tomomi-sakai/) - vocal
+-   [Yuichiro Hiraoka](/tags/yuichiro-hiraoka/) - guitar
+-   [Ryuichi Takase](/tags/ryuichi-takase/) - trumpet
+-   [Hideaki Nakaji](/tags/hideaki-nakaji/) - trombone
+-   [Heitetsu Rin](/tags/heitetsu-rin/) - piano
+-   [Keisuke Furuki](/tags/keisuke-furuki/) - bass
+-   [Ryo Saito](/tags/ryo-saito/) - drums
+
+_Japanese names: 坂井レイラ知美 Sakai Layla Tomomi 平岡遊一郎 Hiraoka Yuichiro 高瀬龍一 Takase Ryuichi 中路英明 Nakaji Hideaki リンヘイテツ Rin Heitetsu 古木佳祐 Furuki Keisuke 斉藤良 Saito Ryo_
+
+Released in 2019 on Laydrunker Records as Layla-003.

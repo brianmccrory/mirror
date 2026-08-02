@@ -6,33 +6,10 @@ tags = ["Toshihiko Inoue", "井上淑彦", "Nobumasa Tanaka", "田中信正", "B
 categories = ["albums"]
 draft = false
 slug = "fuse-live-fuse"
-releaseYear = 2007
-releaseLabel = "Ewe Records"
-releaseCode = "EWCD-0119"
 [cover]
   image = "fuse-live-460.jpeg"
   alt = "Cover art of Live Fuse by Fuse"
   relative = true
-[[credits]]
-  name = "Toshihiko Inoue"
-  slug = "toshihiko-inoue"
-  instrument = "soprano sax, tenor sax"
-  japanese = "井上淑彦 Inoue Toshihiko"
-[[credits]]
-  name = "Nobumasa Tanaka"
-  slug = "nobumasa-tanaka"
-  instrument = "piano"
-  japanese = "田中信正 Tanaka Nobumasa"
-[[credits]]
-  name = "Benisuke Sakai"
-  slug = "benisuke-sakai"
-  instrument = "bass"
-  japanese = "坂井紅介 Sakai Benisuke"
-[[credits]]
-  name = "Ken Tsunoda"
-  slug = "ken-tsunoda"
-  instrument = "drums"
-  japanese = "角田健 Tsunoda Ken"
 +++
 
 _Live Fuse_ is a 2007 live album from Fuse, a modern jazz quartet headed by Toshihiko Inoue on sax, with Nobumasa Tanaka on piano, Benisuki Sakai on bass, and Tsunoken on drums.
@@ -72,3 +49,15 @@ This album is the third and final Fuse release with the original members. Sadly,
 ## Links
 
 -   [Fuse jazz](http://fusejazz.com/)
+
+
+## _Live Fuse_ by Fuse
+
+-   [Toshihiko Inoue](/tags/toshihiko-inoue/) - soprano sax, tenor sax
+-   [Nobumasa Tanaka](/tags/nobumasa-tanaka/) - piano
+-   [Benisuke Sakai](/tags/benisuke-sakai/) - bass
+-   [Ken Tsunoda](/tags/ken-tsunoda/) - drums
+
+_Japanese names: 井上淑彦 Inoue Toshihiko 田中信正 Tanaka Nobumasa 坂井紅介 Sakai Benisuke 角田健 Tsunoda Ken_
+
+Released in 2007 on Ewe Records as EWCD-0119.

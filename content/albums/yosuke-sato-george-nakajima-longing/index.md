@@ -6,29 +6,11 @@ tags = ["Yosuke Sato", "佐藤洋祐", "George Nakajima", "中嶋錠二", "Ema",
 categories = ["albums"]
 draft = false
 slug = "yosuke-sato-george-nakajima-longing"
-releaseYear = 2023
-releaseLabel = "Pochizou"
-releaseCode = "POCH-2308"
 related = ["shinpei-ruike-george-nakajima-n40", "george-nakajima-trio-first-touch", "shinpei-ruike-george-nakajima-duo"]
 [cover]
   image = "yosuke-sato-george-nakajima-longing-460.jpeg"
   alt = "Cover art of Longing by Yosuke Sato & George Nakajima"
   relative = true
-[[credits]]
-  name = "Yosuke Sato"
-  slug = "yosuke-sato"
-  instrument = "sax"
-  japanese = "佐藤洋祐 Sato Yosuke"
-[[credits]]
-  name = "George Nakajima"
-  slug = "george-nakajima"
-  instrument = "piano"
-  japanese = "中嶋錠二 Nakajima George"
-[[credits]]
-  name = "Ema"
-  slug = "ema"
-  instrument = "vocals (#7, 8)"
-  japanese = "エマ Ema"
 +++
 
 _Longing_ is the title of a 2023 jazz duo album from saxophonist Yosuke Sato and pianist George Nakajima. This is an eight-song, forty-five-minute album of familiar jazz standards and two Japanese pop songs. Of the eight songs, the first six are played by the elegant hand-in-glove duo of saxophone and piano. To wrap up the album, the duo becomes a trio as vocalist Ema joins in for the last two songs, singing beautifully in English and Japanese. The album’s title _Longing_ may lean into some unnamed persistent desire portrayed in their playing, the long ago brought to life through their selection of timeless songs.
@@ -108,3 +90,14 @@ From an early age, Ema has appeared in musicals and dramas, learning the joy and
 {{< youtube vB3exIDNqeA >}}
 
 -   [Excerpt from track #4: “Stablemates”](/audio/#mix-13)
+
+
+## _Longing_ by Yosuke Sato &amp; George Nakajima
+
+-   [Yosuke Sato](/tags/yosuke-sato/) - sax
+-   [George Nakajima](/tags/george-nakajima/) - piano
+-   [Ema](/tags/ema/) - vocals (#7, 8)
+
+_Japanese names: 佐藤洋祐 Sato Yosuke 中嶋錠二 Nakajima George エマ Ema_
+
+Released in 2023 on Pochizou as POCH-2308.

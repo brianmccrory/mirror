@@ -119,7 +119,6 @@ Introducing modern-day jazz of Japan through albums, musicians, and clubs! The l
   url = "https://buttondown.com/jazzofjapan"
   weight = 8
 
-
 # Redirect via _redirects file (server-side, http, supported by cloudflare), not hugo redirects (client-side, html)
 [mediaTypes]
   [mediaTypes.'text/redirects']
@@ -134,3 +133,6 @@ Introducing modern-day jazz of Japan through albums, musicians, and clubs! The l
 
 [outputs]
   home = ['html', 'redirects', 'rss', 'json']
+
+[services.rss]
+  limit = 15

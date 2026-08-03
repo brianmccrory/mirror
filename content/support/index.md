@@ -2,13 +2,14 @@
 title = "Support"
 author = ["Brian McCrory"]
 description = "How to support Jazz of Japan"
-publishDate = 2018-01-25
-lastmod = 2027-07-27
+publishDate = 2018-01-25T00:04:01Z
+lastmod = 2026-07-27
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "support"
 issue = 1005
+hiddenInHomeList = true
 +++
 
 ## Like Jazz of Japan? Support this project!

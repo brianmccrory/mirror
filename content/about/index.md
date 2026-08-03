@@ -2,13 +2,14 @@
 title = "About Jazz of Japan"
 author = ["Brian McCrory"]
 description = "Introducing modern-day jazz of Japan through albums, musicians, and clubs"
-publishDate = 2018-01-25
-lastmod = 2027-07-27
+publishDate = 2018-01-25T00:00:01Z
+lastmod = 2026-07-27
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "about"
 issue = 1001
+hiddenInHomeList = true
 +++
 
 {{< figure src="intro-jazz-1024.jpeg" alt="Intro to Jazz of Japan" >}}

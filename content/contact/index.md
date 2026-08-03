@@ -1,13 +1,14 @@
 +++
 title = "Contact"
 author = ["Brian McCrory"]
-publishDate = 2026-08-03
+publishDate = 2018-01-25T00:05:01Z
 lastmod = 2026-08-03
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "contact"
 issue = 1006
+hiddenInHomeList = true
 +++
 
 If you have feedback, questions, or just want to say hello, I'd love to hear from you.

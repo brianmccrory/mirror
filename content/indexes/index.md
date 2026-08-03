@@ -2,13 +2,14 @@
 title = "Indexes"
 author = ["Brian McCrory"]
 description = "Albums, musicians, and articles discussed on Jazz of Japan"
-publishDate = 2018-01-25
+publishDate = 2018-01-25T00:03:01Z
 lastmod = 2026-08-01
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "indexes"
 issue = 1002
+hiddenInHomeList = true
 +++
 
 <a href="#albums">Albums (301)</a> | <a href="#musicians">Musicians (573)</a> | <a href="#articles">Articles (374)</a>

@@ -2,13 +2,14 @@
 title = "Audio"
 author = ["Brian McCrory"]
 description = "Audio compilations of excerpts of songs selected from albums discussed on Jazz of Japan"
-publishDate = 2018-01-25
+publishDate = 2018-01-25T00:01:01Z
 lastmod = 2026-08-01
 tags = [""]
 categories = ["resources"]
 draft = false
 slug = "audio"
 issue = 1003
+hiddenInHomeList = true
 +++
 
 <a id="mix-16"></a>

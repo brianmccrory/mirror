@@ -32,7 +32,8 @@
 {{- if site.Params.ShowAllPagesInArchive }}
 {{- $pages = site.RegularPages }}
 {{- end }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+
+{{- $pages = where $pages "Params.hiddenInArchivesList" "!=" "true"  }}
 
 {{- range $pages.GroupByPublishDate "2006" }}
 {{- if ne .Key "0001" }}
@@ -57,7 +58,7 @@
       {{- if eq .Kind "page" }}
       <div class="archive-entry">
         <h3 class="archive-entry-title entry-hint-parent">
-          {{- .Title | markdownify }}
+          {{- .Title | markdownify }}{{ if ne .Type "page" }} <span class="archive-meta"><em>{{ .Type }}</em></span>{{ end }}
           {{- if .Draft }}
           <span class="entry-hint" title="Draft">
             <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">

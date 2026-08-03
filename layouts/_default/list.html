@@ -59,10 +59,10 @@
 
 {{- $pagerSize := site.Params.pagination.pagerSize }}
 {{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- end }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- $pagerSize = site.Params.pagination.pagerSizeHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- end }}
 
 {{- $paginator := .Paginate $pages $pagerSize }}
 

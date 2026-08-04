@@ -1,5 +1,5 @@
 <hr>
-{{- if and (ne .Type "page") (or .Params.related (.Site.RegularPages.Related .)) }}
+{{- if and (eq .Type "albums") (or .Params.related (.Site.RegularPages.Related .)) }}
 <div class="post-content md-content"><p>
 <h3>Related:</h3>
 <ul>

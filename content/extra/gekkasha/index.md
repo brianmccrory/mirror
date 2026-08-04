@@ -7,15 +7,17 @@ tags = [""]
 categories = ["extra"]
 draft = false
 slug = "gekkasha"
-hiddenInHomeList = true
-hiddenInArchivesList = true
-hiddenInRss = true
-searchHidden = true
 clubName = "Gekkasha"
 clubUrl = "http://gekkasha.modalbeats.com/"
 clubCity = "Tokyo"
 clubStation1 = "Jimbocho"
 clubMap = "https://maps.app.goo.gl/YS5BR6u8Jifj15J56"
+hiddenInHomeList = true
+hiddenInArchivesList = true
+hiddenInRss = true
+searchHidden = true
+[build]
+  list = false
 [cover]
   image = "L1270997-1200.jpeg"
   caption = "Gekkasha exterior"

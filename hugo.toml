@@ -2,6 +2,7 @@ baseURL = 'https://www.jazzofjapan.com/'
 locale = 'en-us'
 title = 'Jazz of Japan | Brian McCrory'
 theme = "PaperMod"
+enableRobotsTXT = true
 # disableAliases = true # not currently setting aliases (but see redirects below)
 
 [taxonomies]
